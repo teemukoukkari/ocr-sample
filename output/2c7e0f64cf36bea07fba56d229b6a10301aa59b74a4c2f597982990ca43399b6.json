@@ -1,0 +1,976 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>Openbaar</h2>",
+      "page": 112,
+      "polygon": [
+        [
+          90.35400390625001,
+          39.0576171875
+        ],
+        [
+          140.90576171875,
+          39.0576171875
+        ],
+        [
+          140.90576171875,
+          51.9278564453125
+        ],
+        [
+          90.35400390625001,
+          51.9278564453125
+        ]
+      ],
+      "bbox": [
+        90.35400390625001,
+        39.0576171875,
+        140.90576171875,
+        51.9278564453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Nederlandse Mededingingsautoriteit</b></h2>",
+      "page": 112,
+      "polygon": [
+        [
+          90.06347656250001,
+          54.6806640625
+        ],
+        [
+          274.7532043457031,
+          54.6806640625
+        ],
+        [
+          274.7532043457031,
+          66.741455078125
+        ],
+        [
+          90.06347656250001,
+          66.741455078125
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        54.6806640625,
+        274.7532043457031,
+        66.741455078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/2",
+      "block_type": "Form",
+      "html": "<p></p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.64453125000001,
+          101.9609375
+        ],
+        [
+          103.42773437500001,
+          101.9609375
+        ],
+        [
+          103.42773437500001,
+          110.6785888671875
+        ],
+        [
+          90.64453125000001,
+          110.6785888671875
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        101.9609375,
+        103.42773437500001,
+        110.6785888671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Datum Uw kenmerk Ons kenmerk Bijlage(n)</i></p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.71990203857422,
+          236.8125
+        ],
+        [
+          467.27252197265625,
+          236.8125
+        ],
+        [
+          467.27252197265625,
+          249.96875
+        ],
+        [
+          90.71990203857422,
+          249.96875
+        ]
+      ],
+      "bbox": [
+        90.71990203857422,
+        236.8125,
+        467.27252197265625,
+        249.96875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">28 februari 2003 3404/8.b81</p>",
+      "page": 112,
+      "polygon": [
+        [
+          88.32031250000001,
+          250.3798828125
+        ],
+        [
+          376.56494140625,
+          250.3798828125
+        ],
+        [
+          376.56494140625,
+          261.2239990234375
+        ],
+        [
+          88.32031250000001,
+          261.2239990234375
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        250.3798828125,
+        376.56494140625,
+        261.2239990234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Onderwerp</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.64453125000001,
+          290.259765625
+        ],
+        [
+          127.15025329589844,
+          290.259765625
+        ],
+        [
+          127.15025329589844,
+          298.482421875
+        ],
+        [
+          90.64453125000001,
+          298.482421875
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        290.259765625,
+        127.15025329589844,
+        298.482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.72075653076172,
+          654.7037200927734
+        ],
+        [
+          93.48949432373047,
+          654.7037200927734
+        ],
+        [
+          93.48949432373047,
+          664.6632232666016
+        ],
+        [
+          90.72075653076172,
+          664.6632232666016
+        ]
+      ],
+      "bbox": [
+        90.72075653076172,
+        654.7037200927734,
+        93.48949432373047,
+        664.6632232666016
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Asfalt Productie Hoogblokland B.V.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          88.61083984375001,
+          302.59375
+        ],
+        [
+          236.97552490234375,
+          302.59375
+        ],
+        [
+          236.97552490234375,
+          314.02301025390625
+        ],
+        [
+          88.61083984375001,
+          314.02301025390625
+        ]
+      ],
+      "bbox": [
+        88.61083984375001,
+        302.59375,
+        236.97552490234375,
+        314.02301025390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Geachte heren …………………,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          89.19189453125001,
+          347.4072265625
+        ],
+        [
+          208.30810546875003,
+          347.4072265625
+        ],
+        [
+          208.30810546875003,
+          358.66363525390625
+        ],
+        [
+          89.19189453125001,
+          358.66363525390625
+        ]
+      ],
+      "bbox": [
+        89.19189453125001,
+        347.4072265625,
+        208.30810546875003,
+        358.66363525390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">De afgelopen jaren heeft de NMa, naar aanleiding van de door verschillende samenwerkingsverbanden ingediende ontheffingsaanvragen, onderzoek verricht naar diverse samenwerkingsverbanden in de asfaltsector. Daarbij is naar voren gekomen dat uw samenwerkingsverband, te weten Asfalt Productie Hoogblokland B.V. (hierna: APH), onder de reikwijdte van het kartelverbod viel. Eind december 2001 heeft de NMa kenbaar gemaakt, dat zij voornemens was om verschillende ontheffingsaanvragen af te wijzen. De reden betrof het feit dat deze ontheffingsaanvragen onder de reikwijdte van het kartelverbod vielen, zoals vervat in artikel 6, eerste lid, van de Mededingingswet (hierna: Mw). Daarnaast voldeden de aanvragen niet aan de cumulatieve ontheffingsvoorwaarden van artikel 17 Mw. De verschillende samenwerkingsverbanden werden in de gelegenheid gesteld om concreet aan te geven hoe zij voornemens waren om het samenwerkingsverband op een dusdanige manier te wijzigen, dat deze niet langer onder de reikwijdte van het kartelverbod viel.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          88.32031250000001,
+          378.7041320800781
+        ],
+        [
+          496.33251953125,
+          378.7041320800781
+        ],
+        [
+          496.33251953125,
+          553.7958984375
+        ],
+        [
+          88.32031250000001,
+          553.7958984375
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        378.7041320800781,
+        496.33251953125,
+        553.7958984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In het voorjaar van 2002 bleek dat een zestal bouwondernemingen de mededingingsproblemen die bij de diverse samenwerkingsverbanden aan de orde waren, gezamenlijk wilden oplossen. Daarbij hebben Koninklijke BAM NBM N.V.<sup>1</sup> (hierna: BAM-NBM) en Koninklijke Volker Wessels</p>",
+      "page": 112,
+      "polygon": [
+        [
+          89.48242187500001,
+          572.296875
+        ],
+        [
+          485.019287109375,
+          572.296875
+        ],
+        [
+          485.019287109375,
+          613.6636199951172
+        ],
+        [
+          89.48242187500001,
+          613.6636199951172
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        572.296875,
+        485.019287109375,
+        613.6636199951172
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1  Aandeelhouder in APH is Verlaat Wegenbouw B.V. te Hardinxveld Giessendam. Verlaat Wegenbouw B.V. is een dochteronderneming van Koninklijke BAM NBM N.V. Zie tevens besluit van de d-g NMa in zaak 3074, BAM-HBG, d.d. 24 oktober 2002. Koninklijke BAM NBM N.V. heeft eind 2002 middels deze transactie zeggenschap over Hollandsche Beton Groep N.V. verkregen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.71981048583984,
+          670.146484375
+        ],
+        [
+          496.3452453613281,
+          670.146484375
+        ],
+        [
+          496.3452453613281,
+          721.3480529785156
+        ],
+        [
+          90.71981048583984,
+          721.3480529785156
+        ]
+      ],
+      "bbox": [
+        90.71981048583984,
+        670.146484375,
+        496.3452453613281,
+        721.3480529785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\"><i>Postbus 16326 Wijnhaven 24 T: [070] 330 33 30 E-mail: info@nma-org.nl</i> <i>2500 BH Den Haag 2511 GA Den Haag F: [070] 330 33 70 Website: www.nma-org.nl</i></p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.64453125000001,
+          747.8505859375
+        ],
+        [
+          525.329345703125,
+          747.8505859375
+        ],
+        [
+          525.329345703125,
+          771.6962890625
+        ],
+        [
+          90.64453125000001,
+          771.6962890625
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        747.8505859375,
+        525.329345703125,
+        771.6962890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Openbaar</p>",
+      "page": 115,
+      "polygon": [
+        [
+          90.06347656250001,
+          38.646484375
+        ],
+        [
+          142.1315155029297,
+          38.646484375
+        ],
+        [
+          142.1315155029297,
+          51.9278564453125
+        ],
+        [
+          90.06347656250001,
+          51.9278564453125
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        38.646484375,
+        142.1315155029297,
+        51.9278564453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Stevin N.V. (hierna: KVWS)<sup>2</sup> , te weten de moederondernemingen van de aandeelhouders in APH, te kennen gegeven voorstellen te willen doen om de door de NMa geconstateerde mededingingsrechtelijke problemen op te lossen, zodat op basis van deze voorstellen artikel 6, eerste lid, Mw niet meer op de onderhavige samenwerkingsovereenkomst van toepassing is. In overleg met de NMa hebben zij hiertoe voorstellen ontwikkeld en uitgewerkt. De definitieve versie hiervan hebben zij overlegd bij brief van 10 januari 2003.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          115.5283203125
+        ],
+        [
+          494.02166748046875,
+          115.5283203125
+        ],
+        [
+          494.02166748046875,
+          202.66351318359375
+        ],
+        [
+          89.48242187500001,
+          202.66351318359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        115.5283203125,
+        494.02166748046875,
+        202.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Het definitieve voorstel houdt in dat Verlaat Wegenbouw, een dochteronderneming van BAM-NBM, uit APH treedt. De implementatie hiervan heeft op 1 januari 2003 plaatsgevonden, hetgeen is neergelegd in een door alle aandeelhouders op 10 januari 2003 ondertekende overeenkomst. In APH wordt na de aanpassing van de oorspronkelijke samenwerkingsovereenkomst alleen nog geparticipeerd door een dochteronderneming van KVWS.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          222.01171875
+        ],
+        [
+          493.202392578125,
+          222.01171875
+        ],
+        [
+          493.202392578125,
+          292.66351318359375
+        ],
+        [
+          89.48242187500001,
+          292.66351318359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        222.01171875,
+        493.202392578125,
+        292.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aangezien er niet langer sprake is van een samenwerkingsverband, valt APH niet langer onder de reikwijdte van het kartelverbod zoals vervat in artikel 6, eerste lid, Mw.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          311.2275390625
+        ],
+        [
+          492.00653076171875,
+          311.2275390625
+        ],
+        [
+          492.00653076171875,
+          337.66351318359375
+        ],
+        [
+          89.48242187500001,
+          337.66351318359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        311.2275390625,
+        492.00653076171875,
+        337.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">De d-g NMa merkt op dat bovenstaande conclusie van toepassing is op de huidige juridische en economische situatie van APH.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          356.4521484375
+        ],
+        [
+          487.790283203125,
+          356.4521484375
+        ],
+        [
+          487.790283203125,
+          382.66351318359375
+        ],
+        [
+          89.48242187500001,
+          382.66351318359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        356.4521484375,
+        487.790283203125,
+        382.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gelet op het bovenstaande wordt geconcludeerd dat APH, met inachtneming van de wijzigingen zoals die door de aandeelhouders in de overeenkomst d.d. 10 januari 2003 zijn vastgelegd, niet in strijd is met het verbod van artikel 6, eerste lid, Mw.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          400.8544921875
+        ],
+        [
+          493.89648437500006,
+          400.8544921875
+        ],
+        [
+          493.89648437500006,
+          442.66351318359375
+        ],
+        [
+          89.48242187500001,
+          442.66351318359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        400.8544921875,
+        493.89648437500006,
+        442.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hoogachtend,</p>",
+      "page": 115,
+      "polygon": [
+        [
+          90.06347656250001,
+          462.5244140625
+        ],
+        [
+          149.8513641357422,
+          462.5244140625
+        ],
+        [
+          149.8513641357422,
+          472.66351318359375
+        ],
+        [
+          90.06347656250001,
+          472.66351318359375
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        462.5244140625,
+        149.8513641357422,
+        472.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">26 februari 2003</p>",
+      "page": 115,
+      "polygon": [
+        [
+          90.06347656250001,
+          492.1259765625
+        ],
+        [
+          159.90667724609375,
+          492.1259765625
+        ],
+        [
+          159.90667724609375,
+          502.66351318359375
+        ],
+        [
+          90.06347656250001,
+          502.66351318359375
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        492.1259765625,
+        159.90667724609375,
+        502.66351318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wg. drs. R.J.P. Jansen</p>",
+      "page": 115,
+      "polygon": [
+        [
+          88.61083984375001,
+          515.1494140625
+        ],
+        [
+          179.93930053710938,
+          515.1494140625
+        ],
+        [
+          179.93930053710938,
+          527.2635192871094
+        ],
+        [
+          88.61083984375001,
+          527.2635192871094
+        ]
+      ],
+      "bbox": [
+        88.61083984375001,
+        515.1494140625,
+        179.93930053710938,
+        527.2635192871094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wnd. directeur-generaal van de Nederlandse Mededingingsautoriteit</p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          528.3056640625
+        ],
+        [
+          374.0047912597656,
+          528.3056640625
+        ],
+        [
+          374.0047912597656,
+          539.2635192871094
+        ],
+        [
+          89.48242187500001,
+          539.2635192871094
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        528.3056640625,
+        374.0047912597656,
+        539.2635192871094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Tegen dit besluit kan degene, wiens belang rechtstreeks bij dit besluit is betrokken, binnen zes weken na de</i> <i>dag van bekendmaking van dit besluit een gemotiveerd bezwaarschrift indienen bij de directeur-generaal</i> <i>van de Nederlandse Mededingingsautoriteit, Juridische Dienst, Postbus 16326, 2500 BH Den Haag.</i></p>",
+      "page": 115,
+      "polygon": [
+        [
+          89.48242187500001,
+          555.70361328125
+        ],
+        [
+          505.51757812500006,
+          555.70361328125
+        ],
+        [
+          505.51757812500006,
+          595.6631011962891
+        ],
+        [
+          89.48242187500001,
+          595.6631011962891
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        555.70361328125,
+        505.51757812500006,
+        595.6631011962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 115,
+      "polygon": [
+        [
+          290.23681640625,
+          791.3845138549805
+        ],
+        [
+          296.4173889160156,
+          791.3845138549805
+        ],
+        [
+          296.4173889160156,
+          801.3440132141113
+        ],
+        [
+          290.23681640625,
+          801.3440132141113
+        ]
+      ],
+      "bbox": [
+        290.23681640625,
+        791.3845138549805,
+        296.4173889160156,
+        801.3440132141113
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup> </sup></p>",
+      "page": 115,
+      "polygon": [
+        [
+          88.61083984375001,
+          652.87890625
+        ],
+        [
+          93.48963165283203,
+          652.87890625
+        ],
+        [
+          93.48963165283203,
+          664.6623077392578
+        ],
+        [
+          88.61083984375001,
+          664.6623077392578
+        ]
+      ],
+      "bbox": [
+        88.61083984375001,
+        652.87890625,
+        93.48963165283203,
+        664.6623077392578
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup>  Aandeelhouder in APH is Gebr. Van Kessel Buren B.V. te Buren (Gld). Gebr. Van Kessel Buren B.V. is een dochteronderneming van Koninklijke Wegenbouw Stevin (hierna: KWS). KWS, dochter van KVWS, heeft eind 2001 zeggenschap verkregen over Gebr. Van Kessel Participatie Maatschappij B.V.; besluit van de d-g NMa in zaak 2708, <i>Koninklijke Wegenbouw Stevin/ Gebr. Van Kessel,</i> d.d. 7 november 2001.</p>",
+      "page": 115,
+      "polygon": [
+        [
+          90.64453125000001,
+          670.5060729980469
+        ],
+        [
+          474.36688232421875,
+          670.5060729980469
+        ],
+        [
+          474.36688232421875,
+          723.1826171875
+        ],
+        [
+          90.64453125000001,
+          723.1826171875
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        670.5060729980469,
+        474.36688232421875,
+        723.1826171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

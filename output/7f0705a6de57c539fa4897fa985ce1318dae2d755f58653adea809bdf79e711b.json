@@ -1,0 +1,4721 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          39.3744140625,
+          30.38271484375
+        ],
+        [
+          114.28183593749999,
+          30.38271484375
+        ],
+        [
+          114.28183593749999,
+          112.69150390625
+        ],
+        [
+          39.3744140625,
+          112.69150390625
+        ]
+      ],
+      "bbox": [
+        39.3744140625,
+        30.38271484375,
+        114.28183593749999,
+        112.69150390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>Recueil de la jurisprudence</h1>",
+      "page": 119,
+      "polygon": [
+        [
+          199.0546875,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          101.12255859375
+        ],
+        [
+          199.0546875,
+          101.12255859375
+        ]
+      ],
+      "bbox": [
+        199.0546875,
+        83.4599609375,
+        395.7702941894531,
+        101.12255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>ARRÊT DE LA COUR (première chambre)</h1>",
+      "page": 119,
+      "polygon": [
+        [
+          186.83203125,
+          153.3525390625
+        ],
+        [
+          407.1939392089844,
+          153.3525390625
+        ],
+        [
+          407.1939392089844,
+          167.48516845703125
+        ],
+        [
+          186.83203125,
+          167.48516845703125
+        ]
+      ],
+      "bbox": [
+        186.83203125,
+        153.3525390625,
+        407.1939392089844,
+        167.48516845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">12 février 2026<a href=\"#page-0-0\">*</a></p>",
+      "page": 119,
+      "polygon": [
+        [
+          256.09375,
+          183.7763671875
+        ],
+        [
+          338.57708740234375,
+          183.7763671875
+        ],
+        [
+          338.57708740234375,
+          197.81494140625
+        ],
+        [
+          256.09375,
+          197.81494140625
+        ]
+      ],
+      "bbox": [
+        256.09375,
+        183.7763671875,
+        338.57708740234375,
+        197.81494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-0-1\"></span>« Renvoi préjudiciel – Article 49 TFUE – Liberté d'établissement – Champ d'application –  Activité économique – Reconnaissance des qualifications professionnelles –  Directive 2005/36/CE – Article 53 – Connaissances linguistiques – Réglementation nationale  prévoyant une exigence de maîtrise de la langue officielle par les enseignants et les membres du  personnel administratif en communication régulière avec le public et avec les autorités  administratives, employés d'un établissement d'enseignement privé – Article 4, paragraphe 2,  TUE – Identité nationale d'un État membre – Défense et promotion de la langue officielle d'un  État membre – Établissement d'enseignement privé dispensant des programmes internationaux  d'éducation – Condition de nécessité – Principe de proportionnalité – Exigence de maîtrise de  la langue officielle non assortie de possibilité d'exception ou d'assouplissement »</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          222.01171875
+        ],
+        [
+          548.5338745117188,
+          222.01171875
+        ],
+        [
+          548.5338745117188,
+          354.512939453125
+        ],
+        [
+          48.890625,
+          354.512939453125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        222.01171875,
+        548.5338745117188,
+        354.512939453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dans l'affaire C-48/24,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.599609375,
+          367.9638671875
+        ],
+        [
+          164.2663116455078,
+          367.9638671875
+        ],
+        [
+          164.2663116455078,
+          381.2159423828125
+        ],
+        [
+          48.599609375,
+          381.2159423828125
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        367.9638671875,
+        164.2663116455078,
+        381.2159423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant pour objet une demande de décision préjudicielle au titre de l'article 267 TFUE, introduite  par le Lietuvos vyriausiasis administracinis teismas (Cour administrative de Lituanie), par  décision du 24 janvier 2024, parvenue à la Cour le 25 janvier 2024, dans la procédure</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.7265625,
+          395.0986328125
+        ],
+        [
+          548.5240478515625,
+          395.0986328125
+        ],
+        [
+          548.5240478515625,
+          434.5067138671875
+        ],
+        [
+          47.7265625,
+          434.5067138671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        395.0986328125,
+        548.5240478515625,
+        434.5067138671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>VšĮ \"Vilniaus tarptautinė mokykla\"</b></h2>",
+      "page": 119,
+      "polygon": [
+        [
+          47.14453125,
+          448.89117431640625
+        ],
+        [
+          240.6418914794922,
+          448.89117431640625
+        ],
+        [
+          240.6418914794922,
+          461.1520690917969
+        ],
+        [
+          47.14453125,
+          461.1520690917969
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        448.89117431640625,
+        240.6418914794922,
+        461.1520690917969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">contre</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.599609375,
+          475.5365905761719
+        ],
+        [
+          82.76075744628906,
+          475.5365905761719
+        ],
+        [
+          82.76075744628906,
+          487.7974853515625
+        ],
+        [
+          48.599609375,
+          487.7974853515625
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        475.5365905761719,
+        82.76075744628906,
+        487.7974853515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Valstybinė kalbos inspekcija,</b></h1>",
+      "page": 119,
+      "polygon": [
+        [
+          47.7265625,
+          501.9931640625
+        ],
+        [
+          205.69342041015625,
+          501.9931640625
+        ],
+        [
+          205.69342041015625,
+          514.44287109375
+        ],
+        [
+          47.7265625,
+          514.44287109375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        501.9931640625,
+        205.69342041015625,
+        514.44287109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">LA COUR (première chambre),</p>",
+      "page": 119,
+      "polygon": [
+        [
+          215.93359375,
+          527.6368103027344
+        ],
+        [
+          378.1846618652344,
+          527.6368103027344
+        ],
+        [
+          378.1846618652344,
+          539.897705078125
+        ],
+        [
+          215.93359375,
+          539.897705078125
+        ]
+      ],
+      "bbox": [
+        215.93359375,
+        527.6368103027344,
+        378.1846618652344,
+        539.897705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">composée de M. F. Biltgen, président de chambre, M. T. von Danwitz (rapporteur), vice-président  de la Cour, Mme I. Ziemele, MM. A. Kumin et S. Gervasoni, juges,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.7265625,
+          553.384765625
+        ],
+        [
+          548.5657958984375,
+          553.384765625
+        ],
+        [
+          548.5657958984375,
+          579.8691711425781
+        ],
+        [
+          47.7265625,
+          579.8691711425781
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        553.384765625,
+        548.5657958984375,
+        579.8691711425781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">avocat général : M. N. Emiliou,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.14453125,
+          594.0869140625
+        ],
+        [
+          206.67347717285156,
+          594.0869140625
+        ],
+        [
+          206.67347717285156,
+          606.5145568847656
+        ],
+        [
+          47.14453125,
+          606.5145568847656
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        594.0869140625,
+        206.67347717285156,
+        606.5145568847656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">greffier : M. A. Calot Escobar,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.30859375,
+          620.3994140625
+        ],
+        [
+          200.80050659179688,
+          620.3994140625
+        ],
+        [
+          200.80050659179688,
+          633.1599426269531
+        ],
+        [
+          48.30859375,
+          633.1599426269531
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        620.3994140625,
+        200.80050659179688,
+        633.1599426269531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vu la procédure écrite,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.017578125,
+          646.7119140625
+        ],
+        [
+          163.45872497558594,
+          646.7119140625
+        ],
+        [
+          163.45872497558594,
+          659.8053283691406
+        ],
+        [
+          48.017578125,
+          659.8053283691406
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        646.7119140625,
+        163.45872497558594,
+        659.8053283691406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">considérant les observations présentées :</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.14453125,
+          674.2462005615234
+        ],
+        [
+          256.42578125,
+          674.2462005615234
+        ],
+        [
+          256.42578125,
+          686.5071105957031
+        ],
+        [
+          47.14453125,
+          686.5071105957031
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        674.2462005615234,
+        256.42578125,
+        686.5071105957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">– pour le gouvernement lituanien, par MM. K. Dieninis, S. Grigonis et  Mme V. Kazlauskaitė-Švenčionienė, en qualité d'agents,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          49.60768127441406,
+          700.8915863037109
+        ],
+        [
+          548.5465698242188,
+          700.8915863037109
+        ],
+        [
+          548.5465698242188,
+          726.4771423339844
+        ],
+        [
+          49.60768127441406,
+          726.4771423339844
+        ]
+      ],
+      "bbox": [
+        49.60768127441406,
+        700.8915863037109,
+        548.5465698242188,
+        726.4771423339844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PictureGroup/117",
+      "block_type": "PictureGroup",
+      "html": "<span id=\"page-0-0\"></span><p><a href=\"#page-0-1\"><sup>* </sup>L</a>angue de procédure : le lituanien.</p><p><img src='/page/0/Picture/18'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          13.503124999999997,
+          748.6728515625
+        ],
+        [
+          179.67100524902344,
+          748.6728515625
+        ],
+        [
+          179.67100524902344,
+          799.9822265625
+        ],
+        [
+          13.503124999999997,
+          799.9822265625
+        ]
+      ],
+      "bbox": [
+        13.503124999999997,
+        748.6728515625,
+        179.67100524902344,
+        799.9822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {
+        "/page/0/Picture/18": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          73.3359375,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          800.7750244140625
+        ],
+        [
+          73.3359375,
+          800.7750244140625
+        ]
+      ],
+      "bbox": [
+        73.3359375,
+        790.1134223937988,
+        545.6888427734375,
+        800.7750244140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          224.66406249999997,
+          41.11328125
+        ],
+        [
+          371.2786560058594,
+          41.11328125
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        41.11328125,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> pour le gouvernement letton, par Mmes J. Davidoviča, K. Pommere et S. Zābele, en qualité  d'agents,</li><li block-type=\"ListItem\"> pour le gouvernement néerlandais, par Mmes E. M. M. Besselink et M. K. Bulterman, en qualité  d'agents,</li><li block-type=\"ListItem\"> pour la Commission européenne, par Mme L. Armati, M. G. Meeßen et Mme A. Steiblytė, en  qualité d'agents,</li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.564697265625,
+          83.4599609375
+        ],
+        [
+          548.564697265625,
+          190.67205810546875
+        ],
+        [
+          47.7265625,
+          190.67205810546875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.564697265625,
+        190.67205810546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant entendu l'avocat général en ses conclusions à l'audience du 10 juillet 2025,</p>",
+      "page": 143,
+      "polygon": [
+        [
+          49.608917236328125,
+          204.3330078125
+        ],
+        [
+          457.4885559082031,
+          204.3330078125
+        ],
+        [
+          457.4885559082031,
+          217.31744384765625
+        ],
+        [
+          49.608917236328125,
+          217.31744384765625
+        ]
+      ],
+      "bbox": [
+        49.608917236328125,
+        204.3330078125,
+        457.4885559082031,
+        217.31744384765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">rend le présent</p>",
+      "page": 143,
+      "polygon": [
+        [
+          49.181640625,
+          231.056640625
+        ],
+        [
+          126.01512145996094,
+          231.056640625
+        ],
+        [
+          126.01512145996094,
+          243.962890625
+        ],
+        [
+          49.181640625,
+          243.962890625
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        231.056640625,
+        126.01512145996094,
+        243.962890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Arrêt</b></h1>",
+      "page": 143,
+      "polygon": [
+        [
+          281.994140625,
+          268.4697265625
+        ],
+        [
+          312.3869323730469,
+          268.4697265625
+        ],
+        [
+          312.3869323730469,
+          281.26666259765625
+        ],
+        [
+          281.994140625,
+          281.26666259765625
+        ]
+      ],
+      "bbox": [
+        281.994140625,
+        268.4697265625,
+        312.3869323730469,
+        281.26666259765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/142",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1 La demande de décision préjudicielle porte sur l'interprétation de l'article 49 TFUE et de  l'article 53 de la directive 2005/36/CE du Parlement européen et du Conseil, du  7 septembre 2005, relative à la reconnaissance des qualifications professionnelles (JO 2005,  L 255, p. 22), telle que modifiée par la directive 2013/55/UE du Parlement européen et du  Conseil, du 20 novembre 2013 (JO 2013, L 354, p. 132) (ci-après la « directive 2005/36 »).</li><li block-type=\"ListItem\">2 Cette demande a été présentée dans le cadre d'un litige opposant la VšĮ « Vilniaus tarptautinė  mokykla » (école internationale de Vilnius, Lituanie) (ci-après la « VTM ») à la Valstybinė kalbos  inspekcija (inspection nationale de la langue, Lituanie) (ci-après la « VKI ») au sujet de l'exigence  imposée à la VTM de veiller à ce que ses enseignants et son personnel administratif réussissent un  examen attestant d'un niveau déterminé de maîtrise de la langue lituanienne.</li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          26.7734375,
+          293.9599609375
+        ],
+        [
+          548.5573120117188,
+          293.9599609375
+        ],
+        [
+          548.5573120117188,
+          443.2390441894531
+        ],
+        [
+          26.7734375,
+          443.2390441894531
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        293.9599609375,
+        548.5573120117188,
+        443.2390441894531
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Le cadre juridique</b></h2>",
+      "page": 143,
+      "polygon": [
+        [
+          48.890625,
+          468.28192138671875
+        ],
+        [
+          148.5602264404297,
+          468.28192138671875
+        ],
+        [
+          148.5602264404297,
+          480.5428161621094
+        ],
+        [
+          48.890625,
+          480.5428161621094
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        468.28192138671875,
+        148.5602264404297,
+        480.5428161621094
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/6",
+        "2": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Le droit de l'Union</i></h1>",
+      "page": 143,
+      "polygon": [
+        [
+          47.435546875,
+          501.9931640625
+        ],
+        [
+          151.08966064453125,
+          501.9931640625
+        ],
+        [
+          151.08966064453125,
+          516.7688598632812
+        ],
+        [
+          47.435546875,
+          516.7688598632812
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        501.9931640625,
+        151.08966064453125,
+        516.7688598632812
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/143",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3 Le considérant 26 de la directive 2013/55/UE du Parlement européen et du Conseil, du  20 novembre 2013, modifiant la directive 2005/36/CE relative à la reconnaissance des  qualifications professionnelles et le règlement (UE) no 1024/2012 concernant la coopération  administrative par l'intermédiaire du système d'information du marché intérieur (« règlement  IMI ») (JO 2013, L 354, p. 132), énonce : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« La directive 2005/36/CE prévoit déjà que les professionnels sont tenus de disposer des  compétences linguistiques nécessaires. Le réexamen du respect de cette obligation a mis en  lumière la nécessité de clarifier le rôle des autorités compétentes et des employeurs, notamment  pour mieux assurer la sécurité des patients. Les autorités compétentes devraient avoir la  possibilité d'effectuer des contrôles du niveau linguistique après la reconnaissance des  qualifications professionnelles. Il est important, en particulier pour les professions qui ont des  implications en matière de sécurité des patients, que les contrôles du niveau linguistique au titre  de la directive 2005/36/CE aient lieu avant que le professionnel commence à exercer sa  profession dans l'État membre d'accueil. La vérification du niveau linguistique devrait toutefois  être raisonnable et nécessaire à la profession concernée et ne devrait pas viser à exclure des  professionnels d'autres États membres du marché du travail dans l'État membre d'accueil. [...]</li></ul></li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          26.7734375,
+          529.5390625
+        ],
+        [
+          548.5662231445312,
+          529.5390625
+        ],
+        [
+          548.5662231445312,
+          760.2083969116211
+        ],
+        [
+          26.7734375,
+          760.2083969116211
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        529.5390625,
+        548.5662231445312,
+        760.2083969116211
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          49.606197357177734,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          803.2128295898438
+        ],
+        [
+          49.606197357177734,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        791.4306640625,
+        545.9453125,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          225.97799682617188,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          225.97799682617188,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        225.97799682617188,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Les employeurs aussi devraient continuer à jouer un rôle important pour s'assurer de la  connaissance des langues nécessaire dans l'exercice des activités professionnelles sur leur lieu de  travail. »</p>",
+      "page": 145,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.5377197265625,
+          83.4599609375
+        ],
+        [
+          548.5377197265625,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.5377197265625,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/144",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">4 L'article 2, paragraphe 1, premier alinéa, de la directive 2005/36 prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« La présente directive s'applique à tout ressortissant d'un État membre, y compris les membres des  professions libérales, voulant exercer une profession réglementée dans un État membre autre que  celui où il a acquis ses qualifications professionnelles, soit à titre indépendant, soit à titre salarié. »</li></ul></li><li block-type=\"ListItem\">5 L'article 53 de cette directive, intitulé « Connaissances linguistiques », dispose, à ses paragraphes 1  à 3 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Les professionnels bénéficiant de la reconnaissance des qualifications professionnelles  doivent avoir les connaissances linguistiques nécessaires à l'exercice de la profession dans l'État  membre d'accueil.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2. Un État membre veille à ce que tout contrôle effectué par, ou sous la surveillance de, l'autorité  compétente pour le contrôle du respect de l'obligation visée au paragraphe 1, soit limité à la  connaissance d'une langue officielle de l'État membre d'accueil, ou d'une langue administrative  de l'État membre d'accueil sous réserve que cette dernière soit également une langue officielle de  l'Union.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3. Les contrôles réalisés conformément au paragraphe 2 peuvent être imposés si la profession à  exercer a des implications en matière de sécurité des patients. Des contrôles peuvent être  imposés pour d'autres professions s'il existe un doute sérieux et concret sur le niveau suffisant  des connaissances linguistiques du professionnel au regard des activités professionnelles qu'il  entend exercer.</li></ul></li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          24.4453125,
+          136.49609375
+        ],
+        [
+          548.5474853515625,
+          136.49609375
+        ],
+        [
+          548.5474853515625,
+          452.70556640625
+        ],
+        [
+          24.4453125,
+          452.70556640625
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        136.49609375,
+        548.5474853515625,
+        452.70556640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Les contrôles peuvent être réalisés seulement après la délivrance d'une carte professionnelle  européenne conformément à l'article 4 <i>quinquies </i>ou après la reconnaissance d'une qualification  professionnelle, selon le cas. »</p>",
+      "page": 145,
+      "polygon": [
+        [
+          47.7265625,
+          464.1689453125
+        ],
+        [
+          548.562255859375,
+          464.1689453125
+        ],
+        [
+          548.562255859375,
+          505.996337890625
+        ],
+        [
+          47.7265625,
+          505.996337890625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        464.1689453125,
+        548.562255859375,
+        505.996337890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Le droit lituanien</i></h2>",
+      "page": 145,
+      "polygon": [
+        [
+          47.7265625,
+          530.0179443359375
+        ],
+        [
+          145.00088500976562,
+          530.0179443359375
+        ],
+        [
+          145.00088500976562,
+          542.2788391113281
+        ],
+        [
+          47.7265625,
+          542.2788391113281
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        530.0179443359375,
+        145.00088500976562,
+        542.2788391113281
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>La Constitution de la République de Lituanie</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          47.7265625,
+          565.16748046875
+        ],
+        [
+          278.25726318359375,
+          565.16748046875
+        ],
+        [
+          278.25726318359375,
+          577.4283752441406
+        ],
+        [
+          47.7265625,
+          577.4283752441406
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        565.16748046875,
+        278.25726318359375,
+        577.4283752441406
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6 L'article 14 de la Lietuvos Respublikos Konstitucija (Constitution de la République de Lituanie)  prévoit que la langue officielle de la République de Lituanie est le lituanien.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          26.7734375,
+          591.8732299804688
+        ],
+        [
+          548.516845703125,
+          591.8732299804688
+        ],
+        [
+          548.516845703125,
+          617.9326171875
+        ],
+        [
+          26.7734375,
+          617.9326171875
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        591.8732299804688,
+        548.516845703125,
+        617.9326171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>La loi sur la langue officielle et le décret no 1688</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          48.890625,
+          640.1337890625
+        ],
+        [
+          289.73406982421875,
+          640.1337890625
+        ],
+        [
+          289.73406982421875,
+          652.6061401367188
+        ],
+        [
+          48.890625,
+          652.6061401367188
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        640.1337890625,
+        289.73406982421875,
+        652.6061401367188
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/145",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">7 L'article 2 du Lietuvos Respublikos valstybinės kalbos įstatymas Nr. I-779 (loi no I-779 de la  République de Lituanie sur la langue officielle), du 31 janvier 1995 (Žin., 1995, no 15-344, ci-après  la « loi sur la langue officielle »), dispose : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« La langue officielle de la République de Lituanie est le lituanien. »</li></ul></li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          25.609375,
+          666.9912567138672
+        ],
+        [
+          548.5494384765625,
+          666.9912567138672
+        ],
+        [
+          548.5494384765625,
+          728.3769226074219
+        ],
+        [
+          25.609375,
+          728.3769226074219
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        666.9912567138672,
+        548.5494384765625,
+        728.3769226074219
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/15",
+      "block_type": "Text",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/152",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">8 L'article 6 de cette loi prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Les responsables, fonctionnaires et agents des autorités, organes et établissements publics, de même  que les responsables, fonctionnaires et agents des forces de l'ordre, des services de police, de  communication, de transport public, de santé publique et de protection sociale et d'autres services  publics doivent avoir une maîtrise de la langue officielle correspondant à la catégorie de  connaissances linguistiques fixée par le gouvernement de la République de Lituanie. »</li></ul></li><li block-type=\"ListItem\">9 Le Lietuvos Respublikos Vyriausybės nutarimas dėl valstybinės kalbos mokėjimo kategorijų  patvirtinimo ir įgyvendinimo Nr. 1688 (décret no 1688 du gouvernement de la République de  Lituanie relatif à l'adoption et à la mise en œuvre des catégories de maîtrise de la langue  officielle), du 24 décembre 2003 (Žin., 2003, no 123-5618), a été adopté sur le fondement de  l'article 6 de la loi sur la langue officielle.</li><li block-type=\"ListItem\">10 Les points 2 à 4 de ce décret, dans sa version applicable aux faits du litige au principal (ci-après le  « décret no 1688 »), énoncent : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 2. Les responsables des autorités et organes publics, des établissements d'enseignement  dépendant entièrement ou en partie de l'État ou des communes, des services de développement  régional et d'autres services publics sont chargés d'arrêter la liste des postes des fonctionnaires et  agents de l'État et des salariés rémunérés sur le budget de l'État ou des communes ou d'autres  fonds publics pour lesquels une certaine catégorie de maîtrise de la langue officielle est exigée.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3. Il est recommandé aux responsables des entités, associations, entreprises, établissements et  organismes publics autres que ceux visés au point 2 du présent décret de fixer la catégorie de  maîtrise de la langue officielle requise pour chacun des postes dont la description prévoit des  interactions avec le public ainsi que l'élaboration et le traitement de documents, et de dresser une  liste de ces fonctions.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">4. L'exigence d'avoir une maîtrise de la langue officielle relevant d'une certaine catégorie n'est pas  appliquée aux employés étrangers qui bénéficient ou ont bénéficié d'une protection temporaire en  Lituanie, pendant une durée de deux ans à compter de l'octroi de ladite protection temporaire. »</li></ul></li><li block-type=\"ListItem\">11 Les points 2, 5, 6 et 8 de la description des catégories de maîtrise de la langue officielle et de leurs  modalités d'application, telle qu'établie par le décret no 1688, précisent : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 2. La catégorie de maîtrise de la langue officielle permet d'attester la mesure des connaissances  de cette langue que possède une personne. [...]</li></ul></li></ul></p>",
+      "page": 152,
+      "polygon": [
+        [
+          24.4453125,
+          83.87109375
+        ],
+        [
+          548.5513305664062,
+          83.87109375
+        ],
+        [
+          548.5513305664062,
+          586.3322448730469
+        ],
+        [
+          24.4453125,
+          586.3322448730469
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        83.87109375,
+        548.5513305664062,
+        586.3322448730469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 152,
+      "polygon": [
+        [
+          49.181640625,
+          600.6650390625
+        ],
+        [
+          65.9896011352539,
+          600.6650390625
+        ],
+        [
+          65.9896011352539,
+          612.9776306152344
+        ],
+        [
+          49.181640625,
+          612.9776306152344
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        600.6650390625,
+        65.9896011352539,
+        612.9776306152344
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">5. Sont établis les six niveaux de maîtrise de la langue lituanienne suivants (du plus bas, A1, au plus  avancé, C2) :</p>",
+      "page": 152,
+      "polygon": [
+        [
+          49.609039306640625,
+          625.744140625
+        ],
+        [
+          548.5565185546875,
+          625.744140625
+        ],
+        [
+          548.5565185546875,
+          653.0021057128906
+        ],
+        [
+          49.609039306640625,
+          653.0021057128906
+        ]
+      ],
+      "bbox": [
+        49.609039306640625,
+        625.744140625,
+        548.5565185546875,
+        653.0021057128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 152,
+      "polygon": [
+        [
+          48.599609375,
+          667.3865814208984
+        ],
+        [
+          65.9896011352539,
+          667.3865814208984
+        ],
+        [
+          65.9896011352539,
+          679.6474914550781
+        ],
+        [
+          48.599609375,
+          679.6474914550781
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        667.3865814208984,
+        65.9896011352539,
+        679.6474914550781
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">5.3. niveau de maîtrise de langue lituanienne B1 (\"Niveau seuil\") (utilisateur indépendant).  L'utilisateur peut comprendre des textes oraux ou écrits traitant de sujets familiers, parler de  sujets variés concernant la vie quotidienne ou le travail, raconter des expériences, des  événements, exprimer des rêves, des espoirs ou des désirs, exposer brièvement des opinions  ou des projets, remplir des formulaires, écrire de courts textes sur des sujets concernant la</p>",
+      "page": 152,
+      "polygon": [
+        [
+          49.609039306640625,
+          694.4033203125
+        ],
+        [
+          548.5614624023438,
+          694.4033203125
+        ],
+        [
+          548.5614624023438,
+          760.2077255249023
+        ],
+        [
+          49.609039306640625,
+          760.2077255249023
+        ]
+      ],
+      "bbox": [
+        49.609039306640625,
+        694.4033203125,
+        548.5614624023438,
+        760.2077255249023
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/14",
+      "block_type": "Text",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          47.7265625,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          803.2128295898438
+        ],
+        [
+          47.7265625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        791.4306640625,
+        545.9453125,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          225.82812499999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          225.82812499999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        225.82812499999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vie quotidienne ou le travail, écrire un texte simple et cohérent sur des sujets familiers ou qui  l'intéressent personnellement. Il peut aussi comprendre le langage parlé, les textes écrits et  communiquer ;</p>",
+      "page": 153,
+      "polygon": [
+        [
+          72.171875,
+          83.4599609375
+        ],
+        [
+          548.572509765625,
+          83.4599609375
+        ],
+        [
+          548.572509765625,
+          123.66058349609375
+        ],
+        [
+          72.171875,
+          123.66058349609375
+        ]
+      ],
+      "bbox": [
+        72.171875,
+        83.4599609375,
+        548.572509765625,
+        123.66058349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6. Sont établies les trois catégories de maîtrise de la langue officielle suivantes (de la plus basse,  catégorie I, à la plus élevée, catégorie III) :</p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          136.9072265625
+        ],
+        [
+          548.5174560546875,
+          136.9072265625
+        ],
+        [
+          548.5174560546875,
+          163.85546875
+        ],
+        [
+          47.7265625,
+          163.85546875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        136.9072265625,
+        548.5174560546875,
+        163.85546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 153,
+      "polygon": [
+        [
+          48.30859375,
+          176.3759765625
+        ],
+        [
+          65.98721313476562,
+          176.3759765625
+        ],
+        [
+          65.98721313476562,
+          190.5008544921875
+        ],
+        [
+          48.30859375,
+          190.5008544921875
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        176.3759765625,
+        65.98721313476562,
+        190.5008544921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6.2 la catégorie II de maîtrise de la langue officielle correspond au niveau de compétence B1 en  lituanien (les exigences correspondantes à ce niveau sont énoncées au point 5.3 de la présente  description) ;</p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          204.3330078125
+        ],
+        [
+          548.5430908203125,
+          204.3330078125
+        ],
+        [
+          548.5430908203125,
+          244.69891357421875
+        ],
+        [
+          47.7265625,
+          244.69891357421875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        204.3330078125,
+        548.5430908203125,
+        244.69891357421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 153,
+      "polygon": [
+        [
+          48.599609375,
+          257.369140625
+        ],
+        [
+          65.98721313476562,
+          257.369140625
+        ],
+        [
+          65.98721313476562,
+          271.34552001953125
+        ],
+        [
+          48.599609375,
+          271.34552001953125
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        257.369140625,
+        65.98721313476562,
+        271.34552001953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">8. Les travailleurs, fonctionnaires et agents de l'État des secteurs de l'éducation, de la culture, de la  santé, de la protection sociale et d'autres secteurs qui doivent justifier au plus d'un diplôme de  l'enseignement supérieur non universitaire, d'un diplôme de l'enseignement supérieur  professionnel obtenu avant 2009 ou d'un diplôme de l'enseignement secondaire technique obtenu  avant 1995, doivent posséder une maîtrise de la langue lituanienne de catégorie II si leurs  fonctions supposent des interactions régulières avec le public et/ou le traitement de formulaires  types (à l'exception des enseignants faisant cours dans la langue officielle). »</p>",
+      "page": 153,
+      "polygon": [
+        [
+          48.890625,
+          283.681640625
+        ],
+        [
+          548.5576782226562,
+          283.681640625
+        ],
+        [
+          548.5576782226562,
+          379.1740417480469
+        ],
+        [
+          48.890625,
+          379.1740417480469
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        283.681640625,
+        548.5576782226562,
+        379.1740417480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>La loi sur l'éducation et l'arrêté no V-774 portant approbation de la description des exigences </i> <i>concernant les qualifications des enseignants</i></p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          401.6767578125
+        ],
+        [
+          548.5130004882812,
+          401.6767578125
+        ],
+        [
+          548.5130004882812,
+          427.8757019042969
+        ],
+        [
+          47.7265625,
+          427.8757019042969
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        401.6767578125,
+        548.5130004882812,
+        427.8757019042969
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">12 L'article 2, point 2, du Lietuvos Respublikos švietimo įstatymas Nr. I-1489 (loi no I-1489 de la  République de Lituanie sur l'éducation), du 25 juin 1991 (Lietuvos aidas, 1991, no 153-0), dans sa  version applicable aux faits du litige au principal (ci-après la « loi sur l'éducation »), prévoit que les  termes « enseignement général » visent l'enseignement primaire, intermédiaire et secondaire.</li><li block-type=\"ListItem\">13 L'article 48 de la loi sur l'éducation fixe, à son paragraphe 1, la liste des personnes autorisées à  exercer la profession d'enseignement, et précise, à son paragraphe 3, que les enseignants visés au  paragraphe 1 « doivent posséder les qualifications fixées par le ministre de l'Éducation et des  Sciences ». Ce même article 48 prévoit, à son paragraphe 4 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Toute personne qui a acquis dans un État membre ou dans la Confédération suisse une qualification  dont l'équivalence a été reconnue conformément au Lietuvos Respublikos reglamentuojamų  profesinių kvalifikacijų pripažinimo įstatymas [(loi no X-1478 de la République de Lituanie sur la  reconnaissance des qualifications professionnelles), du 3 avril 2008 (Žin., 2008, no 47-1747)], et qui  remplit les conditions fixées aux paragraphes 1 et 3 du présent article peut exercer la profession  d'enseignant en Lituanie. »</li></ul></li><li block-type=\"ListItem\">14 L'article 72 de la loi sur l'éducation, intitulé « Mise en œuvre de programmes d'éducation émanant  d'États étrangers et d'organisations internationales », dispose, à ses paragraphes 1 et 3 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Les écoles d'États étrangers et d'organisations internationales (hors enseignement supérieur)  sont établies en République de Lituanie et opèrent dans les conditions et selon les modalités  prévues par la présente loi, par les accords internationaux conclus par la République de Lituanie  ainsi que par d'autres lois, règlements ou actes administratifs. Les programmes d'éducation</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.7734375,
+          440.734375
+        ],
+        [
+          548.568359375,
+          440.734375
+        ],
+        [
+          548.568359375,
+          760.2085800170898
+        ],
+        [
+          26.7734375,
+          760.2085800170898
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        440.734375,
+        548.568359375,
+        760.2085800170898
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/13",
+      "block_type": "Text",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">émanant d'États étrangers et d'organisations internationales (hors enseignement supérieur)  peuvent être dispensés (ou suspendus) selon les modalités fixées par le gouvernement, sur  autorisation écrite du ministre de l'Éducation et des Sciences.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.557373046875,
+          83.4599609375
+        ],
+        [
+          548.557373046875,
+          123.5477294921875
+        ],
+        [
+          47.7265625,
+          123.5477294921875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.557373046875,
+        123.5477294921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 158,
+      "polygon": [
+        [
+          47.7265625,
+          136.49609375
+        ],
+        [
+          65.98676300048828,
+          136.49609375
+        ],
+        [
+          65.98676300048828,
+          150.193115234375
+        ],
+        [
+          47.7265625,
+          150.193115234375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        136.49609375,
+        65.98676300048828,
+        150.193115234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/157",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. Les programmes d'éducation émanant d'États étrangers et d'organisations internationales  peuvent être dispensés dans des écoles lituaniennes dans une langue autre que le lituanien. Les  personnes ayant suivi en Lituanie un programme d'éducation émanant d'un État étranger ou  d'une organisation internationale obtiennent à l'issue de leurs études le diplôme correspondant  de cet État étranger ou de cette organisation internationale. »</li><li block-type=\"ListItem\">15 Le Lietuvos Respublikos švietimo, mokslo ir sporto ministras įsakymas Nr. V-774 Dėl Reikalavimų  mokytojų kvalifikacijai aprašo patvirtinimo (arrêté no V-774 du ministre de l'Éducation, des  Sciences et des Sports de la République de Lituanie, portant approbation de la description des  exigences concernant les qualifications des enseignants), du 29 août 2014 (TAR, 2014,  no 2014-11394), a été adopté sur le fondement de l'article 48 de la loi sur l'éducation. Le point 7  de cette description des exigences, dans sa version applicable aux faits du litige au principal,  prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Les enseignants exerçant dans le cadre de l'enseignement général, de la formation professionnelle et  de l'éducation non formelle doivent avoir un niveau de maîtrise de la langue lituanienne  correspondant aux catégories de maîtrise de la langue officielle approuvées par le décret [no 1688] ;  [...] »</li></ul></li></ul></p>",
+      "page": 158,
+      "polygon": [
+        [
+          26.929100036621094,
+          163.2197265625
+        ],
+        [
+          548.56103515625,
+          163.2197265625
+        ],
+        [
+          548.56103515625,
+          401.0877990722656
+        ],
+        [
+          26.929100036621094,
+          401.0877990722656
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        163.2197265625,
+        548.56103515625,
+        401.0877990722656
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Le décret no 649 portant approbation de la procédure d'octroi, de suspension et de révocation de </i> <i>l'autorisation d'appliquer des programmes éducatifs émanant d'États étrangers et d'organisations </i> <i>internationales (hors enseignement supérieur)</i></p>",
+      "page": 158,
+      "polygon": [
+        [
+          47.7265625,
+          424.45928955078125
+        ],
+        [
+          548.5691528320312,
+          424.45928955078125
+        ],
+        [
+          548.5691528320312,
+          463.7052001953125
+        ],
+        [
+          47.7265625,
+          463.7052001953125
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        424.45928955078125,
+        548.5691528320312,
+        463.7052001953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/158",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">16 Le point 26 du Lietuvos Respublikos Vyriausybės nutarimas Nr. 649 Dėl sutikimo vykdyti užsienio  valstybių ir tarptautinių organizacijų švietimo programas (išskyrus aukštojo mokslo studijų  programas) išdavimo, galiojimo sustabdymo ir galiojimo panaikinimo tvarkos aprašo patvirtinimo  [décret no 649 du gouvernement de la République de Lituanie portant approbation de la procédure  d'octroi, de suspension et de révocation de l'autorisation d'appliquer des programmes éducatifs  émanant d'États étrangers et d'organisations internationales (hors enseignement supérieur)], du  6 juin 2012 (Žin., 2012, no 66-3343), dans sa version applicable aux faits du litige au principal,  prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 26. Le titulaire de l'autorisation qui met en œuvre le programme d'éducation émanant d'un État  étranger ou d'une organisation internationale [(ci-après le « programme éducatif »)] visé dans  ladite autorisation doit :</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">26.1. [...] contrôler les connaissances de la langue officielle conformément aux programmes  généraux approuvés par le ministre de l'Éducation et des Sciences ;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">26.2. veiller à ce que la formation ainsi que les qualifications des enseignants et des prestataires de  services pédagogiques soient conformes aux exigences énoncées dans le [programme  éducatif] ;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">26.3. se conformer aux exigences de la loi lituanienne sur l'éducation et d'autres actes juridiques ;</li></ul></li></ul></p>",
+      "page": 158,
+      "polygon": [
+        [
+          26.929100036621094,
+          476.5029296875
+        ],
+        [
+          548.5647583007812,
+          476.5029296875
+        ],
+        [
+          548.5647583007812,
+          760.2083358764648
+        ],
+        [
+          26.929100036621094,
+          760.2083358764648
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        476.5029296875,
+        548.5647583007812,
+        760.2083358764648
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/12",
+      "block_type": "Text",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">26.4. fournir aux autorités de contrôle, à leur demande, les documents et données relatifs à la mise  en œuvre du [programme éducatif], et permettre leur vérification ;</p>",
+      "page": 154,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.5316162109375,
+          83.4599609375
+        ],
+        [
+          548.5316162109375,
+          109.94183349609375
+        ],
+        [
+          47.7265625,
+          109.94183349609375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.5316162109375,
+        109.94183349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 154,
+      "polygon": [
+        [
+          49.181640625,
+          123.7509765625
+        ],
+        [
+          75.09292602539062,
+          123.7509765625
+        ],
+        [
+          75.09292602539062,
+          136.58721923828125
+        ],
+        [
+          49.181640625,
+          136.58721923828125
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        123.7509765625,
+        75.09292602539062,
+        136.58721923828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/10",
+        "2": "/page/2/SectionHeader/9",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Le litige au principal et les questions préjudicielles</b></h1>",
+      "page": 154,
+      "polygon": [
+        [
+          47.7265625,
+          160.7529296875
+        ],
+        [
+          323.2915344238281,
+          160.7529296875
+        ],
+        [
+          323.2915344238281,
+          173.8909912109375
+        ],
+        [
+          47.7265625,
+          173.8909912109375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        160.7529296875,
+        323.2915344238281,
+        173.8909912109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/154",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">17 La VTM, un établissement d'enseignement privé fondé par une ressortissante lituanienne, exerce  son activité en Lituanie depuis l'année 2004. À la date des faits du litige au principal, son capital  était détenu à hauteur de 49,96 %, par une ressortissante finlandaise, de 25,02 % par une  ressortissante danoise et de 25,02 % par une ressortissante des États-Unis d'Amérique.</li><li block-type=\"ListItem\">18 La VTM a obtenu les autorisations administratives requises pour dispenser, en langue anglaise, les  programmes d'éducation primaire et intermédiaire du baccalauréat international ainsi que le  programme d'éducation secondaire des « Cambridge International AS/A levels ».</li><li block-type=\"ListItem\">19 Les 19 et 25 mai 2022, la VKI a procédé à une inspection auprès de la VTM afin de vérifier le  respect par celle-ci des exigences prévues par la loi sur la langue officielle et par le décret no 1688.  Dans le cadre de cette inspection, elle a constaté que dix-huit employés de la VTM, dont la  directrice, son adjointe en charge de l'éducation, une pédagogue sociale et quinze enseignants,  n'avaient pas réussi l'examen linguistique correspondant à la catégorie II de maîtrise de la langue  officielle, telle que définie par le décret no 1688, ou n'avaient pas transmis les documents requis.  Sur ces dix-huit employés, cinq étaient ressortissants d'États membres, tandis que les treize  autres étaient ressortissants d'États tiers.</li><li block-type=\"ListItem\">20 Dans ces conditions, par un acte d'injonction du 26 mai 2022, la VKI a imposé à la VTM de veiller  à ce que lesdits employés réussissent cet examen linguistique au plus tard le 2 février 2023,  l'autorité compétente devant en être informée au plus tard le 9 février 2023. La VKI a également  informé la VTM que l'omission de se conformer à ces exigences serait sanctionnée  conformément aux modalités prévues par la législation lituanienne (ci-après l'« acte d'injonction  du 26 mai 2022 »).</li><li block-type=\"ListItem\">21 La VTM a saisi le Vilniaus apygardos administracinis teismas (tribunal administratif régional de  Vilnius, Lituanie) d'un recours tendant à l'annulation de l'acte d'injonction du 26 mai 2022.</li><li block-type=\"ListItem\">22 Ce recours ayant été rejeté, la VTM a interjeté appel auprès du Lietuvos vyriausiasis  administracinis teismas (Cour administrative suprême de Lituanie), la juridiction de renvoi.</li><li block-type=\"ListItem\">23 Cette juridiction cherche à savoir, tout d'abord, si la situation en cause au principal relève du  champ d'application de l'article 49 TFUE. À cet égard, elle relève que, si la VTM est établie en  Lituanie et a été fondée par une ressortissante lituanienne, son capital est détenu, pour partie, par  des ressortissants d'États membres autres que la République de Lituanie. Elle ajoute que la VTM  dispense ses programmes d'enseignement contre rémunération. Ensuite, dans l'hypothèse où  l'article 49 TFUE serait applicable à une telle situation, la juridiction de renvoi se demande si  l'entrave à la liberté d'établissement résultant de la réglementation lituanienne est justifiée par  une raison impérieuse d'intérêt général et si elle respecte le principe de proportionnalité,  soulignant, en particulier, que cette réglementation ne prévoit aucune exception à l'exigence</li></ul></p>",
+      "page": 154,
+      "polygon": [
+        [
+          25.609375,
+          186.654296875
+        ],
+        [
+          548.56591796875,
+          186.654296875
+        ],
+        [
+          548.56591796875,
+          720.2967071533203
+        ],
+        [
+          25.609375,
+          720.2967071533203
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        186.654296875,
+        548.56591796875,
+        720.2967071533203
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/11",
+      "block_type": "Text",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          225.53710937499997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          225.53710937499997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        225.53710937499997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "4": "/page/7/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">linguistique qu'elle fixe. Enfin, elle pose la question de savoir si la directive 2005/36 permet  l'application d'une telle exigence au personnel d'une école internationale, telle que la VTM,  exerçant une profession réglementée.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          47.7265625,
+          83.048828125
+        ],
+        [
+          548.55126953125,
+          83.048828125
+        ],
+        [
+          548.55126953125,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.048828125,
+        548.55126953125,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "4": "/page/7/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">24 C'est dans ces conditions que le Lietuvos vyriausiasis administracinis teismas (Cour  administrative suprême de Lituanie) a décidé de surseoir à statuer et de poser à la Cour les  questions préjudicielles suivantes : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1) Convient-il d'interpréter l'article 49 TFUE en ce sens que relève de son champ d'application  une exigence de connaissance de la langue officielle imposée par le droit national et  applicable au personnel administratif et aux enseignants d'un établissement d'enseignement  fondé par une personne physique privée, lequel suit un programme international d'éducation  secondaire ainsi que les programmes d'éducation primaire et intermédiaire du baccalauréat  international ?</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2) En cas de réponse affirmative à la première question, convient-il d'interpréter  l'article 49 TFUE en ce sens qu'il fait obstacle à une réglementation nationale telle que celle  applicable dans l'affaire au principal, en vertu de laquelle l'exigence de connaissance de la  langue officielle est applicable, sans la moindre exception, d'une part, aux enseignants  travaillant dans un établissement d'enseignement fondé par une personne physique privée,  lequel suit un programme international d'éducation secondaire ainsi que les programmes  d'éducation primaire et intermédiaire du baccalauréat international et, d'autre part, au  personnel administratif de cet établissement d'enseignement, sans qu'il soit tenu [...] compte  de la spécificité de l'établissement d'enseignement concerné ?</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3) Convient-il d'interpréter l'article 53 de la directive [2005/36] en ce sens qu'il fait obstacle à  une réglementation nationale telle que celle applicable dans l'affaire au principal, en vertu de  laquelle l'exigence de connaissance de la langue officielle est applicable, sans la moindre  exception, aux enseignants travaillant dans un établissement d'enseignement fondé par une  personne physique privée, lequel suit un programme international d'éducation secondaire  ainsi que les programmes d'éducation primaire et intermédiaire du baccalauréat  international, sans qu'il soit tenu [...] compte de la spécificité de l'établissement  d'enseignement concerné ? »</li></ul></li></ul></p>",
+      "page": 154,
+      "polygon": [
+        [
+          26.7734375,
+          136.0849609375
+        ],
+        [
+          548.572265625,
+          136.0849609375
+        ],
+        [
+          548.572265625,
+          524.7046813964844
+        ],
+        [
+          26.7734375,
+          524.7046813964844
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        136.0849609375,
+        548.572265625,
+        524.7046813964844
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "4": "/page/7/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Sur la recevabilité de la demande de décision préjudicielle</b></h2>",
+      "page": 154,
+      "polygon": [
+        [
+          48.890625,
+          549.7475891113281
+        ],
+        [
+          363.1875,
+          549.7475891113281
+        ],
+        [
+          363.1875,
+          562.0084838867188
+        ],
+        [
+          48.890625,
+          562.0084838867188
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        549.7475891113281,
+        363.1875,
+        562.0084838867188
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/154",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">25 Le gouvernement lituanien fait valoir que la demande de décision préjudicielle est irrecevable au  motif que le droit lituanien ne soumet pas à une exigence de maîtrise de la langue lituanienne les  enseignants d'un établissement d'enseignement privé, tel que la VTM, qui dispense un  programme international d'éducation secondaire ainsi que les programmes d'éducation primaire  et intermédiaire du baccalauréat international. Ainsi, les questions posées par la juridiction de  renvoi n'auraient aucun rapport avec la réalité et l'objet du litige au principal, et l'interprétation  du droit de l'Union à laquelle visent ces questions ne serait pas nécessaire à la solution de ce litige.</li><li block-type=\"ListItem\">26 À cet égard, il convient de rappeler que la présomption de pertinence dont bénéficient les  questions relatives à l'interprétation du droit de l'Union posées par le juge national dans le cadre  réglementaire et factuel qu'il définit sous sa responsabilité et dont il n'appartient pas à la Cour de  vérifier l'exactitude ne saurait être renversée par des arguments contestant l'interprétation du</li></ul></p>",
+      "page": 154,
+      "polygon": [
+        [
+          24.4453125,
+          576.396240234375
+        ],
+        [
+          548.5574340820312,
+          576.396240234375
+        ],
+        [
+          548.5574340820312,
+          735.2646179199219
+        ],
+        [
+          24.4453125,
+          735.2646179199219
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        576.396240234375,
+        548.5574340820312,
+        735.2646179199219
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/9",
+      "block_type": "Text",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          547.109375,
+          792.5512275695801
+        ],
+        [
+          547.109375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        547.109375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          225.82812499999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          225.82812499999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        225.82812499999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6",
+        "4": "/page/8/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">droit national retenue par le juge de renvoi, ce dernier étant seul compétent pour interpréter et  appliquer celui-ci (voir, en ce sens, arrêt du 20 septembre 2018, OTP Bank et OTP Faktoring,  C-51/17, EU:C:2018:750, point 41).</p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          83.048828125
+        ],
+        [
+          548.5463256835938,
+          83.048828125
+        ],
+        [
+          548.5463256835938,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.048828125,
+        548.5463256835938,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6",
+        "4": "/page/8/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/152",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">27 En outre, dans sa réponse à la demande d'informations qui lui a été adressée par la Cour le  12 décembre 2024, la juridiction de renvoi a confirmé, sur la base d'une analyse détaillée des  dispositions de son droit national, que l'ensemble des enseignants et du personnel administratif  en communication régulière avec le public et avec les autorités administratives des  établissements d'enseignement tels que la VTM sont soumis à une exigence de maîtrise de la  langue lituanienne.</li><li block-type=\"ListItem\">28 Il s'ensuit que la présente demande de décision préjudicielle est recevable.</li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.7734375,
+          135.673828125
+        ],
+        [
+          548.5377197265625,
+          135.673828125
+        ],
+        [
+          548.5377197265625,
+          243.2271728515625
+        ],
+        [
+          26.7734375,
+          243.2271728515625
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        135.673828125,
+        548.5377197265625,
+        243.2271728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3",
+        "2": "/page/7/SectionHeader/6",
+        "4": "/page/8/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Sur les questions préjudicielles</b></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          48.30859375,
+          267.236328125
+        ],
+        [
+          217.04962158203125,
+          267.236328125
+        ],
+        [
+          217.04962158203125,
+          280.52972412109375
+        ],
+        [
+          48.30859375,
+          280.52972412109375
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        267.236328125,
+        217.04962158203125,
+        280.52972412109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Sur la première question</i></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          48.017578125,
+          303.8271484375
+        ],
+        [
+          182.0557861328125,
+          303.8271484375
+        ],
+        [
+          182.0557861328125,
+          316.75701904296875
+        ],
+        [
+          48.017578125,
+          316.75701904296875
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        303.8271484375,
+        182.0557861328125,
+        316.75701904296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">29 Par sa première question, la juridiction de renvoi demande, en substance, si l'article 49 TFUE doit  être interprété en ce sens qu'il s'applique à la situation d'un établissement d'enseignement privé  établi dans un État membre et dans le capital duquel des ressortissants d'autres États membres  détiennent une participation, lorsque cet établissement dispense, dans l'État membre où il est  établi, un programme international d'éducation secondaire ainsi que les programmes d'éducation  primaire et intermédiaire du baccalauréat international.</li><li block-type=\"ListItem\">30 À cet égard, l'article 49 TFUE énonce, à son second alinéa, que la liberté d'établissement comporte  l'accès aux activités non salariées et leur exercice, ainsi que la constitution et la gestion  d'entreprises, et notamment de sociétés au sens de l'article 54, deuxième alinéa, TFUE, dans les  conditions définies par la législation du pays d'établissement pour ses propres ressortissants, sous  réserve des dispositions du chapitre relatif aux capitaux.</li><li block-type=\"ListItem\">31 Il est de jurisprudence établie que la notion d'« établissement », au sens du traité FUE, revêt une  portée très large, impliquant la possibilité pour un ressortissant d'un État membre de participer,  de façon stable et continue, à la vie économique d'un État membre autre que son État d'origine,  et d'en tirer profit [arrêt du 4 octobre 2024, Lituanie e.a./Parlement et Conseil (Paquet mobilité),  C-541/20 à C-555/20, EU:C:2024:818, point 363 ainsi que jurisprudence citée].</li><li block-type=\"ListItem\">32 Cette notion implique ainsi l'exercice effectif d'une activité économique au moyen d'une  installation stable dans l'État membre d'accueil pour une durée indéterminée. Elle suppose, par  conséquent, une implantation réelle de l'opérateur concerné dans cet État membre et l'exercice  d'une activité économique effective dans celui-ci [arrêt du 4 octobre 2024, Lituanie  e.a./Parlement et Conseil (Paquet mobilité), C-541/20 à C-555/20, EU:C:2024:818, point 364].</li><li block-type=\"ListItem\">33 Ainsi, la Cour a déjà jugé que la liberté d'établissement couvre la situation dans laquelle un  ressortissant d'un État membre acquiert, dans le capital d'une société établie dans un autre État  membre, une participation lui permettant d'exercer une influence certaine sur les décisions de  cette société et d'en déterminer les activités (voir, en ce sens, arrêt du 21 décembre 2016, AGET  Iraklis, C-201/15, EU:C:2016:972, point 46 et jurisprudence citée).</li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          25.609375,
+          328.90625
+        ],
+        [
+          548.5720825195312,
+          328.90625
+        ],
+        [
+          548.5720825195312,
+          729.9353256225586
+        ],
+        [
+          25.609375,
+          729.9353256225586
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        328.90625,
+        548.5720825195312,
+        729.9353256225586
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/11",
+      "block_type": "Text",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 169,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.291015625,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/169",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">34 En l'occurrence, il est constant que le capital de la VTM, laquelle est établie en Lituanie et y  dispense, de manière stable et continue, des programmes d'éducation, était détenu, à la date  d'adoption de l'acte d'injonction du 26 mai 2022, notamment par une ressortissante finlandaise, à  hauteur de 49,96 % et par une ressortissante danoise, à hauteur de 25,02 %, ce qui était, en  principe, de nature à conférer à ces ressortissantes une influence certaine sur les décisions et les  activités de cet établissement d'enseignement (voir, par analogie, arrêt du 22 décembre 2008,  Truck Center, C-282/07, EU:C:2008:762, points 28 et 29).</li><li block-type=\"ListItem\">35 Il s'ensuit que la situation en cause au principal est susceptible de relever de l'article 49 TFUE,  pourvu qu'il soit établi, conformément à la jurisprudence citée au point 31 du présent arrêt, que  la VTM exerce de manière effective une activité économique au moyen de son établissement  situé en Lituanie.</li><li block-type=\"ListItem\">36 Toutefois, et alors que la juridiction de renvoi s'interroge uniquement sur l'interprétation de  l'article 49 TFUE, le gouvernement néerlandais considère que la situation en cause au principal  devrait être examinée au regard de l'article 45 TFUE, dès lors que l'exigence de maîtrise de la  langue lituanienne est imposée au personnel de la VTM.</li><li block-type=\"ListItem\">37 À cet égard, la Cour a jugé que, lorsqu'une mesure nationale se rattache simultanément à plusieurs  libertés fondamentales, la Cour l'examine, en principe, au regard de l'une seulement desdites  libertés s'il s'avère que, dans les circonstances de l'espèce, les autres sont tout à fait secondaires  par rapport à la première et peuvent lui être rattachées. Afin de déterminer la liberté fondamentale  prépondérante, il y a lieu de prendre en considération l'objet de la réglementation concernée ainsi  que, le cas échéant, les éléments factuels afférents au litige au principal (voir, en ce sens, arrêts du  11 juin 2020, KOB, C-206/19, EU:C:2020:463, points 23 et 25, ainsi que arrêt du 7 septembre 2022,  Cilevičs e.a., C-391/20, EU:C:2022:638, points 50 et 51 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">38 En outre, la Cour a jugé que, s'il est établi que les droits de libre circulation prévus à  l'article 45 TFUE bénéficient aux travailleurs, rien dans le libellé dudit article n'indique que ces  droits ne peuvent être invoqués par autrui, en particulier par les employeurs. En effet, pour être  efficace et utile, le droit des travailleurs d'être engagés et occupés sans discrimination doit  nécessairement avoir comme complément le droit des employeurs de les engager dans le respect  des règles en matière de libre circulation des travailleurs (voir, en ce sens, arrêts du 7 mai 1998,  Clean Car Autoservice, C-350/96, EU:C:1998:205, points 19 et 20, ainsi que du  13 décembre 2012, Caves Krier Frères, C-379/11, EU:C:2012:798, point 28).</li><li block-type=\"ListItem\">39 Cela étant, outre le fait que le recours au principal a été introduit par la VTM de son propre chef, il  ressort de la décision de renvoi et sans que cela soit remis en cause dans les observations soumises  à la Cour que l'acte d'injonction du 26 mai 2022 visé par ce recours a été adressé non pas aux  dix-huit membres du personnel concernés mais à la VTM elle-même, celle-ci s'étant vu  reprocher par la VKI de ne pas se conformer à son obligation de veiller à ce que son personnel  satisfasse à l'exigence de maîtrise de la langue lituanienne, telle que prévue par la réglementation  nationale. En effet, en application de cette réglementation, le titulaire d'une autorisation  d'appliquer des programmes éducatifs émanant d'États étrangers et d'organisations  internationales est tenu, notamment, de contrôler les connaissances de la langue officielle  conformément aux programmes généraux approuvés par le ministre de l'Éducation et des  Sciences, de veiller à ce que la formation ainsi que les qualifications des enseignants et des  prestataires de services pédagogiques répondent aux exigences énoncées dans le programme</li></ul></p>",
+      "page": 169,
+      "polygon": [
+        [
+          25.609375,
+          84.2822265625
+        ],
+        [
+          548.5732421875,
+          84.2822265625
+        ],
+        [
+          548.5732421875,
+          723.59375
+        ],
+        [
+          25.609375,
+          723.59375
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        84.2822265625,
+        548.5732421875,
+        723.59375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 169,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">éducatif, de respecter les exigences de la loi sur l'éducation et d'autres actes juridiques, ainsi que de  fournir aux autorités de contrôle, à leur demande, les documents et les données relatifs à la mise  en œuvre du programme éducatif et de permettre leur vérification.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          47.7265625,
+          83.048828125
+        ],
+        [
+          548.5327758789062,
+          83.048828125
+        ],
+        [
+          548.5327758789062,
+          123.3209228515625
+        ],
+        [
+          47.7265625,
+          123.3209228515625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.048828125,
+        548.5327758789062,
+        123.3209228515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">40 Enfin, la demande de décision préjudicielle ne fait pas état de ce que la VTM aurait, devant la  juridiction de renvoi, fait valoir son droit de pouvoir engager ses employés dans le respect des  règles en matière de libre circulation des travailleurs.</li><li block-type=\"ListItem\">41 Ainsi, en considération tant de l'objet de la réglementation nationale en cause au principal que de  celui du litige au principal, celui-ci doit s'apprécier au regard de l'article 49 TFUE.</li><li block-type=\"ListItem\">42 À cet égard, la Cour a jugé que l'organisation, contre rémunération, de cours d'enseignement  supérieur est une activité économique qui relève du chapitre 2 du titre IV de la troisième partie du  traité FUE, relatif au droit d'établissement, lorsqu'elle est effectuée par le ressortissant d'un État  membre dans un autre État membre, d'une façon stable et continue, à partir d'un établissement  principal ou secondaire dans ce dernier État membre (arrêt du 7 septembre 2022, Cilevičs e.a.,  C-391/20, EU:C:2022:638, point 52 ainsi que jurisprudence citée). Dès lors que la qualification  d'une activité d'enseignement comme étant une activité économique dépend du point de savoir  si les cours sont dispensés contre rémunération, et non du degré d'enseignement auquel ceux-ci se  rattachent, cette jurisprudence s'applique par analogie à l'organisation, contre rémunération, de  cours d'enseignement primaire, intermédiaire et secondaire, effectuée par un établissement  d'enseignement privé établi dans un État membre et dans le capital duquel un ressortissant d'un  autre État membre détient une participation lui permettant d'exercer une influence certaine sur  ses décisions et d'en déterminer les activités.</li><li block-type=\"ListItem\">43 En l'occurrence, il appartient donc à la juridiction de renvoi d'examiner si les programmes  d'éducation que la VTM dispense sont organisés contre rémunération.</li><li block-type=\"ListItem\">44 Au vu des considérations qui précèdent, il y a lieu de répondre à la première question que  l'article 49 TFUE doit être interprété en ce sens qu'il s'applique à la situation d'un établissement  d'enseignement privé établi dans un État membre et dans le capital duquel un ressortissant d'un  autre État membre détient une participation lui permettant d'exercer une influence certaine sur  ses décisions et d'en déterminer les activités, lorsque cet établissement dispense, dans l'État  membre où il est établi, contre rémunération, un programme international d'éducation  secondaire ainsi que les programmes d'éducation primaire et intermédiaire du baccalauréat  international.</li></ul></p>",
+      "page": 162,
+      "polygon": [
+        [
+          24.4453125,
+          135.673828125
+        ],
+        [
+          548.5585327148438,
+          135.673828125
+        ],
+        [
+          548.5585327148438,
+          563.8242492675781
+        ],
+        [
+          24.4453125,
+          563.8242492675781
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        135.673828125,
+        548.5585327148438,
+        563.8242492675781
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Sur la deuxième question</i></h1>",
+      "page": 162,
+      "polygon": [
+        [
+          47.435546875,
+          587.5087890625
+        ],
+        [
+          185.6837921142578,
+          587.5087890625
+        ],
+        [
+          185.6837921142578,
+          600.0503082275391
+        ],
+        [
+          47.435546875,
+          600.0503082275391
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        587.5087890625,
+        185.6837921142578,
+        600.0503082275391
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/162",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">45 À titre liminaire, il convient de relever que la législation lituanienne fait obligation aux  établissements d'enseignement privé de vérifier si leurs enseignants et les membres de leur  personnel administratif en communication régulière avec le public et avec les autorités  administratives possèdent une maîtrise de la langue lituanienne de catégorie II, correspondant à  la capacité pour ces personnes, notamment, de comprendre des textes oraux ou écrits traitant de  sujets familiers, de s'exprimer sur des sujets variés concernant la vie quotidienne ou le travail, ou  encore de rédiger un texte simple et cohérent sur des sujets familiers.</li><li block-type=\"ListItem\">46 Ainsi, par sa deuxième question, la juridiction de renvoi demande en substance si  l'article 49 TFUE doit être interprété en ce sens qu'il s'oppose, dans une situation relevant de son  champ d'application, à la réglementation d'un État membre en vertu de laquelle un établissement</li></ul></p>",
+      "page": 162,
+      "polygon": [
+        [
+          24.4453125,
+          612.1767578125
+        ],
+        [
+          548.5451049804688,
+          612.1767578125
+        ],
+        [
+          548.5451049804688,
+          760.2089309692383
+        ],
+        [
+          24.4453125,
+          760.2089309692383
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        612.1767578125,
+        548.5451049804688,
+        760.2089309692383
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          545.6552734375,
+          791.4306640625
+        ],
+        [
+          545.6552734375,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        545.6552734375,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/7",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">d'enseignement privé, qui dispense, dans une langue autre que la langue officielle de cet État  membre, un programme international d'éducation secondaire ainsi que les programmes  d'éducation primaire et intermédiaire du baccalauréat international, est tenu de vérifier si ses  enseignants et les membres de son personnel administratif en communication régulière avec le  public et avec les autorités administratives satisfont à l'exigence de maîtrise, à un niveau  intermédiaire, de cette langue officielle.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          47.7265625,
+          81.8154296875
+        ],
+        [
+          548.5586547851562,
+          81.8154296875
+        ],
+        [
+          548.5586547851562,
+          163.23260498046875
+        ],
+        [
+          47.7265625,
+          163.23260498046875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        81.8154296875,
+        548.5586547851562,
+        163.23260498046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/7",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Sur l'existence d'une restriction à la liberté garantie à l'article 49 TFUE</i></h1>",
+      "page": 145,
+      "polygon": [
+        [
+          48.890625,
+          185.009765625
+        ],
+        [
+          408.84686279296875,
+          185.009765625
+        ],
+        [
+          408.84686279296875,
+          198.43853759765625
+        ],
+        [
+          48.890625,
+          198.43853759765625
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        185.009765625,
+        408.84686279296875,
+        198.43853759765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/145",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">47 Conformément à l'article 6 TFUE, l'Union dispose d'une compétence pour mener des actions pour  appuyer, coordonner ou compléter l'action des États membres notamment dans le domaine de  l'éducation. Si le droit de l'Union ne porte pas atteinte à cette compétence des États membres en  ce qui concerne, d'une part, le contenu de l'enseignement et l'organisation du système éducatif  ainsi que leur diversité culturelle et linguistique et, d'autre part, le contenu et l'organisation de la  formation professionnelle, ainsi que cela découle de l'article 165, paragraphe 1, et de l'article 166,  paragraphe 1, TFUE, il demeure que, dans l'exercice de cette compétence, les États membres  doivent respecter le droit de l'Union, notamment les dispositions relatives à la liberté  d'établissement (arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638, points 58 et 59 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">48 À cet égard, l'article 49, premier alinéa, TFUE dispose que, dans le cadre des dispositions qui  figurent au chapitre 2 du titre IV de la troisième partie du traité FUE, les restrictions à la liberté  d'établissement des ressortissants d'un État membre sur le territoire d'un autre État membre sont  interdites. Doivent être considérées comme des restrictions à la liberté d'établissement toutes les  mesures qui interdisent, gênent ou rendent moins attrayant l'exercice de la liberté garantie à  l'article 49 TFUE (arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638, points 60 et 61 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">49 En l'occurrence, s'il est vrai que les ressortissants d'États membres autres que la République de  Lituanie peuvent s'établir sur le territoire de celle-ci et y dispenser, dans le cadre d'un  établissement d'enseignement privé, des programmes d'éducation dans une langue autre que la  langue lituanienne, une telle possibilité demeure, en principe, subordonnée au respect d'une  exigence linguistique prévue par la réglementation en vigueur. Ainsi, c'est en raison de la  méconnaissance de cette exigence que, par l'acte d'injonction du 26 mai 2022, la VKI a imposé à  la VTM que ses enseignants et les membres de son personnel administratif en communication  régulière avec le public et avec les autorités administratives démontrent une maîtrise de la langue  lituanienne de catégorie II.</li><li block-type=\"ListItem\">50 Or, la réglementation nationale en cause au principal est susceptible, par les contraintes qu'elle  peut entraîner en matière de recrutement d'un personnel dûment qualifié, de rendre moins  attrayantes la création et l'exploitation en Lituanie, par des ressortissants d'autres États membres,  d'un établissement d'enseignement ayant vocation à fournir des programmes d'éducation dans  une langue autre que la langue lituanienne, ce qui constitue une restriction à la liberté  d'établissement.</li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          25.609375,
+          212.82421875
+        ],
+        [
+          548.5584106445312,
+          212.82421875
+        ],
+        [
+          548.5584106445312,
+          678.2310180664062
+        ],
+        [
+          25.609375,
+          678.2310180664062
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        212.82421875,
+        548.5584106445312,
+        678.2310180664062
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/2",
+        "4": "/page/12/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Sur la justification de la restriction à la liberté garantie à l'article 49 TFUE</i></h1>",
+      "page": 175,
+      "polygon": [
+        [
+          47.7265625,
+          83.87109375
+        ],
+        [
+          429.5390625,
+          83.87109375
+        ],
+        [
+          429.5390625,
+          96.619140625
+        ],
+        [
+          47.7265625,
+          96.619140625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.87109375,
+        429.5390625,
+        96.619140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/175",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">51 Selon une jurisprudence constante, une restriction à la liberté d'établissement ne peut être admise  qu'à la condition, en premier lieu, d'être justifiée par une raison impérieuse d'intérêt général et, en  second lieu, de respecter le principe de proportionnalité, ce qui implique qu'elle soit propre à  garantir, de façon cohérente et systématique, la réalisation de l'objectif poursuivi, qu'elle n'aille pas  au-delà de ce qui est nécessaire pour l'atteindre et qu'elle ne soit pas disproportionnée par rapport  à cet objectif (voir, en ce sens, arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638,  point 65 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">52 En l'occurrence, s'agissant de l'existence d'une raison impérieuse d'intérêt général, il ressort du  dossier dont dispose la Cour que la réglementation nationale en cause au principal apparaît  destinée à défendre et à promouvoir l'emploi de la langue officielle de la République de Lituanie,  ce qui constitue un objectif légitime de nature à justifier, en principe, une restriction aux libertés  fondamentales prévues par le droit de l'Union (voir, par analogie, arrêt du 7 septembre 2022,  Cilevičs e.a., C-391/20, EU:C:2022:638, points 67 à 70 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">53 En effet, aux termes de l'article 3, paragraphe 3, quatrième alinéa, TUE ainsi que de l'article 22 de  la charte des droits fondamentaux de l'Union européenne, l'Union respecte la richesse de sa  diversité culturelle et linguistique et, conformément à l'article 4, paragraphe 2, TUE, elle respecte  également l'identité nationale de ses États membres, dont fait aussi partie la protection de la  langue officielle de l'État membre concerné (arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20,  EU:C:2022:638, point 68 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">54 Quant à la question de savoir si la réglementation nationale en cause au principal est propre à  garantir la réalisation de l'objectif légitime de défense et de promotion de la langue lituanienne, si  elle ne va pas au-delà de ce qui est nécessaire pour l'atteindre et si elle n'est pas disproportionnée  par rapport à cet objectif, il appartient en dernier ressort à la juridiction de renvoi, qui est seule  compétente pour apprécier les faits du litige au principal et pour interpréter la réglementation  nationale, de déterminer si et dans quelle mesure une telle réglementation satisfait à ces  conditions (voir, par analogie, arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638,  point 72 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">55 Toutefois, appelée à fournir à cette juridiction une réponse utile, la Cour est compétente pour lui  donner des indications tirées du dossier de l'affaire au principal ainsi que des observations écrites  qui lui ont été soumises, de nature à lui permettre de statuer (voir, par analogie, arrêt du  7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638, point 73 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">56 À cet égard, il convient de constater, premièrement, qu'une réglementation d'un État membre  telle que celle en cause au principal apparaît propre à garantir la réalisation de l'objectif de  défense et de promotion de la langue officielle de cet État membre. En effet, une telle  réglementation favorise la pratique de ladite langue par les personnes soumises à cette exigence  linguistique dans leurs relations avec les élèves, les parents d'élèves et le public en général ainsi  que, pour ce qui concerne plus particulièrement le personnel administratif, avec les autorités  administratives nationales.</li><li block-type=\"ListItem\">57 Certes, cette réglementation ne saurait être considérée comme étant de nature à garantir cet  objectif que si elle répond véritablement au souci de l'atteindre et si elle est mise en œuvre de  manière cohérente et systématique (arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20,  EU:C:2022:638, point 75 ainsi que jurisprudence citée).</li></ul></p>",
+      "page": 175,
+      "polygon": [
+        [
+          26.7734375,
+          111.004150390625
+        ],
+        [
+          548.5745239257812,
+          111.004150390625
+        ],
+        [
+          548.5745239257812,
+          760.2082977294922
+        ],
+        [
+          26.7734375,
+          760.2082977294922
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        111.004150390625,
+        548.5745239257812,
+        760.2082977294922
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/9",
+      "block_type": "Text",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6552734375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.291015625,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">58 Or, tel semble être le cas en l'occurrence puisque, ainsi qu'il ressort du dossier dont dispose la  Cour, la réglementation nationale en cause au principal s'applique non seulement à tous les  établissements d'enseignement situés en Lituanie mais également à l'ensemble des employés de  ces établissements dont l'emploi implique, notamment, une communication régulière avec  d'autres personnes et la nécessité de remplir des formulaires types officiels.</li><li block-type=\"ListItem\">59 Deuxièmement, s'agissant du caractère nécessaire de la réglementation nationale en cause au  principal, en particulier de l'exigence linguistique qu'elle contient, il convient de rappeler que les  mesures restrictives d'une liberté fondamentale ne peuvent être justifiées lorsque l'objectif visé  peut être atteint par des mesures moins restrictives (voir, en ce sens, arrêt du 7 septembre 2022,  Cilevičs e.a., C-391/20, EU:C:2022:638, point 81 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">60 Dans ce contexte, si les États membres disposent d'une large marge d'appréciation lors du choix  des mesures susceptibles de réaliser les objectifs de leur politique visant à protéger la langue  officielle, dès lors qu'une telle politique constitue l'expression de l'identité nationale, au sens de  l'article 4, paragraphe 2, TUE, cette marge d'appréciation ne saurait justifier qu'il soit  sérieusement porté atteinte aux droits que les particuliers tirent des dispositions des traités  consacrant leurs libertés fondamentales (arrêt du 7 septembre 2022, Cilevičs e.a., C-391/20,  EU:C:2022:638, point 83 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">61 En l'occurrence, et alors que la République de Lituanie entend assurer, comme en témoigne sa  législation, un niveau de défense et de promotion élevé de sa langue officielle, il n'est pas établi,  ainsi que l'a relevé M. l'avocat général au point 54 de ses conclusions, que des mesures moins  contraignantes que l'exigence linguistique en cause au principal pourraient être de nature à  garantir un niveau d'efficacité équivalent dans la réalisation d'un tel objectif.</li><li block-type=\"ListItem\">62 Ainsi, l'exigence linguistique en cause au principal paraît, en tant que telle, satisfaire à la condition  de nécessité.</li><li block-type=\"ListItem\">63 Il importe toutefois de prendre également en compte, dans l'examen de cette condition, les  modalités de preuve requises par la réglementation nationale pour établir que cette exigence  linguistique est remplie.</li><li block-type=\"ListItem\">64 À cet égard, dans le cadre de sa réponse à la demande d'informations mentionnée au point 27 du  présent arrêt, la juridiction de renvoi a indiqué que la réglementation nationale prévoit que la  personne qui entend démontrer qu'elle possède le niveau requis de maîtrise de la langue  lituanienne est tenue de produire un certificat délivré par la Nacionalinė švietimo agentūra  (agence nationale de l'éducation, Lituanie) sur la base de tests de langue organisés sur le territoire  lituanien.</li><li block-type=\"ListItem\">65 Certes, la production d'un certificat peut constituer un critère permettant d'évaluer les  connaissances linguistiques requises (voir, par analogie, arrêt du 5 février 2015,  Commission/Belgique, C-317/14, EU:C:2015:63, point 27). Toutefois, l'impossibilité pour un  candidat à un emploi dans un établissement d'enseignement privé d'apporter la preuve qu'il  répond à l'exigence linguistique prescrite autrement que par l'obtention d'un tel certificat, tel que  celui requis par la réglementation lituanienne, apparaît comme allant au-delà de ce qui est  nécessaire pour atteindre l'objectif légitime poursuivi, puisqu'elle exclut toute prise en  considération du degré de connaissance qu'un certificat ou un diplôme obtenu dans un autre État</li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          25.609375,
+          84.2822265625
+        ],
+        [
+          548.5621948242188,
+          84.2822265625
+        ],
+        [
+          548.5621948242188,
+          722.9620056152344
+        ],
+        [
+          25.609375,
+          722.9620056152344
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        84.2822265625,
+        548.5621948242188,
+        722.9620056152344
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/9",
+      "block_type": "Text",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">membre, eu égard à la nature et à la durée des cours dont il atteste l'accomplissement, permettrait  de présumer dans le chef de son titulaire (voir, par analogie, arrêt du 5 février 2015,  Commission/Belgique, C-317/14, EU:C:2015:63, point 29).</p>",
+      "page": 163,
+      "polygon": [
+        [
+          47.7265625,
+          82.6376953125
+        ],
+        [
+          548.5365600585938,
+          82.6376953125
+        ],
+        [
+          548.5365600585938,
+          123.83099365234375
+        ],
+        [
+          47.7265625,
+          123.83099365234375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        82.6376953125,
+        548.5365600585938,
+        123.83099365234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/ListGroup/163",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">66 Dans ces conditions, une réglementation nationale telle que celle en cause au principal, qui  impose aux personnes qu'elle vise, afin de démontrer qu'elles possèdent le niveau requis de  maîtrise de la langue officielle, de produire un certificat délivré par un organisme de l'État  membre concerné sur la base de tests de langue organisés sur le territoire de celui-ci, apparaît  dépasser ce qui est nécessaire pour atteindre son objectif légitime, ce qu'il appartient à la  juridiction de renvoi de vérifier.</li><li block-type=\"ListItem\">67 Troisièmement, en ce qui concerne le caractère proportionné, au sens strict, de la réglementation  nationale en cause au principal, il y a lieu de rappeler qu'un objectif d'intérêt général, tel que la  défense et la promotion de la langue officielle, ne saurait être poursuivi par une mesure nationale  sans tenir compte du fait qu'il doit être concilié avec les droits fondamentaux et les principes  concernés par cette mesure, tels qu'ils sont énoncés par les traités, et ce en effectuant une  pondération équilibrée entre, d'une part, cet objectif d'intérêt général et, d'autre part, les droits et  principes en cause, afin d'assurer que les inconvénients causés par ladite mesure ne soient pas  démesurés par rapport auxdits objectifs (voir, par analogie, arrêt du 18 décembre 2025, Slagelse  Almennyttige Boligselskab, Afdeling Schackenborgvænge, C-417/23, EU:C:2025:1017, point 168).</li><li block-type=\"ListItem\">68 Ainsi, lorsqu'un État membre entend imposer, aux fins de l'objectif de défense et de promotion de  sa langue officielle, une exigence linguistique aux enseignants et à certains membres du personnel  administratif des établissements d'enseignement privé, il lui appartient d'effectuer une  pondération équilibrée entre cet objectif d'intérêt général et les droits tirés de l'article 49 TFUE.  À titre d'exemple, une telle pondération équilibrée serait réalisée par une réglementation  nationale prévoyant la possibilité d'une mise en conformité progressive du niveau de maîtrise de  la langue officielle postérieurement au recrutement, d'un assouplissement du niveau de maîtrise  requis en fonction de la durée de l'emploi ou encore de l'introduction d'une exemption de cette  exigence linguistique, justifiée par des circonstances appropriées, notamment lorsqu'aucun  candidat pleinement qualifié ne se présente pour le poste à pourvoir (voir, en ce sens, arrêt du  7 septembre 2022, Cilevičs e.a., C-391/20, EU:C:2022:638, points 84 et 85).</li><li block-type=\"ListItem\">69 En l'occurrence, il ressort de la décision de renvoi que l'exigence linguistique en cause au principal  est imposée, dès leur entrée en fonction et indépendamment de la durée de leur contrat de travail,  à l'ensemble des enseignants et des membres du personnel administratif qui sont en  communication régulière avec le public et avec les autorités administratives, employés d'un  établissement d'enseignement privé, et ce sans qu'il soit prévu d'exception ou d'assouplissement  à cet égard.</li><li block-type=\"ListItem\">70 Il s'ensuit que la réglementation nationale en cause au principal ne semble pas satisfaire au  principe de proportionnalité, au sens strict, en ce sens qu'elle apparaît disproportionnée par  rapport à l'objectif poursuivi, ce qu'il appartient à la juridiction de renvoi d'apprécier.</li><li block-type=\"ListItem\">71 Eu égard aux considérations qui précèdent, il convient de répondre à la deuxième question que  l'article 49 TFUE doit être interprété en ce sens qu'il ne s'oppose pas, dans une situation relevant  de son champ d'application, à la réglementation d'un État membre en vertu de laquelle un  établissement d'enseignement privé, qui dispense, dans une langue autre que la langue officielle  de cet État membre, un programme international d'éducation secondaire ainsi que les  programmes d'éducation primaire et intermédiaire du baccalauréat international, est tenu de</li></ul></p>",
+      "page": 163,
+      "polygon": [
+        [
+          24.4453125,
+          136.0849609375
+        ],
+        [
+          548.5720825195312,
+          136.0849609375
+        ],
+        [
+          548.5720825195312,
+          760.2093505859375
+        ],
+        [
+          24.4453125,
+          760.2093505859375
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        136.0849609375,
+        548.5720825195312,
+        760.2093505859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.6552734375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 155,
+      "polygon": [
+        [
+          224.66406249999997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.66406249999997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.66406249999997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vérifier si ses enseignants et les membres de son personnel administratif en communication  régulière avec le public et avec les autorités administratives satisfont à l'exigence de maîtrise, à un  niveau intermédiaire, de cette langue officielle, à la condition que cette réglementation soit  justifiée par un objectif de défense et de promotion de ladite langue officielle et qu'elle soit  nécessaire et proportionnée à la réalisation de cet objectif. Cette condition n'est pas satisfaite  lorsque ladite réglementation s'applique, sans possibilité d'exception ou d'assouplissement, à  l'ensemble des personnes qu'elle vise et leur impose, afin de démontrer qu'elles possèdent le  niveau requis de maîtrise de la langue officielle, de produire un certificat délivré par un  organisme de l'État membre concerné sur la base de tests de langue organisés sur le territoire de  celui-ci.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.559814453125,
+          83.4599609375
+        ],
+        [
+          548.559814453125,
+          216.57977294921875
+        ],
+        [
+          47.7265625,
+          216.57977294921875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.559814453125,
+        216.57977294921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "4": "/page/14/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Sur la troisième question</i></h2>",
+      "page": 155,
+      "polygon": [
+        [
+          47.14453125,
+          240.546142578125
+        ],
+        [
+          183.86917114257812,
+          240.546142578125
+        ],
+        [
+          183.86917114257812,
+          252.80706787109375
+        ],
+        [
+          47.14453125,
+          252.80706787109375
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        240.546142578125,
+        183.86917114257812,
+        252.80706787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/15/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/ListGroup/155",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">72 Par sa troisième question, la juridiction de renvoi demande, en substance, si l'article 53,  paragraphe 1, de la directive 2005/36 doit être interprété en ce sens qu'il s'oppose, dans une  situation relevant de son champ d'application, à la réglementation d'un État membre en vertu de  laquelle les enseignants d'un établissement d'enseignement privé qui dispense, dans une langue  autre que la langue officielle de cet État membre, un programme international d'éducation  secondaire ainsi que les programmes d'éducation primaire et intermédiaire du baccalauréat  international sont soumis à une exigence de maîtrise, à un niveau intermédiaire, de cette langue  officielle.</li><li block-type=\"ListItem\">73 Il importe de rappeler que, en vertu de l'article 2, paragraphe 1, premier alinéa, de la  directive 2005/36, celle-ci s'applique à tout ressortissant d'un État membre voulant exercer une  profession réglementée dans un État membre autre que celui où il a acquis ses qualifications  professionnelles.</li><li block-type=\"ListItem\">74 Par ailleurs, selon l'article 53, paragraphe 1, de cette directive, les professionnels bénéficiant de la  reconnaissance des qualifications professionnelles doivent avoir les connaissances linguistiques  nécessaires à l'exercice de la profession dans l'État membre d'accueil.</li><li block-type=\"ListItem\">75 Ainsi, en l'occurrence, il appartient au préalable à la juridiction de renvoi, afin de vérifier si le litige  au principal relève du champ d'application de l'article 53, paragraphe 1, de la directive 2005/36, de  rechercher si ceux des enseignants de la VTM qui ne sont pas des ressortissants lituaniens ont  acquis leurs qualifications professionnelles dans des États membres autres que la République de  Lituanie et ont bénéficié dans ce dernier État membre de la reconnaissance de ces qualifications  professionnelles.</li><li block-type=\"ListItem\">76 Sous réserve de cette observation, il y a lieu de considérer que, compte tenu de l'importance que  revêt l'enseignement en vue de la réalisation d'une politique qui vise la défense et la promotion  de la langue d'un État membre, et du fait que les enseignants ont un rôle essentiel à jouer non  seulement par l'enseignement qu'ils dispensent mais aussi par leur participation à la vie  quotidienne de l'établissement scolaire et par les relations privilégiées qu'ils entretiennent avec  leurs élèves, une exigence de maîtrise de la langue officielle de l'État membre dans lequel ils  exercent leur profession peut être regardée comme constituant une condition correspondant aux  connaissances linguistiques nécessaires à l'exercice de leur profession, au sens de l'article 53,  paragraphe 1, de la directive 2005/36 (voir, par analogie, arrêt du 28 novembre 1989, Groener,  C-379/87, EU:C:1989:599, points 19 à 21).</li></ul></p>",
+      "page": 155,
+      "polygon": [
+        [
+          25.609375,
+          266.4140625
+        ],
+        [
+          548.5572509765625,
+          266.4140625
+        ],
+        [
+          548.5572509765625,
+          732.5987777709961
+        ],
+        [
+          25.609375,
+          732.5987777709961
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        266.4140625,
+        548.5572509765625,
+        732.5987777709961
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/15/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 155,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/15/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 140,
+      "polygon": [
+        [
+          225.53710937499997,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          40.291015625
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          225.53710937499997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        225.53710937499997,
+        40.291015625,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/15/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/ListGroup/140",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">77 Toutefois, il convient de prendre en considération le fait que la directive 2005/36 doit être  interprétée à la lumière des libertés fondamentales garanties par le droit de l'Union, en  particulier de l'article 49 TFUE, dans l'hypothèse où, comme c'est le cas dans l'affaire au  principal, la réglementation d'un État membre impose aux établissements d'enseignement établis  sur son territoire de veiller à ce que ses enseignants satisfassent à une exigence linguistique  déterminée.</li><li block-type=\"ListItem\">78 Ainsi, la conformité d'une telle réglementation à l'article 53, paragraphe 1, de la directive 2005/36,  lu à la lumière de l'article 49 TFUE, doit s'apprécier selon les mêmes critères que ceux applicables  à l'examen de la conformité de cette réglementation à l'article 49 TFUE, visés aux points 51 à 68 du  présent arrêt, ce qui suppose de vérifier si ladite réglementation est justifiée par un objectif de  défense et de promotion de la langue officielle de l'État membre en cause et si elle est nécessaire  et proportionnée à la réalisation de cet objectif.</li><li block-type=\"ListItem\">79 À titre surabondant, il importe de relever que l'article 53, paragraphe 3, de la directive 2005/36  prévoit que des contrôles visant à vérifier le respect de l'obligation énoncée au paragraphe 1 de  cet article ne peuvent être imposés, pour des professions autres que celles ayant des implications  en matière de sécurité des patients, que s'il existe « un doute sérieux et concret » sur le niveau  suffisant des connaissances linguistiques du professionnel au regard des activités professionnelles  qu'il entend exercer.</li><li block-type=\"ListItem\">80 Compte tenu des considérations qui précèdent, il convient de répondre à la troisième question  que l'article 53, paragraphe 1, de la directive 2005/36, lu à la lumière de l'article 49 TFUE, doit  être interprété en ce sens qu'il ne s'oppose pas, dans une situation relevant de son champ  d'application, à la réglementation d'un État membre en vertu de laquelle les enseignants d'un  établissement d'enseignement privé qui dispense, dans une langue autre que la langue officielle  de cet État membre, un programme international d'éducation secondaire ainsi que les  programmes d'éducation primaire et intermédiaire du baccalauréat international sont soumis à  une exigence de maîtrise, à un niveau intermédiaire, de cette langue officielle, à la condition que  cette réglementation soit justifiée par un objectif de défense et de promotion de cette langue  officielle et qu'elle soit nécessaire et proportionnée à la réalisation de cet objectif. Cette condition  n'est pas satisfaite lorsque ladite réglementation s'applique, sans possibilité d'exception ou  d'assouplissement, à l'ensemble des personnes qu'elle vise et leur impose, afin de démontrer  qu'elles possèdent le niveau requis de maîtrise de la langue officielle, de produire un certificat  délivré par un organisme de l'État membre concerné sur la base de tests de langue organisés sur  le territoire de celui-ci.</li></ul></p>",
+      "page": 140,
+      "polygon": [
+        [
+          25.609375,
+          83.87109375
+        ],
+        [
+          548.5732421875,
+          83.87109375
+        ],
+        [
+          548.5732421875,
+          563.0869140625
+        ],
+        [
+          25.609375,
+          563.0869140625
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        83.87109375,
+        548.5732421875,
+        563.0869140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/15/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Sur les dépens</b></h2>",
+      "page": 140,
+      "polygon": [
+        [
+          48.017578125,
+          588.1297607421875
+        ],
+        [
+          127.11837005615234,
+          588.1297607421875
+        ],
+        [
+          127.11837005615234,
+          600.3906707763672
+        ],
+        [
+          48.017578125,
+          600.3906707763672
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        588.1297607421875,
+        127.11837005615234,
+        600.3906707763672
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">81 La procédure revêtant, à l'égard des parties au principal, le caractère d'un incident soulevé devant  la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour  soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l'objet  d'un remboursement.</p>",
+      "page": 140,
+      "polygon": [
+        [
+          25.609375,
+          613.41015625
+        ],
+        [
+          548.5463256835938,
+          613.41015625
+        ],
+        [
+          548.5463256835938,
+          667.0062255859375
+        ],
+        [
+          25.609375,
+          667.0062255859375
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        613.41015625,
+        548.5463256835938,
+        667.0062255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 140,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          224.95507812499997,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          40.7021484375
+        ],
+        [
+          371.2786560058594,
+          60.19659423828125
+        ],
+        [
+          224.95507812499997,
+          60.19659423828125
+        ]
+      ],
+      "bbox": [
+        224.95507812499997,
+        40.7021484375,
+        371.2786560058594,
+        60.19659423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Par ces motifs, la Cour (première chambre) dit pour droit :</p>",
+      "page": 150,
+      "polygon": [
+        [
+          48.890625,
+          83.87109375
+        ],
+        [
+          347.8709716796875,
+          83.87109375
+        ],
+        [
+          347.8709716796875,
+          96.619140625
+        ],
+        [
+          48.890625,
+          96.619140625
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        83.87109375,
+        347.8709716796875,
+        96.619140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><b>1)</b> <b>L'article 49 TFUE doit être interprété en ce sens qu'il s'applique à la situation d'un </b> <b>établissement d'enseignement privé établi dans un État membre et dans le capital duquel </b> <b>un ressortissant d'un autre État membre détient une participation lui permettant </b> <b>d'exercer une influence certaine sur ses décisions et d'en déterminer les activités, </b> <b>lorsque cet établissement dispense, dans l'État membre où il est établi, contre </b> <b>rémunération, un programme international d'éducation secondaire ainsi que les </b> <b>programmes d'éducation primaire et intermédiaire du baccalauréat international.</b></li><li block-type=\"ListItem\"><b>2)</b> <b>L'article 49 TFUE doit être interprété en ce sens qu'il ne s'oppose pas, dans une situation </b> <b>relevant de son champ d'application, à la réglementation d'un État membre en vertu de </b> <b>laquelle un établissement d'enseignement privé, qui dispense, dans une langue autre que </b> <b>la langue officielle de cet État membre, un programme international d'éducation </b> <b>secondaire ainsi que les programmes d'éducation primaire et intermédiaire du </b> <b>baccalauréat international, est tenu de vérifier si ses enseignants et les membres de son </b> <b>personnel administratif en communication régulière avec le public et avec les autorités </b> <b>administratives satisfont à l'exigence de maîtrise, à un niveau intermédiaire, de cette </b> <b>langue officielle, à la condition que cette réglementation soit justifiée par un objectif de </b> <b>défense et de promotion de ladite langue officielle et qu'elle soit nécessaire et </b> <b>proportionnée à la réalisation de cet objectif. Cette condition n'est pas satisfaite lorsque </b> <b>ladite réglementation s'applique, sans possibilité d'exception ou d'assouplissement, à </b> <b>l'ensemble des personnes qu'elle vise et leur impose, afin de démontrer qu'elles </b> <b>possèdent le niveau requis de maîtrise de la langue officielle, de produire un certificat </b> <b>délivré par un organisme de l'État membre concerné sur la base de tests de langue </b> <b>organisés sur le territoire de celui-ci.</b></li><li block-type=\"ListItem\"><b>3)</b> <b>L'article 53, paragraphe 1, de la directive 2005/36/CE du Parlement européen et du </b> <b>Conseil, du 7 septembre 2005, relative à la reconnaissance des qualifications </b> <b>professionnelles, telle que modifiée par la directive 2013/55/UE du Parlement européen </b> <b>et du Conseil, du 20 novembre 2013, lu à la lumière de l'article 49 TFUE, doit être </b> <b>interprété en ce sens qu'il ne s'oppose pas, dans une situation relevant de son champ </b> <b>d'application, à la réglementation d'un État membre en vertu de laquelle les enseignants </b> <b>d'un établissement d'enseignement privé qui dispense, dans une langue autre que la </b> <b>langue officielle de cet État membre, un programme international d'éducation </b> <b>secondaire ainsi que les programmes d'éducation primaire et intermédiaire du </b> <b>baccalauréat international sont soumis à une exigence de maîtrise, à un niveau </b> <b>intermédiaire, de cette langue officielle, à la condition que cette réglementation soit </b> <b>justifiée par un objectif de défense et de promotion de cette langue officielle et qu'elle </b> <b>soit nécessaire et proportionnée à la réalisation de cet objectif. Cette condition n'est pas </b> <b>satisfaite lorsque ladite réglementation s'applique, sans possibilité d'exception ou </b> <b>d'assouplissement, à l'ensemble des personnes qu'elle vise et leur impose, afin de </b> <b>démontrer qu'elles possèdent le niveau requis de maîtrise de la langue officielle, de </b> <b>produire un certificat délivré par un organisme de l'État membre concerné sur la base de </b> <b>tests de langue organisés sur le territoire de celui-ci.</b></li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          47.7265625,
+          108.5390625
+        ],
+        [
+          548.4728393554688,
+          108.5390625
+        ],
+        [
+          548.4728393554688,
+          684.5773315429688
+        ],
+        [
+          47.7265625,
+          684.5773315429688
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        108.5390625,
+        548.4728393554688,
+        684.5773315429688
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Signatures</p>",
+      "page": 150,
+      "polygon": [
+        [
+          49.606197357177734,
+          711.1501007080078
+        ],
+        [
+          103.892578125,
+          711.1501007080078
+        ],
+        [
+          103.892578125,
+          723.411003112793
+        ],
+        [
+          49.606197357177734,
+          723.411003112793
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        711.1501007080078,
+        103.892578125,
+        723.411003112793
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/6",
+      "block_type": "Text",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          47.7265625,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          47.7265625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/12/SectionHeader/1",
+        "2": "/page/16/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

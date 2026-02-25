@@ -1,0 +1,2187 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 179,
+      "polygon": [
+        [
+          40.2765625,
+          41.81220703125
+        ],
+        [
+          229.78593749999996,
+          41.81220703125
+        ],
+        [
+          229.78593749999996,
+          107.84013671875
+        ],
+        [
+          40.2765625,
+          107.84013671875
+        ]
+      ],
+      "bbox": [
+        40.2765625,
+        41.81220703125,
+        229.78593749999996,
+        107.84013671875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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8u8R9f8AaPU/l2rq6ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACg9KKKAM7VtItNasWtL2EPGTkHoynsQexFc+tzrvhf5LuGbV9MX7txCu6eIf7SDlvqMmuxpn1oAy9L8Q6RrY/0G9hkkH3otwEifVTyPxFaW0HnAJ9cVl6l4Y0bVjuvNPieQdJAuGB9iKzf+EVv7M/8SnxDewKOkdx+/Ue3J4oA6leBTs1yu7xnY8mPTdSQf3WMUh/Ajb+tIvjNLRgmtaTqGmt03vD5sY+rplQPqRQB1R5FNwar2Oo2WpwCexuobmI/xROGH6VboAZj2p9FMOACTwBQA/NIea53UPGmh6fObYXZu7odbezRp3H1CA4/Gqy634k1EZ07w8baM/dl1CZU/wDHVJYfiKAOpKg9qjmlit42lmkSNF6sxAAH1rnP7J8V3g/0vXoLRT1S0g3f+PNg06LwPpTSCXUWudTlHIa8lLgfQdqAGT+M7e5lNr4ft31e5zjdAP3KH/ak+7+Gc1Jp3hq4mvk1XX51u75eYol/1Vv7KO5966C3t4baNY4IkjQcAKABU9ADMEYp46UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFMkVXXDKCvcGn0UAc3qHg+wuZzeWLPp1/1FxbHaT/vDoR7VVh8Q32h3Udl4ljVY5Dth1GIfunPo/8AcP149667AqC7s7e9tZLe5iWWKQYZGGQaAM3WvENlotvG8paaefi3t4RvkmP+yB29+grHXRdY8RHzdfuTa2jcrp1s/b/pow6n2HHvV/RPCWm6HcSXEXmzTN8qPO24xp/cX0FdDgelAFDT9J0/S4RFY2kUCL2RcfrV8dKMCloAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBNopaKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Triinu Järviste TGS Baltic Eesti Ahtri 6a 10151, Tallinn</p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.05078125,
+          167.2015380859375
+        ],
+        [
+          171.89999389648438,
+          167.2015380859375
+        ],
+        [
+          171.89999389648438,
+          220.60150146484375
+        ],
+        [
+          89.05078125,
+          220.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        167.2015380859375,
+        171.89999389648438,
+        220.60150146484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Teie: nr</p>",
+      "page": 179,
+      "polygon": [
+        [
+          345.435546875,
+          167.2015380859375
+        ],
+        [
+          388.666015625,
+          167.2015380859375
+        ],
+        [
+          388.666015625,
+          179.2015380859375
+        ],
+        [
+          345.435546875,
+          179.2015380859375
+        ]
+      ],
+      "bbox": [
+        345.435546875,
+        167.2015380859375,
+        388.666015625,
+        179.2015380859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Meie: 02.12.2024 nr 5-1/24-0023-326-1</p>",
+      "page": 179,
+      "polygon": [
+        [
+          342.81640625,
+          194.801513671875
+        ],
+        [
+          538.1799926757812,
+          194.801513671875
+        ],
+        [
+          538.1799926757812,
+          206.801513671875
+        ],
+        [
+          342.81640625,
+          206.801513671875
+        ]
+      ],
+      "bbox": [
+        342.81640625,
+        194.801513671875,
+        538.1799926757812,
+        206.801513671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Kiri edastatud digitaalselt aadressil:</i> <i>triinu.jarviste@tgsbaltic.com</i></p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          245.08148193359375
+        ],
+        [
+          413.2421875,
+          245.08148193359375
+        ],
+        [
+          413.2421875,
+          257.08148193359375
+        ],
+        [
+          89.6328125,
+          257.08148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        245.08148193359375,
+        413.2421875,
+        257.08148193359375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teatis järelevalvemenetluse alustamata jätmisest</b></h1>",
+      "page": 179,
+      "polygon": [
+        [
+          90.21484375,
+          301.771484375
+        ],
+        [
+          339.64801025390625,
+          301.771484375
+        ],
+        [
+          339.64801025390625,
+          314.47149658203125
+        ],
+        [
+          90.21484375,
+          314.47149658203125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        301.771484375,
+        339.64801025390625,
+        314.47149658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>1.</b> <b>Faktilised asjaolud </b></h2>",
+      "page": 179,
+      "polygon": [
+        [
+          90.7439956665039,
+          344.2314453125
+        ],
+        [
+          208.79600524902344,
+          344.2314453125
+        ],
+        [
+          208.79600524902344,
+          356.2314453125
+        ],
+        [
+          90.7439956665039,
+          356.2314453125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        344.2314453125,
+        208.79600524902344,
+        356.2314453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">13.04.2022 võeti vastu tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse seadus  (edaspidi TOKVS), mis algselt pidi jõustuma 1. juulil 2024. a, kuid teenusepakkujate  vähesuse tõttu lükati seaduse jõustumine edasi 1. novembrini 2024. a. Seadus paneb igale  tegevusloa alusel tegutsevale tervishoiuteenuse osutajale kohustuse sõlmida  vastutuskindlustuse lepingu hiljemalt 30 kalendripäeva jooksul alates seaduse jõustumisest  (TOKVS § 27 lg 1). Seaduse väljatöötamisel väljendas valmisolekut pakkuda  tervishoiuteenuse osutaja kohustuslikku vastutuskindlustust 3 kindlustusseltsi – AB \"Lietuvos  draudimas\" Eesti filiaal (edaspidi ka PZU või PZU kindlustus), Compensa Vienna Insurance  (Seesam kindlustus) ning AAS BTA Baltic Insurance Company Eesti filiaal (edaspidi ka BTA  või BTA kindlustus). Seaduse jõustumisel selgus, et Seesam ja BTA teenust pakkuma ei  hakka, millest johtuvalt jäi PZU kindlustus ainsaks tervishoiuteenuse osutaja kohustusliku  vastutuskindlustuse pakkujaks.</p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          370.6314392089844
+        ],
+        [
+          547.407958984375,
+          370.6314392089844
+        ],
+        [
+          547.407958984375,
+          535.7060546875
+        ],
+        [
+          89.6328125,
+          535.7060546875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        370.6314392089844,
+        547.407958984375,
+        535.7060546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.</b> <b>Taotluse</b> <b>sisu</b> <b>ja menetluskäik</b></h2>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          562.4114685058594
+        ],
+        [
+          258.6319885253906,
+          562.4114685058594
+        ],
+        [
+          258.6319885253906,
+          574.4114685058594
+        ],
+        [
+          89.6328125,
+          574.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        562.4114685058594,
+        258.6319885253906,
+        574.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">04.10.2024 laekus Konkurentsiametile kaebus mittetulundusühingu Eesti Hambaarstide Liit  (edaspidi EHL) poolt alustada riikliku järelevalvemenetlus PZU kindlustuse suhtes seoses  ettevõtja tegevusega tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse turul.  Kaebuses esitatud taotlusteks oli lühendatult:</p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          588.6914520263672
+        ],
+        [
+          547.3839721679688,
+          588.6914520263672
+        ],
+        [
+          547.3839721679688,
+          642.1214599609375
+        ],
+        [
+          89.6328125,
+          642.1214599609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        588.6914520263672,
+        547.3839721679688,
+        642.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/179",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> PZU turgu valitseva seisundi tuvastamine;</li><li block-type=\"ListItem\"> ettekirjutuse tegemine turgu valitseva seisundi lõpetamiseks;</li><li block-type=\"ListItem\"> erimeetmete rakendamine KonkS § 63<sup>6</sup> lg 1 alusel;</li><li block-type=\"ListItem\"> anda KonkS § 55 lg 2 alusel hinnang konkurentsiolukorra parandamiseks.</li></ul></p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          643.9214630126953
+        ],
+        [
+          452.0880126953125,
+          643.9214630126953
+        ],
+        [
+          452.0880126953125,
+          697.3214569091797
+        ],
+        [
+          89.6328125,
+          697.3214569091797
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        643.9214630126953,
+        452.0880126953125,
+        697.3214569091797
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Nimelt tõi EHL oma kaebuses välja, et olles ainsana tervishoiuteenuse osutaja kohustusliku  vastutuskindlustuse pakkujana, omab PZU antud kaubaturul selgelt turgu valitsevat seisundit  KonkS § 13 mõttes. Seoses turgu valitseva seisundi omamisega tervishoiuteenuse osutaja  kohustusliku vastutuskindlustuse kaubaturul kehtestas PZU ebaõiglased kindlustusmaksete  hinnad, mis ei vasta ettevõtja poolt tehtavate tegelikele kuludele. Kuna PZU on ainsaks</p>",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          712.9214630126953
+        ],
+        [
+          547.3839721679688,
+          712.9214630126953
+        ],
+        [
+          547.3839721679688,
+          780.1174736022949
+        ],
+        [
+          89.6328125,
+          780.1174736022949
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        712.9214630126953,
+        547.3839721679688,
+        780.1174736022949
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 179,
+      "polygon": [
+        [
+          89.6328125,
+          794.7197265625
+        ],
+        [
+          447.8403015136719,
+          794.7197265625
+        ],
+        [
+          447.8403015136719,
+          805.1834106445312
+        ],
+        [
+          89.6328125,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        794.7197265625,
+        447.8403015136719,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">teenusepakkujaks tervishoiuteenuse kohustusliku vastutuskindlustuse kaubaturul, siis kõik  hambaravi teenuse osutajad on sunnitud sõlmima PZU ebaõiglaselt kõrgete hindadega  lepingud. KonkS § 16 kohaselt on ettevõtjal keelatud oma turgu valitsevat seisundit  kuritarvitada. EHL leiab, et PZU ebaõiglaste hindade kehtestamisega on KonkS §-st 16  tulenevat turgu valitseva seisundi kuritarvitamise keeldu rikkunud.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          88.46875,
+          71.781494140625
+        ],
+        [
+          547.4080200195312,
+          71.781494140625
+        ],
+        [
+          547.4080200195312,
+          139.78515625
+        ],
+        [
+          88.46875,
+          139.78515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        71.781494140625,
+        547.4080200195312,
+        139.78515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet teostas järgmised menetlustoimingud:</p>",
+      "page": 201,
+      "polygon": [
+        [
+          90.21484375,
+          146.801513671875
+        ],
+        [
+          358.0079650878906,
+          146.801513671875
+        ],
+        [
+          358.0079650878906,
+          158.801513671875
+        ],
+        [
+          90.21484375,
+          158.801513671875
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        146.801513671875,
+        358.0079650878906,
+        158.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/200",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> 11.10.2024 ja 15.10.2024 pöördus Konkurentsiamet TOKVS-i eest vastutava  Sotsiaalministeeriumi poole asjaolude uurimiseks.</li><li block-type=\"ListItem\"> 15.10.2024 toimus Konkurentsiameti ja PZU kindlustuse kohtumine.</li><li block-type=\"ListItem\"> 21.10.2024 pöördus Konkurentsiamet kindlustusseltside poole teabetaotlusega, milles küsis  teavet kohustusliku vastutuskindlustuse turule sisenemise tõrgete ja kindlustusmaksete arvutamise kohta. 31.10.2024 laekusid Konkurentsiametile kindlustusseltside vastused.</li><li block-type=\"ListItem\"> 14.11.2024 pöördus amet uute turule sisenevate kindlustuspakkujate poole.</li></ul></p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          166.5087890625
+        ],
+        [
+          547.3599853515625,
+          166.5087890625
+        ],
+        [
+          547.3599853515625,
+          279.43145751953125
+        ],
+        [
+          89.6328125,
+          279.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        166.5087890625,
+        547.3599853515625,
+        279.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet analüüsis kõikide osapoolte esitatud andmeid, üldist konkurentsiolukorda turul ning kogutud teabe põhjal kujundas järgmise seisukoha.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          287.23150634765625
+        ],
+        [
+          544.3480224609375,
+          287.23150634765625
+        ],
+        [
+          544.3480224609375,
+          313.283203125
+        ],
+        [
+          89.6328125,
+          313.283203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        287.23150634765625,
+        544.3480224609375,
+        313.283203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.</b> <b>Konkurentsiameti seisukoht ja õiguslik hinnang</b></h2>",
+      "page": 201,
+      "polygon": [
+        [
+          89.05078125,
+          340.8714599609375
+        ],
+        [
+          353.86395263671875,
+          340.8714599609375
+        ],
+        [
+          353.86395263671875,
+          352.8714599609375
+        ],
+        [
+          89.05078125,
+          352.8714599609375
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        340.8714599609375,
+        353.86395263671875,
+        352.8714599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.1.</b> <b>Taotluse lahendamine</b></h2>",
+      "page": 201,
+      "polygon": [
+        [
+          104.474609375,
+          368.5914611816406
+        ],
+        [
+          238.0880126953125,
+          368.5914611816406
+        ],
+        [
+          238.0880126953125,
+          380.5914611816406
+        ],
+        [
+          104.474609375,
+          380.5914611816406
+        ]
+      ],
+      "bbox": [
+        104.474609375,
+        368.5914611816406,
+        238.0880126953125,
+        380.5914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 63<sup>1</sup> lg 1 kohaselt saab Konkurentsiametile esitada taotluse haldusmenetluse  alustamiseks. Konkurentsiameti pädevuses on riikliku järelevalvemenetluse teostamine  (KonkS § 54 lg 1). Seega käsitleb Konkurentsiamet esitatud kaebust taotlusena riikliku  järelevalvemenetluse algatamiseks ning esimeses etapis lahendab taotluse riikliku  järelevalvemenetluse algatamiseks või algatamata jätmiseks.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          387.287109375
+        ],
+        [
+          547.3060302734375,
+          387.287109375
+        ],
+        [
+          547.3060302734375,
+          456.2114562988281
+        ],
+        [
+          89.6328125,
+          456.2114562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        387.287109375,
+        547.3060302734375,
+        456.2114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Riikliku järelevalvemenetluse algatamiseks peab esinema vähemalt ohukahtlus  (korrakaitseseaduse § 5 lg 6). KonkS § 16 p 1 kohaselt turgu valitseva seisundi  kuritarvitamise kindlaksmääramisel tuleb tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          470.7470703125
+        ],
+        [
+          547.3179931640625,
+          470.7470703125
+        ],
+        [
+          547.3179931640625,
+          511.4114685058594
+        ],
+        [
+          89.6328125,
+          511.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        470.7470703125,
+        547.3179931640625,
+        511.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/201",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja (KonkS §  13);</li><li block-type=\"ListItem\">ettevõtja on kohaldanud otseselt või kaudselt ebaõiglasi tingimusi;</li><li block-type=\"ListItem\"> ettevõtja kui kaubaturul turgu valitsevat seisundit omava ettevõtja tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 201,
+      "polygon": [
+        [
+          107.09375,
+          513.9528503417969
+        ],
+        [
+          547.112060546875,
+          513.9528503417969
+        ],
+        [
+          547.112060546875,
+          582.9314575195312
+        ],
+        [
+          107.09375,
+          582.9314575195312
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        513.9528503417969,
+        547.112060546875,
+        582.9314575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seega riikliku järelevalvemenetluse algatamise üle otsustamisel annab Konkurentsiamet  esmalt hinnangu turgu valitsevale seisundile ning seejärel võimalikule korrarikkumise ohu  kahtlusele.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          598.5314636230469
+        ],
+        [
+          547.384033203125,
+          598.5314636230469
+        ],
+        [
+          547.384033203125,
+          638.1614532470703
+        ],
+        [
+          89.6328125,
+          638.1614532470703
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        598.5314636230469,
+        547.384033203125,
+        638.1614532470703
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet lähtub enda tegevuses KonkS § 1 lõikes 1 ja § 55 lõikes 2 toodud  pädevustest. Konkurentsiamet ei pea põhjendatuks hetkel teha konkurentsiolukorra analüüsi,  mille põhjal oleks võimalik anda soovitusi. Õigusaktide väljatöötamine, sellega kaasnevate  riskide väljaselgitamine ja maandamine, statistiliste andmete kogumine, pädevate asutustega  konsulteerimine ja muud seadusloome ning ettevalmistusega seotud ülesanded kuuluvad  TOKVS-i eest vastutava ministeeriumi pädevusse.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          653.7614593505859
+        ],
+        [
+          547.4080200195312,
+          653.7614593505859
+        ],
+        [
+          547.4080200195312,
+          734.7614593505859
+        ],
+        [
+          89.6328125,
+          734.7614593505859
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        653.7614593505859,
+        547.4080200195312,
+        734.7614593505859
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/16",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.2.</b> <b>Kaubaturg ja turgu valitsev seisund</b></h2>",
+      "page": 201,
+      "polygon": [
+        [
+          101.85546875,
+          750.7174682617188
+        ],
+        [
+          310.0880126953125,
+          750.7174682617188
+        ],
+        [
+          310.0880126953125,
+          762.7174682617188
+        ],
+        [
+          101.85546875,
+          762.7174682617188
+        ]
+      ],
+      "bbox": [
+        101.85546875,
+        750.7174682617188,
+        310.0880126953125,
+        762.7174682617188
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit ettevõtja, kelle positsioon</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          776.9974594116211
+        ],
+        [
+          547.0560302734375,
+          776.9974594116211
+        ],
+        [
+          547.0560302734375,
+          788.9974632263184
+        ],
+        [
+          89.6328125,
+          788.9974632263184
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        776.9974594116211,
+        547.0560302734375,
+        788.9974632263184
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          805.1834106445312
+        ],
+        [
+          523.24609375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.4966430664062,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">võimaldab tal sellel kaubaturul tegutseda arvestataval määral sõltumatult konkurentidest,  varustajatest ja ostjatest. Turgu valitseva seisundi omamist eeldatakse, kui ettevõtjale või  mitmele samal kaubaturul tegutsevale ettevõtjale kuulub kaubaturul vähemalt 40 protsenti  käibest.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          71.537109375
+        ],
+        [
+          547.1640014648438,
+          71.537109375
+        ],
+        [
+          547.1640014648438,
+          125.2015380859375
+        ],
+        [
+          89.6328125,
+          125.2015380859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        71.537109375,
+        547.1640014648438,
+        125.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">TOKVS jõustumisel selgus, et senisest kolmest potentsiaalsest kindlustuse pakkujast asus  ainult üks teenust pakkuma. Selle tagajärjel sai PZU kindlustus ainsaks teenusepakkujaks  tervishoiuteenuse osutaja kohustusliku vastutuskindlustuse kaubaturul. Seoses PZU  kindlustuse väidetava turgu valitseva seisundi omamisega selgitab Konkurentsiamet järgmist.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          140.607421875
+        ],
+        [
+          547.39599609375,
+          140.607421875
+        ],
+        [
+          547.39599609375,
+          194.2015380859375
+        ],
+        [
+          89.6328125,
+          194.2015380859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        140.607421875,
+        547.39599609375,
+        194.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Turgu valitseva seisundi hindamisel võetakse arvesse järgmised tegurid: 1) turgu valitseva  ettevõtja ja tema konkurentide turuseisund; 2) konkurentide laienemine ja võimalike  konkurentide turule tulek ning 3) tasakaalustatava ostujõu olemasolu.<sup>1</sup> Peale neid kriteeriume  toob komisjon oma suunistes ka välja, et turgu valitseva seisundi puhul on määrav  ajavahemik, mille jooksul see oluline turuvõim hoitakse. Asjaomasel ettevõtjal peaks olema  oluline turuvõim teatava aja jooksul.<sup>2</sup> Mida suurem on turuosa ja mida pikema aja vältel seda  hoitakse, seda tõenäolisem on turgu valitseva seisundi olemasolu.<sup>3</sup></p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          209.2666015625
+        ],
+        [
+          547.3179931640625,
+          209.2666015625
+        ],
+        [
+          547.3179931640625,
+          304.6314697265625
+        ],
+        [
+          89.6328125,
+          304.6314697265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        209.2666015625,
+        547.3179931640625,
+        304.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">TOKVS jõustus alates 01.11.2024 ning tervishoiuteenuse osutajatel on kohustus lepinguid  sõlmida 1. detsembriks. Enne TOKVS-i vastuvõtmist tervishoiuteenuse osutaja kohustuslikku  vastutuskindlustust Eestis ei kohaldatud. Seega on tegemist alles kujuneva turuga Eesti  kindlustuse kaubaturul. Uue ja alles väljakujuneva turu puhul on loomulik, et ka konkurents  alles kujuneb ning see on ettevõtjate vähesuse tõttu alguses nõrgem. Uuel kaubaturul on  suuremad riskid ja keerulisem ette arvata turu toimimist ning klientide käitumist. Turgu valitseva seisundi tekkimiseks või olemasoluks peab selline turupositsioon olema piisavalt  stabiilne ja mitte ajutine. Vastasel juhul võib esineda olukord, et ettevõtjad ei julge uuele  turule siseneda koheselt tekkiva turgu valitseva seisundi ja sellega ka kõrgendatud vastutuse  tõttu. Kohustusliku tervishoiuteenuse vastutuskindlustuse turu puhul on olukord veelgi  ebastabiilsem, näiteks on kindlustuse kaubaturu osalised tervishoiuteenuse osutaja  kohustusliku vastutuskindlustuse turule sisenemise takistusena välja toonud muuhulgas  statistiliste andmete vähesust kõnealuse toote riskide hindamiseks. Samuti on kohustusliku  tervishoiuteenuse vastutuskindlustuse puhul tegemist riskantsema kindlustusliigiga, mille  potentsiaalne kasu ei pruugi katta kõiki võimalikke riske ja kulusid. Rõhutatud on ka asjaolu,  et kohustusliku tervishoiuteenuse vastutuskindlustuse puhul on tegemist kindlustusliigiga, kus  kahjujuhtumi tagajärg võib ilmneda aastaid hiljem. See teeb veelgi keerulisemaks  kahjujuhtumite arvu ennetamist. See piirab ettevõtjate valmisolekut turule siseneda.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          88.46875,
+          320.23150634765625
+        ],
+        [
+          547.4199829101562,
+          320.23150634765625
+        ],
+        [
+          547.4199829101562,
+          567.36328125
+        ],
+        [
+          88.46875,
+          567.36328125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        320.23150634765625,
+        547.4199829101562,
+        567.36328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile teadaolevalt ei eksisteeri takistusi teistele kindlustusseltsidele turule  sisenemiseks, ühtlasi ei välista teised kindlustusseltsid võimalust tervishoiuteenuse osutaja  kohustusliku vastutuskindlustuse turule sisenemiseks, kui tekib piisav praktika ja rohkem  statistilisi andmeid. Antud asjaolu kinnitab veelgi, et kohustusliku tervishoiuteenuse  vastutuskindlustuse turg on alles kujunemas ning on võimalik ka tulevikus uute turuosaliste turule sisenemine.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          582.4514770507812
+        ],
+        [
+          547.39599609375,
+          582.4514770507812
+        ],
+        [
+          547.39599609375,
+          663.4814605712891
+        ],
+        [
+          89.6328125,
+          663.4814605712891
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        582.4514770507812,
+        547.39599609375,
+        663.4814605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 222,
+      "polygon": [
+        [
+          91.087890625,
+          751.55078125
+        ],
+        [
+          111.45898437499999,
+          751.55078125
+        ],
+        [
+          111.45898437499999,
+          761.41796875
+        ],
+        [
+          91.087890625,
+          761.41796875
+        ]
+      ],
+      "bbox": [
+        91.087890625,
+        751.55078125,
+        111.45898437499999,
+        761.41796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 222,
+      "polygon": [
+        [
+          90.7439956665039,
+          697.4414672851562
+        ],
+        [
+          93.7439956665039,
+          697.4414672851562
+        ],
+        [
+          93.7439956665039,
+          709.4414672851562
+        ],
+        [
+          90.7439956665039,
+          709.4414672851562
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        697.4414672851562,
+        93.7439956665039,
+        709.4414672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 222,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          805.1834106445312
+        ],
+        [
+          523.24609375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.4966430664062,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> Komisjoni teatis — Suunised komisjoni täitetegevuse prioriteetide kohta EÜ asutamislepingu artikli 82  kohaldamisel turgu valitsevate ettevõtjate kuritahtliku konkurente tõrjuva tegevuse suhtes, p 12. Kättesaadav:  <a href=\"https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:52009XC0224(01)\">https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:52009XC0224(01).</a></p>",
+      "page": 222,
+      "polygon": [
+        [
+          88.46875,
+          723.1826171875
+        ],
+        [
+          546.8448486328125,
+          723.1826171875
+        ],
+        [
+          546.8448486328125,
+          756.8955078125
+        ],
+        [
+          88.46875,
+          756.8955078125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        723.1826171875,
+        546.8448486328125,
+        756.8955078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> Komisjoni teatise p 10.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          90.21484375,
+          757.6803970336914
+        ],
+        [
+          189.18141174316406,
+          757.6803970336914
+        ],
+        [
+          189.18141174316406,
+          768.3194198608398
+        ],
+        [
+          90.21484375,
+          768.3194198608398
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        757.6803970336914,
+        189.18141174316406,
+        768.3194198608398
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Komisjoni teatise p 15.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          90.7439956665039,
+          768.4072265625
+        ],
+        [
+          189.18141174316406,
+          768.4072265625
+        ],
+        [
+          189.18141174316406,
+          779.8394165039062
+        ],
+        [
+          90.7439956665039,
+          779.8394165039062
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        768.4072265625,
+        189.18141174316406,
+        779.8394165039062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodust lähtudes, eelkõige arvestades seda kuidas PZU turupositsioon tekkis nagu ka seda,  et selline olukord on kestnud vähest aega, siis oleks Konkurentsiameti hinnangul liiga  ennatlik jaatada PZU kindlustuse turgu valitseva seisundi olemasolu tervishoiuteenuse osutaja  kohustusliku vastutuskindlustuse kaubaturul. Eelnev ei välista, et selline turupositsioon tekib  tulevikus.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          71.1259765625
+        ],
+        [
+          547.384033203125,
+          71.1259765625
+        ],
+        [
+          547.384033203125,
+          139.00152587890625
+        ],
+        [
+          89.6328125,
+          139.00152587890625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        71.1259765625,
+        547.384033203125,
+        139.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Turgu valitseva seisundi kuritarvitamise kahtluse korral üldjuhul alustatakse analüüsi  kaubaturu piiritlemisest. Konkurentsiamet selgitab, et praegusel juhul on kohustusliku  tervishoiuteenuse vastutuskindlustuse kaubaturg alles kujunemas ning kaubaturu  määratlemine olemasolevate andmete põhjal ei pruugi olla piisavalt selge. Samas,  järelevalvemenetluse algatamise üle otsustamisel ei esine ilmtingimata vajadust defineerida  kaubaturgu. Turgu valitseva seisundi kuritarvitustel on ka muid eeldusi, mis peavad olema  täidetud lisaks turu määratlemisele. Kui muud asjaolud kõrvaldavad järelevalvemenetluse  alustamise vajaduse piisava kindlusega, ei ole tingimata vaja turu piiritlemisega tegeleda.<sup>4</sup> Seega jätab Konkurentsiamet antud otsuse tegemise raames kaubaturu piiritlemise küsimuse  lahtiseks.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          88.46875,
+          154.60150146484375
+        ],
+        [
+          547.4080200195312,
+          154.60150146484375
+        ],
+        [
+          547.4080200195312,
+          290.83148193359375
+        ],
+        [
+          88.46875,
+          290.83148193359375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        154.60150146484375,
+        547.4080200195312,
+        290.83148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/1/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.3.</b> <b>Turgu valitseva seisundi kuritarvitamine ebaõiglaste hindade kehtestamisega</b></h2>",
+      "page": 196,
+      "polygon": [
+        [
+          103.6015625,
+          312.79150390625
+        ],
+        [
+          520.3359375,
+          312.79150390625
+        ],
+        [
+          520.3359375,
+          324.79150390625
+        ],
+        [
+          103.6015625,
+          324.79150390625
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        312.79150390625,
+        520.3359375,
+        324.79150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 kohaselt on turgu valitseval ettevõtjal keelatud oma seisundi otsene või kaudne  kuritarvitamine kaubaturul. KonkS § 16 p 1 keelab ebaõiglaste ostu- või müügihindade või  muude ebaõiglaste äritingimuste kehtestamise või rakendamise. Konkurentsiamet on eelnevalt  leidnud, et hetkel ei saa jaatada PZU turgu valitseva seisundit, kuid peab vajalikuks käsitleda  ka PZU kindlustuse poolt kehtestatud kindlustusmaksete hindasid.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          339.19146728515625
+        ],
+        [
+          547.4080200195312,
+          339.19146728515625
+        ],
+        [
+          547.4080200195312,
+          406.6103515625
+        ],
+        [
+          89.6328125,
+          406.6103515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        339.19146728515625,
+        547.4080200195312,
+        406.6103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hind on KonkS § 16 p 1 mõttes ebaõiglane, kui see ei ole mõistlikus vahekorras osutatud  teenuse või müüdud kauba majandusliku väärtusega.<sup>5</sup> Kauba majanduslik väärtus koosneb  reeglina selle tootmis- või soetamiskuludest ja mõistlikust ärikasumist.<sup>6</sup></p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          421.4111328125
+        ],
+        [
+          547.39599609375,
+          421.4111328125
+        ],
+        [
+          547.39599609375,
+          461.6114501953125
+        ],
+        [
+          89.6328125,
+          461.6114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        421.4111328125,
+        547.39599609375,
+        461.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EHL tõi oma kaebuses välja, et PZU poolt pakutud kohustusliku tervishoiuteenuse  vastutuskindlustuse aastased kindlustusmaksed on eelduslike kulusid ja mõistlikku kasumit  arvestades ebaõiglaselt kõrged. PZU pakutud kohustusliku tervishoiuteenuse  vastutuskindlustuse aastased kindlustusmaksed on kordades suuremad, kui senise vabatahtliku vastutuskindlustuse puhul.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          88.46875,
+          476.091796875
+        ],
+        [
+          547.3839721679688,
+          476.091796875
+        ],
+        [
+          547.3839721679688,
+          544.4114685058594
+        ],
+        [
+          88.46875,
+          544.4114685058594
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        476.091796875,
+        547.3839721679688,
+        544.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinna põhjendatuse üle otsustamiseks pöördus Konkurentsiamet kindlustusseltside,  sealhulgas PZU kindlustuse poole. Konkurentsiamet küsis kindlustusseltsidelt põhjendusi,  millest koosneb kindlustuse makse ja millised kulutused kaasnevad vastutuskindlustuse  teenuse osutamisega. Kindlustusmaksete põhjenduseks tõid kindlustusseltsid välja rida kululiike, mida peab kindlustusselts arvestama uue kindlustustoote turule toomisel.  Kohustusliku tervishoiuteenuse vastutuskindlustuse puhul tuleb muuhulgas arvestada tõsiasja,  et nõuete ja hüvitiste arv võrreldes vabatahtliku kindlustusega kasvab mitmekordselt. PZU  vastusest tulenes, et seda kinnitasid ka Soomest saadud andmed, kus on antud  kindlustusmudel juba aastaid toiminud. Suurenenud kahjunõuete arv tähendab ka tööjõu kulu,  selleks, et kõik esitatud kahjunõuded oleks töödeldud ja nende põhjendatus kontrollitud. Seega kahjunõuete arvu ja ettevõtja tehtud kulutuste poolest ei ole tervishoiuteenuse osutaja</p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          559.8914794921875
+        ],
+        [
+          547.39599609375,
+          559.8914794921875
+        ],
+        [
+          547.39599609375,
+          709.9214630126953
+        ],
+        [
+          89.6328125,
+          709.9214630126953
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        559.8914794921875,
+        547.39599609375,
+        709.9214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 196,
+      "polygon": [
+        [
+          90.21484375,
+          720.4814605712891
+        ],
+        [
+          93.7439956665039,
+          720.4814605712891
+        ],
+        [
+          93.7439956665039,
+          732.4814605712891
+        ],
+        [
+          90.21484375,
+          732.4814605712891
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        720.4814605712891,
+        93.7439956665039,
+        732.4814605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 196,
+      "polygon": [
+        [
+          525.2200317382812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          525.2200317382812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        525.2200317382812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Riigikohtu halduskolleegiumi otsus nr 3-19-509, p 15.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          90.7439956665039,
+          745.3837890625
+        ],
+        [
+          318.7689208984375,
+          745.3837890625
+        ],
+        [
+          318.7689208984375,
+          756.7994155883789
+        ],
+        [
+          90.7439956665039,
+          756.7994155883789
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        745.3837890625,
+        318.7689208984375,
+        756.7994155883789
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> Vt ka lahend 27/76 United Brands Company [1978] ECR 207, p 250 jj.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          87.88671875,
+          757.6803970336914
+        ],
+        [
+          381.0902099609375,
+          757.6803970336914
+        ],
+        [
+          381.0902099609375,
+          768.3194198608398
+        ],
+        [
+          87.88671875,
+          768.3194198608398
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        757.6803970336914,
+        381.0902099609375,
+        768.3194198608398
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> Tallinna Halduskohtu otsus nr 3-15-2945, p 35.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          87.88671875,
+          768.4072265625
+        ],
+        [
+          285.53924560546875,
+          768.4072265625
+        ],
+        [
+          285.53924560546875,
+          779.8394165039062
+        ],
+        [
+          87.88671875,
+          779.8394165039062
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        768.4072265625,
+        285.53924560546875,
+        779.8394165039062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vabatahtliku ja kohustusliku vastutuskindlustuse maksed omavahel võrreldavad. Andmete ja  prognooside vähesuse tõttu on tervishoiuteenuse osutaja kohustusliku vastutuse kindlustuse  puhul tegemist riskantsema turuga. Sellisele turule sisenemiseks võtab kindlustusandja enda  peale riski, mida peab kindlustusmaksete arvelt katma, et ettevõtja ise kahjumisse ei jääks.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.6328125,
+          71.781494140625
+        ],
+        [
+          547.2379760742188,
+          71.781494140625
+        ],
+        [
+          547.2379760742188,
+          125.2015380859375
+        ],
+        [
+          89.6328125,
+          125.2015380859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        71.781494140625,
+        547.2379760742188,
+        125.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Analüüsides kindlustusseltsidelt saadud selgitusi ja arvutusi leiab Konkurentsiamet, et hetkel  ei esine alust arvata, et PZU kindlustuse poolt kehtestatud tervishoiuteenuse osutaja  kohustusliku vastutuskindlustuse maksed poleks majanduslikult põhjendatud.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.6328125,
+          140.607421875
+        ],
+        [
+          547.4200439453125,
+          140.607421875
+        ],
+        [
+          547.4200439453125,
+          180.4014892578125
+        ],
+        [
+          89.6328125,
+          180.4014892578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        140.607421875,
+        547.4200439453125,
+        180.4014892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korrakaitseseaduse (KorS) § 2 lg 4 järgi on riikliku järelevalve eesmärgiks ennetada ohtu,  selgitada see välja ja tõrjuda või kõrvaldada korrarikkumine. Ohu mõistet sisustab KorS § 5 lg  2, mille kohaselt on oht olukord, kus ilmnenud asjaoludele antava objektiivse hinnangu põhjal  võib pidada piisavalt tõenäoliseks, et lähitulevikus leiab aset korrarikkumine.  Järelevalvemenetluse algatamiseks peaks esinema oht, mida on korrakaitseorgan kohustatud  järelevalvemenetluse raames ennetama või tõrjuma. Praegusel juhul ei ole Konkurentsiamet  ülaltoodud põhjendustest lähtuvalt tuvastanud, et PZU kindlustuse tegevus kujutab endast  ohtu ja ettevõtja tegevuse tagajärjel võib lähitulevikus aset leida korrarikkumine.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          88.46875,
+          196.00152587890625
+        ],
+        [
+          547.4199829101562,
+          196.00152587890625
+        ],
+        [
+          547.4199829101562,
+          304.6314697265625
+        ],
+        [
+          88.46875,
+          304.6314697265625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        196.00152587890625,
+        547.4199829101562,
+        304.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seega kujundas Konkurentsiamet seisukoha, et antud asjaoludel ei ole alust riikliku  järelevalvemenetluse algatamiseks, mistõttu tuleb Teie 04.10.2024 taotluse alusel alanud  haldusmenetlus HMS § 43 lg 4 p 2 alusel lõpetada. Konkurentsiamet jääb tervishoiuteenuse  osutaja kohustusliku vastutuskindlustuse turgu jälgima.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.6328125,
+          318.6279296875
+        ],
+        [
+          547.3179931640625,
+          318.6279296875
+        ],
+        [
+          547.3179931640625,
+          373.6314392089844
+        ],
+        [
+          89.6328125,
+          373.6314392089844
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        318.6279296875,
+        547.3179931640625,
+        373.6314392089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.341796875,
+          430.05145263671875
+        ],
+        [
+          170.67599487304688,
+          430.05145263671875
+        ],
+        [
+          170.67599487304688,
+          442.7900390625
+        ],
+        [
+          89.341796875,
+          442.7900390625
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        430.05145263671875,
+        170.67599487304688,
+        442.7900390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(allkirjastatud digitaalselt)</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.341796875,
+          471.45147705078125
+        ],
+        [
+          216.93600463867188,
+          471.45147705078125
+        ],
+        [
+          216.93600463867188,
+          483.45147705078125
+        ],
+        [
+          89.341796875,
+          483.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        471.45147705078125,
+        216.93600463867188,
+        483.45147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Evelin Pärn-Lee peadirektor</p>",
+      "page": 107,
+      "polygon": [
+        [
+          88.759765625,
+          499.05145263671875
+        ],
+        [
+          169.01600646972656,
+          499.05145263671875
+        ],
+        [
+          169.01600646972656,
+          525.8388671875
+        ],
+        [
+          88.759765625,
+          525.8388671875
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        499.05145263671875,
+        169.01600646972656,
+        525.8388671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Uljana Ivanova 6672480 Uljana.Ivanova@konkurentsiamet.ee</p>",
+      "page": 107,
+      "polygon": [
+        [
+          89.6328125,
+          690.2919921875
+        ],
+        [
+          268.9440002441406,
+          690.2919921875
+        ],
+        [
+          268.9440002441406,
+          731.2814636230469
+        ],
+        [
+          89.6328125,
+          731.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        690.2919921875,
+        268.9440002441406,
+        731.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 107,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          794.7197265625
+        ],
+        [
+          544.4966430664062,
+          805.1834106445312
+        ],
+        [
+          523.537109375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        544.4966430664062,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

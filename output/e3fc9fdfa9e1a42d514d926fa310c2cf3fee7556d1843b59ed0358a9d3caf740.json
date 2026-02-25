@@ -1,0 +1,1905 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 113,
+      "polygon": [
+        [
+          405.384765625,
+          50.98046875
+        ],
+        [
+          539.833984375,
+          50.98046875
+        ],
+        [
+          539.833984375,
+          83.87109375
+        ],
+        [
+          405.384765625,
+          83.87109375
+        ]
+      ],
+      "bbox": [
+        405.384765625,
+        50.98046875,
+        539.833984375,
+        83.87109375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 113,
+      "polygon": [
+        [
+          50.811328124999996,
+          51.309375
+        ],
+        [
+          239.04023437499998,
+          51.309375
+        ],
+        [
+          239.04023437499998,
+          116.4328125
+        ],
+        [
+          50.811328124999996,
+          116.4328125
+        ]
+      ],
+      "bbox": [
+        50.811328124999996,
+        51.309375,
+        239.04023437499998,
+        116.4328125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ  Tartu mnt 16  10117, Tallinn</p>",
+      "page": 113,
+      "polygon": [
+        [
+          87.88671875,
+          176.787109375
+        ],
+        [
+          194.27999877929688,
+          176.787109375
+        ],
+        [
+          194.27999877929688,
+          221.92144775390625
+        ],
+        [
+          87.88671875,
+          221.92144775390625
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        176.787109375,
+        194.27999877929688,
+        221.92144775390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">08.05.2024 nr 5-5/2024-027</p>",
+      "page": 113,
+      "polygon": [
+        [
+          331.8699951171875,
+          225.6414794921875
+        ],
+        [
+          503.1400146484375,
+          225.6414794921875
+        ],
+        [
+          503.1400146484375,
+          237.6414794921875
+        ],
+        [
+          331.8699951171875,
+          237.6414794921875
+        ]
+      ],
+      "bbox": [
+        331.8699951171875,
+        225.6414794921875,
+        503.1400146484375,
+        237.6414794921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Kiri edastatud digitaalselt aadressil: tallinn@pindi.ee</i></p>",
+      "page": 113,
+      "polygon": [
+        [
+          90.7439956665039,
+          277.99151611328125
+        ],
+        [
+          351.546875,
+          277.99151611328125
+        ],
+        [
+          351.546875,
+          289.99151611328125
+        ],
+        [
+          90.7439956665039,
+          289.99151611328125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        277.99151611328125,
+        351.546875,
+        289.99151611328125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teade järelevalvemenetluse lõpetamisest </b></h1>",
+      "page": 113,
+      "polygon": [
+        [
+          89.6328125,
+          319.861328125
+        ],
+        [
+          300.31201171875,
+          319.861328125
+        ],
+        [
+          300.31201171875,
+          332.2314758300781
+        ],
+        [
+          89.6328125,
+          332.2314758300781
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        319.861328125,
+        300.31201171875,
+        332.2314758300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>1.</b> <b>Järelevalvemenetluse alustamine </b></h1>",
+      "page": 113,
+      "polygon": [
+        [
+          107.09375,
+          362.2080078125
+        ],
+        [
+          297.0799865722656,
+          362.2080078125
+        ],
+        [
+          297.0799865722656,
+          374.5914611816406
+        ],
+        [
+          107.09375,
+          374.5914611816406
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        362.2080078125,
+        297.0799865722656,
+        374.5914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">04.08.2023 esitas Konkurentsiamet taotluse teabe saamiseks Pindi Kinnisvara OÜ-le (edaspidi  ka Pindi), milles selgitas, et Konkurentsiamet uurib Pindi Kinnisvara OÜ tegevust seoses Pindi  Kinnisvara OÜ poolt sõlmitud koostöölepingu ja selle lisaks oleva ärisaladuse kaitset,  konkurentsikeeldu ja autoriõiguseid puudutava kokkuleppe vastavusega konkurentsiseaduse  (KonkS) § 4 lg 1 p-dele 2 ja 3. Vastavalt Pindi Kinnisvara OÜ (nn tellija) ja osaühingu (nn täitja)  koostöölepingu punktile 3.7 tähendab Leping koostöölepingut koos kehtivate lisadega ning  lepingut ja selle lisadeks olevaid dokumente käsitletakse ühtse tervikuna. Leping kohustas  täitjat sõlmima vahetu täitjaga (füüsiline isik) ärisaladuse kaitset, konkurentsikeeldu ja  autoriõiguseid puudutava kokkuleppe (p 4.1.16, edaspidi nimetatud kokkulepe). Kokkuleppe  punkt 4.3 sätestab, et lepingu kehtivuse ajal ja 6 (kuue) kalendrikuu jooksul pärast lepingu  kehtivuse lõppemist on vahetul täitjal ilma tellija eelneva kirjaliku nõusolekuta keelatud  tegeleda või ennast otseselt või kaudselt siduda tellijaga konkureeriva tegevusega, sh tellijaga  konkureeriva juriidilise või füüsilise isikuga.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          88.46875,
+          393.7914733886719
+        ],
+        [
+          547.9719848632812,
+          393.7914733886719
+        ],
+        [
+          547.9719848632812,
+          592.853515625
+        ],
+        [
+          88.46875,
+          592.853515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        393.7914733886719,
+        547.9719848632812,
+        592.853515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>2.</b> <b>Menetluse käik ning menetluse jooksul edastatud selgitused </b></h3>",
+      "page": 113,
+      "polygon": [
+        [
+          105.9296875,
+          613.0814666748047
+        ],
+        [
+          433.6519470214844,
+          613.0814666748047
+        ],
+        [
+          433.6519470214844,
+          625.0814666748047
+        ],
+        [
+          105.9296875,
+          625.0814666748047
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        613.0814666748047,
+        433.6519470214844,
+        625.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ selgitas<sup>1</sup> , et nimetatud konkurentsikeelu sellises sõnastuses sisaldumine  koostöölepingu lisas tuli Pindi Kinnisvara OÜ-le üllatusena, kuna Pindi Kinnisvara OÜ ei ole  kunagi vastava sätte täitmist kontrollinud ega selles sisalduvat kokkulepet jõustanud. Pindi  Kinnisvara OÜ tõi välja, et on alati suhtunud äärmiselt tõsiselt õigusaktide täitmisesse ning  pidanud väga oluliseks klientide ja potentsiaalsete klientide ning samuti Pindi Kinnisvara OÜ</p>",
+      "page": 113,
+      "polygon": [
+        [
+          88.46875,
+          643.3887786865234
+        ],
+        [
+          547.906005859375,
+          643.3887786865234
+        ],
+        [
+          547.906005859375,
+          719.0414581298828
+        ],
+        [
+          88.46875,
+          719.0414581298828
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        643.3887786865234,
+        547.906005859375,
+        719.0414581298828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 113,
+      "polygon": [
+        [
+          90.796875,
+          738.39453125
+        ],
+        [
+          96.6171875,
+          738.39453125
+        ],
+        [
+          96.6171875,
+          748.26171875
+        ],
+        [
+          90.796875,
+          748.26171875
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        738.39453125,
+        96.6171875,
+        748.26171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 113,
+      "polygon": [
+        [
+          89.6328125,
+          771.6962890625
+        ],
+        [
+          450.30023193359375,
+          771.6962890625
+        ],
+        [
+          450.30023193359375,
+          782.7434158325195
+        ],
+        [
+          89.6328125,
+          782.7434158325195
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        771.6962890625,
+        450.30023193359375,
+        782.7434158325195
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> 28.08.2023 Pindi Kinnisvara OÜ vastus taotlusele teabe saamiseks.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          90.7439956665039,
+          753.9843902587891
+        ],
+        [
+          368.14306640625,
+          753.9843902587891
+        ],
+        [
+          368.14306640625,
+          764.6234130859375
+        ],
+        [
+          90.7439956665039,
+          764.6234130859375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        753.9843902587891,
+        368.14306640625,
+        764.6234130859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">enda ärisaladuste ja muu konfidentsiaalse teabe kaitsmist. Pindi Kinnisvara OÜ selgitas  Konkurentsiametile, et on alati rõhutanud koostöölepingu punktis 5 sätestatud kohustusi, mis  puudutavad Pindi Kinnisvara OÜ või tema osanike, töötajate, koostööpartnerite või klientidega  seonduvate ärisaladuste kaitset nii koostöölepingu kehtivuse ajal kui ka 3 aasta jooksul pärast  koostöölepingu lõppemist. Ärisaladuste kaitse olulisusele ja vastavate nõuete rikkumisega  kaasnevatele võimalikele negatiivsetele tagajärgedele kogu valdkonnale on juhtinud tähelepanu  ka Maa-amet.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          88.46875,
+          48.513671875
+        ],
+        [
+          547.9719848632812,
+          48.513671875
+        ],
+        [
+          547.9719848632812,
+          154.48150634765625
+        ],
+        [
+          88.46875,
+          154.48150634765625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        48.513671875,
+        547.9719848632812,
+        154.48150634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ on nõudnud, et tema agent (koostöölepingu kohaselt täitja), kes tegutseb  täielikult Pindi Kinnisvara OÜ juhiste alusel, Pindi Kinnisvara OÜ nimel ja arvel ning kes ei  kanna vastava agendisuhtega seoses ühtegi olulist riski, ei tegutseks koostöölepingu kehtivuse  ajal ühegi konkurendi juures, kuna vastasel juhul oleks keeruline (et mitte öelda võimatu) tagada  seda, et Pindi Kinnisvara OÜ ning tema klientide ja koostööpartnerite ärisaladused ei jõua Pindi  Kinnisvara OÜ konkurentide kätte ning sellest ei teki otsest või kaudset kahju Pindi Kinnisvara  OÜ klientidele (nt nende delikaatsete andmete lekkimise näol) või Pindi Kinnisvara OÜ-le (nt  ettevõtja suhtes usalduse kaotuse näol). Pindi Kinnisvara OÜ hinnangul on vastav piirang igati  õigustatud ja ka konkurentsiõiguslikult lubatud. Eeltoodust tulenevalt on Pindi Kinnisvara OÜ  soov olnud, et agendi poolt koostöölepingu täitmisega tegelevad füüsilised isikud kaitseksid  ärisaladusi ja hoiduksid konkureerivast tegevusest samasugusel määral nagu seda teeb täitja  Pindi Kinnisvara OÜ täievolilise agendina. Seetõttu tuli Pindi Kinnisvara OÜle üllatusena, kui  läbi Konkurentsiameti teabenõude selgus, et koostöölepingu lisa punkti 4.3 ulatus on laiem kui  koostöölepingu punkti 5.3 ulatus. See ei ole olnud taotluslik ning Pindi ei ole kunagi  koostöölepingu lisa punktis 4.3 sisalduvat lepingu lõppemisele järgnevat perioodi puudutavat  konkurentsikeeldu kohaldanud ega selle rikkumise eest sanktsioone kehtestanud. Samuti ei ole  Pindi Kinnisvara OÜ-le teada, et keegi tema agentidest oleks viidatud sättest tulenevalt oma  tegevust piiranud pärast koostöölepingu lõppemist ja/või et selle sätte tulemusena oleks  toimunud mingi konkurentsi kahjustumine. Pindi Kinnisvara OÜ kinnitas, et ei sõlmi enam  eelnevalt välja toodud sõnastuses kokkuleppeid. Pindi Kinnisvara OÜ möönab, et formaalselt  võib vastav säte sisalduda umbes 68-s kehtivas vahendusteenuse osutamist puudutavas  lepingus. Nagu eelnevalt selgitatud, ei ole Pindi Kinnisvara OÜ viidatud konkurentsipiirangut,  mis peaks kehtima pärast lepingu lõppemist, kunagi soovinud kehtestada, ei ole neid piiranguid  kohaldanud ning Pindi Kinnisvara OÜ hinnangul ei ole ka vastavad kokkulepped seetõttu jõus.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          88.46875,
+          172.67578125
+        ],
+        [
+          548.02001953125,
+          172.67578125
+        ],
+        [
+          548.02001953125,
+          544.5314636230469
+        ],
+        [
+          88.46875,
+          544.5314636230469
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        172.67578125,
+        548.02001953125,
+        544.5314636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ kinnitas, et on eemaldanud koostöölepingutest sätte, mis käsitleb  konkurentsikeeldu pärast koostöölepingu lõppemist. Pindi Kinnisvara OÜ edastas  Konkurentsiametile 11.03.2024 enda vastuse koos kehtivate koostöölepingutega.  Koostöölepingutest selgus, et alates 28.08.2024 on Pindi Kinnisvara OÜ sõlminud selliselt, et  konkurentsikeeldu puudutav säte on lepingust eemaldatud. Ametile esitatud lepingutest nähtus,  et kümnes lepingus, mis on sõlmitud pärast 28.08.2024 on konkurentsikeeldu puudutav säte  eemaldatud.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          88.46875,
+          563.6630859375
+        ],
+        [
+          548.02001953125,
+          563.6630859375
+        ],
+        [
+          548.02001953125,
+          669.6014709472656
+        ],
+        [
+          88.46875,
+          669.6014709472656
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        563.6630859375,
+        548.02001953125,
+        669.6014709472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet edastas Pindi Kinnisvara OÜ-le 02.04.2024 soovituse, kus Konkurentsiamet  soovitas Pindi Kinnisvara OÜ-l teavitada kõiki koostöölepingute osapooli, kellega on lepingud  sõlmitud enne 28.08.2023, et nendes lepingutes sisalduv konkurentsipiirang, mille kohaselt 6  (kuue) kalendrikuu jooksul pärast lepingu kehtivuse lõppemist on vahetul täitjal ilma tellija  eelneva kirjaliku nõusolekuta keelatud tegeleda või ennast otseselt või kaudselt siduda tellijaga  konkureeriva tegevusega sh tellijaga konkureeriva juriidilise või füüsilise isikuga, on tühine</p>",
+      "page": 142,
+      "polygon": [
+        [
+          88.46875,
+          688.6474609375
+        ],
+        [
+          547.906005859375,
+          688.6474609375
+        ],
+        [
+          547.906005859375,
+          779.061466217041
+        ],
+        [
+          88.46875,
+          779.061466217041
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        688.6474609375,
+        547.906005859375,
+        779.061466217041
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 142,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          805.5434112548828
+        ],
+        [
+          523.537109375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        547.0499877929688,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(ehk kehtetu algusest peale) ning lepingu osapooled ei pea piirama lepingu sättest tulenevalt  enda tegevust.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          89.6328125,
+          48.98150634765625
+        ],
+        [
+          547.739990234375,
+          48.98150634765625
+        ],
+        [
+          547.739990234375,
+          76.58148193359375
+        ],
+        [
+          89.6328125,
+          76.58148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        48.98150634765625,
+        547.739990234375,
+        76.58148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ edastas Konkurentsiametile 11.04.2024 teavitused, mida Pindi Kinnisvara  OÜ enda kehtivate koostöölepingute osapooltele. Pindi Kinnisvara OÜ andis enda teavituses  teada, et täitja ja Pindi Kinnisvara OÜ vahel sõlmitud koostöölepingus sisalduv  konkurentsipiirang, mille kohaselt 6 (kuue) kalendrikuu jooksul pärast lepingu kehtivuse  lõppemist on vahetult täitjal ilma tellija eelneva kirjaliku nõusolekuta keelatud tegeleda või  ennast otseselt siduda tellijaga konkureerivad tegevusega sh tellijaga konkureeriva juriidilise  või füüsilise isikuga, on tühine (ehk kehtetu algusest peale) ning lepingu osapooled ei pea  piirama lepingu sättest tulenevalt enda tegevust pärast lepingu lõppemist.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          88.46875,
+          95.7939453125
+        ],
+        [
+          547.9719848632812,
+          95.7939453125
+        ],
+        [
+          547.9719848632812,
+          217.3614501953125
+        ],
+        [
+          88.46875,
+          217.3614501953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        95.7939453125,
+        547.9719848632812,
+        217.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>3.</b> <b>Konkurentsiameti hinnang </b></h3>",
+      "page": 155,
+      "polygon": [
+        [
+          106.51171875,
+          237.6715087890625
+        ],
+        [
+          267.18798828125,
+          237.6715087890625
+        ],
+        [
+          267.18798828125,
+          249.6715087890625
+        ],
+        [
+          106.51171875,
+          249.6715087890625
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        237.6715087890625,
+        267.18798828125,
+        249.6715087890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 4 lg 1 p-de 2 ja 3 kohaselt on keelatud konkurentsi kahjustava eesmärgi või tagajärjega  ettevõtjate vaheline kokkulepe, kooskõlastatud tegevus ja ettevõtjate ühenduse otsus, sealhulgas  tootmise, teenindamise, kaubaturu, tehnilise arengu või investeerimise piiramine ning  kaubaturu või varustusallika jagamine, sealhulgas kolmandale isikule kaubaturule pääsu  piiramine või püüd teda sealt välja tõrjuda.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          89.6328125,
+          268.99151611328125
+        ],
+        [
+          547.9959716796875,
+          268.99151611328125
+        ],
+        [
+          547.9959716796875,
+          342.4736328125
+        ],
+        [
+          89.6328125,
+          342.4736328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        268.99151611328125,
+        547.9959716796875,
+        342.4736328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sellest tulenevalt kontrollis Konkurentsiamet, kas kokkuleppe punkt 4.3, mille kohaselt on  lepingu kehtivuse ajal ja 6 (kuue) kalendrikuu jooksul pärast lepingu kehtivuse lõppemist  vahetul täitjal ilma tellija eelneva kirjaliku nõusolekuta keelatud tegeleda või ennast otseselt või  kaudselt siduda tellijaga konkureeriva tegevusega, sh tellijaga konkureeriva juriidilise või  füüsilise isikuga, vastuolus Konks § 4 lg 1 p-dega 2 ja/või 3.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          89.6328125,
+          362.1114501953125
+        ],
+        [
+          548.02001953125,
+          362.1114501953125
+        ],
+        [
+          548.02001953125,
+          437.0341796875
+        ],
+        [
+          89.6328125,
+          437.0341796875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        362.1114501953125,
+        548.02001953125,
+        437.0341796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tellija konkurentideks on Eesti Vabariigis oma igapäevase majandus-ja kutsetegevuse raames  kinnisvaratehingute vahendamise ja kinnisvara arendamisega tegelevad juriidilised ja füüsilised isikud. Tellijaga konkureerivaks tegevuseks on täitja poolt otseselt või kaudselt mistahes viisil  ja eesmärgil tasu eest või tasuta kinnisvaratehingute vahendamisega seonduvad tegevused v.a  täitja või vahetu täitja omandis oleva kinnisvaraga seonduvate tehingute tegemine. Seega on  antud juhul konkurentsikeelukohustus peale lepingu lõppemist sätestatud küll täitja ja vahetu  täitja kokkuleppes, kuid kuna eelnimetatud kokkulepet käsitletakse koos tellija ja täitja  koostöölepinguga ühtse tervikuna<sup>2</sup> , siis on kokkulepe sõlmitud kahe ettevõtja ehk tellija ja täitja  vahel. Sisuliselt tuleneb Pindi Kinnisvara OÜ ja täitja vahelisest kokkuleppest, et viimane on  sõlminud vahetu täitjaga 6-kuulise konkurentsikeelu kohustuse lepingu.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          88.46875,
+          455.9714660644531
+        ],
+        [
+          547.9600219726562,
+          455.9714660644531
+        ],
+        [
+          547.9600219726562,
+          608.4765625
+        ],
+        [
+          88.46875,
+          608.4765625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        455.9714660644531,
+        547.9600219726562,
+        608.4765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ selgituste kohaselt on tellija ja täitja vahelise koostöölepingu puhul  tegemist agendisuhtega, kus agent (koostöölepingu kohaselt täitja), tegutseb täielikult Pindi  Kinnisvara OÜ juhiste alusel, Pindi Kinnisvara OÜ nimel ja arvel ning kes ei kanna vastava  agendisuhtega seoses ühtegi olulist riski.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          88.46875,
+          627.388671875
+        ],
+        [
+          547.8380126953125,
+          627.388671875
+        ],
+        [
+          547.8380126953125,
+          688.236328125
+        ],
+        [
+          88.46875,
+          688.236328125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        627.388671875,
+        547.8380126953125,
+        688.236328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet lähtub agendilepingute hindamisel Komisjoni suunistest vertikaalsete  piirangute kohta <sup>3</sup> , mille kohaselt agent on juriidiline või füüsiline isik, kelle teine isik</p>",
+      "page": 155,
+      "polygon": [
+        [
+          88.46875,
+          705.1214752197266
+        ],
+        [
+          547.8118896484375,
+          705.1214752197266
+        ],
+        [
+          547.8118896484375,
+          733.8720703125
+        ],
+        [
+          88.46875,
+          733.8720703125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        705.1214752197266,
+        547.8118896484375,
+        733.8720703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 155,
+      "polygon": [
+        [
+          89.6328125,
+          774.9853515625
+        ],
+        [
+          375.9921875,
+          774.9853515625
+        ],
+        [
+          375.9921875,
+          784.0302734375
+        ],
+        [
+          89.6328125,
+          784.0302734375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        774.9853515625,
+        375.9921875,
+        784.0302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 155,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          805.5434112548828
+        ],
+        [
+          523.828125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        547.0499877929688,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> Lähtudes koostöölepingu punktist 3.7 ja kokkuleppe punktist 4.1.16.</p>",
+      "page": 155,
+      "polygon": [
+        [
+          90.21484375,
+          770.1843948364258
+        ],
+        [
+          372.85418701171875,
+          770.1843948364258
+        ],
+        [
+          372.85418701171875,
+          780.8234176635742
+        ],
+        [
+          90.21484375,
+          780.8234176635742
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        770.1843948364258,
+        372.85418701171875,
+        780.8234176635742
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> <a href=\"https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:52022XC0630(01)\">https://eur-lex.europa.eu/legal-content/ET/TXT/HTML/?uri=CELEX:52022XC0630(01). </a></p>",
+      "page": 155,
+      "polygon": [
+        [
+          84.9765625,
+          782.5443878173828
+        ],
+        [
+          457.0299987792969,
+          782.5443878173828
+        ],
+        [
+          457.0299987792969,
+          793.8974609375
+        ],
+        [
+          84.9765625,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        782.5443878173828,
+        457.0299987792969,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(käsundiandja) volitab pidama läbirääkimisi ja/või sõlmima lepinguid tema eest kas agendi enda  või käsundiandja nimel selleks, et osta käsundiandjale kaupu või teenuseid või müüa  käsundiandja tarnitavaid kaupu või osutatavaid teenuseid. Agent ei tegutse sõltumatu  ettevõtjana, kui agent ei võta olulist finants- või kommertsriski seoses lepingutega, mille ta on  käsundiandja nimel sõlminud või mille üle läbi rääkinud. Sellisel juhul jääb agendileping ELTL  artikli 101 lõike 1<sup>4</sup> ja KonkS § 4 kohaldamisalast täielikult või osaliselt välja.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          88.46875,
+          48.9248046875
+        ],
+        [
+          548.0079956054688,
+          48.9248046875
+        ],
+        [
+          548.0079956054688,
+          140.1962890625
+        ],
+        [
+          88.46875,
+          140.1962890625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        48.9248046875,
+        548.0079956054688,
+        140.1962890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Antud juhul võib jätta lahtiseks, kas Pindi Kinnisvara OÜ ja täitja suhe oli selle kehtivuse ajal  käsitletav agendisuhtena, sest isegi kui see nii oli, väljus täitja töötajale laienev  konkurentsikeeld peale agendisuhte lõppemist agendisuhte piiridest. Sellist eritingimust tuleb  hinnata KonkS § 4 kohaselt.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          88.46875,
+          157.4638671875
+        ],
+        [
+          547.89404296875,
+          157.4638671875
+        ],
+        [
+          547.89404296875,
+          217.4892578125
+        ],
+        [
+          88.46875,
+          217.4892578125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        157.4638671875,
+        547.89404296875,
+        217.4892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pindi Kinnisvara OÜ selgitus, et üldiselt on konkurentsiõiguses lubatud lepingu lõppemisele  järgnev konkurentsipiirang kuni 1 aasta, ei ole antud juhul asjakohane. Konkurentsiamet  selgitab, et vertikaalsete piirangute grupierandi kohaselt ei kohaldu grupierand kohustusele,  mille kohaselt ostja ei saa pärast vertikaalse kokkuleppe lõppemist tooteid või teenuseid  valmistada, osta, müüa või edasi müüa, välja arvatud kui sellise kohustuse kehtivusaeg ei ole  pikem kui üks aasta pärast vertikaalse kokkuleppe lõppemist ja kui selline kohustus:</p>",
+      "page": 161,
+      "polygon": [
+        [
+          88.46875,
+          236.4013671875
+        ],
+        [
+          548.0400390625,
+          236.4013671875
+        ],
+        [
+          548.0400390625,
+          326.59149169921875
+        ],
+        [
+          88.46875,
+          326.59149169921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        236.4013671875,
+        548.0400390625,
+        326.59149169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> on seotud toodete või teenustega, mis konkureerivad vertikaalse kokkuleppe objektiks  olevate toodete või teenustega;</li><li block-type=\"ListItem\"> piirdub ruumide ja territooriumiga, kus ostja vertikaalse kokkuleppe kehtivuse ajal  tegutses;</li><li block-type=\"ListItem\"> on tarnijalt ostjale edastatava oskusteabe kaitsmiseks vältimatu<sup>5</sup> .</li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          107.09375,
+          346.511474609375
+        ],
+        [
+          547.947998046875,
+          346.511474609375
+        ],
+        [
+          547.947998046875,
+          421.0
+        ],
+        [
+          107.09375,
+          421.0
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        346.511474609375,
+        547.947998046875,
+        421.0
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Komisjoni suunistes vertikaalsete piirangute kohta on nimetatud sätte osas selgitatud, et  harilikult kuulub seda laadi kohustus grupierandi määruse kohaldamisalasse üksnes juhul, kui  kohustus on hädavajalik.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          88.46875,
+          440.4914855957031
+        ],
+        [
+          547.8939819335938,
+          440.4914855957031
+        ],
+        [
+          547.8939819335938,
+          485.5478515625
+        ],
+        [
+          88.46875,
+          485.5478515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        440.4914855957031,
+        547.8939819335938,
+        485.5478515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Antud juhul on kokkulepe sõlmitud ettevõtjate vahel füüsilise isiku suhtes, mitte ettevõtjate  omavahelise kohustusena mitte konkureerida. Ettevõtjatest tööandjate kokkulepped mitte  konkureerida töötajate pärast on käsitletavad kokkulepetena, mis kahjustavad konkurentsi  KonkS § 4 tähenduses, kuna töötajad või nende kulud on üks konkurentsiparameetritest, mis  võimaldavad ettevõtjatel efektiivsemalt omavahel konkureerida. Kui keelata töötajatel  liikumast teise ettevõtja juurde, loobuvad ettevõtjad konkureerimast ühe kulukomponendi osas.  Sellistel kokkulepetel on loomulikult negatiivne mõju ka töötajatele, kes ei saa selliste  kokkulepete tõttu valida parimat pakkumist turul. Lisaks ei võimalda analüüsitav punkt kuue  kuu jooksul peale lepingu lõppemist ilma nõusolekuta töötajal erialaselt üldse töötada, mis ei  ole eluliselt võimalik. Seetõttu ei ole õige ka Pindi Kinnisvara OÜ seisukoht, et  kinnisvarabüroode ja nende erinevate agentide arvu arvestades ei saaks selline  konkurentsipiirang kuidagi kaasa tuua turu sulgumist ja sellega seoses olulist konkurentsi  kahjustumist. Lähtudes teiste riikide praktikast, ei ole vajalik tuvastada selliste kokkulepete</p>",
+      "page": 161,
+      "polygon": [
+        [
+          88.46875,
+          503.1314392089844
+        ],
+        [
+          547.947998046875,
+          503.1314392089844
+        ],
+        [
+          547.947998046875,
+          702.1214599609375
+        ],
+        [
+          88.46875,
+          702.1214599609375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        503.1314392089844,
+        547.947998046875,
+        702.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 161,
+      "polygon": [
+        [
+          90.21484375,
+          744.97265625
+        ],
+        [
+          93.70703125,
+          744.97265625
+        ],
+        [
+          93.70703125,
+          754.83984375
+        ],
+        [
+          90.21484375,
+          754.83984375
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        744.97265625,
+        93.70703125,
+        754.83984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          525.2200317382812,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          805.5434112548828
+        ],
+        [
+          525.2200317382812,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        525.2200317382812,
+        794.7197265625,
+        547.0499877929688,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup>  ELTL artikkel 101 lõige 1 sisaldab konkurentsi kahjustavate kokkulepete keeldu ja seda kohaldatakse kui  konkurentsi kahjustavate kokkulepete mõju on liikmesriikide vahelist kaubandust mõjutav.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          89.6328125,
+          757.7177734375
+        ],
+        [
+          545.8629760742188,
+          757.7177734375
+        ],
+        [
+          545.8629760742188,
+          781.7834167480469
+        ],
+        [
+          89.6328125,
+          781.7834167480469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        757.7177734375,
+        545.8629760742188,
+        781.7834167480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> Grupierandi määruse artikli 5 lõige 3.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          89.05078125,
+          783.3843879699707
+        ],
+        [
+          246.9000244140625,
+          783.3843879699707
+        ],
+        [
+          246.9000244140625,
+          794.0234146118164
+        ],
+        [
+          89.05078125,
+          794.0234146118164
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        783.3843879699707,
+        246.9000244140625,
+        794.0234146118164
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">puhul tagajärge 6 .Tööandjal on võimalik töötaja konkurentsikeeldu kasutada töölepinguseaduses  ettenähtud korras, mitte aga leppides selles kokku ettevõtjate vahelise kokkuleppena.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          89.6328125,
+          47.6087646484375
+        ],
+        [
+          547.8679809570312,
+          47.6087646484375
+        ],
+        [
+          547.8679809570312,
+          76.58148193359375
+        ],
+        [
+          89.6328125,
+          76.58148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        47.6087646484375,
+        547.8679809570312,
+        76.58148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Samas selgitas Pindi Kinnisvara OÜ, et ei ole koostöölepingu lisa punktis 4.3 sisalduvat lepingu  lõppemisele järgnevat perioodi puudutavat konkurentsikeeldu kohaldanud ega selle rikkumise  eest sanktsioone kehtestanud. Samuti ei ole Pindi Kinnisvara OÜ-le teada, et keegi tema  agentidest oleks viidatud sättest tulenevalt oma tegevust piiranud pärast koostöölepingu  lõppemist. Pindi Kinnisvara OÜ esitas Konkurentsiametile pärast 28.08.2023 sõlmitud  lepingute muudatused ning eemaldas koostöölepingutest sätte, mis käsitleb konkurentsikeeldu  pärast koostöölepingu lõppemist. Samuti on Pindi Kinnisvara OÜ kinnitatud, et ei sõlmi  käesoleval ajal eeltoodud sõnastuses kokkuleppeid. Lisaks teavitas Pindi Kinnisvara OÜ kõiki  kehtivate koostöölepingute osapooli<sup>7</sup> , et nendes lepingutes sisalduv konkurentsipiirang, mille  kohaselt 6 (kuue) kalendrikuu jooksul pärast lepingu kehtivuse lõppemist on vahetul täitjal ilma  tellija eelneva kirjaliku nõusolekuta keelatud tegeleda või ennast otseselt või kaudselt siduda  tellijaga konkureeriva tegevusega sh tellijaga konkureeriva juriidilise või füüsilise isikuga, on  tühine (ehk kehtetu algusest peale) ning lepingu osapooled ei pea piirama lepingu sättest  tulenevalt enda tegevust.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          88.46875,
+          95.3828125
+        ],
+        [
+          547.9719848632812,
+          95.3828125
+        ],
+        [
+          547.9719848632812,
+          310.81640625
+        ],
+        [
+          88.46875,
+          310.81640625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        95.3828125,
+        547.9719848632812,
+        310.81640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>4.</b> <b>Menetluse lõpetamine </b></h3>",
+      "page": 137,
+      "polygon": [
+        [
+          107.09375,
+          331.0314636230469
+        ],
+        [
+          241.1719970703125,
+          331.0314636230469
+        ],
+        [
+          241.1719970703125,
+          343.0314636230469
+        ],
+        [
+          107.09375,
+          343.0314636230469
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        331.0314636230469,
+        241.1719970703125,
+        343.0314636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust lõpetab Konkurentsiamet Pindi Kinnisvara OÜ suhtes alustatud  järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 9 alusel kuna ettevõtja on lõpetanud menetluse  esemeks oleva tegevuse ning puudub vajadus ettekirjutuse tegemiseks.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          88.46875,
+          360.974609375
+        ],
+        [
+          547.8140258789062,
+          360.974609375
+        ],
+        [
+          547.8140258789062,
+          405.376953125
+        ],
+        [
+          88.46875,
+          405.376953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        360.974609375,
+        547.8140258789062,
+        405.376953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/ </i> Evelin Pärn-Lee peadirektor</p>",
+      "page": 137,
+      "polygon": [
+        [
+          88.759765625,
+          439.08984375
+        ],
+        [
+          211.06976318359375,
+          439.08984375
+        ],
+        [
+          211.06976318359375,
+          501.58203125
+        ],
+        [
+          88.759765625,
+          501.58203125
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        439.08984375,
+        211.06976318359375,
+        501.58203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<blockquote><p block-type=\"Text\"><i>Konkurentsiameti 08.05.2024 teate</i> <i>järelevalvemenetluse </i> <i>lõpetamisest nr 5-5/2024-027</i> <i>ärakiri on samane </i> <i>originaaliga.</i></p></blockquote>",
+      "page": 137,
+      "polygon": [
+        [
+          270.64453125,
+          615.876953125
+        ],
+        [
+          546.3040161132812,
+          615.876953125
+        ],
+        [
+          546.3040161132812,
+          660.3614654541016
+        ],
+        [
+          270.64453125,
+          660.3614654541016
+        ]
+      ],
+      "bbox": [
+        270.64453125,
+        615.876953125,
+        546.3040161132812,
+        660.3614654541016
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/Eugen Elison Kask/ 28.05.2024</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          270.64453125,
+          679.5614624023438
+        ],
+        [
+          427.79296875,
+          679.5614624023438
+        ],
+        [
+          427.79296875,
+          691.9365234375
+        ],
+        [
+          270.64453125,
+          691.9365234375
+        ]
+      ],
+      "bbox": [
+        270.64453125,
+        679.5614624023438,
+        427.79296875,
+        691.9365234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 137,
+      "polygon": [
+        [
+          90.505859375,
+          728.1162109375
+        ],
+        [
+          94.580078125,
+          728.1162109375
+        ],
+        [
+          94.580078125,
+          738.8056640625
+        ],
+        [
+          90.505859375,
+          738.8056640625
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        728.1162109375,
+        94.580078125,
+        738.8056640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 137,
+      "polygon": [
+        [
+          524.701171875,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          794.7197265625
+        ],
+        [
+          547.0499877929688,
+          805.5434112548828
+        ],
+        [
+          524.701171875,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        524.701171875,
+        794.7197265625,
+        547.0499877929688,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> OECD Competition in Labor Markets, lk 28<a href=\"https://www.oecd.org/competition/competition-in-labour-markets-2020.pdf\">,competition-in-labour-markets-2020.pdf (oecd.org)</a> Mariateresa Maggiolino, 31.05.2022, The Application of Competition Law to Labour Markets: Some Unresolved  Issues, lk 11,<a href=\"https://deliverypdf.ssrn.com/delivery.php?ID=293089090070118007027064008028091098004008058002025032090120113097083031086082089112122000022099013026035126083086093083118071059076021059086067092010025085108126077047095009092029030090105110074122020109116010083065076096068003099107106098010081024&amp;EXT=pdf&amp;INDEX=TRUE\"> delivery.php (ssrn.com).</a></p>",
+      "page": 137,
+      "polygon": [
+        [
+          88.46875,
+          746.6171875
+        ],
+        [
+          546.3453979492188,
+          746.6171875
+        ],
+        [
+          546.3453979492188,
+          781.5434112548828
+        ],
+        [
+          88.46875,
+          781.5434112548828
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        746.6171875,
+        546.3453979492188,
+        781.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> Teavitused on Konkurentsiametile edastatud 11.04.2024.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          90.21484375,
+          781.5634765625
+        ],
+        [
+          325.533203125,
+          781.5634765625
+        ],
+        [
+          325.533203125,
+          793.1834106445312
+        ],
+        [
+          90.21484375,
+          793.1834106445312
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        781.5634765625,
+        325.533203125,
+        793.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

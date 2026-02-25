@@ -1,0 +1,3386 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 126,
+      "polygon": [
+        [
+          31.08046875,
+          29.97158203125
+        ],
+        [
+          166.81015625,
+          29.97158203125
+        ],
+        [
+          166.81015625,
+          85.14560546875
+        ],
+        [
+          31.08046875,
+          85.14560546875
+        ]
+      ],
+      "bbox": [
+        31.08046875,
+        29.97158203125,
+        166.81015625,
+        85.14560546875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Vergabekammer des Bundes VK 1 - 3/19</p>",
+      "page": 126,
+      "polygon": [
+        [
+          69.26171875,
+          126.62890625
+        ],
+        [
+          226.42031860351562,
+          126.62890625
+        ],
+        [
+          226.42031860351562,
+          156.499267578125
+        ],
+        [
+          69.26171875,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        126.62890625,
+        226.42031860351562,
+        156.499267578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 126,
+      "polygon": [
+        [
+          274.427734375,
+          203.921875
+        ],
+        [
+          335.541015625,
+          203.921875
+        ],
+        [
+          335.541015625,
+          216.6800537109375
+        ],
+        [
+          274.427734375,
+          216.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.427734375,
+        203.921875,
+        335.541015625,
+        216.6800537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In dem Nachprüfungsverfahren</p>",
+      "page": 126,
+      "polygon": [
+        [
+          70.42578125,
+          260.658203125
+        ],
+        [
+          222.91796874999997,
+          260.658203125
+        ],
+        [
+          222.91796874999997,
+          272.29925537109375
+        ],
+        [
+          70.42578125,
+          272.29925537109375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        260.658203125,
+        222.91796874999997,
+        272.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…] - Antragstellerin  gegen</p>",
+      "page": 126,
+      "polygon": [
+        [
+          69.84375,
+          284.9150390625
+        ],
+        [
+          456.31249999999994,
+          284.9150390625
+        ],
+        [
+          456.31249999999994,
+          340.0068359375
+        ],
+        [
+          69.84375,
+          340.0068359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        284.9150390625,
+        456.31249999999994,
+        340.0068359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…] - Antragsgegnerin -</p>",
+      "page": 126,
+      "polygon": [
+        [
+          74.42399597167969,
+          337.1292724609375
+        ],
+        [
+          459.3863525390625,
+          337.1292724609375
+        ],
+        [
+          459.3863525390625,
+          360.8892822265625
+        ],
+        [
+          74.42399597167969,
+          360.8892822265625
+        ]
+      ],
+      "bbox": [
+        74.42399597167969,
+        337.1292724609375,
+        459.3863525390625,
+        360.8892822265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe \" […], Neubau […], Kältetechnische Anlagen Geb. 32\", EU-Bekanntmachung:  […], hat die 1. Vergabekammer des Bundes durch den Vorsitzenden Direktor beim  Bundeskartellamt Behrens, die hauptamtliche Beisitzerin Leitende Regierungsdirektorin Dr.  Dittmann und den ehrenamtlichen Beisitzer Bissinger aufgrund der mündlichen Verhandlung vom  5. Februar 2019 am 13. Februar 2019 beschlossen:</p>",
+      "page": 126,
+      "polygon": [
+        [
+          68.6796875,
+          385.2314453125
+        ],
+        [
+          541.7041625976562,
+          385.2314453125
+        ],
+        [
+          541.7041625976562,
+          474.6692810058594
+        ],
+        [
+          68.6796875,
+          474.6692810058594
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        385.2314453125,
+        541.7041625976562,
+        474.6692810058594
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/126",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die Antragstellerin trägt die zur zweckentsprechenden Rechtsverteidigung notwendigen  Auslagen der Antragsgegnerin.</li></ul></p>",
+      "page": 126,
+      "polygon": [
+        [
+          86.140625,
+          503.3492736816406
+        ],
+        [
+          541.7161254882812,
+          503.3492736816406
+        ],
+        [
+          541.7161254882812,
+          571.269287109375
+        ],
+        [
+          86.140625,
+          571.269287109375
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        503.3492736816406,
+        541.7161254882812,
+        571.269287109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 126,
+      "polygon": [
+        [
+          283.3699951171875,
+          616.69921875
+        ],
+        [
+          326.228515625,
+          616.69921875
+        ],
+        [
+          326.228515625,
+          628.1492919921875
+        ],
+        [
+          283.3699951171875,
+          628.1492919921875
+        ]
+      ],
+      "bbox": [
+        283.3699951171875,
+        616.69921875,
+        326.228515625,
+        628.1492919921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 126,
+      "polygon": [
+        [
+          298.873046875,
+          648.0692749023438
+        ],
+        [
+          307.9191589355469,
+          648.0692749023438
+        ],
+        [
+          307.9191589355469,
+          659.45703125
+        ],
+        [
+          298.873046875,
+          659.45703125
+        ]
+      ],
+      "bbox": [
+        298.873046875,
+        648.0692749023438,
+        307.9191589355469,
+        659.45703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag) hat am […] ein europaweites, offenes Verfahren zur Vergabe des  Baus von kältetechnischen Anlagen im Gebäude (\"Geb\") 32 der […] in […] bekannt gemacht. Dieser Auftrag ist Teil weiterer derzeit durchgeführter Baumaßnahmen in mehreren Gebäuden  auf dem Gelände derselben […].</p>",
+      "page": 126,
+      "polygon": [
+        [
+          70.94400024414062,
+          679.1792755126953
+        ],
+        [
+          541.7310180664062,
+          679.1792755126953
+        ],
+        [
+          541.7310180664062,
+          747.0952835083008
+        ],
+        [
+          70.94400024414062,
+          747.0952835083008
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        679.1792755126953,
+        541.7310180664062,
+        747.0952835083008
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Über einen in Ziffer I.3. der EU-Bekanntmachung genannten link konnten sämtliche  Auftragsunterlagen abgerufen werden. In Ziffer III.1.1 bis III.1.3 der EU-Bekanntmachung  wurde als Teilnahmebedingung die Eintragung in einem Berufs- oder Handelsregister verlangt  und hinsichtlich der übrigen Eignungskriterien auf die \"Auftragsunterlagen\" verwiesen. Den  Vergabeunterlagen lag u.a. das Formblatt VHB 124 bei, in dem die Bieter Angaben zu  bisherigen Umsätzen und vergleichbaren Referenzen machen sollten.<i> </i></p>",
+      "page": 149,
+      "polygon": [
+        [
+          83.8125,
+          121.2841796875
+        ],
+        [
+          541.7281494140625,
+          121.2841796875
+        ],
+        [
+          541.7281494140625,
+          229.0992431640625
+        ],
+        [
+          83.8125,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        121.2841796875,
+        541.7281494140625,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Neben der Antragstellerin (ASt) gab ein weiteres Unternehmen ein Angebot ab. Laut  Submissionsprotokoll betrug der Angebotspreis der ASt […] und der des weiteren Bieters […]  €. In der Pos. 2.1.15 des Leistungsverzeichnisses (LV) \"Magazincontainer aufstellen räumen\"  (Maße: 6 m lang, 2,4 bis 2,5m breit) gab die ASt einen Preis i.H.v. 90.500 € an, die Pos. 2.1.16  des LV \"Bürocontainer aufstellen räumen\" (Maße: 6 m lang, 2,4 bis 2,5m breit) wurde von der  ASt mit 7.500 € bepreist. Die Preise für das Vorhalten dieser beiden Container waren in  anderen Leistungspositionen anzubieten (2.1.13 bzw. 2.1.14).</p>",
+      "page": 149,
+      "polygon": [
+        [
+          83.8125,
+          256.09930419921875
+        ],
+        [
+          541.73486328125,
+          256.09930419921875
+        ],
+        [
+          541.73486328125,
+          381.53125
+        ],
+        [
+          83.8125,
+          381.53125
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        256.09930419921875,
+        541.73486328125,
+        381.53125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenschätzung der Ag für den verfahrensgegenständlichen Auftrag beläuft sich auf […] €; in dieser Höhe hat die Ag auch Haushaltsmittel für diesen Auftrag eingeplant. Da der zweite  Bieter die Bindefrist nicht verlängerte und das einzige noch wertbare Angebot der ASt die  Haushaltsmittel der Ag überstieg, hob die Ag am 8. Januar 2019 das Vergabeverfahren aus  schwerwiegenden Gründen gemäß § 17 EU Abs. 1 Nr. 3 VOB/A auf. Die Leistungen sollen  erneut offen ausgeschrieben werden.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          84.9765625,
+          407.92926025390625
+        ],
+        [
+          541.7511596679688,
+          407.92926025390625
+        ],
+        [
+          541.7511596679688,
+          513.7892761230469
+        ],
+        [
+          84.9765625,
+          513.7892761230469
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        407.92926025390625,
+        541.7511596679688,
+        513.7892761230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Vorgehensweise der Ag bei der Schätzung der Kosten dieser Maßnahme enthielt die der  Vergabekammer übermittelte Vergabeakte nichts. Auf Nachfrage der Vergabekammer legte  die Ag hierzu folgende Unterlagen vor:</p>",
+      "page": 149,
+      "polygon": [
+        [
+          84.9765625,
+          540.6692810058594
+        ],
+        [
+          541.7175903320312,
+          540.6692810058594
+        ],
+        [
+          541.7175903320312,
+          590.38671875
+        ],
+        [
+          84.9765625,
+          590.38671875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        540.6692810058594,
+        541.7175903320312,
+        590.38671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"> ein bepreistes LV der verfahrensgegenständlichen Vergabe (endend mit einem Betrag  von […] € brutto). Als Datenquelle (\"Kostengrundlage\") hat die Ag in den meisten  Positionen auf zwei bepreiste LVs aus anderen Ausschreibungen verwiesen und einen  Aufschlag von 8 bis 10% hierauf vorgenommen. Zu einzelnen weiteren LV-Positionen  hatte die Ag als Quelle \"Angebot Hersteller\", \"gem. Großhändler\", \"Kosten Hersteller  telefonisch\", \"Schätzwert\" (selten) oder \"gemäß Internetseite\" inklusive eines \"Rabatts  aus Erfahrungswerten\" (i.H.v. 30 bis 65%) oder (selten:) \"Erfahrungswert\" angegeben.  In einigen Positionen für bestimmte Dienst- oder Montageleistungen hatte die Ag eine</p>",
+      "page": 149,
+      "polygon": [
+        [
+          99.26399230957031,
+          617.2230224609375
+        ],
+        [
+          541.7286376953125,
+          617.2230224609375
+        ],
+        [
+          541.7286376953125,
+          762.240234375
+        ],
+        [
+          99.26399230957031,
+          762.240234375
+        ]
+      ],
+      "bbox": [
+        99.26399230957031,
+        617.2230224609375,
+        541.7286376953125,
+        762.240234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 189,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/189",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">bestimmte Anzahl von Arbeitsstunden sowie bestimmte Stundensätze von Monteuren sowie nicht näher beschriebene \"Kleinteile\" oder \"Lieferung, Anfahrt\" angesetzt;</li><li block-type=\"ListItem\"> Auszüge aus den LV Geb 27+28 Heizung (vom 28. September 2017) und Geb 27+28  Sanitär (vom 22. September 2017), die zur Erstellung des bepreisten LV herangezogen  wurden. Die Positionen \"Rohr Stahl niro geschweißt\" und \"Bogen Einsteckende Stahl  niro\" sind hiernach inhaltlich identisch mit den entsprechenden Positionen des  verfahrensgegenständlichen LVs (s. Pos. 1.4.1 ff. des LV Geb 27+28 Sanitär und Pos.  1.2.1 ff. des Ausschreibungs-LV bzw. Pos. 1.4.8 ff. des LV Geb 27+28 Sanitär und Pos.  1.2.12 ff. des Ausschreibungs-LV). Die Preise im LV Geb 27+28 Sanitär in diesen  Positionen liegen ca. 10% unter denen des bepreisten Ausschreibungs-LVs (vgl.  Anlage 3 zum Schriftsatz der Ag vom 29. Januar 2019), die Preise im LV Geb 27+28  Heizung liegen ebenfalls geringfügig unter denen des bepreisten Ausschreibungs-LVs (vgl. Anlage 3 zum Schriftsatz der Ag vom 17. Januar 2019);</li><li block-type=\"ListItem\"> Angebote von Herstellern im Bereich Klima- und Kältetechnik für die Positionen 1.1.1,  1.3.3 bis 1.3.5, 1.4.1 bis 1.4.4 und 1.4.5 bis 1.4.9. Die Herstellerangebote für die  Pos. 1.1.1 und 1.3.3 bis 1.3.5 liegen geringfügig unter dem im Ausschreibungs-LV von  der Ag angesetzten Preis. Zu den Pos. 1.4.1 bis 1.4.4 hat die Ag ergänzend  vorgetragen, die Einzelpreise des Herstellers pro m² auf die ausgeschriebenen  Stückzahlen umgerechnet zu haben. Die in diesen Positionen im bepreisten LV von  der Ag angesetzten Preise liegen leicht unter dem vorgelegten Herstellerangebot;</li><li block-type=\"ListItem\"> einen Auszug aus dem Katalog eines Großhändlers aus dem Bereich Heizung für die  Positionen 1.3.19, 1.3.21, 1.3.24, und 1.3.27. Auf einige der Katalogpreise hat die Ag  laut bepreistem Ausschreibungs-LV einen Abzug (bezeichnet als \"Rabatt\") in Höhe von  ca. 30 bis 40% vorgenommen;</li><li block-type=\"ListItem\"> eine Kostenberechnung in tabellarischer Form nach DIN 276, ausgehend von einer  \"Preisbasis 2014\" mit einer Fortschreibung auf eine \"Preisbasis 2015\" (+ 1,3%) und  2017 (+ 6,7%), mit dem Ergebnis […] €. In einer weiteren Spalte hatte die Ag diese  Tabelle fortgeführt; die Überschrift über dieser Spalte lautet auszugsweise: \"abzügl.  Dämmung 85% (…) zuzügl. KG 412 zuzügl. AllgemeinKosten KG 434\". Während des  Nachprüfungsverfahrens hat die Ag diese Tabelle ein weiteres Mal handschriftlich  aktualisiert und kommt u.a. unter Hinzurechnung des Baukostenindex \"August 2018 zu  November 2017\" auf einen Auftragswert von […] € (vgl. Anlage 11 zum Schriftsatz der  Ag vom 29. Januar 2019).</li><li block-type=\"ListItem\"> Auszüge aus dem Gesamtbaupreisindex, ermittelt vom Statistischen Bundesamt (Reihe 4, 11/2018). Die Preissteigerung beim Neubau von Wohngebäuden lag</li></ul></p>",
+      "page": 189,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.73388671875,
+          122.1064453125
+        ],
+        [
+          541.73388671875,
+          784.44140625
+        ],
+        [
+          98.9453125,
+          784.44140625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.73388671875,
+        784.44140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 185,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">hiernach zwischen Mai 2014 und Februar 2015 bei 1,3%. Die Preise für \"Bauleistungen  am Bauwerk\" sind zwischen 2015 und dem November 2017 um 6,7% und zwischen  2015 und August 2018 um 10,9% gestiegen (sofern man die hier angegebenen Preise  für \"Gas-, Wasser- und Entwässerungsanlagen in Gebäuden\" zugrundlegt, betragen  diese Werte 8,4% bzw. 12,3%).</p>",
+      "page": 185,
+      "polygon": [
+        [
+          118.73437499999999,
+          122.9287109375
+        ],
+        [
+          541.6844482421875,
+          122.9287109375
+        ],
+        [
+          541.6844482421875,
+          210.1392822265625
+        ],
+        [
+          118.73437499999999,
+          210.1392822265625
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        122.9287109375,
+        541.6844482421875,
+        210.1392822265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Grundlagen der Kostenberechnung der Ag nach DIN 276 unterscheiden sich vom  Ausschreibungs-LV u.a. darin, dass die Ag hier Medienleitungen mit Korrosionsanstrich  anstelle von Edelstahlrohren (vgl. Pos. 1.2.1 ff. des Ausschreibungs-LV) zugrundegelegt hat  sowie in den Leistungspositionen Kaltwasserleitung DN 32-100 (vgl. Pos. 1.2.76 bis 1.2.80 des Ausschreibungs-LV) und Plattenwärmetauscher (vgl. Pos. 1.3.45 bis 1.3.47 des  Ausschreibungs-LV) andere Mengen als im Ausschreibungs-LV.</p>",
+      "page": 185,
+      "polygon": [
+        [
+          84.9765625,
+          236.4013671875
+        ],
+        [
+          541.7353515625,
+          236.4013671875
+        ],
+        [
+          541.7353515625,
+          343.00927734375
+        ],
+        [
+          84.9765625,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        236.4013671875,
+        541.7353515625,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Den Rügen der ASt vom 9. und 11. Januar 2019, dass kein Aufhebungsgrund vorliege und die  Bindefristverlängerung vom 5. Dezember 2018 vergaberechtswidrig gewesen sei, half die Ag  nicht ab.</p>",
+      "page": 185,
+      "polygon": [
+        [
+          84.9765625,
+          369.6083984375
+        ],
+        [
+          541.745361328125,
+          369.6083984375
+        ],
+        [
+          541.745361328125,
+          418.9692687988281
+        ],
+        [
+          84.9765625,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        369.6083984375,
+        541.745361328125,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/185",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit Schreiben vom 9. Januar 2019 beantragte die ASt bei der Vergabekammer des Bundes  die Einleitung eines Nachprüfungsverfahrens. Die Vergabekammer hat den  Nachprüfungsantrag am 10. Januar 2019 an die Ag übermittelt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt meint, die Ag habe das Vergabeverfahren nicht aufheben dürfen, sondern müsse  dieses Verfahren fortsetzen und den Zuschlag auf das Angebot der ASt erteilen.</li></ul></li></ul></p>",
+      "page": 185,
+      "polygon": [
+        [
+          70.94400024414062,
+          445.66796875
+        ],
+        [
+          541.6558837890625,
+          445.66796875
+        ],
+        [
+          541.6558837890625,
+          551.7092895507812
+        ],
+        [
+          70.94400024414062,
+          551.7092895507812
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        445.66796875,
+        541.6558837890625,
+        551.7092895507812
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da der Ag für den Umbau der verfahrensgegenständlichen […] mehrere Millionen € zur  Verfügung stünden, bestreitet die ASt, dass der Ag die benötigten Haushaltsmittel fehlten  und sie sich diese nicht zumindest im Wege einer \"Nachfinanzierung\" beschaffen könne.  Zumindest hätte die Ag die Möglichkeit, den Differenzbetrag zwischen dem Angebotspreis  des anderen Bieters und dem Preis der ASt für das neue Haushaltsjahr zu beantragen.</p>",
+      "page": 185,
+      "polygon": [
+        [
+          98.9453125,
+          578.7092895507812
+        ],
+        [
+          541.7290649414062,
+          578.7092895507812
+        ],
+        [
+          541.7290649414062,
+          665.6192932128906
+        ],
+        [
+          98.9453125,
+          665.6192932128906
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        578.7092895507812,
+        541.7290649414062,
+        665.6192932128906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Nach Einschätzung der ASt beruht die Aufhebung auf einer fehlerhaften Kostenberechnung  nach DIN 276. Die von der Ag in diese Kostenberechnung bereits für 2014 fehlerhaft  eingesetzten Werte summierten sich bis 2018 bzw. 2019 auf. Außerdem habe die Ag diese  Kostenberechnung nicht fortgeschrieben, obwohl der Auftrag erst 2019 ausgeführt werde.  Schon die allgemeine Preissteigerung für Material liege je nach Artikel zwischen 7 und 12%.</p>",
+      "page": 185,
+      "polygon": [
+        [
+          98.9453125,
+          692.4992828369141
+        ],
+        [
+          541.7353515625,
+          692.4992828369141
+        ],
+        [
+          541.7353515625,
+          779.4952812194824
+        ],
+        [
+          98.9453125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        692.4992828369141,
+        541.7353515625,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zwischen 2014 und 2016 habe die Ag zudem nur eine Preissteigerung von 0,5% angesetzt,  obwohl die marktübliche Preissteigerung zwischen 2014 und 2018 7% betrage. Wenn man  von einer Summe von ca. […] € netto für 2017 inklusive der anzubietenden Pauschalkosten  ausgehe, würde sich bei einer Preissteigerung von 7% und einem Sicherheitsaufschlag von  10% für 2018 eine Nettosumme von ca. […] € ergeben. Bei einer weiteren Preissteigerung  von 7% ergäbe sich für 2019 ein Betrag von […] € netto und unter Hinzurechnung der  Mehrwertsteuer von 19% ein Betrag von […] € brutto. Bei ordnungsgemäßer  Fortschreibung der Kosten hätte das Angebot der ASt mithin im Rahmen der  Kostenschätzung gelegen.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.7084350585938,
+          122.1064453125
+        ],
+        [
+          541.7084350585938,
+          286.1292724609375
+        ],
+        [
+          98.9453125,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.7084350585938,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Des Weiteren habe die Ag mehrere Kosten aus der Kostenberechnung nach DIN 276  herausgerechnet, obwohl diese von den Bietern laut Ausschreibungs-LV anzubieten waren. So enthalte die Kostenkalkulation der Ag keine Kosten für Dämmung (Pos. 1.5 des LV), für  das […] (Pos. 1.7 des LV) sowie für Bohr- und Stemmarbeiten (Pos. 2.2 des LV). Rechne  man diese Positionen aus dem Angebot der ASt heraus, betrage ihr Angebotspreis […] €  brutto. Die Pos. 1.2.12 bis 1.2.74, 1.2.81 bis 1.2.127, 1.3.1 bis 1.3.12 und 1.4.2 bis 1.4.9  fehlten ebenfalls in dieser Kostenberechnung der Ag. Außerdem stimmten mehrere der in  der Kostenberechnung nach DIN 276 angesetzten Leistungen in Art und Menge nicht mit  den Leistungen des Ausschreibungs-LV überein. So weise die Ag in ihrer Berechnung nach  DIN 276 drei Positionen Rohrleitungen mit Korrosionsanstrich aus, ausgeschrieben seien  jedoch deutlich teurere Leitungen aus Edelstahl. Die ASt trägt weiter vor, dass die Ag in  den LV-Positionen Kaltwasserleitung, Medienleitung DN 15-32, DN 40-65 und DN 80-100,  Plattenwärmetauscher, Flanscharmaturen DN 65-100 und Muffenarmaturen bis DN 50 in  der Berechnung nach DIN 276 von anderen Mengen ausgehe als tatsächlich  ausgeschrieben. Unter Berücksichtigung der tatsächlich ausgeschriebenen höheren  Mengen und der Preise für die ausgeschriebenen Stahlrohre käme man laut ASt zu einem  Gesamtpreis von […] €. Die Differenz zum Angebotspreis der ASt betrage dann nur noch 3  bis 5%. Darüber hinaus könnten die fünf komplexen Leistungspositionen 1.6 \"Einweisung\"  mit dem von der Ag vorgesehenen Betrag von […] €, also zu einem Stundensatz von 12,68  €, nicht abgedeckt werden. Ferner habe die Ag in der Pos. 2.3 \"Bestandsdokumentation\" einen Pauschalpreis von […] € angesetzt, obwohl die hier ausgeschriebenen Leistungen  nicht in fünf bis zehn Stunden erledigt werden könnten.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          98.9453125,
+          312.4609375
+        ],
+        [
+          541.7429809570312,
+          312.4609375
+        ],
+        [
+          541.7429809570312,
+          722.4992828369141
+        ],
+        [
+          98.9453125,
+          722.4992828369141
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        312.4609375,
+        541.7429809570312,
+        722.4992828369141
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die spätere Korrektur der Kostenberechnung nach DIN 276 auf […] € ist nach Auffassung  der ASt ebenfalls fehlerhaft. Anders als die Ag vortrage habe ihr der tatsächliche</p>",
+      "page": 150,
+      "polygon": [
+        [
+          98.9453125,
+          748.26171875
+        ],
+        [
+          541.70703125,
+          748.26171875
+        ],
+        [
+          541.70703125,
+          779.4952812194824
+        ],
+        [
+          98.9453125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        748.26171875,
+        541.70703125,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 133,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Preiserhöhungsindex von 4,9% nicht unbekannt sein können, weil dieser Index  quartalsweise bekannt gegeben werde. Mit einem Sicherheitsaufschlag von 20% wären die  Kosten für 2018 und 2019 abgedeckt gewesen.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.5926513671875,
+          122.517578125
+        ],
+        [
+          541.5926513671875,
+          172.21929931640625
+        ],
+        [
+          98.9453125,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.5926513671875,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt behauptet zudem, dass die von der Ag vorgelegten Preisspiegel der Vergabeverfahren Geb 27+28 Heizung und Geb 27+28 Sanitär, nicht mit den Kosten der  verfahrensgegenständlichen Kälteanlage im Gebäude 32 vergleichbar seien. Stattdessen  seien die Einheitspreise mehrerer anderer, teilweise bereits abgeschlossener  Vergabeverfahren auf demselben Gelände heranzuziehen, die die ASt im Einzelnen  benennt (u.a. für Lüftungsarbeiten, Metallbau und Tore).</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          198.5771484375
+        ],
+        [
+          541.6912231445312,
+          198.5771484375
+        ],
+        [
+          541.6912231445312,
+          305.0892333984375
+        ],
+        [
+          98.9453125,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        198.5771484375,
+        541.6912231445312,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Außerdem meint die ASt, dass die Bindefristverlängerung vom 5. Dezember 2018  vergaberechtswidrig gewesen sei, da der Ag zu diesem Zeitpunkt genügend  Haushaltsmittel zur Verfügung gestanden hätten.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          331.9692687988281
+        ],
+        [
+          541.6520385742188,
+          331.9692687988281
+        ],
+        [
+          541.6520385742188,
+          381.53125
+        ],
+        [
+          98.9453125,
+          381.53125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        331.9692687988281,
+        541.6520385742188,
+        381.53125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum Vorbringen der Ag, die ASt habe unangemessen niedrige Einzelpreise angeboten,  trägt die ASt vor, dass sie jederzeit für eine Preisaufklärung zur Verfügung stehe; eine  solche Preisaufklärung habe die Ag bisher jedoch nicht durchgeführt. In einem nicht  nachgelassenen Schriftsatz vom 7. Februar 2019, der nach der mündlichen Verhandlung und weit nach Ablauf der der ASt zum entsprechenden schriftsätzlichen Vortrag der Ag  gesetzten Stellungnahmefrist (bis zum 25. Januar 2019, 13 Uhr) einging, geht die ASt  erstmals auf die Feststellung der Ag ein, ihr Angebot sei wegen des in der Pos. 2.1.15  \"Aufstellen Räumen Magazincontainer\" angegebenen Preises von 90.500 €  auszuschließen. Die ASt trägt hierzu vor, die für die Pos. 2.1.13 bis 2.1.16  (\"Magazincontainer bzw. Bürocontainer vorhalten\" und \"Magazincontainer bzw.  Bürocontainer aufstellen räumen\") angesetzten Preise seien aufgrund der von ihren  Lieferanten in Rechnung gestellten Preise plausibel nachzuvollziehen. Auf die Preise ihrer  Lieferanten habe die ASt laut Formblatt 221 lediglich einen Aufschlag i.H.v. […] %  vorgenommen. Die ASt meint, jedem Bieter stehe es frei, wie er die angebotenen  Leistungen kalkuliere bzw. welche Lieferanten er für welche Leistung verwende. Zum Beleg  legt die ASt Auszüge aus den entsprechenden Angeboten ihrer Lieferanten vor.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          407.92926025390625
+        ],
+        [
+          541.7401123046875,
+          407.92926025390625
+        ],
+        [
+          541.7401123046875,
+          703.5392913818359
+        ],
+        [
+          98.9453125,
+          703.5392913818359
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        407.92926025390625,
+        541.7401123046875,
+        703.5392913818359
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum Vorbringen der Ag, die ASt sei mangels Umsätzen und Referenzen nicht geeignet,  versichert die ASt, sie werde die Arbeiten ordnungsgemäß ausführen.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          730.4192886352539
+        ],
+        [
+          541.6856689453125,
+          730.4192886352539
+        ],
+        [
+          541.6856689453125,
+          761.8291015625
+        ],
+        [
+          98.9453125,
+          761.8291015625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        730.4192886352539,
+        541.6856689453125,
+        761.8291015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 136,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt</h2>",
+      "page": 136,
+      "polygon": [
+        [
+          99.236328125,
+          122.9287109375
+        ],
+        [
+          189.17376708984375,
+          122.9287109375
+        ],
+        [
+          189.17376708984375,
+          134.29925537109375
+        ],
+        [
+          99.236328125,
+          134.29925537109375
+        ]
+      ],
+      "bbox": [
+        99.236328125,
+        122.9287109375,
+        189.17376708984375,
+        134.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">die Aufhebung der Aufhebung und die Zuschlagserteilung auf ihr Angebot sowie Akteneinsicht.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          125.71874999999999,
+          160.7529296875
+        ],
+        [
+          516.883544921875,
+          160.7529296875
+        ],
+        [
+          516.883544921875,
+          191.17926025390625
+        ],
+        [
+          125.71874999999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        160.7529296875,
+        516.883544921875,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>b) Die Ag beantragt,</h2>",
+      "page": 136,
+      "polygon": [
+        [
+          84.103515625,
+          216.6669921875
+        ],
+        [
+          184.8460693359375,
+          216.6669921875
+        ],
+        [
+          184.8460693359375,
+          229.0992431640625
+        ],
+        [
+          84.103515625,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        84.103515625,
+        216.6669921875,
+        184.8460693359375,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/136",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Vergabenachprüfungsantrag der ASt vom 9. Januar 2019 wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die ASt hat die Kosten des Verfahrens zu tragen.</li></ul></p>",
+      "page": 136,
+      "polygon": [
+        [
+          111.74999999999999,
+          256.09930419921875
+        ],
+        [
+          536.2090454101562,
+          256.09930419921875
+        ],
+        [
+          536.2090454101562,
+          286.1292724609375
+        ],
+        [
+          111.74999999999999,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        256.09930419921875,
+        536.2090454101562,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag meint, die Aufhebung sei rechtmäßig erfolgt, weil keine weiteren Haushaltsmittel zur  Verfügung gestellt werden konnten. Aufgrund der deutlichen Überschreitung des  geschätzten Auftragswerts durch das einzig wertbare Angebote der ASt i.H.v. 66,35% habe die Ag im Rahmen des ihr zustehenden Ermessens keine andere Möglichkeit gehabt als  die Ausschreibung gemäß § 17 EU Abs. 1 VOB/A aus schwerwiegendem Grund  aufzuheben. Die Ag wolle den verfahrensgegenständlichen Auftrag mit unveränderter Leistungsbeschreibung erneut offen ausschreiben und wegen der eingetretenen  Verzögerungen lediglich die Ausführungsfristen anpassen. Sie meint, dieses Vorgehen sei  zielführend und erfolgsversprechend, weil wegen des Angebots des zweiten Bieters und  der ordnungsgemäßen Kostenschätzung zu erwarten sei, dass das Submissionsergebnis  innerhalb ihres Kostenrahmens liegen werde.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          96.6171875,
+          312.4609375
+        ],
+        [
+          541.7295532226562,
+          312.4609375
+        ],
+        [
+          541.7295532226562,
+          513.7892761230469
+        ],
+        [
+          96.6171875,
+          513.7892761230469
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        312.4609375,
+        541.7295532226562,
+        513.7892761230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Ihre Auftragswertschätzung sei methodisch vertretbar erfolgt und damit nicht zu  beanstanden. Diese Kostenschätzung sei aufgrund aller verfügbaren sowie  kostenrelevanten Faktoren und Daten anhand des konkret der Ausschreibung zugrunde  liegenden Leistungsverzeichnisses erstellt worden. Das von der Ag beauftragte Ingenieurbüro habe den 2. EW-Bau Nachtrag fortgeschrieben und im Hinblick auf den zu  erwartenden Baupreisindex ein Zuschlag von 3,25% vorgenommen, weil der aktuelle  Baupreisindex im Zeitpunkt der Ausschreibung im August 2018 noch nicht vorgelegen habe; tatsächlich habe dieser Index 3,94% betragen. Außerdem sei das bepreiste  Leistungsverzeichnis weiter fortgeschrieben und anhand von Vergleichspreisen bei  anderen Ausschreibungen der Gesamtliegenschaft dieser […], die viele vergleichbare  Positionen und Leistungen enthielten, angepasst worden. Um den zu erwartenden  Teuerungen Rechnung zu tragen, habe die Ag die Preise aus diesen  Vergleichsausschreibungen mit 8 bis 10% beaufschlagt. Dieser Aufschlag entspreche</p>",
+      "page": 136,
+      "polygon": [
+        [
+          96.6171875,
+          540.6692810058594
+        ],
+        [
+          541.7444458007812,
+          540.6692810058594
+        ],
+        [
+          541.7444458007812,
+          780.330078125
+        ],
+        [
+          96.6171875,
+          780.330078125
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        540.6692810058594,
+        541.7444458007812,
+        780.330078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 142,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gleichzeitig der Spanne zwischen den Angeboten der einzelnen Bieter. Die zusätzlich von  der ASt angeführten Vergabeverfahren seien demgegenüber nicht mit dem vorliegenden  vergleichbar, weil es hier um Gewerke im Bereich Lüftung gehe, bei denen andere  Materialien verwendet werden würden als bei Leitungen für flüssige Medien. Darüber  hinaus habe die Ag zur Erstellung der Kostenschätzung Angebote von Herstellern und  Großhändlern herangezogen, denen ebenfalls ein Sicherheitszuschlag von 8 bis 10%  hinzugerechnet worden sei. Zum Beleg legt die Ag die Angebote von Herstellern für die  Positionen 1.1.1, 1.3.3 bis 1.3.5, 1.4.1 bis 1.4.4 und 1.4.5 bis 1.4.9 vor sowie für die  Positionen 1.3.19, 1.3.21, 1.3.24, 1.3.26 und 1.3.27 den Katalog eines Großhändlers aus  dem Bereich Heizung vor. Des Weiteren – so die Ag weiter – seien in das bepreiste LV die  langjährigen Erfahrungen des von ihr beauftragten Ingenieurbüros eingeflossen. In den  Positionen, in denen es vor allem auf die Arbeitskraft des Auftragnehmers ankomme, seien  die benötigte Zeitdauer und die zu erwartenden Lohnkosten zugrunde gelegt und ein  Zuschlag für Kleinteile vorgesehen worden. Dass ihr Schätzergebnis realitätsnah sei, werde  durch das Angebot des Erstbieters, der mangels Bindefristverlängerung ausgeschieden sei,  bestätigt, denn dieses Angebot liege nur 1,1% über der Kostenschätzung.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          98.9453125,
+          121.6953125
+        ],
+        [
+          541.7310180664062,
+          121.6953125
+        ],
+        [
+          541.7310180664062,
+          418.9692687988281
+        ],
+        [
+          98.9453125,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.6953125,
+        541.7310180664062,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Hinblick auf die aktuellen Baupreisindizes korrigiert die Ag ihre Kostenberechnung nach  DIN 276 im Nachprüfungsverfahren auf […] €. Die Ag meint, dass ein weiterer  Sicherheitszuschlag aufgrund der ständigen Fortschreibung der Auftragswertschätzung bis  zum Beginn des Vergabeverfahrens nicht angezeigt sei. Die von der ASt behaupteten  Preissteigerungsraten seien völlig überzogen. Doch selbst wenn man weitere  Sicherheitszuschläge berücksichtigen würde, bestehe im Hinblick auf den Angebotspreis  der ASt eine erhebliche Finanzierungslücke.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          98.9453125,
+          444.0234375
+        ],
+        [
+          541.6357421875,
+          444.0234375
+        ],
+        [
+          541.6357421875,
+          570.6692810058594
+        ],
+        [
+          98.9453125,
+          570.6692810058594
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        444.0234375,
+        541.6357421875,
+        570.6692810058594
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner meint die Ag, der ASt fehle das für einen Schadensersatzanspruch erforderliche Feststellunginteresse. Denn die ASt hätte nicht den Zuschlag erhalten dürfen, weil ihr  Angebot auszuschließen gewesen sei. So bestünden Anhaltspunkte für eine unzulässige  Verlagerung von Preisangaben (Mischkalkulation), weil die ASt in der Pos. 1.1.1 des LV  \"Kaltwassersatz luftgekühlt\" ein unangemessen niedriges Angebot i.H.v. […] € abgegeben  habe (nach Herstellerauskunft müsse hier mit Kosten i.H.v. […] € gerechnet werden),  demgegenüber verlange die ASt in der Pos. 2.1.15 \"Magazincontainer aufstellen räumen\" einen Preis i.H.v. 90.500 €, obwohl die marktüblichen Kosten hierfür nur 689,20 € betrügen.  Des Weiteren müsse die ASt aufgrund ihres geringen Jahresumsatzes und fehlender  Referenzen voraussichtlich mangels Eignung ausgeschlossen werden.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          98.9453125,
+          597.6692657470703
+        ],
+        [
+          541.7386474609375,
+          597.6692657470703
+        ],
+        [
+          541.7386474609375,
+          781.15234375
+        ],
+        [
+          98.9453125,
+          781.15234375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        597.6692657470703,
+        541.7386474609375,
+        781.15234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 118,
+      "polygon": [
+        [
+          295.010009765625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          78.115234375
+        ],
+        [
+          314.87890625,
+          89.75927734375
+        ],
+        [
+          295.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        78.115234375,
+        314.87890625,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Schließlich trägt die Ag vor, die Rüge der ASt, dass die Bindefristverlängerung vom  5. Dezember 2018 vergaberechtswidrig gewesen sei, sei verspätet erfolgt.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          96.6171875,
+          140.607421875
+        ],
+        [
+          541.7213745117188,
+          140.607421875
+        ],
+        [
+          541.7213745117188,
+          172.21929931640625
+        ],
+        [
+          96.6171875,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        140.607421875,
+        541.7213745117188,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Vergabekammer hat der ASt Einsicht in die Vergabeakten gewährt, soweit keine  geheimhaltungsbedürftigen Aktenbestandteile betroffen waren.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          216.6669921875
+        ],
+        [
+          541.7243041992188,
+          216.6669921875
+        ],
+        [
+          541.7243041992188,
+          248.17926025390625
+        ],
+        [
+          70.94400024414062,
+          248.17926025390625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        216.6669921875,
+        541.7243041992188,
+        248.17926025390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der mündlichen Verhandlung am 5. Februar 2019 hatten die Beteiligten Gelegenheit, ihre  Standpunkte darzulegen und mit der Vergabekammer umfassend zu erörtern.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          274.2255859375
+        ],
+        [
+          541.6251220703125,
+          274.2255859375
+        ],
+        [
+          541.6251220703125,
+          305.0892333984375
+        ],
+        [
+          70.94400024414062,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        274.2255859375,
+        541.6251220703125,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die  Vergabeakten, soweit sie der Vergabekammer vorgelegt wurden, wird ergänzend Bezug  genommen.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          69.84375,
+          330.1396484375
+        ],
+        [
+          541.647705078125,
+          330.1396484375
+        ],
+        [
+          541.647705078125,
+          380.9292907714844
+        ],
+        [
+          69.84375,
+          380.9292907714844
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        330.1396484375,
+        541.647705078125,
+        380.9292907714844
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 118,
+      "polygon": [
+        [
+          300.1700134277344,
+          426.3447265625
+        ],
+        [
+          309.640625,
+          426.3447265625
+        ],
+        [
+          309.640625,
+          437.80926513671875
+        ],
+        [
+          300.1700134277344,
+          437.80926513671875
+        ]
+      ],
+      "bbox": [
+        300.1700134277344,
+        426.3447265625,
+        309.640625,
+        437.80926513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist nur teilweise zulässig (dazu unter 1.), im Übrigen unbegründet, da  die Aufhebung rechtmäßig erfolgte (dazu unter 2.).</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          454.712890625
+        ],
+        [
+          541.7026977539062,
+          454.712890625
+        ],
+        [
+          541.7026977539062,
+          487.8692626953125
+        ],
+        [
+          70.94400024414062,
+          487.8692626953125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        454.712890625,
+        541.7026977539062,
+        487.8692626953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Der Nachprüfungsantrags ist mangels Antragsbefugnis bereits unzulässig (§ 160 Abs. 2  GWB), soweit die ASt sich gegen die von der Ag am 5. Dezember 2018 geforderte  Verlängerung der Bindefrist wendet. Die ASt hat dieser Bindefristverlängerung ohne Weiteres  zugestimmt und auch im Nachprüfungsverfahren nichts dazu vorgetragen, inwieweit ihr  hieraus überhaupt ein Schaden entstanden ist oder zu entstehen droht.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          514.749267578125
+        ],
+        [
+          541.7293090820312,
+          514.749267578125
+        ],
+        [
+          541.7293090820312,
+          602.720703125
+        ],
+        [
+          70.94400024414062,
+          602.720703125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        514.749267578125,
+        541.7293090820312,
+        602.720703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Übrigen bestehen gegen die Zulässigkeit des Nachprüfungsantrags der ASt keine  Bedenken.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          84.9765625,
+          626.56640625
+        ],
+        [
+          541.7257690429688,
+          626.56640625
+        ],
+        [
+          541.7257690429688,
+          658.6292877197266
+        ],
+        [
+          84.9765625,
+          658.6292877197266
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        626.56640625,
+        541.7257690429688,
+        658.6292877197266
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Der Nachprüfungsantrag ist unbegründet, da die Aufhebung rechtmäßig erfolgte; die ASt hat  daher keinen Anspruch darauf, dass die Ag die Aufhebung aufhebt und das bisherige  Vergabeverfahren fortsetzt (dazu unter a)). Abgesehen davon spricht viel dafür, dass der ASt  bereits deshalb keine Ansprüche gegen die Ag zustehen, weil ihr Angebot auszuschließen</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          683.302734375
+        ],
+        [
+          541.7156372070312,
+          683.302734375
+        ],
+        [
+          541.7156372070312,
+          753.4552917480469
+        ],
+        [
+          70.94400024414062,
+          753.4552917480469
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        683.302734375,
+        541.7156372070312,
+        753.4552917480469
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          292.010009765625,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          89.75927734375
+        ],
+        [
+          292.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        78.115234375,
+        317.7663269042969,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sein dürfte und sie daher nicht in ihren Rechten verletzt wäre, selbst wenn die Ag  vergabefehlerhaft gehandelt hätte (dazu unter b)).</p>",
+      "page": 139,
+      "polygon": [
+        [
+          84.9765625,
+          122.1064453125
+        ],
+        [
+          541.4534912109375,
+          122.1064453125
+        ],
+        [
+          541.4534912109375,
+          153.25927734375
+        ],
+        [
+          84.9765625,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.1064453125,
+        541.4534912109375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/139",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) Die Ag hat das Vergabeverfahren aufgehoben, weil das einzige in der Wertung verbliebene  Angebot der ASt die ihr zur Verfügung stehenden Haushaltsmittel um über 60% übersteigt.  Dies stellt einen \"anderen schwerwiegenden Grund\" i.S.d. § 17 EU Abs. 1 Nr. 3 VOB/A dar,  der die Ag hier zur sanktionslosen Aufhebung des Vergabeverfahrens berechtigt, weil ihre  Kostenschätzung ordnungsgemäß war (dazu unter aa)) und sie das ihr vor einer  Aufhebungsentscheidung zustehende Ermessen ebenfalls fehlerfrei ausgeübt hat (dazu  unter bb)).  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa) Ein deutliche Überschreitung der zur Verfügung stehenden Haushaltsmittel (wie hier  zu mehr als 60%) berechtigt einen öffentlichen Auftraggeber zur Aufhebung des  Vergabeverfahrens, wenn er die Finanzierungslücke nicht zu vertreten hat (vgl. BGH,  Beschluss vom 20. März 2014, X ZB 18/13; BGH, Urteil vom 20. November 2012,  X ZR 108/10 m..w.N.; OLG Düsseldorf, Beschluss vom 29. August 2018, VII-Verg  14/17). Dies ist hier der Fall, denn die Ag hat die Kosten ordnungsgemäß geschätzt.</li></ul></li></ul></p>",
+      "page": 139,
+      "polygon": [
+        [
+          84.9765625,
+          171.853515625
+        ],
+        [
+          541.7391357421875,
+          171.853515625
+        ],
+        [
+          541.7391357421875,
+          431.689453125
+        ],
+        [
+          84.9765625,
+          431.689453125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        171.853515625,
+        541.7391357421875,
+        431.689453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Hierbei ist zunächst zu berücksichtigen, dass es sich bei einer Kostenschätzung stets  um eine Prognose handelt, die naturgemäß mit bestimmten Annahmen und  Unschärfen behaftet ist. Eine Schätzung ist daher nicht bereits dann fehlerhaft, wenn  die Preise der tatsächlich abgegebenen Angebote hiervon abweichen (vgl. BGH, Urteil  vom 20. November 2012, X ZR 108/10) – abgesehen davon kommt der Preis eines der  beiden abgegebenen Angebote dem Schätzergebnis der Ag sehr nahe und spräche  für sich betrachtet anders als der Angebotspreis der ASt gerade für die Richtigkeit der  Schätzung. Ein öffentlicher Auftraggeber muss bei seiner Kostenschätzung jedoch  Methoden wählen, die ein wirklichkeitsnahes Schätzungsergebnis ernsthaft erwarten  lassen (BGH, Urteil vom 20. November 2012, X ZR 108/10; OLG Düsseldorf,  Beschluss vom 29. August 2018, a.a.O.). Diesen Anforderungen hat die Ag genügt,  indem sie umfangreiche Ermittlungen angestellt hat, um die zu erwartenden Kosten der  verfahrensgegenständlichen Baumaßnahme vorab realistisch zu schätzen: Sie hat das  ausgeschriebene LV vollständig bepreist und so für die gebotene Deckungsgleichheit  der Gegenstände der Schätzung mit denen der ausgeschriebenen Maßnahme gesorgt  (vgl. hierzu BGH, Urteil vom 20. November 2012, a.a.O.). Bei der Ermittlung der hier  angesetzten Preise hat sich die Ag insbesondere auf ihre Erfahrungen und</p>",
+      "page": 139,
+      "polygon": [
+        [
+          118.73437499999999,
+          458.44927978515625
+        ],
+        [
+          541.7290649414062,
+          458.44927978515625
+        ],
+        [
+          541.7290649414062,
+          775.396484375
+        ],
+        [
+          118.73437499999999,
+          775.396484375
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        458.44927978515625,
+        541.7290649414062,
+        775.396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          292.010009765625,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          89.75927734375
+        ],
+        [
+          292.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        78.115234375,
+        317.7663269042969,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ermittlungen aus anderen nahezu zeitgleich stattfindenden Vergabeverfahren gestützt (die LVs stammen aus dem Herbst 2017) und diese zusätzlich mit einem  \"Sicherheitsaufschlag\" von bis zu 10% versehen. Wie die Ag im Einzelnen belegt hat,  waren diese Vergabeverfahren \"Sanitär\" und \"Heizung\" nicht nur in zeitlicher, sondern  auch in inhaltlicher Hinsicht mit den hier ausgeschriebenen Leistungen vergleichbar (Leitungen in Edelstahl für flüssige Medien) und fanden in anderen Gebäuden auf  demselben Kasernengelände und damit in so enger räumlicher Nähe statt, dass auch mangels etwaiger regionaler Besonderheiten nichts dagegen spricht, diese Werte auf  die verfahrensgegenständlichen Leistungen zu übertragen (vgl. hierzu OLG Düsseldorf, Beschluss vom 29. August 2018, a.a.O.). Damit ist die Grundlage der  Schätzung der Ag in den meisten der ausgeschriebenen Leistungspositionen ordnungsgemäß. In wenigen weiteren Positionen hat die Ag vergleichbare Angebote  anderer Hersteller eingeholt, Internetrecherchen angestellt oder sich an den Preisen  aus einem Herstellerkatalog orientiert. Lediglich in wenigen Positionen hat sich die Ag  ausschließlich auf die Erfahrungen des von ihr eingesetzten Ingenieurbüros gestützt,  was ebenfalls nicht zu beanstanden ist (vgl. OLG Düsseldorf, Beschluss vom 29.  August 2018, a.a.O.).</p>",
+      "page": 130,
+      "polygon": [
+        [
+          118.73437499999999,
+          122.517578125
+        ],
+        [
+          541.7300415039062,
+          122.517578125
+        ],
+        [
+          541.7300415039062,
+          437.9292907714844
+        ],
+        [
+          118.73437499999999,
+          437.9292907714844
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        122.517578125,
+        541.7300415039062,
+        437.9292907714844
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen diese ordnungsgemäße und nachvollziehbare Vorgehensweise, zur Schätzung  des Auftragswerts ein vollständig dem Ausschreibungs-LV entsprechendes bepreistes  LV zu erstellen, hat die ASt nichts vorgetragen. Sie hat lediglich behauptet, dass  weitere Vergabeverfahren auf demselben Gelände zum Vergleich hätten  herangezogen werden müssen, jedoch nicht substantiiert dargelegt, warum und  inwiefern dies die Schätzungsergebnisse der Ag verändert hätte. Abgesehen davon  erscheinen jedenfalls die von der ASt genannten Vergabeverfahren für  Lüftungsarbeiten, Metallbau und Tore – ohne weitere Einzelheiten zu kennen – nicht  mit den hier ausgeschriebenen Leistungen im Bereich kältetechnische Anlagen  vergleichbar zu sein. Auch dazu hätte es weiteren Sachvortrags der ASt bedurft.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          119.89843749999999,
+          464.8292541503906
+        ],
+        [
+          541.7295532226562,
+          464.8292541503906
+        ],
+        [
+          541.7295532226562,
+          646.6292877197266
+        ],
+        [
+          119.89843749999999,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        119.89843749999999,
+        464.8292541503906,
+        541.7295532226562,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die einzigen konkreten Beanstandungen der ASt gegen die Vorgehensweise der Ag  richten sich allein gegen deren Kostenberechnung nach DIN 276, die im Ergebnis zu  einem ähnlichen Auftragswert kommt wie das bepreiste LV. Selbst wenn man  zugunsten der ASt unterstellt, dass die Kostenberechnung nach DIN 276 allein schon  deshalb fehlerhaft und damit für die Kostenschätzung untauglich wäre, weil diese in  einigen Leistungspositionen hinsichtlich des zu verwendenden Materials und</p>",
+      "page": 130,
+      "polygon": [
+        [
+          118.73437499999999,
+          673.5392761230469
+        ],
+        [
+          541.7444458007812,
+          673.5392761230469
+        ],
+        [
+          541.7444458007812,
+          779.5078125
+        ],
+        [
+          118.73437499999999,
+          779.5078125
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        673.5392761230469,
+        541.7444458007812,
+        779.5078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 138,
+      "polygon": [
+        [
+          292.010009765625,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          89.75927734375
+        ],
+        [
+          292.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        78.115234375,
+        317.7663269042969,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">hinsichtlich der Mengenansätze vom Ausschreibungs-LV abweicht, führt dies jedoch  nicht zur Fehlerhaftigkeit der Kostenschätzung der Ag insgesamt. Denn wie oben  aufgezeigt, kann sich die Ag zu Recht auf das von ihr bepreiste LV stützen.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          118.73437499999999,
+          122.9287109375
+        ],
+        [
+          541.6424560546875,
+          122.9287109375
+        ],
+        [
+          541.6424560546875,
+          172.21929931640625
+        ],
+        [
+          118.73437499999999,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        122.9287109375,
+        541.6424560546875,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenschätzung ist auch nicht deshalb zu beanstanden, weil – so aber die ASt – Sicherheitszuschläge fehlen. Selbstverständlich sind Schätzergebnisse  fortzuschreiben und ggf. anzupassen, wenn die Schätzgrundlagen nicht mehr aktuell  sind und sich nicht unerheblich verändert haben (vgl. BGH, Urteil vom 20. November  2012, a.a.O.). Wie die von der Ag auszugsweise vorgelegten bepreisten LV aus den  Vergabeverfahren Geb 27+28 Sanitär und Heizung sowie die vorgelegten  Herstellerangebote belegen, hat sie auf die dort 2017 ermittelten Preise jedoch bereits  Sicherheitszuschläge von bis zu 10% vorgenommen. Weitere Zuschläge sind aufgrund  der vom Statistischen Bundesamt für die Herstellung von Wohngebäuden seit 2017  ermittelten Preissteigerungen nicht angezeigt (hierbei kommt es nicht darauf an, ob  man mit der ASt die Indizes für \"Bauleistungen am Bauwerk\" insgesamt oder die  Indizes für \"Gas-, Wasser- und Entwässerungsanlagen in Gebäuden\" zugrundelegt;  das Statistische Bundesamt geht hier von einer Preissteigerung von 4,2% bzw. 4,1%  aus). Abgesehen davon, dass auch die ASt lediglich weitere Sicherheitszuschläge  gefordert, deren Notwendigkeit aber nicht begründet hat, ist außerdem festzustellen,  dass selbst bei einem weiteren Sicherheitszuschlag von 10% auf den von der Ag  geschätzten Auftragswert der Angebotspreis der ASt (ca. […] € brutto) immer noch  erheblich über diesem Wert läge (ca. […] € brutto + 10% = ca. […] € brutto). Auch in  diesem Fall würden also die aufgrund der Schätzung der Ag bereitgestellten  Haushaltsmittel bei weitem nicht den Angebotspreis der ASt abdecken können. Wollte man hierüber hinaus noch weitere Sicherheitszuschläge auf die Schätzung  vornehmen, würde sich die Frage stellen, ob das Angebot der ASt in wirtschaftlicher  Hinsicht überhaupt akzeptabel ist (vgl. OLG Düsseldorf, Beschluss vom 29. August  2018, a.a.O.).</p>",
+      "page": 138,
+      "polygon": [
+        [
+          117.57031249999999,
+          199.09930419921875
+        ],
+        [
+          541.7290649414062,
+          199.09930419921875
+        ],
+        [
+          541.7290649414062,
+          647.9453125
+        ],
+        [
+          117.57031249999999,
+          647.9453125
+        ]
+      ],
+      "bbox": [
+        117.57031249999999,
+        199.09930419921875,
+        541.7290649414062,
+        647.9453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">bb) Das ihr vor einer Aufhebungsentscheidung zustehende Ermessen hat die Ag fehlerfrei  ausgeübt. Mit mehr als 60% lag das einzige in der Wertung verbliebene Angebot der  ASt so erheblich über den ihr zu Verfügung stehenden Haushaltsmitteln, dass die  Aufhebung allein schon unter Berücksichtigung der Grundsätze der Wirtschaftlichkeit  und Sparsamkeit der Haushaltsführung geboten erscheint (vgl. OLG Düsseldorf,  Beschluss vom 29. August 2018, a.a.O.). Andere, weniger in das Vergabeverfahren</p>",
+      "page": 138,
+      "polygon": [
+        [
+          98.9453125,
+          673.5392761230469
+        ],
+        [
+          541.7372436523438,
+          673.5392761230469
+        ],
+        [
+          541.7372436523438,
+          779.5078125
+        ],
+        [
+          98.9453125,
+          779.5078125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        673.5392761230469,
+        541.7372436523438,
+        779.5078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          292.010009765625,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          89.75927734375
+        ],
+        [
+          292.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        78.115234375,
+        317.7663269042969,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">einschneidende Alternativen sind nicht erkennbar. Die ASt hat lediglich vorgeschlagen,  dass die Ag im aktuellen Haushaltsjahr weitere Mittel beantragt. Dazu ist die Ag jedoch  nicht verpflichtet. Denn abgesehen davon, dass es bei einer so beträchtlichen  Überschreitung der – ordnungsgemäß – veranschlagten Haushaltsmittel absolut  unwahrscheinlich erscheint, dass die Ag für diese Maßnahme erfolgreich weitere  Haushaltsmittel hätte einwerben können, käme der Anspruch eines Bieters darauf,  dass sich ein öffentlicher Auftraggeber weiter um Finanzmittel bemühen muss, wenn  ein Ausschreibungsergebnis seine ordnungsgemäße Kostenschätzung überschreitet,  einem Kontrahierungszwang nahe. Einem solchen Zwang unterliegen jedoch auch  öffentliche Auftraggeber nicht (std. Rspr., vgl. nur BGH, Beschluss vom 20. März 2014,  X ZB 18/13; BGH, Urteil vom 8. September 1998, X ZR 48/97; OLG Düsseldorf,  Beschluss vom 16. Oktober 2013, VII-Verg 16/13, jeweils m.w. N.).</p>",
+      "page": 151,
+      "polygon": [
+        [
+          118.73437499999999,
+          121.6953125
+        ],
+        [
+          541.7290649414062,
+          121.6953125
+        ],
+        [
+          541.7290649414062,
+          343.00927734375
+        ],
+        [
+          118.73437499999999,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        121.6953125,
+        541.7290649414062,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da das Vergabeverfahren gemäß § 17 EU Abs. 1 Nr. 3 VOB/A aus schwerwiegenden Gründen aufgehoben werden durfte, kommt es nicht darauf an, ob weitere  Aufhebungsgründe vorlagen, z.B. weil das einzige in der Wertung verbliebene Angebot der  ASt auszuschließen gewesen wäre (vgl. dazu jedoch unten unter b)).</p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          369.8892822265625
+        ],
+        [
+          541.606201171875,
+          369.8892822265625
+        ],
+        [
+          541.606201171875,
+          438.267578125
+        ],
+        [
+          98.9453125,
+          438.267578125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        369.8892822265625,
+        541.606201171875,
+        438.267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aufgrund der Rechtmäßigkeit der Aufhebung stehen der ASt auch keine weiteren  Ansprüche zu; auch etwaige (vor dem zuständigen Zivilgericht geltend zu machende)  Schadensersatzansprüche bestünden nur dann, wenn die Ag vergabefehlerhaft gehandelt  hätte (vgl. nur BGH, Beschluss vom 20. März 2014, X ZB 18/13).</p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          464.8292541503906
+        ],
+        [
+          541.7291259765625,
+          464.8292541503906
+        ],
+        [
+          541.7291259765625,
+          534.0615234375
+        ],
+        [
+          98.9453125,
+          534.0615234375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        464.8292541503906,
+        541.7291259765625,
+        534.0615234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Abschließend weist die Vergabekammer in Würdigung des weiteren Vortrags der  Verfahrensbeteiligten und der von Amts wegen getroffenen Feststellungen darauf hin, dass  erhebliche Zweifel bestehen, ob die ASt überhaupt in ihren Rechten verletzt sein könnte, selbst wenn die Aufhebung – anders als hier vertreten – rechtswidrig erfolgt wäre. Denn es  spricht viel dafür, dass das Angebot der ASt auszuschließen ist.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          84.9765625,
+          559.6292724609375
+        ],
+        [
+          541.7261962890625,
+          559.6292724609375
+        ],
+        [
+          541.7261962890625,
+          647.5341796875
+        ],
+        [
+          84.9765625,
+          647.5341796875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        559.6292724609375,
+        541.7261962890625,
+        647.5341796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Anders als die Ag meint, ist die ASt zwar nicht mangels Eignung auszuschließen. Denn  abgesehen von der Eintragung im Handelsregister (die die ASt mit ihrem Angebot belegt  hat) hat die Ag Eignungsnachweise nicht rechtswirksam verlangt. Diese hätten gemäß  § 122 Abs. 4 S. 2 GWB bekannt gemacht oder in der Bekanntmachung jedenfalls  unmittelbar verlinkt werden müssen. Allein der hier in Ziffer III.1.2 und III.1.3 der EU-Bekanntmachung erfolgte Verweis auf die \"Auftragsunterlagen\" oder der allgemeine link in</p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          673.5392761230469
+        ],
+        [
+          541.6717529296875,
+          673.5392761230469
+        ],
+        [
+          541.6717529296875,
+          779.4952812194824
+        ],
+        [
+          98.9453125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        673.5392761230469,
+        541.6717529296875,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 168,
+      "polygon": [
+        [
+          292.010009765625,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          78.115234375
+        ],
+        [
+          317.7663269042969,
+          89.75927734375
+        ],
+        [
+          292.010009765625,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        78.115234375,
+        317.7663269042969,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ziffer I.3 der EU-Bekanntmachung zum Abruf der Vergabeunterlagen entspricht jedoch den  vergaberechtlichen Vorgaben an die Transparenz und Eindeutigkeit eines  Vergabeverfahrens nicht, weil sich die Bieter die an sie gestellten Anforderungen erst im  Einzelnen aus den Vergabeunterlagen zusammensuchen müssen (vgl. OLG Düsseldorf,  Beschlüsse vom 5. September 2018, VII-Verg 14/18, und vom 11. Juli 2018, VII-Verg 24/18  m.w.N.).</p>",
+      "page": 168,
+      "polygon": [
+        [
+          98.9453125,
+          121.2841796875
+        ],
+        [
+          541.73388671875,
+          121.2841796875
+        ],
+        [
+          541.73388671875,
+          229.0992431640625
+        ],
+        [
+          98.9453125,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.2841796875,
+        541.73388671875,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Allerdings spricht viel dafür, dass die ASt aufgrund fehlender, da unzutreffender, Preise  gemäß § 16 EU Nr. 3 i.V.m. § 13 EU Abs. 1 Nr. 3 VOB/A auszuschließen ist. Für eine im  Hinblick auf die ausgeschriebenen kältetechnischen Anlagen insgesamt in Aufwand und  Komplexität vergleichsweise gering und einfach erscheinende Nebenleistung, das  Aufstellen und Räumen eines Magazincontainers, hat die ASt mit 90.500 € nämlich einen  Preis angeboten, der nach derzeitiger Einschätzung der Vergabekammer nicht dem  entsprechen kann, was für diese Leistung tatsächlich beansprucht wird (Pos. 2.1.15). Auch  unter Berücksichtigung der einem Bieter grundsätzlich zustehenden Kalkulationsfreiheit kann dieser Preis objektiv kaum nachvollzogen werden. Denn die Ag hat hier lediglich einen  Preis von 689,20 € geschätzt, das Angebot des zweiten Bieters liegt ebenfalls in diesem  Rahmen. Auffällig ist ebenfalls, dass die ASt selbst für eine im LV unmittelbar  anschließende Position für die wohl nahezu identische Leistung (Büro- statt Magazincontainer, s. Pos. 2.1.16) mit 7.500 € zwar einen immer noch deutlich über der  Schätzung der Ag (689,20 €) liegenden Betrag, jedoch einen Preis kalkuliert hat, der mehr  als das Zehnfache unter dem Preis für den Magazincontainer liegt. In der mündlichen Verhandlung konnte ASt hierzu nichts vortragen, obwohl dieses Thema von der Ag bereits  in einem Schriftsatz knapp drei Wochen vorher ausdrücklich angesprochen worden und die  der ASt hierzu gewährte Stellungnahmefrist längst abgelaufen war. Auch sonst erscheint  die Preiskalkulation der ASt nicht mit dem Marktüblichem erklärbar, so sind z.B. die  Vorhaltekosten für diesen Container bereits über eine andere Position des LV abgedeckt  (s. Pos. 2.1.13). Da ihr Preis in dieser Einzelposition fast 1/10 ihres Gesamtangebotspreises  ausmacht, wäre zudem auch die ASt gehalten gewesen, das entsprechende Angebot ihres  Lieferanten, das bereits mehr als […] € betrug, zu hinterfragen und dieses nicht nur (mit  einem – zudem beträchtlichen – Zuschlag von […] %) an die Ag \"durchzureichen\". Mit einer  solchen Kalkulation hat die ASt möglicherweise auch gegen ihre Rücksichtnahmepflicht auf  § 241 Abs. 2 BGB verstoßen und ist aus diesem Grund auszuschließen (vgl. BGH, Urteil  vom 19. Juni 2018, X ZR 100/16). Für eine abschließende Entscheidung hierüber wären weitere Aufklärungen erforderlich, die sich mangels Entscheidungserheblichkeit aber</p>",
+      "page": 168,
+      "polygon": [
+        [
+          96.6171875,
+          254.90234375
+        ],
+        [
+          541.7301025390625,
+          254.90234375
+        ],
+        [
+          541.7301025390625,
+          779.4952812194824
+        ],
+        [
+          96.6171875,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        254.90234375,
+        541.7301025390625,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          291.888671875,
+          78.115234375
+        ],
+        [
+          318.080078125,
+          78.115234375
+        ],
+        [
+          318.080078125,
+          89.75927734375
+        ],
+        [
+          291.888671875,
+          89.75927734375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        78.115234375,
+        318.080078125,
+        89.75927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">erübrigen. Zudem erfolgte der Vortrag der ASt, mit dem sie zumindest grob versucht hat,  ihre Preiskalkulation zu begründen (sie habe die Preise ihrer Lieferanten mit einem  Aufschlag von 30% weitergegeben), weit nach Ablauf der ihr gesetzten Fristen und damit  verspätet (vgl. § 167 Abs. 2 S. 2 GWB).</p>",
+      "page": 100,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.718017578125,
+          122.517578125
+        ],
+        [
+          541.718017578125,
+          191.17926025390625
+        ],
+        [
+          98.9453125,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.718017578125,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 100,
+      "polygon": [
+        [
+          298.6100158691406,
+          229.412109375
+        ],
+        [
+          311.095703125,
+          229.412109375
+        ],
+        [
+          311.095703125,
+          241.69927978515625
+        ],
+        [
+          298.6100158691406,
+          241.69927978515625
+        ]
+      ],
+      "bbox": [
+        298.6100158691406,
+        229.412109375,
+        311.095703125,
+        241.69927978515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 1, Abs. 3 S. 1, Abs. 4 S. 1 GWB.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          69.84375,
+          261.0693359375
+        ],
+        [
+          459.9791259765625,
+          261.0693359375
+        ],
+        [
+          459.9791259765625,
+          272.779296875
+        ],
+        [
+          69.84375,
+          272.779296875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        261.0693359375,
+        459.9791259765625,
+        272.779296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV. </b></p>",
+      "page": 100,
+      "polygon": [
+        [
+          298.010009765625,
+          317.8056640625
+        ],
+        [
+          314.6252136230469,
+          317.8056640625
+        ],
+        [
+          314.6252136230469,
+          329.56927490234375
+        ],
+        [
+          298.010009765625,
+          329.56927490234375
+        ]
+      ],
+      "bbox": [
+        298.010009765625,
+        317.8056640625,
+        314.6252136230469,
+        329.56927490234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt,  beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf,  einzulegen.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          349.462890625
+        ],
+        [
+          541.7084350585938,
+          349.462890625
+        ],
+        [
+          541.7084350585938,
+          417.6492919921875
+        ],
+        [
+          70.94400024414062,
+          417.6492919921875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        349.462890625,
+        541.7084350585938,
+        417.6492919921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die  Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der  Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die  Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          444.5292663574219
+        ],
+        [
+          541.6592407226562,
+          444.5292663574219
+        ],
+        [
+          541.6592407226562,
+          514.3271484375
+        ],
+        [
+          70.94400024414062,
+          514.3271484375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        444.5292663574219,
+        541.6592407226562,
+        514.3271484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für  Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          539.3492736816406
+        ],
+        [
+          541.46875,
+          539.3492736816406
+        ],
+        [
+          541.46875,
+          571.0634765625
+        ],
+        [
+          70.94400024414062,
+          571.0634765625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        539.3492736816406,
+        541.46875,
+        571.0634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der  Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der  Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das  Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur  Entscheidung über die Beschwerde verlängern.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          596.3492736816406
+        ],
+        [
+          541.4480590820312,
+          596.3492736816406
+        ],
+        [
+          541.4480590820312,
+          684.947265625
+        ],
+        [
+          70.94400024414062,
+          684.947265625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        596.3492736816406,
+        541.4480590820312,
+        684.947265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Behrens Dr. Dittmann</p>",
+      "page": 100,
+      "polygon": [
+        [
+          162.02000427246094,
+          748.1752853393555
+        ],
+        [
+          446.41796874999994,
+          748.1752853393555
+        ],
+        [
+          446.41796874999994,
+          759.2152862548828
+        ],
+        [
+          162.02000427246094,
+          759.2152862548828
+        ]
+      ],
+      "bbox": [
+        162.02000427246094,
+        748.1752853393555,
+        446.41796874999994,
+        759.2152862548828
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

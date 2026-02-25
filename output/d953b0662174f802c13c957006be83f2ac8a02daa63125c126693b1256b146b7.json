@@ -1,0 +1,566 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 120,
+      "polygon": [
+        [
+          31.6625,
+          20.556640625
+        ],
+        [
+          167.3921875,
+          20.556640625
+        ],
+        [
+          167.3921875,
+          74.826171875
+        ],
+        [
+          31.6625,
+          74.826171875
+        ]
+      ],
+      "bbox": [
+        31.6625,
+        20.556640625,
+        167.3921875,
+        74.826171875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC0AcUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiuI+KPjSPwb4VkljkkGo3WYrNY8bt/97kHgUAdpLNFBGXm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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht </b>20. Dezember 2011</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          123.33984375
+        ],
+        [
+          536.741943359375,
+          123.33984375
+        ],
+        [
+          536.741943359375,
+          136.41546630859375
+        ],
+        [
+          69.84375,
+          136.41546630859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.33984375,
+        536.741943359375,
+        136.41546630859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Erwerbs der Zeitschrift</b> <b>\"Pegasus\" durch den Jahr Top Special Verlag</b></h2>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          178.0205078125
+        ],
+        [
+          524.7042236328125,
+          178.0205078125
+        ],
+        [
+          524.7042236328125,
+          190.28521728515625
+        ],
+        [
+          69.84375,
+          190.28521728515625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        178.0205078125,
+        524.7042236328125,
+        190.28521728515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Publikumszeitschriften</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          205.1552734375
+        ],
+        [
+          330.59375,
+          205.1552734375
+        ],
+        [
+          330.59375,
+          220.5010986328125
+        ],
+        [
+          69.84375,
+          220.5010986328125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        205.1552734375,
+        330.59375,
+        220.5010986328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B 6 – 77/11</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          237.610107421875
+        ],
+        [
+          272.4120178222656,
+          237.610107421875
+        ],
+        [
+          272.4120178222656,
+          251.15789794921875
+        ],
+        [
+          69.84375,
+          251.15789794921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        237.610107421875,
+        272.4120178222656,
+        251.15789794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 22. November 2011</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          267.236328125
+        ],
+        [
+          316.39202880859375,
+          267.236328125
+        ],
+        [
+          316.39202880859375,
+          281.81793212890625
+        ],
+        [
+          69.84375,
+          281.81793212890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        267.236328125,
+        316.39202880859375,
+        281.81793212890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Trotz hoher Marktanteile und einer bedeutenden Marktanteilsaddition hat das Bundeskartellamt die Übernahme der Pferdezeitschrift \"Pegasus\" (vormals Pegasus Pferde  Verlag AG, Schweiz) durch den Jahr Top Special Verlag, einem Gemeinschaftsunternehmen der Jahr Verlag GmbH und des Axel Springer Verlages, innerhalb der Monatsfrist freigegeben. Der Zusammenschluss führt auf keinem der betroffenen Leser- und  Anzeigenmärkten zur Entstehung oder Verstärkung einer marktbeherrschenden Stellung.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          68.6796875,
+          322.328125
+        ],
+        [
+          541.9561767578125,
+          322.328125
+        ],
+        [
+          541.9561767578125,
+          445.69012451171875
+        ],
+        [
+          68.6796875,
+          445.69012451171875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        322.328125,
+        541.9561767578125,
+        445.69012451171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Pegasus\" ist eine bundesweit erscheinende Zeitschrift mit Themen rund um das Pferd  als Sport- und Freizeitbeschäftigung. Im Bereich der Pferdezeitschriften ist der Jahr Top  Special Verlag außerdem bereits mit den Titeln \"St. Georg\" und \"Mein Pferd\" vertreten.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          68.6796875,
+          462.5244140625
+        ],
+        [
+          541.9562377929688,
+          462.5244140625
+        ],
+        [
+          541.9562377929688,
+          511.5101318359375
+        ],
+        [
+          68.6796875,
+          511.5101318359375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        462.5244140625,
+        541.9562377929688,
+        511.5101318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Zusammenschluss betrifft Publikumszeitschriften, die ihre Leser ausschließlich in  ihrem privaten Umfeld ansprechen und deren persönliche Informations- und Freizeitinteressen abdecken. Publikumszeitschriften lassen sich weiter differenzieren in sog.  \"General Interest\"- und \"Special Interest\"-Zeitschriften. Der \"Special Interest\"- Bereich  der Pferdezeitschriften zeichnet sich durch eine speziell auf Pferde- und Pferdesportinteressierte ausgerichtete Berichterstattung aus. Inhalte sind vor allem Reittraining, Freizeit- und Turnierreiten, Pferdehaltung, Gesundheit, Ernährung, Ausrüstung und Zubehör für Pferde. Die verschiedenen Titel im Bereich der Pferdezeitschriften decken entweder ein breites Spektrum in Bezug auf alle diese Themen ab, oder sie konzentrieren  sich innerhalb der Brandbreite der Pferdethemen schwerpunktmäßig auf eine Zielgruppe oder ein Themengebiet. Beispiele für letzteres sind Titel zu bestimmten Pferderassen, Reitarten und Pferdegesundheit.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          68.6796875,
+          529.4501342773438
+        ],
+        [
+          541.9560546875,
+          529.4501342773438
+        ],
+        [
+          541.9560546875,
+          739.216796875
+        ],
+        [
+          68.6796875,
+          739.216796875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        529.4501342773438,
+        541.9560546875,
+        739.216796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          798.4266548156738
+        ],
+        [
+          300.328125,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.55108642578125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Schwerpunkt der fusionskontrollrechtlichen Erwägungen lag auf dem Lesermarkt,  da der eigens abzugrenzende Anzeigenmarkt eine größere Anzahl von Wettbewerbstiteln umfasst und hier keine wettbewerblichen Bedenken bestanden.</p>",
+      "page": 82,
+      "polygon": [
+        [
+          70.91999816894531,
+          122.9287109375
+        ],
+        [
+          541.9559936523438,
+          122.9287109375
+        ],
+        [
+          541.9559936523438,
+          171.91009521484375
+        ],
+        [
+          70.91999816894531,
+          171.91009521484375
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        122.9287109375,
+        541.9559936523438,
+        171.91009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der engste denkbare Lesermarkt ist der bundesweite Markt für Pferdezeitschriften, ohne Einschluss von Zeitschriften, die sich an bestimmte (Unter-) Zielgruppen richten oder  spezifische Themenschwerpunkte haben. Bei Betrachtung dieses Marktes kommt der Jahr Top Special Verlag nach dem Erwerb der Zeitschrift \"Pegasus\" auf einen erheblichen Markanteil von fast 50 % (auf der Basis der veröffentlichten Auflagenzahlen). Allerdings existieren mit den Titeln \"Cavallo\" des Motor Presse Verlages und \"Reiter Revue\" des Landwirtschaftsverlages auch nach dem Zusammenschluss noch zwei starke  Wettbewerber in diesem Markt.</p>",
+      "page": 82,
+      "polygon": [
+        [
+          69.84375,
+          189.12109375
+        ],
+        [
+          541.9558715820312,
+          189.12109375
+        ],
+        [
+          541.9558715820312,
+          327.37005615234375
+        ],
+        [
+          69.84375,
+          327.37005615234375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        189.12109375,
+        541.9558715820312,
+        327.37005615234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Sektor der Pferdezeitschriften insgesamt ist außerdem ausgesprochen aufgefächert  und zeichnet sich durch geringe Marktzutrittsschranken aus. Inhalte von Pferdezeitschriften sind mit einem vergleichsweise geringen wirtschaftlichen Aufwand zu erstellen,  was es neuen Wettbewerbern leicht macht, eigene Titel anzubieten. Gleiches gilt insbesondere für die Möglichkeit der vielen, z.B. im Bereich der Spezialtitel bereits bestehenden Anbieter, ihre eigene Publikationstätigkeit auf den betroffenen Markt zu erweitern.</p>",
+      "page": 82,
+      "polygon": [
+        [
+          69.84375,
+          344.1181640625
+        ],
+        [
+          541.9559936523438,
+          344.1181640625
+        ],
+        [
+          541.9559936523438,
+          447.0101318359375
+        ],
+        [
+          69.84375,
+          447.0101318359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        344.1181640625,
+        541.9559936523438,
+        447.0101318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Entstehung einer marktbeherrschenden Stellung des Jahr Top Special Verlages ist  daher nicht zu erwarten. Für die Nachfrage nach Pferdezeitschriften bestehen trotz des hohen Marktanteils Ausweichmöglichkeiten für die Leser. Der Handlungsspielraum des  Jahr Top Special Verlages wird außerdem dank geringer Marktzutrittsschranken durch  denkbare Markteintritte anderer Verlagshäuser stark begrenzt.</p>",
+      "page": 82,
+      "polygon": [
+        [
+          70.91976928710938,
+          463.3466796875
+        ],
+        [
+          541.9559936523438,
+          463.3466796875
+        ],
+        [
+          541.9559936523438,
+          549.6845703125
+        ],
+        [
+          70.91976928710938,
+          549.6845703125
+        ]
+      ],
+      "bbox": [
+        70.91976928710938,
+        463.3466796875,
+        541.9559936523438,
+        549.6845703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 82,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          798.4266548156738
+        ],
+        [
+          299.74609375,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.55108642578125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

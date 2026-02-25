@@ -1,0 +1,458 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 163,
+      "polygon": [
+        [
+          47.202734375,
+          52.11123046875
+        ],
+        [
+          212.383203125,
+          52.11123046875
+        ],
+        [
+          212.383203125,
+          101.01181640625
+        ],
+        [
+          47.202734375,
+          101.01181640625
+        ]
+      ],
+      "bbox": [
+        47.202734375,
+        52.11123046875,
+        212.383203125,
+        101.01181640625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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epUAYPhPw5H4a0cWu8STyHfM46FvQewrifEXgXV9P1ttW8O5ZS5kCRsFeJj1xnqK9UooA8dudG8ceLJoYdTikSKM8NMqxovqcDqfwr0i08N2tn4WOhox8p4mR3xyWbq351tUUAeMW3h3xl4W1SRtMgkYt8vmwhXR19wen41Pq3gjxbqkUeo3jC7vpGw0PmIPLXtySF/AV7BRQBztlY358BjT57Yx3os2g8repycEDkHHPHeuc+HnhjWNC1W7m1Kz8iOSDYp81GydwP8ACTXotFAHGfETQtS13TrOLTbbz3jlLON6rgY/2iK1PBem3ek+F7azvovKuEL7k3BsZYkcgkVv0UAFYfirw5F4l0g2jP5cyHfDJjO1vf2NblFAHikPh3xt4dnkSwiulVjy1s4ZH98f4inR+D/F3iO+WTUxMg6Ga6f7o9l6/kK9pooApaRpkGjaVb2FvkxwrjJ6se5P1NedXnhDXZfiAdTSxzZ/bFl8zzU+6COcbs/pXqVFAGdr1tNe6Bf21um+aWB0RcgZJHHJ4rjvh14a1fQr69k1K08hJY1VD5iNkg/7JNehUUAeXeLPCOu6n4xe/s7HzLYmMh/NQdAM8Fs16JqumW+saXPYXIPlSrgkdVPYj6GrtFAHj6+GPGPhK+kk0ffNE/G+HDBx23Ie/wCH40+28HeJ/FOqrd6+zwRDAZ5cBtvoqjp+leu0UAUZbFINEksLSMBVtzFEgP8As4Arg/h/4V1rRNemudRsvJhaAoG81G5yOMKT6V6VRQByPxC0XUNc0a3t9Ot/PlScOy71XAwR/ERVrwNpV7o/hmO0v4fJnEjsU3BuCeOQSK6SigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Brussels,</b> <b>10</b> <b>February</b> <b>2026</b> <b>(OR. en)</b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          339.90625,
+          102.08203125
+        ],
+        [
+          489.3851318359375,
+          102.08203125
+        ],
+        [
+          489.3851318359375,
+          126.74969482421875
+        ],
+        [
+          339.90625,
+          126.74969482421875
+        ]
+      ],
+      "bbox": [
+        339.90625,
+        102.08203125,
+        489.3851318359375,
+        126.74969482421875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Interinstitutional Files:</b> <b>2025/0350 (NLE)</b> <b>2025/0351 (NLE)</b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          90.62399291992188,
+          166.294921875
+        ],
+        [
+          218.84375,
+          166.294921875
+        ],
+        [
+          218.84375,
+          206.4296875
+        ],
+        [
+          90.62399291992188,
+          206.4296875
+        ]
+      ],
+      "bbox": [
+        90.62399291992188,
+        166.294921875,
+        218.84375,
+        206.4296875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>5935/26</b> <b>COR 1</b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          339.615234375,
+          150.86962890625
+        ],
+        [
+          382.103515625,
+          150.86962890625
+        ],
+        [
+          382.103515625,
+          174.93896484375
+        ],
+        [
+          339.615234375,
+          174.93896484375
+        ]
+      ],
+      "bbox": [
+        339.615234375,
+        150.86962890625,
+        382.103515625,
+        174.93896484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>ESPACE 18</b> <b>EEE 8</b> <b>RECH 38</b> <b>COMPET 138</b> <b>IND 90</b> <b>EU-GNSS 8</b> <b>TRANS 43</b> <b>AVIATION 14</b> <b>MAR 13</b> <b>TELECOM 44</b> <b>MI 93</b> <b>CSC 84</b> <b>CSCGNSS 8</b> <b>CSDP/PSDC 70</b> <b>AELE 12</b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          336.705078125,
+          211.4697265625
+        ],
+        [
+          423.4607238769531,
+          211.4697265625
+        ],
+        [
+          423.4607238769531,
+          408.1797180175781
+        ],
+        [
+          336.705078125,
+          408.1797180175781
+        ]
+      ],
+      "bbox": [
+        336.705078125,
+        211.4697265625,
+        423.4607238769531,
+        408.1797180175781
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>'I/A' ITEM NOTE</b></h2>",
+      "page": 163,
+      "polygon": [
+        [
+          55.29296874999999,
+          423.0796813964844
+        ],
+        [
+          142.59765625,
+          423.0796813964844
+        ],
+        [
+          142.59765625,
+          434.59967041015625
+        ],
+        [
+          55.29296874999999,
+          434.59967041015625
+        ]
+      ],
+      "bbox": [
+        55.29296874999999,
+        423.0796813964844,
+        142.59765625,
+        434.59967041015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">From: General Secretariat of the Council To: Permanent Representatives Committee/Council Subject: COUNCIL DECISION on the signing of the Agreement between the  European Union and Iceland laying down the rules for participation of  Iceland in the GOVSATCOM component of the Union Space Programme  and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union  Secure Connectivity Programme - Adoption COUNCIL DECISION on the conclusion of the Agreement between the  European Union and Iceland laying down the rules for participation of  Iceland in the GOVSATCOM component of the Union Space Programme  and in the Union Secure Connectivity Programme, and for access to GOVSATCOM services and to the governmental services of the Union  Secure Connectivity Programme - Agreement in principle - Request for the consent of the European Parliament</p>",
+      "page": 163,
+      "polygon": [
+        [
+          55.87499999999999,
+          432.2021484375
+        ],
+        [
+          537.796875,
+          432.2021484375
+        ],
+        [
+          537.796875,
+          688.5496978759766
+        ],
+        [
+          55.87499999999999,
+          688.5496978759766
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        432.2021484375,
+        537.796875,
+        688.5496978759766
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">5935/26 COR 1 1</p>",
+      "page": 163,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          803.484375
+        ],
+        [
+          56.63999557495117,
+          803.484375
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        538.780029296875,
+        803.484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">COMPET.2 <b>EN</b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          269.0899658203125,
+          794.84033203125
+        ],
+        [
+          539.7759399414062,
+          794.84033203125
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          269.0899658203125,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        269.0899658203125,
+        794.84033203125,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Form/0",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th>In document ST 5935/26 INIT, on page 2, paragraph 1:</th></tr><tr><td>For:</td></tr><tr><td>'At its meeting of 5 March 2025, the Council adopted […].',</td></tr><tr><td>Read:</td></tr><tr><td>'At its meeting of 11<br/>March 2025, the Council adopted […].'</td></tr><tr><td>On page 2, paragraph<br/>2,</td></tr><tr><td>For:</td></tr><tr><td>'[…] laying down the rules for participation of Iceland<br/>in the GOVSATCOM component<br/>of the<br/>Union Space Programme in the Union Secure Connectivity Programme<br/>[…]'</td></tr><tr><td>Read:</td></tr><tr><td>'[…] laying down the rules for participation of Iceland<br/>in the GOVSATCOM component<br/>of the<br/>Union Space Programme and<br/>in the Union Secure Connectivity Programme<br/>[…]'</td></tr><tr><td>And on page 2, paragraph 3,</td></tr><tr><td>For:</td></tr><tr><td>'[…] The Working Party on the European Economic Area was informed. […].'</td></tr><tr><td>Read:</td></tr><tr><td>'[…] The Working Party on European Free Trade Association<br/>was informed. […].'</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>",
+      "page": 108,
+      "polygon": [
+        [
+          52.3828125,
+          54.301513671875
+        ],
+        [
+          518.260009765625,
+          54.301513671875
+        ],
+        [
+          518.260009765625,
+          615.78515625
+        ],
+        [
+          52.3828125,
+          615.78515625
+        ]
+      ],
+      "bbox": [
+        52.3828125,
+        54.301513671875,
+        518.260009765625,
+        615.78515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">5935/26 COR 1 2</p>",
+      "page": 108,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          803.07275390625
+        ],
+        [
+          56.63999557495117,
+          803.07275390625
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        538.780029296875,
+        803.07275390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">COMPET.2 <b>EN</b></p>",
+      "page": 108,
+      "polygon": [
+        [
+          269.0899658203125,
+          791.54736328125
+        ],
+        [
+          539.7759399414062,
+          791.54736328125
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          269.0899658203125,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        269.0899658203125,
+        791.54736328125,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    }
+  }
+}

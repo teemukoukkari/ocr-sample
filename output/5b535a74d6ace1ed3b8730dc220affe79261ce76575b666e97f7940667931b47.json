@@ -1,0 +1,518 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 126,
+      "polygon": [
+        [
+          60.9677734375,
+          36.5908203125
+        ],
+        [
+          185.8134765625,
+          36.5908203125
+        ],
+        [
+          185.8134765625,
+          99.9052734375
+        ],
+        [
+          60.9677734375,
+          99.9052734375
+        ]
+      ],
+      "bbox": [
+        60.9677734375,
+        36.5908203125,
+        185.8134765625,
+        99.9052734375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAIrqKSa2kiimMLspCyKASp9cGvKn8I6X4D12PWAj6jqVwXc3l6rybT3wEBOcZOfQGvWqx/E+nXWqaFcW1k0YuTgp5nAJBBwT2BHFAHB6rrU+t29pemQsZSyQW8FvMxCjHmMQF3A8qBntn1rmPinqcMnwwmhSxitBJdxxp5cbRiTaB2YA8Yx+Fd/onhrUdE8RWsqwq9qEkeV/M6O4QEAY7bOK8s+Llxrnja8u4tO0m5i0vRAWkMibTI38TADrQBp/CrU4ovhgkT2Ed55d+6t5kbOItyt82FBPPI/Gun0rWpdDjursOY3iA823mt5lzGfuMAVySCGHHYD0rgfhLca74IvbUahpNzNpWtgbDGm4ow6MR26mvV9d8NajrviaWZoljtBAqxyb+dykkcY9WIoAwv+ES0vx/rj6rJG+n6jb7HW9s0kjJPBGQ4BJ75r1O0hkt7SKGWdp3RQDIwALe5xWX4W0270vQore+Mf2nczMIjlUychQT1AHA+lbVABRRRQBy/xG/5J7rf/AF7n+Yr4or7b+IETz+AtZiTlmtyB+Yr46/4RzUP7if8AfVRKpCGknY6aGCxGITlRg5JdkfW/wp/5Jnof/Xsv8q7KuR+GMD23w60WGQAOtuoOPpXXVSd1dGEouLcZKzQUUUUyQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKRkV1KsoZSMEEZBpaKAEVFRQqqFUdABgCloooAKKKKACiiigDD8Y/8ihqf/XE/zFfNFfS/jH/kUNT/AOuJ/mK+aK8nMfjXofoPB3+7VP8AF+h9IeA/+RK0v/riv8q6Ouc8B/8AIlaX/wBcV/lXR16VL+HH0Picf/vVT/E/zCiiitDkCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAw/GP/ACKGp/8AXE/zFfNFfS/jH/kUNT/64n+Yr5orycx+Neh+g8Hf7tU/xfofSHgP/kStL/64r/KujrnPAf8AyJWl/wDXFf5V0delS/hx9D4nH/71U/xP8wooorQ5AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAMPxj/AMihqf8A1xP8xXzRX0v4x/5FDU/+uJ/mK+aK8nMfjXofoPB3+7VP8X6H0h4D/wCRK0v/AK4r/KujrnPAf/IlaX/1xX+VdHXpUv4cfQ+Jx/8AvVT/ABP8wooorQ5AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAMPxj/yKGp/9cT/ADFfNFfUWvWi32h3ls7FVkj2kjtXkf8Awryy/wCfuX/vn/69fP5xjKWHqRjUe6PteGMfQw1Ccar1b7eR6V4D/wCRK0v/AK4r/KujrK8NWSad4fs7RGLLFGFBPetWvaw8lKlGS6pHyeMmp4ipJbNv8wooorY5gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAK2of8eE3+7XG12Wof8eE3+7XG18NxX/vFP0/U9bL/AIH6nX6X/wAg6H/dFXKp6X/yDof90Vcr6/Bf7tT/AMK/I82r8b9QooorqMwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAK2of8eE3+7XG12Wof8AHhN/u1xtfDcV/wC8U/T9T1sv+B+p1+l/8g6H/dFXKp6X/wAg6H/dFXK+vwX+7U/8K/I82r8b9QooorqMwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAK2of8eE3+7XG12Wof8eE3+7XG18NxX/vFP0/U9bL/AIH6nX6X/wAg6H/dFXKp6X/yDof90Vcr6/Bf7tT/AMK/I82r8b9QooorqMwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAK2of8eE3+7XG0UV8NxX/vFP0/U9bL/gfqdfpf8AyDof90Vcoor6/Bf7tT/wr8jzavxv1CiiiuozCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 7. März 2025</p>",
+      "page": 126,
+      "polygon": [
+        [
+          70.91999816894531,
+          143.2750244140625
+        ],
+        [
+          483.4068603515625,
+          143.2750244140625
+        ],
+        [
+          483.4068603515625,
+          157.2550048828125
+        ],
+        [
+          70.91999816894531,
+          157.2550048828125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        143.2750244140625,
+        483.4068603515625,
+        157.2550048828125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Bundeskartellamt verhängt Geldbuße wegen Absprachen bei der Sanierung der Zoobrücke in Köln</b></p>",
+      "page": 126,
+      "polygon": [
+        [
+          76.31999969482422,
+          197.6650390625
+        ],
+        [
+          523.828125,
+          197.6650390625
+        ],
+        [
+          523.828125,
+          208.64501953125
+        ],
+        [
+          76.31999969482422,
+          208.64501953125
+        ]
+      ],
+      "bbox": [
+        76.31999969482422,
+        197.6650390625,
+        523.828125,
+        208.64501953125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Tiefbauleistungen</p>",
+      "page": 126,
+      "polygon": [
+        [
+          75.6640625,
+          222.9849853515625
+        ],
+        [
+          296.8359375,
+          222.9849853515625
+        ],
+        [
+          296.8359375,
+          236.06500244140625
+        ],
+        [
+          75.6640625,
+          236.06500244140625
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        222.9849853515625,
+        296.8359375,
+        236.06500244140625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B10-23/21</p>",
+      "page": 126,
+      "polygon": [
+        [
+          76.24609375,
+          250.405029296875
+        ],
+        [
+          263.66015625,
+          250.405029296875
+        ],
+        [
+          263.66015625,
+          263.4849853515625
+        ],
+        [
+          76.24609375,
+          263.4849853515625
+        ]
+      ],
+      "bbox": [
+        76.24609375,
+        250.405029296875,
+        263.66015625,
+        263.4849853515625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 10.10.2024</p>",
+      "page": 126,
+      "polygon": [
+        [
+          76.24609375,
+          277.82501220703125
+        ],
+        [
+          266.60675048828125,
+          277.82501220703125
+        ],
+        [
+          266.60675048828125,
+          290.905029296875
+        ],
+        [
+          76.24609375,
+          290.905029296875
+        ]
+      ],
+      "bbox": [
+        76.24609375,
+        277.82501220703125,
+        266.60675048828125,
+        290.905029296875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat gegen die Strabag AG, Köln, eine Geldbuße in Höhe von 2,79 Mio. Euro wegen  verbotener Submissionsabsprachen verhängt. Die Absprachen erfolgten im Zusammenhang mit der  Vergabe eines Bauauftrages zur Sanierung der Zoobrücke in Köln Anfang 2017. Nachdem in der Branche  bekannt geworden war, dass sich auf diese Ausschreibung nur wenige Bieter bewerben würden, haben  Mitarbeitende der Strabag Mitarbeitende der Kemna Bau Andreae GmbH &amp; Co. KG um Abgabe eines  Schutzangebots gebeten. Um die Erteilung des Zuschlags an eine Bietergemeinschaft unter Beteiligung  der Strabag (die sog. \"Arge Zoobrücke\") sicherzustellen, haben die Beteiligten auf Seiten der Kemna  telefonisch den Gesamtpreis ihres Schutzangebots an Strabag durchgegeben. Als Gegenleistung sollte Kemna eine Ausgleichszahlung erhalten. Absprachegemäß ist der Zuschlag auf das Angebot der \"Arge  Zoobrücke\" erteilt worden. An Kemna ist ein Geldbetrag als Ausgleich für die Abgabe des  Schutzangebots gezahlt worden.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          69.84375,
+          327.9849853515625
+        ],
+        [
+          538.766845703125,
+          327.9849853515625
+        ],
+        [
+          538.766845703125,
+          540.4049987792969
+        ],
+        [
+          69.84375,
+          540.4049987792969
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        327.9849853515625,
+        538.766845703125,
+        540.4049987792969
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Verfahren gegen Kemna wurde in Anwendung der Vorschriften zur Kronzeugenregelung eingestellt,  weil erst durch die von Kemna vorgelegten Beweismittel der Nachweis der Tat ermöglicht wurde.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          70.91999816894531,
+          553.384765625
+        ],
+        [
+          536.8782348632812,
+          553.384765625
+        ],
+        [
+          536.8782348632812,
+          586.7250061035156
+        ],
+        [
+          70.91999816894531,
+          586.7250061035156
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        553.384765625,
+        536.8782348632812,
+        586.7250061035156
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bei der Bußgeldfestsetzung gegenüber Strabag wurde berücksichtigt, dass das Verfahren beschleunigt  im Wege der einvernehmlichen Verfahrensbeendigung (sog. Settlement) abgeschlossen werden konnte.  Der Bußgeldbescheid ist rechtskräftig.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          70.91999816894531,
+          601.8450012207031
+        ],
+        [
+          537.8994140625,
+          601.8450012207031
+        ],
+        [
+          537.8994140625,
+          653.2900390625
+        ],
+        [
+          70.91999816894531,
+          653.2900390625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        601.8450012207031,
+        537.8994140625,
+        653.2900390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2>Hinweis:</h2>",
+      "page": 126,
+      "polygon": [
+        [
+          70.91999816894531,
+          668.2649993896484
+        ],
+        [
+          109.16263580322266,
+          668.2649993896484
+        ],
+        [
+          109.16263580322266,
+          679.2449951171875
+        ],
+        [
+          70.91999816894531,
+          679.2449951171875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        668.2649993896484,
+        109.16263580322266,
+        679.2449951171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Personen, denen aus dem Verstoß ein Schaden entstanden ist, können diesen bei Vorliegen der  gesetzlichen Voraussetzungen von den Beteiligten ersetzt verlangen (§ 33a GWB). Dem rechtskräftigen  Bußgeldbescheid kommt im Hinblick auf die Feststellung des Verstoßes gegenüber dessen Adressat eine  Bindungswirkung nach § 33b GWB zu. Wer einen Schadensersatzanspruch nach § 33a GWB glaubhaft</p>",
+      "page": 126,
+      "polygon": [
+        [
+          69.84375,
+          691.525390625
+        ],
+        [
+          537.8885498046875,
+          691.525390625
+        ],
+        [
+          537.8885498046875,
+          765.8450012207031
+        ],
+        [
+          69.84375,
+          765.8450012207031
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        691.525390625,
+        537.8885498046875,
+        765.8450012207031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 126,
+      "polygon": [
+        [
+          300.037109375,
+          788.0271759033203
+        ],
+        [
+          307.5910949707031,
+          788.0271759033203
+        ],
+        [
+          307.5910949707031,
+          798.047176361084
+        ],
+        [
+          300.037109375,
+          798.047176361084
+        ]
+      ],
+      "bbox": [
+        300.037109375,
+        788.0271759033203,
+        307.5910949707031,
+        798.047176361084
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">machen kann, hat unter weiteren Voraussetzungen einen Anspruch auf Herausgabe von Beweismitteln  und Erteilung von Auskünften nach § 33g GWB. Der Fallbericht gibt den Stand vom Tag seiner  Veröffentlichung wieder.</p>",
+      "page": 12,
+      "polygon": [
+        [
+          69.84375,
+          124.2650146484375
+        ],
+        [
+          532.7498168945312,
+          124.2650146484375
+        ],
+        [
+          532.7498168945312,
+          175.52496337890625
+        ],
+        [
+          69.84375,
+          175.52496337890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        124.2650146484375,
+        532.7498168945312,
+        175.52496337890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/1",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 12,
+      "polygon": [
+        [
+          302.0199890136719,
+          788.0271759033203
+        ],
+        [
+          307.89453125,
+          788.0271759033203
+        ],
+        [
+          307.89453125,
+          798.047176361084
+        ],
+        [
+          302.0199890136719,
+          798.047176361084
+        ]
+      ],
+      "bbox": [
+        302.0199890136719,
+        788.0271759033203,
+        307.89453125,
+        798.047176361084
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

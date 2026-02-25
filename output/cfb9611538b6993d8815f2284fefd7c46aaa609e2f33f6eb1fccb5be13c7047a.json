@@ -1,0 +1,822 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 88,
+      "polygon": [
+        [
+          32.0408203125,
+          22.2833984375
+        ],
+        [
+          165.8498046875,
+          22.2833984375
+        ],
+        [
+          165.8498046875,
+          74.7439453125
+        ],
+        [
+          32.0408203125,
+          74.7439453125
+        ]
+      ],
+      "bbox": [
+        32.0408203125,
+        22.2833984375,
+        165.8498046875,
+        74.7439453125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACvAb0DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooqKW5ggx500ceem9gM0AS0VRGs6YZjD/aFt5g6r5ozVuKaKZd0UiOvqrZFAD6KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuO8f+P7bwLY280lv9qmuH2Rwo4DH3x1IrsHdY0Z3YKqjJJ6AV8ua5q58a/EvXL5JPOg0yzke0XqDtZVzj/gR/KgDpv+FtfEPWrxBovhhlgMmzIgZwcHkE9BXceKxHb6jaX+rSaTEJrbYy6mheKN+Puk8A10vgeGzi8F6R9i2tE1sjFh3YjLH65Jqv4+06wu/DVxc32oSaeLVTItzGeVOOmO+emKAPnLx1qXhYSyy6bZWsl1c5WX7PJlIpF6MhB+6Q3TpxXpPww1rWk+DF3No1itxqVrK6xrtyZe+fcjOPwr551O7e/1Kad5PNLMQH243DscV9h/C/RI9C+Huk26AbpYRO59S/zf1xQB5jafGnxlpDBPEXhiQqQTu8lo2IHXGcCvYfCPia28W+H4NWtlCJJkFN4YoR2OO9c38XYrT/hEoppAv2tLuEWw7uzOFZfxUtXnPwr1pfC3xP1XwzNOEs7k5jVjwJMA4H/fR/KgD6HooooAK5/xxrF1oHg3U9UsyouLeFnTcMjIFdBXH/FP/kmuuf8AXs38qAPBP+GgPGf9+0/78r/hXvnw08R33irwVa6rqJQ3MrMG2LgcH0r4vr66+B//ACTCw/33/nQB6LRRRQB45488R+Lf+FpWHhnw/q0dklzbK4MkKsAxZhnkZ7CqniLWPif8PbWPV9T1Oz1XTldVmVYFXGTj0zVPx7rFloPx80fUdQkMdtFaIXYKTj527CnfEj4jaX420ZPC3hzdcXV9KgMkg8tFAYHq2PSgD2nRdUi1rRbPUoRiO5iEgH1q/XE3y3fgr4RutpKv2rT7JQj4yM5H+NXPh/rV7rvw90zVr9w93PE7OwGASHYDj6AUAdVRXnfwr8Var4m/t3+05lk+yXhii2rjC81ymkeMPG/ibxhrfhzTrqCFYJci7kT/AFKDjAHcnI/KgD2+ivJfCvibxPo/xLk8H+JLyO+SWLzYLhRg9P8AIq58RvGGt23iTSvCfhpo49Qv/meZxny1HX9OaALHxb8Tat4Z07SZdKufIee9WKQ7A2VPbkV6FbsXtonY5ZkBP5V87fFK28V6VHodjruoQ6layXiPHcKpVkYEZU+uc8fSvWPHvjBvBfghNQhjEl06pFAjdNxA5P0oA7WivGNYl+JXhrwyPFFxrVvcGMLJcWPlnaqkjIH511Wu/EBrH4Vx+K7SENLPEvlq3QMcjn24NAHe1wHxf8Ran4Y8Fm/0m48i585V37Q3B9jXHXuo/EbSPClj4tj1ePUln2SSWMUJYBXxgDH159K0vjXeHUPhNb3hjaMzSRuUYYK5HQigD1HR55LrRbG4mbdJLAjucdSVBNXa8m8S+N7/AE7TfDvhrwztk1y8giLcbhCm0cn/AD2ro/GOteIPC3giJ7C3fU9ZYLGWSMkbu7Y9KAO2orxXX5/iN4Q8Nx+JrrXYLoRsrXNmYyFVSQMD867fxH4nuovhXc+I9PYRXP2MTISMhWoA7OsW78VaTZ+I7TQJbn/iZXQJjhAycAE5Pp0rzjwDrPxB8Zpp2ryXFpa6RGwWRWBD3GOGIwPXNcjrOmeLF+N+l20msWras8RMFyIzsRdrcEfSgD6PorgfGfirU/A3gW2luJIrzWpmECOBhWcn72PQcVyuu3PxH8H+HY/E91rVveCMo1zZeWQFDEZAPtmgDu/iXrN9oHgDU9T02bybuBVMb7QcZYDofrVB/EOpD4NNrwuP+JiLAzebtH3uecdKz/iPqseufA691OIYS5t45APTLrUcn/JvD/8AYLb+tAHSfDbWL3XvAmnajqM3m3Uyku+0DPPoK6yvOfhnePp/was7yOFp5ILaSRYkGS5GSAPrWFYL8TPEGh3Wvvq8elldzw2LQkHavPzUAex0Vw/wy8YXXi/we95eoq31tK9vMVHBYDOfyIrhfC3iXx9411DV9LtNRt7RLOdg120fIAOAgA7+9AHuVFeG+HPFvjzWdZ1DwZ9ptl1GzcmTUmBIVB2x3JyP1ra8FeJ/Ell8Rb/wb4ju471kj82G4UYzxn+tAHfa14q0nQLyytL+52XF7II4IwMliTj8q2q+d/ipYeI0+Imgefqdu5nu82GEP7gFxjd69q9y8O2ur2ekrFrd5Fd3m4kyxKVXHYYoA1qKKKACiiigAooooAKKKxfFGvHw9o8l3HZXF5PjEUFvGXZm/CgDz743+Om0LRRoOnSf8TG/G1tvVIz1/E9PxrwvQbq58AeNbd9TiDKybbqIHOY36g+/Q12E2mapa3d38Q/HEDRShs2VlMMM8v8AANp5Cr1x7Vx17pi3Phq78Ua3PJ9t1CfbZR55kx95j/sj5R+NAHsumHxL4Sh/tDwds8QeGLk+bHabv3sGeSoNcP8AFn4laj4l0+20iXSLnSVDeZNHK+TJjp2HFcfo/iPxZ8P5oWtJ57NbhBMsMgyjqeh2nj8ar+MfGupeNr63vNTWITQx+WDGuMigDm6998BfF3Wl8LW2k2vhq51a7tV8pZYnwMfwgjHYYrwKuw8I/EfW/BWnXVppHkr9pfe0joGIOAOM/SgD1zVJdTgZfF/xDnhgW0y+naPEesuPlLfSvFEGr65qOpeIrXJmtZBcyFT8ygk4I9him6vf+IfFMc+ualLc3kMLhJJTkrGT0GOgrfjjTwhdaT4l0pmuNGvozFOj888eZG35gigD6O+GnjWHxr4VguiwF7CBFcpn+Id/x6/jXZ183aHpeu+AfEMPiTwxaT6t4a1ABzHbguwQ87SB0K9Pwr6H02/j1Owhu40kRZFzslQqy+xB5FAFquP+Kf8AyTXXP+vZv5V2Fcf8U/8Akmuuf9ezfyoA+MK+uvgf/wAkwsP99/518i19dfA//kmFh/vv/OgD0WiiigDxHxXBDc/tF6HFPEksbWiZR1BB+du1b3xh8L6N/wAIDe38VnBa3drteKaFQjA7hxxVfxv4I8VX/wARbPxP4ea1DW1usa+cw+8GY9D9RVHWfBPxI8awpp3iDVrK200uGkSBRlsHPb+tAF4ahc6n+zo91duXmawAZz1bDDmt74Tn/i0ei/8AXCT/ANGPW2/hSzHglvDMPyW32byFPp6H86898OeGfiT4f0dvDNvJp401SyxXrMC8aE54X8T1oAX4EsHTxOynIOoEj9aj+ESg+PvG7Y5FxGAf++q3/hT4G1HwPBq1vfSJIlxOHiYNklQMc+9SeAvBmpeG/E/iTUL0xmHUZUeHY2Tgbuv50Ac7rP8AycfpH/Xl/U03VMr+0tpRkPym1bZn/rka6XUPBmpXXxdsPE6GP7DBbeUwLfNnJ7fjUHxD8C6rrGt6Z4k8OzxxatYHhJDgSL6Z/SgDK+PJT+xdDBxv/tGPH07/ANKpfHoO3hPQFRtoNwMnHA4XFHijwN498brYXWrPY28lnOpS0hcFSM5ZifXgfrXcePPBX/CZeD10vzVhu4grxSHoHA/lxQBzGteC/Gl9oNxbap45thYSRgS7rLA2/XdW9pvhnRofhbaeHdU1CG6sDF5YuQdgYkkgr1xXManoXxP8R6CvhvUY9Pt7R9qT3qSgu6gg9M+1dP4h+HcWqfDeDwtazCNrVVaCRum9c9fzNAHB3S+Kfg3HHcxXa6z4ULgeXIPniBPGD/X9K2PjXfQ6n8Jre+t/9TPJHIn0NVtT8K/EbxN4btfC+px6dbWEexJLpJAzOqYxwD7V0vj3wJd618O7Xw5pBTfblApkbA2qKAPPvATf8Ij8T1h18edJqlnEbK9k/hG37o7f/qr0b4peNbzwhotsumRJJqN9L5MG/kKfXFQ+Nvh9L4l8H6bbW7JFrGnIhglzjDAAEZ9OBVLxh4G1/wAYeCtKSeWKHxBp7BwwbKuw4zn1OM/jQByfj/w34wt/h1e6lr3ixrkFUZ7JIFVDlhxnrx/Sun1b/k3ST/sG/wBapeIfCXxC8beGX03WJLGyEQUpHC4PnuCPvHsMZP1xXU3vhPUbn4Rt4ZBj+3m08n73y7s+tAEnwlUL8M9GAGP3RP6muN17/k5TQf8Ar3P/AKA1ei+BdEuvDvg7T9KvCpuLdNr7Tkda5Hx34I8Q3njbTfFfhqS3N3aIUMUxAB4x39iaAMr9oBZXtPDaRSeWWvGG/Gdp+XBxVvxD4J8Y3+hXNrrHjm1GnyLiXdZBRj67q3PFng7U/G3ga0tdQeG21yBvODJyiuD0+mMVzeseH/iZ4t0WPw7qsWn2lkxUT3ccoZpApHYHjpQBY8YaYmjfs93Gnx3aXaQW0arOgwHG9eQKtSf8m8P/ANgtv61t+KPBst78L5vC2lbQ4hSKIucDhgf6Ur+Fr8/CdvDQMf202Rgzn5d31oAwPBOvR+GfgVbavIm8W1uzKv8AebPA/PFZWkWnjzxp4ak8QXnigaZZzxPJFa28AOUwepNdTpfgOc/CUeEtRdEnMLIXQ5AbqD+eK57RPDPxIsfDn/CKs9hDpyqYlvQ4Mgj9AKAF+AIK+C9ZUvvI1KQFvX5F5o+CAH2vxYcc/wBoH+tb3wr8Faj4K0HUdPv2RmmumljZWzlSoAz78VJ8N/B+o+FJ9de/MZF9dmaLY2fl96AOa8AAf8Ls8ZnH8Q/pSr/ycqf+vE/+g10PhbwbqWj/ABG8Ra9cmP7JqBBi2tk/iKUeDtSHxh/4SnMf2D7MYsbvmzjHSgDl/i7/AMlF8Ef9fK/+hivZx0rzn4n+CNW8TXGkanoksS3+mzCRVlOA2Dn+ddb4YbXW0ZT4ijgj1DeciAgrt4x0/GgDZooooAKKKKACiiigAqtf3trp9nJd3kiRwRDczt2qzUc8MNxEY54kkjPVXUMD+BoA+avEt5qPxZ8Xeb5ctp4X07LtPKCqiNeS3uxHQe9YMLweKvEs+q3S+R4b0SIBE7bQflQe7Hn8K9E+JV/rPim5HhDwjpckdlvAurhI9iNg9Mj+EV55rFmHurD4f6FIJI4n8y/uF6Sy45J/2VGfzNAEVhcpql3qfjjXoVks7c7LO1f7skgGEQD+6oxmqEPgqSX4d6l4vvP3KiVFtYwMB8uAT9ME1uRaX/wnPi/T/CGi5TRdN+R5FH3sH95IfcnOPbFdB8cvEFhYadp/grSNqw2mGmVOi4GAv9fwoA8OHJr0TW/Cq+BL3w9rxtlv9JvLeKZ0kGRuKgup/XH1rzuvonwDc2HxM+Fs3hK/dRqNkhWJj1A/gYfTgfhQB5+ptfCPiYxAmfwtrsWM9R5bdD/vIcH8KTTrWPRtavvBesSg6VqOHtpzyqMfuSD65wabpljJdQah4B1oeVf27tJpzv8AwyrnKfRhn8cVJpFlJ430Q+HJiIvEmkEmzZzgyx94z7gjI+tAHY/DPxHqfw81uXwn4nglisJJD5FwQTGpJ6g/3T1/GvoKNkdFaMgqRkEdDXlfw01+81C0j8O+L9IZdStBsiluYARIo6cnvXqqqqKFVQqjgADAFAC1x/xT/wCSa65/17N/Kuwrj/in/wAk11z/AK9m/lQB8YV9dfA//kmFh/vv/OvkWvrr4H/8kwsP99/50Aei0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBzHja38S32kNY+GzDDNOCklzI2PLU9ce9eAeINOtfhxZTaLZXQ1DxVqY2XE8fPkoTyq98sf5V9Ssu5SuSMjGRXB6t4M0nQEl1vStLWTUzIC87J5sig9SASMnp3oAwvA3gi48D/Dq7u/tENnrF1F5s1xKufJXHA/AfrXmtl8MLvUfG+lJfzz3iXTmTUJGU4R8F9hb1OCDXpzeI59SM0WpXM7patujt/syK0zj6SEEA9e1aOhTa5opiguIJhaRJJNcPPbonyhSd25XbLE47d6APnrwn4ctdX+JZ0SZAbczSoF9hnH9K6bwj4J1bQNWbU4tRk026tLxox5iEK8IYqXPHK5Bz7Vz/AIB1NYPi9Z3jMNkl4/J6ck4r3TV5dauJHutRs7gwWMztIIrWPb5WTlQxkBIK4zx3oAwPjR4FvLm3tvF+lIDqNoFa58gcsB0cfQ4/Cua0XQI/iM0HiPw5qMeneJ7Qr9rgY4DsOjj6969AfxDf2c0mk2F3PcwRxt5a/ZUc8D7hJkGSO/FdLongbRLa5ttbj05bTU3QNI0Pygk9cigDc0F9WbSoRrUUUd8o2yGJgVY+o9M1p0UUAFcf8U/+Sa65/wBezfyrsK4/4p/8k11z/r2b+VAHxhX118D/APkmFh/vv/OvkWvrr4H/APJMLD/ff+dAHotFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFRXMJuLWaEMUMiFQw7ZHWpaKAPM5vAOqQ2ccsJt59QjLqGJ2LtKhVP6bj6kml+KWseIBpMXh7RdKnludSURPcoMpGp+8M/SvS6KAPjix+HHilPE15Y21s4vNNUTl8HDEYIAPvz+VfROi6trfjD4eXMU+lSWeptCbdhcfKrtjBYGu9wM5xye9LQB5/aeBr2O7tbrzIoHaZp7oL8xB3BhtPrwVz6E16BRRQAUUUUAFcp8SoHuvh7rMMeNz27AZ+ldXXO+Ov+RL1T/rg38qmbcYto3wtONWvCnLZtL8T48/4Ri+9Y/wDvqvqf4N2kll8OLGCXG4O/T614VX0F8Mf+RItP95v51w4XEzqz5ZH1Of5JhcDhlVo3ve2r9TsaKKK9A+PCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArnfHX/Il6p/1wb+VdFXO+Ov+RL1T/rg38qzq/A/Q68B/vVP/EvzPm6voL4Y/wDIkWn+8386+fa+gvhj/wAiRaf7zfzry8B/Ffofe8Xf7jH/ABL8mdjRRRXsH5uFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXO+Ov8AkS9U/wCuDfyroq53x1/yJeqf9cG/lWdX4H6HXgP96p/4l+Z83V9BfDH/AJEi0/3m/nXz7X0F8Mf+RItP95v515eA/iv0PveLv9xj/iX5M7GiiivYPzcKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACud8df8AIl6p/wBcG/lXRVzvjr/kS9U/64N/Ks6vwP0OvAf71T/xL8z5ur6C+GP/ACJFp/vN/Ovn2voL4Y/8iRaf7zfzry8B/Ffofe8Xf7jH/EvyZ2NFFFewfm4UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFc945Vm8GamqgkmFsAD2roap6qAdNnBGRtNYYmXJRnLsmb4Wfs68J9mvzPl37Lcf88Jf++DXv/wzRk8E2qupU7m4Ix3rP8tP7i/lXXaGANMjAAAyelfNZHmP1nEOHLbT/I+pz7NXi8MqfLbW+/qaNFFFfWHx4UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//Z"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> <b>5.</b> <b>März 2021</b></p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.94400024414062,
+          123.56005859375
+        ],
+        [
+          525.3583374023438,
+          123.56005859375
+        ],
+        [
+          525.3583374023438,
+          136.9072265625
+        ],
+        [
+          70.94400024414062,
+          136.9072265625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        123.56005859375,
+        525.3583374023438,
+        136.9072265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Erwerbs von Signavio durch SAP</b></h2>",
+      "page": 88,
+      "polygon": [
+        [
+          70.42578125,
+          176.3759765625
+        ],
+        [
+          316.04296875,
+          176.3759765625
+        ],
+        [
+          316.04296875,
+          188.779296875
+        ],
+        [
+          70.42578125,
+          188.779296875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        176.3759765625,
+        316.04296875,
+        188.779296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Prozessmanagement-Software</p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.94400024414062,
+          206.539306640625
+        ],
+        [
+          362.06890869140625,
+          206.539306640625
+        ],
+        [
+          362.06890869140625,
+          219.499267578125
+        ],
+        [
+          70.94400024414062,
+          219.499267578125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        206.539306640625,
+        362.06890869140625,
+        219.499267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B7-30/21</p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.42578125,
+          236.4013671875
+        ],
+        [
+          255.80313110351562,
+          236.4013671875
+        ],
+        [
+          255.80313110351562,
+          250.0992431640625
+        ],
+        [
+          70.42578125,
+          250.0992431640625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        236.4013671875,
+        255.80313110351562,
+        250.0992431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 26.02.2021</p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.42578125,
+          267.85931396484375
+        ],
+        [
+          266.2431335449219,
+          267.85931396484375
+        ],
+        [
+          266.2431335449219,
+          280.81927490234375
+        ],
+        [
+          70.42578125,
+          280.81927490234375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        267.85931396484375,
+        266.2431335449219,
+        280.81927490234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat den geplanten Erwerb der Signavio GmbH (Signavio) durch die SAP  SE (SAP) in der ersten Prüfungsphase freigegeben. Die Ermittlungen hatten ergeben, dass der  Zusammenschluss keine erhebliche Behinderung wirksamen Wettbewerbs erwarten ließ.</p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.94400024414062,
+          337.951171875
+        ],
+        [
+          541.7247924804688,
+          337.951171875
+        ],
+        [
+          541.7247924804688,
+          388.00927734375
+        ],
+        [
+          70.94400024414062,
+          388.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        337.951171875,
+        541.7247924804688,
+        388.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">SAP ist ein bedeutender Anbieter von Unternehmensanwendungssoftware (EAS). Das Unternehmen ist insbesondere im Bereich der Enterprise Resource Planing Software (ERP) stark.  Signavio ist ein deutsches Unternehmen, das B2B-Softwarelösungen für Prozessmanagement  anbietet. Die Beteiligten bieten komplementäre Produkte an.</p>",
+      "page": 88,
+      "polygon": [
+        [
+          70.94400024414062,
+          404.1435546875
+        ],
+        [
+          541.6448974609375,
+          404.1435546875
+        ],
+        [
+          541.6448974609375,
+          472.00927734375
+        ],
+        [
+          70.94400024414062,
+          472.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        404.1435546875,
+        541.6448974609375,
+        472.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In sachlicher Hinsicht waren in erster Linie die beiden Teilbereiche Process Mining und Enterprise Business Process Analysis (EBPA) im Markt für Prozessmanagement-Software betroffen.  Eine Process Mining-Software wertet Ereignisprotokolle aus, um im Unternehmen ablaufende  Prozesse zu identifizieren, ihren Ist-Zustand zu visualisieren und Verbesserungspotentiale zu  erkennen. Die dabei verwendeten Daten stammen unter anderem aus dem ERP-System. Eine  EBPA-Software dient dazu, den Soll-Zustand der Prozesse zu definieren und zu modellieren,  um die Effizienz von Unternehmensabläufen zu steigern. Es gibt sowohl Softwares, die nur einen der beiden Bereiche abdecken, als auch ganzheitliche Lösungen, die beide Bereiche umfassen. Signavio etwa bietet neben einer ganzheitlichen Lösung für jeden Bereich auch eine  eigenständige Software an. Für die Annahme getrennter Produktmärkte sprach, dass Kunden  häufig nur für einen Bereich eine Lösung nachfragen. Die genaue sachliche Marktabgrenzung  konnte im Ergebnis mangels Entscheidungserheblichkeit gleichwohl offen gelassen werden. Die  räumliche Marktabgrenzung konnte ebenfalls offenbleiben.</p>",
+      "page": 88,
+      "polygon": [
+        [
+          69.84375,
+          490.9892883300781
+        ],
+        [
+          541.7113037109375,
+          490.9892883300781
+        ],
+        [
+          541.7113037109375,
+          718.66015625
+        ],
+        [
+          69.84375,
+          718.66015625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        490.9892883300781,
+        541.7113037109375,
+        718.66015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Vorhaben ließ keine erhebliche Behinderung wirksamen Wettbewerbs nach § 36 Abs. 1  S. 1 GWB erwarten. Insbesondere lagen keine Anhaltspunkte für die Begründung oder Verstärkung einer marktbeherrschenden Stellung infolge des Zusammenschlusses vor.</p>",
+      "page": 105,
+      "polygon": [
+        [
+          70.94400024414062,
+          126.62890625
+        ],
+        [
+          541.4466552734375,
+          126.62890625
+        ],
+        [
+          541.4466552734375,
+          174.499267578125
+        ],
+        [
+          70.94400024414062,
+          174.499267578125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        126.62890625,
+        541.4466552734375,
+        174.499267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Horizontale Auswirkungen konnten ausgeschlossen werden, da sich die Softwareangebote der  Beteiligten nicht überschneiden. Signavio bietet sowohl im Bereich Process Mining als auch im  Bereich EBPA eine Lösung an und ist in beiden Bereichen wesentlichem Wettbewerbsdruck  durch andere Anbieter ausgesetzt. SAP hat weder im Bereich Process Mining noch im Bereich  EBPA ein eigenes Angebot, sondern vertreibt lediglich als Reseller die Process Mining-Software von Celonis. Celonis wird im Bereich Process Mining allgemein als Marktführer angesehen.</p>",
+      "page": 105,
+      "polygon": [
+        [
+          70.94400024414062,
+          191.9990234375
+        ],
+        [
+          541.6337890625,
+          191.9990234375
+        ],
+        [
+          541.6337890625,
+          312.529296875
+        ],
+        [
+          70.94400024414062,
+          312.529296875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        191.9990234375,
+        541.6337890625,
+        312.529296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch vertikale Effekte waren nicht zu erwarten. Die Annahme relevanter vertikaler Effekte war  schon deshalb ausgeschlossen, weil Prozessmanagementprodukte, wie sie Signavio anbietet,  typischerweise nicht fester Bestandteil einer umfassenderen EAS- oder ERP-Lösung sind.  Vielmehr werden Process Mining-Produkte und EBPA-Produkte komplementär zu der jeweiligen EAS- bzw. ERP-Lösung genutzt und nur bei konkretem Bedarf entsprechend beschafft. Ein  Anbieter von EAS- / ERP-Produkten muss also nicht zwingend über derartige Prozessmanagementprodukte verfügen, um seine Produkte absetzen zu können. Außerdem stehen neben  Signavio viele andere Anbieter in den Bereichen Process Mining und EBPA zur Verfügung. Daher war eine Abschottung von Einsatzfaktoren nicht zu erwarten.</p>",
+      "page": 105,
+      "polygon": [
+        [
+          70.94400024414062,
+          331.4892883300781
+        ],
+        [
+          541.7094116210938,
+          331.4892883300781
+        ],
+        [
+          541.7094116210938,
+          487.1923828125
+        ],
+        [
+          70.94400024414062,
+          487.1923828125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        331.4892883300781,
+        541.7094116210938,
+        487.1923828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da die Beteiligten komplementäre Softwareprodukte anbieten, war insbesondere zu ermitteln,  ob eine Kopplung oder Bündelung der ERP-Software von SAP mit der Prozessmanagement-Software von Signavio, zu einer Behinderung wirksamen Wettbewerbs führen könnte. Um aktuellen Wettbewerb zu behindern oder den Markteintritt potenzieller Wettbewerber auf dem Markt  für Prozessmanagement-Software verhindern zu können, muss das fusionierende Unternehmen zunächst über eine hinreichende Marktmacht auf dem ERP-Markt verfügen.</p>",
+      "page": 105,
+      "polygon": [
+        [
+          69.84375,
+          505.2822265625
+        ],
+        [
+          541.4578857421875,
+          505.2822265625
+        ],
+        [
+          541.4578857421875,
+          606.5492858886719
+        ],
+        [
+          69.84375,
+          606.5492858886719
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        505.2822265625,
+        541.4578857421875,
+        606.5492858886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die durchgeführten Befragungen der Marktteilnehmer haben ergeben, dass sich die Anforderungen an eine ERP-Software je nach Unternehmensgröße sehr stark unterscheiden und der  Markt für ERP-Software dementsprechend weiter untergliedert werden könnte. Kleine Unternehmen verwenden die ERP-Software nur für ausgewählte Unternehmensbereiche. Großunternehmen dagegen bilden im ERP-System häufig den gesamten Wertschöpfungsprozess ab und  haben entsprechend hohe Leistungsanforderungen an die Software. Im ERP-Bereich für große  Unternehmen schätzen die vom Bundeskartellamt befragten Marktteilnehmer die Stellung von  SAP als sehr stark ein. Die Stellung von SAP wird außerdem durch das Vorliegen eines sog.  Lock-In-Effekts unterstützt. Der Wechsel des ERP-Systems ist, jedenfalls wenn es sich um</p>",
+      "page": 105,
+      "polygon": [
+        [
+          69.84375,
+          625.50927734375
+        ],
+        [
+          541.6400146484375,
+          625.50927734375
+        ],
+        [
+          541.6400146484375,
+          781.5634765625
+        ],
+        [
+          69.84375,
+          781.5634765625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        625.50927734375,
+        541.6400146484375,
+        781.5634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Großunternehmen mit komplexen Abläufen handelt, mit extrem hohem Aufwand verbunden. Bei  einem Wechsel des ERP-Systems fallen u.a. Kosten für die Einführung, Prozessberatung, Systemanpassung und Mitarbeiterschulungen an. Wegen der hohen Wechselbarrieren ist aus Sicht  von SAP-Kunden zumindest ein kurz- oder mittelfristiger Wechsel zu einem anderen ERP-Anbieter praktisch ausgeschlossen. Somit sind Kunden an SAP gebunden, soweit sie einmal  das ERP-System von SAP implementiert haben.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          70.94400024414062,
+          125.3955078125
+        ],
+        [
+          541.4474487304688,
+          125.3955078125
+        ],
+        [
+          541.4474487304688,
+          228.499267578125
+        ],
+        [
+          70.94400024414062,
+          228.499267578125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        125.3955078125,
+        541.4474487304688,
+        228.499267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eine Bündelung wäre etwa in Form einer Vorinstallation der BPA- und Process Mining-Software  in SAP EAS denkbar. Des Weiteren könnten bei Bezug von EBPA und Process Mining-Software im Bündel mit einer anderen EAS-Software Rabatte gewährt werden. Außerdem könnten andere Anbieter von Prozessmanagement-Software durch eine Beschränkung des Zugangs  zum SAP-System und den darin gespeicherten Daten benachteiligt werden.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          70.94400024414062,
+          245.857421875
+        ],
+        [
+          541.7079467773438,
+          245.857421875
+        ],
+        [
+          541.7079467773438,
+          330.529296875
+        ],
+        [
+          70.94400024414062,
+          330.529296875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        245.857421875,
+        541.7079467773438,
+        330.529296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Möglichkeit, eine Kopplungs- oder Bündelungsstrategie erfolgreich einzusetzen, ist insbesondere dann gegeben, wenn bestimmte Produkte typischerweise als Bündel nachgefragt werden. Dies war indessen nicht der Fall. Bislang werden Process Mining- und EBPA-Produkte  getrennt voneinander und auch getrennt von der ERP-Software bezogen. Die vom Bundeskartellamt befragten Nachfrager haben bislang nicht die Absicht, künftig nur auf Grund einer möglichen Bündelung der Angebote hiervon abzuweichen. Deshalb war davon auszugehen, dass  SAP-Kunden auch nach dem Erwerb von Signavio weiterhin andere Prozessmanagement-Softwares in Betracht ziehen werden. Der Bezug anderer Prozessmanagement-Softwares  könnte nur dann mit Sicherheit verhindert werden, wenn ihre technische Interoperabilität so  stark eingeschränkt werden würde, dass eine Nutzung für SAP ERP-Kunden technisch nicht  mehr möglich wäre. SAP-Kunden könnten eine andere Prozessmanagement-Software dann nur  nach einem Wechsel des ERP-Systems einsetzen, was aufgrund des beschriebenen Lock-In-Effekts sehr unwahrscheinlich ist. Die Ermittlungen des Bundeskartellamts haben ergeben,  dass die Software von Signavio vor allem im Bereich Process Mining aus Sicht der Marktteilnehmer aktuell noch nicht alle Kundenanforderungen erfüllt und andere Anbieter stärker einzuschätzen sind. Daher erschien es wenig wahrscheinlich, dass SAP nach dem Zusammenschluss die Nutzung einer anderen Prozessmanagement-Software technisch vollständig verhindern wird.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          67.515625,
+          349.4892883300781
+        ],
+        [
+          541.7175903320312,
+          349.4892883300781
+        ],
+        [
+          541.7175903320312,
+          666.5792846679688
+        ],
+        [
+          67.515625,
+          666.5792846679688
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        349.4892883300781,
+        541.7175903320312,
+        666.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Außerdem war zu berücksichtigen, dass im Bereich Process Mining mit Celonis ein starker  Wettbewerber vorhanden ist. Die Befragungen von Marktteilnehmern haben ergeben, dass  Celonis im Bereich Process Mining allgemein als Marktführer angesehen wird. Insbesondere  durch die starke Stellung von Celonis schien es wenig wahrscheinlich, dass SAP nach dem  Zusammenschluss die Möglichkeit hat, mit Bündelangeboten Drittanbieter zu verdrängen. Auch</p>",
+      "page": 102,
+      "polygon": [
+        [
+          70.94400024414062,
+          684.947265625
+        ],
+        [
+          541.487060546875,
+          684.947265625
+        ],
+        [
+          541.487060546875,
+          768.818359375
+        ],
+        [
+          70.94400024414062,
+          768.818359375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        684.947265625,
+        541.487060546875,
+        768.818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">die befragten Kunden sahen vorliegend keinen Hinweis darauf, dass der Wettbewerb durch den  Zusammenschluss eingeschränkt würde. Vielmehr begrüßten einige Kunden die mit dem Zusammenschluss verbundene Möglichkeit, dass SAP nach dem Erwerb von Signavio die Partnerschaft mit Celonis beenden könnte und Celonis dann wieder stärker in den Wettbewerb um  Kunden treten müsste.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          70.94400024414062,
+          126.2177734375
+        ],
+        [
+          541.7156982421875,
+          126.2177734375
+        ],
+        [
+          541.7156982421875,
+          210.499267578125
+        ],
+        [
+          70.94400024414062,
+          210.499267578125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        126.2177734375,
+        541.7156982421875,
+        210.499267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Darüber hinaus war auch nicht zu befürchten, dass es durch Gebühren für indirekte Nutzung  des SAP ERP-Systems zu einer Benachteiligung der Wettbewerber von Signavio kommen wird.  Grundsätzlich können beim Zugriff auf das ERP-System von SAP durch Drittanwendungen im  Rahmen der SAP-Lizenzvereinbarung \"Digital Access Modell\" Gebühren anfallen, die bei Nutzung von SAP-eigenen Softwares oder ausgewählten Partner-Softwares nicht entstehen. Diese  Gebühren können Drittanwendungen im Vergleich zu SAP-eigenen Softwares oder Partner-Softwares unattraktiver machen. Gebühren für indirekte Nutzung fallen jedoch nur dann an,  wenn bestimmte Operationen im SAP ERP-System ausgelöst werden. Prozessmanagement-Softwares greifen zwar auf Daten im ERP-System zu, sie benötigen hierfür aber nur reinen Lesezugriff, für welchen keine Gebühren der indirekten Nutzung anfallen. Dies hat SAP ausdrücklich bestätigt.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          70.94400024414062,
+          229.0009765625
+        ],
+        [
+          541.6419677734375,
+          229.0009765625
+        ],
+        [
+          541.6419677734375,
+          420.529296875
+        ],
+        [
+          70.94400024414062,
+          420.529296875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        229.0009765625,
+        541.6419677734375,
+        420.529296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Ergebnis war nicht zu erwarten, dass der Zusammenschluss zu einer erheblichen Behinderung wirksamen Wettbewerbs i.S.d. § 36 Abs. 1 S. 1 GWB führt.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          70.94400024414062,
+          439.08984375
+        ],
+        [
+          538.9609375,
+          439.08984375
+        ],
+        [
+          538.9609375,
+          468.69140625
+        ],
+        [
+          70.94400024414062,
+          468.69140625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        439.08984375,
+        538.9609375,
+        468.69140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

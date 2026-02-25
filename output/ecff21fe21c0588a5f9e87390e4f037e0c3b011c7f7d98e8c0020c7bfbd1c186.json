@@ -1,0 +1,730 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 181,
+      "polygon": [
+        [
+          46.5625,
+          51.658447265625
+        ],
+        [
+          213.0234375,
+          51.658447265625
+        ],
+        [
+          213.0234375,
+          101.464599609375
+        ],
+        [
+          46.5625,
+          101.464599609375
+        ]
+      ],
+      "bbox": [
+        46.5625,
+        51.658447265625,
+        213.0234375,
+        101.464599609375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Brussels,</b> <b>13</b> <b>February</b> <b>2026</b> <b>(OR. en)</b></p>",
+      "page": 181,
+      "polygon": [
+        [
+          340.3899841308594,
+          102.9052734375
+        ],
+        [
+          489.3851318359375,
+          102.9052734375
+        ],
+        [
+          489.3851318359375,
+          126.74969482421875
+        ],
+        [
+          340.3899841308594,
+          126.74969482421875
+        ]
+      ],
+      "bbox": [
+        340.3899841308594,
+        102.9052734375,
+        489.3851318359375,
+        126.74969482421875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>6176/26</b></p>",
+      "page": 181,
+      "polygon": [
+        [
+          340.197265625,
+          149.830078125
+        ],
+        [
+          381.83514404296875,
+          149.830078125
+        ],
+        [
+          381.83514404296875,
+          162.3896484375
+        ],
+        [
+          340.197265625,
+          162.3896484375
+        ]
+      ],
+      "bbox": [
+        340.197265625,
+        149.830078125,
+        381.83514404296875,
+        162.3896484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Interinstitutional File:</b> <b>2025/0101 (COD)</b></p>",
+      "page": 181,
+      "polygon": [
+        [
+          91.087890625,
+          169.17626953125
+        ],
+        [
+          213.896484375,
+          169.17626953125
+        ],
+        [
+          213.896484375,
+          196.58966064453125
+        ],
+        [
+          91.087890625,
+          196.58966064453125
+        ]
+      ],
+      "bbox": [
+        91.087890625,
+        169.17626953125,
+        213.896484375,
+        196.58966064453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<blockquote><p block-type=\"Text\"><b>CODEC 195</b> <b>JAI 179</b> <b>ASILE 15</b> <b>ASIM 10</b></p></blockquote>",
+      "page": 181,
+      "polygon": [
+        [
+          340.3899841308594,
+          211.4697265625
+        ],
+        [
+          404.2453308105469,
+          211.4697265625
+        ],
+        [
+          404.2453308105469,
+          262.73968505859375
+        ],
+        [
+          340.3899841308594,
+          262.73968505859375
+        ]
+      ],
+      "bbox": [
+        340.3899841308594,
+        211.4697265625,
+        404.2453308105469,
+        262.73968505859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>'I/A' ITEM NOTE</b></h2>",
+      "page": 181,
+      "polygon": [
+        [
+          56.45703124999999,
+          275.7861328125
+        ],
+        [
+          142.59765625,
+          275.7861328125
+        ],
+        [
+          142.59765625,
+          289.1396484375
+        ],
+        [
+          56.45703124999999,
+          289.1396484375
+        ]
+      ],
+      "bbox": [
+        56.45703124999999,
+        275.7861328125,
+        142.59765625,
+        289.1396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/6",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>From:</th><th>General Secretariat of the Council</th></tr><tr><td>To:</td><td>Permanent Representatives Committee/Council</td></tr><tr><td rowspan=\"2\">Subject:</td><td>Draft REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE<br/>COUNCIL amending Regulation (EU) 2024/1348 as regards the<br/>establishment of a list of safe countries of origin at Union level (first<br/>reading)</td></tr><tr><td>-<br/>Adoption of the legislative act</td></tr></tbody></table>",
+      "page": 181,
+      "polygon": [
+        [
+          48.68109375,
+          290.760908203125
+        ],
+        [
+          544.99078125,
+          290.760908203125
+        ],
+        [
+          544.99078125,
+          400.762529296875
+        ],
+        [
+          48.68109375,
+          400.762529296875
+        ]
+      ],
+      "bbox": [
+        48.68109375,
+        290.760908203125,
+        544.99078125,
+        400.762529296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/174",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. On 16 April 2025 the Commission submitted its proposal<b><sup>1</sup></b> , based on Article 78(2), point (d)  TFEU, to the Council.</li><li block-type=\"ListItem\">2. The European Economic and Social Committee delivered its opinion on 23 October 2025<b><sup>2</sup></b> .</li><li block-type=\"ListItem\">3. On 10 February 2026 the European Parliament adopted its position at first reading on the  Commission proposal<b><sup>3</sup></b> . The outcome of voting in the European Parliament reflects the  compromise agreement reached between the institutions and should, therefore, be acceptable  to the Council.</li></ul></p>",
+      "page": 181,
+      "polygon": [
+        [
+          55.87499999999999,
+          422.1187744140625
+        ],
+        [
+          532.907958984375,
+          422.1187744140625
+        ],
+        [
+          532.907958984375,
+          583.0914611816406
+        ],
+        [
+          55.87499999999999,
+          583.0914611816406
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        422.1187744140625,
+        532.907958984375,
+        583.0914611816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6176/26 1 GIP.INST <b>EN</b></p>",
+      "page": 181,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          539.7759399414062,
+          780.3014602661133
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          56.63999557495117,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 181,
+      "polygon": [
+        [
+          61.69531249999999,
+          713.33935546875
+        ],
+        [
+          74.5,
+          713.33935546875
+        ],
+        [
+          74.5,
+          722.39501953125
+        ],
+        [
+          61.69531249999999,
+          722.39501953125
+        ]
+      ],
+      "bbox": [
+        61.69531249999999,
+        713.33935546875,
+        74.5,
+        722.39501953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 181,
+      "polygon": [
+        [
+          56.63999557495117,
+          696.7614593505859
+        ],
+        [
+          59.63999557495117,
+          696.7614593505859
+        ],
+        [
+          59.63999557495117,
+          708.7614593505859
+        ],
+        [
+          56.63999557495117,
+          708.7614593505859
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        696.7614593505859,
+        59.63999557495117,
+        708.7614593505859
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><b><sup>1</sup></b> 8042/25 + ADD 1.</p>",
+      "page": 181,
+      "polygon": [
+        [
+          55.001953125,
+          722.628776550293
+        ],
+        [
+          182.66000366210938,
+          722.628776550293
+        ],
+        [
+          182.66000366210938,
+          735.4014587402344
+        ],
+        [
+          55.001953125,
+          735.4014587402344
+        ]
+      ],
+      "bbox": [
+        55.001953125,
+        722.628776550293,
+        182.66000366210938,
+        735.4014587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><b><sup>2</sup></b> OJ C, C/2026/71, 30.1.2026, ELI: <a href=\"http://data.europa.eu/eli/C/2026/71/oj\">http://data.europa.eu/eli/C/2026/71/oj.</a></p>",
+      "page": 181,
+      "polygon": [
+        [
+          55.87499999999999,
+          735.978515625
+        ],
+        [
+          442.3899841308594,
+          735.978515625
+        ],
+        [
+          442.3899841308594,
+          749.1974639892578
+        ],
+        [
+          55.87499999999999,
+          749.1974639892578
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        735.978515625,
+        442.3899841308594,
+        749.1974639892578
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><b><sup>3</sup></b> 6115/26.</p>",
+      "page": 181,
+      "polygon": [
+        [
+          54.7109375,
+          749.150390625
+        ],
+        [
+          135.03125,
+          749.150390625
+        ],
+        [
+          135.03125,
+          763.0214538574219
+        ],
+        [
+          54.7109375,
+          763.0214538574219
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        749.150390625,
+        135.03125,
+        763.0214538574219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/81",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">4. The Permanent Representatives Committee is therefore asked to confirm its agreement and to  suggest that the Council<b><sup>4</sup></b> approve the European Parliament's position, as set out in PE-CONS 67/25, as an \"A\" item at a forthcoming meeting, with Hungary abstaining.</li><li block-type=\"ListItem\">5. The statement for the minutes of the Council meeting is set out in the Addendum to this note.</li><li block-type=\"ListItem\">6. If the Council approves the European Parliament's position, the legislative act will be adopted.</li></ul></p>",
+      "page": 81,
+      "polygon": [
+        [
+          54.7109375,
+          51.45263671875
+        ],
+        [
+          537.796875,
+          51.45263671875
+        ],
+        [
+          537.796875,
+          173.29248046875
+        ],
+        [
+          54.7109375,
+          173.29248046875
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        51.45263671875,
+        537.796875,
+        173.29248046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">After being signed by the Presidents of the European Parliament and of the Council, the  legislative act will be published in the <i>Official Journal of the European Union</i>.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          82.6484375,
+          193.761474609375
+        ],
+        [
+          509.4360046386719,
+          193.761474609375
+        ],
+        [
+          509.4360046386719,
+          226.521484375
+        ],
+        [
+          82.6484375,
+          226.521484375
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        193.761474609375,
+        509.4360046386719,
+        226.521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>4</b> In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed  to the Treaty on European Union and to the Treaty on the Functioning of the European  Union, Denmark is not taking part in the adoption of this Regulation and is not bound by it  or subject to its application.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          56.63999557495117,
+          706.75341796875
+        ],
+        [
+          536.3159790039062,
+          706.75341796875
+        ],
+        [
+          536.3159790039062,
+          763.0214538574219
+        ],
+        [
+          56.63999557495117,
+          763.0214538574219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        706.75341796875,
+        536.3159790039062,
+        763.0214538574219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 81,
+      "polygon": [
+        [
+          56.63999557495117,
+          682.9614562988281
+        ],
+        [
+          59.63999557495117,
+          682.9614562988281
+        ],
+        [
+          59.63999557495117,
+          694.9614562988281
+        ],
+        [
+          56.63999557495117,
+          694.9614562988281
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        682.9614562988281,
+        59.63999557495117,
+        694.9614562988281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6176/26 2</p>",
+      "page": 81,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          802.24951171875
+        ],
+        [
+          56.63999557495117,
+          802.24951171875
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        538.780029296875,
+        802.24951171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">GIP.INST <b>EN</b></p>",
+      "page": 81,
+      "polygon": [
+        [
+          273.4100036621094,
+          794.84033203125
+        ],
+        [
+          539.7759399414062,
+          794.84033203125
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          273.4100036621094,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        273.4100036621094,
+        794.84033203125,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    }
+  }
+}

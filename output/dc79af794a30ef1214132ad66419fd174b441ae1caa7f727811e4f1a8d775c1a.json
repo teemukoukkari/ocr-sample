@@ -1,0 +1,528 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 166,
+      "polygon": [
+        [
+          3.608593749999999,
+          62.0810546875
+        ],
+        [
+          180.31328125,
+          62.0810546875
+        ],
+        [
+          180.31328125,
+          125.3955078125
+        ],
+        [
+          3.608593749999999,
+          125.3955078125
+        ]
+      ],
+      "bbox": [
+        3.608593749999999,
+        62.0810546875,
+        180.31328125,
+        125.3955078125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADTAk0DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiop7q3tU33E8cS+sjBR+tYcvjnw7GWVdRSVx/BEjMT9OMUAdDRXLx+PNJL/AL6C/to/+es1sVT862tO1jTtXi8ywvIrhf8AYbkfUdaAL1FUtQ1bT9Ji82/u4oF7b25P0HU1iSePdID4ghv7qP8A56wWzMn58UAdRRXOx+OfDrkK+orC5/glRlI+vFblvd292m+2njmX1jYN/KgCaiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiikd1jRndgqqMlicACgCtqWo22k6bc6heSCO3t4zJI3sBnj1PtXO2fibxCYY5r7whcCOVA6iyu0lcZ7MH2AH6E1BE8njjVIplGPDdnLvUsP+P2ZTwR/0zU857kD0Ndn0oA5qTxJq0qbbPwlqfndvtksMUf4sruf/HaYYPGephhLdaZo0RwNsCNdSEeodtgU/VWqh4z+INjoNjqENhfWj6zZbHNlM4VpQeSFz149M4qv4N+KFh4u14abEqxNJYpdRhmG7dkh0+o4P0zQBu2/gvSVm+0ah5+q3J5MmoP5g/BMBB+C1vQQQ20SxQRRxRr0SNQoH4Cs/XdftPD9kLm6WaUscLFBGZJGxySFHJAHJ9BXkuo/G3U9XZ18IaMkkSz+T9oupFBzgkfJngNg4zjOMdeKAPbqwtU8J6dqMn2qANp+og7kvbTCSA/7XGHHswNebaN8cJ7e9ttN8UaFcW91OuY5LQeaJOoGFHPUFcDOD+Nes2uq21zpS6izG3g2b3+0DyzF6hwfukd80AZuk+ErGwkF3eM+pamQDJeXeGbP+wvRB7KB7561v1xc3xZ8DQ6mLBvENqZTj50y0X/fwDb+taqeOPC00scNv4g025mldUSK3uUldiTjhVJJ6/gMmgDbmgiuIminiSWNuqOoYH8DWFc+C9IeYT2KzaXcjpLp7+Vj6pyh/FTXQ1leIfEel+FtJfU9XufItVYLu2liSegAHJoAzPs/jLTMCC703WYgSAlyjWsoHqZF3qx+iLT4/EmrxLtvfCWo+d3+xywyx/gzMh/StfR9Vt9c0m21O0En2e4XfH5iFSRn0PNXqAOVuPEmvsrSWXhK4ESKWc310kTYH90J5mT+Ire0vUYNX0u21C2J8qdAwB6qe4PuDkH3FXK4+dv+EI1OW68tz4fvpd05XJ+xTHq5HaNuMnsee/AB2FFIjrIiujBlYZBByCKWgAooooAKKKKACiiigAoo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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS GoBus  AS HANSABUSS Aktsiaselts SEBE Osaühing M.K.Reis-X ATKO Transport OÜ</p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.388671875,
+          164.6815185546875
+        ],
+        [
+          179.11399841308594,
+          164.6815185546875
+        ],
+        [
+          179.11399841308594,
+          231.8814697265625
+        ],
+        [
+          68.388671875,
+          231.8814697265625
+        ]
+      ],
+      "bbox": [
+        68.388671875,
+        164.6815185546875,
+        179.11399841308594,
+        231.8814697265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud aadressidele</i> <i><a href=\"mailto:info@gobus.ee\">info@gobus.ee;</a></i> <i><a href=\"mailto:teated@hansabuss.ee\">teated@hansabuss.ee;</a></i><i><a href=\"mailto:info@sebe.ee\"> info@sebe.ee;</a></i><i><a href=\"mailto:rakvere@reis.ee\"> rakvere@reis.ee;</a></i> <i><a href=\"mailto:grupp@atko.ee\">grupp@atko.ee</a></i></p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          247.3533935546875
+        ],
+        [
+          515.6796875,
+          247.3533935546875
+        ],
+        [
+          515.6796875,
+          257.7802734375
+        ],
+        [
+          68.6796875,
+          257.7802734375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        247.3533935546875,
+        515.6796875,
+        257.7802734375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">13.06.2022 nr 5-5/2022-030</p>",
+      "page": 166,
+      "polygon": [
+        [
+          389.1400146484375,
+          286.6314697265625
+        ],
+        [
+          525.865234375,
+          286.6314697265625
+        ],
+        [
+          525.865234375,
+          298.6314697265625
+        ],
+        [
+          389.1400146484375,
+          298.6314697265625
+        ]
+      ],
+      "bbox": [
+        389.1400146484375,
+        286.6314697265625,
+        525.865234375,
+        298.6314697265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Teade järelevalvemenetluse lõpetamisest</b></h2>",
+      "page": 166,
+      "polygon": [
+        [
+          69.26171875,
+          336.306640625
+        ],
+        [
+          294.552490234375,
+          336.306640625
+        ],
+        [
+          294.552490234375,
+          349.3387756347656
+        ],
+        [
+          69.26171875,
+          349.3387756347656
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        336.306640625,
+        294.552490234375,
+        349.3387756347656
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet alustas järelevalvemenetlust AS-i GoBus (registrikood 10085032), AS-i  HANSABUSS (registrikood 10230847), Aktsiaseltsi SEBE (registrikood 10077848),  Osaühingu M.K.Reis-X (registrikood 10734513) ja ATKO Transport OÜ (registrikood  12739911) (edaspidi koos nimetatud bussiettevõtjad, igaüks eraldi nimetatud bussiettevõtja)  suhtes seoses bussiettevõtjate poolt Eesti Vabariigi presidendile, peaministrile, Riigikogu  esimehele, rahandusministrile, majandus- ja taristuministrile, Riigikogu rahanduskomisjonile,  Riigikogu fraktsioonidele ja Transpordiametile saadetud avaliku ühispöördumisega \"Viie  bussiettevõte avalik pöördumine\", allkirjastatud digitaalselt bussiettevõtjate juhatuse liikmete  poolt 30.05.2022 (edaspidi ühispöördumine). Ühispöördumises teatasid bussiettevõtjad, et  vajavad endi poolt sõlmitud avaliku teenindamise lepingute täitmiseks täiendavat raha ning on  otsustanud ühiselt 11. juunil Harjumaal bussiliikluse ühel enda teenindatavalt riigi poolt tellitud  bussiliinil.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          378.67144775390625
+        ],
+        [
+          527.52001953125,
+          378.67144775390625
+        ],
+        [
+          527.52001953125,
+          542.4914855957031
+        ],
+        [
+          68.6796875,
+          542.4914855957031
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        378.67144775390625,
+        527.52001953125,
+        542.4914855957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiseaduse (edaspidi KonkS) § 4 lõige 1 keelab ettevõtjatevahelise konkurentsi  kahjustava eesmärgi või tagajärjega kokkuleppe, kooskõlastatud tegevuse ja ettevõtjate  ühenduse otsuse. Muuhulgas on keelatud määrata kindlaks hinda kolmandate isikute suhtes,  piirata tootmist ja teenindamist ning kaubaturgu. See tähendab, et konkurentsiõiguse kohaselt  peab iga ettevõtja otsustama sõltumatult, millisel viisil ta kavatseb kaubaturul käituda ehk konkurentsiõiguse alustalaks on ettevõtjate sõltumatuse nõue. Kui ettevõtjad lepivad kokku,  kuidas turul käituda, rikuvad nad sõltumatuse nõuet.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          69.84375,
+          558.1214599609375
+        ],
+        [
+          527.488037109375,
+          558.1214599609375
+        ],
+        [
+          527.488037109375,
+          652.9214630126953
+        ],
+        [
+          69.84375,
+          652.9214630126953
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        558.1214599609375,
+        527.488037109375,
+        652.9214630126953
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ühispöördumisest nähtub, et sellele allakirjutanud bussettevõtjad otsustasid koos, kuidas turul  käituda ehk ettevõtjate ühise tegutsemise eesmärgiks oli mõjutada lepingupartnerit maksma  teenust pakkuvatele ettevõtjatele kokkulepitud teenuse hinnast rohkem. Oma nõudmiste  mõjustamiseks leppisid bussiettevõtjad ühiselt kokku peatada ühiselt bussiliikluse 11. juunil  ühel enda poolt teenindatavalt bussiliinil. Seega ei toiminud iga bussiettevõtja iseseisvalt, vaid  bussiettevõtjad olid kokku lepitud ühises käitumises bussiliini teenindamise peatamises, kui  bussiettevõtjate nõudmistega ei nõustuta.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          69.84375,
+          668.5214538574219
+        ],
+        [
+          527.4760131835938,
+          668.5214538574219
+        ],
+        [
+          527.4760131835938,
+          765.1181640625
+        ],
+        [
+          69.84375,
+          765.1181640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        668.5214538574219,
+        527.4760131835938,
+        765.1181640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sellise ühise tegevusega rikkusid bussiettevõtjad KonkS §-i 4, mis keelab ettevõtjatevahelise  konkurentsi kahjustava eesmärgi või tagajärjega kokkulepe ja kooskõlastatud tegevuse, millega  sealhulgas määratakse kindlaks otseselt või kaudselt kolmandate isikute suhtes hinna- ja muud  kauplemistingimused või piiratakse teenindamist. Konkurentsiamet saatis bussiettevõtjatele  02.06.2022 oma esialgse seisukoha ning ettekirjutuse tegemise hoiatuse KonkS §-i 4 rikkumise  lõpetamise nõudes. AS GoBus vastas 08.06.2022 ning ülejäänud bussiettevõtjad vastasid  07.06.2022 Konkurentsiametile saadetud kirjades, et loobusid kavandatud bussiliini  teenindamise peatamisest.</p>",
+      "page": 92,
+      "polygon": [
+        [
+          69.84375,
+          86.2015380859375
+        ],
+        [
+          527.4879760742188,
+          86.2015380859375
+        ],
+        [
+          527.4879760742188,
+          194.876953125
+        ],
+        [
+          69.84375,
+          194.876953125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        86.2015380859375,
+        527.4879760742188,
+        194.876953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet mõistab põhjuseid, mis panid bussiettevõtjate ühiselt tegutsema, kuid juhib  tähelepanu sellele, et ettevõtjate eesmärkide saavutamine ei tohi toimuda läbi  konkurentsireeglite rikkumise ega kahjustada konkurentsi ning seeläbi tarbijate huve. Kuna  bussiettevõtjad loobusid kavandatud bussiliinide teenindamise peatamisest, ei pea Konkurentsiamet antud juhul vajalikuks menetlust jätkata ja lõpetab järelevalvemenetluse  KonkS § 63<sup>4</sup> lg 1 p 3 alusel.</p>",
+      "page": 92,
+      "polygon": [
+        [
+          68.6796875,
+          210.0888671875
+        ],
+        [
+          527.5079956054688,
+          210.0888671875
+        ],
+        [
+          527.5079956054688,
+          291.43145751953125
+        ],
+        [
+          68.6796875,
+          291.43145751953125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        210.0888671875,
+        527.5079956054688,
+        291.43145751953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 92,
+      "polygon": [
+        [
+          70.134765625,
+          319.1514892578125
+        ],
+        [
+          150.7559814453125,
+          319.1514892578125
+        ],
+        [
+          150.7559814453125,
+          331.1514587402344
+        ],
+        [
+          70.134765625,
+          331.1514587402344
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        319.1514892578125,
+        150.7559814453125,
+        331.1514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 92,
+      "polygon": [
+        [
+          70.716796875,
+          343.2958984375
+        ],
+        [
+          190.033203125,
+          343.2958984375
+        ],
+        [
+          190.033203125,
+          354.8441467285156
+        ],
+        [
+          70.716796875,
+          354.8441467285156
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        343.2958984375,
+        190.033203125,
+        354.8441467285156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 92,
+      "polygon": [
+        [
+          68.6796875,
+          366.7914733886719
+        ],
+        [
+          328.10601806640625,
+          366.7914733886719
+        ],
+        [
+          328.10601806640625,
+          391.3984375
+        ],
+        [
+          68.6796875,
+          391.3984375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        366.7914733886719,
+        328.10601806640625,
+        391.3984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piret Lohu <a href=\"mailto:piret.lohu@konkurentsiamet.ee\">piret.lohu@konkurentsiamet.ee</a></p>",
+      "page": 92,
+      "polygon": [
+        [
+          69.552734375,
+          462.11328125
+        ],
+        [
+          209.21038818359375,
+          462.11328125
+        ],
+        [
+          209.21038818359375,
+          487.2241516113281
+        ],
+        [
+          69.552734375,
+          487.2241516113281
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        462.11328125,
+        209.21038818359375,
+        487.2241516113281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

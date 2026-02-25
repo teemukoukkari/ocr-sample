@@ -1,0 +1,2758 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          40.800390625,
+          40.7021484375
+        ],
+        [
+          231.59023437499997,
+          40.7021484375
+        ],
+        [
+          231.59023437499997,
+          104.0166015625
+        ],
+        [
+          40.800390625,
+          104.0166015625
+        ]
+      ],
+      "bbox": [
+        40.800390625,
+        40.7021484375,
+        231.59023437499997,
+        104.0166015625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADTAnsDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooJxQAUU0yIuMsBnge9OzQAUm4d+KRnVFLMwCjqSa5+/8Z6FYyGIXq3VyOPIswZ5M/wC6mSPxoA6HcKN3rxXJrqHinVBusNKg0+FuRLfyfOR/uLn8jin/ANgeIrgZuvE7pn+G3tlTH45oA6jcKNwrl/8AhGNXi+aDxPeb+3nIJF/ImoJNZ1/w+N2t2iXtkp5vLMEsvu0eM/8AfOaAOv3CjePeuQi1rX/ER3aLarY2J+7eXqEO49VjPOPrip/+EY1eQ7rjxRemQ9fKQIo/AGgDqdwo3Vy/9g+I7fm08TM+P4bm3DA/jnNRvqfinS+b/SotQgH3pbCT5wPdWx+maAOtBzRXP6f4z0K9YQ/bltrjOPIu1MEmf918E/hW+GVhlSCPUUALRSEgU1ZEcZVgQDjIPegB9FJkUtABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABTW+71x70khAGScAVx2oatd+JL19G0Nilsp23mor91B3RD3Y+3SgCK6gTxv4ga2YF9D04kSlTgT3HYA9woz+Le1Xh4FsYuLa/1S2T+5FdEKK3dN0620qyisrSMRwxDgep7k+9SX8skNhcyxMqukbMC3QYGaAOb/4QzQPtKx3k0t7OV3CO6ud5I9celb1hp+nWdugsbeCOPsYwMfnXy94i+K2oavrFpemP7Jfaa7Ik0DHEyk8gjt0r1r4Ha1qWseHdRlvUbyBeu8LseTu+Yj8M/rQB6qCMdRUFxf2dmQLq7ggJ6ebIFz+ZrzX4peKb3RriKxstSbTZHtXnSVlysjA42E9j0x9a8GjvoNSVbnxFNqrXMhKmZtxABGVYevcYoA+yVkjlRXR1dDyGU5BoYBhggEenrXyd4d8Q6lomtLBYa7eafpbQl2F1GxwQOVUHqSensa9w1H4j2/h74eWGv3kUkk93GPJibhpD6n8MH8aAO/UAYAAAHb0qTI9a+cI/jp4tvb50ttLtEUJ5ggYfMV9ietdb4S+J3izxpexWtl4bitos/vb2R2MaAdeq4J9hQB7HTD1qhqOs6bpEPmalqFvaoBnM0gXP59a4TxF8XNFs9CvbnRp/tU8akRMUKxs/oCQN34UAd9e6VY6ijR3lpDOCOQ6g1iDwHo0Z/wBDN1Ze1rMUArgvhp8XrPUrKaPxTq8UOoPL8gdCibewB6D8a9it5o7iFZYZEkjYZVkYEEexFAHMt4FsZeLm/wBUuV7rLdEg/UVSs4o/BXiEWiqY9F1A/uT1EE390+gbt7mu3NUtT0u11ewksruPfFIMH1HuPegC2Dz/AIU+uP0/Vrjw/eRaNrkhaJzts75vuyjsrns/866wEHBBHTOR3oAkooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACmN1z7U+sXxXdzWPhrUbiA4lWEqp/uluAfwzmgDB1HUz4l1CTTLa8FppcDbLq53hWmb/nmnt6n6etdXpllaWFlHb2UaJboPkCYxXJ6B4B0HTdDha4tBdzvH5ks8pJLEjJxzWTY6hYWxl1HwhfNJHAx+16S5K7lBwzIG5BHtkGgD049Khui4s5THEJX2HCHjdx0qLT76HUrKC8t5N8Uyhl/wPuKuEUAfF3i63v7jX722/4R37DLFI8jxwwknacdSOo9/evTvgr8S9NsNPj8M6qUtSrE2854R8nox7H3r2bxForaxpF3bWs4tbmZCnnrGGbHpzXyj4l8DXWhTyQwwai8sJJkM0CKuP7wKsc0Ael/FC3uLzx/FcXLq9n9n8q3hRgzFMEvL7AEgZPWuIt9D1/VYIdIiumuNKt4mu7a7gt3YP0AUnGc8YwfeorBZf7MsNSvJLu4iuEa2upQw2omcJFnPByMn2NX9GjuNP8ADD6Y1/d21xFqUkjR28sS/LsQKfndSRwcEcdaAKrQapfNJe62c30lmUhsfKIdEUBfMZe3TPqetd03gq98W/CzT9LXULWXUNOkd7I+eCJoieMenpz6VxWplm8U6jq6yzS/uoobaYMMmUxqCM/dPO4HBPNcx4khuNFu7S3huLmHbbo3ks5DQk5ypx75P40Aeo2F74x0SW2N38PIrrUrWEW6XgIzsHA6ZHSn32veP71Cl9qujeF7U87ROgf8kJb9K8XOvau6bG1K6K4xjzjVvSfD+q+I5x5JxGTg3FzKEQf8CY4/Ac0Adfcv4Ft5zNrGu6v4gn6sIIyibvq5GR+FNtvE/gr7Y0l1Z6wyeU0MKoIwsIIxkLu6isfxD4f0bwqbeCTUIdaupE3yfY5sRxe27HNYWo2cCW1ve2iyrBPkbJByrDqM9/XNAHdLB8N5jeXU+qTmBLJIrS1ELrKJFXBZsAryRnr1Nen/ALPlxqM3g+7W7MjWyXB+zl+mMc49s5rwXwbf6JpviGGXX7D7bYdGTHT3x3r6t8FeJtD1yxMGiW0tpDAMCGSAx/L2IHegDrR60GmgmqmpahDpenTXt1IEhhUu5+nYUAGo2VnqFlJBfRJJbsDuD9B/hXKaXqb+HNTi0e5vFu9LnYJZ3QkDGNugjkPv0B71k3+oadcpFf8AjG6dRckG10iPLFAx+XeF/i/StbxF8PNC1LRJltbYWNwqGSKeIkFGAyDQB3NFYvhbUZdU8L6bfS/6ya3R2+uK2h0oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACqmo2kd/ZT2cwzDPGY29eRVumlcnOaAOMih8YaXZjTLWCwvIkGyG7kmZGVf9pdp5A9DzQ3gtIPD1ulq4XVrTdLFcqMF3JJZT6qc459q7PYD3pGXAzQBwPw91cPf6hpRXywCLiOI9UJJWRPwZQfo4r0E9Oa8w1CzfQPjRpF9FxbatBNEyjp5g2kn8Qq/lXot9epY2M91NgRxRtIcnHAGaAJuMcVyXjvRNF1DR5LnVJLO3eFf3c9yDtHsRkZr5/8VfELxNrd0ms2dxLYWxnaG1SOQkuVxnjHuPzrDe48VeOteg0XUNWeW5bhFuJPlBxnHy96ANzTdS8OQ3F3YTX8bQyyhoPJgZIVlAIDEHnBz+lTT/2b5KW2uRz3QtP9HhvbZA5k2qrlSCRwDJ154xVW1+FeoRxW6X1pdrOzNJMY4yViiU4A92Y9uwx616X4P+FP2nwax1B5ra6mklktY5OWgRgAA/qSFB9s0AcPEguriFZbRo7GFZYobJSCy5VJlcEdSfM/CuF1TTdZ1XUZtTntZHW6mJPlnzPLJP3WxkrjpyB0r37TfhXqMjD+1ry2jjUqrJCS4kCqEVxkLsbaqjqelZXjnWLTwU66d4Zihk1KNCbu7ulLtGvVVOAAWOeO9AD/AAz8EdC0fSl1fX53v2WISmJVIQcZxjqa8a13WW1/xOUnzp+n+bsjgClRBHnjgd8V14+NvjJbWTS5YbWS4ddgYx/MMj0z1rl/DXgzXfGtzfXVrHuNvmSV5P4nz90e9AHUeFvD1h4s16wsoNPS00V53jLAFp5PLAJ3t2z+ma7T4y/D2efQNNm8PaeDFp6lGt7ccheuQO9eieDPCcHh6w854wt7dBJrgDokmwBtv5V1BAGWJyAMmgD4oWw8PnTW82/1GDU1XBtzaApuH+1uz/47W94B8WXmk6rA8Uc088Z/ivViQr6ENgH866fxP46sdN8aanqWmeGrGYee1sLiVs+ay/KWUAYxxmvKL5ZjrEv2qNYZWly6DohJ6UAfcGm6hFqlhBeQFSkqhhhg2PbI44riPiHq+zUbDTEiNwVIuDbg/wCukziJPxbGfaul8KaBp3h/RY7bSy/2V/nUMxIGfSuV0uwOu/GLWNRlJa10tUhhHbzdoz+VAGqPBKzeHp4ri5D6xcFZmvSudsoORgf3Qe1LcW3i7WbRtLuorCwgkXy57uGZncqeDsUqMEjuTxXZBPejyxmgCKzs4bCzhtYF2xRIEUegFWKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKRs4460tIelAHHeOrcKdCvhjzLbU0O7/ZZWB/mK6a/sYNRspbS6TfBLw656jOawvHP/ACCLVe7X0IH5mt3UGki0+4licLIkbMCRnGB6UAcVffDzwfd6/F9q8tZAgNvZCQIFIPLKvU54z9Kk0L4beGtP8Tz+I7JVklc/ukH3YmHDEH1zmvAPEfxN1XWNVt7q5CxX+nSEQXEA2blzyGXnrgd69i+BWo6pqfhvUbi9Qi3e9d4GJ7t8zAe2T/OgD1XjpjOao3mt6XprCO91G0t5DyElmVGP4E15x8WPEd1pl5BYQ6nc6Z5lo8sUsChvMYHBRh16Y5HvXhdq9vNapc+IdP1aZ5WKG5ILAg8qVzj5s54zyDQB9h293b3cKy208c0TfdkjYMp/EVjaz4N0TXbqKe9tQ7RsX44DsQAC3rjAxXzRouoXWh+IE+z6jrGjWLW5ZlliOSwAyqg8YPXPbOK9v1f4kr4b+G2ma5NbtLd3iAQRM/Le7HHpj86AL1j8JPCVjqCX/wBiea6VzIXlfOWJyTiuvsdMstLhMNjbRQRk5IjXGT6+9fOsHxh+IN/qXlwW9pC7R+bHbvbvl1/2eea7Twh42+IPi+8ig/siCwtAf313NEwwP9lTjmgD2LFMkVXRlb7rcHtWVqvinQtCiLalq1tBt6hnBb8hzXCeJfjBpqaDeS6EJpZypW3mePCO3+yCdx/LFAGxe/CfwxqF/bzTWpEEEXlxW6HCg5yWPqaSP4Q+FG1q71S4s/tE88xm2u3yoTzwPrXEfDT4w2TWU0PizVJVvZZiUkeP92FPQDFe22V3bXtqlzazxzQyDKuhyDQBIsQiUKgAUDAA7CuV8Bw8a7en71zqtxn6K5UfoK61jlSB6VzXgUgaJcr3GoXIP18xqAOnooooAKKKKACiiigBCcUm4UN0rx66+JOuQ/GWLwqotv7OabYT5Z342k9c+1AHsWab5g9DVe/voNNsJ726cJBAhd2PYCvIfA3xE8V+OvGc8NpDaw6HA5Z5DES+zoFznqaAPaaKTcBxmjcPWgBaKTcPWjcPWgBaKTI9aNwoAWik3D1o3D1oAWik3D1o3CgBaKTI9aNwoAWikyPWjIoAWik3DjnrRketAC0UmRRketAC0Um4etG4etAC0Um4Ubh60ALRSZFGR60ALRSbhnGeaNw9aAFopAwIzmgEHpQAtFBOOtJkUALRSZFG4YzmgBaKTIo3D1oAWik3D1oyKAFopMijIoAWijNJuHrQAtFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFIelLSN0oA5jxj+8/sO36mXUkGPYI5/pXQ3Pm/ZpPJRXk2HajHAY46Vzeqt9s8e6HZjkW0M11IPQ/Iqf+hP+VdWelAHxz4w0rxDeeIL2Gfw6LV4pHlcWsLFcHGTu7jp+td18HPilZ6NZJ4c1orDAGzbzgcAk8hvx7+9e5eINHbWtHurGO6ktHmQr50YG7HpkjpXyx4r+Ht1oUzxQ29wJIySzTyRqrqP4l+bP6UAd/8AEmFr3x8l9LcRXFuLYLDBE4YiDBLyk9F5OB1zjtXG2PhrWdaiisIdRvLnQ4Y2ubWeJFPz4A2kFvlPHTJ/Wq2nRbdI0/Up/NuIn3QXchlA4JwkX0GNx+tXdMgGmeHW0q5kuFuI9Qeby4rr7OChRAGBIO5cqcUAQi11KaSR9bnmuNYmsykdo4GYYlwu88/ewPu4yetdwnhW38U/C2x0htdsje2Ujy6fI8oG+IscAg9D29sVxOpKX8Qajq8bPIsqRW9pNuOWkEarkMeGAIIP0rmPFVqdI1KC3heSF1gUyQ+ZkxOfvAEep5x70Aeq2N38RdESAHw3pF5PbRCCK+aWPIQDAHLiqeqav4tvgV8Q+M9J0WzIw0Nmxdh9FUH/ANCrx06lfMNrXtwV9DK2K1NI8MahrMiuXhs7djzcXj7Fx7dz+AoA6l774d6dL5kza1r90v8Ay0lKxRk/TLGm23jPwmL6SW48P6gQ8TQqReqfLUjHyLs+XHbk1l69pvhrw+YILO+Gt3DLmeWMmOOM+gBGT9axtUsoVs7a/toJYIbgEeXIc4IOPlOBkUAdwt/8NXe8u5Y9RkUWiQ21pJGoZHVcbtwODnGegr039nxdR/4Q+7N0JBamf/Rt/wDdxzj2zmvBvBusaXofiGC61bTU1C0HDxkcj3HOD+NfVHgvxlpXiW3eHTrC5sVgHywzQiMbfVcEigDsK5nwWfKTWLU9YtTuG/BpCw/Q10mcjp9K5nRv9D8ca7aHhblY7qMf8BCt+tAHVUUUUAFFFFABRRRQAhr5tv8A/k5qH/r5/wDZGr6SNfK/jbT73VfjvPZafc/ZruWbEc2fuHaTn9KAO1+Nfiq51K9tfA+ikvc3Dr9o2Hk+ifnyfpXo/gHwhbeDfDVvp8aj7QwD3Endn/wrwfTEvfhl8W7d/EwW8Wbg3TZPDcbwT3B/Q19PwzRzxJLGQySAFWHQjtQB5R8WviJfaBdWvh3QQDqt2BukxkoCcDA9TXPTfD/4k2WlHWk8Ts+oInmtbbz064BxjPtisrxJ/pH7SNmkvzKs6AD2AJFfSB+ZSGHsRQB5n8JviHN4wsbjT9VCrqtkcPgY8xemceoPX61xfxx8Va1oXi6xi0zUZreM2wcoh4Y7j1qh8JP3Pxu1iJOEMVwCB/10WnfHeJJ/iRosUg3I8caEeoL0Aew/DrxZF4v8I2t8HBuUHlXCZ6OP8a8xk8Ta0v7RR0gajN/Z/wBpC/Z8/Ljygf51R8N3E/wp+KTaRcsRo2qKpjY9Bn7p+oOR+VVnYN+1DkEEG7XB9f3IoA9H+OGr3+i+B4rnTrqS2mN2il4+uMNVjwv4p/s/4N2ev6tcGWRLd2d3PLtvbA/lWV+0J/yTuH/r9T+TV4vf+M5tY8H+H/CYjezs4GImmY8SEsefoAaAPRvhRc+KfGfia61y/wBSuE0mGUssOfldzyF6dADVz45eIdX0TWdDj03UJrZJgS4Q4z81eo+FdF0/QfDllYabtNvHGCHH/LQkZLfjXjf7Q/8AyHfDn+6f/QqAPdtMd5NJs3dizNAjEnuSorxHxh4l1m0+OdjplvqM8dk8kIaEH5Tkc17dpP8AyBbH/r3j/wDQRXz346/5OK0//rpB/wCgigD0j41atf6N4Ca7065ktp/tCLvjODg1594Y8MfEbxR4bttbtPF3lxzhtqSMc/KxX09q7X4/f8k4P/X1H/WuR8A/GXw14X8DWGkXsOoPdwB93lRKVOXYjksPX0oAv/Dv4geI7Hxs/g3xY4mm3mNJT94P257g9uBXRfHDWdR0XwhBcabdyWsrThS8ZwSK4PwHBN8QPi5c+LcR29rBLvWMuC52gBePoBk11/7Q/wDyI9t/18igDmfDfhH4i+JPD9pq9v4wMcdym9VdjkfpXoPgTwp4s0DU7ibXvEC6lBJHtSME/Kc9eleb+DfizrGheFdO0238H3V5FBGFWdHbD+/3DXrvgTxXeeLtJmvL3SJdMkSTYschJ3DHXkD+VAHkvxs8Wa7oXjWC303VJ7aHyFcopGM/lXsHgTxVD4w8KWupoVExUJcRg/ckA+YV4r8aYUufivpUEqho5EjUj1BIq94PuJfhd8U7nw1eOw0nUH/cO/QZ+6f5A0AWtM8S6zL+0HPpL6jM1gLiVRAT8uADgV1njPwX401rxFJeaJ4kWxsSiqsBJGCByelefaPj/hpm4x0+0zY/I19HigD5W0OTx3rnja48Lw+KJkuYWdTIzfKdoPtntXtvgHwz4n8PSXbeIdbXUlkAEYBPy8+4FeXfDz/k4bVf+utz/Jq+ijgrt7dKAPnebxL4u+KPja70jQtROnadbkkkHACA43HHJOccVDrs/jn4SanZXU+tHUdOnfBDk4bHJU55Bxmm3Oh+K/hN4zutZ0rTjqGmzEg7ATuQnO045BHriu10f4s+EPF7xadr1h9juQ3yx3ah0D+x7fiKAO41HWDffDy/1ezdo2k0yWeNgeVPlkj8iK4P4B69qmuWGsvqd9LdGOWMIZD0BBzXoPiSKGHwDrMduiJCumzhFQcAeU3SvK/2beNK13/rrH/JqAPadX1CLStHvNQmIEdvE0hz7DpXy94T+JuvJ8QLG5vtRnl06e6KNE5+XDHA/LINer/HnxEdJ8DjTonxPqMoiIHUIPmJ/MAfjXmfirwM2kfB/QNYiiK3cMvmTkdVD9/wKr+dAH0+rB0DKcqRkV85fGvxXr2j+Oxa6fqlxbwfZkYRxtgZJNez/D3XF8ReBtMv92ZPKCSezDjB/SvDPjPZLqPxesbJmIFxFDFkdssR/WgD3XwBrp8R+CtM1F33zNFtl/3hwa8t+O3jbUdI1fTtK0m+ltpEiaWYxHlgxwo/Q1p/Au+ewTX/AAxdNtlsLjzI1b+6cgn9F/OvLfGwl8V694q8RZP2axkSCP6kkAf+Ot+dAHvfwi1K81b4fWV1f3D3FwXcGRzyRXj66h4x8TfE7UtB07xFNahZZCm5vlCgjjp716t8D/8AkmNl/wBdH/mK8TtPENz4Y+Meq6laaa+oSrLKggQkEgkc8A+lAHog+GvxKBH/ABWi4/3j/hXfeJvD3iDU/BlrpmmauLTU4zH5l1yN+1SG7dya43SvjHrmoara2Ungm8gjmkCNKXY7M9+UH869g9KAPmDx1F488CS2KXniqWc3e4L5Tfdxjrke9dx4d8DfEFrjTtSufFgktG2TNCWJJUjOPu+9Zn7R3/H74c+sn81r27Qf+Rd0z/r0i/8AQBQBfXpS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUjHig1zvjTxAnh3w1dXmQZ3xFbp3aRuFA/wA9qAKnhwHUvFuu6weYkMdjA3qEBZj+bgfhXXHpWH4U01tJ8N2dtJnzinmTH1dvmP8AOr+o3yadp1zeTMBHDGXOTjoP60AWdwzhmAPYZ61yPj2y8PTaLJPrc1tasgPlXEsYZlPsM5NfO/ivxj4i8QXCa2ZmskkuGitI7d3ViBjOecfxDt3rHt7fXfGXia30W/1WSS5clUMzlgCBnH1oA3NO1zw1b3l3by3088M0gaIiyEUaSAFQ5HmNkc8j2FXXk09LZbbU7ZtStbUmC2vITmR9qq7Ag8bQX4OenaltfhBqUMVvFe2Ny8xZ5rh4iNsca8KgHdmOT9MV6R4R+E8I8HPFqglt7ueSSWGPdk2yuAAv+1woJoA8+h3XF1FLc2sa2sYeCGyV8IqskcyMGP8AETIc8VxOo6DrOqXs2oNB50lxKWlWPJeIk9GU88fyr6C034US+Z/xNb+J1XajLBGQkyqoVSQSSrYAGQe1YPxA14eE2XSPCiR21zCuLu+ePe655VAx6k596AL/AIa+Dnhvw7pC6vqqS6ncpCJijrhAcZwEHJ/E14Xr2qya74vd9TDWtt5+0QIMCGMdFA9cV08Xxd8eLFJpDXUUk75TzHi/eKT24OM/hWX4R+Hmu+Npb27iJQ25JZ5QcySZztFAHT+EtCt/F3iCxt/sEdroQuJIzbxrmT5AD+8Y9znnGK7f4y/D241XQ7CbQLNf+JepU20Qx8ntXoHhHwvB4esdxRfttwEkuWA48wIFbH5V0TnAJJAABJz2oA+LVsdBNi8E0GrQauqndEIw6hh7cGtPwP4pu9H1iCRQ73ULZBmvGjQr3Uggiur8U/Ea4sPFuo6po+i6QEeZrZZ542kkn2/KWHIGOPT868rv0uBrcovFVbgzZlRRwrE8jFAH21ouqQa1pcF9bshSVAcKwbafQkdxWNrx/s3xVomqjiOVjZTH0Dfcz/wIitDwtoml6LpEcWk24gtpQJNgJxk+melN8ZaS+seFb+2gJW6EZkgYfwyLyp/MCgDbU80+uf8ACPiGHxN4etNRjwHZcSx90cdQfxroKACiiigAooooAQ1826h/yc1D/wBfP/sjV9IvnAx1rhZvhfpU/jtfFrXV0LxXLiMEbM4I9M96AK3xa8EJ4u8KyywIDqNmDLCQOWA6r+Irnfgh45bUrB/DGqSkX1mD5Bc8ug6j6j/PSvY8DGPWvPH+EOjL4tHiOyvL2zuxN5uyIrsz3GMd6APNfiVHJ4Y+NWm69cI32OVkfzO3cN+QOa9zuPFOj22htqx1C3a2WIyAiQZbjgY9aPEvhTSfFmlmw1aASp1Rxw6H1Brzhf2ftH88K+tai1mDnyCw/n0/SgDmvgdYzap8Qda8RBCLXZIisR1Z3DD9FNR/HL/kp+g/7sX/AKMr3jQdA03w3pSadpdusMCenVj6k965vxZ8M9M8X69aave3NzHPahQqxkAHac85FAGZ8V/Bo8TeCku7VB/aNggmhZerLjlf6/hXh/w71C61T4v6Pd3h3XDShXJ6/LGVH6CvrZYlWEREZUDbg9xXAWHwg0LS/GK+I7ae5SdZjKsII2AkHPbPegDL/aE/5J3D/wBfqf8AoLVzc/gmLxL8A9HubWBF1CzieZGUYLje24E9+35V6x418IWfjXRU0u+nmiiWUShosZyAR3+tXfDuhW3h3w7a6NA7ywW6FA0nUgknn86APMfgb44/tTST4b1Bz9ssxmAseXj9PqDn9KzP2iLGcPoWpqjPBEzI5H8JyCM/Wuxtfg7o1h4t/wCEh0++vba484y+UjLs56jp0Ndtq+i2Gu6fNY6jbrPbyjDIf5/WgDL8K+J9J1bwtYXkN/bhRboJA0gBQgYIIPTpXiGoXMfi/wDaDt5tLJnggnjBkUcYRQCfzzXZT/s/aP57Gz1rUba3c/NCCD/hXbeD/h5oPguJhp0LvcuMPcTHLkfhwKAOX+Px/wCLbt/19R/1qb4S6DpN98L9KludMtJ5HEu53iUk/vG74zXW+MvCNl4z0M6XfTSxQl1k3REA5H1qx4Y8PW/hXw/a6NaSySQW+7a0mMnLE9vrQB4KlrH4T/aNj0/SiYrWWeNSgPGJFVmH5k1237Q//Ij23/XyK6PUvhlpep+OovFj3V1HexSRuI0K7CUAA7e1anjTwZY+N9JTT7+eaKJH3hoSAc/jQBjfC7UtOh+HGixy3tokggAKvKoIP512dve2V0xS2ureVgMkRuGwPwNeVj9nvQFGF1bVFHYCReP0rpvBfwy03wPqM97Z315cPLHsK3DAgD14FAHlvxg/5LDox7Dyj/48K7z4y+DW8QeF/wC07FM6jp48xCv3nQdRWx4k+GWleJ/E1rrl3dXKXFtt2pGRtOOeciu1KKybGwRjBBFAHyj8K9RudV+MNhe3b77iUuXbHU7TzX1kK870T4RaFofi0eIbGe5WUOzJDkbF3A8dM969DyeaAPnP4ef8nDar/wBdbn+TV9BXsskFjcTQoJJUjZkU/wATAZFcjo3wz0vRPGtx4ot7m6a6nd2aNiNg3Zz2z3ruSoIwRxQB5Z8PvivH4sv73T9Wit7CeIfIrScOM4PX+Vcf8fbTw7FZWNzYrbJqrTYb7OQNyYPJA98V3Hib4LeHdf1GTULeS4067dss1uflJ9cf4GqejfArw/YahHeajd3epyRnKrMw2E9sjr+tAGtpT3cnwLka93faDo027cef9U1cZ+zb/wAgvXf+usf8mr2W+02G+0W60v8A1cFxbvAdgxtVlK8fnXO+B/AGn+Are7h0+4uJlumVmMxGQQD0wPegDxb4s3F540+Kdt4e0sq8luPKQMfl34yxPXjitjVPBPxcv9Dm0291WxnsWjCtAHzkLyMfIPQV6NoHwt0nQ/F83iQXV1cXsu44lIwpbqRgemR+Nd4VGDQB4R+z3rbxnVvDVy2JYW86NfodrfrtrF+Kn/JddF+tt/6MNeq6V8LdK0XxpJ4lsrq6jmkZmaHI8vDDkdM9eaXxD8MNL8R+LbXxFcXV0lzbeXtSMjb8hyM5FAHmXxBvJvh78UrrWIEYwatYSIccAORjP4EL+dV5tDbSv2d57ycf6VqN0tw7Ec4JIH8j+dexeNvAGl+OYbRNReaNrZyyPEQDgjkHI74H5VPr3gyw1/wknhyaSWK0QIAYsbvl+tAHP/A//kmNl/10f+Yry/wPPDb/AB/1OSeWOOMNNlpGAHVfWvefCnhm18JaDFpFlLLJDGxYNLjdz9K4bVPgRoOqavc6jJqOoRzXEhkbYygDP4UAejHVtKJ/5CFln/rsv+NXI2DqHRlZTyCDwRXkn/DPugjkaxquR/00X/CvVNPsl07T7eyjcskESxqWPJwMZNAHh37R3/H74c+sn81r27Qf+Rd0z/r0i/8AQBXN+Nvh3pvjqWxk1C5uYjZlioiIGc465HtXW2dstlY29qhJSGNY1J6kAY/pQBPRRRQAUUUUAFFFFABRRRQAUUUUAFITilprdfpQBBeXkFjayXVzKscMQ3M7cAV5aq3XxA+IFpPNG0ekaYPtCxN/ETkIWHqeSB2x71b8VaqL/wAXS6Woa6a1jjFtYg/I8zFsvJ/soAD/AMCrtfDWiLoumeUzebdTMZbmYjmRzj9B0A9qANcDPX8qiu7OC+tXt7qNZYn+8rdDzmp9pBzmq2os66dctG7I6xswZRkggdqAOQvvCPgy48SRjULeE3rxA29qSVRApOWUDAyeM/QVLoXgbwta69c+ItNt43uJXIBBysTDg7R2Oc5r5v8AEPxC1rWNQia/YNd6fKwtrhAY5AM8hsHBzgdhXtXwIudVu/C9/dXw/wBGmvHkgz3J5b8Mn+dAHquAgwOnU+9YuqeMPD2jzeTfavaQykZ2s+T+leffGDXHs763sDeXdmr2jywy2smDvBxhlxyCMdx3rxWzRbewhutb0Oe5WdmT7UZjmRWAI7n5gf0PSgD67sdU0/VIFmsbuG4jYZDRuOn0qnqfhfRtYnhmvrJJHhZnTsNxAG446nAHWvl6yMmheIkkf+1NIsmt9zRQy8uwAPHXCnrznrXtOtfEp/DXwx0nV/IEt9fRgQRs24D3J78YoA6PT/hn4R0+8jvI9Hie8RjIJ5WZmLE5JIzj9K6e3tbazjMdrBFChJYiNQoyep4r5oh+I3xMvtXEIujBNJEJ47YWwKupGRjqeR713Xg/xB8TPE88a38FrpmnI2ZbowFXYeigsf5UAey7RnNRuisrKy5U8Y9a5/WfHvhnw+hF/q9ur4zsRtzH8q4TxJ8ZLaTQLltDguI7iVCLaWZQC59VXnj3NAHYXfw18L39/BdXWmpIsEQiigBIjTnOcDBJ9zRD8MfCS6tdanJpUc11cTGYmQkhWPJwPrXl3w1+MNpptpNa+K7u8e7mmLrcMoZNp/LH617rpup2eqWEd5Y3CXFvIMq6HIIoAtoixjCjAAwAO1DjK807NIRkUAeSL9o+Hfj++eJHk0XUibgwqM7O7Mo9Rzx3Ar1O1vIb21juLaVZYpBlXU5BFZniPQf7Z04LDKIL2A+baz4z5cg6cdx6juK47wpqaWHixNJCtZ/aY386wLZWKdeSY/8AZIB9qAPTaKKKACiiigAxmk2gUtFACYFBUGlooATaKNopaKAGlQaXaKWigBNoo2ilooAbsHfNAQD1p1FACbRRtFLRQAm0UBQKWigBMA9aNopaKAG7AfWl2ilooATFBUGlooATaKNopaKAE2gdKMClooAbtHvTqKKAE2ijaKWigBNtJsAz15p1FACBQMe1LRRQAm0UbRS0UAJtFG0UtFACbRRilooAQgEUm0U6igBNoFLRRQAUUUUAFFFFABRRRQAUUUUAFFFFABTGHzZp9NYZoA4rw5YW1r458R74YzeyNHOJiPmaNgRtB9AU/UV2iVyevxnSfFWk66p2wSbrG69MNgox+hXH/Aq61cHpQA6obhZjbSCDb5u07Q3QnHGfapqD0oA+Q/F/hvxre69fx3mjAmF3nJtoFVNp7hgASOO/vXS/CH4qxeHoV0DWztsSx8icD/VE9QfavoDXtFXXdIn06WaeFZVILwPsYfjXy34y+Hp8OzSQxwyxOhJ33F0riRfVQEXn8aAO3+Iaw33j4agt7HdxtaARwxuNqW4BLMxx1JPFcfpfhC+1yFI7a8ubnQFjea2dZFTZNgfI2f4uB+GKqaVbRxaHp+pmL7RFvaG7ZpTks3Cx4HYABvxq5bWtppmhf2VqEipKt+9ym+5MCSIVUBlwDkZU/SgCOPTb2G6li1eeSfXZ7MqLdyP3MQwBn1faBgccV21r4f0PxJ8M7LQZfEdql3A73GnyyHBCMx4Ydjng89q4vUIlk1e+1iEborpI4LORmP3wiqXVupAIIziuY8YWMWmarFbRp5UiQp50Ifcsb45A+vX8aAPVrOX4iaBbxQRTeHLhreMQx3jupkWMdBu44ArH1bUtWvnK+KPiJDAg622njc2PTjb/ADNeQ7nOBubn3rf0vwrNeFJL+6g0u1b/AJbXRIyPZepoA6RNb+HmjSFrfQtR1qbr519chBn12qv8zRbePtBiuprm48KrK8sZi3G7YFUPGFGMDjpxxWbrtv4Y0RYYdGI1twv+kXM4dUVvRApHH1zWPrFiEsbLUUs2tI7rd+6OdvBxlSecfWgDtYvEnw+aW8u5tFu5JJLRILa0Y7ljZV25DjHXHpXp37P9nqdr4Su3vFkjgluN0Cvx8uOSB2Gc14J4M8QW3hnxDFe3mnRahbj5ZIJFByPUEg4NfU3gnxvb+J4WiXTH050UGOJ3Vgy+2P8ACgDtAeSKWmrjoOgp3SgBD0ritdsra5+IHh0pEovYRLNJMvXygpGD7E4FdqWH41yXh5f7U8SatrjfNCD9jtT/ALCn5j+LDNAHXUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBn63p0eraPc2Mhx5qYVv7rDlW/AgGs/wlqr6jpZguflvrJvs9yv+0Oh/EYP51vPwM1yGvW02h6uPEtgheMqItQt0H+sj7Pj+8vP4GgDsaMiqlldwX1rHc28gkhkXcrCo9Uvo9M0q6vpCAkETOc+3b86ALT3EEbhHmjVz0VmAJrk/Hk/huDQ5ZNduLaEgHypTGkkin/ZDA/yr5u8WeINf8Q3EetXdw1vJPcNHaQxAqwA2++QOR+OazdM0jUvFXiyDRL7U5muHJjEszNLtYDOOT+FAG3p/irw/b6hdxyR3UsNwwCTOsaiNgCFkCIijoTxWgt1ZQWYguLQ6rYRM0VpMrKsgCIjPkkEbdznAxxzzWhbfBfUYIYIrnTpbiQFpbiVDtyo4WNB6nqSfUV6J4T+FFlb+EXttWhMd5cySSqI3P+jBgBtGevCjOaAPNYTJJepc3cUHl4aCO1GREkbRxyoB/tZc5NcdP4T13WLyW7WAz3E0xe4iiBLxljzkdMemK+gtN+FCRODqeovcBcIRFEFEyKMKJFbKkgADKhTxXL/EnXJNBKaL4XDaetsu2e6CFnJPKxIzZPf8KAOg8NfCbw14W0calc2MmpX6xCU/aBnDYztCjjr65r571zU7jWPGM1xrYdAbgh4FxmNM8IAOBgYFb0fxK8eBX0T+15JHdjFyil8nqN2M0eC/hhrHi9r25Zntxbk4aReZJM9Of50AdL4M0c+LvEdiLjT44NFiuXjNhDEFEexQR5j/AHmyDzk13vxg+Hl14k0ayl0OFPOsRtFuo2gp6LXc+F/DcHh/TgoVftkyo1zLj78gUAn9K3GZUQsTgAc0AfGBstJSCXT59E1dNaiUqwSYbVYeqbM/rVjwV4il0HVYpI4LCK7hfcLi7mlQj1BAbH5iuy8VfErWbXxRfanpEFjbRyTNBBL9nDSTovy79x5wcV5bqEVymuzJfMHujMfOIGfmz83H1oA+1vDus22vaPBqFrLFIsijd5T7lVu4z7Vqt061keHNK03StLjXS7VbaCUCTy1GOSOuKvX17b6fZyXd1IscMQ3MzdhQBjeLNTnsNLFtYEf2lfMLe1B7M3G4+y9fwrS0fTYdI0m2sIB+7gQIPXjqTWF4ft7jWdVPiW/iaMMpSxgbgxRn+Ij+8R/PFddQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUyRVKkFQQeCMdRT6CM9aAOLl03UPCtzLeaMjXWmStvn08HmM92i9PdfyxW1YarpXiSyYRNFPGeJIJBypHZlPfNbBUY6Vg6t4U07U5hdoJbS+HAu7VzHJ9Gx94exyKAGXPgzQLzVjqV1psE85RUXzFyqBST8o6A8/pTbDwVoWmeILjW7WwiW9nwC20YTA6j0NVxb+L9LH7q6tNXhU8LOnlS/99Lhf0px8XT23GqeH9RtsdXjTzkH4jFAHVAcUuBWDY+MdBv3EcOoxCT/AJ5yfK361tJIsi7kYMPUHIoAc3bArL1DQtN1S4gmvbOKd4dxjMgztJAGcevA5rUHP3sUuBQBzWn+BvDWm3Mdxb6PaidGLCZk3NknJOT35ro44Y4UCRRoijoFUAU4jHNNLHHX86AH4prIrKQwBB4xTXlSNdzuFHqxwKxL7xjoWnvsm1CIydNkfzkn8KAILvwN4dvdSivbjS7eVoovKjjZBsRc54XpRD4F8NQ6lcaj/ZFq9zcSea0kkYfn2z0qL/hL7i6ONM8P6jcns0q+Un/fRzTTb+LtV/1t3aaRCf4bZBLL/wB9Nlf0oA1tX17T9Eh8y8nCk8JGo3O57ADvWJBpmo+KLuO91uI22nRtvg04nlyOhl9fpWppHhPTdKn+1bZLu9I5u7pzJJ+BP3foMVu7R6UAMUAEDgYqSkwKWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooACMjBpNoNLRQAgUCjaOvf1paKAKN9o+m6nHsv7C2ul7CeJXx+YrCfwXb2chk0XUL7TJOyxzGSM+3lvlQPoBXV0hGaAOSOua3oBA12zS6s+n22zUgr7un9RXSWeoW+oWqXNpKk0TjKsjZBqcpkYPIPFcpqPh260m7fVfDIWOVzm4sekU/uB0VvcYz3oA6K+1K1020a6vZkhhXqznFc3/bWueIP+QHZiysz/wAvt6hyw/2E/qadp3h+61a8TVvEu2WcHMFj1itvw6M3ufwrq/L9MCgDlIvA9vcv5ut6jf6rKeWWWcpF/wB+0wv6V0NhpGnaXGEsLC2tVxjEMSp/IVb2+/FOoATaKNozmlooAQDFLRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSN0+lFFADB95R681JRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>ÄRAKIRI</i> <i>Ärisaladused välja jäetud</i></h1>",
+      "page": 119,
+      "polygon": [
+        [
+          330.884765625,
+          51.3916015625
+        ],
+        [
+          449.9567565917969,
+          51.3916015625
+        ],
+        [
+          449.9567565917969,
+          82.9677734375
+        ],
+        [
+          330.884765625,
+          82.9677734375
+        ]
+      ],
+      "bbox": [
+        330.884765625,
+        51.3916015625,
+        449.9567565917969,
+        82.9677734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.05078125,
+          171.4423828125
+        ],
+        [
+          148.41796875,
+          171.4423828125
+        ],
+        [
+          148.41796875,
+          185.4208984375
+        ],
+        [
+          89.05078125,
+          185.4208984375
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        171.4423828125,
+        148.41796875,
+        185.4208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ Meie: 18.04.2024 nr 5-5/2024-022</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.7439956665039,
+          173.56146240234375
+        ],
+        [
+          498.21874999999994,
+          173.56146240234375
+        ],
+        [
+          498.21874999999994,
+          195.2880859375
+        ],
+        [
+          90.7439956665039,
+          195.2880859375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        173.56146240234375,
+        498.21874999999994,
+        195.2880859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Kiri edastatud digitaalselt aadressil:</i> <i><a href=\"mailto:airika.aruksaar@tgrupp.ee\">airika.aruksaar@tgrupp.ee,</a></i><i><a href=\"mailto:kairi.neemoja@tgrupp.ee\"> kairi.neemoja@tgrupp.ee</a></i></p>",
+      "page": 119,
+      "polygon": [
+        [
+          88.46875,
+          231.056640625
+        ],
+        [
+          530.9920043945312,
+          231.056640625
+        ],
+        [
+          530.9920043945312,
+          243.6414794921875
+        ],
+        [
+          88.46875,
+          243.6414794921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        231.056640625,
+        530.9920043945312,
+        243.6414794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Teade järelevalvemenetluse lõpetamisest</b></h2>",
+      "page": 119,
+      "polygon": [
+        [
+          89.05078125,
+          301.771484375
+        ],
+        [
+          297.41796875,
+          301.771484375
+        ],
+        [
+          297.41796875,
+          314.47149658203125
+        ],
+        [
+          89.05078125,
+          314.47149658203125
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        301.771484375,
+        297.41796875,
+        314.47149658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Austatud proua Aruksaar</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.505859375,
+          344.2314453125
+        ],
+        [
+          210.6439971923828,
+          344.2314453125
+        ],
+        [
+          210.6439971923828,
+          356.2314453125
+        ],
+        [
+          90.505859375,
+          356.2314453125
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        344.2314453125,
+        210.6439971923828,
+        356.2314453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>1. Järelevalvemenetluse alustamine</b></h2>",
+      "page": 119,
+      "polygon": [
+        [
+          90.21484375,
+          390.7914733886719
+        ],
+        [
+          271.0680236816406,
+          390.7914733886719
+        ],
+        [
+          271.0680236816406,
+          402.7914733886719
+        ],
+        [
+          90.21484375,
+          402.7914733886719
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        390.7914733886719,
+        271.0680236816406,
+        402.7914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ (registrikood 10056042, varasema nimega osaühing Cargobus) peamisteks  tegevusaladeks on pakivedu (kaubamärk Cargobus), bussijaamade (Tallinn, Tartu, Rakvere,  Jõhvi, Narva Fama) opereerimine ning alates 01.06.2021 kaugliini bussipiletite  müügikeskkonna<a href=\"http://www.tpilet.ee/\"> www.tpilet.ee</a> haldamine ja arendamine. T grupp OÜ kuulub Mootor Grupp  AS-i (registrikood 10592935) ettevõtete kontserni, kuhu kuuluvad muuhulgas ka bussiettevõtja  AS Lux Express Estonia (registrikood 10092807) ja piletimüügitarkvara arendav Turnit OÜ  (registrikood 12851752).<sup>1</sup></p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          410.310546875
+        ],
+        [
+          547.2080078125,
+          410.310546875
+        ],
+        [
+          547.2080078125,
+          505.4114685058594
+        ],
+        [
+          89.6328125,
+          505.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        410.310546875,
+        547.2080078125,
+        505.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">18.06.2021 esitas Konkurentsiamet teabetaotluse T grupp OÜ-le, milles selgitas, et  Konkurentsiametile laekus teave, mille kohaselt võib T grupp OÜ poolt hallatav www.tpilet.ee  piletimüügikeskkonna ning vedajatega sõlmitud lepingute teatud tingimused olla konkurentsi  piiravad. Eelpool nimetatud teabetaotluse saatmisega 18.06.2021 alustas amet  järelevalvemenetluse nr 5-1/21-0012. Selle järelevalvemenetluse eesmärgiks oli kontrollida,  kas www.tpilet.ee piletimüügikeskkonna (edaspidi nimetatud ka tpilet müügikeskkond või  müügisüsteem) kasutamiseks vedajatega (edaspidi nimetatud ka bussiettevõtjad) sõlmitud  lepingute tingimused on kooskõlas konkurentsiseaduse (KonkS) §-ga 16. KonkS § 16 p 1  kohaselt on turgu valitsevas seisundis oleval ettevõtjal keelatud otsene või kaudne ostu- või  müügihinna või muude ebaõiglaste äritingimuste kehtestamine või rakendamine ning (p 3)  võrdväärsete kokkulepete korral erinevate tingimuste pakkumine või rakendamine erinevatele  äripartneritele, pannes mõne sellega ebasoodsasse konkurentsiolukorda.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          513.09375
+        ],
+        [
+          547.4400024414062,
+          513.09375
+        ],
+        [
+          547.4400024414062,
+          677.546875
+        ],
+        [
+          89.6328125,
+          677.546875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        513.09375,
+        547.4400024414062,
+        677.546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.05078125,
+          747.8505859375
+        ],
+        [
+          92.54296875,
+          747.8505859375
+        ],
+        [
+          92.54296875,
+          758.5400390625
+        ],
+        [
+          89.05078125,
+          758.5400390625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        747.8505859375,
+        92.54296875,
+        758.5400390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p>Tatari 39 / 10134 Tallinn / 667 2400 / info@konkurentsiamet.ee / Registrikood 70000303 <sup>1</sup> T grupp OÜ veebileht tpilet.ee/contact; E-äriregister päringud ja 2022 majandusaasta aruanded, 19.02.2024</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          768.4072265625
+        ],
+        [
+          525.5038452148438,
+          768.4072265625
+        ],
+        [
+          525.5038452148438,
+          799.5434112548828
+        ],
+        [
+          89.6328125,
+          799.5434112548828
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        768.4072265625,
+        525.5038452148438,
+        799.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2. Järelevalvemenetluses selgunud asjaolud</b></h2>",
+      "page": 182,
+      "polygon": [
+        [
+          90.7439956665039,
+          46.4580078125
+        ],
+        [
+          312.1199645996094,
+          46.4580078125
+        ],
+        [
+          312.1199645996094,
+          58.94146728515625
+        ],
+        [
+          90.7439956665039,
+          58.94146728515625
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        46.4580078125,
+        312.1199645996094,
+        58.94146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.1.Bussipiletite müügikeskkond</b><b><a href=\"http://www.tpilet.ee/\"> www.tpilet.ee</a></b></h2>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          66.603515625
+        ],
+        [
+          329.4296875,
+          66.603515625
+        ],
+        [
+          329.4296875,
+          78.74151611328125
+        ],
+        [
+          89.6328125,
+          78.74151611328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        66.603515625,
+        329.4296875,
+        78.74151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tpilet müügikeskkond on nii reisijate kui vedajate jaoks oluline müügikeskkond (veebipood)  Eestisiseste kaugliini bussipiletite ostmiseks ja müümiseks. Vedajatel võimaldab tpileti  müügikeskkond avalikustada reisijate jaoks enda opereeritavad liinid ehk reklaamida enda  äritegevust, korraldada kampaaniaid, määrata konkreetsele väljumisele müüdavate piletite arv  ja hind. Reisijatel on võimalik antud müügikeskkonna abil planeerida reis, valida erinevate  liinide ja väljumiste seast endale sobivaim lähte- ja sihtpunkt, väljumise aeg ning osta soovi  korral samast keskkonnast vastavale reisile pilet.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          85.9267578125
+        ],
+        [
+          547.2579956054688,
+          85.9267578125
+        ],
+        [
+          547.2579956054688,
+          181.3614501953125
+        ],
+        [
+          89.6328125,
+          181.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        85.9267578125,
+        547.2579956054688,
+        181.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ haldab tpileti müügikeskkonda alates 01.06.2021. Enne seda haldas tpileti  müügikeskkonda teine, samuti Mootor Grupp AS-i ettevõtete kontserni kuulunud, T grupp AS  (registrikood 10396045, varasema nimega Tallinna Bussijaam OÜ).<sup>2</sup></p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          187.4765625
+        ],
+        [
+          547.427978515625,
+          187.4765625
+        ],
+        [
+          547.427978515625,
+          228.761474609375
+        ],
+        [
+          89.6328125,
+          228.761474609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        187.4765625,
+        547.427978515625,
+        228.761474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.2.Bussiettevõtjate selgitused</b></h2>",
+      "page": 182,
+      "polygon": [
+        [
+          90.21484375,
+          256.3914794921875
+        ],
+        [
+          242.93600463867188,
+          256.3914794921875
+        ],
+        [
+          242.93600463867188,
+          268.4697265625
+        ],
+        [
+          90.21484375,
+          268.4697265625
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        256.3914794921875,
+        242.93600463867188,
+        268.4697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet saatis 15.02.2022 kuuele vedajale teabenõude, milles küsis muuhulgas kuidas  toimub vedajate jaoks tpilet keskkonnas andmete muutmine ning kuidas toimus andmete  muutmine kuni 31.05.2021, ehk enne seda, kui tpileti keskkonna haldamise võttis üle T grupp  OÜ. Samuti küsis amet vedajatelt, milliseid müügikanaleid vedajad piletite müümiseks  kasutavad. Vedajate 2022. aasta kevadel saadud vastustest selgus, et kõigi jaoks on  <a href=\"http://www.tpilet.ee/\">www.tpilet.ee</a> piletite müümiseks oluline müügikeskkond. 2021. a lõikes müüs üks vedaja ca  36%, kaks vedajat 60-65% ning kolm vedajat 80-95% piletitest tpileti keskkonna vahendusel.  Ehki vedajad kasutavad ka muid alternatiivseid müügikanaleid (oma veebilehelt, bussijaamade  kassad, vahetu müük bussis enne väljumist, Ridango müügikeskkond<a href=\"http://www.pilet.ee/\"> www.pilet.ee</a> ja FlixBusi  müügikeskkond www.flixbus.ee), leidsid vedajad, et reisijate eelistustest tulenevalt poleks neil  võimalik loobuda piletite müügis<a href=\"http://www.tpilet.ee/\">t www.tpilet.ee</a> müügikeskkonnas. Enamus vedajaid olid rahul  T grupp OÜ pakutud lepingutingimustega tpileti keskkonna kasutamiseks, sealhulgas nende  liinide kohta andmete nähtavaks tegemise tähtajaga. Üks vedaja leidis, et kampaaniate  korralduse tingimused ei ole sobilikud, kuna kampaaniaid peaks olema võimalik korraldada  jooksvalt.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          276.1915283203125
+        ],
+        [
+          547.384033203125,
+          276.1915283203125
+        ],
+        [
+          547.384033203125,
+          481.4114685058594
+        ],
+        [
+          89.6328125,
+          481.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        276.1915283203125,
+        547.384033203125,
+        481.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mootor Grupp AS-i ettevõtete kontserni mitte kuuluvate vedajate peamine etteheide oli see, et  kuni 31.05.2021 said nad soovi korral ise tpileti keskkonnas oma liinide andmeid muuta. See  tegi nende jaoks andmete muutmise (ennekõike kampaaniate korraldamise) kiireks ja lihtsaks.  Pärast seda, kui tpilet müügikeskkonna haldamise võttis üle T grupp OÜ, jäi selline võimalus  vaid AS-ile Lux Express Estonia.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          489.2114562988281
+        ],
+        [
+          547.1900634765625,
+          489.2114562988281
+        ],
+        [
+          547.1900634765625,
+          556.4114685058594
+        ],
+        [
+          89.6328125,
+          556.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        489.2114562988281,
+        547.1900634765625,
+        556.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks tõi üks vedaja puudusena välja asjaolu, et pärast seda kui tpileti keskkonna haldamise  võttis üle T grupp OÜ, pole müügikeskkonnas võimalik kasutada dünaamilist hinnastamist. See  tähendab võimalust vedajal seada piletite hind sõltuvusse nõudlusest. Antud vedaja kinnitas  ametile hiljem järelevalvemenetluse ajal, et T grupp OÜ võimaldab kasutada dünaamilist  hinnastamist.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          562.8408203125
+        ],
+        [
+          547.281982421875,
+          562.8408203125
+        ],
+        [
+          547.281982421875,
+          631.4414672851562
+        ],
+        [
+          89.6328125,
+          631.4414672851562
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        562.8408203125,
+        547.281982421875,
+        631.4414672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>2.3.T grupp OÜ</b><b><sup>3</sup></b> <b>ja vedajate vahel tpilet keskkonna kasutamiseks sõlmitud lepingud</b></h4>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          657.4013671875
+        ],
+        [
+          520.8379516601562,
+          657.4013671875
+        ],
+        [
+          520.8379516601562,
+          671.3798828125
+        ],
+        [
+          89.6328125,
+          671.3798828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        657.4013671875,
+        520.8379516601562,
+        671.3798828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Amet tutvus valiku vedajate ja T grupp OÜ vahel tpileti keskkonnas piletite müümiseks  sõlmitud lepingute (edaspidi nimetatud lepingud) tingimustega<sup>4</sup> . Kokkuvõtvalt on vedajatega</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.6328125,
+          677.9580078125
+        ],
+        [
+          547.342041015625,
+          677.9580078125
+        ],
+        [
+          547.342041015625,
+          704.5214538574219
+        ],
+        [
+          89.6328125,
+          704.5214538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        677.9580078125,
+        547.342041015625,
+        704.5214538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 182,
+      "polygon": [
+        [
+          525.239990234375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          525.239990234375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        525.239990234375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> T grupp OÜ kiri, 28.06.2021</p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.05078125,
+          748.6728515625
+        ],
+        [
+          213.7621307373047,
+          748.6728515625
+        ],
+        [
+          213.7621307373047,
+          759.4394149780273
+        ],
+        [
+          89.05078125,
+          759.4394149780273
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        748.6728515625,
+        213.7621307373047,
+        759.4394149780273
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Alapunktis 2.3. kirjeldatud lepingud sõlmiti ajal, mil T grupp OÜ ärinimi oli osaühing Cargobus, seetõttu on  lepingutes viidatud ka vastavalt nimele Cargobus</p>",
+      "page": 182,
+      "polygon": [
+        [
+          90.7439956665039,
+          758.5400390625
+        ],
+        [
+          546.4566040039062,
+          758.5400390625
+        ],
+        [
+          546.4566040039062,
+          782.4794082641602
+        ],
+        [
+          90.7439956665039,
+          782.4794082641602
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        758.5400390625,
+        546.4566040039062,
+        782.4794082641602
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> T grupp OÜ 21.06.2021 kirja lisad</p>",
+      "page": 182,
+      "polygon": [
+        [
+          87.595703125,
+          781.5634765625
+        ],
+        [
+          234.35940551757812,
+          781.5634765625
+        ],
+        [
+          234.35940551757812,
+          793.9994125366211
+        ],
+        [
+          87.595703125,
+          793.9994125366211
+        ]
+      ],
+      "bbox": [
+        87.595703125,
+        781.5634765625,
+        234.35940551757812,
+        793.9994125366211
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sõlmitud lepingud samaväärsetel tingimustel. Vedajatega sõlmitud lepingud sisaldavad tpileti  keskkonnas andmete nähtavaks tegemise osas järgmiseid punkte:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          45.6357421875
+        ],
+        [
+          547.1400146484375,
+          45.6357421875
+        ],
+        [
+          547.1400146484375,
+          72.74151611328125
+        ],
+        [
+          89.6328125,
+          72.74151611328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        45.6357421875,
+        547.1400146484375,
+        72.74151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/171",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>\"4.5. Partner kohustub edastama Cargobus'ile piletite müümiseks vajaliku teabe hiljemalt </i> <i>kolm (3) tööpäeva enne piletimüügi algust. Cargobus kohustub selle ajavahemiku jooksul </i> <i>Partner'ile vastama ja andma tagasisidet edastatud teabe kohta.</i></li><li block-type=\"ListItem\"><i>4.6. Juhul, kui Partner ei järgi punktis 4.5 sätestatud tähtaega, kohustub ta tasuma </i> <i>Cargobus'ile leppetrahvi vastavalt Lisas 1 sätestatule.\";</i></li><li block-type=\"ListItem\"><i>\"4.9.2. Kampaania hakkab keskkonnas kehtima mitte varem kui 7 päeva pärast kampaania </i> <i>tingimuste ja muu kampaaniaga seotud info edastamist Cargobus'ile.\"</i></li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          80.56146240234375
+        ],
+        [
+          547.39599609375,
+          80.56146240234375
+        ],
+        [
+          547.39599609375,
+          187.3614501953125
+        ],
+        [
+          89.6328125,
+          187.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        80.56146240234375,
+        547.39599609375,
+        187.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vedajatega sõlmitud lepingute ainuke erinevus on teenuste hinnas. Kõik vedajad tasuvad T  grupp OÜ-le tpilet keskkonnas piletite müümise eest võrdset kuutasu ning müüdud piletite  netokäibest makstavat nö provisjonitasu. Nimetatud provisjonitasu on AS-i Lux Express  Estonia puhul teiste vedajate suhtes kehtiva provisjonitasuga võrreldes väiksem (AS Lux  Express Estonia tasu […]% piletihinnast, teiste vedajate vastav tasu […]% piletihinnast).</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          195.1614990234375
+        ],
+        [
+          547.4639892578125,
+          195.1614990234375
+        ],
+        [
+          547.4639892578125,
+          262.3614501953125
+        ],
+        [
+          89.6328125,
+          262.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        195.1614990234375,
+        547.4639892578125,
+        262.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kõigi vedajatega sõlmitud lepingutes sisaldub punkt 4.7.: \"Partneril on õigus sama liini pileti  tavahinnakirja muuta pärast kolme kuu möödumist sisestamise või viimase muutmise hetkest\".  Kõigi vedajatega sõlmitud lepingus sisaldub samaväärne tunnitasu lepingu tingimuste väliseks  andmete muutmiseks.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          270.1915283203125
+        ],
+        [
+          547.3060302734375,
+          270.1915283203125
+        ],
+        [
+          547.3060302734375,
+          323.59149169921875
+        ],
+        [
+          89.6328125,
+          323.59149169921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        270.1915283203125,
+        547.3060302734375,
+        323.59149169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ selgituse<sup>5</sup> kohaselt saavad nad lepingu punkti 4.9.2. sõnastusest erinevalt aru ning  kohaldavad lepingu punkti 4.9.2. selliselt, et kampaania hakkab keskkonnas kehtima hiljemalt  7 päeva jooksul pärast kampaania tingimuste ja muu kampaaniaga seotud info edastamist T  grupp OÜ-le.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          330.0187683105469
+        ],
+        [
+          547.2860107421875,
+          330.0187683105469
+        ],
+        [
+          547.2860107421875,
+          385.642578125
+        ],
+        [
+          89.6328125,
+          385.642578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        330.0187683105469,
+        547.2860107421875,
+        385.642578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.4. T grupp OÜ ja Turnit OÜ selgitused</b></h2>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          411.1328125
+        ],
+        [
+          299.0639953613281,
+          411.1328125
+        ],
+        [
+          299.0639953613281,
+          424.3914794921875
+        ],
+        [
+          89.6328125,
+          424.3914794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        411.1328125,
+        299.0639953613281,
+        424.3914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Turnit OÜ selgitas<sup>6</sup> , et on loonud TurntiRide tarkvara, mis on suunatud keskmise ja suurema  suurusega vedajale. TurnitRide'i kasutamine koosneb kahest komponendist. Esmalt on vajalik  juurutamise protsess, mille käigus viiakse senised andmed vedajate liinide kohta üle TurnitRide  programmi. Juurutamine on aeganõudev ja keeruline. Samas sõltub edasine TurnitRide  kasutamine sellest, kas senised andmed liinide kohta on programmi korrektselt sisestatud. Teine  oluline komponent on programm ise, mida kasutades saab vedaja ise igapäevase kasutamise  käigus muuta liinide infot, piletihindasid jms. Kuna TurnitRide on mõeldud vedajatele, ei näe  see programm ette andmete importimise võimalust (andmete programmi saamiseks ongi vajalik  juurutamiseprotsess), vaid üksnes andmete eksportimist – liini info ja hindade eksportimine  näiteks erinevatele piletimüügiagentidele.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          430.8187561035156
+        ],
+        [
+          547.384033203125,
+          430.8187561035156
+        ],
+        [
+          547.384033203125,
+          568.4114685058594
+        ],
+        [
+          89.6328125,
+          568.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        430.8187561035156,
+        547.384033203125,
+        568.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuivõrd tpilet müügikeskkond koondab kokkuvõtvalt erinevate vedajate liinide infot ning  toimib paljuski samal põhimõttel nagu mõne vedaja piletimüügisüsteem, on tpilet  müügikeskkonnas kasutatud TurnitRide tarkvara elemente.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          575.5859375
+        ],
+        [
+          547.115966796875,
+          575.5859375
+        ],
+        [
+          547.115966796875,
+          615.8114624023438
+        ],
+        [
+          89.6328125,
+          615.8114624023438
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        575.5859375,
+        547.115966796875,
+        615.8114624023438
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">TurntRide'i kasutavad vedajad litsentsilepingu alusel ning maksavad selle eest tasu.  Litsentsilepingu tingimused keelavad anda tarkvara kolmandatele isikutele kasutada. Eestis  kasutavad TurnitRide tarkvara AS Lux Express Estonia ja T grupp OÜ.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          623.6414642333984
+        ],
+        [
+          547.3060302734375,
+          623.6414642333984
+        ],
+        [
+          547.3060302734375,
+          663.9794921875
+        ],
+        [
+          89.6328125,
+          663.9794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        623.6414642333984,
+        547.3060302734375,
+        663.9794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Olukord, kus vedajad, kes TurnitRide tarkvara litsentsilepingu alusel ei kasuta, said ise tpilet  keskkonnas andmeid muuta, sai toimuda vaid viisil, et neile anti TurnitRide litsentsi kasutaja  poolt tarkvara kasutaja ehk administraatori paroolid. Selline tegevus on litsentsitingimuste  kohaselt keelatud ning oleks võinud tuua kaasa tõsiseid tagajärgi. Selliselt tpilet keskkonda</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          670.5576171875
+        ],
+        [
+          547.2579956054688,
+          670.5576171875
+        ],
+        [
+          547.2579956054688,
+          724.3214645385742
+        ],
+        [
+          89.6328125,
+          724.3214645385742
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        670.5576171875,
+        547.2579956054688,
+        724.3214645385742
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 171,
+      "polygon": [
+        [
+          90.505859375,
+          747.8505859375
+        ],
+        [
+          93.416015625,
+          747.8505859375
+        ],
+        [
+          93.416015625,
+          758.5400390625
+        ],
+        [
+          90.505859375,
+          758.5400390625
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        747.8505859375,
+        93.416015625,
+        758.5400390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.24609375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> T grupp OÜ kiri, 28.06.2021</p>",
+      "page": 171,
+      "polygon": [
+        [
+          87.88671875,
+          771.8403930664062
+        ],
+        [
+          211.22230529785156,
+          771.8403930664062
+        ],
+        [
+          211.22230529785156,
+          784.0302734375
+        ],
+        [
+          87.88671875,
+          784.0302734375
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        771.8403930664062,
+        211.22230529785156,
+        784.0302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/14",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> Turnit OÜ 25.03.2022 seletuste andmise protokoll</p>",
+      "page": 171,
+      "polygon": [
+        [
+          90.7439956665039,
+          783.3603858947754
+        ],
+        [
+          297.1372985839844,
+          783.3603858947754
+        ],
+        [
+          297.1372985839844,
+          793.9994125366211
+        ],
+        [
+          90.7439956665039,
+          793.9994125366211
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        783.3603858947754,
+        297.1372985839844,
+        793.9994125366211
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">pääsenud vedaja oleks saanud näiteks kustuda mõne teise vedaja liinid programmist.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          88.46875,
+          46.94146728515625
+        ],
+        [
+          496.2239990234375,
+          46.94146728515625
+        ],
+        [
+          496.2239990234375,
+          58.94146728515625
+        ],
+        [
+          88.46875,
+          58.94146728515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.94146728515625,
+        496.2239990234375,
+        58.94146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ selgitas<sup>7</sup> , et alates 01.06.2021, mil nemad võtsid üle tpilet piletimüügikeskkonna  haldamise, toimub vedajate andmete muutmine selles keskkonnas kahel viisil. Kui vedaja, kes  ei kasuta TurnitRide tarkvara, soovib oma andmeid muuta (näiteks avada uue liini, lisada või  ära jätta peatuse, muuta piletihinda) peavad nad muudatuste soovist andma e-maili teel teada T  grupp OÜ-le, kelle töötaja vastava muudatuse müügikeskkonda sisestab. T grupp OÜ selgituse  kohaselt on nende esmaseks prioriteediks teha tpilet müügikeskkonnas nähtavaks andmed uute  liinide kohta, seejärel muuta püsivalt olemasolevate liinide andmeid. Nimetatud andmed teeb  T grupp OÜ tpilet müügikeskkonnas nähtavaks hiljemalt 3 tööpäeva jooksul. Kampaaniad teeb  T grupp OÜ tpilet müügikeskkonnas nähtavaks hiljemalt 7 tööpäeva jooksul.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          63.7255859375
+        ],
+        [
+          547.39599609375,
+          63.7255859375
+        ],
+        [
+          547.39599609375,
+          189.5322265625
+        ],
+        [
+          89.6328125,
+          189.5322265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        63.7255859375,
+        547.39599609375,
+        189.5322265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Uute liinide avamiseks või mõne olemasoleva liini andmete muutmiseks teeb TurnitRide  tarkvara kasutav AS Lux Express Estonia vastavad muudatused enda kasutavas TurnitRide  tarkvaras. Kuivõrd ka tpilet müügikeskkond kasutab sama tarkvara, siis puudub T grupp OÜ-l  tehniline vajadus omaltpoolt täiendavalt sisestada AS-i Lux Express Estonia liinide muudatusi  tpilet müügikeskkonda, vaid need AS Lux Express Estonia poolt tehtud muudatused muutuvad  tpilet müügikeskkonnas nähtavaks automaatselt.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          195.69921875
+        ],
+        [
+          547.4400024414062,
+          195.69921875
+        ],
+        [
+          547.4400024414062,
+          277.99151611328125
+        ],
+        [
+          89.6328125,
+          277.99151611328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        195.69921875,
+        547.4400024414062,
+        277.99151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuivõrd AS Lux Express Estonia liinide puhul ei tee T grupp OÜ liinide andmete ja võimalike  muudatuste tipilet müügikeskkonnas nähtavaks tegemiseks omapoolseid toiminguid  (andmesisestust), näeb AS-iga Lux Express Estonia sõlmitud leping ette teiste vedajatega  võrreldes madalama provisjonitasu tpilet müügikeskkonna kaudu müüdud piletitelt.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          285.79150390625
+        ],
+        [
+          547.4439697265625,
+          285.79150390625
+        ],
+        [
+          547.4439697265625,
+          339.19146728515625
+        ],
+        [
+          89.6328125,
+          339.19146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        285.79150390625,
+        547.4439697265625,
+        339.19146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.5. Eksperdi hinnang</b></h2>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          366.7914733886719
+        ],
+        [
+          203.45999145507812,
+          366.7914733886719
+        ],
+        [
+          203.45999145507812,
+          378.7914733886719
+        ],
+        [
+          89.6328125,
+          378.7914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        366.7914733886719,
+        203.45999145507812,
+        378.7914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelmises alapunktis (2.4.) toodud Turnit OÜ ja T grupp OÜ selgituste kohaselt peavad vedajad,  kes ei kasuta Turnit OÜ arendatud TurnitRide tarkvara, saatma tpilet keskkonnas avaldavate  liinide kohta andmed T grupp OÜ-le. T grupp OÜ töötaja teeb saadud andmed T grupp OÜ  poolt kasutatava TurnitRide tarkvara kaudu tpilet müügikeskkonnas nähtavaks.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          385.642578125
+        ],
+        [
+          547.258056640625,
+          385.642578125
+        ],
+        [
+          547.258056640625,
+          439.9914855957031
+        ],
+        [
+          89.6328125,
+          439.9914855957031
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        385.642578125,
+        547.258056640625,
+        439.9914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Amet tellis 20.01.2023 Tallinna Tehnikaülikoolilt (edaspidi ekspert) infotehnoloogia-alase  analüüsi, et välja selgitada kas tpilet müügikeskkonda on võimalik ühildada andmevahetuse  lihtsustamiseks vedajate süsteemidega ning milline oleks lihtsaim ja vähemkulukaim võimalus  müügikeskkonna ja vedaja süsteemide ühildamiseks.</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          446.9013671875
+        ],
+        [
+          547.39599609375,
+          446.9013671875
+        ],
+        [
+          547.39599609375,
+          501.2114562988281
+        ],
+        [
+          89.6328125,
+          501.2114562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        446.9013671875,
+        547.39599609375,
+        501.2114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2023. aasta sügisel valminud analüüsi kokkuvõttes<sup>8</sup> leidis ekspert, et kõige lihtsam ja  vähemkulukam on TurnitRide tarkvara mittekasutavatel vedajatel jätkata andmevahetuses  senise korraldusega (vedajad esitavad oma andmed e-posti teel T grupp OÜ-le ning viimane  teeb soovitud andmed/muudatused tpilet müügikeskkonnas nähtavaks). Tehnoloogilises vaates  ei diskrimineeri olemasolev kasutatav lahendus TurnitRide ja selle edasi arendamise kavad  erinevaid vedajaid, kuna vedajatel on võimalik müüa pileteid tpilet müügikeskkonnas ning  vedajatel on kiiremaks andmevahetuseks võimalik samuti võtta kasutusele TurnitRide tarkvara.  Samas pole nimetatud tarkvara kasutamine, mis võimaldaks pakkuda tpilet müügikeskkonnas  dünaamilist täisfunktsionaalsust, majanduslikult kõigile vedajatele jõukohane ja äriliselt  otstarbekas. TurnitRide süsteem on liidestumiseks keerukas. Standardlahendusele OSDM<sup>9</sup> üleminek on Turnit OÜ poolt kavandatud 2024. aastal ning ka siis nõuab süsteemiga  liidestumine vedajatelt keeruka andmebaasilahenduse ja vastavat äriloogikat toetava ITsüsteemi omamist või lahenduse rentimist või andmete majutust TurnitRide keskkonnas. See  aga ei pruugi vedajatele sobida esmalt ärisaladuse kaitse seisukohalt, kuna üks vedaja (AS Lux  Express Estonia) kuulub samasse kontserni T grupp OÜ ja Turnit OÜ-ga. Teiseks võib</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.6328125,
+          507.6387939453125
+        ],
+        [
+          547.384033203125,
+          507.6387939453125
+        ],
+        [
+          547.384033203125,
+          714.1214599609375
+        ],
+        [
+          89.6328125,
+          714.1214599609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        507.6387939453125,
+        547.384033203125,
+        714.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4 (6)</p>",
+      "page": 176,
+      "polygon": [
+        [
+          525.239990234375,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          805.5434112548828
+        ],
+        [
+          525.239990234375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        525.239990234375,
+        794.7197265625,
+        544.78125,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> T grupp OÜ kiri, 28.06.2021</p>",
+      "page": 176,
+      "polygon": [
+        [
+          88.177734375,
+          760.3203964233398
+        ],
+        [
+          211.32896423339844,
+          760.3203964233398
+        ],
+        [
+          211.32896423339844,
+          770.9594116210938
+        ],
+        [
+          88.177734375,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        88.177734375,
+        760.3203964233398,
+        211.32896423339844,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>8</sup> Tallinna Tehnikaülikooli \"Piletimüügisüsteemi avatuse ja integratsioonivõimaluste analüüs\" 20.09.2023</p>",
+      "page": 176,
+      "polygon": [
+        [
+          90.7439956665039,
+          771.8403930664062
+        ],
+        [
+          511.3771667480469,
+          771.8403930664062
+        ],
+        [
+          511.3771667480469,
+          784.0302734375
+        ],
+        [
+          90.7439956665039,
+          784.0302734375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        771.8403930664062,
+        511.3771667480469,
+        784.0302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>9</sup> Standardlahenduse OSDM tutvustus<a href=\"https://osdm.io/\"> https://osdm.io/,</a> 26.03.2024</p>",
+      "page": 176,
+      "polygon": [
+        [
+          89.05078125,
+          783.3603858947754
+        ],
+        [
+          357.1591796875,
+          783.3603858947754
+        ],
+        [
+          357.1591796875,
+          793.9994125366211
+        ],
+        [
+          89.05078125,
+          793.9994125366211
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        783.3603858947754,
+        357.1591796875,
+        793.9994125366211
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">arvestades Eesti vedajate väiksust, olla terviksüsteemiga liitumine ja soovitud funktsionaalsuste  kasutamine vedaja jaoks ebamõistlikult kallis. Kuna T grupp OÜ kasutab samas osaliselt ka  kolmanda osapoole arendatud lahendust, mis on integreeritud TurnitRide lahendusega, võib ühe  lahendusena kaaluda ka seda, et T grupp OÜ oma tpileti müügikeskkonna kaudu pakub  vedajatele üldisest lahendusest lihtsamat lahendust, nt Excel tabelite automaatset teisendamist  süsteemi. Või luuakse täielikult uus ja sõltumatu piletimüügiagendiga süsteem. Samas,  arvestades piletimüügiprotsessi ja hinnastamise enda keerukust, ei pruugi sellise süsteemi  väljaarendamine olla oluliselt odavam ja kommertstingimustel ei pruugi leiduda huvilist, kes  sellise süsteemiga turule tuleks.</p>",
+      "page": 168,
+      "polygon": [
+        [
+          88.46875,
+          46.046875
+        ],
+        [
+          547.4080200195312,
+          46.046875
+        ],
+        [
+          547.4080200195312,
+          169.38671875
+        ],
+        [
+          88.46875,
+          169.38671875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.046875,
+        547.4080200195312,
+        169.38671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.</b> <b>Konkurentsiameti hinnang</b></h2>",
+      "page": 168,
+      "polygon": [
+        [
+          89.05078125,
+          196.96148681640625
+        ],
+        [
+          247.00999450683594,
+          196.96148681640625
+        ],
+        [
+          247.00999450683594,
+          208.96148681640625
+        ],
+        [
+          89.05078125,
+          208.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        196.96148681640625,
+        247.00999450683594,
+        208.96148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.1. Kaubaturg </b></h2>",
+      "page": 168,
+      "polygon": [
+        [
+          90.7439956665039,
+          216.6669921875
+        ],
+        [
+          171.47999572753906,
+          216.6669921875
+        ],
+        [
+          171.47999572753906,
+          228.761474609375
+        ],
+        [
+          90.7439956665039,
+          228.761474609375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        216.6669921875,
+        171.47999572753906,
+        228.761474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 3 lg 1 kohaselt on kaubaturg hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja  kasutustingimuste ning tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel  vahetatavate või asendatavate kaupade käibimise ala, mis hõlmab muu hulgas kogu Eesti  territooriumi või selle osa.</p>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          235.990234375
+        ],
+        [
+          547.4639892578125,
+          235.990234375
+        ],
+        [
+          547.4639892578125,
+          289.99151611328125
+        ],
+        [
+          89.6328125,
+          289.99151611328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        235.990234375,
+        547.4639892578125,
+        289.99151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tpilet müügikeskkond (veebipood) võimaldab bussiettevõtjatel reklaamida oma äritegevust  ehk teha reisijatele teatavaks info oma Eestisiseste kaugliinide kohta. Reisijatel on võimalik  antud müügikeskkonnast leida infot erinevate liinide kohta, kavandada soovitud reisi ning osta  soovi korral vajalikule reisile pilet. Pileteid on võimalik lisaks veebipoodidele osta ka muudest  müügikanalitest, näiteks bussijaamade kassast, piletiautomaadist, vahetult bussijuhilt.  Arvestades punktis 2.2. toodud bussiettevõtjate vastuseid, mille kohaselt müüsid vastanud  vedajad 36-95% piletitest tpilet.ee müügikeskkonnas, pole ametil põhjust kahelda, et eelpool  kirjeldatud alternatiivsed müügikanalid ei asenda ostja (reisija) vaates kaugliini piletite ostmist  veebipoest ning käsitleb antud menetluses kaubaturuna Eestisiseste kaugliini bussipiletite  veebipoodi (müügikeskkonda).</p>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          297.2490234375
+        ],
+        [
+          547.39599609375,
+          297.2490234375
+        ],
+        [
+          547.39599609375,
+          433.9914855957031
+        ],
+        [
+          89.6328125,
+          433.9914855957031
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        297.2490234375,
+        547.39599609375,
+        433.9914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.2. T grupp OÜ positsioon kaubaturul</b></h2>",
+      "page": 168,
+      "polygon": [
+        [
+          90.21484375,
+          460.8798828125
+        ],
+        [
+          290.06396484375,
+          460.8798828125
+        ],
+        [
+          290.06396484375,
+          473.6114501953125
+        ],
+        [
+          90.21484375,
+          473.6114501953125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        460.8798828125,
+        290.06396484375,
+        473.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit ettevõtja või mitu samal kaubaturul  tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul tegutseda arvestataval  määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu valitseva seisundi omamist  eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale ettevõtjale kuulub  kaubaturul vähemalt 40 protsenti käibest.</p>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          481.4114685058594
+        ],
+        [
+          547.3059692382812,
+          481.4114685058594
+        ],
+        [
+          547.3059692382812,
+          549.6845703125
+        ],
+        [
+          89.6328125,
+          549.6845703125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        481.4114685058594,
+        547.3059692382812,
+        549.6845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bussiettevõtjate selgituste (punkt 2.2.) kohaselt müüsid nad 2021. aastal 36-95% oma piletitest  T grupp OÜ poolt hallatavas tpilet.ee müügikeskkonnas. Sõltumata sellest, kui suure osa oma  piletitest müüs konkreetne vedaja tpilet.ee müügikeskkonnas, leidsid kõik ametile selgitust  andnud vedajad, et tulenevalt ostjate (reisijate) eelistustest poleks neil võimalik tpilet  müügikeskkonnas oma piletite müümisest loobuda. Eelpool nimetatud vedajate hinnang ning  esitatud piletimüügistatistika viitavad, et T grupp OÜ võib omada Eestisiseste kaugliini  bussipiletite müügikeskkonna turul turgu valitsevat seisundit. Arvestades, et T grupp OÜ on  lõpetanud järelevalvemenetluse aluseks oleva tegevuse, ei pea amet vajalikuks põhjalikumalt  hinnata T grupp OÜ positsiooni kaubaturul.</p>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          556.4114685058594
+        ],
+        [
+          547.39599609375,
+          556.4114685058594
+        ],
+        [
+          547.39599609375,
+          679.19140625
+        ],
+        [
+          89.6328125,
+          679.19140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        556.4114685058594,
+        547.39599609375,
+        679.19140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.3. Turgu valitsevas seisundis oleva ettevõtja kohustused ja hinnang T grupp OÜ </b> <b>tegevusele tpilet müügikeskkonna haldamisel</b></h2>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          703.859375
+        ],
+        [
+          547.0560302734375,
+          703.859375
+        ],
+        [
+          547.0560302734375,
+          732.121467590332
+        ],
+        [
+          89.6328125,
+          732.121467590332
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        703.859375,
+        547.0560302734375,
+        732.121467590332
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">KonkS § 16 p 1 kohaselt on turgu valitsevas seisundis oleval ettevõtjal keelatud otsene või  kaudne ostu- või müügihinna või muude ebaõiglaste äritingimuste kehtestamine või  rakendamine ning (p 3) võrdväärsete kokkulepete korral erinevate tingimuste pakkumine või  rakendamine erinevatele äripartneritele, pannes mõne sellega ebasoodsasse</p>",
+      "page": 168,
+      "polygon": [
+        [
+          89.6328125,
+          739.9174652099609
+        ],
+        [
+          547.384033203125,
+          739.9174652099609
+        ],
+        [
+          547.384033203125,
+          793.3174629211426
+        ],
+        [
+          89.6328125,
+          793.3174629211426
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        739.9174652099609,
+        547.384033203125,
+        793.3174629211426
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 168,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.24609375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">konkurentsiolukorda. KonkS § 16 p 1 kohase turgu valitseva seisundi kuritarvitamise  kindlaksmääramisel tuleb tuvastada kumulatiivselt järgmised asjaolud (i) ettevõtja on  asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja (KonkS § 13), (ii) ettevõtja on  kohaldanud otseselt või kaudselt ebaõiglasi tingimusi ja (iii) ettevõtja kui kaubaturul turgu  valitsevat seisundit omava ettevõtja tegevus võis kahjustada konkurentsi.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          46.046875
+        ],
+        [
+          547.1659545898438,
+          46.046875
+        ],
+        [
+          547.1659545898438,
+          114.1614990234375
+        ],
+        [
+          89.6328125,
+          114.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.046875,
+        547.1659545898438,
+        114.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletite müümisel on bussiettevõtjate huvi teha oma liinide info ning neis toimuvad muudatused  reisijatele nähtavaks võimalikult kiiresti ning müüa oma pileteid veebipoes võimalikult soodsa  teenustasu eest. Olukorras, kus T grupp OÜ on tpilet.ee müügikeskkonna haldamisel  kehtestanud ühele vedajale soodsama teenustasu kui teistele ning soodsamat teenustasu maksev  vedaja saab andmeid oma liinide kohta muuta lihtsamalt ja kiiremini kui teised vedajad, on alust  kahtlustada, et T grupp OÜ on tegevuses rikkunud eelpool kirjeldatud KonkS põhimõtteid.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          121.2841796875
+        ],
+        [
+          547.3720092773438,
+          121.2841796875
+        ],
+        [
+          547.3720092773438,
+          202.96148681640625
+        ],
+        [
+          89.6328125,
+          202.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        121.2841796875,
+        547.3720092773438,
+        202.96148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Menetluses kogutud andmete põhjal veendus amet, et vedajate liinide kohta tpilet  müügikeskkonnas andmemuudatuste nähtavaks tegemise aeg ja viis erineb objektiivsetel  põhjustel. AS Lux Express Estonia kasutab TurnitRide tarkvara ja haldab selle abil ise oma  liinide infot. TurnitRide tarkvaral põhineb ka tpilet müügikeskkond, millest tulenevalt on AS  Lux Express Estonia poolt enda liinides tehtud andmemuudatused automaatselt nähtavad tpilet  müügikeskkonnas. Seega puudub T grupp OÜ-l vajadus teha AS Lux Express liinide andmete  muutmiseks omapoolseid tegevusi. Teiste vedajate puhul peab T grupp OÜ vedajatelt saadud  andmete alusel vajalikud muudatused ise müügikeskkonda sisestama. Sellest tulenevalt on  ameti hinnangul õigustatud vedajatelt erineva teenustasu võtmine. Teiste vedajate võimalust  võtta soovi korral kasutusele kiiremat andmevahetust võimaldav tarkvara pole piiratud.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          210.0888671875
+        ],
+        [
+          547.2699584960938,
+          210.0888671875
+        ],
+        [
+          547.2699584960938,
+          346.9914855957031
+        ],
+        [
+          89.6328125,
+          346.9914855957031
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        210.0888671875,
+        547.2699584960938,
+        346.9914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Siiski leiab amet, et T grupp OÜ poolt vedajatega sõlmitud lepingu tingimuste (punktid 4.5,  4.6. ja 4.9.2.) kohaselt on tpilet müügikeskkonnas liinide kohta muudatuste tegemiseks,  ennekõike kampaaniate korraldamiseks, nähtud ette liiga pikad etteteatamisetähtajad, mis  võivad vedajate tegevust põhjendamatult piirata. Seda eriti olukorras, kus T grupp OÜ oma  selgituste kohaselt teeb vedajate soovitud muudatused tpilet müügikeskkonnas nähtavaks  oluliselt kiiremini, kui neil selleks lepingu kohaselt oleks kohustus.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          353.9853515625
+        ],
+        [
+          547.39599609375,
+          353.9853515625
+        ],
+        [
+          547.39599609375,
+          435.7914733886719
+        ],
+        [
+          89.6328125,
+          435.7914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        353.9853515625,
+        547.39599609375,
+        435.7914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T grupp OÜ teatas ametis 20.12.2023 toimunud kohtumisel, et on valmis lepingutest  eemaldama eelpool kirjeldatud võimalikud konkurentsi piiravad tingimused. T grupp OÜ saatis  ametile 27.12.2023 teate selle kohta, et ei rakenda alates 01.01.2024 vedajate suhtes eelpool  viidatud vedajate tegevust piiravaid lepingutingimusi ning saatis 27.12.2023 vedajatele ka  vastavasisulise teavituse e-posti teel. Seega on T grupp OÜ lõpetanud menetluse aluseks oleva  tegevuse ning puudub vajadus ettekirjutuse tegemiseks.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          442.7900390625
+        ],
+        [
+          547.39599609375,
+          442.7900390625
+        ],
+        [
+          547.39599609375,
+          524.6114501953125
+        ],
+        [
+          89.6328125,
+          524.6114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        442.7900390625,
+        547.39599609375,
+        524.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>4.</b> <b>Menetluse lõpetamine</b></h2>",
+      "page": 164,
+      "polygon": [
+        [
+          89.341796875,
+          552.2114562988281
+        ],
+        [
+          221.04800415039062,
+          552.2114562988281
+        ],
+        [
+          221.04800415039062,
+          564.2114562988281
+        ],
+        [
+          89.341796875,
+          564.2114562988281
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        552.2114562988281,
+        221.04800415039062,
+        564.2114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust lõpetab Konkurentsiamet T grupp OÜ suhtes alustatud  järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 9 alusel.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          572.011474609375
+        ],
+        [
+          547.1519775390625,
+          572.011474609375
+        ],
+        [
+          547.1519775390625,
+          598.1982421875
+        ],
+        [
+          89.6328125,
+          598.1982421875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        572.011474609375,
+        547.1519775390625,
+        598.1982421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega (allkirjastatud digitaalselt) Evelin Pärn-Lee peadirektor</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          630.677734375
+        ],
+        [
+          216.947998046875,
+          630.677734375
+        ],
+        [
+          216.947998046875,
+          699.4814605712891
+        ],
+        [
+          89.6328125,
+          699.4814605712891
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        630.677734375,
+        216.947998046875,
+        699.4814605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti 18.04.2024 teate järelevalvemenetluse lõpetamisest nr 5-5/2024-022 ärakiri on  samane originaaliga. Ärakirjast on välja jäetud T grupp OÜ ärisaladused, vastavad kohad on tekstis  tähistatud nurksulgudega.</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.6328125,
+          720.7158203125
+        ],
+        [
+          547.153076171875,
+          720.7158203125
+        ],
+        [
+          547.153076171875,
+          761.0901489257812
+        ],
+        [
+          89.6328125,
+          761.0901489257812
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        720.7158203125,
+        547.153076171875,
+        761.0901489257812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/Piret Lohu/ 29.04.2024</p>",
+      "page": 164,
+      "polygon": [
+        [
+          89.341796875,
+          770.6901397705078
+        ],
+        [
+          196.00999450683594,
+          770.6901397705078
+        ],
+        [
+          196.00999450683594,
+          781.7301445007324
+        ],
+        [
+          89.341796875,
+          781.7301445007324
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        770.6901397705078,
+        196.00999450683594,
+        781.7301445007324
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 164,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.537109375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

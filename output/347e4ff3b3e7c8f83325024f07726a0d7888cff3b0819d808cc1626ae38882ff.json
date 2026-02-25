@@ -1,0 +1,1648 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 90,
+      "polygon": [
+        [
+          30.7603515625,
+          30.665771484375
+        ],
+        [
+          167.1302734375,
+          30.665771484375
+        ],
+        [
+          167.1302734375,
+          89.527587890625
+        ],
+        [
+          30.7603515625,
+          89.527587890625
+        ]
+      ],
+      "bbox": [
+        30.7603515625,
+        30.665771484375,
+        167.1302734375,
+        89.527587890625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "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PKtU+sct9Ln6LSy3CPKfaumubkve2t7H0VRRRXsH50FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeCfFb/AJHR/wDrgv8AM1Q+Hf8AyO+n/wC8f5Vf+K3/ACOj/wDXBf5mqHw7/wCR30//AHj/ACrw5f7z8z9To/8AIkX/AF7/AEPoqiiivcPywKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8E+K3/I6P8A9cF/maofDv8A5HfT/wDeP8qv/Fb/AJHR/wDrgv8AM1Q+Hf8AyO+n/wC8f5V4cv8AefmfqdH/AJEi/wCvf6H0VRRRXuH5YFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeCfFb/kdH/64L/M1Q+Hf/I76f8A7x/lV/4rf8jo/wD1wX+Zqh8O/wDkd9P/AN4/yrw5f7z8z9To/wDIkX/Xv9D6Kooor3D8sCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPHfiJ4X1HVfFLXNsIvLMSj5mIPU+1VPBPhLU9O8WWV1OIvLRjnaxJ6fSvQ9d/5CR/3RUWkf8hOH618PUzGssy9lpbmt+J9fDNa6wHsVa3Lb8Dr6KKK+4PkAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDldd/5CR/3RUWkf8AITh+tS67/wAhI/7oqLSP+QnD9a/OKv8AyN/+3/1Pdj/u3yOvooor9HPCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOV13/kJH/dFRaR/yE4frRRX5xV/5G/8A2/8Aqe7H/dvkdfRRRX6OeEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Vergabekammer des Bundes VK 1 - 95/18</p>",
+      "page": 90,
+      "polygon": [
+        [
+          70.42578125,
+          126.36767578125
+        ],
+        [
+          225.08758544921875,
+          126.36767578125
+        ],
+        [
+          225.08758544921875,
+          157.57183837890625
+        ],
+        [
+          70.42578125,
+          157.57183837890625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        126.36767578125,
+        225.08758544921875,
+        157.57183837890625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 90,
+      "polygon": [
+        [
+          274.8499755859375,
+          233.80078125
+        ],
+        [
+          334.0859375,
+          233.80078125
+        ],
+        [
+          334.0859375,
+          247.73748779296875
+        ],
+        [
+          274.8499755859375,
+          247.73748779296875
+        ]
+      ],
+      "bbox": [
+        274.8499755859375,
+        233.80078125,
+        334.0859375,
+        247.73748779296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In dem Nachprüfungsverfahren […] - Antragstellerin  gegen […] - Antragsgegnerin - […]</p>",
+      "page": 90,
+      "polygon": [
+        [
+          70.96800231933594,
+          322.161865234375
+        ],
+        [
+          466.78906249999994,
+          322.161865234375
+        ],
+        [
+          466.78906249999994,
+          484.9618835449219
+        ],
+        [
+          70.96800231933594,
+          484.9618835449219
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        322.161865234375,
+        466.78906249999994,
+        484.9618835449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe \"[…], Sortieranlage\", Los […], Vergabevorgang […], hat die 1. Vergabekammer des Bundes durch den Vorsitzenden Direktor beim Bundeskartellamt Behrens, die hauptamtliche Beisitzerin Leitende Regierungsdirektorin Brauer und den ehrenamtlichen Beisitzer  Seiffe nach Lage der Akten am 8. Oktober 2018 beschlossen:</p>",
+      "page": 90,
+      "polygon": [
+        [
+          68.6796875,
+          524.7980346679688
+        ],
+        [
+          541.8975830078125,
+          524.7980346679688
+        ],
+        [
+          541.8975830078125,
+          594.380859375
+        ],
+        [
+          68.6796875,
+          594.380859375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        524.7980346679688,
+        541.8975830078125,
+        594.380859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/90",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird ohne Übermittlung an die Antragsgegnerin verworfen.</li><li block-type=\"ListItem\">2. Die Antragstellerin trägt die Kosten des Verfahrens.</li></ul></p>",
+      "page": 90,
+      "polygon": [
+        [
+          98.9453125,
+          626.4873046875
+        ],
+        [
+          525.052490234375,
+          626.4873046875
+        ],
+        [
+          525.052490234375,
+          663.7274932861328
+        ],
+        [
+          98.9453125,
+          663.7274932861328
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        626.4873046875,
+        525.052490234375,
+        663.7274932861328
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          294.798828125,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          86.6318359375
+        ],
+        [
+          294.798828125,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.091796875,
+        315.169921875,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 171,
+      "polygon": [
+        [
+          283.44921875,
+          123.07470703125
+        ],
+        [
+          326.7908020019531,
+          123.07470703125
+        ],
+        [
+          326.7908020019531,
+          135.23187255859375
+        ],
+        [
+          283.44921875,
+          135.23187255859375
+        ]
+      ],
+      "bbox": [
+        283.44921875,
+        123.07470703125,
+        326.7908020019531,
+        135.23187255859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 171,
+      "polygon": [
+        [
+          299.1640625,
+          154.76953125
+        ],
+        [
+          307.85296630859375,
+          154.76953125
+        ],
+        [
+          307.85296630859375,
+          166.21185302734375
+        ],
+        [
+          299.1640625,
+          166.21185302734375
+        ]
+      ],
+      "bbox": [
+        299.1640625,
+        154.76953125,
+        307.85296630859375,
+        166.21185302734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag) schrieb europaweit nach Maßgabe der Sektorenverordnung im Verhandlungsverfahren mit vorgeschaltetem Teilnahmewettbewerb die Vergabe […], Sortieranlage\", Los […], Vergabevorgang […] (Bekanntmachungen […] vom […] und […] vom […])  aus. Auftragsgegenstand ist die Errichtung einer vollautomatischen Sortieranlage, die mit  fahrerlosen, batteriebetriebenen Fahrzeugen, sog. AGV (Automated Guided Vehicles), betrieben wird.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          70.96800231933594,
+          185.64111328125
+        ],
+        [
+          542.0027465820312,
+          185.64111328125
+        ],
+        [
+          542.0027465820312,
+          291.5418701171875
+        ],
+        [
+          70.96800231933594,
+          291.5418701171875
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        185.64111328125,
+        542.0027465820312,
+        291.5418701171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Am 2. April 2018 beanstandete die Antragstellerin (ASt) einzelne Eigenschaften der nachgefragten Sortieranlage. Die Ag teilte der ASt mit Schreiben vom 6. April 2018 mit, dass sie den  Beanstandungen nicht abhelfen werde. Die ASt reichte am 19. April 2018 im Teilnahmewettbewerb über die E-Vergabeplattform der Ag eine Bewerbung und ein von der Ag allerdings  nicht gefordertes Angebot ein. Mit Schreiben vom 27. April 2018 versandte die Ag an die ASt  eine Nachforderung gemäß § 51 Abs. 2 SektVO bis zum 7. Mai 2018. Nachgereicht werden  sollten zahlreiche Unterlagen für den Teilnahmewettbewerb. Die ASt erhielt eine Fristverlängerung bis 11. Mail 2018. Mit Schreiben vom 11. Mai 2018 reichte sie weitere Unterlagen  und Erklärungen ein.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          305.6019287109375
+        ],
+        [
+          541.9180908203125,
+          305.6019287109375
+        ],
+        [
+          541.9180908203125,
+          468.37188720703125
+        ],
+        [
+          89.6328125,
+          468.37188720703125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        305.6019287109375,
+        541.9180908203125,
+        468.37188720703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Am 28. Mai 2018 teilte die Ag der ASt mit, dass ihr Teilnahmeantrag wegen fehlender beziehungsweise verspätet vorgelegter Unterlagen ausgeschlossen worden sei. Im Rahmen eines  Nachprüfungsverfahrens (VK1 - 53/18) wandte sich die ASt gegen ihren Ausschluss vom Teilnahmewettbewerb wegen verfristeter Einreichung der geforderten Unterlagen. Im Rahmen des Nachprüfungsverfahrens räumte die Ag der ASt die Möglichkeit ein, die zum Nachweis der Eignung erforderlichen und noch nicht vorgelegten Unterlagen innerhalb einer Frist  von weiteren zehn Kalendertagen nachzureichen. Mit einem rechtlichen Hinweis vom 22.  Juni 2018 teilte die Vergabekammer der ASt daraufhin mit, dass sie nach summarischer Prüfung davon ausgehe, dass der Nachprüfungsantrag zum Teil unzulässig, im Hinblick auf die  Abhilfe durch die Antragsgegnerin jedenfalls unbegründet sei. Die Antragstellerin erklärte das  Nachprüfungsverfahren VK1 – 53/18 für erledigt.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          482.44189453125
+        ],
+        [
+          541.8992309570312,
+          482.44189453125
+        ],
+        [
+          541.8992309570312,
+          683.3918914794922
+        ],
+        [
+          89.6328125,
+          683.3918914794922
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        482.44189453125,
+        541.8992309570312,
+        683.3918914794922
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die Ag stellte in einer Auswertung vom 29. Juni 2018 der weiteren von der ASt im Anschluss  eingereichten Unterlagen fest, dass nach wie vor Erklärungen und Unterlagen fehlten. Unter  anderem seien Nachweise und Referenzen über die vom Bewerber ausgeführten und in Betrieb genommenen vergleichbaren Anlagen (Leistungen) weder durch ihn selbst noch seine  Nachunternehmer geführt worden. Auch in der Summe aller genannten Referenzen sei keine</p>",
+      "page": 171,
+      "polygon": [
+        [
+          89.6328125,
+          697.0918731689453
+        ],
+        [
+          541.9602661132812,
+          697.0918731689453
+        ],
+        [
+          541.9602661132812,
+          784.5498046875
+        ],
+        [
+          89.6328125,
+          784.5498046875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        697.0918731689453,
+        541.9602661132812,
+        784.5498046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 146,
+      "polygon": [
+        [
+          294.798828125,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          86.6318359375
+        ],
+        [
+          294.798828125,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.091796875,
+        315.169921875,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vergleichbare Leistung – unabhängig vom fehlenden Nachweis der Funktion aller Teile in  einem Gesamtsystem – gegeben. Zudem fehlten geforderte Verpflichtungserklärungen. Die ASt reichte nochmals Unterlagen ein. Am 13. Juli 2018 teilte die Ag der ASt mit, dass sie ihre  Bewerbung weiterhin nicht berücksichtigen und sie nicht zur Abgabe eines Angebots auffordern würde.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          90.796875,
+          122.6630859375
+        ],
+        [
+          542.0025024414062,
+          122.6630859375
+        ],
+        [
+          542.0025024414062,
+          210.5218505859375
+        ],
+        [
+          90.796875,
+          210.5218505859375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        122.6630859375,
+        542.0025024414062,
+        210.5218505859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 23. Juli 2018 beantragte die ASt bei der Vergabekammer des Bundes  erneut die Einleitung eines Nachprüfungsverfahrens. Die Vergabekammer wies den Nachprüfungsantrag am 27. August 2018, soweit er nicht unzulässig war, als unbegründet zurück (VK1 – 75/18). Der Antrag wurde von der Vergabekammer gemäß § 160 Abs. 3 Satz 1 Nr. 4  GWB als unzulässig angesehen, soweit die ASt Eigenschaften der nachgefragten Sortieranlage sowie die angebliche Verwertung von eigenen Entwicklungen beanstandete. In der Sache war nach Auffassung der Vergabekammer der Ausschluss der ASt im Teilnahmewettbewerb wegen unvollständiger Eignungsnachweise zu Recht erfolgt. Die ASt hatte trotz der von  der Ag mehrfach verlängerten Möglichkeit, fehlende Unterlagen und Erklärungen nachzureichen, weder fristgerecht einen ordnungsgemäßen Handelsregisterauszug, noch hatte sie  eine vollständige Erklärung über Umsätze mit in den letzten fünf Jahren ausgeführten und in  Betrieb genommenen – vergleichbaren – Leistungen eingereicht. Die ASt hatte auch für die  von ihr im Wege der Eignungsleihe hinzugezogenen Nachunternehmer keine ausreichenden  Eignungsnachweise vorgelegt. Offen bleiben konnte im Beschluss, ob die sonstigen vorgelegten Erklärungen der ASt unvollständig waren. Es bestanden aus Sicht der Vergabekammer in der Gesamtschau der Bewerbung der ASt und ihres Vortrags in den Nachprüfungsverfahren jedenfalls hinreichende Anhaltspunkte, die einen Ausschluss im Teilnahmewettbewerb auch aus weiteren Gründen vertretbar erscheinen ließen (Leistungsfähigkeit gemäß  § 122 Abs. 2 GWB). Der Beschluss ist bestandskräftig.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          89.6328125,
+          223.0986328125
+        ],
+        [
+          541.9877319335938,
+          223.0986328125
+        ],
+        [
+          541.9877319335938,
+          577.1419067382812
+        ],
+        [
+          89.6328125,
+          577.1419067382812
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        223.0986328125,
+        541.9877319335938,
+        577.1419067382812
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Bekanntmachung vom […] (EU-Amtsblatt […]) teilte die Ag mit, dass der Auftrag am  […] an das Unternehmen […], vergeben worden sei.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          90.796875,
+          591.7780456542969
+        ],
+        [
+          541.6214599609375,
+          591.7780456542969
+        ],
+        [
+          541.6214599609375,
+          625.6640625
+        ],
+        [
+          90.796875,
+          625.6640625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        591.7780456542969,
+        541.6214599609375,
+        625.6640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Mit Schreiben vom 28. September 2018 (eingegangen am 30. September 2018) beantragte  die ASt bei der Vergabekammer des Bundes die Einleitung eines Nachprüfungsverfahrens.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          70.96800231933594,
+          636.3662109375
+        ],
+        [
+          541.7473754882812,
+          636.3662109375
+        ],
+        [
+          541.7473754882812,
+          668.6318817138672
+        ],
+        [
+          70.96800231933594,
+          668.6318817138672
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        636.3662109375,
+        541.7473754882812,
+        668.6318817138672
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die ASt bezweifelt eine ordnungsgemäße Vergabe. Das Unternehmen, das den Zuschlag  erhalten hat, sei aufgrund einer gesellschaftsrechtlichen Abspaltung gar nicht berechtigt,  überhaupt ein Angebot abzugeben. Ihm fehlten die nötigen Referenzen. Auch die Einhaltung</p>",
+      "page": 146,
+      "polygon": [
+        [
+          91.9609375,
+          682.6918792724609
+        ],
+        [
+          541.7444458007812,
+          682.6918792724609
+        ],
+        [
+          541.7444458007812,
+          733.09716796875
+        ],
+        [
+          91.9609375,
+          733.09716796875
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        682.6918792724609,
+        541.7444458007812,
+        733.09716796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          295.0299987792969,
+          74.091796875
+        ],
+        [
+          314.9462890625,
+          74.091796875
+        ],
+        [
+          314.9462890625,
+          86.6318359375
+        ],
+        [
+          295.0299987792969,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        295.0299987792969,
+        74.091796875,
+        314.9462890625,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">von Brandschutz- und Lärmschutzauflagen sei durch dieses Unternehmen nicht gewährleistet. Die ordnungsgemäße Vorlage der erforderlichen Nachweise werde bezweifelt. Die Bewerbung des Unternehmens sei somit ungültig.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.796875,
+          123.486328125
+        ],
+        [
+          538.6828002929688,
+          123.486328125
+        ],
+        [
+          538.6828002929688,
+          172.69183349609375
+        ],
+        [
+          90.796875,
+          172.69183349609375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        123.486328125,
+        538.6828002929688,
+        172.69183349609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sie habe zudem den Eindruck, dass nach der Teilnahme der ASt am Ideenwettbewerb der  Ag im Jahr 2012 ein wiederholter \"Scheinausschluss\" der ASt vorliege. Sie bezweifelt, dass  die anderen Bewerber entsprechende Referenzen im Verfahren vorgelegt hätten. Kein Unternehmen könne die Referenzen für die Batteriewechselstation erfüllen. Der Ausschluss der  ASt lasse daher Diskriminierung und Scheinausschluss vermuten. Faktisch sei nach wie vor  nur die frühere technische Lösung (schienenbasiert) zulässig. Die Vergabekammer sei gemäß § 160 GWB befugt, den Sachverhalt von Amts wegen aufzugreifen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.796875,
+          185.64111328125
+        ],
+        [
+          541.95947265625,
+          185.64111328125
+        ],
+        [
+          541.95947265625,
+          311.72186279296875
+        ],
+        [
+          90.796875,
+          311.72186279296875
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        185.64111328125,
+        541.95947265625,
+        311.72186279296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Mit Schreiben vom 4. Oktober 2018 erklärte die ASt gegenüber der Vergabekammer: \"Wir  ziehen nur dann hiermit unsere Nachprüfung bei Ihnen zurück, wenn Sie nicht anerkennen  sollten, dass …\". Es folgte eine Aufzählung mit mehreren Bedingungen. Die ASt wies darauf  hin, dass nach § 160 GWB die Vergabekammer das Recht zur Kontrolle und Nachprüfung  besitze und die ASt ihr bereits hinreichende Informationen zur Verfügung gestellt habe, die  eine nicht rechtskonforme Vergabe erkennen ließen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.96800231933594,
+          323.5341796875
+        ],
+        [
+          541.941162109375,
+          323.5341796875
+        ],
+        [
+          541.941162109375,
+          431.65191650390625
+        ],
+        [
+          70.96800231933594,
+          431.65191650390625
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        323.5341796875,
+        541.941162109375,
+        431.65191650390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die Schriftsätze der ASt sowie die Verfahrensakte der Vergabekammer wird ergänzend Bezug genommen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          68.6796875,
+          469.248046875
+        ],
+        [
+          538.112060546875,
+          469.248046875
+        ],
+        [
+          538.112060546875,
+          500.44189453125
+        ],
+        [
+          68.6796875,
+          500.44189453125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        469.248046875,
+        538.112060546875,
+        500.44189453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 112,
+      "polygon": [
+        [
+          300.037109375,
+          531.814453125
+        ],
+        [
+          309.931640625,
+          531.814453125
+        ],
+        [
+          309.931640625,
+          544.7419128417969
+        ],
+        [
+          300.037109375,
+          544.7419128417969
+        ]
+      ],
+      "bbox": [
+        300.037109375,
+        531.814453125,
+        309.931640625,
+        544.7419128417969
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Entscheidung kann gemäß § 166 Abs. 1 Satz 3 GWB ohne mündliche Verhandlung ergehen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          69.84375,
+          562.2744140625
+        ],
+        [
+          523.828125,
+          562.2744140625
+        ],
+        [
+          523.828125,
+          594.4418792724609
+        ],
+        [
+          69.84375,
+          594.4418792724609
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        562.2744140625,
+        523.828125,
+        594.4418792724609
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Nachprüfungsverfahren ist offensichtlich nicht statthaft, da der öffentliche Auftrag durch Zuschlag wirksam erteilt wurde. Ein Unwirksamkeitsgrund gemäß § 135 GWB liegt offensichtlich nicht  vor. Infolgedessen hat die Vergabekammer gemäß § 163 Abs. 2 Satz 3 GWB von einer Übermittlung des Nachprüfungsantrags an die Ag und von der Information der Ag gemäß § 169 Abs. 1  GWB abgesehen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          69.84375,
+          611.6689453125
+        ],
+        [
+          541.9584350585938,
+          611.6689453125
+        ],
+        [
+          541.9584350585938,
+          700.69189453125
+        ],
+        [
+          69.84375,
+          700.69189453125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        611.6689453125,
+        541.9584350585938,
+        700.69189453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">1. Ein zum Zeitpunkt der Antragstellung bereits erteilter, wirksamer Zuschlag kann von der  Vergabekammer gemäß § 168 Abs. 2 Satz 1 GWB nicht aufgehoben werden. Ein auf Aufhebung des Zuschlags gerichteter Nachprüfungsantrag ist unstatthaft und damit unzulässig</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.96800231933594,
+          712.927734375
+        ],
+        [
+          541.4492797851562,
+          712.927734375
+        ],
+        [
+          541.4492797851562,
+          763.3578872680664
+        ],
+        [
+          70.96800231933594,
+          763.3578872680664
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        712.927734375,
+        541.4492797851562,
+        763.3578872680664
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          295.0299987792969,
+          74.091796875
+        ],
+        [
+          314.9462890625,
+          74.091796875
+        ],
+        [
+          314.9462890625,
+          86.6318359375
+        ],
+        [
+          295.0299987792969,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        295.0299987792969,
+        74.091796875,
+        314.9462890625,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(vgl. OLG Düsseldorf, Beschluss vom 3. Dezember 2003, VII-Verg 37/03). Ein Unwirksamkeitsgrund gemäß § 135 GWB liegt hier nicht vor.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.796875,
+          128.01416015625
+        ],
+        [
+          539.2802124023438,
+          128.01416015625
+        ],
+        [
+          539.2802124023438,
+          159.0118408203125
+        ],
+        [
+          90.796875,
+          159.0118408203125
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        128.01416015625,
+        539.2802124023438,
+        159.0118408203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">a) Die Zuschlagserteilung ist nicht nach § 135 Abs. 1 Nr. 1 GWB unwirksam. Ein öffentlicher  Auftrag ist danach von Anfang an unwirksam, wenn der öffentliche Auftraggeber gegen  § 134 GWB verstoßen hat. Die Ag hat vorliegend nicht gegen die Informationspflicht aus § 134 Abs. 1 GWB verstoßen. Nachdem die ASt aus dem Teilnahmewettbewerb ausgeschlossen und die Ausschlussentscheidung bestandskräftig durch die Entscheidung der  erkennenden Vergabekammer festgestellt wurde, musste keine weitere Mitteilung nach  § 134 Abs. 1 GWB durch die Ag erfolgen. Dies ergibt sich bereits aus § 134 Abs. 1 Satz  2 GWB, der für ausgeschossene Bewerber eine Unterrichtung über die Zuschlagserteilung nur für den Fall vorsieht, dass dem Bewerber keine Information über die Ablehnung  seiner Bewerbung zur Verfügung gestellt wurde. Dies ist hier indes nicht der Fall, denn  die ASt wurde über die Ablehnung ihrer Bewerbung unterrichtet. Sie ist dagegen mit  einem Nachprüfungsantrag vorgegangen, der von der erkennenden Kammer mit Beschluss vom 27. August 2018 (Az. VK1-75/18) bestandskräftig zurückgewiesen wurde.</li><li block-type=\"ListItem\">b) Auch liegt keine Unwirksamkeit nach § 135 Abs. 1 Nr. 2 GWB vor. Dies ist der Fall, wenn  ein Auftraggeber den Auftrag ohne vorherige Veröffentlichung vergibt und ihm dies auch  nicht aufgrund Gesetzes gestattet war. Die Ag hat den Auftrag hier nicht ohne vorherige  Veröffentlichung einer Bekanntmachung vergeben. Sie hat vielmehr die Vergabe europaweit nach Maßgabe der Sektorenverordnung im Verhandlungsverfahren mit vorgeschaltetem Teilnahmewettbewerb ausgeschrieben (Bekanntmachungen […] vom […]  und […] vom […]).</li><li block-type=\"ListItem\">2. Die erkennende Vergabekammer hat sich mit den geltend gemachten Verstößen bereits eingehend in ihrem Beschluss vom 27. August 2018 (VK1 - 75/18) und in dem zuvor geführten  Nachprüfungsverfahren VK 1 – 53/18 (beendet durch Rücknahme der ASt infolge Abhilfe  durch die Ag) auseinander gesetzt. Sie hat im Verfahren VK1 – 75/18 bestandskräftig den  Ausschluss der ASt aus dem Teilnahmewettbewerb festgestellt. Danach ist der Ausschluss  der ASt im Teilnahmewettbewerb trotz mehrmaliger Nachlieferungsfristen wegen unvollständiger Eignungsnachweise zu Recht erfolgt. Die von der ASt hier (wieder) vorgetragene Benachteiligung (\"Scheinausschluss\") ist aufgrund der tatsächlichen Mängel ihrer Bewerbung /  ihres Angebots nicht durchschlagend. Die bemängelten Eigenschaften der nachgefragten  Sortieranlage sowie die angebliche Verwertung von eigenen Entwicklungen der ASt sind  nach ihrer Rüge vom 2. April 2018 und der Nichtabhilfemitteilung der Ag mit Schreiben vom</li></ul></p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          172.880859375
+        ],
+        [
+          541.9598999023438,
+          172.880859375
+        ],
+        [
+          541.9598999023438,
+          765.615234375
+        ],
+        [
+          69.84375,
+          765.615234375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        172.880859375,
+        541.9598999023438,
+        765.615234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          294.798828125,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          74.091796875
+        ],
+        [
+          315.169921875,
+          86.6318359375
+        ],
+        [
+          294.798828125,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.091796875,
+        315.169921875,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/134",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">6. April 2018 von der ASt nicht in den Fristen des § 160 Abs. 3 Nr. 4 GWB mit einem Nachprüfungsverfahren angegriffen worden. Sie hat sich stattdessen durch Abgabe eines Angebots am Teilnahmewettbewerb beteiligt. Damit können diese Beanstandungen nicht mehr in  einem Nachprüfungsverfahren geltend gemacht werden (vgl. zur Unzulässigkeit bereits Beschluss VK1 – 75/18).</li><li block-type=\"ListItem\">3. Dessen ungeachtet hat die ASt in dem vorliegenden Nachprüfungsantrag auch nicht gemäß  § 161 Abs. 2 GWB dargelegt, dass sie die von ihr nun geltend gemachten Vergabeverstöße  gegenüber dem Auftraggeber gemäß § 160 Abs. 3 GWB gerügt hat.</li><li block-type=\"ListItem\">4. Die Vergabekammer kann mangels statthaftem Antrag entgegen der Auffassung der ASt  auch nicht allgemein auf die Rechtmäßigkeit des Vergabeverfahrens einwirken. Ein Vergabenachprüfungsverfahren ist gemäß § 160 Abs. 1 GWB nur auf Antrag eines (antragsbefugten) Unternehmens zu durchzuführen. Ein Verfahren von Amts wegen ist hingegen nicht  statthaft (vgl. Möllenkamp in Kulartz/Kus/Portz/Prieß, Kommentar zum GWB-Vergaberecht,  4. Auflage 2016, § 160, Rn. 19). Das Nachprüfungsverfahren dient vielmehr gemäß § 97  Abs. 6 GWB dem subjektiven Rechtsschutz (vgl. OLG Düsseldorf, Beschluss vom 3. Dezember 2003, VII-Verg 37/03). Eine Verletzung subjektiver Rechte der ASt ist aber schlechterdings ausgeschlossen, da die ASt bereits im Vorfeld des eigentlichen Angebotswettbewerbs  – nämlich bereits im Teilnahmewettbewerb – bestandskräftig ausgeschlossen wurde und ihre  vergaberechtlich geschützten Interessen durch die im Angebotswettbewerb getroffene Entscheidung der Ag somit nicht mehr berührt sind.</li><li block-type=\"ListItem\">4. Soweit die ASt mit Schreiben vom 4. Oktober 2018 gegenüber der Vergabekammer eine  Rücknahme des Nachprüfungsantrags unter Bedingungen erklärt hat (\"Wir ziehen nur dann  hiermit unsere Nachprüfung bei Ihnen zurück, wenn Sie nicht anerkennen sollten, dass …\"),  hat sich der Nachprüfungsantrag nicht erledigt. Die Rücknahmeerklärung ist als prozessuale  Erklärung grundsätzlich bedingungsfeindlich (vgl. nur BGH, Beschluss vom 26. Oktober  1989, IVb ZB 135/88 mit weiteren Nachweisen; Heßler in: Zöller, Zivilprozessordnung, 32.  Aufl. 2018, § 516 ZPO, Rn. 9). Eine Rücknahme des Nachprüfungsantrags ist somit nicht  erfolgt.</li><li block-type=\"ListItem\">5. Unter Berücksichtigung dieser Umstände wurde gemäß § 163 Abs. 2 Satz 3 GWB von einer  Übermittlung des Antrags und einer Information gemäß § 169 Abs. 1 GWB abgesehen.</li></ul></p>",
+      "page": 134,
+      "polygon": [
+        [
+          69.84375,
+          126.779296875
+        ],
+        [
+          541.9967651367188,
+          126.779296875
+        ],
+        [
+          541.9967651367188,
+          714.0118865966797
+        ],
+        [
+          69.84375,
+          714.0118865966797
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        126.779296875,
+        541.9967651367188,
+        714.0118865966797
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 90,
+      "polygon": [
+        [
+          294.5078125,
+          74.9150390625
+        ],
+        [
+          315.4609375,
+          74.9150390625
+        ],
+        [
+          315.4609375,
+          86.6318359375
+        ],
+        [
+          294.5078125,
+          86.6318359375
+        ]
+      ],
+      "bbox": [
+        294.5078125,
+        74.9150390625,
+        315.4609375,
+        86.6318359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 90,
+      "polygon": [
+        [
+          296.8359375,
+          122.6630859375
+        ],
+        [
+          310.37249755859375,
+          122.6630859375
+        ],
+        [
+          310.37249755859375,
+          135.23187255859375
+        ],
+        [
+          296.8359375,
+          135.23187255859375
+        ]
+      ],
+      "bbox": [
+        296.8359375,
+        122.6630859375,
+        310.37249755859375,
+        135.23187255859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 1, Abs. 3 Satz 1 GWB.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          69.84375,
+          153.123046875
+        ],
+        [
+          412.078125,
+          153.123046875
+        ],
+        [
+          412.078125,
+          165.85186767578125
+        ],
+        [
+          69.84375,
+          165.85186767578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        153.123046875,
+        412.078125,
+        165.85186767578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt hat als unterliegende Verfahrensbeteiligte die Kosten (Gebühren und Auslagen) des Verfahrens zu tragen.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          68.6796875,
+          179.05517578125
+        ],
+        [
+          537.957763671875,
+          179.05517578125
+        ],
+        [
+          537.957763671875,
+          209.8018798828125
+        ],
+        [
+          68.6796875,
+          209.8018798828125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        179.05517578125,
+        537.957763671875,
+        209.8018798828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 90,
+      "polygon": [
+        [
+          298.27001953125,
+          235.85888671875
+        ],
+        [
+          311.7959289550781,
+          235.85888671875
+        ],
+        [
+          311.7959289550781,
+          247.60186767578125
+        ],
+        [
+          298.27001953125,
+          247.60186767578125
+        ]
+      ],
+      "bbox": [
+        298.27001953125,
+        235.85888671875,
+        311.7959289550781,
+        247.60186767578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt,  beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf, einzulegen.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          70.96800231933594,
+          266.73046875
+        ],
+        [
+          541.3391723632812,
+          266.73046875
+        ],
+        [
+          541.3391723632812,
+          335.8828125
+        ],
+        [
+          70.96800231933594,
+          335.8828125
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        266.73046875,
+        541.3391723632812,
+        335.8828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der Vergabekammer angefochten  und eine abweichende Entscheidung beantragt wird, und die Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          69.84375,
+          361.4033203125
+        ],
+        [
+          541.9073486328125,
+          361.4033203125
+        ],
+        [
+          541.9073486328125,
+          430.2119140625
+        ],
+        [
+          69.84375,
+          430.2119140625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        361.4033203125,
+        541.9073486328125,
+        430.2119140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          70.96800231933594,
+          455.2529296875
+        ],
+        [
+          538.9609375,
+          455.2529296875
+        ],
+        [
+          538.9609375,
+          487.1219177246094
+        ],
+        [
+          70.96800231933594,
+          487.1219177246094
+        ]
+      ],
+      "bbox": [
+        70.96800231933594,
+        455.2529296875,
+        538.9609375,
+        487.1219177246094
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist.  Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht  auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über die  Beschwerde verlängern.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          69.84375,
+          511.64501953125
+        ],
+        [
+          541.9307250976562,
+          511.64501953125
+        ],
+        [
+          541.9307250976562,
+          601.37841796875
+        ],
+        [
+          69.84375,
+          601.37841796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        511.64501953125,
+        541.9307250976562,
+        601.37841796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Behrens Brauer</p>",
+      "page": 90,
+      "polygon": [
+        [
+          169.3000030517578,
+          696.05126953125
+        ],
+        [
+          444.67187499999994,
+          696.05126953125
+        ],
+        [
+          444.67187499999994,
+          708.6118927001953
+        ],
+        [
+          169.3000030517578,
+          708.6118927001953
+        ]
+      ],
+      "bbox": [
+        169.3000030517578,
+        696.05126953125,
+        444.67187499999994,
+        708.6118927001953
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 234,
+      "polygon": [
+        [
+          522.08203125,
+          39.46875
+        ],
+        [
+          554.6741333007812,
+          39.46875
+        ],
+        [
+          554.6741333007812,
+          59.9388427734375
+        ],
+        [
+          522.08203125,
+          59.9388427734375
+        ]
+      ],
+      "bbox": [
+        522.08203125,
+        39.46875,
+        554.6741333007812,
+        59.9388427734375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 234,
+      "polygon": [
+        [
+          40.7421875,
+          33.712890625
+        ],
+        [
+          176.9375,
+          33.712890625
+        ],
+        [
+          176.9375,
+          61.669921875
+        ],
+        [
+          40.7421875,
+          61.669921875
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        33.712890625,
+        176.9375,
+        61.669921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>C/2026/1024 17.2.2026</h1>",
+      "page": 234,
+      "polygon": [
+        [
+          262.375,
+          68.248046875
+        ],
+        [
+          552.7522583007812,
+          68.248046875
+        ],
+        [
+          552.7522583007812,
+          82.503173828125
+        ],
+        [
+          262.375,
+          82.503173828125
+        ]
+      ],
+      "bbox": [
+        262.375,
+        68.248046875,
+        552.7522583007812,
+        82.503173828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 234,
+      "polygon": [
+        [
+          515.388671875,
+          68.248046875
+        ],
+        [
+          550.892578125,
+          68.248046875
+        ],
+        [
+          550.892578125,
+          76.470703125
+        ],
+        [
+          515.388671875,
+          76.470703125
+        ]
+      ],
+      "bbox": [
+        515.388671875,
+        68.248046875,
+        550.892578125,
+        76.470703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Authorisation for State aid pursuant to Articles 107 and 108 of the Treaty on the Functioning of the </b> <b>European Union </b></h2>",
+      "page": 234,
+      "polygon": [
+        [
+          94.2890625,
+          95.7939453125
+        ],
+        [
+          502.32916259765625,
+          95.7939453125
+        ],
+        [
+          502.32916259765625,
+          117.42584228515625
+        ],
+        [
+          94.2890625,
+          117.42584228515625
+        ]
+      ],
+      "bbox": [
+        94.2890625,
+        95.7939453125,
+        502.32916259765625,
+        117.42584228515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Cases where the Commission raises no objections </b></h2>",
+      "page": 234,
+      "polygon": [
+        [
+          195.5625,
+          123.7509765625
+        ],
+        [
+          400.5592956542969,
+          123.7509765625
+        ],
+        [
+          400.5592956542969,
+          134.4898681640625
+        ],
+        [
+          195.5625,
+          134.4898681640625
+        ]
+      ],
+      "bbox": [
+        195.5625,
+        123.7509765625,
+        400.5592956542969,
+        134.4898681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>SA.118989 </b></h4>",
+      "page": 234,
+      "polygon": [
+        [
+          275.009765625,
+          141.0185546875
+        ],
+        [
+          322.02227783203125,
+          141.0185546875
+        ],
+        [
+          322.02227783203125,
+          151.55487060546875
+        ],
+        [
+          275.009765625,
+          151.55487060546875
+        ]
+      ],
+      "bbox": [
+        275.009765625,
+        141.0185546875,
+        322.02227783203125,
+        151.55487060546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "4": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>(Text with EEA relevance) </b></h3>",
+      "page": 234,
+      "polygon": [
+        [
+          249.69140624999997,
+          164.453125
+        ],
+        [
+          346.5063781738281,
+          164.453125
+        ],
+        [
+          346.5063781738281,
+          175.09930419921875
+        ],
+        [
+          249.69140624999997,
+          175.09930419921875
+        ]
+      ],
+      "bbox": [
+        249.69140624999997,
+        164.453125,
+        346.5063781738281,
+        175.09930419921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(C/2026/1024)</p>",
+      "page": 234,
+      "polygon": [
+        [
+          265.98828125,
+          187.4765625
+        ],
+        [
+          326.14862060546875,
+          187.4765625
+        ],
+        [
+          326.14862060546875,
+          197.98583984375
+        ],
+        [
+          265.98828125,
+          197.98583984375
+        ]
+      ],
+      "bbox": [
+        265.98828125,
+        187.4765625,
+        326.14862060546875,
+        197.98583984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/9",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Date of adoption of the decision</th><th colspan=\"2\">9.12.2025</th></tr><tr><td>Aid number</td><td colspan=\"2\">SA.118989</td></tr><tr><td>Member State</td><td colspan=\"2\">Germany</td></tr><tr><td>Region</td><td colspan=\"2\">Saarlouis</td></tr><tr><td>Title (title and/or name of the beneficiary)</td><td colspan=\"2\">Regionalbeihilfe für großes Investitionsvorhaben für Vetter<br/>Pharma-Fertigung GmbH & Co. KG [SL]</td></tr><tr><td>Legal basis</td><td colspan=\"2\">Gesetz über die Gemeinschaftsaufgabe \"Verbesserung der<br/>regionalen Wirtschaftsstruktur\" (GRW-Gesetz bzw. GRWG vom<br/>6. Oktober 1969 (BGBl. I S. 1861), das zuletzt durch Artikel 1<br/>des Gesetzes vom 13. April 2021 (BGBl. I S. 770) geändert<br/>worden istKoordinierungsrahmen der Gemeinschaftsaufgabe<br/>\"Verbesserung der regionalen Wirtschaftsstruktur (GRW)\" ab<br/>1. Januar 2024 - Nummer 2 (Förderung der gewerblichen<br/>Wirtschaft)Ergänzende Regelungen des Saarlandes zur Förderung<br/>der gewerblichen Wirtschaft im Rahmen der<br/>Gemeinschaftsaufgabe \"Verbesserung der regionalen<br/>Wirtschaftsstruktur\" (GRW) mit Wirkung ab 1. Januar 2024§§<br/>23, 44 Landeshaushaltsordnung des Saarlandes (LHO) in der<br/>Fassung der Bekanntmachung vom 5. November 1999, zuletzt<br/>geändert durch ÄndG vom 11.9.2024 (Amtsbl. 2023 I S. 1192;<br/>2024 I S. 688, 690)Saarländisches Verwaltungsverfahrensgesetz<br/>vom 15. Dezember 1976 (Amtsbl. S. 446), zuletzt geändert<br/>durch Artikel 4 des Gesetzes vom 13. März 2024 (Amtsbl. I S.<br/>310)Bewirtschaftungsgrundsätze des Saarlandes für die<br/>Verwendung von Investitionszuschüssen an die gewerbliche<br/>Wirtschaft mit Wirkung ab 1. Januar 2015 in der Fassung vom<br/>5. Dezember 2014</td></tr><tr><td>Type of measure</td><td>Individual Application within<br/>scheme</td><td>Vetter Pharma-Fertigung GmbH<br/>& Co. KG</td></tr><tr><td>Objective</td><td colspan=\"2\">Regional development (including territorial cooperation)</td></tr><tr><td>Form of aid</td><td colspan=\"2\">Direct grant</td></tr><tr><td>Budget</td><td colspan=\"2\">Overall budget: 46 950 000 EUR</td></tr><tr><td>Intensity</td><td colspan=\"2\">15,0 %</td></tr><tr><td>Duration</td><td colspan=\"2\">From 18.12.2025</td></tr><tr><td>Economic sectors</td><td colspan=\"2\">Manufacture of pharmaceutical preparations</td></tr><tr><td>Name and address of the granting authority</td><td colspan=\"2\">Ministerium für Wirtschaft, Innovation, Digitales und Energie<br/>des Saarlandes<br/>Franz-Josef-Röder-Str. 17, 66119 Saarbrücken, Deutschland</td></tr><tr><td>Other information</td><td></td><td></td></tr></tbody></table>",
+      "page": 234,
+      "polygon": [
+        [
+          58.197188110351554,
+          208.131875
+        ],
+        [
+          533.7402508544922,
+          208.131875
+        ],
+        [
+          533.7402508544922,
+          785.165
+        ],
+        [
+          58.197188110351554,
+          785.165
+        ]
+      ],
+      "bbox": [
+        58.197188110351554,
+        208.131875,
+        533.7402508544922,
+        785.165
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 234,
+      "polygon": [
+        [
+          40.16015625,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          821.8918743133545
+        ],
+        [
+          40.16015625,
+          821.8918743133545
+        ]
+      ],
+      "bbox": [
+        40.16015625,
+        811.1650390625,
+        552.7653198242188,
+        821.8918743133545
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 234,
+      "polygon": [
+        [
+          540.998046875,
+          811.1650390625
+        ],
+        [
+          553.220703125,
+          811.1650390625
+        ],
+        [
+          553.220703125,
+          820.2099609375
+        ],
+        [
+          540.998046875,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        540.998046875,
+        811.1650390625,
+        553.220703125,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EN OJ C, 17.2.2026</p>",
+      "page": 16,
+      "polygon": [
+        [
+          42.519596099853516,
+          46.4525146484375
+        ],
+        [
+          554.6714477539062,
+          46.4525146484375
+        ],
+        [
+          554.6714477539062,
+          62.4451904296875
+        ],
+        [
+          42.519596099853516,
+          62.4451904296875
+        ]
+      ],
+      "bbox": [
+        42.519596099853516,
+        46.4525146484375,
+        554.6714477539062,
+        62.4451904296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The authentic text(s) of the decision, from which all confidential information has been removed, can be found at:</p>",
+      "page": 16,
+      "polygon": [
+        [
+          86.140625,
+          88.8046875
+        ],
+        [
+          509.85937499999994,
+          88.8046875
+        ],
+        [
+          509.85937499999994,
+          99.62384033203125
+        ],
+        [
+          86.140625,
+          99.62384033203125
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        88.8046875,
+        509.85937499999994,
+        99.62384033203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><a href=\"https://competition-cases.ec.europa.eu/search?caseInstrument=SA\">https://competition-cases.ec.europa.eu/search?caseInstrument=SA</a></p>",
+      "page": 16,
+      "polygon": [
+        [
+          172.86328125,
+          115.939453125
+        ],
+        [
+          420.80859375,
+          115.939453125
+        ],
+        [
+          420.80859375,
+          126.32525634765625
+        ],
+        [
+          172.86328125,
+          126.32525634765625
+        ]
+      ],
+      "bbox": [
+        172.86328125,
+        115.939453125,
+        420.80859375,
+        126.32525634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 16,
+      "polygon": [
+        [
+          277.337890625,
+          145.541015625
+        ],
+        [
+          323.318359375,
+          145.541015625
+        ],
+        [
+          323.318359375,
+          155.408203125
+        ],
+        [
+          277.337890625,
+          155.408203125
+        ]
+      ],
+      "bbox": [
+        277.337890625,
+        145.541015625,
+        323.318359375,
+        155.408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 16,
+      "polygon": [
+        [
+          42.519596099853516,
+          810.75390625
+        ],
+        [
+          552.7512817382812,
+          810.75390625
+        ],
+        [
+          552.7512817382812,
+          821.8918743133545
+        ],
+        [
+          42.519596099853516,
+          821.8918743133545
+        ]
+      ],
+      "bbox": [
+        42.519596099853516,
+        810.75390625,
+        552.7512817382812,
+        821.8918743133545
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 16,
+      "polygon": [
+        [
+          41.033203125,
+          811.1650390625
+        ],
+        [
+          54.419921875,
+          811.1650390625
+        ],
+        [
+          54.419921875,
+          820.2099609375
+        ],
+        [
+          41.033203125,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        41.033203125,
+        811.1650390625,
+        54.419921875,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/0/SectionHeader/5",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

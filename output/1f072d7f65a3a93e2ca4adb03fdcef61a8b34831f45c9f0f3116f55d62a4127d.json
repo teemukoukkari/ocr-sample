@@ -1,0 +1,670 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 240,
+      "polygon": [
+        [
+          60.705859375,
+          38.76982421875
+        ],
+        [
+          236.13007812499998,
+          38.76982421875
+        ],
+        [
+          236.13007812499998,
+          81.28095703125
+        ],
+        [
+          60.705859375,
+          81.28095703125
+        ]
+      ],
+      "bbox": [
+        60.705859375,
+        38.76982421875,
+        236.13007812499998,
+        81.28095703125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACOAkgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAoopN3tQAtFNLgDJ4+tQi9ts4+0RZ9N4oAsUUxZUf7jK30INLuoAdRTS2KUNntQAtFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUmaMjFecfEP4pWXhSNrKxKXOqMOEzkRe7f4UAdlrniTSvDlkbvVLyO3jA4DH5m9gOprxrxJ8e5pGeDw9ZBE5xcT9T9F/+vXkus65qGv373mpXTzzN3Y52/QVnD5v5mgDoNV8beJNZdmvdWuGB/gV9oH5VkfbrzOftc+f+upqtx9Kt2emX2oSCOzs553PQRoTQBJDreq25zFqN0p9pWrYtPiL4tscCHW7nA52swNa2lfCDxdqm0vYC0jPe4O0j8Otd1pH7P0KbX1fVWcjkpbrgUAch4Z+Lfiy21mKOd31NJnG6AqSxH+zivpmFiwVmG1ioJB6iud8PeAvD3hgBtO0+NZu80nzP+ZrpAMH2oAfRSEgDNNWVHGVYEe1AD6KTcKM0XAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKQnjilqhq+ox6TpVzfS/dhQtj19qAOJ+KHj9PCOmC0tHB1S5UiP/pmv9418ySyXF9cyzSF5ZpW3Ox5JPrmu11aOTXdZuNU1OVp55XJ2n7qDsB9OlEUMUIxFGq+6igDD8P+D9V8RanHYWyxxyOMgzHAxXqmlfs+phW1bWHI6mOBQP1Oa5nR9Rl0nVre+izvhkDY9R6V9E6VqlrrOnRXto4aKRendT6GgDltJ+E3hDSsOulrcyD+O5YyZ/A8fpXX2tjbWUfl2ttDAn92JAo/SrI6UtADcHvzR9aXI9ajknij5eRV+pqJVIxV27BZ9CTNBrKn12zhzhmc+iism58TynIhhVfQsc1wVs1w1PeV2aRozl0OoYjad2MVyerTW+l6il9Y3RjlLDz7deUkHc47H3FZF3q97cZ3ztg9l4FZUjnJ7++a8uvnfNpSidEMM+p6lZXkV7bJNEwKsO3Y1Y71594U1VrXUFtHYmKbgZ7HtXoNezgsSq9JS6nPVpuErDqKKK7TMKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAEPArl/iBbzXXgy9SEZZcOR6gHJrqD0pkqJJEySKGRhgg9xSA+XB+PvmlrvvF/w+uLG5a80pDLbO2TEPvIT/Ssqw8C6hc4a5ZLZD2PJ/KuW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"
+      }
+    },
+    {
+      "id": "/page/0/Text/20",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">-</p>",
+      "page": 240,
+      "polygon": [
+        [
+          47.064002990722656,
+          270.45001220703125
+        ],
+        [
+          49.48752212524414,
+          270.45001220703125
+        ],
+        [
+          49.48752212524414,
+          278.3699951171875
+        ],
+        [
+          47.064002990722656,
+          278.3699951171875
+        ]
+      ],
+      "bbox": [
+        47.064002990722656,
+        270.45001220703125,
+        49.48752212524414,
+        278.3699951171875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>VERSION PUBLIQUE</b></h2>",
+      "page": 240,
+      "polygon": [
+        [
+          251.14648437499997,
+          113.01995849609375
+        ],
+        [
+          342.87615966796875,
+          113.01995849609375
+        ],
+        [
+          342.87615966796875,
+          124.05999755859375
+        ],
+        [
+          251.14648437499997,
+          124.05999755859375
+        ]
+      ],
+      "bbox": [
+        251.14648437499997,
+        113.01995849609375,
+        342.87615966796875,
+        124.05999755859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>AUTORITÉ BELGE DE LA CONCURRENCE</b></h2>",
+      "page": 240,
+      "polygon": [
+        [
+          183.921875,
+          144.71875
+        ],
+        [
+          410.80938720703125,
+          144.71875
+        ],
+        [
+          410.80938720703125,
+          160.5699462890625
+        ],
+        [
+          183.921875,
+          160.5699462890625
+        ]
+      ],
+      "bbox": [
+        183.921875,
+        144.71875,
+        410.80938720703125,
+        160.5699462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b> Auditorat</b></h2>",
+      "page": 240,
+      "polygon": [
+        [
+          157.02999877929688,
+          185.009765625
+        ],
+        [
+          323.60272216796875,
+          185.009765625
+        ],
+        [
+          323.60272216796875,
+          199.92999267578125
+        ],
+        [
+          157.02999877929688,
+          199.92999267578125
+        ]
+      ],
+      "bbox": [
+        157.02999877929688,
+        185.009765625,
+        323.60272216796875,
+        199.92999267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Code de droit économique, Livre IV, article IV.70 §3. </b> <b>Affaire CONC-CC-24/0019</b> <b>-</b> <b>STEF</b> <b>/ Cooltrans, Cardon logistique, etc.</b> <b>Procédure simplifiée </b><b>–</b> <b>Décision n° ABC-2024-CC-40-AUD du 13 novembre 2024</b></p>",
+      "page": 240,
+      "polygon": [
+        [
+          71.0078125,
+          224.8896484375
+        ],
+        [
+          444.5969543457031,
+          224.8896484375
+        ],
+        [
+          444.5969543457031,
+          261.8916015625
+        ],
+        [
+          71.0078125,
+          261.8916015625
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        224.8896484375,
+        444.5969543457031,
+        261.8916015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/240",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Le 5 novembre 2024, l'Auditeur général de l'Autorité belge de la Concurrence a reçu notification,  conformément à l'article IV.10, § 1er du Code de droit économique (ci-après « CDE »), d'un projet  d'opération de concentration par lequel le groupe STEF, à travers ses filiales ImmoStef Belgique et  STEF Transport, (la partie notifiante en l'espèce, ci-après « le groupe STEF »), souhaite acquérir le  contrôle exclusif, au sens de l'article IV.6, §1, 2° CDE, des sociétés Cooltrans, Cardon Logistique,  Cooltrans Logistics, Jumax et Koeling, appartenant à TDL Group.</li><li block-type=\"ListItem\">2. La partie notifiante a demandé l'application de la procédure simplifiée visée à l'article IV.70 § 1 er CDE.</li><li block-type=\"ListItem\">3. Le groupe STEF est une entreprise française de transport et de logistique cotée en bourse,  principalement active dans le transport routier de produits alimentaires sous température dirigée et  dans la fourniture de services logistiques de produits alimentaires sous température dirigée en France  et à l'étranger, dont la Belgique.</li><li block-type=\"ListItem\">4. Le groupe STEF, dont la société STEF SA, société anonyme de droit français dont le siège est situé  93 boulevard Malesherbes à 75008 Paris, est la société mère, réalisera l'acquisition à travers ses filiales  ImmoStef Belgique et STEF Transport.</li><li block-type=\"ListItem\">5. La concentration porte sur l'acquisition de contrôle exclusif des sociétés suivantes :</li><li block-type=\"ListItem\"> Cooltrans, société anonyme de droit belge inscrite à la Banque-Carrefour des Entreprises sous le  numéro 0412.546.146, dont le siège social est situé Klaverbladstraat 32, à 3560 Lummen ;</li><li block-type=\"ListItem\"> Cardon Logistique, société anonyme de droit belge inscrite à la Banque-Carrefour des Entreprises  sous le numéro 0434.035.903, dont le siège social est situé 35 Rue du Mont de Carlier, 7522  Hertain;</li><li block-type=\"ListItem\"> Cooltrans Logistics, société anonyme de droit belge inscrite à la Banque-Carrefour des  Entreprises sous le numéro 0634.717.322, dont le siège social est situé Klaverbladstraat 32, à  3560 Lummen ;</li><li block-type=\"ListItem\"> Koeling, société anonyme de droit belge inscrite à la Banque-Carrefour des Entreprises sous le  numéro 0445.718.760, dont le siège social est situé Klaverbladstraat 32, à 3560 Lummen ;</li><li block-type=\"ListItem\"> et Jumax, société anonyme de droit belge inscrite à la Banque-Carrefour des Entreprises sous le  numéro 0652.779.514, dont le siège social est situé Klaverbladstraat 32, à 3560 Lummen.</li></ul></p>",
+      "page": 240,
+      "polygon": [
+        [
+          71.0078125,
+          277.103515625
+        ],
+        [
+          525.8944091796875,
+          277.103515625
+        ],
+        [
+          525.8944091796875,
+          760.2560043334961
+        ],
+        [
+          71.0078125,
+          760.2560043334961
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        277.103515625,
+        525.8944091796875,
+        760.2560043334961
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 240,
+      "polygon": [
+        [
+          520.3359375,
+          780.7412109375
+        ],
+        [
+          555.2578125,
+          780.7412109375
+        ],
+        [
+          555.2578125,
+          804.5869140625
+        ],
+        [
+          520.3359375,
+          804.5869140625
+        ]
+      ],
+      "bbox": [
+        520.3359375,
+        780.7412109375,
+        555.2578125,
+        804.5869140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 240,
+      "polygon": [
+        [
+          69.84375,
+          783.2080078125
+        ],
+        [
+          186.25,
+          783.2080078125
+        ],
+        [
+          186.25,
+          804.8359985351562
+        ],
+        [
+          69.84375,
+          804.8359985351562
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        783.2080078125,
+        186.25,
+        804.8359985351562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 240,
+      "polygon": [
+        [
+          228.10000610351562,
+          784.8525390625
+        ],
+        [
+          323.900390625,
+          784.8525390625
+        ],
+        [
+          323.900390625,
+          794.0359954833984
+        ],
+        [
+          228.10000610351562,
+          794.0359954833984
+        ]
+      ],
+      "bbox": [
+        228.10000610351562,
+        784.8525390625,
+        323.900390625,
+        794.0359954833984
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Numéro d'entreprise : 0535.765.741</p>",
+      "page": 240,
+      "polygon": [
+        [
+          228.10000610351562,
+          796.9160003662109
+        ],
+        [
+          346.5266418457031,
+          796.9160003662109
+        ],
+        [
+          346.5266418457031,
+          804.8359985351562
+        ],
+        [
+          228.10000610351562,
+          804.8359985351562
+        ]
+      ],
+      "bbox": [
+        228.10000610351562,
+        796.9160003662109,
+        346.5266418457031,
+        804.8359985351562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 240,
+      "polygon": [
+        [
+          383.8999938964844,
+          786.1159973144531
+        ],
+        [
+          476.97460937499994,
+          786.1159973144531
+        ],
+        [
+          476.97460937499994,
+          804.8359985351562
+        ],
+        [
+          383.8999938964844,
+          804.8359985351562
+        ]
+      ],
+      "bbox": [
+        383.8999938964844,
+        786.1159973144531,
+        476.97460937499994,
+        804.8359985351562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/0'></p>",
+      "page": 124,
+      "polygon": [
+        [
+          60.64765625,
+          38.317578125
+        ],
+        [
+          237.35234374999996,
+          38.317578125
+        ],
+        [
+          237.35234374999996,
+          81.733203125
+        ],
+        [
+          60.64765625,
+          81.733203125
+        ]
+      ],
+      "bbox": [
+        60.64765625,
+        38.317578125,
+        237.35234374999996,
+        81.733203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {
+        "/page/1/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/1/ListGroup/124",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">6. Toutes ces sociétés appartiennent à TDL Group dont la holding est VNW Beheersmaatschappij,  société anonyme de droit belge inscrite à la Banque-Carrefour des Entreprises sous le numéro  0417.547.782, dont le siège social est situé Centrum-Zuid 1410, à 3530 Houthalen-Helchteren. TDL  Group est ultimement détenu par Monsieur Yves Vandeput.</li><li block-type=\"ListItem\">7. Cooltrans, Cardon Logistique, Cooltrans Logistics et Koeling sont des sociétés actives en Belgique  dans le transport routier de produits alimentaires sous température dirigée et dans la fourniture de  services logistiques de produits alimentaires sous température dirigée. La société Jumax est une  société foncière.</li><li block-type=\"ListItem\">8. Le projet de concentration induit des chevauchements horizontaux sur les activités belges du  transport routier de produits alimentaires sous température dirigée et des services logistiques de produits  alimentaires sous température dirigée.</li><li block-type=\"ListItem\">9. Après examen de la notification et instruction de l'affaire, il apparaît que le projet de concentration  entre dans le champ d'application du CDE ainsi que des catégories II.1 c) i) de la Communication sur  les règles spécifiques de notification simplifiée de concentrations<sup>1</sup> .</li><li block-type=\"ListItem\">10. L'Auditeur constate, en vertu de l'article IV.70 §3 CDE, que les conditions d'application de la  procédure simplifiée sont remplies et que la concentration notifiée ne soulève pas d'opposition.</li><li block-type=\"ListItem\">11. Conformément à l'article IV.70 §4 CDE, la présente lettre doit être considérée, aux fins de  l'application du CDE, comme une décision d'admissibilité du Collège de la concurrence au sens de  l'article IV.66, §2, 2° CDE.</li></ul></p>",
+      "page": 124,
+      "polygon": [
+        [
+          68.6796875,
+          103.1943359375
+        ],
+        [
+          525.8274536132812,
+          103.1943359375
+        ],
+        [
+          525.8274536132812,
+          421.760009765625
+        ],
+        [
+          68.6796875,
+          421.760009765625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        103.1943359375,
+        525.8274536132812,
+        421.760009765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">L'Auditeur,</p>",
+      "page": 124,
+      "polygon": [
+        [
+          271.517578125,
+          452.6572265625
+        ],
+        [
+          322.3238830566406,
+          452.6572265625
+        ],
+        [
+          322.3238830566406,
+          464.7200012207031
+        ],
+        [
+          271.517578125,
+          464.7200012207031
+        ]
+      ],
+      "bbox": [
+        271.517578125,
+        452.6572265625,
+        322.3238830566406,
+        464.7200012207031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vasiliki MITRIAS</p>",
+      "page": 124,
+      "polygon": [
+        [
+          260.75,
+          475.0400085449219
+        ],
+        [
+          333.49053955078125,
+          475.0400085449219
+        ],
+        [
+          333.49053955078125,
+          486.08001708984375
+        ],
+        [
+          260.75,
+          486.08001708984375
+        ]
+      ],
+      "bbox": [
+        260.75,
+        475.0400085449219,
+        333.49053955078125,
+        486.08001708984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          518.298828125,
+          794.5759963989258
+        ],
+        [
+          524.701171875,
+          794.5759963989258
+        ],
+        [
+          524.701171875,
+          804.6559982299805
+        ],
+        [
+          518.298828125,
+          804.6559982299805
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        794.5759963989258,
+        524.701171875,
+        804.6559982299805
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> Règles spécifiques d'une notification simplifiée de concentrations, approuvées par l'assemblée générale du Conseil de la  concurrence du 8 juin 2007, M.B. du 4 juillet 2007, p. 36893.</p>",
+      "page": 124,
+      "polygon": [
+        [
+          69.84375,
+          762.240234375
+        ],
+        [
+          524.8645629882812,
+          762.240234375
+        ],
+        [
+          524.8645629882812,
+          785.455997467041
+        ],
+        [
+          69.84375,
+          785.455997467041
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        762.240234375,
+        524.8645629882812,
+        785.455997467041
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

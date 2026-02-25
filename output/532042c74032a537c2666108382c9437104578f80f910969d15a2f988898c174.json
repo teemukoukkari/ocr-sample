@@ -1,0 +1,6130 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 123,
+      "polygon": [
+        [
+          29.276171875,
+          29.93046875
+        ],
+        [
+          166.286328125,
+          29.93046875
+        ],
+        [
+          166.286328125,
+          95.05390625
+        ],
+        [
+          29.276171875,
+          95.05390625
+        ]
+      ],
+      "bbox": [
+        29.276171875,
+        29.93046875,
+        166.286328125,
+        95.05390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADZAcgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooqPzCXwoyO59KAJKKYJBu2ng0CRSMg0APorOu9bsbFylzOEYdjWM3xD8OfbHtU1CMyxn51/u0AdVRVG11W1v4fMtJBKD0xVpZN39aAJKKYHz0pS2KAHUUhPy5FN3ELnHPpQA+imF8LuNIZQFzQBJRUbSgKCO9LvycCgB9FRSTeWpJHTpTlfcqnsaAH0U3cCOKb5h83ZjjHWgCSim7scngUiyBs7eaAH0UxJNxI9KUE0AOoqN50RdzNgZxQZQoG7jNAElFRtIVJBH096N5yox1oAkoqEzfPgDKjqafubGcUAPopjPtA96TzVLlFOWXqKAJKKQEkU3eOcdBQA+im5OeBxQzY6UAOopgY5ORgCmiU/MWGFHQ0AS0UwycArzmjc27pxjrQA+imqxZScUzzSrfOMD1oAloqPzDwQPl9aUuT90ZFAD6KZI+xN2KGchQQM5oAfRTWfbj3pC+DgfjQA+imhsmnUAFFFFABRRRQAUUUUAFFFFABUWFTc2alqlfXUVpbvJcMEjHU5oA4fx/4+k8Klbe0ijmu5F3IrHtXCWeveP/ABJcRS22nxpCJAzbZCOM89q5e+1STxN4/aRW3rAzIoJ4xkV9A+D2tX0lBCIw44IGM0AYWsrBaRDU9XkMbuoUIORuArxXxr4utd8kFhbxLLJw8ijBr3n4iwac/h+RtQkMaICybTgk18kXjRXepSGBiY2PVjQB7/4CuNYu/h9drYoZLwRgQ7jjP41jL4x8deFndb/To2Qtkszk4/SvVPhxZra+CtOICfNCDkd+e9ZvxQ+zN4clgiVGu3IKgAE470Aa/gfxZF4r0r7WNqyKdrIPUda6sYavnX4ea2vh3xkmntKBbyRFiCf4jX0NDOlxAJUPBFADsMG46UrYYYJxQrHbyRmkwGPOcigDmPH15Ppvha4urdiGTHOa+aZfilryXLgSsQGIxvNfRfxQB/4QO+wTxj+tfHsjbbl+Mnef50AfXnwq1q41/wAFxXt3y5kYZznpXcHoCtec/BXCfD2AEdZW6V6MD8xA7UAIxH8YGK8V8XTanqPxG07R7e+nt4pw3+rbHevajtVxnJLV4X401dNC+K2k6hMjMkatxGu49fSgCXxBpeu+C4U1JdRuZ0EiqVkfjk16t4a1X+19HinfCuVGfyryHxl47/4S6CLR7aCSNHkRy8sZTofU13t/v0TwOj2bAuqZJB9qAO5BG3BbI9aaQAVCEe+K43wZqtxf/D0X9w2ZsNzn0qh4F1y71S/1aO6OY0A2Y69qAPQJZookJLqFH3jmmrOsuDG4ZO5BrxXSNQ1rXfFWr6Ssn+ji42A7jkDAq/4e1HVtA+Ilv4enfzIJ42kyzZPGP8aAPXsoTltoX3rzv4sapNY22hm1uCnmXm1yjdRxVLx9rV9c+IotAsXKzsFdtpx8pxXKeOdFvdLn0WO6meSI3S7dzlueKAPb9MYHT1lDmRiON1XBOu0ZZPMPbNcN4o8Qy6D4Yhhg2iWdSqE+tcZqltq+l+FR4nW93Txx+YY/OyM/SgD25djfNnHqO1RNKm/LyqO2A1cDrXiu7i+GSapbgG4wgbA9c5rlraxv59Jh1izvZJZ2lUNGZSQMnnigDsfiZqN1pum2clvIyK820sDj0rf8JzvcaBBJI2dy/fY8muK+I01xJ4U0l70KswuBkDp2rLl8TXepRaZo2jn9+r7bnHAAx2IoA9lMvlsiggg980iNEGOJFJJ6bhXG6/Frll4cjttP2NN5eJGkbofY1w2t2N94S0A62NQeS6JUtG024ZPtmgD22RVOGL7RSPLHt++Pzrg9b1uZPAcWoK5EzKvQ9yK5nwXF4k8QQNcTOBCWIB3nNAHoF54tsrbWY9MWVTKX2tmuhYl1Zfl8v1Br561vw/dSfEJbeaeRcyAAq5z3r0PxXqc/hPQoNPtpWeeZCoaRs8/WgDvo54nOEkUlOMZrlfiXe3GneGPtdtKyP5qr8px1NcLqiatoWgx+JFug0iqCY/NyOfatzxrqMmsfDWCdseYzxscdKALS6tcjwAbl5nWbBwwPPStH4a3cuoeD7e4nmaWYls7zmsRDv+GjeeADhvu/Sp/AHnwfC5JLEZlw+N34UAeiiVNn7x0UjqM04kHayHivGJNK1l9NudWvr3y5FXeIxNj9M11ngDWbnW9IuIrhuIcLuB56UAdvlWk3ySKMcYzxS/Lv80SKR0xnivEvD8+u+KZtWs/OK2kNw43q5DDGaj8PXOvX+tTeHreYtAgZi7ud350Ae5xujuXDhl9jXP634t0/QtTs7WeUB7p9gFcF4X1LUdM8d32g3MrPFHEpUsxJySaxPiRpF2njnRjNIdtxckRgN04NAHvNvIk0YlRsq3IqasTw9Z3FlaJHOxPHy85rboAKKKKACiiigAooooAQ9KYNwJz0p7Y701iVxgZoAbvycAHNeN/GLxe/kDQrFi0s6kPs5IP4V6R4pv8AULLT2fT43aXHG0ZrwXVNLvNJnuPEGrzKLh28yONhhjQBx2mSS+Etft7y5lSQOvzBTkjPrXruntfQKmpeF76DyZAN0Uj7m3HrxmvKb3T7VtEuLm9jLahNKGgGcHafb8qzrbUNb8I3qpayMkzKHwRn5TQB2PxM8Ua5dQx2OquPlbJ8sYrylsByUDBa2df8R6lr115l/J5hGOgxWPvLMQDgH1oA9s8B+NPENxpEWmaeRsjUIGZMhfqa09XvLjRd2p+IbuGe5CkRJC3AB9RXkGgeLNb8PW09tpcwVZ/v/LmpLsaprdq9/d3ImKMA0Y60AFtb3urajLf2kuGSQyAZ5wDmvpH4YeL4/EGhJazuPtkWQw6cDivBVVdLEOq6ShitSFhmQ8kk8N/Wu00DR76z1CLxD4bfbbTELJEBuPHX+dAH0GUDbdxwU5qYc4NZ1hcy39jFK6mMsPmVutaChVUBelAHH/FL/kQr78P618cy/wDH0/8Avn+dfY3xT/5EK+/D+tfHMv8Ax9P/AL5/nQB9YfBHn4eQ/wDXVq9IHSvN/gh/yTyH/rq1ekDpQBC5Zm+XA2+teM6yiP8AGXRgyrIpDZBGR1FezyYLBNpIbrivMvE/w+1y98RQaromow2ssWcF1z1oAsfFSx01fCnnBI4phImCgCn9KzbKWef4Xs0hIILD5/TFMn+HnizVikev6zb3cAYMURSOn4138vhuzk8PNpBUBTGQvPQ4xQByvgIrH8KC4YY2vgk8dqz/AIVyq99rLEhiQOR07VFp/gHxbYWD6Lb6zbrpwz+72HOD75rovAvgabwo16Zp0lWcAKF7UAcx8M0VvG3iVwOVvP6Cl1D5/jjpu37/ANmf+YrpfC/g668Oa7qupPOjxXc/mhFHIGB/hT7jwdc3Xj+08SRyqkUMLRmMjk5x/hQBymuyC0+NMU7co1qi598Ve+L7oItBKf6xrsfh0rZ8Y+B5tYu0vNNnSC9Xad7c9KwLz4feK9bntJNV1m2ljgkDBdhHT8aAKvxMhnl03QYlcbi5DN26GrN14TEng5DeXA+zPF8/7ziuw13wgmreH0tHZTcwqfKf0NcivgjxdqWmnSbrWIDYKNjR7SDj65oA6KGx0u28HCyunU2jhQG3ce3NcHqthqXw7SG902VHs55lGHO/7x/+vXo2p+DEvfBw0VXAICndnuK5KTwF4r1a3htNQ1aCTT4ZFKxbDnCnjnPtQAnxIuo9S8JaZLKG3SzAZXgDgVy3g/zPCXiZftGDFesEiducH616l4i8IHVtDstOtWWLyJAx3fh/hVbV/ACahoFtaFl+2W2THL2DUAV/iH4knsre20+zK/aLxSFkxlQfrXFeM/DUieAn1G9ud1wCmAH4P4V2ureBNR1bw3aWf2qNb+2j2pMw4z61k3nw98Ta1o66bf6pC0SYGNpGcfjQA7VA3/CrbfcQRmP+VdL8NGj/AOETj2qfvtST+EJ5fCyaR9oQldvP0rX8KaHLoOki0d1bDE8CgDzfxAwT4nRSEEhplwB1HWrHxfQzXOktGCoyc5/Gtjxh4G1S/wBXj1XSLuO3uVfczOM5q9rPhW/17wvHHfTpJqKR4WUDA3fSgDl73wnu8JxyXl0otJFDMGkxVrxlbRWHw4ihtD8nmR4JOaik8BeKdTsodO1LVYZLFQB5YUg4H411mv8AhP8AtTwnFosBCFCnzHpxQBzWY0+HB3Kzkg/d+lR+GNb/ALC+EaXO0lgHKADODx1rpo/Cd3B4UOkpOm85G7HHIpumeBzb+Bm0K5lSSbawVx0BNAHC2GkXviPwhLr+rXAEUsW9Fjbbj6itj4QoYbDV1Dh0Eg2YOeMVFZeAfFcOky6I2rQfYQuxECHgfnXSeBvBs/hC0u7eWZZGuGzuXoOKAOZ+FbDf4gCjrdyZ/Wl8EiOL4jXSKPmMbE/rXTeDvB83h19SaWZGF1M0gwPXNN8P+DJ9J8Wzau8yMsiMoAHrQByx+f416ki8FYkP6mnfEohvHHhMdG+1nJPToa6Q+DLuPx5c+IRcIUnVVKAc8Z/xpvjzwVeeJbixvdPuEguLRy4LjPOD/jQB3MA+RckHHpU9c/4YtNUs7IR6pcLPIAMMoxXQUAFFFFABRRRQAUUUUAIyhhzTSSpHenHpTVO5eaAKmo3psbV5xGZNoztFfPniVNV8Ua7LqGtW8sOlWjkAS/dK19FzQrNC0bgEEYrxr4gaZ4k167XTLaxktdLGVllTo49TQB5lA0d9qJ1S5YSWtoDFGh/T+VRxSvMJdc1UGdTut4o27dl/pVm9tlutSh0jTlCwRL+/Kd2X1q7o+lN418SxWNsTDYWqh3VOQWTr/KgDIk8Gm28MjXrvCpOWVImHTH/664eNUlnTC4UnkV678W/FFmlrD4csFTZbkMSvuMf0rx2P5CcttNAHpOpeF08NWei60tv51nNH5kwXp1PX8qreXFpOpxXKIHsLlS7gdFJ6A13XgfUbbxr4Mn8OXLBpo0EURPJ/zzXGS2FxBeT+HbxCuWJjduuFoAbCEsdQawmlEmn3Cl1TsHbp/Ou38A3Ou+D9RFlNazTaVL/q36KCa4vS7Zdft20tx5V5E5Mco+8dvQV694Ag1u3hXTdfs3dI/mSSXv6UAemRyQvCpBG1unvUoAUAAYFQmFQAqIAE5UCpgSQCRg+lAHH/ABT/AORCvvw/rXxzL/x9P/vn+dfY3xT/AORCvvw/rXxzL/x9P/vn+dAH1h8EP+SeQ/8AXVq9IHSvN/gh/wAk8h/66tXpA6UAIV9OKTZyDT6KAGbOc559aDGpOSOfWn0UARLCFYt/Ee9OEZCnB+Y96fRQA0IAOeTSMrH7rYp9FADPLG7d39aQxKxyRmpKKAGGMY44NNWEKDt4Y9T61LRQAwoduAcH1pPLI+6cVJRQAzZ1OeaRUYfebNSUUARlHKkBsHsacF+UZOT606igBixKpJA5pQpxgnNOooAYFPOTkUFDkbTgDqKfRQA3bnrQq4BFOooAYqYXBOaULinUUANK9ccE01kLJjdUlFAEZiyRnkCldNwABxin0UAN2dccGhFKjk5NOooAQA560tFFABRRRQAUUUUAFFFFACHpTVGFzT6KAGfeBxXL+LdJvdR02SztJXTzh80inBX6V1dRSIJBtY4zQB80a1Y2+hMdJ0eV7q9nbMkrjBU9CM/jXovhzwbb+GfBrJNO0V1cZYyr975h0/Wum17w3bR2Es0UCGXdu37Rn865aC9F7M1vJKxIXaoJ4z0FAHAt8NGn1CW7aeS4b7xL+lc7YaDDe+NLjTWiUBXCgAV7UNL1HSNEuZJtvmBGLEt2rxDw7qsjfEq3njKlZZxuJP1oA7TRvAkmia9PczXctoEkzEsf8Y966H4heCZrzTYNb0x2a7gjAwDjcO5P5VvajpWo3N4+oBU8lDkZPGKzvtkk14ltDIzA/eVjxmgDjfDuj2ni+aOaCaSz1S3IQwxLgNt6nP4V7noNpdQWCJfL+9XjcTkmq2l+HoLVku1gjimK/wAAAzW+o2qBQD0VxxXJB3EU70popO9C1Baq5yPxSP8AxQV9+H9a+OZf+Pp/98/zr7D+KJ/4oS+/D+tfIEif6S5/2/60N2HBOR9V/BE/8W9h/wCurV6SDxXmvwX48Bw4/wCejV6OPvGhaq5Kd20+hJmkyKYTwaRDzSGtVclopo606mJO4UUUUDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACo5AOGJ4FSVH5ZYMHOVPSgCG6hNxA0YwQRXCyeCpFCzxHEon3de2a9AKFVwnFOKkrigDzjx6dYvLCPTLJRuf5Hbbxgj1rxmz+Fuu2mrXUsIw9p8yMc8n29a+qvJRlwygn6UGBMcIM/SgDhvDo1fVfCj2F2Ak6oFyRjJqSy8HG1nVtw9WJPeu3EajBwAR6U0w7gQ3QmgBkStHEqsQcDHFSdVpCpXgdKcPu0+g5fCItKBzQKXoKhaEx2OO+JMPn+DbyMdTj+tfLjaLIZn4/ir6n8dZPhu5Hrivn9jiRx33Vx16zjKx9VkmXRxMG2j2z4RWxtvBUSdxI1d+OpriPhgT/wisY/2zXcCumjK6PAxtNUq84ruN6mnKOaQD5qdWzOKD0DvTqaKdSLtYKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBrDNAHFKaSmJvoHSg9KDSHpSsPZHKeOR/wAU9PXz6/8Ar3/3jX0J45H/ABTk9fPb/wCvf/eNeVil7yPvuFJfupHuvww/5FaP/fau4FcP8Mv+RUj/AN9q7Zehruw690+OzSV8bNebHgUE03NBrdnDJWQ4U6minUXuMKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBDSGlNIaBMD0o7UdqD0o6FLY5Txz/AMi7PXz4/wDr3/3jX0H45/5F2evnx/8AXv8A71eRjH7x93wv/Cke7fDD/kVY/wDfau3xiuI+GH/Iqx/75ruK9HD/AMNHyGZ/71N+bG54NC80djSr3raOxxR1Qo606mjrTqlCQUUUVQwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAQ0hpTSGgHsHag9KUU2joF9DlfHPHhyevnx/9cx/2q+hfHP8AyLs4FfPMqv8AaG/3q8jF/Efc8MP91I94+GSlfC0YP9812u7j61xfwzLDwxHu/vGuzZgQK9HD/wANHyeaf71P1F7GlXvSdjSr3raOxxR2FHWnU0dadUoSCiiiqGFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACGkpTRQAU3HJp1JSXYTOa8aRvLoE6oMk14JLpN+bljsbG70r6Q1WNZLVlYZHpXGGygLN8g6185meNjQmlJH1GS45YaDVrmj8Oo5IvDaJKCG3HrXXlQQKy9AiSPTwFAAya1gK9vB1FOjGS6ng46oqmIlJdWJ60q96AaB1rpWmhy/CrCjrTqaOtOpJWGFFFFMAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAQ0UGijqAGkFKaQUluD3KOpf8e7VyfdvrXWal/wAe7VyfdvrXxPEP8VHqYPY6bQ/+PEfU1pjvWZof/HiPqa0x3r6jLf8Adoeh59f+KxBSjrSClHWu97mU9xR1p1NHWnU2UFFFFIQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAIaKDRR1ADSClNNFJbg9ylqX/AB7tXJ92+tdZqX/Hu1cl3b618TxD/FR6mD2On0P/AI8R9TWmO9Zmif8AHiPqa0x3r6jLf92h6Hn1/wCIxBSjrSClHWu97mU9xR1p1NHWnU2UFFFFIQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAIaKDR2pPYYUzuafTO5ohsHUpaif8AR2rlO7fWur1H/j3auU7t9a+F4h/inqYT4GdJopxYj6mtQHk1laL/AMeI+prUHevrMr/3OHoefX+Jjh0oBoHSgda746oyWo4ClpBS0kAUUUUwCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2>2. Vergabekammer des Bundes VK 2 – 137/21</h2>",
+      "page": 123,
+      "polygon": [
+        [
+          68.09765625,
+          125.806640625
+        ],
+        [
+          225.58128356933594,
+          125.806640625
+        ],
+        [
+          225.58128356933594,
+          156.499267578125
+        ],
+        [
+          68.09765625,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        68.09765625,
+        125.806640625,
+        225.58128356933594,
+        156.499267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/2",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th colspan=\"2\">Beschluss</th></tr><tr><td>In dem Nachprüfungsverfahren</td><td></td></tr><tr><td>[…]</td><td></td></tr><tr><td>Verfahrensbevollmächtigte:</td><td>-<br/>Antragstellerin<br/>-</td></tr><tr><td>[…]</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>[…]</td><td>-<br/>Antragsgegnerin<br/>-</td></tr><tr><td>[…]</td><td></td></tr><tr><td></td><td>-<br/>Beigeladene<br/>-</td></tr></tbody></table>",
+      "page": 123,
+      "polygon": [
+        [
+          66.3515625,
+          173.498046875
+        ],
+        [
+          511.02343749999994,
+          173.498046875
+        ],
+        [
+          511.02343749999994,
+          421.1293029785156
+        ],
+        [
+          66.3515625,
+          421.1293029785156
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        173.498046875,
+        511.02343749999994,
+        421.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe […] hat die 2. Vergabekammer des Bundes durch die Vorsitzende Direktorin  beim Bundeskartellamt Dr. Herlemann, den hauptamtlichen Beisitzer Regierungsdirektor Brune  und den ehrenamtlichen Beisitzer Merath nach Lage der Akten am 27. Januar 2022 beschlossen:</p>",
+      "page": 123,
+      "polygon": [
+        [
+          70.94400024414062,
+          448.00927734375
+        ],
+        [
+          541.711669921875,
+          448.00927734375
+        ],
+        [
+          541.711669921875,
+          497.470703125
+        ],
+        [
+          70.94400024414062,
+          497.470703125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        448.00927734375,
+        541.711669921875,
+        497.470703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/106",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die Antragstellerin trägt die Kosten des Verfahrens (Gebühren und Auslagen) sowie die  zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der Antragsgegnerin sowie der Beigeladenen.</li></ul></p>",
+      "page": 123,
+      "polygon": [
+        [
+          88.46875,
+          523.9892883300781
+        ],
+        [
+          541.4744262695312,
+          523.9892883300781
+        ],
+        [
+          541.4744262695312,
+          612.587890625
+        ],
+        [
+          88.46875,
+          612.587890625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        523.9892883300781,
+        541.4744262695312,
+        612.587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 123,
+      "polygon": [
+        [
+          283.489990234375,
+          637.7492828369141
+        ],
+        [
+          326.2699890136719,
+          637.7492828369141
+        ],
+        [
+          326.2699890136719,
+          649.1787109375
+        ],
+        [
+          283.489990234375,
+          649.1787109375
+        ]
+      ],
+      "bbox": [
+        283.489990234375,
+        637.7492828369141,
+        326.2699890136719,
+        649.1787109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 123,
+      "polygon": [
+        [
+          301.4921875,
+          668.8592681884766
+        ],
+        [
+          308.4765625,
+          668.8592681884766
+        ],
+        [
+          308.4765625,
+          679.8992767333984
+        ],
+        [
+          301.4921875,
+          679.8992767333984
+        ]
+      ],
+      "bbox": [
+        301.4921875,
+        668.8592681884766,
+        308.4765625,
+        679.8992767333984
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag) betreibt ein elektronisches Erfassungs- und Abrechnungssystem  bzw. Kassensystem (nachfolgend: EAS bzw. EKS) […]. Dieses EAS wurde ursprünglich von  der Antragstellerin (ASt) geliefert und in den Jahren 2003 bis 2007 bei der Ag […] installiert.</p>",
+      "page": 123,
+      "polygon": [
+        [
+          70.94400024414062,
+          698.92578125
+        ],
+        [
+          541.7672729492188,
+          698.92578125
+        ],
+        [
+          541.7672729492188,
+          748.7752838134766
+        ],
+        [
+          70.94400024414062,
+          748.7752838134766
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        698.92578125,
+        541.7672729492188,
+        748.7752838134766
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 118,
+      "polygon": [
+        [
+          294.798828125,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          64.51995849609375
+        ],
+        [
+          294.798828125,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        51.780029296875,
+        315.169921875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In einem weiteren \"<i>Vertrag über die Realisierung eines IT-Systems</i>\" (IT-Systemvertrag), der  zwischen der Ag und der ASt im Oktober 2016 geschlossen wurde, wurde vereinbart, das  bestehende EAS zu einem zentralisierten Gesamtsystem weiterzuentwickeln und hierzu die  bereits installierte Hardware zu regenerieren (vgl. § 1 Abs. 1 IT-Systemvertrag). Aufgrund dieses Vertrags wurde das Gesamtsystem ab 2019 in allen […] der Ag ausgerollt.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          84.9765625,
+          122.517578125
+        ],
+        [
+          541.762939453125,
+          122.517578125
+        ],
+        [
+          541.762939453125,
+          210.25927734375
+        ],
+        [
+          84.9765625,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.517578125,
+        541.762939453125,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Einheitlicher Gegenstand des IT-Systemvertrags waren sowohl der \"<i>Verkauf von Hardware</i>\"  als auch die \"<i>Überlassung von Standardsoftware gegen Einmalvergütung auf Dauer (Ver</i><i>kauf)</i>\". Teilweise wurde diese Standardsoftware an die Vorgaben der Ag angepasst  (\"<i>customized</i>\"). Die Software wurde teilweise vorinstalliert auf der Hardware und teilweise \"<i>auf </i> <i>Datenträger (CD/DVD) als automatisiert installierbare Version</i>\" von der ASt der Ag überlassen  (§ 1 Abs. 2 lit. a) und b) IT-Systemvertrag). Zudem wurde ein Nutzungsrecht gem. § 12 IT-Systemvertrag vereinbart:</p>",
+      "page": 118,
+      "polygon": [
+        [
+          84.9765625,
+          236.4013671875
+        ],
+        [
+          541.8494262695312,
+          236.4013671875
+        ],
+        [
+          541.8494262695312,
+          362.2080078125
+        ],
+        [
+          84.9765625,
+          362.2080078125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        236.4013671875,
+        541.8494262695312,
+        362.2080078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Bei jeglicher der zu überlassenen Software handelt es sich</i> <i>um Standardsoftware.</i> <i>Es ist die dauerhafte Überlassung von Standardsoftware gegen Einmalvergütung verein</i><i>bart. Der Auftragnehmer überlässt dem Auftraggeber diese Standardsoftware entspre</i><i>chend den Vereinbarungen im EVB-IT Systemvertrag und stellt ihm diese zur Verfügung. </i> <i>Soweit im EVB-IT Systemvertrag keine andere bestimmungsgemäße Nutzung vereinbart </i> <i>ist, geht im Zeitpunkt der Lieferung</i></p>",
+      "page": 118,
+      "polygon": [
+        [
+          104.765625,
+          387.287109375
+        ],
+        [
+          541.8013305664062,
+          387.287109375
+        ],
+        [
+          541.8013305664062,
+          494.93316650390625
+        ],
+        [
+          104.765625,
+          494.93316650390625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        387.287109375,
+        541.8013305664062,
+        494.93316650390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/118",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i> das nicht ausschließliche.</i></li><li block-type=\"ListItem\"><i> dauerhafte, unwiderrufliche und unkündbare,</i></li><li block-type=\"ListItem\"><i> örtlich unbeschränkte,</i></li><li block-type=\"ListItem\"><i> in jeder beliebigen Hard-</i> <i>und Softwareumgebung ausübbare</i></li></ul></p>",
+      "page": 118,
+      "polygon": [
+        [
+          104.765625,
+          501.9931640625
+        ],
+        [
+          409.75,
+          501.9931640625
+        ],
+        [
+          409.75,
+          570.7731628417969
+        ],
+        [
+          104.765625,
+          570.7731628417969
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        501.9931640625,
+        409.75,
+        570.7731628417969
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Recht auf den Auftraggeber über, die Standardsoftware zu nutzen, das heißt insbeson</i><i>dere, sie dauerhaft oder temporär zu speichern und zu laden, sie anzuzeigen und ablaufen </i> <i>zu lassen. Dies gilt auch, soweit hierfür Vervielfältigungen notwendig werden.\"</i></p>",
+      "page": 118,
+      "polygon": [
+        [
+          106.34000396728516,
+          578.8132019042969
+        ],
+        [
+          541.69140625,
+          578.8132019042969
+        ],
+        [
+          541.69140625,
+          629.033203125
+        ],
+        [
+          106.34000396728516,
+          629.033203125
+        ]
+      ],
+      "bbox": [
+        106.34000396728516,
+        578.8132019042969,
+        541.69140625,
+        629.033203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wartungsleistungen waren nicht Gegenstand des IT-Systemvertrags. Ein erster Wartungsvertrag wurde erst in der Folge zum 1. April 2020 zwischen der Ag und der ASt abgeschlossen.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          84.9765625,
+          654.6992797851562
+        ],
+        [
+          538.9609375,
+          654.6992797851562
+        ],
+        [
+          538.9609375,
+          685.76953125
+        ],
+        [
+          84.9765625,
+          685.76953125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        654.6992797851562,
+        538.9609375,
+        685.76953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Am […] machte die Ag die beabsichtigte Vergabe des Anschlussvertrags […] im Rahmen  eines offenen Verfahrens im Supplement zum Amtsblatt der EU […] unionsweit bekannt. Die  Laufzeit des ausgeschriebenen Rahmenvertrags beträgt zwei Jahre mit der Option der zweimaligen Verlängerung um jeweils ein Jahr (Ziffer II.2.7 der Bekanntmachung).</p>",
+      "page": 118,
+      "polygon": [
+        [
+          70.94400024414062,
+          711.5792846679688
+        ],
+        [
+          541.858642578125,
+          711.5792846679688
+        ],
+        [
+          541.858642578125,
+          781.15234375
+        ],
+        [
+          70.94400024414062,
+          781.15234375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        711.5792846679688,
+        541.858642578125,
+        781.15234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 99,
+      "polygon": [
+        [
+          294.8899841308594,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          64.51995849609375
+        ],
+        [
+          294.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.8899841308594,
+        51.780029296875,
+        314.87890625,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Einziges Zuschlagskriterium ist der Preis (Ziffer II.2.5 der Bekanntmachung).</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          141.8408203125
+        ],
+        [
+          456.5890808105469,
+          141.8408203125
+        ],
+        [
+          456.5890808105469,
+          153.3792724609375
+        ],
+        [
+          84.9765625,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        141.8408203125,
+        456.5890808105469,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In den Teilnahmebedingungen wurde unter anderem eine \"<i>Kopie eines aktuellen Handelsre</i><i>gisterauszugs (nicht älter als 6 Monate, gerechnet ab dem Angebotsschlusstermin</i>\" gefordert  Des Weiteren waren Eigenerklärungen, aktuelle (Unbedenklichkeits-)Bescheinigungen der  Berufsgenossenschaft und Krankenkassen sowie des Finanzamtes (Ziffer III.1.1 der Bekanntmachung) verlangt.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          83.8125,
+          178.8427734375
+        ],
+        [
+          541.7876586914062,
+          178.8427734375
+        ],
+        [
+          541.7876586914062,
+          268.4697265625
+        ],
+        [
+          83.8125,
+          268.4697265625
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        178.8427734375,
+        541.7876586914062,
+        268.4697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Ziffer III.1.2 der Bekanntmachung (\"<i>wirtschaftliche und finanzielle Leistungsfähigkeit</i>\")  wurde vorausgesetzt:</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          294.1531982421875
+        ],
+        [
+          541.8361206054688,
+          294.1531982421875
+        ],
+        [
+          541.8361206054688,
+          324.16925048828125
+        ],
+        [
+          84.9765625,
+          324.16925048828125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        294.1531982421875,
+        541.8361206054688,
+        324.16925048828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Betriebshaftpflichtversicherungsnachweis (Höhe lt. Musterrahmenvertrag) oder Erklä</i><i>rung darüber, dass diese in geforderter Höhe unverzüglich nach Zuschlagserteilung vor</i><i>gelegt wird (ggf. eine formlose Eigenerklärung, dass im Auftragsfall rechtzeitig vor Ver</i><i>tragsbeginn das Zertifikat vorliegt).</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          106.34000396728516,
+          331.373046875
+        ],
+        [
+          540.125,
+          331.373046875
+        ],
+        [
+          540.125,
+          399.9931640625
+        ],
+        [
+          106.34000396728516,
+          399.9931640625
+        ]
+      ],
+      "bbox": [
+        106.34000396728516,
+        331.373046875,
+        540.125,
+        399.9931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Bankerklärung zur finanziellen und wirtschaftlichen Leistungsfähigkeit des Unternehmens.</i> <i>Erklärung mit Angabe des in den letzten drei Geschäftsjahren erzielten jährlichen Gesam</i><i>tumsatzes.\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          103.6015625,
+          407.4326171875
+        ],
+        [
+          538.9609375,
+          407.4326171875
+        ],
+        [
+          538.9609375,
+          456.9931640625
+        ],
+        [
+          103.6015625,
+          456.9931640625
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        407.4326171875,
+        538.9609375,
+        456.9931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Ziffer III.1.3 der Bekanntmachung (\"<i>technische und berufliche Leistungsfähigkeit</i>\") wurde  verlangt:</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          481.84765625
+        ],
+        [
+          541.8495483398438,
+          481.84765625
+        ],
+        [
+          541.8495483398438,
+          513.9092712402344
+        ],
+        [
+          84.9765625,
+          513.9092712402344
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        481.84765625,
+        541.8495483398438,
+        513.9092712402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Auflistung und kurze Beschreibung der Eignungskriterien:</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          105.34765625,
+          521.7275390625
+        ],
+        [
+          390.1452941894531,
+          521.7275390625
+        ],
+        [
+          390.1452941894531,
+          532.8531494140625
+        ],
+        [
+          105.34765625,
+          532.8531494140625
+        ]
+      ],
+      "bbox": [
+        105.34765625,
+        521.7275390625,
+        390.1452941894531,
+        532.8531494140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>3 Referenzen für eine Betreuung</i> <i>des EAS-Systems mit EKS-Software über jeweils 2 </i> <i>Jahre kontinuierlich, unter Angabe der Auftraggeber.\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          104.765625,
+          540.6396484375
+        ],
+        [
+          541.7504272460938,
+          540.6396484375
+        ],
+        [
+          541.7504272460938,
+          571.0634765625
+        ],
+        [
+          104.765625,
+          571.0634765625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        540.6396484375,
+        541.7504272460938,
+        571.0634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Den Vergabeunterlagen war ein \"<i>Hinweisblatt Qualifikation des AN</i>\" beigefügt (als Anlage zum  Musterrahmenvertrag), in dem es heißt:</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          597.7731781005859
+        ],
+        [
+          541.7514038085938,
+          597.7731781005859
+        ],
+        [
+          541.7514038085938,
+          629.85546875
+        ],
+        [
+          84.9765625,
+          629.85546875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        597.7731781005859,
+        541.7514038085938,
+        629.85546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Der Auftragnehmer muss das Kassensystem von EKS kontinuierlich mindestens über 2 </i> <i>Jahre im Rahmen von Wartung und Instandsetzung betreut haben und die kassenspezi</i><i>fischen Hardwarekomponenten sowie die Integration des Gesamtsystems inkl. der Soft</i><i>ware […] im Detail kennen, Dies ist über mindestens 3 Referenzen nachzuweisen, der </i> <i>Auftraggeber ist anzugeben.\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          104.765625,
+          654.1123046875
+        ],
+        [
+          541.6431884765625,
+          654.1123046875
+        ],
+        [
+          541.6431884765625,
+          741.5631790161133
+        ],
+        [
+          104.765625,
+          741.5631790161133
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        654.1123046875,
+        541.6431884765625,
+        741.5631790161133
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 167,
+      "polygon": [
+        [
+          294.8899841308594,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          64.51995849609375
+        ],
+        [
+          294.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.8899841308594,
+        51.780029296875,
+        314.87890625,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach Blatt 3 des von den Bietern auszufüllenden Angebotsformschreibens war eine \"<i>Refe</i><i>renzerklärung zur Qualifikation</i>\" vom Bieter mit dem Angebot einzureichen.</p>",
+      "page": 167,
+      "polygon": [
+        [
+          84.9765625,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          153.3792724609375
+        ],
+        [
+          84.9765625,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.517578125,
+        538.9609375,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der Leistungsbeschreibung (Vertragsanlage 1 zum ausgeschriebenen Musterrahmenvertrag) heißt es unter Ziffer I \"<i>Allgemeines</i>\":</p>",
+      "page": 167,
+      "polygon": [
+        [
+          84.9765625,
+          178.8427734375
+        ],
+        [
+          538.9609375,
+          178.8427734375
+        ],
+        [
+          538.9609375,
+          210.25927734375
+        ],
+        [
+          84.9765625,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        178.8427734375,
+        538.9609375,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Gegenstand der zu erbringenden Leistung ist die Wartung und Instandhaltung von Anla</i><i>gen, Komponenten und Software, sowohl als Firmware und/oder als Anwender-Software </i> <i>des Elektronischen Erfassungs-</i> <i>und Abrechnungssystems […]. […] Die Leistung soll als </i> <i>Full-Service […], die mit dem EAS ausgestattet sind, erbracht werden.\"</i></p>",
+      "page": 167,
+      "polygon": [
+        [
+          104.765625,
+          218.1632080078125
+        ],
+        [
+          541.8389892578125,
+          218.1632080078125
+        ],
+        [
+          541.8389892578125,
+          287.3818359375
+        ],
+        [
+          104.765625,
+          287.3818359375
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        218.1632080078125,
+        541.8389892578125,
+        287.3818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Ziffer II \"<i>Zu erbringende Leistungen</i>\" werden die Wartungs- und Instandsetzungsmaßnahmen spezifiziert:</p>",
+      "page": 167,
+      "polygon": [
+        [
+          84.9765625,
+          312.0498046875
+        ],
+        [
+          538.9609375,
+          312.0498046875
+        ],
+        [
+          538.9609375,
+          343.1293029785156
+        ],
+        [
+          84.9765625,
+          343.1293029785156
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        312.0498046875,
+        538.9609375,
+        343.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Als Wartungsleistungen (Ziffer II.1.2) werden aufgelistet:</p>",
+      "page": 167,
+      "polygon": [
+        [
+          83.8125,
+          351.0492858886719
+        ],
+        [
+          358.97332763671875,
+          351.0492858886719
+        ],
+        [
+          358.97332763671875,
+          362.2080078125
+        ],
+        [
+          83.8125,
+          362.2080078125
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        351.0492858886719,
+        358.97332763671875,
+        362.2080078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/167",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>\"a) Datenschrank</i> <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht und Reinigung des Automaten-PC</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Kontrolle der Softwareapplikationen</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Prüfung nach DGUV V3 (wiederkehrende elektrische Prüfung ortsveränderlicher Ge</i><i>räte wie PC, Monitor).</i></li></ul></li><li block-type=\"ListItem\"><i>b) Kassenplatz (je Kassenplatz durchzuführen)</i> <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht und Reinigung des Kassen-PC</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht und Reinigung des Bondruckers</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Kontrolle der Kassenschublade (Schloss, Verriegelung)</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht des Buchungsterminals (Batteriespannung, Antennenleistung)</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Kontrolle / Reinigung der IR –</i> <i>Sensoren der Spurüberwachung</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Prüfung nach DGUV V3 (wiederkehrende elektrische Prüfung ortsveränderlicher Ge</i><i>räte wie Kassen-PC, Bondrucker, Monitor)</i></li></ul></li><li block-type=\"ListItem\"><i>c) Selbstbedienungsspuren</i> <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht der Buchungsterminals (Batteriespannung, Antennenleistung)</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Kontrolle / Reinigung der IR –</i> <i>Sensoren der Spurüberwachung</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Überprüfung und gegebenenfalls Befestigung der Spurkonstruktion</i></li></ul></li><li block-type=\"ListItem\"><i>d) Aufwerter</i> <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Durchsicht des Buchungsterminals (Batteriespannung, Antennenleistung)</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Überprüfung des Banknotenlaufs, Reinigung des Akzeptors EBA 40 mit Reinigungs</i><i>streifen</i></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>-</i> <i>Überprüfung des Belegdruckers</i></li></ul></li></ul></p>",
+      "page": 167,
+      "polygon": [
+        [
+          103.01953125,
+          369.9931945800781
+        ],
+        [
+          540.125,
+          369.9931945800781
+        ],
+        [
+          540.125,
+          779.5991821289062
+        ],
+        [
+          103.01953125,
+          779.5991821289062
+        ]
+      ],
+      "bbox": [
+        103.01953125,
+        369.9931945800781,
+        540.125,
+        779.5991821289062
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 99,
+      "polygon": [
+        [
+          294.798828125,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          64.51995849609375
+        ],
+        [
+          294.798828125,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        51.780029296875,
+        315.169921875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>-</i> <i>Prüfung nach DGUV V3 (wiederkehrende elektrische Prüfung ortsunveränderlicher </i> <i>Geräte)\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          120.6199951171875,
+          122.1064453125
+        ],
+        [
+          541.5575561523438,
+          122.1064453125
+        ],
+        [
+          541.5575561523438,
+          153.3631591796875
+        ],
+        [
+          120.6199951171875,
+          153.3631591796875
+        ]
+      ],
+      "bbox": [
+        120.6199951171875,
+        122.1064453125,
+        541.5575561523438,
+        153.3631591796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinsichtlich der Störungsbeseitigung und Instandsetzung (Ziffer II. 2 der Leistungsbeschreibung wird unter Ziffer 2.2 (\"<i>Ersatzteile</i>\") vorgegeben:</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          178.8427734375
+        ],
+        [
+          538.9609375,
+          178.8427734375
+        ],
+        [
+          538.9609375,
+          210.25927734375
+        ],
+        [
+          84.9765625,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        178.8427734375,
+        538.9609375,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Der Auftragnehmer führt alle notwendigen Einstellungen und Justagen, Reparaturen und</i> <i>gegebenenfalls nach Bedarf das Auswechseln von Teilen durch, um die Anlagen in be</i><i>triebsbereitem Zustand zu erhalten.\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          104.765625,
+          217.900390625
+        ],
+        [
+          538.6224365234375,
+          217.900390625
+        ],
+        [
+          538.6224365234375,
+          267.2431640625
+        ],
+        [
+          104.765625,
+          267.2431640625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        217.900390625,
+        538.6224365234375,
+        267.2431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zusätzlich wird geregelt welche Hardwarekomponenten durch den Auftraggeber (Ziffer II.2.2  lit. a) und welche durch den Auftragnehmer bereitzustellen sind (Ziffer II.2.2 lit. b).</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          293.9599609375
+        ],
+        [
+          541.4314575195312,
+          293.9599609375
+        ],
+        [
+          541.4314575195312,
+          324.3837890625
+        ],
+        [
+          84.9765625,
+          324.3837890625
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        293.9599609375,
+        541.4314575195312,
+        324.3837890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die vom Auftragnehmer bereit zu stellenden Bestandteile (die in Spalte A der Vertragsanlage 3  näher bezeichnet werden) müssen durch diesen entweder repariert oder ersetzt werden. Hierzu wird ausgeführt:</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          330.1396484375
+        ],
+        [
+          541.849365234375,
+          330.1396484375
+        ],
+        [
+          541.849365234375,
+          381.0492858886719
+        ],
+        [
+          84.9765625,
+          381.0492858886719
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        330.1396484375,
+        541.849365234375,
+        381.0492858886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Ist eine Reparatur nicht möglich, müssen spezielle Bauteile der [ASt] entweder durch </i> <i>original Ersatzteile ersetzt oder durch ähnliche Alternativprodukte getauscht werden. </i> <i>Diese müssen durch den Auftragnehmer in das Gesamtsystem integrierbar sein. Die </i> <i>Funktionsfähigkeit darf nicht eingeschränkt werden.\"</i></p>",
+      "page": 99,
+      "polygon": [
+        [
+          103.6015625,
+          388.95318603515625
+        ],
+        [
+          541.6373291015625,
+          388.95318603515625
+        ],
+        [
+          541.6373291015625,
+          458.4130859375
+        ],
+        [
+          103.6015625,
+          458.4130859375
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        388.95318603515625,
+        541.6373291015625,
+        458.4130859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Buchungsterminals des EAS gehören zu den vom Auftragnehmer bereitzustellenden Hardwarekomponenten.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          483.9092712402344
+        ],
+        [
+          538.9609375,
+          483.9092712402344
+        ],
+        [
+          538.9609375,
+          514.73828125
+        ],
+        [
+          84.9765625,
+          514.73828125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        483.9092712402344,
+        538.9609375,
+        514.73828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zu den sonstigen zu erbringenden Leistungen gehören Schulungen und die umfassende Beratung u.a. zur Weiterentwicklung des Gesamtsystems (Ziffer II. 3. und 4. der Leistungsbeschreibung).</p>",
+      "page": 99,
+      "polygon": [
+        [
+          84.9765625,
+          540.7892761230469
+        ],
+        [
+          538.9609375,
+          540.7892761230469
+        ],
+        [
+          538.9609375,
+          590.38671875
+        ],
+        [
+          84.9765625,
+          590.38671875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        540.7892761230469,
+        538.9609375,
+        590.38671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die am 22. Oktober 2021 durch notarielle Beurkundung als Unternehmergesellschaft mit beschränkter Haftung gegründete Beigeladene (Bg) erfragte, ob sie als neu gegründetes Unternehmen die Anforderungen erfüllen könne oder ausgeschlossen sei (Bieterfrage 1). Die Ag  antwortete am 25. Oktober 2021, dass neu gegründete Bieter im Rahmen der Angebotsabgabe die Bescheinigungen, Bankerklärungen usw. so beibringen sollten, wie sie von den zuständigen Stellen zur Verfügung gestellt werden können – erforderlichenfalls mit entsprechenden Erklärungen.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          82.6484375,
+          615.4658203125
+        ],
+        [
+          541.619140625,
+          615.4658203125
+        ],
+        [
+          541.619140625,
+          741.5792846679688
+        ],
+        [
+          82.6484375,
+          741.5792846679688
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        615.4658203125,
+        541.619140625,
+        741.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          294.798828125,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          64.51995849609375
+        ],
+        [
+          294.798828125,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        51.780029296875,
+        315.169921875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 29. Oktober 2021 machte die ASt die Ag darauf aufmerksam, dass die  ausgeschriebene Leistung nur durch die ASt als Herstellerin des EAS erbracht werden könne,  da für die Wartungsdienstleistungen Spezialwissen und eine Ausstattung mit Firmware und  Spezialwerkzeug erforderlich sei. Auch eine Reparatur sei nur mit Original-Ersatzteilen der  ASt möglich. Die Durchführung eines offenen Verfahrens sei daher nicht zielführend (Bieterfrage 2). Die Ag antwortete am 4. November 2021 und stellte klar, dass sie alle eingehenden  Angebote auf die Erfüllung der Leistungsmerkmale überprüfen und Bieter, die nicht alle geforderten Leistungen erfüllen können, ausschließen werde. Weiterhin wies die Ag daraufhin, dass  die Bieter keinen Anspruch auf die Wahl einer bestimmten Vergabeverfahrensart hätten.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          122.9287109375
+        ],
+        [
+          541.791748046875,
+          122.9287109375
+        ],
+        [
+          541.791748046875,
+          286.249267578125
+        ],
+        [
+          84.9765625,
+          286.249267578125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.9287109375,
+        541.791748046875,
+        286.249267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt und die (Bg) gaben jeweils ein Angebot fristgerecht vor Ablauf der Abgabefrist am 8.  November 2021 ab.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          82.6484375,
+          312.8720703125
+        ],
+        [
+          541.8467407226562,
+          312.8720703125
+        ],
+        [
+          541.8467407226562,
+          343.1293029785156
+        ],
+        [
+          82.6484375,
+          343.1293029785156
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        312.8720703125,
+        541.8467407226562,
+        343.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das ausgefüllte Angebotsformblatt der Bg wies diese als \"<i>UG i.G.</i>\" aus. In einem Begleitschreiben erklärte die Bg, dass es bei der Zusendung des Handelsregisterauszugs durch das zuständige Amtsgericht \"<i>Corona bedingte Verzögerungen gegeben</i>\" habe und stattdessen vorerst eine Kopie der Gründungsurkunde beigefügt werde.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          369.9931945800781
+        ],
+        [
+          538.9609375,
+          369.9931945800781
+        ],
+        [
+          538.9609375,
+          439.08984375
+        ],
+        [
+          84.9765625,
+          439.08984375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        369.9931945800781,
+        538.9609375,
+        439.08984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ihrem Angebot fügte die Bg auch ein Blatt \"<i>Qualifikation des AN</i>\" bei, in dem mehrere Personen  (u.a. der Geschäftsführer der Bg) unter Angabe der Tätigkeit und der Auftraggeber stichwortartig benannt wurden (Bl. 174 der Vergabeakte).</p>",
+      "page": 100,
+      "polygon": [
+        [
+          82.6484375,
+          445.66796875
+        ],
+        [
+          541.7979736328125,
+          445.66796875
+        ],
+        [
+          541.7979736328125,
+          495.00390625
+        ],
+        [
+          82.6484375,
+          495.00390625
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        445.66796875,
+        541.7979736328125,
+        495.00390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Angebot der ASt enthielt ausweislich der Vergabeakte (Bl. 114 bis 163) keine \"<i>Referenzer</i><i>klärung zur Qualifikation</i>\", wie nach Blatt 3 des Angebotsformschreibens gefordert.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          520.9052734375
+        ],
+        [
+          538.9609375,
+          520.9052734375
+        ],
+        [
+          538.9609375,
+          551.8292846679688
+        ],
+        [
+          84.9765625,
+          551.8292846679688
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        520.9052734375,
+        538.9609375,
+        551.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 24. November 2021 bat die Ag die Bg um Übersendung der vollständigen  Gründungsurkunde, da bislang nur die erste Seite übermittelt wurde, und erhielt diese am Folgetag.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          577.6416015625
+        ],
+        [
+          541.74951171875,
+          577.6416015625
+        ],
+        [
+          541.74951171875,
+          627.7892913818359
+        ],
+        [
+          84.9765625,
+          627.7892913818359
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        577.6416015625,
+        541.74951171875,
+        627.7892913818359
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit E-Mail vom 11. November 2021 bat die Ag die Bg im Rahmen einer vertieften Eignungsprüfung um Beantwortung mehrerer Fragen zur Leistungsfähigkeit der Bg. Diese beantwortete  die Bg fristgerecht am 15. November 2021.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          653.2900390625
+        ],
+        [
+          541.5638427734375,
+          653.2900390625
+        ],
+        [
+          541.5638427734375,
+          703.6592864990234
+        ],
+        [
+          84.9765625,
+          703.6592864990234
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        653.2900390625,
+        541.5638427734375,
+        703.6592864990234
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In einem internen Vermerk der Ag wurde am 23. November 2021 festgehalten:</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.9765625,
+          730.5392837524414
+        ],
+        [
+          467.13226318359375,
+          730.5392837524414
+        ],
+        [
+          467.13226318359375,
+          741.5792846679688
+        ],
+        [
+          84.9765625,
+          741.5792846679688
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        730.5392837524414,
+        467.13226318359375,
+        741.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 97,
+      "polygon": [
+        [
+          294.798828125,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          51.780029296875
+        ],
+        [
+          315.169921875,
+          64.51995849609375
+        ],
+        [
+          294.798828125,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        51.780029296875,
+        315.169921875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Um neu gegründete Unternehmen nicht zu benachteiligen, wurde in der Eignungsprüfung </i> <i>die alternative Erklärung des Bieters als adäquater Ersatz für die Nachweise (Handelsre</i><i>gisterauszug, Unbedenklichkeitsbescheinigung der BG / KK, Bescheinigung in Steuersa</i><i>chen, Bankerklärung und Umsatzerklärung) gewertet.</i></p>",
+      "page": 97,
+      "polygon": [
+        [
+          103.6015625,
+          123.36322021484375
+        ],
+        [
+          541.751953125,
+          123.36322021484375
+        ],
+        [
+          541.751953125,
+          191.587890625
+        ],
+        [
+          103.6015625,
+          191.587890625
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        123.36322021484375,
+        541.751953125,
+        191.587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die geforderten Unternehmensreferenzen hat die [Bg] durch eine Auflistung, der Qualifi</i><i>kationen der Mitarbeiter ersetzt. Hier wurden die bisherigen Tätigkeiten der Mitarbeiter </i> <i>angegeben. Diese waren für [die ASt], tätig und haben die in der Ausschreibung geforder</i><i>ten Wartungsarbeiten als Angestellte der [ASt] bereits langjährig umgesetzt.</i></p>",
+      "page": 97,
+      "polygon": [
+        [
+          106.34000396728516,
+          198.166015625
+        ],
+        [
+          541.481689453125,
+          198.166015625
+        ],
+        [
+          541.481689453125,
+          267.2431640625
+        ],
+        [
+          106.34000396728516,
+          267.2431640625
+        ]
+      ],
+      "bbox": [
+        106.34000396728516,
+        198.166015625,
+        541.481689453125,
+        267.2431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Hinweise auf eine Nichteignung [der Bg] wurden im Rahmen der Eignungsprüfung nicht </i> <i>festgestellt. Hierzu wurden dem Unternehmen vertiefende Fragen bezüglich ihrer Eignung </i> <i>zur Beantwortung vorgelegt. Die Fragen speisen sich zum Teil aus den von [der ASt] ein</i><i>gereichten \"Bieterfragen\", mit denen die Eignung alternativer Firmen seitens [der ASt] ge</i><i>nerell infrage gestellt werden. Die Fragen wurden abschließend und vollumfänglich beant</i><i>wortet, dies wurde auch von Fachseite ZP3 so bewertet […]. Somit wird die [Bg] als ge</i><i>eignet eingestuft und als Bieter zugelassen.\"</i></p>",
+      "page": 97,
+      "polygon": [
+        [
+          104.765625,
+          272.9921875
+        ],
+        [
+          541.8123779296875,
+          272.9921875
+        ],
+        [
+          541.8123779296875,
+          399.9931640625
+        ],
+        [
+          104.765625,
+          399.9931640625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        272.9921875,
+        541.8123779296875,
+        399.9931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Vorabinformation gem. § 134 GWB vom 1. Dezember 2021 teilte die Ag mit, dass sie beabsichtige, den Zuschlag auf das wirtschaftlichste Angebot der Bg am 12. Dezember 2021 zu  erteilen.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          84.9765625,
+          426.755859375
+        ],
+        [
+          541.8659057617188,
+          426.755859375
+        ],
+        [
+          541.8659057617188,
+          475.9892883300781
+        ],
+        [
+          84.9765625,
+          475.9892883300781
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        426.755859375,
+        541.8659057617188,
+        475.9892883300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Am 2. Dezember 2021 übermittelte die Bg den Handelsregisterauszug und die Gewerbeanmeldung. Die Eintragung im Handelsregister war am 29. November 2021 erfolgt.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          82.6484375,
+          481.4365234375
+        ],
+        [
+          538.5609741210938,
+          481.4365234375
+        ],
+        [
+          538.5609741210938,
+          513.9092712402344
+        ],
+        [
+          82.6484375,
+          513.9092712402344
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        481.4365234375,
+        538.5609741210938,
+        513.9092712402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben ihrer Verfahrensbevollmächtigten vom 3. Dezember 2021 rügte die ASt die beabsichtigte Zuschlagserteilung an die Bg. Die Leistungserbringung sei nur durch die ASt selbst  möglich. Die Bg könne die aufgestellten Eignungskriterien zum Nachweis der technischen und  beruflichen Leistungsfähigkeit durch Referenzen nicht erfüllen.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          84.9765625,
+          540.7892761230469
+        ],
+        [
+          541.8104248046875,
+          540.7892761230469
+        ],
+        [
+          541.8104248046875,
+          609.7099609375
+        ],
+        [
+          84.9765625,
+          609.7099609375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        540.7892761230469,
+        541.8104248046875,
+        609.7099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag bat die ASt mit Schreiben vom 7. Dezember 2021 um weitere Substantiierung ihres  Rügevortrags und ihren Vortrag zu belegen, dass nur die ASt rechtlich und faktisch in der Lage  sei, die ausgeschriebene Leistung zu erbringen. Weiterhin teilte die Ag mit, dass der Zuschlag  frühestens am 17. Dezember 2021 erteilt würde.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          84.9765625,
+          634.7890625
+        ],
+        [
+          541.7730102539062,
+          634.7890625
+        ],
+        [
+          541.7730102539062,
+          703.6592864990234
+        ],
+        [
+          84.9765625,
+          703.6592864990234
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        634.7890625,
+        541.7730102539062,
+        703.6592864990234
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben ebenfalls vom 7. Dezember 2021 bat die Ag die Bg die beigebrachten Referenzen dahingehend zu ergänzen, dass für jedes Referenzprojekt der Ausführungszeitraum, der  Auftraggeber sowie das Projekt selbst ausführlich dargestellt werde.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          84.9765625,
+          728.9384765625
+        ],
+        [
+          541.5181274414062,
+          728.9384765625
+        ],
+        [
+          541.5181274414062,
+          779.6152839660645
+        ],
+        [
+          84.9765625,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        728.9384765625,
+        541.5181274414062,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          294.8899841308594,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          51.780029296875
+        ],
+        [
+          314.87890625,
+          64.51995849609375
+        ],
+        [
+          294.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.8899841308594,
+        51.780029296875,
+        314.87890625,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Bg reichte daraufhin am 10. Dezember 2021 eine mehrseitige Auflistung mit ergänzten  Informationen jeweils zu den bereits in der Anlage zum Angebot \"<i>Qualifikation des AN</i>\" benannten Personen ein.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          84.9765625,
+          141.0185546875
+        ],
+        [
+          541.4534301757812,
+          141.0185546875
+        ],
+        [
+          541.4534301757812,
+          191.29925537109375
+        ],
+        [
+          84.9765625,
+          191.29925537109375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        141.0185546875,
+        541.4534301757812,
+        191.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 13. Dezember 2021 machte die ASt erneut geltend, dass die Leistungserbringung nur durch sie möglich sei. Unterlagen zum Beleg legte die ASt jedoch nicht vor.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          84.9765625,
+          218.1793212890625
+        ],
+        [
+          538.9609375,
+          218.1793212890625
+        ],
+        [
+          538.9609375,
+          248.7353515625
+        ],
+        [
+          84.9765625,
+          248.7353515625
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        218.1793212890625,
+        538.9609375,
+        248.7353515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag lehnte es mit Schreiben vom 15. Dezember 2021 ab, der Rüge der ASt zu entsprechen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          84.9765625,
+          274.2255859375
+        ],
+        [
+          538.9609375,
+          274.2255859375
+        ],
+        [
+          538.9609375,
+          286.249267578125
+        ],
+        [
+          84.9765625,
+          286.249267578125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        274.2255859375,
+        538.9609375,
+        286.249267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/109",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. Mit Schreiben ihrer Verfahrensbevollmächtigten vom 15. Dezember 2021 beantragte die ASt  bei der Vergabekammer des Bundes die Einleitung eines Nachprüfungsverfahrens. Die Vergabekammer hat den Nachprüfungsantrag am 16. Dezember 2021 an die Ag übermittelt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Mit ihrem Nachprüfungsantrag macht die ASt geltend, dass die beabsichtigte Zuschlagerteilung an die Bg sie ihren Rechten aus § 42 Abs. 1 VgV, § 122 Abs. 1 GWB verletze  sowie gegen den Gleichbehandlungsgrundsatz verstoße, weil die Bg ihre Eignung nicht  entsprechend der bekannt gemachten Eignungskriterien nachweisen könne und sie zur  Erbringung der ausgeschriebenen Leistung objektiv ungeeignet sei. Im Einzelnen: <ul><li block-type=\"ListItem\" class=\"list-indent-2\"> Nur die ASt sei leistungsfähig, weil die Gesamtheit der Wartungs-, Instandhaltungsund Instandsetzungsleistungen nur durch die ASt erbracht werden könne. Ziffer II.1.2 lit. a) der Leistungsbeschreibung erfordere die Kontrolle der Softwareapplikation. Dies könne nur mit Hilfe der Firmware der ASt erfolgen, wofür die interne  IT-Abteilung der ASt eingeschaltet werden müsse. Auch die Wartung der urheberrechtlich geschützten Firmware sei ausdrücklich Teil der ausgeschriebenen Leistung  als Full-Service-Vertrag (unter Verweis auf Ziffer I der Leistungsbeschreibung) und  eine nachträgliche Änderung der verlangten Leistung verstoße gegen den Transparenz- und Wettbewerbsgrundsatz.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\"> Nach Ziffer II.1.2 lit. b) und c) der Leistungsbeschreibung sei eine Durchsicht des  Buchungsterminals bzgl. der Batteriespannung und der Antennenleistung gefordert  und auch diese könne nur unter Einsatz der Firmware der ASt erfolgen. Der alle zwei  Jahre erforderliche Batteriewechsel erfordere eine neue Parametrierung des Buchungsterminals. Auch bei einer \"Störung der Firmware\" müsse eine neue Parametrierung erfolgen. Diese sei nur mit Spezialwerkzeug (Erasable Programmable Read</li></ul></li></ul></li></ul></p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.94400024414062,
+          312.8720703125
+        ],
+        [
+          541.8442993164062,
+          312.8720703125
+        ],
+        [
+          541.8442993164062,
+          751.055290222168
+        ],
+        [
+          70.94400024414062,
+          751.055290222168
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        312.8720703125,
+        541.8442993164062,
+        751.055290222168
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 121,
+      "polygon": [
+        [
+          294.5078125,
+          51.780029296875
+        ],
+        [
+          315.4609375,
+          51.780029296875
+        ],
+        [
+          315.4609375,
+          64.51995849609375
+        ],
+        [
+          294.5078125,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        294.5078125,
+        51.780029296875,
+        315.4609375,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Only Memory \"Eprom\", Parametrierlisten und Systemtastatur) möglich. Hierbei handele es sich um urheberrechtliche geschützte Eigenentwicklungen der ASt, so dass  eine rechtmäßige Verwendung durch ein anderes Unternehmen als der ASt ausgeschlossen sei. Im Besitz des Geschäftsführers der Bg befänden sich unberechtigterweise auch noch über 50 Eproms der ASt, die er an die ASt zurückzugeben habe und  nicht zur Leistungserbringung verwenden dürfe.</p>",
+      "page": 121,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.9287109375
+        ],
+        [
+          541.793212890625,
+          122.9287109375
+        ],
+        [
+          541.793212890625,
+          229.21929931640625
+        ],
+        [
+          126.88281249999999,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.9287109375,
+        541.793212890625,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zwar könne der Batteriewechsel auch alternativ unter Aufrechterhaltung der Stromversorgung wie von der Bg skizziert ohne Neu-Parametrierung durchgeführt werden,  aber diese Vorgehensweise entspräche nicht dem Stand der Technik. Bei einer Störung der Buchungsterminals, bei der Hardware-Komponenten ersetzt werden müsse,  könne eine Parametrierung nicht umgangen werden.</p>",
+      "page": 121,
+      "polygon": [
+        [
+          126.88281249999999,
+          237.2236328125
+        ],
+        [
+          541.7620239257812,
+          237.2236328125
+        ],
+        [
+          541.7620239257812,
+          325.2060546875
+        ],
+        [
+          126.88281249999999,
+          325.2060546875
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        237.2236328125,
+        541.7620239257812,
+        325.2060546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die erforderlichen Updates und Wartungsarbeiten im Rahmen der ausgeschriebenen  Leistung seien außerdem zustimmungsbedürftige Bearbeitungen i.S.d. § 69c UrhG,  die nicht als Dekompilierung i.S.d. § 69e UrhG zulässig seien.</p>",
+      "page": 121,
+      "polygon": [
+        [
+          126.88281249999999,
+          331.7841796875
+        ],
+        [
+          541.80712890625,
+          331.7841796875
+        ],
+        [
+          541.80712890625,
+          381.9423828125
+        ],
+        [
+          126.88281249999999,
+          381.9423828125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        331.7841796875,
+        541.80712890625,
+        381.9423828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/121",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Auch die gem. Ziffer II.2.2 lit. b) der Leistungsbeschreibung geforderte Reparatur mit  Original-Ersatzteilen der ASt, sei nur durch die ASt zu erbringen Dies gelte insbesondere für die von der ASt selbst entwickelten Buchungsterminals und der Einsatz von  \"<i>ähnlichen Alternativprodukte</i>\" – wie in der Leistungsbeschreibung ausdrücklich gestattet, sei praktisch nicht umsetzbar, weil es keine Alternativprodukte gäbe.</li><li block-type=\"ListItem\"> Die Bg verfüge nicht über den Quellcode der Software, das erforderliche Know-How,  das Equipment an Geräten und Firmware. Die Ag habe zwar die Nutzungsrechte an  der eingesetzten Software im IT-Vertrag erworben, jedoch nicht den Quellcode der  Software sowie <i>\"Adminrechte und Passwörter.</i>\" Diese seien für die reine Nutzung der  Software zwar nicht erforderlich, aber bei Systemeingriffen, Funktions- und Systemstörungen unerlässlich. Es sei auch nicht richtig, dass das EAS aus handelsüblichen  Komponenten bestehe. Die Firmware, die Buchungsterminals, die Steuer- und Kommunikationsplatinen könnten als Eigenentwicklungen der ASt nicht durch Alternativen  ersetzt werden.</li><li block-type=\"ListItem\"> Die Bg könne die geforderten Unternehmens-Referenzen i.S.d. § 46 Abs. 3 Satz 1  VgV nicht nachweisen, da sie sich nicht auf Tätigkeiten ihres Geschäftsführers als  ehemaligen Mitarbeiters der ASt mit Anstellungsverhältnis bis 4. Dezember 2021 berufen könne. Referenziert seien keine Eigenleistungen einer Person, sondern eine  Gesamtleistung der ASt als Unternehmen. Hierfür komme es nicht nur auf fachliche  Kenntnisse und Fähigkeiten einzelner Mitarbeiter, sondern auch die erforderliche</li></ul></p>",
+      "page": 121,
+      "polygon": [
+        [
+          104.765625,
+          387.6982421875
+        ],
+        [
+          541.8107299804688,
+          387.6982421875
+        ],
+        [
+          541.8107299804688,
+          762.8152923583984
+        ],
+        [
+          104.765625,
+          762.8152923583984
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        387.6982421875,
+        541.8107299804688,
+        762.8152923583984
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ausstattung, eine funktionierende Betriebsorganisation und eine flächendeckende Erreichbarkeit an. Die Bg habe auch keine Referenzen vorgelegt, sondern diese unzulässigerweise durch eine Auflistung der Qualifikationen der Mitarbeiter ersetzt. Eine  Nachforderung von geeigneten Referenzen durch die Ag sei im Übrigen gem. § 56  Abs. 2 VgV ausgeschlossen.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.9287109375
+        ],
+        [
+          541.81884765625,
+          122.9287109375
+        ],
+        [
+          541.81884765625,
+          210.25927734375
+        ],
+        [
+          126.88281249999999,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.9287109375,
+        541.81884765625,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">• Weiterhin fehle es an der erforderlichen Handelsregistereintragung der Bg zum Zeitpunkt der Angebotsabgabe. Zu diesem Zeitpunkt habe die Bg noch nicht existiert und  hätte nur als Vorgesellschaft in Gründung auftreten können, was sie aber nicht getan  habe. Eine Nachforderung des Handelsregisterauszugs gem. § 56 Abs. 2 VgV sei  unzulässig, weil diese Unterlage noch nicht zum Schlusstermin der Angebotsabgabe  vorgelegen habe. Außerdem sei gar keine Nachforderung erfolgt, sondern die Ag  habe der Bg eine fristlose nachträgliche Vorlage gestattet. Dies widerspreche dem  Transparenz- und Gleichbehandlungsgrundsatz.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          105.9296875,
+          218.72265625
+        ],
+        [
+          541.832763671875,
+          218.72265625
+        ],
+        [
+          541.832763671875,
+          363.44140625
+        ],
+        [
+          105.9296875,
+          363.44140625
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        218.72265625,
+        541.832763671875,
+        363.44140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt,</h2>",
+      "page": 134,
+      "polygon": [
+        [
+          105.34765625,
+          389.3427734375
+        ],
+        [
+          196.24977111816406,
+          389.3427734375
+        ],
+        [
+          196.24977111816406,
+          400.8492736816406
+        ],
+        [
+          105.34765625,
+          400.8492736816406
+        ]
+      ],
+      "bbox": [
+        105.34765625,
+        389.3427734375,
+        196.24977111816406,
+        400.8492736816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/133",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. dem Ag zu untersagen, im Vergabeverfahren […] , den Zuschlag auf das Angebot der  Bg zu erteilen;</li><li block-type=\"ListItem\">2. den Ag bei fortbestehender Beschaffungsabsicht zu verpflichten, die Angebotswertung in vergaberechtskonformer Weise unter Beachtung der Rechtsansicht der  Vergabekammer zu wiederholen;</li><li block-type=\"ListItem\">3. die Hinzuziehung der Verfahrensbevollmächtigten seitens der ASt vor der Vergabekammer für notwendig zu erklären;</li><li block-type=\"ListItem\">4. dem Ag die Kosten des Verfahrens einschließlich der zur zweckentsprechenden  Rechtsverfolgung notwendigen Aufwendungen der ASt aufzuerlegen.</li></ul></p>",
+      "page": 134,
+      "polygon": [
+        [
+          104.765625,
+          408.7692565917969
+        ],
+        [
+          541.624267578125,
+          408.7692565917969
+        ],
+        [
+          541.624267578125,
+          571.7492980957031
+        ],
+        [
+          104.765625,
+          571.7492980957031
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        408.7692565917969,
+        541.624267578125,
+        571.7492980957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner wird Akteneinsicht in die Vergabeakte des Ag beantragt.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          101.2734375,
+          587.5087890625
+        ],
+        [
+          411.8446960449219,
+          587.5087890625
+        ],
+        [
+          411.8446960449219,
+          598.6292877197266
+        ],
+        [
+          101.2734375,
+          598.6292877197266
+        ]
+      ],
+      "bbox": [
+        101.2734375,
+        587.5087890625,
+        411.8446960449219,
+        598.6292877197266
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2>b) Die Ag beantragt:</h2>",
+      "page": 134,
+      "polygon": [
+        [
+          83.8125,
+          613.8212890625
+        ],
+        [
+          191.9523162841797,
+          613.8212890625
+        ],
+        [
+          191.9523162841797,
+          625.50927734375
+        ],
+        [
+          83.8125,
+          625.50927734375
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        613.8212890625,
+        191.9523162841797,
+        625.50927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/134",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. den Nachprüfungsantrag der ASt zurückzuweisen.</li><li block-type=\"ListItem\">2. der ASt die Kosten des Verfahrens sowie ihrer Aufwendungen aufzuerlegen.</li></ul></p>",
+      "page": 134,
+      "polygon": [
+        [
+          105.9296875,
+          633.4292755126953
+        ],
+        [
+          499.38281249999994,
+          633.4292755126953
+        ],
+        [
+          499.38281249999994,
+          663.5792846679688
+        ],
+        [
+          105.9296875,
+          663.5792846679688
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        633.4292755126953,
+        499.38281249999994,
+        663.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag macht geltend, dass der Nachprüfungsantrag unbegründet sei:</p>",
+      "page": 134,
+      "polygon": [
+        [
+          103.0999984741211,
+          679.5392761230469
+        ],
+        [
+          444.1919250488281,
+          679.5392761230469
+        ],
+        [
+          444.1919250488281,
+          690.5792846679688
+        ],
+        [
+          103.0999984741211,
+          690.5792846679688
+        ]
+      ],
+      "bbox": [
+        103.0999984741211,
+        679.5392761230469,
+        444.1919250488281,
+        690.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">• Die ASt besitze kein Alleinstellungsmerkmal hinsichtlich der Wartung des EAS. Die  Hard- und Software sei seitens der Ag von der ASt mit sämtlichen Nutzungsrechten  käuflich erworben worden. Dies beinhalte auch die administrativen Berechtigungen  und Kennwörter zur dauerhaften Nutzung des EAS. Dies ergebe sich aus § 12 IT-</p>",
+      "page": 134,
+      "polygon": [
+        [
+          106.34000396728516,
+          706.326171875
+        ],
+        [
+          541.7994384765625,
+          706.326171875
+        ],
+        [
+          541.7994384765625,
+          775.055290222168
+        ],
+        [
+          106.34000396728516,
+          775.055290222168
+        ]
+      ],
+      "bbox": [
+        106.34000396728516,
+        706.326171875,
+        541.7994384765625,
+        775.055290222168
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 102,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Systemvertrag. Es handele sich um angepasste Standardsoftware und nicht um speziell für den Kunden entwickelte Individualsoftware. Die von der ASt geltend gemachten Systemeingriffe seien nicht Teil der ausgeschriebenen Leistung. In die Software  müsse nicht eingegriffen werden; die eingesetzte Software laufe stabil. Auch Softwareanpassungen seien nicht notwendig. Die Wartung der Firmware sei nicht Bestandteil der ausgeschriebenen Leistung, sondern nur die Wartung der Geräte, auf  denen auch Firmware zum Einsatz komme.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          125.71874999999999,
+          122.517578125
+        ],
+        [
+          541.6242065429688,
+          122.517578125
+        ],
+        [
+          541.6242065429688,
+          248.29925537109375
+        ],
+        [
+          125.71874999999999,
+          248.29925537109375
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        122.517578125,
+        541.6242065429688,
+        248.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/102",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\"> Die Einschaltung der IT-Abteilung der ASt sei nicht nötig, da auch für die Bg ein Systemingenieur mit Vorerfahrungen bei der ASt tätig sei. Dass nur die ASt über das  nötige Spezialwerkzeug verfüge, sei nicht nachvollziehbar. Die Ag verlasse sich insofern auf das Leistungsversprechen im Angebot der Bg, zumal dieselbe Person die  Wartungsarbeiten seit Jahren höchstpersönlich durchführe. Hinsichtlich der durchzuführenden Reparaturen habe die Ag funktionale Alternativprodukte zugelassen, so  dass kein Anlass bestehe, die Eignung der Bg in Zweifel zu ziehen. Die ASt habe  auch keine Unterlagen eingereicht, die ein Alleinstellungsmerkmal aus rechtlichen  und faktischen Gründen belegen würde, obwohl ihr hierzu mit Schreiben vom 7. Dezember 2021 Gelegenheit gegeben wurde.</li><li block-type=\"ListItem\"> Die Bg habe auch die Forderung an die Qualifikation des Auftragnehmers erfüllt, die  in der Vertragsanlage zum Musterrahmenvertrag \"Hinweisblatt Qualifikation des AN\"  aufgeführt worden sei. Intention der Referenzforderung sei es gewesen, zu verhindern, dass Firmen bei der Ausschreibung zum Zuge kommen, die über keine Erfahrung mit dem EAS verfügen. Es genüge den Anforderungen, wenn solche Erfahrungen in einem anderen Unternehmen erworben wurden, wenn das neu gegründete  Unternehmen etwa durch Personenidentität die Gewähr biete, dass die bisherigen  Leistungen weiterhin erbracht werden können. Es gehe vorliegend auch darum,  Newcomer nicht von vorneherein auszuschließen und im Sinne des Wettbewerbsprinzips ein Closed-shop-Verfahren zu verhindern. Dies sei auch in der Beantwortung  der ersten Bieterfrage am 25. Oktober 2021 klargestellt worden.</li><li block-type=\"ListItem\">c) Mit Beschluss vom 20. Dezember 2021 ist die Bg zum Verfahren hinzugezogen worden.  Sie beantragte, den Antrag der ASt auf Akteneinsicht in das Angebot der Bg abzulehnen.  Im Übrigen trägt sie ohne ausdrückliche Antragstellung zur Sache vor:</li></ul></p>",
+      "page": 102,
+      "polygon": [
+        [
+          84.9765625,
+          254.90234375
+        ],
+        [
+          541.8207397460938,
+          254.90234375
+        ],
+        [
+          541.8207397460938,
+          732.0992813110352
+        ],
+        [
+          84.9765625,
+          732.0992813110352
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        254.90234375,
+        541.8207397460938,
+        732.0992813110352
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/114",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Die Bg verfüge über die erforderliche technische und berufliche Leistungsfähigkeit.  Mehrere ehemalige fachkundige Mitarbeiter der ASt stünden nun der Bg zur Verfügung und seien in ihrer Tätigkeit sei nicht durch arbeitsvertragliche Klauseln zugunsten der ASt beschränkt. Der Geschäftsführer der Bg verfüge selbst über 14 Jahre  Erfahrung in der Betreuung des EAS und die erforderliche Ausrüstung, um den geforderten Service vollumfänglich sicherzustellen.</li><li block-type=\"ListItem\"> Die ASt verfüge über kein Alleinstellungsmerkmal. Das EAS bestehe aus Standardsoftware und standardisierten Bauteilen, die frei erworben und gegebenenfalls auch  durch Alternativprodukte ersetzt werden könnten. Die Geräte basierten auf einem älteren Stand der Technik und daher sei eine Reparatur auch im Rahmen des grundsätzlich zulässigen Reverse-Engineerings möglich und praktikabel. Bei älterer Technik bestünde teilweise gar keine andere Möglichkeit mehr, als Reparaturen auf diese  Weise vorzunehmen.</li><li block-type=\"ListItem\"> Software- und Firmwareänderungen seien nicht Teil der ausgeschriebenen Leistung.  Auch Konfigurationsänderungen der von der Ag mit unbeschränkten Nutzungsrechten erworbenen Software der ASt seien ohne weiteres möglich. Sämtliche für den  Betrieb des EAS relevante Software und Zugangsberechtigungen seien der Ag mit  dem Kauf des Systems übertragen worden.</li><li block-type=\"ListItem\"> Auch die nach Ziffer II.1.2 lit. b) und c) der Leistungsbeschreibung geforderte Durchsicht des Buchungsterminals sei ohne Einsatz von Firmware, ohne Kenntnis des  Quellcodes der Software und ohne Spezialwerkzeug möglich. Der turnusgemäß alle  zwei Jahre erforderliche Batteriewechsel an den Buchungsterminals sei auf verschiedene Art und Weise technisch durchführbar, ohne dass hierfür zwingend Spezialwerkzeuge und/oder urheberrechtlich geschützte Unterlagen der ASt zum Einsatz kommen müssen. Alle im System verwendeten elektronischen Platinen bestehen aus herkömmlichen Standardbausteinen und können von jedem Elektronikdienstleister repariert werden. Die verwendeten Programmspeicher (Eproms) seien handelsüblich und  frei am Markt erhältlich. Die Firmware bzw. die Programme des EAS seien auf diesen  Eproms unverschlüsselt gespeichert. Diese könnten aus den Geräten entnommen,  so ausgelesen und auf diese Weise zur Reparatur auf Austauschbausteine kopiert  werden. Auf diese Weise sei es möglich, mit geeignetem Spezialwerkzeug der Bg  auch die Parametrierlisten und den Quellcode auszulesen, eine Sicherheitskopie von  diesen zu erstellen, diese mit einem Analyse-System zu bearbeiten, um die Funktion  des Buchungsterminals auch nach Löschung der Parametrierlisten (Konfiguration)  vollständig wiederherzustellen. Diese Form des \"Bugfixing\" sei rechtlich zulässig und</li></ul></p>",
+      "page": 114,
+      "polygon": [
+        [
+          103.6015625,
+          122.517578125
+        ],
+        [
+          541.7777709960938,
+          122.517578125
+        ],
+        [
+          541.7777709960938,
+          782.4952774047852
+        ],
+        [
+          103.6015625,
+          782.4952774047852
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        122.517578125,
+        541.7777709960938,
+        782.4952774047852
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">technisch möglich. Auf diese Weise würden die Urheberrechte der ASt auch bei der  Behebung solcher – nach jahrelanger Erfahrung eher nicht zu erwartender – Fehler,  immer gewährleistet.</p>",
+      "page": 124,
+      "polygon": [
+        [
+          126.88281249999999,
+          123.33984375
+        ],
+        [
+          541.849609375,
+          123.33984375
+        ],
+        [
+          541.849609375,
+          172.33929443359375
+        ],
+        [
+          126.88281249999999,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        123.33984375,
+        541.849609375,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/124",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Die Bg verfüge über die hierfür erforderliche Erfahrung. Eine Abstimmung mit der  Hard- und Softwareabteilung der ASt sei nicht erforderlich. Die Bg habe vor Abgabe  des Angebots auch ausgiebig analysiert, dass sie auch mit Hilfe von Dienstleistern  und Zulieferern die im Angebot geforderten Aufgaben und Ersatzteillieferungen gewährleisten könne. Die Tätigkeit sei darauf beschränkt, die bestehende Altanlage der  Ag funktionstüchtig zu erhalten. Es seien keine urheberrechtlichen Ansprüche der ASt  bekannt, die dieser Tätigkeit entgegenstünden.</li><li block-type=\"ListItem\"> Die Firma der Bg habe bereits seit ihrer Gründung am 22. Oktober 2021 bestanden.  Lediglich die Beibringung des Handelsregisterauszugs habe sich bedingt durch die  Corona-Lage verzögert.</li><li block-type=\"ListItem\">4. Der ASt ist Akteneinsicht gewährt worden, soweit keine wichtigen Gründe gem. § 165 Abs. 2  GWB seitens der Ag und Bg geltend gemacht wurden. Mit Schreiben vom 29. Dezember 2021  hat die ASt einen Anspruch auf weitergehende Einsicht in die Vergabeakte einschließlich der  Referenzen der Bg geltend gemacht. Die Vergabekammer hat mit Schreiben vom 3. Januar  2022 ausgeführt, dass die Klärung der von der ASt aufgeworfenen Rechtsfrage, inwiefern sich  ein Bieter auf frühere Erfahrungen als Mitarbeiter bei einem anderen Bieter berufen könne,  nicht zwingend die Kenntnis der konkreten Referenzen erfordere. Hierauf käme es nur an,  wenn zweifelhaft wäre, dass die konkreten früheren Erfahrungen des Mitarbeiters geeignet  wären, die erforderlichen tatsächlichen Kenntnisse überhaupt zu vermitteln. Hierzu fehle es  bislang noch an konkretem Vortrag der ASt. Weiter wurde zusammenfassend ausgeführt, welche Inhalte im Rahmen der Akteneinsicht bislang vorenthalten wurden und dass die konkret  von der ASt geforderte Einsicht in eine interne E-Mail der Ag vom 23.11.2021 (S. 239 der  Vergabeakte) eine vorherige Belehrung der ASt zum Umgang mit Verschlusssachen (hier VS-NfD) mit Angaben zu den einbezogenen Personen auf Seiten der ASt erfordere. Mit Schreiben  der ASt vom 4. Januar 2022 wurde die erbetenen Informationen nicht vorgelegt, damit die  Voraussetzungen für den geltend gemachten Anspruch nicht geschaffen und der entsprechende Antrag so nicht weiterverfolgt.</li><li block-type=\"ListItem\">5. Alle Beteiligten haben auf die Durchführung einer mündlichen Verhandlung verzichtet. Die  Vergabekammer hat schriftlich Fragen zur weiteren Sachverhaltsaufklärung an die Beteiligten</li></ul></p>",
+      "page": 124,
+      "polygon": [
+        [
+          70.94400024414062,
+          180.4873046875
+        ],
+        [
+          541.8255615234375,
+          180.4873046875
+        ],
+        [
+          541.8255615234375,
+          762.0952835083008
+        ],
+        [
+          70.94400024414062,
+          762.0952835083008
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        180.4873046875,
+        541.8255615234375,
+        762.0952835083008
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gerichtet und einen rechtlichen Hinweis zu ihrer vorläufigen Würdigung des Nachprüfungsantrags erteilt, wozu jeweils die Möglichkeit der Stellungnahme bestand. Mit Verfügung der Vorsitzenden vom 14. Januar 2022 wurde die Entscheidungsfrist auf den 28. Januar 2022 verlängert. Auf die Schriftsätze der Beteiligten, die Vergabeakte der Ag, soweit sie der Kammer vorlag, sowie auf die Verfahrensakte wird Bezug genommen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          84.9765625,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          210.25927734375
+        ],
+        [
+          84.9765625,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.517578125,
+        538.9609375,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 112,
+      "polygon": [
+        [
+          300.2900085449219,
+          245.1793212890625
+        ],
+        [
+          309.640625,
+          245.1793212890625
+        ],
+        [
+          309.640625,
+          256.21929931640625
+        ],
+        [
+          300.2900085449219,
+          256.21929931640625
+        ]
+      ],
+      "bbox": [
+        300.2900085449219,
+        245.1793212890625,
+        309.640625,
+        256.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig, aber unbegründet. Die Entscheidung ergeht ohne Durchführung einer mündlichen Verhandlung nach Lage der Akten, § 166 Abs. 1 S. 3 Var. 1 GWB.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.94400024414062,
+          282.037109375
+        ],
+        [
+          538.9609375,
+          282.037109375
+        ],
+        [
+          538.9609375,
+          313.283203125
+        ],
+        [
+          70.94400024414062,
+          313.283203125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        282.037109375,
+        538.9609375,
+        313.283203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/112",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag ist zulässig. Insbesondere handelt es sich bei der Ag um einen öffentlichen Auftraggeber und die ausgeschriebenen Wartungsdienstleistungen haben einen  Auftragswert oberhalb der Schwellenwerte gem. § 106 GWB.  Durch die Abgabe eines Angebotes hat die ASt ihr Interesse am Auftrag gezeigt; durch den  beabsichtigten Zuschlag an die Bg droht ihr ein Schaden i.S.d. § 160 Abs. 2 GWB. Die ASt hat  die beabsichtigte Zuschlagerteilung an die Bg rechtzeitig i.S.d. § 160 Abs. 3 Satz 1 Nr. 1 GWB  gerügt und die Frist des § 160 Abs. 3 Satz 1 Nr. 4 GWB gewahrt.</li><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist jedoch unbegründet. Die Entscheidung der Ag, die Bg als leistungsfähig und geeignet anzuerkennen, bewegt sich innerhalb des ihr zustehenden Beurteilungsspielraums und ist nicht zu beanstanden (a). Die Ag war auch nicht gehalten, die Bg  wegen mangelnder Erfüllung der Referenzanforderungen auszuschließen (b). Die Bg ist auch  nicht auszuschließen, weil sie als neu gegründetes Unternehmen zunächst nur eine Gründungsurkunde und den geforderten Handelsregisterauszug erst nach Eintragung in dasselbe  vorlegte (c). <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die Entscheidung der Ag, die Bg als leistungsfähig und geeignet anzuerkennen, ist nicht zu  beanstanden. Ein Verstoß gegen § 42 Abs. 1 VgV, § 122 Abs. 1 GWB sowie gegen den  Transparenz- oder Gleichbehandlungsgrundsatz ist nicht feststellbar.</li></ul></li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.94400024414062,
+          339.1845703125
+        ],
+        [
+          541.7816772460938,
+          339.1845703125
+        ],
+        [
+          541.7816772460938,
+          686.3792877197266
+        ],
+        [
+          70.94400024414062,
+          686.3792877197266
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        339.1845703125,
+        541.7816772460938,
+        686.3792877197266
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Der öffentliche Auftraggeber ist grundsätzlich nicht verpflichtet zu überprüfen, ob die Bieter  ihre mit dem Angebot verbindlich eingegangenen vertraglichen Verpflichtungen auch einhalten werden. Vielmehr darf er sich grundsätzlich auch ohne Überprüfung auf die Leis-</p>",
+      "page": 112,
+      "polygon": [
+        [
+          98.9453125,
+          712.4931640625
+        ],
+        [
+          541.8123779296875,
+          712.4931640625
+        ],
+        [
+          541.8123779296875,
+          762.2152862548828
+        ],
+        [
+          98.9453125,
+          762.2152862548828
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        712.4931640625,
+        541.8123779296875,
+        762.2152862548828
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 106,
+      "polygon": [
+        [
+          291.888671875,
+          51.780029296875
+        ],
+        [
+          318.080078125,
+          51.780029296875
+        ],
+        [
+          318.080078125,
+          64.51995849609375
+        ],
+        [
+          291.888671875,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        51.780029296875,
+        318.080078125,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tungsversprechen der Bieter verlassen. Eine Überprüfungspflicht des öffentlichen Auftraggebers ergibt sich nur dann, wenn konkrete Tatsachen das Leistungsversprechen eines  Bieters als nicht plausibel erscheinen lassen. In diesen Fällen muss aus Gründen der  Transparenz und der Gleichbehandlung der Bieter (§ 97 Abs. 1 S. 1 und Abs. 2 GWB) der  öffentliche Auftraggeber bereit und in der Lage sein, das Leistungsversprechen der Bieter  effektiv zu verifizieren (OLG Düsseldorf, Beschluss vom 15. Januar 2020, VII-Verg 20/19  m.w.N.).</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          121.6953125
+        ],
+        [
+          541.8294067382812,
+          121.6953125
+        ],
+        [
+          541.8294067382812,
+          248.29925537109375
+        ],
+        [
+          98.9453125,
+          248.29925537109375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.6953125,
+        541.8294067382812,
+        248.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diesem Maßstab hat die Ag im vorliegenden Verfahren genügt. Die Ag hat das Angebot der  Bg, die von der ASt geltend gemachten Alleinstellungsmerkmale und die daraufhin eingeholten Erläuterungen der Bg im vorliegenden Vergabeverfahren eingehend überprüft und  ist zu der Einschätzung gelangt, die Bg werde ihr Leistungsversprechen erfüllen.</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          275.20928955078125
+        ],
+        [
+          541.6806030273438,
+          275.20928955078125
+        ],
+        [
+          541.6806030273438,
+          343.1293029785156
+        ],
+        [
+          98.9453125,
+          343.1293029785156
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        275.20928955078125,
+        541.6806030273438,
+        343.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen einer weitergehenden Sachverhaltsüberprüfung hat die Vergabekammer die  Plausibilität des Leistungsversprechens der Bg überprüft und keinerlei Beurteilungsfehler  der Ag bei deren durchgeführter Verifizierung feststellen können.</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          350.6962890625
+        ],
+        [
+          541.5706176757812,
+          350.6962890625
+        ],
+        [
+          541.5706176757812,
+          400.00927734375
+        ],
+        [
+          98.9453125,
+          400.00927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        350.6962890625,
+        541.5706176757812,
+        400.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es ist nicht zu beanstanden, wenn die Ag sich auf dieser Grundlage auf das Leistungsversprechen im Angebot der Bg verlässt, zumal wenn sie es – wie vorgetragen – als gewährleistet ansieht, dass die Leitungen auf Seiten der Bg von derselben Person durchgeführt  werden, die diese Wartungsarbeiten bereits seit Jahren höchstpersönlich als Systemingenieur vor Ort bei der Ag vorgenommen hat.</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          407.021484375
+        ],
+        [
+          541.7322387695312,
+          407.021484375
+        ],
+        [
+          541.7322387695312,
+          494.94927978515625
+        ],
+        [
+          98.9453125,
+          494.94927978515625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        407.021484375,
+        541.7322387695312,
+        494.94927978515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vorliegend ist die Bg auf die von der ASt geltend gemachten Alleinstellungsmerkmale mit  konkret substantiiertem Vortrag eingegangen und hat plausibel und nachvollziehbar dargelegt, dass sie die Gesamtheit der Wartungs-, Instandhaltungs- und Instandsetzungsleistungen wie in der Leistungsbeschreibung vorgesehen, erbringen kann, ohne Urheberrechte  der ASt zu verletzen.</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          521.8292541503906
+        ],
+        [
+          541.5375366210938,
+          521.8292541503906
+        ],
+        [
+          541.5375366210938,
+          608.8292846679688
+        ],
+        [
+          98.9453125,
+          608.8292846679688
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        521.8292541503906,
+        541.5375366210938,
+        608.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Dies hat sie insbesondere für den von der ASt insbesondere geltend gemachten turnusgemäß erforderlichen Batteriewechsel der Buchungsterminals, die Reparatur bzw. den Austausch von Komponenten und Elektronikbauteilen als auch für eine gegebenenfalls erforderliche Neukonfiguration bzw. Neu-Parametrierung der Buchungsterminals dargelegt.  Ob diese von der Bg skizzierten Vorgehensweisen im Einzelnen tatsächlich technisch geeignet sind, jegliche denkbare Störungen des EAS zu beseitigen, vermag die Vergabekammer ebenso wenig abschließend zu beurteilen, wie die Ag. Dies ist nach dem Maßstab der  Rechtsprechung aber auch nicht erforderlich. Es genügt, dass das Leistungsversprechen</p>",
+      "page": 106,
+      "polygon": [
+        [
+          98.9453125,
+          635.611328125
+        ],
+        [
+          541.6367797851562,
+          635.611328125
+        ],
+        [
+          541.6367797851562,
+          779.6152839660645
+        ],
+        [
+          98.9453125,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        635.611328125,
+        541.6367797851562,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">des Bieters vor den geltend gemachten Tatsachen plausibel erscheint. Darüber hinaus sind  Streitigkeiten über urheberrechtliche Ansprüche zwischen Bietern nicht im Rahmen eines  Nachprüfungsverfahrens zu klären.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          98.9453125,
+          122.9287109375
+        ],
+        [
+          541.8056640625,
+          122.9287109375
+        ],
+        [
+          541.8056640625,
+          172.33929443359375
+        ],
+        [
+          98.9453125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.9287109375,
+        541.8056640625,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Plausibilität des Leistungsversprechens der Bg stützt sich im Einzelnen auf folgende  Erwägungen:</p>",
+      "page": 119,
+      "polygon": [
+        [
+          98.9453125,
+          198.5771484375
+        ],
+        [
+          541.58154296875,
+          198.5771484375
+        ],
+        [
+          541.58154296875,
+          229.21929931640625
+        ],
+        [
+          98.9453125,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        198.5771484375,
+        541.58154296875,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">aa) Die Bewertung der Ag, dass das gem. § 12 IT-Systemvertrag erworbene dauerhafte  und uneingeschränkte Nutzungsrecht an der Software und dem Gesamtsystem auch die  zur dauerhaften Nutzung erforderlichen administrativen Zugriffsrechte und Passwörter umfasst, erscheint nachvollziehbar. Andernfalls liefe das eingeräumte Nutzungsrecht vollständig leer. Die Auslegung der Vertragsbestimmungen und gegebenenfalls Klärung zivilrechtlicher Ansprüche der Ag gegenüber der ASt obliegt allerdings nicht dem Vergabenachprüfungsverfahren. Es genügt, die Feststellung, dass die Ag einen Auftrag zur Wartung eines  derzeit bestehenden EAS an einer Vielzahl von Standorten ausgeschrieben hat und die  Obliegenheit hat, dem Auftragnehmer den hierzu erforderlichen Zugang zu gewähren.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          98.9453125,
+          255.3134765625
+        ],
+        [
+          541.7590942382812,
+          255.3134765625
+        ],
+        [
+          541.7590942382812,
+          419.08929443359375
+        ],
+        [
+          98.9453125,
+          419.08929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        255.3134765625,
+        541.7590942382812,
+        419.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bb) Plausibel erscheint auch, dass die Soft- oder Firmware eines laufenden IT-Systems  keiner Wartung bedarf, wenn – wie hier klar ersichtlich – keinerlei Veränderung oder Weiterentwicklung des bestehenden Systems erfolgen soll und dieses nach Einschätzung der  Ag und Bg seit Jahren stabil läuft. Vorliegend erscheint unstreitig, dass Gegenstand des  Vertrags nur die rein funktionserhaltende Wartung und ggf. Reparatur- und Instandsetzung  des laufenden Systems ist und die Auftragnehmerin zu Weiterentwicklungen nur beratend tätig werden soll (vgl. Ziffer II. 4 der Leistungsbeschreibung). Das System, das bereits vor  Jahren entwickelt wurde, entspricht nach dem Vortrag der Bg nicht mehr vollumfänglich  dem heutigen Stand der Technik, so dass eine Weiterentwicklung auch aus diesem Grund  nicht im Raum steht.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          98.9453125,
+          445.9692687988281
+        ],
+        [
+          541.8452758789062,
+          445.9692687988281
+        ],
+        [
+          541.8452758789062,
+          627.7892913818359
+        ],
+        [
+          98.9453125,
+          627.7892913818359
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        445.9692687988281,
+        541.8452758789062,
+        627.7892913818359
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Entgegen der Auffassung der ASt folgt aus der umfassenden Bezeichnung des Leistungsgegenstandes unter Ziffer I \"<i>Allgemeines</i>\", die auch auf \"<i>Firmware</i>\" Bezug nimmt, nichts  anderes. Diese allgemeine Aussage ist im Lichte der konkreten Auflistung der <i>\"zu erbrin</i><i>genden Leistungen</i>\" unter Ziffer II dahingehend zu verstehen, dass das unverändert bestehende Gesamtsystem gewartet werden muss – einschließlich der Geräte, auf denen die  (Soft- und) Firmware seit Jahren stabil läuft. Die Ag und die Bg haben übereinstimmend</p>",
+      "page": 119,
+      "polygon": [
+        [
+          98.9453125,
+          654.5234375
+        ],
+        [
+          541.8510131835938,
+          654.5234375
+        ],
+        [
+          541.8510131835938,
+          760.6552886962891
+        ],
+        [
+          98.9453125,
+          760.6552886962891
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        654.5234375,
+        541.8510131835938,
+        760.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 118,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vorgetragen, dass eine Wartung der eigentlichen Soft- und Firmware selbst oder sonstige  \"<i>Systemeingriffe</i>\" weder gefordert noch notwendig ist.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.7466430664062,
+          122.1064453125
+        ],
+        [
+          541.7466430664062,
+          153.3792724609375
+        ],
+        [
+          98.9453125,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.7466430664062,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt hat darüber hinaus nicht einmal vorgetragen, worin eine \"<i>Wartung der Firmware</i>\"  als zu erbringende Leistung i.S.d. der Ziffer II Leistungsbeschreibung konkret bestehen  könnte. Daher ist weder eine nachträgliche Änderung der verlangten Leistung dargelegt  noch ist ein Verstoß gegen den Transparenz- und Wettbewerbsgrundsatz feststellbar.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          98.9453125,
+          179.6650390625
+        ],
+        [
+          541.84912109375,
+          179.6650390625
+        ],
+        [
+          541.84912109375,
+          248.29925537109375
+        ],
+        [
+          98.9453125,
+          248.29925537109375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        179.6650390625,
+        541.84912109375,
+        248.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">cc) Hinsichtlich der Leistungen zur Störungsbeseitigung hat die Bg konkret und nachvollziehbar verschiedene technische Verfahrensweisen skizziert, mit denen sie jegliche Störungen beseitigen könne. Dies gelte auch bei Störungen einzelner Hardwarekomponenten  bzw. Elektronikbauteilen, bei denen entweder eine Reparatur oder der Einbau eines Ersatzteils erfolgen könne. Erforderlichenfalls könnte sowohl die installierte Software als auch  Firmware ausgelesen, gesichert und nach der Störungsbeseitigung zur Wiederinbetriebnahme erneut von der Sicherung zurückübertragen werden. Die Bg hat hierzu – von der  ASt unwidersprochen – vorgetragen, dass die Programmspeicher (z.B. sog. Eproms) diese  Software/Firmware/Daten (einschließlich der Quellcodes) unverschlüsselt enthalten und  daher grundsätzlich zugänglich und auslesbar sind. Auf diese Weise ist es auch plausibel,  dass etwaige Störungen der gem. § 1 Abs. 2 lit. a) und b) IT-Systemvertrag übereigneten  Soft- oder Firmware durch erneute Installation derselben, behebbar sind.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          98.9453125,
+          274.63671875
+        ],
+        [
+          541.8361206054688,
+          274.63671875
+        ],
+        [
+          541.8361206054688,
+          494.94927978515625
+        ],
+        [
+          98.9453125,
+          494.94927978515625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        274.63671875,
+        541.8361206054688,
+        494.94927978515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bezüglich des zunächst von der ASt problematisierten turnusgemäß alle zwei Jahre erforderlichen Batteriewechsels der Buchungsterminals hat sogar die ASt eingeräumt, dass dies  möglich sei, aber nicht dem Stand der Technik entspräche. Diese Einschränkung ist nicht  beachtlich, weil die Leistungsbeschreibung keinen bestimmten Stand der Technik, sondern  lediglich funktional den Wartungs- und Störungsbeseitigungserfolg vorgibt. Hinzu kommt,  dass nach übereinstimmendem Vortrag der Beteiligten das aus den Jahren 2003 bis 2007  stammende Gesamtsystem ohnehin nicht mehr dem heutigen Stand der Technik entspricht.</p>",
+      "page": 118,
+      "polygon": [
+        [
+          98.9453125,
+          521.8292541503906
+        ],
+        [
+          541.791259765625,
+          521.8292541503906
+        ],
+        [
+          541.791259765625,
+          647.5341796875
+        ],
+        [
+          98.9453125,
+          647.5341796875
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        521.8292541503906,
+        541.791259765625,
+        647.5341796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">dd) Soweit sich die ASt auf urheberrechtliche Schutzrechte gem. § 69c UrhG beruft, die  den skizzierten technischen Verfahrensweisen der Bg entgegenstünden, erscheint dies  nicht schlüssig. Zum einen wurde das dauerhafte Nutzungsrecht an dem Gesamtsystem  einschließlich sämtlicher installierter Soft- und Firmware als Standardsoftware ausdrücklich  auf die Ag übertragen (vgl. § 12 § 1 Abs. 2 lit. a) und b) IT-Systemvertrag) und zum anderen</p>",
+      "page": 118,
+      "polygon": [
+        [
+          98.9453125,
+          673.6592712402344
+        ],
+        [
+          541.761962890625,
+          673.6592712402344
+        ],
+        [
+          541.761962890625,
+          760.6552886962891
+        ],
+        [
+          98.9453125,
+          760.6552886962891
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        673.6592712402344,
+        541.761962890625,
+        760.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ist die Anfertigung von Sicherungskopien, die zur Sicherung der bestimmungsgemäßen Benutzung einschließlich der Fehlerberichtigung notwendig sind, urheberrechtlich ausdrücklich gestattet (vgl. § 69d UrhG). Soweit die ASt auf erforderliche \"<i>Updates</i>\" Bezug nimmt,  ist schon fraglich, worin diese bestehen und ob diese zur ausgeschriebenen Leistung i.S.d.  Ziffer II der Leistungsbeschreibung gehören.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.7711181640625,
+          122.517578125
+        ],
+        [
+          541.7711181640625,
+          210.25927734375
+        ],
+        [
+          98.9453125,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.7711181640625,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es ist grundsätzlich nachvollziehbar, dass auf die von der Bg beschriebenen technischen  Verfahrensweisen mit dem Know-How und den personellen Ressourcen, die die Bg konkret  benannt hat, auch die bisherige Konfiguration / Parametrierung zum Zweck der Wartung  und Störungsbeseitigung rechtlich zulässigerweise ausgelesen, gesichert und neu eingestellt werden kann, ohne dass diesbezüglich zwingend auf Parametrierlisten oder Spezialwerkzeuge zurückgegriffen werden müsste, über die ausschließlich die ASt verfügen kann.  Die ASt hat diesbezüglich konkret lediglich eine eigenentwickelte \"Systemtastatur\" benannt.  Es ist weder ersichtlich noch substantiiert vorgetragen, dass ggf. erforderliche Eingaben  nicht grundsätzlich auch mit anderen, ggf. individuell angepassten Tastaturen durch die Bg  vorgenommen werden können.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          235.5791015625
+        ],
+        [
+          541.7540283203125,
+          235.5791015625
+        ],
+        [
+          541.7540283203125,
+          419.08929443359375
+        ],
+        [
+          98.9453125,
+          419.08929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        235.5791015625,
+        541.7540283203125,
+        419.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Soweit die ASt ungeachtet dessen geltend macht, dass die Bg durch das Anbieten von  Wartungsdienstleistungen am bestehenden System ohne funktionale Veränderung oder  Weiterentwicklung Urheberrechte der ASt verletze und der Geschäftsführer der Bg aus  früherer Tätigkeit bei der ASt noch unberechtigterweise im Besitz von Gegenständen  (Eproms) der ASt sei, so ist diese gehalten, diese Ansprüche ggf. in dem hierfür vorgesehenen Rechtsweg zu klären.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          445.9692687988281
+        ],
+        [
+          541.8544311523438,
+          445.9692687988281
+        ],
+        [
+          541.8544311523438,
+          552.9736328125
+        ],
+        [
+          98.9453125,
+          552.9736328125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        445.9692687988281,
+        541.8544311523438,
+        552.9736328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">ee) Bezüglich der Verfügbarkeit von Ersatzteilen hat die Bg konkret und nachvollziehbar  vorgetragen, dass Ersatzteile für alle Komponenten des Gesamttermins – einschließlich der  von der ASt problematisierten Buchungsterminals – verfügbar seien, falls eine Reparatur  ausscheide. Die Ag hat auch ausdrücklich den Einsatz von ähnlichen Alternativprodukten  für Original-Ersatzteile zugelassen (Ziffer II 2.2 lit. b) der Leistungsbeschreibung). Demgegenüber hat die ASt nur allgemein behauptet, dass sämtliche in Vertragsanlage 3, Spalte  A genannten Komponenten der Buchungsterminals einschließlich aller verbauter Platinen  und Elektronik-Module nicht durch andere Bieter als die ASt repariert oder ersetzt werden  können, weil es durchweg Eigenentwicklungen seien. Dieser Vortrag erscheint gegenüber  dem Vorbringen der Bg nicht hinreichend substantiiert und ist in dieser Pauschalität nicht  nachvollziehbar. Vielmehr erscheint es lebensfremd, dass ein Hersteller von spezifischer</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          577.23046875
+        ],
+        [
+          541.8032836914062,
+          577.23046875
+        ],
+        [
+          541.8032836914062,
+          779.6152839660645
+        ],
+        [
+          98.9453125,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        577.23046875,
+        541.8032836914062,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 108,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hardware von begrenzter Stückzahl – wie etwa den verfahrensgegenständlichen Buchungsterminals – sämtliche Elektronikbauteile – einschließlich der verbauten Platinen – hierfür selbst entwickelt und nicht soweit wie möglich auf vorgefertigte und standardisierte  Elektronikprodukte am Markt zurückgreift. Plausibel erscheint dagegen, dass die Buchungsterminals aus frei am Markt verfügbaren Elektronikbauteilen zusammengesetzt sind  und diese bei Ausfall einzelner Komponenten ersetzbar sind.</p>",
+      "page": 108,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.625732421875,
+          122.1064453125
+        ],
+        [
+          541.625732421875,
+          229.21929931640625
+        ],
+        [
+          98.9453125,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.625732421875,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Es besteht keine Verpflichtung der Ag, das Angebot der Bg aufgrund mangelnder Erfüllung  der Referenzanforderungen auszuschließen.</p>",
+      "page": 108,
+      "polygon": [
+        [
+          84.9765625,
+          256.1357421875
+        ],
+        [
+          541.7362670898438,
+          256.1357421875
+        ],
+        [
+          541.7362670898438,
+          286.5595703125
+        ],
+        [
+          84.9765625,
+          286.5595703125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        256.1357421875,
+        541.7362670898438,
+        286.5595703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen der materiellen Prüfung entscheidet der öffentliche Auftraggeber, ob die Eignungsvoraussetzungen tatsächlich vorliegen, wobei ihm insoweit ein im Nachprüfungs- und  im Beschwerdeverfahren nur eingeschränkt überprüfbarer Beurteilungsspielraum zusteht.  Der Auftraggeber überschreitet jedoch seinen Beurteilungsspielraum, wenn er ausdrücklich  benannte Eignungskriterien unberücksichtigt lässt und Bieter, die die Eignungsanforderungen nicht erfüllen, nicht zwingend wegen fehlender Eignung ausschließt (OLG Düsseldorf,  Beschluss vom 17. April 2019 – VII-Verg 36/18).</p>",
+      "page": 108,
+      "polygon": [
+        [
+          98.9453125,
+          312.0498046875
+        ],
+        [
+          541.84716796875,
+          312.0498046875
+        ],
+        [
+          541.84716796875,
+          438.0492858886719
+        ],
+        [
+          98.9453125,
+          438.0492858886719
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        312.0498046875,
+        541.84716796875,
+        438.0492858886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vorliegend überschreitet die Entscheidung der Ag, die \"<i>Referenzerklärung zur Qualifikation</i>\"  (Angebotsformblatt, Bl. 3) nicht den ihr zustehenden Beurteilungsspielraum, den sie aufgrund der wirksam bekannt gemachten Eignungsanforderungen ausüben darf.</p>",
+      "page": 108,
+      "polygon": [
+        [
+          98.9453125,
+          464.9331970214844
+        ],
+        [
+          541.84912109375,
+          464.9331970214844
+        ],
+        [
+          541.84912109375,
+          514.3271484375
+        ],
+        [
+          98.9453125,
+          514.3271484375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        464.9331970214844,
+        541.84912109375,
+        514.3271484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach der Bekanntmachung waren lediglich drei Referenzen für eine Betreuung des verfahrensgegenständlichen EAS über zwei Jahre unter Angabe des Auftraggebers verlangt. Dies  wurde durch das Hinweisblatt \"Qualifikation des AN\" dahingehend präzisiert, dass der Auftragnehmer das EAS/EKS \"<i>betreut</i>\" haben und das Gesamtsystem inklusive der Software  \"<i>im Detail kennen muss</i>\".</p>",
+      "page": 108,
+      "polygon": [
+        [
+          96.6171875,
+          521.8292541503906
+        ],
+        [
+          541.6367797851562,
+          521.8292541503906
+        ],
+        [
+          541.6367797851562,
+          608.8876953125
+        ],
+        [
+          96.6171875,
+          608.8876953125
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        521.8292541503906,
+        541.6367797851562,
+        608.8876953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diese Vorgaben sind nach dem objektiven Empfängerhorizont des fachkundigen Bieters  dahingehend auslegungsfähig, dass es dem Auftraggeber hier in erster Linie und für die  Bieter erkennbar auf (persönliche) Erfahrung und Detailkenntnisse im Umgang mit dem  Ausschreibungsgegenstand ankam. Solche Kenntnisse werden den Bietern als Unternehmen nur über die zur Verfügung stehenden personellen Ressourcen vermittelt.</p>",
+      "page": 108,
+      "polygon": [
+        [
+          98.9453125,
+          634.3779296875
+        ],
+        [
+          541.7982177734375,
+          634.3779296875
+        ],
+        [
+          541.7982177734375,
+          722.6192855834961
+        ],
+        [
+          98.9453125,
+          722.6192855834961
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        634.3779296875,
+        541.7982177734375,
+        722.6192855834961
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          291.888671875,
+          51.780029296875
+        ],
+        [
+          318.080078125,
+          51.780029296875
+        ],
+        [
+          318.080078125,
+          64.51995849609375
+        ],
+        [
+          291.888671875,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        51.780029296875,
+        318.080078125,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Beantwortung der Bieterfrage 1 der Bg hat die Ag dieses Verständnis der Eignungsanforderungen auch noch einmal ausdrücklich noch während der Angebotsphase für alle Bieter transparent klargestellt und ausgeführt, dass auch neugegründete Unternehmen ausdrücklich zum Wettbewerb zugelassen sind. Hiermit brachte die Ag vorliegend ihr Verständnis zum Ausdruck, dass die im vorliegenden Verfahren geforderten Referenzen auch von  anderen Unternehmen grundsätzlich übertragbar sind, weil kein neu gegründetes Unternehmen schon begrifflich für sich genommen über keine eigenen früheren Referenzen verfügen kann.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.5265502929688,
+          122.517578125
+        ],
+        [
+          541.5265502929688,
+          267.25927734375
+        ],
+        [
+          98.9453125,
+          267.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.5265502929688,
+        267.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Damit war für alle Bieter des angesprochenen Bieterkreises klar ersichtlich, dass nicht zwingend unternehmensspezifische Referenzen gefordert waren, sondern der Nachweis des  den Bietern konkret zur Verfügung stehenden, qualifizierten Personals ebenso tauglich sein  sollte.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          292.7265625
+        ],
+        [
+          541.8414306640625,
+          292.7265625
+        ],
+        [
+          541.8414306640625,
+          362.08929443359375
+        ],
+        [
+          98.9453125,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        292.7265625,
+        541.8414306640625,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es kommt nicht darauf an, dass die ASt ausweislich ihrer Bieterfrage 2 auch konkret erkannt  hat, dass diese Auslegung der Eignungsanforderungen seitens der Ag die Zulassung weiterer Bieter grundsätzlich gestattet. Jedenfalls war zum diesem Zeitpunkt für alle Bieter  i.S.d. § 160 Abs. 3 S. 1 Nr. 3 GWB die wettbewerbsoffene Auslegung der Referenzanforderungen durch die Ag erkennbar. Weiterhin war erkennbar, dass die Ag gerade keine weitergehenden unternehmensspezifischen Eignungsanforderungen – etwa im Hinblick auf  eine gewisse Mindestdauer des Geschäftsbetriebs, Anzahl der Mitarbeiter oder des Umsatzes – aufgestellt hat. Gleichwohl hat die ASt diese Eignungsanforderungen in der, mit Beantwortung der Bieterfrage 1 durch die Ag am 25. Oktober 2021 klargestellten Fassung  weder gerügt, noch deren für den Auftrag unzureichende Festlegung im weiteren Verfahren  geltend gemacht. Daher muss sich die ASt aber auch an der wettbewerbsoffenen Auslegung der Eignungsanforderungen im weiteren Verfahren festhalten lassen. Ein Verstoß gegen den Transparenz- und Gleichbehandlungsgrundsatz ist nicht erkennbar.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          388.9692687988281
+        ],
+        [
+          541.8687744140625,
+          388.9692687988281
+        ],
+        [
+          541.8687744140625,
+          628.2109375
+        ],
+        [
+          98.9453125,
+          628.2109375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        388.9692687988281,
+        541.8687744140625,
+        628.2109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dies gilt umso mehr, als die ASt – anders als die Bg – ausweislich der Vergabeakte selbst  gar keine \"<i>Referenzerklärung zur Qualifikation</i>\" abgegeben hat, obwohl dies nach Blatt 3  des mit dem Angebot eingereichten Angebotsformschreibens erforderlich war. Die Ag hat  auch davon abgesehen, diese Erklärung nachzufordern, offenbar in der – wohl durchaus  berechtigten – Erwartung, dass die ASt grundsätzlich über hinreichend qualifizierte Mitarbeiter zur Wartung ihres eigenen Systems verfüge und die geringen Referenzanforderungen unproblematisch werde erfüllen können.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          98.9453125,
+          654.6992797851562
+        ],
+        [
+          541.849365234375,
+          654.6992797851562
+        ],
+        [
+          541.849365234375,
+          779.6152839660645
+        ],
+        [
+          98.9453125,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        654.6992797851562,
+        541.849365234375,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 107,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Bg hat hingegen eine Referenzerklärung \"<i>Qualifikation des AN</i>\" mit ihrem Angebot abgegeben. Aufgrund dieser Angaben macht die Bg geltend, dass mehrere Personen, darunter der Geschäftsführer der Bg, als ehemalige Beschäftigte der ASt über Erfahrung mit der  Wartung und Instandsetzung des EAS-Systems bei zumindest drei Auftraggebern verfügen. Lediglich die Angabe der Dauer der Erfahrung fehlte und wurde im Rahmen einer  zulässigen Angebotsaufklärung von der Bg mit einer detaillierten Auflistung am 10. Dezember 2021 ergänzt.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          98.9453125,
+          141.4296875
+        ],
+        [
+          541.659912109375,
+          141.4296875
+        ],
+        [
+          541.659912109375,
+          267.25927734375
+        ],
+        [
+          98.9453125,
+          267.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        141.4296875,
+        541.659912109375,
+        267.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Weiterhin hat die Bg geltend gemacht, dass diese Personen als ehemalige Mitarbeiter der  ASt nicht durch nachlaufende arbeitsvertragliche Klauseln oder Wettbewerbsverbote in ihrer zukünftigen Tätigkeit beschränkt seien. Dies ist als zutreffend zu unterstellen, denn die  ASt ist diesem Vortrag nicht entgegengetreten.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          98.9453125,
+          293.1376953125
+        ],
+        [
+          541.5263671875,
+          293.1376953125
+        ],
+        [
+          541.5263671875,
+          362.08929443359375
+        ],
+        [
+          98.9453125,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        293.1376953125,
+        541.5263671875,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dass von den seitens der Bg benannten Personen jedenfalls der Geschäftsführer der Bg  tatsächlich über die erforderlichen Erfahrungen und Kenntnisse verfügt, wird auch gar nicht  von der ASt bestritten. Diese beanstandet lediglich, dass diese im Rahmen seiner früheren,  langjährigen Tätigkeit für die ASt erworben wurden und mit dem personellen Wechsel nun  von einem konkurrierenden Unternehmen geltend gemacht werden. Ein solcher Wettbewerb durch sogenannte Newcomer, die aus früherer Tätigkeit ihrer Mitarbeiter bei einem  anderen Unternehmen – hier der ASt - erworbenes Know-how mitbringen, ist aber durch  die Eignungsanforderungen der vorliegenden Ausschreibung nicht ausgeschlossen, sondern wurde sogar explizit von der Ag zugelassen (vgl. Antwort auf Bieterfrage 1).</p>",
+      "page": 107,
+      "polygon": [
+        [
+          98.9453125,
+          388.9692687988281
+        ],
+        [
+          541.7509765625,
+          388.9692687988281
+        ],
+        [
+          541.7509765625,
+          551.8292846679688
+        ],
+        [
+          98.9453125,
+          551.8292846679688
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        388.9692687988281,
+        541.7509765625,
+        551.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach den Grundsätzen der Rechtsprechung ist es für die Zurechnung früherer Referenzen  zu einem neuen Unternehmen erforderlich, dass – wie hier – eine weitgehende Identität  zwischen den Personen, die für die Referenzaufträge zuständig waren und den Mitarbeitern  in den neu gegründeten Unternehmen festgestellt werden kann. Denn in diesen Fallkonstellation kann der Auftraggeber sicher sein, dass das neu gegründete Unternehmen die  Gewähr dafür bietet, dass die bisherigen Leistungen des vorherigen Unternehmens und  Referenzgebers auch weiterhin erbracht werden (OLG Frankfurt, Beschluss vom 9. Juli  2010 – 11 Verg 5/10; OLG Düsseldorf, Beschluss vom 17. April 2019 – VII-Verg 36/18; vgl.  a. Vergabekammer Südbayern, Beschluss vom 25. Februar 2021 - 3194.Z3-3_01-20-47).</p>",
+      "page": 107,
+      "polygon": [
+        [
+          98.9453125,
+          578.8292846679688
+        ],
+        [
+          541.7994384765625,
+          578.8292846679688
+        ],
+        [
+          541.7994384765625,
+          741.5792846679688
+        ],
+        [
+          98.9453125,
+          741.5792846679688
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        578.8292846679688,
+        541.7994384765625,
+        741.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 103,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diesen Anforderungen sind vorliegend erfüllt. In der Person des Geschäftsführers der Bg  ist auch institutionell gewährleistet, dass das die Bg über diese personelle Ressource auch  verfügen kann.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          98.9453125,
+          121.2841796875
+        ],
+        [
+          541.7029418945312,
+          121.2841796875
+        ],
+        [
+          541.7029418945312,
+          172.33929443359375
+        ],
+        [
+          98.9453125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.2841796875,
+        541.7029418945312,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Soweit die ASt geltend macht, dass sich die Bg nicht die Erfahrungen ihres Geschäftsführers als früheren Mitarbeiters der ASt (als Geschäftsführer und Prokurist) zu eigen machen  könne, weil für diese Leistungen die gesamte Betriebsorganisation der ASt erforderlich gewesen sei und diese nicht von der Bg zur Verfügung gestellt werden könne, ist dies unerheblich. Die ausgeschriebene Leistung bezieht sich auf Wartungsdienstleistungen, die von  Systemtechnikern im Außendienst an einem bestehenden EAS-System nach Bedarf an einer Vielzahl von Standorten der […] erbracht wird. Diese Tätigkeit betrifft nur einen Teilbereich des gesamten Leistungsspektrums der ASt als Herstellerin und Anbieterin solcher  Systeme. Dafür, dass es objektiv unmöglich ist, die ausgeschriebenen Wartungsdienstleistungen mit den auf die Bg übergegangenen personellen Ressourcen und Erfahrungen in  neu gegründeten Unternehmensstrukturen zu erbringen, fehlt es nach der erfolgten Sachverhaltsaufklärung an Anhaltspunkten.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          98.9453125,
+          198.98828125
+        ],
+        [
+          541.8150024414062,
+          198.98828125
+        ],
+        [
+          541.8150024414062,
+          419.35546875
+        ],
+        [
+          98.9453125,
+          419.35546875
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        198.98828125,
+        541.8150024414062,
+        419.35546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) Es ist auch nicht zu beanstanden, dass die Ag als Bieterin ein in Gründung befindliches  Unternehmen zugelassen und im Rahmen der Nachforderung des Handelsregistereintrags  die fristgerechte Vorlage der Gründungsurkunde genügen ließ.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          84.9765625,
+          445.9692687988281
+        ],
+        [
+          541.6704711914062,
+          445.9692687988281
+        ],
+        [
+          541.6704711914062,
+          494.94927978515625
+        ],
+        [
+          84.9765625,
+          494.94927978515625
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        445.9692687988281,
+        541.6704711914062,
+        494.94927978515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bereits in der Gründungsphase ist auch eine haftungsbeschränkte juristische Person, wie  vorliegend die Bg als haftungsbeschränkte Unternehmergesellschaft UG als Variante der  GmbH, grundsätzlich über ihre Geschäftsführung rechtsfähig. Lediglich die an die Handelsregistereintragung anknüpfenden Vorschriften des Gesellschaftsrechts finden noch keine  Anwendung (z.B. die Haftungsbeschränkung). Vorliegend ist auch nicht konkret ersichtlich,  dass die insofern noch bestehenden rechtlichen Einschränkungen, die sich im Rechtsverkehr regelmäßig nur zu Lasten der Gesellschafter der juristischen Person in Gründung auswirken können (wie z.B. die persönliche Haftung des gründenden Gesellschafters), die Eignung der Bg und deren Teilnahme am Vergabeverfahren grundsätzlich in Frage stellen.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          98.9453125,
+          521.8292541503906
+        ],
+        [
+          541.7763671875,
+          521.8292541503906
+        ],
+        [
+          541.7763671875,
+          684.947265625
+        ],
+        [
+          98.9453125,
+          684.947265625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        521.8292541503906,
+        541.7763671875,
+        684.947265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Bg hat den Umstand, dass es sich um ein neu gegründetes Unternehmen handelt gegenüber der Ag transparent gemacht. In der Bieterfrage 1 und dem Angebotsbegleitschreiben hat sie hierauf ausdrücklich hingewiesen. Im ausgefüllten Angebotsformblatt hat sie als  Unternehmensform \"<i>UG i.G</i>.\" angegeben.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          98.9453125,
+          709.2041015625
+        ],
+        [
+          541.6146850585938,
+          709.2041015625
+        ],
+        [
+          541.6146850585938,
+          779.6152839660645
+        ],
+        [
+          98.9453125,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        709.2041015625,
+        541.6146850585938,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 94,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag hat in ihrer Beantwortung der Bieterfrage 1 am 25. Oktober 2021 ausdrücklich bestätigt, dass neu gegründete Unternehmen zum Verfahren zugelassen werden und diese  die geforderten Unterlagen nur soweit beizubringen haben, wie sie von den zuständigen  Stellen zur Verfügung gestellt wurden (zur Auslegung von Eignungsanforderungen von Umsätzen der letzten drei Geschäftsjahre sowie einer dreijährigen Geschäftstätigkeit in Bezug  auf \"Newcomer\" vgl. a. OLG Dresden, Beschluss vom 5. Februar 2021 – Verg 4/20). Diese  Vorgehensweise hat die Ag allen Bietern gegenüber noch in der Angebotsphase bekannt  gegeben, ohne dass dies von der ASt gem. § 160 Abs. 3 Satz 1 Nr. 3 GWB gerügt wurde.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          98.9453125,
+          142.251953125
+        ],
+        [
+          541.7926635742188,
+          142.251953125
+        ],
+        [
+          541.7926635742188,
+          286.249267578125
+        ],
+        [
+          98.9453125,
+          286.249267578125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        142.251953125,
+        541.7926635742188,
+        286.249267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch bereits aus der Bekanntmachung war für die Bieter erkennbar, dass die Ag eine wettbewerbsoffene Auslegung der Eignungsvoraussetzungen verfolgte. So genügte es gem.  Ziffer III.1.2 der Bekanntmachung zur Darlegung der wirtschaftlichen und finanziellen Leistungsfähigkeit, wenn ein Betriebshaftpflichtversicherungsnachweis im Auftragsfall rechtzeitig vor Vertragsbeginn vorgelegt werde.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          98.9453125,
+          313.1292724609375
+        ],
+        [
+          541.5264892578125,
+          313.1292724609375
+        ],
+        [
+          541.5264892578125,
+          400.0322265625
+        ],
+        [
+          98.9453125,
+          400.0322265625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        313.1292724609375,
+        541.5264892578125,
+        400.0322265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es ist daher nicht zu beanstanden, dass die Ag entsprechend ihres für alle Bieter transparent gemachten Verständnisses der Eignungsanforderungen zunächst die mit dem Angebot  der Bg vorgelegte Gründungsurkunde genügen ließ und den Handelsregisterauszug berücksichtigte, sobald dieser unmittelbar nach einer pandemiebedingt verzögerten Eintragung der Bg ins Handelsregister vorlag.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          98.9453125,
+          426.3447265625
+        ],
+        [
+          541.61474609375,
+          426.3447265625
+        ],
+        [
+          541.61474609375,
+          514.3271484375
+        ],
+        [
+          98.9453125,
+          514.3271484375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        426.3447265625,
+        541.61474609375,
+        514.3271484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 94,
+      "polygon": [
+        [
+          298.58203125,
+          557.9072265625
+        ],
+        [
+          311.38671875,
+          557.9072265625
+        ],
+        [
+          311.38671875,
+          570.7892761230469
+        ],
+        [
+          298.58203125,
+          570.7892761230469
+        ]
+      ],
+      "bbox": [
+        298.58203125,
+        557.9072265625,
+        311.38671875,
+        570.7892761230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 3 S. 1, Abs. 4 S. 1 und 2 GWB.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          70.94400024414062,
+          597.7892761230469
+        ],
+        [
+          453.2607727050781,
+          597.7892761230469
+        ],
+        [
+          453.2607727050781,
+          609.7099609375
+        ],
+        [
+          70.94400024414062,
+          609.7099609375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        597.7892761230469,
+        453.2607727050781,
+        609.7099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kosten (Gebühren und Auslagen) sowie die zur zweckentsprechenden Rechtsverteidigung  notwendigen Aufwendungen der Ag sind der ASt aufzuerlegen, da sie im Verfahren unterliegt.  Darüber hinaus entspricht es der Billigkeit, der ASt auch die Aufwendungen der Bg aufzuerlegen,  denn die ASt hat der Bg die Eignung abgesprochen und sich dadurch in einen spezifischen Interessensgegensatz zu dieser gesetzt. Die Bg hat sich am Nachprüfungsverfahren aktiv beteiligt,  ist dem Vortrag der ASt in mehreren Stellungnahmen entgegengetreten und damit das Verfahren  gefördert.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          70.94400024414062,
+          635.7092742919922
+        ],
+        [
+          541.7424926757812,
+          635.7092742919922
+        ],
+        [
+          541.7424926757812,
+          760.6552886962891
+        ],
+        [
+          70.94400024414062,
+          760.6552886962891
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        635.7092742919922,
+        541.7424926757812,
+        760.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 53,
+      "polygon": [
+        [
+          289.560546875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          289.560546875,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        289.560546875,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 53,
+      "polygon": [
+        [
+          298.0,
+          140.607421875
+        ],
+        [
+          311.96875,
+          140.607421875
+        ],
+        [
+          311.96875,
+          153.3792724609375
+        ],
+        [
+          298.0,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        298.0,
+        140.607421875,
+        311.96875,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist innerhalb einer Notfrist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt, schriftlich beim Oberlandesgericht Düsseldorf - Vergabesenat - einzulegen.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          69.84375,
+          201.8662109375
+        ],
+        [
+          540.125,
+          201.8662109375
+        ],
+        [
+          540.125,
+          253.21929931640625
+        ],
+        [
+          69.84375,
+          253.21929931640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        201.8662109375,
+        540.125,
+        253.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          68.6796875,
+          279.1591796875
+        ],
+        [
+          538.609375,
+          279.1591796875
+        ],
+        [
+          538.609375,
+          310.249267578125
+        ],
+        [
+          68.6796875,
+          310.249267578125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        279.1591796875,
+        538.609375,
+        310.249267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerde ist bei Gericht als elektronisches Dokument einzureichen. Dieses muss mit einer  qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der  verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden.  Dies gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Ist die Übermittlung  als elektronisches Dokument aus technischen Gründen vorübergehend nicht möglich, bleibt die  Übermittlung nach den allgemeinen Vorschriften zulässig.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          70.94400024414062,
+          316.572265625
+        ],
+        [
+          541.8558349609375,
+          316.572265625
+        ],
+        [
+          541.8558349609375,
+          424.00927734375
+        ],
+        [
+          70.94400024414062,
+          424.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        316.572265625,
+        541.8558349609375,
+        424.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/23/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der Vergabekammer angefochten</p>",
+      "page": 53,
+      "polygon": [
+        [
+          69.84375,
+          451.00927734375
+        ],
+        [
+          541.5682373046875,
+          451.00927734375
+        ],
+        [
+          541.5682373046875,
+          482.2587890625
+        ],
+        [
+          69.84375,
+          482.2587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        451.00927734375,
+        541.5682373046875,
+        482.2587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/24/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 34,
+      "polygon": [
+        [
+          291.8899841308594,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          51.780029296875
+        ],
+        [
+          317.96600341796875,
+          64.51995849609375
+        ],
+        [
+          291.8899841308594,
+          64.51995849609375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        51.780029296875,
+        317.96600341796875,
+        64.51995849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/24/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">und eine abweichende Entscheidung beantragt wird, und die Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 34,
+      "polygon": [
+        [
+          70.94400024414062,
+          121.6953125
+        ],
+        [
+          538.9609375,
+          121.6953125
+        ],
+        [
+          538.9609375,
+          153.3792724609375
+        ],
+        [
+          70.94400024414062,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        121.6953125,
+        538.9609375,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/24/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist.  Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht  auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über die  Beschwerde verlängern.</p>",
+      "page": 34,
+      "polygon": [
+        [
+          69.84375,
+          180.076171875
+        ],
+        [
+          541.8466796875,
+          180.076171875
+        ],
+        [
+          541.8466796875,
+          267.25927734375
+        ],
+        [
+          69.84375,
+          267.25927734375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        180.076171875,
+        541.8466796875,
+        267.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/24/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Brune</p>",
+      "page": 34,
+      "polygon": [
+        [
+          153.65625,
+          312.8720703125
+        ],
+        [
+          441.6805725097656,
+          312.8720703125
+        ],
+        [
+          441.6805725097656,
+          324.16925048828125
+        ],
+        [
+          153.65625,
+          324.16925048828125
+        ]
+      ],
+      "bbox": [
+        153.65625,
+        312.8720703125,
+        441.6805725097656,
+        324.16925048828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/24/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 34,
+      "polygon": [
+        [
+          413.533203125,
+          313.283203125
+        ],
+        [
+          443.21679687499994,
+          313.283203125
+        ],
+        [
+          443.21679687499994,
+          321.505859375
+        ],
+        [
+          413.533203125,
+          321.505859375
+        ]
+      ],
+      "bbox": [
+        413.533203125,
+        313.283203125,
+        443.21679687499994,
+        321.505859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/9/SectionHeader/9"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "18": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "19": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "20": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "21": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "22": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "23": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "24": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

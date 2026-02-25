@@ -1,0 +1,728 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 135,
+      "polygon": [
+        [
+          31.4005859375,
+          21.37890625
+        ],
+        [
+          166.4900390625,
+          21.37890625
+        ],
+        [
+          166.4900390625,
+          75.6484375
+        ],
+        [
+          31.4005859375,
+          75.6484375
+        ]
+      ],
+      "bbox": [
+        31.4005859375,
+        21.37890625,
+        166.4900390625,
+        75.6484375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC1AcIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkZ1RSzMFUdSaWvN/jB4pfRfDqabaYa+1A+XGPY8E/qKAOq1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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 19. März 2014</p>",
+      "page": 135,
+      "polygon": [
+        [
+          73.3359375,
+          124.162109375
+        ],
+        [
+          536.7420043945312,
+          124.162109375
+        ],
+        [
+          536.7420043945312,
+          136.39678955078125
+        ],
+        [
+          73.3359375,
+          136.39678955078125
+        ]
+      ],
+      "bbox": [
+        73.3359375,
+        124.162109375,
+        536.7420043945312,
+        136.39678955078125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Papier Mettler</b> <b>erwirbt alle Anteile an Meyer &amp; Stemmle </b></h2>",
+      "page": 135,
+      "polygon": [
+        [
+          69.26171875,
+          176.3759765625
+        ],
+        [
+          358.1962890625,
+          176.3759765625
+        ],
+        [
+          358.1962890625,
+          189.63818359375
+        ],
+        [
+          69.26171875,
+          189.63818359375
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        176.3759765625,
+        358.1962890625,
+        189.63818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Serviceverpackungen aus Papier</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.91999816894531,
+          206.7998046875
+        ],
+        [
+          373.6640625,
+          206.7998046875
+        ],
+        [
+          373.6640625,
+          219.9610595703125
+        ],
+        [
+          70.91999816894531,
+          219.9610595703125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        206.7998046875,
+        373.6640625,
+        219.9610595703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B3-21/14</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.42578125,
+          236.4013671875
+        ],
+        [
+          255.6255645751953,
+          236.4013671875
+        ],
+        [
+          255.6255645751953,
+          250.61724853515625
+        ],
+        [
+          70.42578125,
+          250.61724853515625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        236.4013671875,
+        255.6255645751953,
+        250.61724853515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 19. Februar 2014</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.9090576171875,
+          267.6474609375
+        ],
+        [
+          295.3841857910156,
+          267.6474609375
+        ],
+        [
+          295.3841857910156,
+          281.21844482421875
+        ],
+        [
+          70.9090576171875,
+          281.21844482421875
+        ]
+      ],
+      "bbox": [
+        70.9090576171875,
+        267.6474609375,
+        295.3841857910156,
+        281.21844482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat den Erwerb sämtlicher Anteile an der Meyer-Stemmle AG &amp; Co. KG  (\"Meyer-Stemmle\") durch Papier Mettler, Inhaber Michael Mettler e.K. (\"Mettler\"), in der ersten  Phase der fusionskontrollrechtlichen Prüfung freigegeben.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          68.6796875,
+          309.994140625
+        ],
+        [
+          541.6434936523438,
+          309.994140625
+        ],
+        [
+          541.6434936523438,
+          358.6134948730469
+        ],
+        [
+          68.6796875,
+          358.6134948730469
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        309.994140625,
+        541.6434936523438,
+        358.6134948730469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen dieses Fusionskontrollverfahrens hat sich das Bundeskartellamt auf den Markt konzentriert, auf dem das Zielobjekt tätig ist, d.h. auf den Markt für Serviceverpackungen aus Papier. Damit ist das Amt seiner bisherigen Praxis gefolgt, sachlich zwischen dem Markt für Serviceverpackungen aus Papier und dem Markt für Serviceverpackungen aus Kunststoff zu unterscheiden. Trotz der hohen Marktanteile und der bedeutenden Marktstellung der Zusammenschlussbeteiligten auf dem hier sachlich relevanten Markt für Serviceverpackungen aus Papier  ist nicht zu erwarten, dass der Zusammenschluss zu einer erheblichen Behinderung wirksamen  Wettbewerbs führt.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          68.6796875,
+          376.1865234375
+        ],
+        [
+          541.6217041015625,
+          376.1865234375
+        ],
+        [
+          541.6217041015625,
+          514.5843811035156
+        ],
+        [
+          68.6796875,
+          514.5843811035156
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        376.1865234375,
+        541.6217041015625,
+        514.5843811035156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Handlungsspielraum von Mettler wird auch nach dem Zusammenschluss durch den Lebensmitteleinzelhandel als bedeutendem Nachfrager ausreichend eingeschränkt. Einem Markteintritt in den Markt für Serviceverpackungen aus Papier stehen keine erkennbaren Marktzutrittsschranken entgegen und es gibt eine Fülle von Herstellern von Serviceartikeln aus Papier,  welche bisher nicht als direkte Wettbewerber zu Mettler und Meyer-Stemmle in Bezug auf die  Herstellung von Papierbeuteln und –tüten in Erscheinung getreten sind, hierzu aber in der Lage  wären.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          68.6796875,
+          533.6017761230469
+        ],
+        [
+          541.6547241210938,
+          533.6017761230469
+        ],
+        [
+          541.6547241210938,
+          652.55908203125
+        ],
+        [
+          68.6796875,
+          652.55908203125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        533.6017761230469,
+        541.6547241210938,
+        652.55908203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mettler ist auf dem Gebiet der Herstellung sowie des Vertriebs von Serviceverpackungen aus  Papier (wie Faltbeutel, Tragetaschen und Einschlagpapiere) aber auch von Serviceverpackungen aus Kunststoff tätig. In diesen Bereichen produziert Mettler Papier- und Kunststofftragetaschen und handelt mit Serviceartikeln wie Pappteller, Plastikbesteck und Trinkbecher. Weiterhin  ist Mettler mit diversen Unternehmen verbunden, welche u.a. in der Verarbeitung von Kunststoff  und/oder Papier tätig sind.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.90917205810547,
+          669.32421875
+        ],
+        [
+          541.65478515625,
+          669.32421875
+        ],
+        [
+          541.65478515625,
+          772.5375137329102
+        ],
+        [
+          70.90917205810547,
+          772.5375137329102
+        ]
+      ],
+      "bbox": [
+        70.90917205810547,
+        669.32421875,
+        541.65478515625,
+        772.5375137329102
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          798.4266548156738
+        ],
+        [
+          300.328125,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.55108642578125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Meyer-Stemmle ist ausschließlich in der Herstellung und dem Vertrieb von Serviceverpackungen aus Papier tätig, d.h. Papiertüten und -beutel (Seitenfalten- und Sichtfensterbeutel) für Bäckereien, den Lebensmitteleinzelhandel und die Gastronomie. Daneben betreibt Meyer-Stemmle einen Handel mit Serviceverpackungen aus Papier und Kunststoff (Snack-Verpackungen, Serviceartikel für Coffee-Shops wie Kaffee-Becher, Papierservietten, Rührstäbchen u. ä.).</p>",
+      "page": 128,
+      "polygon": [
+        [
+          70.91999816894531,
+          124.984375
+        ],
+        [
+          538.9609375,
+          124.984375
+        ],
+        [
+          538.9609375,
+          229.06219482421875
+        ],
+        [
+          70.91999816894531,
+          229.06219482421875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        124.984375,
+        538.9609375,
+        229.06219482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bei dem deutschen Markt für Serviceverpackungen aus Papier handelt es sich um die engste in  Betracht kommende Marktabgrenzung. Nach den Ermittlungen des Bundeskartellamtes sind  keine nachteiligen wettbewerblichen Auswirkungen ersichtlich. Der Markt ist bei ausgelasteten  Kapazitäten offen und es gibt keine erkennbaren Marktzutrittsschranken. Es ist zu erwarten,  dass der Lebensmitteleinzelhandel als bedeutender Nachfrager den Verhaltensspielraum von  Mettler einschränken kann, entweder durch ein Ausweichen auf ausländische Anbieter oder  durch den gezielten Aufbau von Lieferanten im Inland. Die im Lebensmitteleinzelhandel übliche  Mehrlieferantenstrategie spricht dafür, dass der Lebensmitteleinzelhandel die – nach Mettler  und Meyer-Stemmle – zwei oder drei nächstgrößeren Hersteller in Deutschland als potentielle  Lieferanten auch für größere Liefermengen aufbauen könnte. Außerdem können auch größere  Hersteller aus dem benachbarten europäischen Ausland ihre Kapazitäten in Deutschland erhöhen. Es gibt eine Reihe ausländischer Anbieter, die in der Lage sind, größere Kunden in  Deutschland zuverlässig mit Serviceverpackungen aus Papier zu beliefern. Zwar gaben mehrere große Lebensmitteleinzelhandelsunternehmen an, ausländische Hersteller von Serviceverpackungen aus Papier seien nicht in der Lage, die Produkte zuverlässig und mit der erforderlichen Qualität zu liefern; allerdings beziehen bereits mehrere größere deutsche Nachfrager  nennenswerte Mengen bei ausländischen Unternehmen über deren Niederlassungen/Vertrieb  in Deutschland.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          70.86517333984375,
+          248.07952880859375
+        ],
+        [
+          541.6436157226562,
+          248.07952880859375
+        ],
+        [
+          541.6436157226562,
+          564.9952697753906
+        ],
+        [
+          70.86517333984375,
+          564.9952697753906
+        ]
+      ],
+      "bbox": [
+        70.86517333984375,
+        248.07952880859375,
+        541.6436157226562,
+        564.9952697753906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Um die Marktverhältnisse auf diesem Markt zu ermitteln, hat das Bundeskartellamt eine Befragung der 20 wichtigsten Wettbewerber in Deutschland sowie von 26 in Deutschland ansässigen  Nachfragern durchgeführt. Diese Marktermittlung hat ergeben, dass es für Serviceverpackungen aus Papier neben den großen Lebensmitteleinzelhändlern eine Fülle von kleineren Nachfragern (insbesondere aus dem Bäckerei- und Metzgereihandwerk) gibt. Diesen stehen neben  den Zusammenschlussbeteiligten eine große Anzahl kleinerer und mittlerer Anbieter gegenüber. Die befragten Kunden nahmen zwar Mettler und Meyer-Stemmle als die beiden größten  Anbieter wahr; mit Ausnahme der großen Lebensmitteleinzelhändler gaben sie jedoch an, jederzeit zu einem anderen Anbieter wechseln zu können.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          69.84375,
+          584.0126342773438
+        ],
+        [
+          541.6106567382812,
+          584.0126342773438
+        ],
+        [
+          541.6106567382812,
+          738.9623794555664
+        ],
+        [
+          69.84375,
+          738.9623794555664
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        584.0126342773438,
+        541.6106567382812,
+        738.9623794555664
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 128,
+      "polygon": [
+        [
+          301.97998046875,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.4266548156738
+        ],
+        [
+          301.97998046875,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        301.97998046875,
+        788.1416015625,
+        307.89453125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mettler war vor dem Zusammenschluss mit Meyer-Stemmle bereits Marktführer, trotzdem haben sich nach den Ermittlungen des Bundeskartellamtes die Preise in den letzten Jahren moderat entwickelt. Etwa die Hälfte der Befragten gab an, die Preise seien \"stabil/konstant\", \"leicht  ansteigend\" und \"schwankend\". Die andere Hälfte stellte Preissteigerungen fest, wobei diese  zum Teil mit dem Anstieg der Rohstoffpreise in Verbindung gebracht wurden. Deutliche Preissprünge in Bezug auf Mettler wurden nicht angegeben.</p>",
+      "page": 72,
+      "polygon": [
+        [
+          68.6796875,
+          125.806640625
+        ],
+        [
+          541.5553588867188,
+          125.806640625
+        ],
+        [
+          541.5553588867188,
+          229.06219482421875
+        ],
+        [
+          68.6796875,
+          229.06219482421875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        125.806640625,
+        541.5553588867188,
+        229.06219482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Einschätzung der befragten Kunden war unterschiedlich. Während sich etwa die Hälfte der  Kunden kritisch äußerte, hatten knapp die Hälfte der befragten Kunden keine Bedenken gegen  das Zusammenschlussvorhaben. Auch bei einer weiteren Marktabgrenzung ist eine erhebliche  Behinderung wirksamen Wettbewerbs durch den Zusammenschluss nicht zu erwarten. Das  Bundeskartellamt hat bei den Kunden auch ihre Abnahmevolumina bei Serviceartikeln aus  Plastik abgefragt. In diesem Bereich erzielte Mettler deutlich geringere Marktanteile als im  Segment der Serviceverpackungen aus Papier. Meyer-Stemmle erzielt in diesem Bereich nur  Handelsumsätze.</p>",
+      "page": 72,
+      "polygon": [
+        [
+          68.6796875,
+          246.6796875
+        ],
+        [
+          541.6654663085938,
+          246.6796875
+        ],
+        [
+          541.6654663085938,
+          385.0330505371094
+        ],
+        [
+          68.6796875,
+          385.0330505371094
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        246.6796875,
+        541.6654663085938,
+        385.0330505371094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aufgrund der in Europa tätigen großen Hersteller, ergäbe sich eine weitere Verringerung der  Marktanteile bei der Betrachtung eines europaweiten Marktes. Zudem bestehen für die Lebensmitteleinzelhandelsunternehmen auch auf dem deutschen Markt genügend Ausweichmöglichkeiten gegenüber Mettler.</p>",
+      "page": 72,
+      "polygon": [
+        [
+          70.89801025390625,
+          404.0504455566406
+        ],
+        [
+          541.5006713867188,
+          404.0504455566406
+        ],
+        [
+          541.5006713867188,
+          469.9248046875
+        ],
+        [
+          70.89801025390625,
+          469.9248046875
+        ]
+      ],
+      "bbox": [
+        70.89801025390625,
+        404.0504455566406,
+        541.5006713867188,
+        469.9248046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 72,
+      "polygon": [
+        [
+          301.97998046875,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.4266548156738
+        ],
+        [
+          301.97998046875,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        301.97998046875,
+        788.1416015625,
+        307.89453125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

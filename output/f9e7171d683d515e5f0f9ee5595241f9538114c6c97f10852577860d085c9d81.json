@@ -1,0 +1,2200 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          395.6199951171875,
+          46.046875
+        ],
+        [
+          445.83593749999994,
+          46.046875
+        ],
+        [
+          445.83593749999994,
+          58.58148193359375
+        ],
+        [
+          395.6199951171875,
+          58.58148193359375
+        ]
+      ],
+      "bbox": [
+        395.6199951171875,
+        46.046875,
+        445.83593749999994,
+        58.58148193359375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 151,
+      "polygon": [
+        [
+          20.312890624999994,
+          37.4953125
+        ],
+        [
+          200.858984375,
+          37.4953125
+        ],
+        [
+          200.858984375,
+          99.00078125
+        ],
+        [
+          20.312890624999994,
+          99.00078125
+        ]
+      ],
+      "bbox": [
+        20.312890624999994,
+        37.4953125,
+        200.858984375,
+        99.00078125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Osta Pilet OÜ Pirita tee 26c/1-10 12011, Tallinn</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.505859375,
+          138.5517578125
+        ],
+        [
+          179.556640625,
+          138.5517578125
+        ],
+        [
+          179.556640625,
+          178.48150634765625
+        ],
+        [
+          90.505859375,
+          178.48150634765625
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        138.5517578125,
+        179.556640625,
+        178.48150634765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Event Leader OÜ Seebi tn 1 11316, Tallinn</p>",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          194.08148193359375
+        ],
+        [
+          175.2239990234375,
+          194.08148193359375
+        ],
+        [
+          175.2239990234375,
+          233.6815185546875
+        ],
+        [
+          89.6328125,
+          233.6815185546875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        194.08148193359375,
+        175.2239990234375,
+        233.6815185546875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Tallinna Kontserdimaja Estonia pst 9 10143, Tallinn</p>",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          248.7353515625
+        ],
+        [
+          222.62400817871094,
+          248.7353515625
+        ],
+        [
+          222.62400817871094,
+          288.91143798828125
+        ],
+        [
+          89.6328125,
+          288.91143798828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        248.7353515625,
+        222.62400817871094,
+        288.91143798828125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">16.11.2020 nr 5-5/2020-040</p>",
+      "page": 151,
+      "polygon": [
+        [
+          395.6199951171875,
+          304.511474609375
+        ],
+        [
+          531.0,
+          304.511474609375
+        ],
+        [
+          531.0,
+          316.511474609375
+        ],
+        [
+          395.6199951171875,
+          316.511474609375
+        ]
+      ],
+      "bbox": [
+        395.6199951171875,
+        304.511474609375,
+        531.0,
+        316.511474609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud elektrooniliselt e-posti aadressidele </i><i><a href=\"mailto:info@ostapilet.ee\">info@ostapilet.ee;</a></i><i> </i><i><a href=\"mailto:event.leader.tallinn@gmail.com\">event.leader.tallinn@gmail.com</a></i> <i>ja </i> <i><a href=\"mailto:aivar@kontserdimaja.ee\">aivar@kontserdimaja.ee</a></i></p>",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          340.8291015625
+        ],
+        [
+          570.9518432617188,
+          340.8291015625
+        ],
+        [
+          570.9518432617188,
+          364.68414306640625
+        ],
+        [
+          89.6328125,
+          364.68414306640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        340.8291015625,
+        570.9518432617188,
+        364.68414306640625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Konkurentsiameti seisukoht Osta Pilet OÜ ja Event Leader OÜ pöördumistele ja teade </b> <b>järelevalvemenetluse lõpetamisest</b> <b>ning soovituse andmine</b> <b>AS-ile Tallinna Kontserdimaja</b> <b>konkurentsiolukorra parandamiseks</b></p>",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          387.6982421875
+        ],
+        [
+          547.4039916992188,
+          387.6982421875
+        ],
+        [
+          547.4039916992188,
+          429.5714416503906
+        ],
+        [
+          89.6328125,
+          429.5714416503906
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        387.6982421875,
+        547.4039916992188,
+        429.5714416503906
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>1.</b> <b>Järelevalvemenetluse alustamine</b></h2>",
+      "page": 151,
+      "polygon": [
+        [
+          90.21484375,
+          445.17144775390625
+        ],
+        [
+          294.11602783203125,
+          445.17144775390625
+        ],
+        [
+          294.11602783203125,
+          457.17144775390625
+        ],
+        [
+          90.21484375,
+          457.17144775390625
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        445.17144775390625,
+        294.11602783203125,
+        457.17144775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Osta Pilet OÜ (edaspidi Osta Pilet) pöördus Konkurentsiameti poole 30.04.2020 ning selgitas,  et AS Tallinna Kontserdimaja (edaspidi Alexela Kontserdimaja) tegevus takistab nende  äritegevust.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.7439956665039,
+          469.513671875
+        ],
+        [
+          549.7100219726562,
+          469.513671875
+        ],
+        [
+          549.7100219726562,
+          512.1314392089844
+        ],
+        [
+          90.7439956665039,
+          512.1314392089844
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        469.513671875,
+        549.7100219726562,
+        512.1314392089844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">11.06.2020 pöördus Konkurentsiameti poole Event Leader OÜ (edaspidi Event Leader), kes  selgitas ametile, et üritusi korraldades ei ole võimalik kasutada mõne muu piletivahendaja  teenuseid ning Alexela Kontserdimaja aktsepteerib enda saalis toimuvate ürituste  piletivahendajana üksnes AS-i Piletilevi (edaspidi Piletilevi).</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.7439956665039,
+          527.7314453125
+        ],
+        [
+          549.9480590820312,
+          527.7314453125
+        ],
+        [
+          549.9480590820312,
+          582.986328125
+        ],
+        [
+          90.7439956665039,
+          582.986328125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        527.7314453125,
+        549.9480590820312,
+        582.986328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet alustas järelevalvemenetlust nr 20-0021, et kontrollida Osta Pileti ja Event  Leaderi poolt esitatud väiteid võimaliku turgu valitseva seisundi rikkumise osas Alexela  Kontserdimaja poolt.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.7439956665039,
+          596.7614593505859
+        ],
+        [
+          549.7659912109375,
+          596.7614593505859
+        ],
+        [
+          549.7659912109375,
+          637.6669921875
+        ],
+        [
+          90.7439956665039,
+          637.6669921875
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        596.7614593505859,
+        549.7659912109375,
+        637.6669921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.</b> <b>Faktilised asjaolud</b></h2>",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          650.0009765625
+        ],
+        [
+          223.12399291992188,
+          650.0009765625
+        ],
+        [
+          223.12399291992188,
+          662.2814636230469
+        ],
+        [
+          89.6328125,
+          662.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        650.0009765625,
+        223.12399291992188,
+        662.2814636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>2.1</b> <b>Osta Pilet OÜ poolt esitatud selgitused</b></h1>",
+      "page": 151,
+      "polygon": [
+        [
+          90.21484375,
+          675.4912109375
+        ],
+        [
+          323.1940002441406,
+          675.4912109375
+        ],
+        [
+          323.1940002441406,
+          687.9614562988281
+        ],
+        [
+          90.21484375,
+          687.9614562988281
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        675.4912109375,
+        323.1940002441406,
+        687.9614562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Osta Pilet selgitas, et nende puhul on tegemist hiljuti turule sisenenud uue piletivahendusteenust  pakkuva ettevõtjaga, kelle koostööpartnerid korraldavad muuhulgas üritusi ka AS Tallinna  Kontserdimaja poolt opereeritavas Alexela Kontserdimajas. Konkurentsiametile esitatud  pöördumises on märgitud, et mitmed ürituse korraldajad, kes sooviksid nende poolt korraldatud  ürituste pileteid müüa ka Osta Pileti vahendusel, ei saa seda teha, kuna vastavat võimalust  piiratakse Alexela Kontserdimaja juhatuse poolt.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          90.7439956665039,
+          700.1591796875
+        ],
+        [
+          549.9039916992188,
+          700.1591796875
+        ],
+        [
+          549.9039916992188,
+          782.4214630126953
+        ],
+        [
+          90.7439956665039,
+          782.4214630126953
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        700.1591796875,
+        549.9039916992188,
+        782.4214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          89.6328125,
+          794.7197265625
+        ],
+        [
+          448.16406249999994,
+          794.7197265625
+        ],
+        [
+          448.16406249999994,
+          805.1834106445312
+        ],
+        [
+          89.6328125,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        794.7197265625,
+        448.16406249999994,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Osta Pilet selgitas enda pöördumises, et korduvalt on pöördutud ka Alexela Kontserdimaja  juhatuse poole, et arutada võimalikku koostöö võimalust, kuna mõnel üritusekorraldajal on  kindel soov korraldada piletite müük just läbi Osta Pileti veebimüügi. Osta Pileti hinnangul on  Alexela Kontserdimaja seisukoht olnud alati ühene, mille kohaselt tehakse koostööd piletite  vahendamisel üksnes Piletileviga. Muuhulgas märkis Osta Pilet enda pöördumises, et teiste  ürituste toimumiskohtadega (näiteks Tondiraba Jäähall, Jõhvi Kontserdimaja jms) selliseid  probleeme esinenud ei ole. Osta Pilet asus enda pöördumises seisukohale, et Tallinna  Kontserdimaja tegevus kahjustab nende äritegevust.</p>",
+      "page": 189,
+      "polygon": [
+        [
+          89.6328125,
+          60.3814697265625
+        ],
+        [
+          549.9840087890625,
+          60.3814697265625
+        ],
+        [
+          549.9840087890625,
+          169.38671875
+        ],
+        [
+          89.6328125,
+          169.38671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        60.3814697265625,
+        549.9840087890625,
+        169.38671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks selgitas Osta Pilet Konkurentsiametile, et põhjendusi on mitmeid, miks Alexela  Kontserdimaja ei võimalda Osta Piletil pileteid müüa Alexela Kontserdimajas toimuvatele  üritustele. Üks põhjendustest on näiteks, et Osta Piletil puudub füüsiline kassa ning tegutsemine  toimub üksnes <i>online</i> keskkonnas. Samas leiab Osta Pilet, et see põhjendus ei ole õigustatud,  kuna ei nemad, ega ürituste korraldajad ei ole palunud Alexela Kontserdimajalt eksklusiivset  piletimüügi võimalust, vaid soovitud on üksnes jagatud müügi võimalust.</p>",
+      "page": 189,
+      "polygon": [
+        [
+          89.6328125,
+          184.60150146484375
+        ],
+        [
+          549.9600219726562,
+          184.60150146484375
+        ],
+        [
+          549.9600219726562,
+          265.6314697265625
+        ],
+        [
+          89.6328125,
+          265.6314697265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        184.60150146484375,
+        549.9600219726562,
+        265.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet küsis 22.07.2020 Osta Piletilt täiendavaid küsimusi pöördumises kirjeldatud  asjaolude selgitamiseks. Osta Pilet vastas ametile 22.07.2020 ning selgitas enda e-kirjas, et  nemad piletivahendajana sõlmivad lepingu üksnes ürituse korraldajaga, kes ise valib kui suures  ulatuses ning milliseid tüüpi pileteid ta soovib läbi konkreetse piletivahendaja müüa. Ürituse  korraldaja seevastu sõlmib lepingu ka ürituse toimumiskoha, ehk üürileandjaga ning selle  lepinguga ei ole piletivahendaja kuidagi seotud ning selle tingimusi piletivahendaja mõjutada ei  saa. Põhjus miks Osta Pileti hinnangul on oluline üritusi korraldada just Alexela  Kontserdimajas, seisneb selles, et tegemist on ainsa toimumispaigaga, mis suudab mahutada  keskmise ürituse puhul 1600 inimest ning kus on võimalik korraldada kvaliteetsetel tingimustel  kontserte.</p>",
+      "page": 189,
+      "polygon": [
+        [
+          89.6328125,
+          281.23150634765625
+        ],
+        [
+          549.947998046875,
+          281.23150634765625
+        ],
+        [
+          549.947998046875,
+          417.45147705078125
+        ],
+        [
+          89.6328125,
+          417.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        281.23150634765625,
+        549.947998046875,
+        417.45147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuna Konkurentsiamet märkas, et läbi Osta Pileti veebilehe on võimalik osta pileteid kahele  üritusele, mis toimuvad Alexela Kontserdimajas, siis pöördus amet täiendavate küsimustega  Osta Pileti poole. Osta Pilet selgitas Konkurentsiametile enda 28.07.2020 e-kirjas, et kahele  üritusele, millele neil on võimalik Alexela Kontserdimajas toimuvatele üritustele pileteid müüa,  tegi Alexela Kontserdimaja pikkade läbirääkimiste tulemusena erandi tulenevalt COVID-19  laialdasest levikust ning keerulisest olukorrast ürituste korraldamise kaubaturul. Alexela  Kontserdimaja lisas ka enda poolse piirangu Osta Pileti poolt vahendatavatele üritustele,  võimaldades Osta Piletil vahendada üksnes 100 piletit ühe ürituse kohta. Muuhulgas tõi Osta  Pilet enda vastuses välja, et ka teinegi ürituste korraldaja, MGV PRODUCTION OÜ soovis  enda ürituste pileteid müüa läbi Osta Pileti, kuid Alexela Kontserdimaja keeldus esitatud  ettepanekust. Muuhulgas tõi Osta Pilet välja, et nende poolt pakutavad tingimused on  korraldajate jaoks soodsamad, võrreldes Piletilevi poolt pakutuga, kuid korraldajatel on võimatu  nendega koostööd teha, kuna Alexela Kontserdimaja aktsepteerib partnerina üksnes Piletilevi.</p>",
+      "page": 189,
+      "polygon": [
+        [
+          89.6328125,
+          433.05145263671875
+        ],
+        [
+          549.9600219726562,
+          433.05145263671875
+        ],
+        [
+          549.9600219726562,
+          610.943359375
+        ],
+        [
+          89.6328125,
+          610.943359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        433.05145263671875,
+        549.9600219726562,
+        610.943359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.2</b> <b>Event Leaderi poolt esitatud selgitused</b></h2>",
+      "page": 189,
+      "polygon": [
+        [
+          90.21484375,
+          624.6014709472656
+        ],
+        [
+          324.7640075683594,
+          624.6014709472656
+        ],
+        [
+          324.7640075683594,
+          636.6014709472656
+        ],
+        [
+          90.21484375,
+          636.6014709472656
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        624.6014709472656,
+        324.7640075683594,
+        636.6014709472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Enda 11.06.2020 avalduses tõi Event Leader välja, et erinevate läbirääkimiste käigus on Event  Leader avaldanud soovi müüa Alexela Kontserdimajas korraldatavatele üritustele pileteid ka  mujal kui läbi Piletilevi, kuid paraku Alexela Kontserdimaja poolt seatud tingimused seda ei  võimalda. Event Leader selgitas, et juhul kui kasutatakse teist piletivahendajat peale Piletilevi,  siis ei võimalda Alexela Kontserdimaja neil enda ruume ürituse korraldamiseks rentida. Kuna  Event Leaderi poolt korraldatavate ürituste jaoks on sobinud eelkõige just Alexela  Kontserdimaja poolt pakutav saal, siis on ettevõtja sunnitud aktsepteerima Alexela  Kontserdimaja poolt seatud tingimusi. Muuhulgas tõi Event Leader välja, et põhjus miks  ürituste pileteid ei soovita müüa üksnes läbi Piletilevi poolt pakutava lahenduse, seisneb selles,  et Piletilevi poolt pakutavad tingimused ei ole nii head, nagu teiste piletivahendajate poolt</p>",
+      "page": 189,
+      "polygon": [
+        [
+          89.6328125,
+          651.9614562988281
+        ],
+        [
+          547.416015625,
+          651.9614562988281
+        ],
+        [
+          547.416015625,
+          788.1814651489258
+        ],
+        [
+          89.6328125,
+          788.1814651489258
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        651.9614562988281,
+        547.416015625,
+        788.1814651489258
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 189,
+      "polygon": [
+        [
+          90.21484375,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          805.1834106445312
+        ],
+        [
+          90.21484375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        794.7197265625,
+        110.01667785644531,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">pakutavad tingimused.</p>",
+      "page": 183,
+      "polygon": [
+        [
+          90.7439956665039,
+          46.58148193359375
+        ],
+        [
+          199.30398559570312,
+          46.58148193359375
+        ],
+        [
+          199.30398559570312,
+          58.58148193359375
+        ],
+        [
+          90.7439956665039,
+          58.58148193359375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        46.58148193359375,
+        199.30398559570312,
+        58.58148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pärast Event Leaderi poolt ametile esitatud avaldusega tutvumist küsis Konkurentsiamet Event  Leaderilt täiendavaid küsimusi, millele Event Leader esitas 11.06.2020 enda vastuse. Event  Leader selgitas Konkurentsiametile, et põhjus, miks soovitakse üritusi korraldada just Alexela  Kontserdimaja ruumides, seisneb selles, et Tallinnas puudub analoogne kontserdisaal, mis  mahutab 1500-1800 külalist. Saalid, mis on suuremad kui Alexela Kontserdimaja poolt  pakutavad ruumid, on pigem spordikompleksid, mis ei ole enda olemuselt sobilikud mitmete  artistide jaoks, kuna ürituse toimumispaik võiks olla spetsialiseerunud eelkõige kontsertide  korraldamisele. Lisaks kaasnevad spordikompleksis ürituse korraldamisel korraldaja jaoks  täiendavad kulutused, mis on seotud toolide paigaldamisega parterisse, heli- ja valgustehnika  paigaldamine ning lisahelisüsteemi paigaldamine, kuna spordihoonete akustika ei ole piisavalt  hea kontsertide korraldamiseks. Erinevate teatrite poolt pakutavates saalides ei ole Event  Leaderi hinnangul kasumlik üritust korraldada, kuna üldjuhul on saalide mahutavus teatrite  puhul alla 1000 istekoha. Muuhulgas tõi Event Leader enda vastuses välja, et nende jaoks on  oluline pakkuda publikule kvaliteetset teenust, mida on võimalik pakkuda üksnes Alexela  Kontserdimajas, kus on külastaja jaoks mugav asukoht, mugavad istekohad, heal tasemel  akustika jms.</p>",
+      "page": 183,
+      "polygon": [
+        [
+          88.46875,
+          73.181640625
+        ],
+        [
+          547.427978515625,
+          73.181640625
+        ],
+        [
+          547.427978515625,
+          293.548828125
+        ],
+        [
+          88.46875,
+          293.548828125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        73.181640625,
+        547.427978515625,
+        293.548828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Event Leader on enda 09.09.2020 e-kirjas selgitanud, et isegi kui Alexela Kontserdimaja tegi  kahe ürituse jaoks erandi ning võimaldab Event Leaderil pileteid müüa läbi Osta Pileti, siis  erand tehti üksnes 100 pileti jaoks. Kui ürituse saal mahutab 1800 istekohta, kuid kui läbi Osta  Pileti on võimalik müüa üksnes 7% saali kogumahutavusest, siis ei ole see Event Leaderi jaoks  piisav, kuna ülejäänud piletid tuleb siiski müüa läbi Piletilevi ning oluliselt ebasoodsamatel  tingimustel.</p>",
+      "page": 183,
+      "polygon": [
+        [
+          89.6328125,
+          308.7607421875
+        ],
+        [
+          547.4200439453125,
+          308.7607421875
+        ],
+        [
+          547.4200439453125,
+          389.8314514160156
+        ],
+        [
+          89.6328125,
+          389.8314514160156
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        308.7607421875,
+        547.4200439453125,
+        389.8314514160156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>2.3</b> <b>Alexela Kontserdimaja poolt esitatud selgitused</b></h2>",
+      "page": 183,
+      "polygon": [
+        [
+          90.21484375,
+          403.732421875
+        ],
+        [
+          370.177978515625,
+          403.732421875
+        ],
+        [
+          370.177978515625,
+          415.7714538574219
+        ],
+        [
+          90.21484375,
+          415.7714538574219
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        403.732421875,
+        370.177978515625,
+        415.7714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet esitas 19.05.2020 Alxela Kontserdimajale taotluse teabe saamiseks. Enda  28.05.2020 vastuses selgitas Alexela Kontserdimaja, et nende subjektiivsel hinnangul on  Piletilevi hetkel objektiivselt parima lahendusega ning usaldusväärseim teenuse pakkuja antud  tegevusalal. Alexela Kontserdimaja jaoks on oluline, et nende ruumides aset leidvad üritused  vastaksid klientide ootustele nii sisu, kui ka korralduse osas, mis hõlmab endas ka piletite  müüki. Alexela Kontserdimajal on enda tegutsemisaja jooksul olnud kogemusi ka  ebausaldusväärsete piletivahendajatega, kellel ei ole piisavalt kogemusi, rahalisi vahendeid  ning teadmisi. Muuhulgas tõi Alexela Kontserdimaja välja, et juhul kui üritus ebaõnnestub, ehk  jääb ära, või tekivad vead piletite müügis, siis ei ole tarbija jaoks tihti vahet, kes on konkreetselt  ürituse korraldaja, vaid pahameel langeb ürituse toimumiskohale. Sellest tulenevalt on Alexela  Kontserdimaja jaoks oluline tagada, et nende kontserdimajas toimuvad üritused vastaksid  <i>premium</i> klassi saali kuvandile, mis on aja jooksul endale tekitatud. Seega on Alexela  Kontserdimaja seisukohal, et neil on õigus ettevõtjana otsustada, milliseid üritusi enda  ruumidesse lubatakse ning milliseid mitte. Veelgi enam, kuna ürituse toimumispaik võtab  krediidiriski seoses korraldajaga, siis on Alexela Kontserdimaja jaoks tavapärane sõlmida  kolmepoolseid lepinguid, kus on osapooleks ka piletivahendaja. Põhjus selleks seisneb selles,  et kontserdimaja jaoks on oluline, et piletite müügist saadud tulu arvelt oleksid rahuldatud ka  nende rahalised nõuded. Juhul kui piletivahendaja on tundmatu renomeega, siis suurendab see  Alexela Kontserdimaja jaoks makseriski, kuna ettevõtja ei pruugi võetud kohustusi täita. Kuna  Alexela Kontserdimaja jaoks on oluline, et piletite vahendaja oleks kogemustega, hea mainega,  finantsiliselt usaldusväärne ning tehniliselt võimekas koostööpartner, siis vastab Piletilevi  Alexela Kontserdimaja hinnangul kõigile kontserdimaja poolt seatud tingimustele. Samuti toob Alexela Kontserdimaja enda vastuses välja, et aja jooksul on koostööd tehtud mitme erineva  piletivahendajaga ning regulaarselt tehakse koostööd näiteks Piletimaailmaga. Samuti on  katsetatud aja jooksul ka jagatud müügi kogemust ning mitmel juhul on see ka aset leidnud,  kuid see on kontserdimaja jaoks pigem ebameeldiv lahendus, kuna see on enda olemuselt</p>",
+      "page": 183,
+      "polygon": [
+        [
+          89.6328125,
+          431.1314392089844
+        ],
+        [
+          547.416015625,
+          431.1314392089844
+        ],
+        [
+          547.416015625,
+          790.197265625
+        ],
+        [
+          89.6328125,
+          790.197265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        431.1314392089844,
+        547.416015625,
+        790.197265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 183,
+      "polygon": [
+        [
+          90.21484375,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          805.1834106445312
+        ],
+        [
+          90.21484375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        794.7197265625,
+        110.01667785644531,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">oluliselt keerukam ning ajamahukam. Samuti toob jagatud müügi rakendamine Alexela  Kontserdimaja hinnangul endaga kaasa suuremad nõudmised piletivahendaja jaoks, kuna  piletivahendajal peab jagatud müügi korraldamiseks olema piisav tehniline võimekus ning  kogemus.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          46.4580078125
+        ],
+        [
+          547.4039916992188,
+          46.4580078125
+        ],
+        [
+          547.4039916992188,
+          100.00152587890625
+        ],
+        [
+          89.6328125,
+          100.00152587890625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.4580078125,
+        547.4039916992188,
+        100.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet uuris muuhulgas Alexela Kontserdimajalt koostöö kohta Osta Piletiga, mille  kohta selgitas Alexela Kontserdimaja, et Osta Pileti puhul on mitmeid erinevaid aspekte, miks  omavaheline koostöö on keeruline. Mitmete erinevate põhjenduste hulgas tõi Alexela  Kontserdimaja kaalukamate näidetena välja, et Osta Piletil ei ole piisavalt kogemust, kuna  veebilehel on üksnes mõned üksikud üritused ning veebilehe ülesehitus ning tehnilised  lahendused on algelised, ega vasta Alexela Kontserdimaja poolt esitatavatele nõuetele. Lisaks  on Osta Pileti keskkond Alexela Kontserdimaja hinnangul veel selgelt arendamisjärgus.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          101.5498046875
+        ],
+        [
+          547.4520263671875,
+          101.5498046875
+        ],
+        [
+          547.4520263671875,
+          196.60150146484375
+        ],
+        [
+          89.6328125,
+          196.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        101.5498046875,
+        547.4520263671875,
+        196.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/13",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>2.4</b> <b>Teiste turuosaliste poolt esitatud</b> <b>selgitused</b></h1>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          210.0888671875
+        ],
+        [
+          344.4339904785156,
+          210.0888671875
+        ],
+        [
+          344.4339904785156,
+          222.521484375
+        ],
+        [
+          89.6328125,
+          222.521484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        210.0888671875,
+        344.4339904785156,
+        222.521484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet pöördus informatsiooni saamiseks ka teiste turuosaliste poole. Informatsiooni  küsiti nii ürituse korraldajalt, kes on mitmeid üritusi Alexela Kontserdimajas korraldanud ning  kasutanud sealjuures ka teisi piletivahendajaid peale Piletilevi, ning lisaks küsiti informatsiooni  ka teistelt ürituste toimumispaikadelt Tallinnas.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          237.91143798828125
+        ],
+        [
+          547.3720092773438,
+          237.91143798828125
+        ],
+        [
+          547.3720092773438,
+          291.4931640625
+        ],
+        [
+          89.6328125,
+          291.4931640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        237.91143798828125,
+        547.3720092773438,
+        291.4931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ürituse korraldajana küsitles Konkurentsiamet SA Teater Vanemuine, kes selgitas, et saali  valimisel hinnatakse kindlaid kriteeriume, millele saal peab vastama, näiteks žanrile sobivus,  majale dekoratsioonidega ligipääsetavus, oodatav publiku arv ning tasuvusanalüüs. SA Teater  Vanemuine leiab, et Alexela Kontserdimajale on alternatiive ning pileteid Alexela  Kontserdimajas toimuvatele üritustele müüakse ka läbi Piletimaailma.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          306.91143798828125
+        ],
+        [
+          547.3359985351562,
+          306.91143798828125
+        ],
+        [
+          547.3359985351562,
+          374.1114501953125
+        ],
+        [
+          89.6328125,
+          374.1114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        306.91143798828125,
+        547.3359985351562,
+        374.1114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks küsis Konkurentsiamet teavet nii Tondiraba Spordikeskuselt, kui ka Best Idea OÜ-lt  (edaspidi Saku Suurhall).</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          389.7314453125
+        ],
+        [
+          547.427978515625,
+          389.7314453125
+        ],
+        [
+          547.427978515625,
+          415.6552734375
+        ],
+        [
+          89.6328125,
+          415.6552734375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        389.7314453125,
+        547.427978515625,
+        415.6552734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tondiraba Spordikeskus selgitas Konkurentsiametile, et nende ruumides on võimalik  korraldada väga eriilmelisi üritusi, näiteks kontserte, messe, jääetendusi, jäähokit, uisuvõistlusi  ning teisi erinevaid massüritusi. Piletivahendusteenuse pakkuja valib siiski korraldaja, kuid  lähtuma peab siiski teatud tingimustest, mille Tondiraba Spordikeskus on ürituse korraldajale  pannud, millele piletite müümine peab vastama. Enda 19.08.2020 vastuses selgitas Tondiraba  Spordikeskus, et nende ruumides on võimalik korraldada ka väiksemaid üritusi ning nende  veebilehel olev istekohtade arv näitab saali maksimaalset mahutavust. Juhul, kui nende  ruumides on korraldatud väiksemaid üritusi, siis on tribüünid eraldatud musta kangaga ning  luuakse nn <i>blackbox</i> lahendus. Küll aga ei muutu üürihind, kui soovitakse korraldada väiksema  külastajate arvuga üritusi, kuna korraldaja jaoks on kulud siiski samaväärsed.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          417.3314514160156
+        ],
+        [
+          547.3179931640625,
+          417.3314514160156
+        ],
+        [
+          547.3179931640625,
+          554.6181640625
+        ],
+        [
+          89.6328125,
+          554.6181640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        417.3314514160156,
+        547.3179931640625,
+        554.6181640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ka Saku Suurhallis on võimalik korraldada väiksemaid üritusi, kuna nende ruumid ei sea  piiranguid ürituse minimaalse mahutavuse osas. Väiksemate ürituste korraldamisel kaetakse  paljudel juhtudel tribüünid musta kangaga ning mängitakse lava asetusega. Mis puudutab  üürihinna maksumust väiksemate ürituste puhul, siis hind väiksema ürituse korraldamisel  saalirendi puhul ei muutu, kuna üürileandja jaoks on siiski kulud samaväärsed, kui need oleksid  suure ürituse puhul ruumi üürile andmisel.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          555.3614807128906
+        ],
+        [
+          547.4400024414062,
+          555.3614807128906
+        ],
+        [
+          547.4400024414062,
+          636.3614654541016
+        ],
+        [
+          89.6328125,
+          636.3614654541016
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        555.3614807128906,
+        547.4400024414062,
+        636.3614654541016
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mis puudutab nii Saku Suurhalli kui ka Tondiraba Spordikeskuse hinnakirja ürituste  korraldamiseks, siis jääb viidatud ruumides hinnaklass sarnasesse hinnavahemikku, kui see on  Alexela Kontserdimajas ürituse korraldamise puhul.</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          638.078125
+        ],
+        [
+          547.1519775390625,
+          638.078125
+        ],
+        [
+          547.1519775390625,
+          677.7614593505859
+        ],
+        [
+          89.6328125,
+          677.7614593505859
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        638.078125,
+        547.1519775390625,
+        677.7614593505859
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.</b> <b>Õiguslik hinnang</b></h2>",
+      "page": 184,
+      "polygon": [
+        [
+          90.7439956665039,
+          691.6814575195312
+        ],
+        [
+          214.61599731445312,
+          691.6814575195312
+        ],
+        [
+          214.61599731445312,
+          703.6814575195312
+        ],
+        [
+          90.7439956665039,
+          703.6814575195312
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        691.6814575195312,
+        214.61599731445312,
+        703.6814575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.1. Kaubaturg ja võimalik turgu valitsev seisund</b></h2>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          717.861457824707
+        ],
+        [
+          358.58599853515625,
+          717.861457824707
+        ],
+        [
+          358.58599853515625,
+          729.861457824707
+        ],
+        [
+          89.6328125,
+          729.861457824707
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        717.861457824707,
+        358.58599853515625,
+        729.861457824707
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiseaduse (edaspidi KonkS) § 16 kohaldamine eeldab, et ettevõtja omab asjakohasel  kaubaturul turgu valitsevat seisundit. KonkS § 3 lg 1 kohaselt on kaubaturg hinna, kvaliteedi,  tehniliste omaduste, realiseerimis- ja kasutustingimuste ning tarbimis- ja muude omaduste</p>",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          742.8214645385742
+        ],
+        [
+          547.3719482421875,
+          742.8214645385742
+        ],
+        [
+          547.3719482421875,
+          782.4214630126953
+        ],
+        [
+          89.6328125,
+          782.4214630126953
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        742.8214645385742,
+        547.3719482421875,
+        782.4214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 184,
+      "polygon": [
+        [
+          89.6328125,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          805.1834106445312
+        ],
+        [
+          89.6328125,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        794.7197265625,
+        110.01667785644531,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">poolest ostja seisukohalt omavahel vahetatavate või asendatavate (edaspidi asendatavate) kaupade käibimise ala, mis hõlmab muuhulgas kogu Eesti territooriumi või selle osa.</p>",
+      "page": 104,
+      "polygon": [
+        [
+          89.43001007049345,
+          46.869140625
+        ],
+        [
+          546.7834843907351,
+          46.869140625
+        ],
+        [
+          546.7834843907351,
+          71.537109375
+        ],
+        [
+          89.43001007049345,
+          71.537109375
+        ]
+      ],
+      "bbox": [
+        89.43001007049345,
+        46.869140625,
+        546.7834843907351,
+        71.537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Käesolevas menetluses saab kaubaturuks pidada erinevate ürituste toimumispaikade üüripindasid Tallinnas. Järelevalvemenetluses kogutud teabe ning avalikult kättesaadava informatsiooni põhjal on Konkurentsiamet seisukohal, et Alexela Kontserdimaja ei oma turgu valitsevat seisundit KonkS § 13 tähenduses Tallinnas ürituste toimumispaikade üüripindade kaubaturul. Konkurentsiamet on seisukohal, et Tallinnas on erinevate keskmise suurusega ürituste korraldamiseks mitmeid erinevaid võimalusi ning Alexela Kontserdimaja turupositsioon ei võimalda tal kaubaturul tegutseda sõltumatult enda konkurentidest. Alexela Kontserdimaja ei erine piisavalt teistest turul tegutsevatest teenusepakkujatest ning selleks, et konkurentsis püsida ei saa Alexela Kontserdimaja näiteks tõsta hindu põhjendamatult kõrgeks, või rakendada muid ebamõistlikke tingimusi, kuna vastasel juhul kaotaks Alexela Kontserdimaja enda kliendid, ehk ürituse korraldajad. Saku Suurhall ning Tondiraba Spordikeskus võimaldavad ürituste korraldamist ka väiksemas mahus, kui seda on nende ruumide täismahutavus, mistõttu ei ole käesoleva menetluse raames asjakohane ning põhjendatud paigutada erineva suurusega ürituste toimumispaikasid erinevatele kaubaturgudele ning kaubaturgu tuleb vaadata ühtse tervikuna. Samuti on külastaja jaoks mugav ligipääs nii ühistranspordi kui autoga kõigi kolme peamise Tallinnas tegutsevate ürituste toimumiskohtade juurde. Asjaolu, et Alexela Kontserdimaja on sobivam just kontsertide korraldamiseks, ei leidnud Konkurentsiameti hinnangul tõendamist menetluse jooksul, kuna nii Saku Suurhallis, kui ka Tondiraba Spordikeskuses toimuvad pidevalt edukalt erinevad kontserdid. Näiteks leiab 10.06.2021 Tondiraba Spordikeskuses aset Filipp Kirkorovi kontsert. Konkurentsiamet on seisukohal, et niivõrd maineka artisti nõudmised heliakustikale on kindlasti piisavalt kõrged ning asjaolu, et kontserti korraldatakse Tondiraba Spordikeskuses näitab seda, et kontsertide korraldamiseks on võimalik kvaliteetset akustikat pakkuda ka muudes Tallinnas paiknevates ürituste toimumispaikades. Samuti ei erinenud oluliselt erinevate ürituste toimumiskohtade hinnad ürituste korraldamiseks. Lähtuvalt eeltoodust on Konkurentsiamet seisukohal, et Alexela Kontserdimajale ei kuulu asjaomasel kaubaturul turgu valitsevat seisundit, mistõttu ei esine Alexela Kontserdimaja tegevuses ka KonkS § 16, ehk turgu valitseva seisundi kuritarvitamise tunnuseid.</p>",
+      "page": 104,
+      "polygon": [
+        [
+          88.82980866062437,
+          87.982421875
+        ],
+        [
+          549.7844914400805,
+          87.982421875
+        ],
+        [
+          549.7844914400805,
+          418.6011396011396
+        ],
+        [
+          88.82980866062437,
+          418.6011396011396
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        87.982421875,
+        549.7844914400805,
+        418.6011396011396
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Muuhulgas on oluline välja tuua asjaolu, et Osta Pileti kui piletite vahendaja suhtes on Alexela Kontserdimaja turujõud veelgi väiksem, kui Event Leaderi kui ürituste korraldaja suhtes. Osta Piletil on põhimõtteliselt võimalik vahendada pileteid väga paljudele erinevates asukohtades toimuvatele üritustele, millest Alexela Kontserdimajas toimuvad üritused ei saa mitte kuidagi määravat osa moodustada. Seega ei oma Osta Pileti seisukohast Alexela Kontserdimajas toimuvad üritused niivõrd suurt majanduslikku tähtsust, et Osta Pilet sõltuks majanduslikult arvestataval määral koostööst Alexela Kontserdimajaga. Siinkohal on oluline ka märkida, et leping ürituse korraldamiseks Alexela Kontserdimaja ruumides ning sobiva piletivahendaja leidmiseks sõlmitakse Alexela Kontserdimaja ning ürituse korraldaja vahel, mistõttu Osta Pilet ei ole ka Alexela Kontserdimajaga vahetult ärilises suhtes.</p>",
+      "page": 104,
+      "polygon": [
+        [
+          88.82980866062437,
+          432.994301994302
+        ],
+        [
+          549.7844914400805,
+          432.994301994302
+        ],
+        [
+          549.7844914400805,
+          552.5625
+        ],
+        [
+          88.82980866062437,
+          552.5625
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        432.994301994302,
+        549.7844914400805,
+        552.5625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4>3.2. Menetluse lõpetamine</h4>",
+      "page": 104,
+      "polygon": [
+        [
+          89.43001007049345,
+          564.3319088319089
+        ],
+        [
+          240.6807653575025,
+          564.3319088319089
+        ],
+        [
+          240.6807653575025,
+          574.5270655270656
+        ],
+        [
+          89.43001007049345,
+          574.5270655270656
+        ]
+      ],
+      "bbox": [
+        89.43001007049345,
+        564.3319088319089,
+        240.6807653575025,
+        574.5270655270656
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnimetatud põhjustel leiab amet, et järelevalvemenetlust pole otstarbekas jätkata, kuna Alexela Kontserdimaja ei ole turgu valitsevat seisundit omav ettevõtja KonkS § 13 lg 1 tähenduses, mistõttu ei esine Alexela Kontserdimaja tegevuses ka turgu valitseva seisundi kuritarvitamist KonkS § 16 tähenduses. Lähtudes eeltoodust, lõpetab Konkurentsiamet alustatud järelevalvemenetluse nr 20-0021 KonkS § 63&lt;sup&gt;4&lt;/sup&gt; lg 1 punkti 1 alusel, kuna Alexela Kontserdimaja tegevuses puuduvad konkurentsiseaduse rikkumise tunnused.</p>",
+      "page": 104,
+      "polygon": [
+        [
+          89.43001007049345,
+          591.3190883190883
+        ],
+        [
+          547.9838872104733,
+          591.3190883190883
+        ],
+        [
+          547.9838872104733,
+          670.96875
+        ],
+        [
+          89.43001007049345,
+          670.96875
+        ]
+      ],
+      "bbox": [
+        89.43001007049345,
+        591.3190883190883,
+        547.9838872104733,
+        670.96875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4>4. Soovituse andmine Alexela Kontserdimajale konkurentsiolukorra parandamiseks</h4>",
+      "page": 104,
+      "polygon": [
+        [
+          89.43001007049345,
+          687.2735042735043
+        ],
+        [
+          544.9828801611278,
+          687.2735042735043
+        ],
+        [
+          544.9828801611278,
+          698.5146484375
+        ],
+        [
+          89.43001007049345,
+          698.5146484375
+        ]
+      ],
+      "bbox": [
+        89.43001007049345,
+        687.2735042735043,
+        544.9828801611278,
+        698.5146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Samas peab Konkurentsiamet oluliseks juhtida Alexela Kontserdimaja tähelepanu asjaolule, et 09.09.2019 muutis Konkurentsiamet siduvaks Piletilevi poolt Konkurentsiametile pakutud kohustuse, mille kohaselt kohustub Piletilevi muutma ürituste korraldajatega sõlmitavaid tüüplepinguid selliselt, et ürituse korraldaja jaoks muutuvad tingimused mitme piletivahendaja juures ürituse piletite müümiseks läbipaistvamaks ning arusaadavamaks. Kohustuse siduvaks</p>",
+      "page": 104,
+      "polygon": [
+        [
+          88.22960725075528,
+          713.0612535612536
+        ],
+        [
+          548.5840886203424,
+          713.0612535612536
+        ],
+        [
+          548.5840886203424,
+          783.2080078125
+        ],
+        [
+          88.22960725075528,
+          783.2080078125
+        ]
+      ],
+      "bbox": [
+        88.22960725075528,
+        713.0612535612536,
+        548.5840886203424,
+        783.2080078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 104,
+      "polygon": [
+        [
+          89.43001007049345,
+          794.6225071225072
+        ],
+        [
+          112.23766364551862,
+          794.6225071225072
+        ],
+        [
+          112.23766364551862,
+          804.8176638176639
+        ],
+        [
+          89.43001007049345,
+          804.8176638176639
+        ]
+      ],
+      "bbox": [
+        89.43001007049345,
+        794.6225071225072,
+        112.23766364551862,
+        804.8176638176639
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">muutmise mõte oli, et ürituste korraldajal oleks reaalne võimalus müüa pileteid mitme  piletivahendaja kaudu ning et sellisele tegevusele tekiks selgepiiriline raamistik. Seeläbi on  loodud ka paremad võimalused Piletileviga konkureerivate piletivahendajate arenguks.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          46.4580078125
+        ],
+        [
+          547.3480224609375,
+          46.4580078125
+        ],
+        [
+          547.3480224609375,
+          86.2015380859375
+        ],
+        [
+          89.6328125,
+          86.2015380859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.4580078125,
+        547.3480224609375,
+        86.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuigi Piletilevi ja Alexela Kontserdimaja vaheline leping ei sisalda eksklusiivsust teiste  korraldajate ürituste osas, on Alexela Kontserdimaja ühepoolselt otsustanud kasutada eelkõige  just Piletilevi teenuseid. Sealjuures on Alexela Kontserdimaja põhjendanud seda eelkõige  Piletilevi teenuste kõrge kvaliteediga. Ehkki Konkurentsiamet ei eita Alexela Kontserdimaja  õigust valida endale sobiva kvaliteeditasemega äripartnereid, on vähe kahtlust, et kiiresti  areneval piletivahenduse turul on ka teisi ettevõtjaid, kes on võimelised kvaliteetset teenust  osutama. Nagu eelpool selgitatud, loob Piletilevi 09.09.2019 kohustus selliste uute  konkurentide esiletõusuks senisest veelgi paremad tingimused. Konkurentsiameti hinnangul ei  saa selle kohustuse valguses ka piletite jagatud müüki liialt keerukaks ettevõtmiseks pidada.  Seda silmas pidades on Alexela Kontserdimajal soovitav edaspidi ka teisi kvaliteetset  piletivahenduse teenust pakkuvaid ettevõtjaid aktsepteerida. Selline mitme piletivahendaja  kasutamine tõhustaks konkurentsi piletivahendusteenuste pakkujate vahel, tuues pikemas  perspektiivis kasu kogu ürituste korraldamisega seotud tegevusalale, sh Alexela  Kontserdimajale.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          88.00152587890625
+        ],
+        [
+          547.4400024414062,
+          88.00152587890625
+        ],
+        [
+          547.4400024414062,
+          279.43145751953125
+        ],
+        [
+          89.6328125,
+          279.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        88.00152587890625,
+        547.4400024414062,
+        279.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet peab ka teatud ulatuses kaheldavaks, kuivõrd intensiivselt kahjustab Alexela  Kontserdimaja kui toimumispaika kontserdikorraldaja soov müüa pileteid mitme  piletivahendusettevõtja kaudu. On mõistetav, et Alexela Kontserdimajas toimuvate ürituste  puhul tuleb teatud hulk pileteid müüa läbi Piletilevi, kuna viimati nimetatu omab füüsilisi  müügipunkte (k.a Alexela Kontserdimajas) ja pakub piletite ostmise teenust ka Alexela  Kontserdimaja kodulehe kaudu. Samas teatud osa piletite müümine teiste piletivahendajate  kaudu on nii finantsiliselt kui mainekujunduslikult pigem ürituse korraldaja risk. Eelkõige, isegi  kui teatud hulk pileteid jääb ürituse korraldaja poolt leitud alternatiivse piletivahendaja kaudu müümata, ei sõltu sellest Alexela Kontserdimaja tasu. Konkurentsiameti hinnangul riskiks  Alexela Kontserdimaja mainekahjuga eelkõige juhul, kui alternatiivne piletivahendaja ei saaks  oma ülesannetega hakkama, kuid nagu eelpool selgitatud, ei ole mingit põhjust eeldada, et turul  puuduksid lisaks Piletilevile kvaliteetsed teenust osutavad vahendajad sootuks.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          88.46875,
+          281.23150634765625
+        ],
+        [
+          547.4200439453125,
+          281.23150634765625
+        ],
+        [
+          547.4200439453125,
+          445.2568359375
+        ],
+        [
+          88.46875,
+          445.2568359375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        281.23150634765625,
+        547.4200439453125,
+        445.2568359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Eelnimetatud põhjusel soovitab Konkurentsiamet konkurentsiseaduse § 61 lõike 1 alusel </b> <b>Alexela Kontserdimajale konkurentsiolukorra parandamiseks võimaldada Alexela </b> <b>Kontserdimajas toimuvatele üritustele pileteid vahendada ka teistel teatud </b> <b>kvaliteedistandarditele vastavatel piletivahendusettevõtjatel</b></p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          460.46875
+        ],
+        [
+          547.3480224609375,
+          460.46875
+        ],
+        [
+          547.3480224609375,
+          514.2914733886719
+        ],
+        [
+          89.6328125,
+          514.2914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        460.46875,
+        547.3480224609375,
+        514.2914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 152,
+      "polygon": [
+        [
+          90.505859375,
+          540.3314514160156
+        ],
+        [
+          170.67599487304688,
+          540.3314514160156
+        ],
+        [
+          170.67599487304688,
+          552.3314514160156
+        ],
+        [
+          90.505859375,
+          552.3314514160156
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        540.3314514160156,
+        170.67599487304688,
+        552.3314514160156
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          564.4853515625
+        ],
+        [
+          208.3751983642578,
+          564.4853515625
+        ],
+        [
+          208.3751983642578,
+          575.9341430664062
+        ],
+        [
+          89.6328125,
+          575.9341430664062
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        564.4853515625,
+        208.3751983642578,
+        575.9341430664062
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Märt Ots peadirektor</p>",
+      "page": 152,
+      "polygon": [
+        [
+          90.7439956665039,
+          599.8814697265625
+        ],
+        [
+          145.23599243164062,
+          599.8814697265625
+        ],
+        [
+          145.23599243164062,
+          623.7614593505859
+        ],
+        [
+          90.7439956665039,
+          623.7614593505859
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        599.8814697265625,
+        145.23599243164062,
+        623.7614593505859
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          89.05078125,
+          754.4287109375
+        ],
+        [
+          284.1979064941406,
+          754.4287109375
+        ],
+        [
+          284.1979064941406,
+          791.4306640625
+        ],
+        [
+          89.05078125,
+          791.4306640625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        754.4287109375,
+        284.1979064941406,
+        791.4306640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          90.505859375,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          794.7197265625
+        ],
+        [
+          110.01667785644531,
+          805.1834106445312
+        ],
+        [
+          90.505859375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        794.7197265625,
+        110.01667785644531,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/3/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

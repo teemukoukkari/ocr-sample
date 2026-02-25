@@ -1,0 +1,4192 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 50,
+      "polygon": [
+        [
+          416.2900695800781,
+          63.314453125
+        ],
+        [
+          538.7125854492188,
+          63.314453125
+        ],
+        [
+          538.7125854492188,
+          76.9949951171875
+        ],
+        [
+          416.2900695800781,
+          76.9949951171875
+        ]
+      ],
+      "bbox": [
+        416.2900695800781,
+        63.314453125,
+        538.7125854492188,
+        76.9949951171875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 50,
+      "polygon": [
+        [
+          55.84589843749999,
+          46.2935546875
+        ],
+        [
+          190.9353515625,
+          46.2935546875
+        ],
+        [
+          190.9353515625,
+          113.2259765625
+        ],
+        [
+          55.84589843749999,
+          113.2259765625
+        ]
+      ],
+      "bbox": [
+        55.84589843749999,
+        46.2935546875,
+        190.9353515625,
+        113.2259765625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADfAcIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACgkAZNFcl8RvFCeFfCdzd4DTyDy4VJ+81AGzqHiPR9LQve6h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P+8/M/Uqv/Ik/wC3F+R71RRRXuH5aFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAfO/xG/5HO+/3zV74V/8jYv+7W94v8GHVPEd1dfaim9s4wOKs+B/CJ0fXhc/aS+B0xXzMcbQeN9nza3sfolTMcM8p9kpe9yW/A9Tooor6Y/OwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDkNY/wCQlL9al0L/AJCH4VFrH/ISl+tS6F/yEPwr85p/8jf/ALf/AFPcl/u3yOqooor9GPDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOQ1j/AJCUv1qXQv8AkIfhUWsf8hKX61LoX/IQ/Cvzmn/yN/8At/8AU9yX+7fI6qiiiv0Y8MKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA5DWP8AkJS/WpdC/wCQh+FRax/yEpfrUuhf8hD8K/Oaf/I3/wC3/wBT3Jf7t8jqqKKK/RjwwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">B 10 – 26/09</p>",
+      "page": 50,
+      "polygon": [
+        [
+          447.7430419921875,
+          141.0185546875
+        ],
+        [
+          538.7236938476562,
+          141.0185546875
+        ],
+        [
+          538.7236938476562,
+          152.639892578125
+        ],
+        [
+          447.7430419921875,
+          152.639892578125
+        ]
+      ],
+      "bbox": [
+        447.7430419921875,
+        141.0185546875,
+        538.7236938476562,
+        152.639892578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 50,
+      "polygon": [
+        [
+          259.67999267578125,
+          191.1767578125
+        ],
+        [
+          349.697998046875,
+          191.1767578125
+        ],
+        [
+          349.697998046875,
+          209.923095703125
+        ],
+        [
+          259.67999267578125,
+          209.923095703125
+        ]
+      ],
+      "bbox": [
+        259.67999267578125,
+        191.1767578125,
+        349.697998046875,
+        209.923095703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In dem Verwaltungsverfahren gegen die</p>",
+      "page": 50,
+      "polygon": [
+        [
+          69.84375,
+          251.61328125
+        ],
+        [
+          214.6497802734375,
+          251.61328125
+        ],
+        [
+          214.6497802734375,
+          282.37139892578125
+        ],
+        [
+          69.84375,
+          282.37139892578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        251.61328125,
+        214.6497802734375,
+        282.37139892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">WEMAG AG Obotritenring 40 19053 Schwerin</p>",
+      "page": 50,
+      "polygon": [
+        [
+          70.134765625,
+          306.705078125
+        ],
+        [
+          159.185546875,
+          306.705078125
+        ],
+        [
+          159.185546875,
+          358.3155212402344
+        ],
+        [
+          70.134765625,
+          358.3155212402344
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        306.705078125,
+        159.185546875,
+        358.3155212402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">– Beschlussadressatin –</p>",
+      "page": 50,
+      "polygon": [
+        [
+          419.2872314453125,
+          365.4970703125
+        ],
+        [
+          539.251953125,
+          365.4970703125
+        ],
+        [
+          539.251953125,
+          377.2712097167969
+        ],
+        [
+          419.2872314453125,
+          377.2712097167969
+        ]
+      ],
+      "bbox": [
+        419.2872314453125,
+        365.4970703125,
+        539.251953125,
+        377.2712097167969
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">hat die 10. Beschlussabteilung am 29.10.2010 beschlossen:</p>",
+      "page": 50,
+      "polygon": [
+        [
+          70.92008209228516,
+          434.1493225097656
+        ],
+        [
+          363.8885803222656,
+          434.1493225097656
+        ],
+        [
+          363.8885803222656,
+          446.0791015625
+        ],
+        [
+          70.92008209228516,
+          446.0791015625
+        ]
+      ],
+      "bbox": [
+        70.92008209228516,
+        434.1493225097656,
+        363.8885803222656,
+        446.0791015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>. . .</b></p>",
+      "page": 50,
+      "polygon": [
+        [
+          429.830078125,
+          790.1636924743652
+        ],
+        [
+          445.91998291015625,
+          790.1636924743652
+        ],
+        [
+          445.91998291015625,
+          803.7646484375
+        ],
+        [
+          429.830078125,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        429.830078125,
+        790.1636924743652,
+        445.91998291015625,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          289.20001220703125,
+          50.158203125
+        ],
+        [
+          311.095703125,
+          50.158203125
+        ],
+        [
+          311.095703125,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        50.158203125,
+        311.095703125,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die von der Beschlussadressatin mit Schreiben an die Beschlussabteilung vom  29.07.2010 und 17.08.2010 angebotenen Verpflichtungszusagen sind bindend.</li><li block-type=\"ListItem\">2. Das Verfahren wird nach Maßgabe des § 32b Absatz 1 Satz 2 GWB eingestellt.</li><li block-type=\"ListItem\">3. Die Gebühr für das Verfahren einschließlich der Entscheidung beträgt […] Euro.</li><li block-type=\"ListItem\">4. Der Widerruf dieser Verfügung bleibt vorbehalten.</li></ul></p>",
+      "page": 154,
+      "polygon": [
+        [
+          87.3046875,
+          85.515625
+        ],
+        [
+          541.5045166015625,
+          85.515625
+        ],
+        [
+          541.5045166015625,
+          206.03802490234375
+        ],
+        [
+          87.3046875,
+          206.03802490234375
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        85.515625,
+        541.5045166015625,
+        206.03802490234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe</b></h2>",
+      "page": 154,
+      "polygon": [
+        [
+          285.1199951171875,
+          254.4912109375
+        ],
+        [
+          324.482421875,
+          254.4912109375
+        ],
+        [
+          324.482421875,
+          266.35504150390625
+        ],
+        [
+          285.1199951171875,
+          266.35504150390625
+        ]
+      ],
+      "bbox": [
+        285.1199951171875,
+        254.4912109375,
+        324.482421875,
+        266.35504150390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 154,
+      "polygon": [
+        [
+          301.201171875,
+          283.2705078125
+        ],
+        [
+          308.767578125,
+          283.2705078125
+        ],
+        [
+          308.767578125,
+          296.35504150390625
+        ],
+        [
+          301.201171875,
+          296.35504150390625
+        ]
+      ],
+      "bbox": [
+        301.201171875,
+        283.2705078125,
+        308.767578125,
+        296.35504150390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/154",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">1. Die Beschlussadressatin ist ein vertikal integriertes Energieversorgungsunternehmen mit  Schwerpunkt im Vertrieb von Strom, Wärme, Dampf und Gas. Der Umsatz der Beschlussadressatin betrug im Jahr 2009 ca. […] Euro. Die Beschlussadressatin hat im  Jahr 2009 ca. […] Kunden mit Heizstrom in Versorgungsgebieten in Brandenburg, Mecklenburg-Vorpommern und Schleswig-Holstein beliefert. Dieses Versorgungsgebiet ist  identisch mit dem Grundversorgungsgebiet, in dem die Beschlussadressatin die Grundversorgung im Bereich Elektrizität im Sinne des § 36 Abs. 1 EnWG übernimmt. Betreiberin des Stromverteilnetzes ist die WEMAG Netz GmbH, Schwerin, ein mit der Beschlussadressatin im Sinne des § 36 Abs. 2 GWB verbundenes Unternehmen, an dem  die Beschlussadressatin mit 100 % beteiligt ist.</li><li block-type=\"ListItem\">2. Die 10. Beschlussabteilung des Bundeskartellamts hat im September 2009 ein Verfahren gegen die Beschlussadressatin eingeleitet wegen des Verdachts des Missbrauchs  einer marktbeherrschenden Stellung durch das Fordern überhöhter Heizstrompreise für  die Belieferung privater Endkunden mit Elektrizität zum Betrieb von unterbrechbaren  Verbrauchseinrichtungen, d. h. elektrischen Nachtspeicherheizungen und Wärmepumpen (\"Heizstrom\") . Grundlage hierfür war § 29 S. 1 Nr. 1 GWB und § 19 Abs. 1 in Verbindung mit Abs. 4 Nr. 2 GWB.</li><li block-type=\"ListItem\">3. Die Ermittlungen der Beschlussabteilung bezogen sich auf die Erlössituation der Beschlussadressatin inklusive der von ihr entrichteten Netzentgelte, Konzessionsabgaben,  Abgaben auf Grund des Kraft-Wärme-Kopplungsgesetzes (im Folgenden: KWK-Abgaben) und Ökosteuern, in den Kalenderjahren 2007, 2008 und 2009. Überdies wurden Ermittlungen zur Strombeschaffungssituation einschließlich der in den Jahren 2007,  2008 und 2009 entstandenen Strombeschaffungskosten für Heizstrom, sowie zur allgemeinen Vertriebssituation durchgeführt.</li></ul></p>",
+      "page": 154,
+      "polygon": [
+        [
+          86.140625,
+          312.4609375
+        ],
+        [
+          541.6233520507812,
+          312.4609375
+        ],
+        [
+          541.6233520507812,
+          763.9419937133789
+        ],
+        [
+          86.140625,
+          763.9419937133789
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        312.4609375,
+        541.6233520507812,
+        763.9419937133789
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          289.20001220703125,
+          48.9248046875
+        ],
+        [
+          310.8046875,
+          48.9248046875
+        ],
+        [
+          310.8046875,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        48.9248046875,
+        310.8046875,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/140",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><span id=\"page-2-0\"></span>4. Die Beschlussabteilung hat der Beschlussadressatin die Ermittlungsergebnisse und das  detaillierte Prüfkonzept mehrfach erläutert und u. a. am 20.05.2010 ein Eckpunktepapier  mit wesentlichen Verfahrensaspekten nebst unternehmensbezogenen Berechnungen  übermittelt. Zuletzt wurden die Ermittlungsergebnisse in einer telefonischen Besprechung am 23.07.2010 erörtert.</li><li block-type=\"ListItem\">5. Mit Schreiben vom 29.07.2010 und vom 17.08.2010 hat die Beschlussadressatin sinngemäß folgende Verpflichtungszusagen gemäß § 32b GWB für sich selbst und ihr Tochterunternehmen WEMAG Netz GmbH angeboten:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Die Beschlussadressatin verzichtet auf eine kostenseitig nachweislich veranlasste  Preiserhöhung bis mindestens 01.11.2010. Dadurch profitieren alle zum Zeitpunkt  dieser Entscheidung von ihr belieferten Heizstromkunden proportional zum individuellen Heizstromverbrauch. Die den Kunden gewährte finanzielle Entlastung wird den  Kunden gegenüber ausgewiesen. Sie wird nicht durch zukünftige Preismaßnahmen  kompensiert (sog. \"No-Repeated-Game\"-Klausel). Die \"No-Repeated-Game\"-Klausel  endet am 31.12.2011.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Die Beschlussadressatin wird weiterhin alle von ihr angebotenen Tarife im Bereich  der Heizstromversorgung privater Endkunden transparent im Internet veröffentlichen.  Dies gilt für Bestands- und Neukundentarife gleichermaßen. Diese Verpflichtung ist  zeitlich unbefristet.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Die WEMAG Netz GmbH wird weiterhin für alle Heizstromlieferungen an private Endkunden höchstens den nach der Konzessionsabgabenverordnung (KAV) für Sonderverträge maximal zulässigen Konzessionsabgabensatz (derzeit 0,11 Cent/kWh) in  Rechnung stellen. Diese Verpflichtung ist zeitlich unbefristet.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Die WEMAG Netz GmbH wird weiterhin die für die Belieferung von Heizstromkunden  verwendeten Lastprofile transparent im Internet veröffentlichen. Diese Verpflichtung  ist zeitlich unbefristet.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Die WEMAG Netz GmbH wird schnellstmöglich temperaturabhängige Lastprofile für  die Belieferung von unterbrechbaren Verbrauchseinrichtungen ermitteln und verwenden. Diese Verpflichtung ist zeitlich unbefristet<i>.</i></li></ul></li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          88.46875,
+          87.0157470703125
+        ],
+        [
+          541.648193359375,
+          87.0157470703125
+        ],
+        [
+          541.648193359375,
+          673.9405364990234
+        ],
+        [
+          88.46875,
+          673.9405364990234
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        87.0157470703125,
+        541.648193359375,
+        673.9405364990234
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Einzelheiten zu den angebotenen Verpflichtungszusagen können den jeweils als Anlage beigefügten Schreiben der Beschlussadressatin vom 29.07.2010 und 17.08.2010 entnommen werden.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          104.765625,
+          691.525390625
+        ],
+        [
+          538.8331909179688,
+          691.525390625
+        ],
+        [
+          538.8331909179688,
+          739.9103164672852
+        ],
+        [
+          104.765625,
+          739.9103164672852
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        691.525390625,
+        538.8331909179688,
+        739.9103164672852
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          289.20001220703125,
+          49.3359375
+        ],
+        [
+          310.8046875,
+          49.3359375
+        ],
+        [
+          310.8046875,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        49.3359375,
+        310.8046875,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die in den Spiegelstrichen 3 – 5 genannten Verpflichtungen gelten unbeschadet der sich  aus § 8 EnWG ergebenden gesetzlichen Pflichten der Beschlussadressatin.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          104.765625,
+          85.515625
+        ],
+        [
+          541.5328979492188,
+          85.515625
+        ],
+        [
+          541.5328979492188,
+          116.05096435546875
+        ],
+        [
+          104.765625,
+          116.05096435546875
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        85.515625,
+        541.5328979492188,
+        116.05096435546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6. Die Beschlussadressatin hat mit Schreiben vom 20.09.2010 Gelegenheit erhalten, zum  Entscheidungsentwurf Stellung zu nehmen.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          90.796875,
+          134.4404296875
+        ],
+        [
+          541.621337890625,
+          134.4404296875
+        ],
+        [
+          541.621337890625,
+          164.0418701171875
+        ],
+        [
+          90.796875,
+          164.0418701171875
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        134.4404296875,
+        541.621337890625,
+        164.0418701171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 135,
+      "polygon": [
+        [
+          300.1103515625,
+          210.9111328125
+        ],
+        [
+          309.640625,
+          210.9111328125
+        ],
+        [
+          309.640625,
+          224.33245849609375
+        ],
+        [
+          300.1103515625,
+          224.33245849609375
+        ]
+      ],
+      "bbox": [
+        300.1103515625,
+        210.9111328125,
+        309.640625,
+        224.33245849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/135",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">7. Die angebotenen Verpflichtungszusagen sind geeignet, die bestehenden vorläufigen  Bedenken der Beschlussabteilung im Hinblick auf das beanstandete wettbewerbliche  Verhalten in den Jahren 2007 und 2008 auszuräumen. Für das Kalenderjahr 2009 ist  der Missbrauchsverdacht entfallen. Daher erklärt die Beschlussabteilung im Rahmen ihres Ermessens die Verpflichtungszusagen für bindend und stellt das Verfahren vorbehaltlich ihrer in § 32b Abs. 2 GWB enthaltenen Möglichkeiten ein.</li><li block-type=\"ListItem\">8. Die vorläufige Würdigung der Beschlussabteilung beruht auf den nachfolgend unter IV. dargestellten Überlegungen. Das Vorliegen eines Preismissbrauchs in den Jahren 2007  und 2008 wird dessen ungeachtet von der Beschlussadressatin nicht anerkannt. Es bestehen weiterhin unterschiedliche Rechtsauffassungen der Beschlussabteilung und der  Beschlussadressatin, insbesondere im Hinblick auf die von der Beschlussabteilung  durchgeführte Einzeljahresbetrachtung. Die Beschlussadressatin befürwortet weiterhin  eine aggregierte Betrachtung der drei untersuchten Kalenderjahre.</li></ul></p>",
+      "page": 135,
+      "polygon": [
+        [
+          88.46875,
+          242.1572265625
+        ],
+        [
+          541.588134765625,
+          242.1572265625
+        ],
+        [
+          541.588134765625,
+          481.97174072265625
+        ],
+        [
+          88.46875,
+          481.97174072265625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        242.1572265625,
+        541.588134765625,
+        481.97174072265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III</b>.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          315.4609375,
+          530.923095703125
+        ],
+        [
+          328.7370300292969,
+          530.923095703125
+        ],
+        [
+          328.7370300292969,
+          542.2623291015625
+        ],
+        [
+          315.4609375,
+          542.2623291015625
+        ]
+      ],
+      "bbox": [
+        315.4609375,
+        530.923095703125,
+        328.7370300292969,
+        542.2623291015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">9. Das Bundeskartellamt ist nach § 48 Abs. 2 Satz 1 GWB für das Verfahren zuständig.  Danach ist die Zuständigkeit des Bundeskartellamts gegeben, wenn die Wirkung der  Marktbeeinflussung oder des wettbewerbsbeschränkenden Verhaltens über das Gebiet eines Bundeslandes hinausreicht. Die Beschlussadressatin beliefert in ihrem Versorgungsgebiet Heizstromkunden in den Bundesländern Brandenburg, Mecklenburg-Vorpommern und Schleswig-Holstein mit Strom. Missbräuchliche Verhaltensweisen wirken sich daher bundeslandübergreifend aus.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          88.91508483886719,
+          559.140625
+        ],
+        [
+          541.6212768554688,
+          559.140625
+        ],
+        [
+          541.6212768554688,
+          679.9300384521484
+        ],
+        [
+          88.91508483886719,
+          679.9300384521484
+        ]
+      ],
+      "bbox": [
+        88.91508483886719,
+        559.140625,
+        541.6212768554688,
+        679.9300384521484
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 135,
+      "polygon": [
+        [
+          315.69873046875,
+          724.8639755249023
+        ],
+        [
+          330.59375,
+          724.8639755249023
+        ],
+        [
+          330.59375,
+          735.9039764404297
+        ],
+        [
+          315.69873046875,
+          735.9039764404297
+        ]
+      ],
+      "bbox": [
+        315.69873046875,
+        724.8639755249023,
+        330.59375,
+        735.9039764404297
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">10. Die Beschlussadressatin verfügt nach Auffassung der Beschlussabteilung bei der Belieferung privater Endkunden mit Heizstrom zum Betrieb unterbrechbarer Verbrauchsein-</p>",
+      "page": 135,
+      "polygon": [
+        [
+          88.46875,
+          751.55078125
+        ],
+        [
+          540.125,
+          751.55078125
+        ],
+        [
+          540.125,
+          782.8780288696289
+        ],
+        [
+          88.46875,
+          782.8780288696289
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        751.55078125,
+        540.125,
+        782.8780288696289
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          287.5234375,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          62.41009521484375
+        ],
+        [
+          287.5234375,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        287.5234375,
+        50.158203125,
+        310.59600830078125,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">richtungen, d. h. elektrischer Nachtspeicherheizungen und elektrischer Wärmepumpen,  über eine marktbeherrschende Stellung im Sinne des § 19 Abs. 1 GWB. Sachlich relevant ist der Markt für die Belieferung privater Letztverbraucher mit Elektrizität zum Betrieb unterbrechbarer Verbrauchseinrichtungen – darunter sind überwiegend Nachtspeicherheizungen und elektrische Wärmepumpen zu verstehen – mit dem Zweck der  Raumheizung.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          104.765625,
+          85.1044921875
+        ],
+        [
+          541.5978393554688,
+          85.1044921875
+        ],
+        [
+          541.5978393554688,
+          188.03179931640625
+        ],
+        [
+          104.765625,
+          188.03179931640625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        85.1044921875,
+        541.5978393554688,
+        188.03179931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Heizstromkunden unterscheiden sich von den übrigen nicht-leistungsgemessenen  (Haushaltsstrom-) Kunden<a href=\"#page-4-0\">1</a> insbesondere durch ein abweichendes Nutzerprofil. Da  Heizstrom zum Betrieb von unterbrechbaren Einrichtungen mit dem Zweck der Raumheizung nachgefragt wird, variiert die Abnahme je nach Außentemperatur und fällt an  Tagen mit niedrigerer Außentemperatur höher aus als an wärmeren Tagen. Daraus  folgt, dass Nachfrager von Heizstrom ein anderes Lastprofil aufweisen als Kunden, die  Elektrizität lediglich zum Betrieb von Haushaltsgeräten und Leuchtmitteln abnehmen.  Aus diesem Grund übersteigt die nachgefragte Strommenge von Heizstromkunden die  von Haushaltsstromkunden durchschnittlich abgenommene Strommenge erheblich.<a href=\"#page-4-1\">2</a></p>",
+      "page": 150,
+      "polygon": [
+        [
+          104.765625,
+          201.455078125
+        ],
+        [
+          541.5868530273438,
+          201.455078125
+        ],
+        [
+          541.5868530273438,
+          365.6269226074219
+        ],
+        [
+          104.765625,
+          365.6269226074219
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        201.455078125,
+        541.5868530273438,
+        365.6269226074219
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner unterscheiden sich die Tageszeiten, zu denen Heizstrom und Haushaltsstrom typischerweise abgenommen werden. Heizstrom wird auf Grund der technischen Bedingungen zum Betrieb der unterbrechbaren Verbrauchseinrichtungen im Gegensatz zu  Haushaltsstrom überwiegend nachts nachgefragt.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          104.765625,
+          378.6533203125
+        ],
+        [
+          541.472412109375,
+          378.6533203125
+        ],
+        [
+          541.472412109375,
+          447.4827575683594
+        ],
+        [
+          104.765625,
+          447.4827575683594
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        378.6533203125,
+        541.472412109375,
+        447.4827575683594
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Darüber hinaus sind für Heizstrom-Lieferungen regelmäßig niedrigere Netzentgelte und  Konzessionsabgaben zu entrichten als für normale Haushaltsstromlieferungen, was auf  die Unterbrechbarkeit der Belieferung mit Heizstrom zurückzuführen ist. Für einen eigenen sachlich relevanten Markt für den Vertrieb von Heizstrom spricht auch die Preisdifferenzierung zwischen den Preisen für den Bezug von Haushaltsstrom und Heizstrom.  Dabei sind die Preise für Heizstromlieferungen durchgängig niedriger als diejenigen für  Haushaltsstrom. Gründe hierfür sind (neben den niedrigeren Netznutzungsentgelten) vor  allem die regelmäßig geringeren Beschaffungskosten. Denn die Beschaffung erfolgt für  Schwachlast-(off-peak-)Zeiten, die an der Börse regelmäßig erheblich günstiger möglich  ist als zu Spitzenlast-(peak-)Zeiten tagsüber.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          103.6015625,
+          460.8798828125
+        ],
+        [
+          541.6492309570312,
+          460.8798828125
+        ],
+        [
+          541.6492309570312,
+          644.2451171875
+        ],
+        [
+          103.6015625,
+          644.2451171875
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        460.8798828125,
+        541.6492309570312,
+        644.2451171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          70.91999816894531,
+          649.0836486816406
+        ],
+        [
+          73.91999816894531,
+          649.0836486816406
+        ],
+        [
+          73.91999816894531,
+          661.0836486816406
+        ],
+        [
+          70.91999816894531,
+          661.0836486816406
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        649.0836486816406,
+        73.91999816894531,
+        661.0836486816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-4-0\"></span><sup>1</sup> S. zur Marktabgrenzung der Strommärkte BKartA, Beschl. v. 30.11.2009, Az. B8-107/09 – <i>\"Integra / Thüga</i>\", S. 9 ff., abrufbar im Internet unter: <a href=\"http://www.bundeskartellamt.de/wDeutsch/download/pdf/Fusion/Fusion09/B8-107-09.pdf\">http://www.bundeskartellamt.de/wDeutsch/download/pdf/Fusion/Fusion09/B8-107-09.pdf.</a></p>",
+      "page": 150,
+      "polygon": [
+        [
+          98.9453125,
+          663.5822601318359
+        ],
+        [
+          538.9609375,
+          663.5822601318359
+        ],
+        [
+          538.9609375,
+          698.9994506835938
+        ],
+        [
+          98.9453125,
+          698.9994506835938
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        663.5822601318359,
+        538.9609375,
+        698.9994506835938
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-4-1\"></span><sup>2</sup> Der Haushaltsstromverbrauch eines privaten Vier-Personen-Haushalts liegt bei ca. 4.500  kWh/a, ein Ein-Personen-Haushalt verbraucht etwa 2.000 kWh/a, vgl. http://www.eanrw.de/_infopool/page.asp?InfoID=4106. Demgegenüber liegt der durchschnittliche Verbrauch  von Strom zu Heizzwecken mit Nachtspeicherheizungen in Deutschland bei etwa 17.500  kWh/a, für den Betrieb von Wärmepumpen bei ca. 5.000 kWh/a. Vgl. Gutachten im Auftrag der  Bundesnetzagentur, \"Standardlastprofile für unterbrechbare, temperaturabhängige Verbrauchs einrichtungen (1)\", S. 12f.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          97.78125,
+          699.3369140625
+        ],
+        [
+          541.30908203125,
+          699.3369140625
+        ],
+        [
+          541.30908203125,
+          782.5348129272461
+        ],
+        [
+          97.78125,
+          782.5348129272461
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        699.3369140625,
+        541.30908203125,
+        782.5348129272461
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          289.20001220703125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        50.158203125,
+        310.59600830078125,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/147",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">11. In räumlicher Hinsicht grenzt die Beschlussabteilung den sachlich relevanten Markt für  die Belieferung von Letztverbrauchern mit Heizstrom regional nach den etablierten Versorgungsgebieten der betroffenen Unternehmen ab. Dies entspricht dem Netzgebiet des  mit der Beschlussadressatin verbundenen Netzbetreibers, in dem die Beschlussadressatin Heizstrom anbietet.</li><li block-type=\"ListItem\">12. Die Marktabgrenzung für Heizstrom hat das OLG Düsseldorf in einem einstweiligen  Rechtsschutzverfahren in räumlicher und sachlicher Hinsicht bestätigt. <a href=\"#page-5-0\">3</a></li><li block-type=\"ListItem\">13. Auf dem wie oben definierten Markt für die Belieferung von privaten Letztverbrauchern  mit Heizstrom ist das jeweilige Heizstromvertriebsunternehmen bei bestehenden  Marktzutrittsschranken und Marktanteilen von fast 100 % marktbeherrschend im Sinne  des § 19 Abs. 1 GWB.</li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          88.90896606445312,
+          80.9931640625
+        ],
+        [
+          541.5599975585938,
+          80.9931640625
+        ],
+        [
+          541.5599975585938,
+          295.56280517578125
+        ],
+        [
+          88.90896606445312,
+          295.56280517578125
+        ]
+      ],
+      "bbox": [
+        88.90896606445312,
+        80.9931640625,
+        541.5599975585938,
+        295.56280517578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach den Ermittlungen der Beschlussabteilung gibt es auf den betroffenen sachlich und  räumlich relevanten Märkten kaum alternative Anbieter von Heizstrom. Die unternehmensindividuelle Wechselquote lag in den Betrachtungszeiträumen in den allermeisten  Fällen bei nahezu 0 %. Somit verfügt der etablierte Anbieter im jeweiligen Versorgungsgebiet über eine marktbeherrschende Stellung, wenn nicht sogar über eine Monopolstellung. Dieser Marktbeherrschungsbefund wurde vom OLG Düsseldorf bestätigt.<a href=\"#page-5-1\">4</a></p>",
+      "page": 150,
+      "polygon": [
+        [
+          104.765625,
+          308.7607421875
+        ],
+        [
+          541.58203125,
+          308.7607421875
+        ],
+        [
+          541.58203125,
+          415.4240417480469
+        ],
+        [
+          104.765625,
+          415.4240417480469
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        308.7607421875,
+        541.58203125,
+        415.4240417480469
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die bestehende marktbeherrschende Stellung des jeweils etablierten Versorgers wird  auch nicht durch ausreichende Möglichkeiten der Substitution von Heizstrom mit anderen Heizmitteln in Frage gestellt. Zwar gibt es für Heizstromkunden grundsätzlich die  Möglichkeit, auf andere Heizsysteme mit preisgünstigeren Betriebsmitteln umzusteigen.  Eine Umstellung von einer Nachtspeicherheizung auf eine Gas- oder Fernwärmeheizung  ist aber kaum möglich, da dies die Verlegung entsprechender Rohrleitungssysteme zum  und im jeweiligen Gebäude erforderlich machen würde. Das gilt auch für Wärmepumpen, deren Installation zusätzlich bestimmte Anforderungen an die Umgebung stellt und  darüber hinaus hohe Investitionen erfordert.<a href=\"#page-5-2\">5</a></p>",
+      "page": 150,
+      "polygon": [
+        [
+          104.765625,
+          429.375732421875
+        ],
+        [
+          541.5758056640625,
+          429.375732421875
+        ],
+        [
+          541.5758056640625,
+          592.1826019287109
+        ],
+        [
+          104.765625,
+          592.1826019287109
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        429.375732421875,
+        541.5758056640625,
+        592.1826019287109
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">14. Die Marktzutrittsschranken zu den Heizstrommärkten sind aus mehreren Gründen hoch:</p>",
+      "page": 150,
+      "polygon": [
+        [
+          87.3046875,
+          603.9541015625
+        ],
+        [
+          538.6233520507812,
+          603.9541015625
+        ],
+        [
+          538.6233520507812,
+          617.1757202148438
+        ],
+        [
+          87.3046875,
+          617.1757202148438
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        603.9541015625,
+        538.6233520507812,
+        617.1757202148438
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-5-2\"></span><span id=\"page-5-1\"></span><span id=\"page-5-0\"></span><sup> </sup><sup>3</sup> S. OLG Düsseldorf, Beschl. v., Az. VI-2 Kart 9/09 (V) - <i>\"Entega\"</i></p>",
+      "page": 150,
+      "polygon": [
+        [
+          70.91999816894531,
+          709.5636596679688
+        ],
+        [
+          394.6171875,
+          709.5636596679688
+        ],
+        [
+          394.6171875,
+          733.3267135620117
+        ],
+        [
+          70.91999816894531,
+          733.3267135620117
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        709.5636596679688,
+        394.6171875,
+        733.3267135620117
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p></p>",
+      "page": 150,
+      "polygon": [
+        [
+          97.19921875,
+          735.5166015625
+        ],
+        [
+          148.41796875,
+          735.5166015625
+        ],
+        [
+          148.41796875,
+          744.5615234375
+        ],
+        [
+          97.19921875,
+          744.5615234375
+        ]
+      ],
+      "bbox": [
+        97.19921875,
+        735.5166015625,
+        148.41796875,
+        744.5615234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Ebenda<i>.</i></p>",
+      "page": 150,
+      "polygon": [
+        [
+          97.490234375,
+          735.462272644043
+        ],
+        [
+          150.59820556640625,
+          735.462272644043
+        ],
+        [
+          150.59820556640625,
+          754.83984375
+        ],
+        [
+          97.490234375,
+          754.83984375
+        ]
+      ],
+      "bbox": [
+        97.490234375,
+        735.462272644043,
+        150.59820556640625,
+        754.83984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> S. etwa http://www.erdwaermepumpe.de/03kosten.php oder http://www2.um.baden-wuerttemberg.de/servlet/is/19833. Die Installationskosten für eine Wärmepumpe liegen durchschnittlich über 10.000 Euro.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          99.23999786376953,
+          750.1022720336914
+        ],
+        [
+          498.9588928222656,
+          750.1022720336914
+        ],
+        [
+          498.9588928222656,
+          786.0859375
+        ],
+        [
+          99.23999786376953,
+          786.0859375
+        ]
+      ],
+      "bbox": [
+        99.23999786376953,
+        750.1022720336914,
+        498.9588928222656,
+        786.0859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 174,
+      "polygon": [
+        [
+          289.20001220703125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        50.158203125,
+        310.59600830078125,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">• Die von verschiedenen Netzbetreibern verwendeten Lastprofile für die Belieferung  von Heizstromkunden werden weitgehend nicht auf einheitliche Weise ermittelt. Dies erschwert eine standardisierte Heizstrombelieferung durch Dritte erheblich.<a href=\"#page-6-0\">6</a></p>",
+      "page": 174,
+      "polygon": [
+        [
+          104.765625,
+          82.6376953125
+        ],
+        [
+          541.5868530273438,
+          82.6376953125
+        ],
+        [
+          541.5868530273438,
+          132.6085205078125
+        ],
+        [
+          104.765625,
+          132.6085205078125
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        82.6376953125,
+        541.5868530273438,
+        132.6085205078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ermittlungsmethode für Heizstromlastprofile ist weder vom Regulierer vorgegeben noch hat sich bisweilen eine dominante Ermittlungsmethode in der Branche  etabliert. Temperaturabhängige Lastprofile spiegeln dabei das von der Außentemperatur abhängige Abnahmeverhalten von Heizstrom am besten wider und ermöglichen es Vertriebsunternehmen, Beschaffungsvorteile gegenüber der temperaturunabhängigen Haushaltsstrombeschaffung zu generieren. Bei der Einleitung der Heizstromverfahren durch das Bundeskartellamt wurden solche temperaturabhängigen  Lastprofile bereits von etwa zwei Drittel der vorliegend untersuchten Unternehmen  (18 von 25 Unternehmen) verwendet. <a href=\"#page-6-1\">7</a> Von diesen Unternehmen wurde das temperaturabhängige Lastprofil bei Verfahrenseinleitung in zehn Fällen mithilfe der vom  BDEW und der Technischen Universität Cottbus entwickelten Methode ermittelt, den  übrigen acht temperaturabhängigen Lastprofilen lagen unternehmensindividuelle  Ermittlungsmethoden zu Grunde. In sieben der 25 untersuchten Fälle erfolgten die  Heizstromlieferungen bei Verfahrenseinleitung auf der Grundlage von temperatur<i>un</i>abhängigen Lastprofilen. Teilweise wurde vom jeweiligen Netzbetreiber sogar das  Standardlastprofil für Haushaltsstromkunden vorgegeben. Letzteres spiegelt das  Abnehmerverhalten völlig unzutreffend wider und ist nach Auffassung der Beschlussabteilung daher nicht sachgerecht.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          123.39062499999999,
+          146.36328125
+        ],
+        [
+          541.6248168945312,
+          146.36328125
+        ],
+        [
+          541.6248168945312,
+          480.0790710449219
+        ],
+        [
+          123.39062499999999,
+          480.0790710449219
+        ]
+      ],
+      "bbox": [
+        123.39062499999999,
+        146.36328125,
+        541.6248168945312,
+        480.0790710449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zudem ist der jeweilige Netzbetreiber nicht verpflichtet, die für die Belieferung von  Heizstromkunden zu Grunde gelegten Lastprofile transparent und aktuell im Internet  zu veröffentlichen. Zwar hatten zum Zeitpunkt der Verfahrenseinleitung bereits einige der mit den untersuchten Vertriebsunternehmen verbundenen Netzbetreiber die  verwendeten Lastprofile im Internet bekannt gemacht. Eine <i>Verpflichtung </i>hierzu besteht bislang jedoch nicht. Der Netzbetreiber ist lediglich gehalten, die Lastprofile <i>auf </i></p>",
+      "page": 174,
+      "polygon": [
+        [
+          123.39062499999999,
+          492.9482421875
+        ],
+        [
+          541.61376953125,
+          492.9482421875
+        ],
+        [
+          541.61376953125,
+          599.8904113769531
+        ],
+        [
+          123.39062499999999,
+          599.8904113769531
+        ]
+      ],
+      "bbox": [
+        123.39062499999999,
+        492.9482421875,
+        541.61376953125,
+        599.8904113769531
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 174,
+      "polygon": [
+        [
+          70.91999816894531,
+          617.6436462402344
+        ],
+        [
+          73.91999816894531,
+          617.6436462402344
+        ],
+        [
+          73.91999816894531,
+          629.6436462402344
+        ],
+        [
+          70.91999816894531,
+          629.6436462402344
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        617.6436462402344,
+        73.91999816894531,
+        629.6436462402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-6-0\"></span><sup>6</sup> S. <i>Nabe/Ters</i>: Standardlastprofile für unterbrechbare, temperaturabhängige Verbrauchseinrichtungen (1), Gutachten im Auftrag der Bundesnetzagentur, Januar 2008, abrufbar im Internet unter:</p>",
+      "page": 174,
+      "polygon": [
+        [
+          98.9453125,
+          631.0888671875
+        ],
+        [
+          538.9609375,
+          631.0888671875
+        ],
+        [
+          538.9609375,
+          667.439453125
+        ],
+        [
+          98.9453125,
+          667.439453125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        631.0888671875,
+        538.9609375,
+        667.439453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/Gutacht</a> <a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">enHeizstrommarktI_Id17128pdf.pdf,</a> S. 20 f.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          111.74999999999999,
+          669.0031585693359
+        ],
+        [
+          535.46875,
+          669.0031585693359
+        ],
+        [
+          535.46875,
+          691.525390625
+        ],
+        [
+          111.74999999999999,
+          691.525390625
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        669.0031585693359,
+        535.46875,
+        691.525390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-6-1\"></span><sup>7</sup> Auch bei einer größeren Stichprobe von 40 Netzbetreibern haben etwa zwei Drittel (=26) der  untersuchten Unternehmen ein temperaturabhängiges Lastprofil für die Belieferung von Heizstromkunden berücksichtigt. Die übrigen Unternehmen haben ein temperaturunabhängiges  Lastprofil für solche Stromlieferungen zu Grunde gelegt. S. dazu <i>Nabe/Ters</i>: Standardlastprofile  für unterbrechbare, temperaturabhängige Verbrauchseinrichtungen (1), Gutachten im Auftrag  der Bundesnetzagentur, Januar 2008, abrufbar im Internet unter:</p>",
+      "page": 174,
+      "polygon": [
+        [
+          98.9453125,
+          691.9365234375
+        ],
+        [
+          541.299072265625,
+          691.9365234375
+        ],
+        [
+          541.299072265625,
+          768.4072265625
+        ],
+        [
+          98.9453125,
+          768.4072265625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        691.9365234375,
+        541.299072265625,
+        768.4072265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/Gutacht</a> <a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">enHeizstrommarktI_Id17128pdf.pdf;</a>S. 19.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          111.74999999999999,
+          764.0548248291016
+        ],
+        [
+          535.46875,
+          764.0548248291016
+        ],
+        [
+          535.46875,
+          786.908203125
+        ],
+        [
+          111.74999999999999,
+          786.908203125
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        764.0548248291016,
+        535.46875,
+        786.908203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          289.20001220703125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          50.158203125
+        ],
+        [
+          310.59600830078125,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        50.158203125,
+        310.59600830078125,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Anfrage</i> zur Verfügung zu stellen.<a href=\"#page-7-0\">8</a> . Drittlieferanten entsteht durch eine solche Anfrage jedoch ein erheblicher Zusatzaufwand, der die Kalkulation der Strombeschaffungskosten, folglich die Preiskalkulation und schließlich das Tätigwerden in anderen  Versorgungsgebieten erheblich erschwert. Studien zufolge haben etliche Netzbetreiber Informationen zum Lastprofil bisher lediglich auf Anfrage bereitgestellt. <a href=\"#page-7-1\">9</a></p>",
+      "page": 157,
+      "polygon": [
+        [
+          123.39062499999999,
+          80.1708984375
+        ],
+        [
+          541.472412109375,
+          80.1708984375
+        ],
+        [
+          541.472412109375,
+          169.7999267578125
+        ],
+        [
+          123.39062499999999,
+          169.7999267578125
+        ]
+      ],
+      "bbox": [
+        123.39062499999999,
+        80.1708984375,
+        541.472412109375,
+        169.7999267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt erachtet die Ermittlung temperaturabhängiger Lastprofile anhand der vom BDEW und der Technischen Universität Cottbus erarbeiteten Methode  sowie die aktuelle und transparente Veröffentlichung dieser Lastprofile im Internet  als wünschenswerten Standard. In diesem Punkt besteht Einvernehmen mit der  Bundesnetzagentur.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          123.39062499999999,
+          183.365234375
+        ],
+        [
+          541.624755859375,
+          183.365234375
+        ],
+        [
+          541.624755859375,
+          270.59844970703125
+        ],
+        [
+          123.39062499999999,
+          270.59844970703125
+        ]
+      ],
+      "bbox": [
+        123.39062499999999,
+        183.365234375,
+        541.624755859375,
+        270.59844970703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">• Eine weitere Marktzutrittsschranke zu den Heizstrommärkten stellt die oftmals nicht  oder nicht vollumfänglich erfolgende Veröffentlichung der von einem Vertriebsunternehmen angebotenen Heizstromprodukte dar. Durch diese Intransparenz ist es für  Drittlieferanten kaum möglich, tragfähige Alternativ-Angebote für Heizstromlieferungen zu kalkulieren.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          106.92474365234375,
+          283.681640625
+        ],
+        [
+          541.5252685546875,
+          283.681640625
+        ],
+        [
+          541.5252685546875,
+          372.2326354980469
+        ],
+        [
+          106.92474365234375,
+          372.2326354980469
+        ]
+      ],
+      "bbox": [
+        106.92474365234375,
+        283.681640625,
+        541.5252685546875,
+        372.2326354980469
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die transparente Veröffentlichung der wesentlichen Bestands- und Neukundentarife  im Bereich Heizstrom auf der Internetseite des Vertriebsunternehmens beseitigt  nach Auffassung der Beschlussabteilung diese Marktzutrittsschranke.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          123.39062499999999,
+          385.2314453125
+        ],
+        [
+          541.6357421875,
+          385.2314453125
+        ],
+        [
+          541.6357421875,
+          435.1053771972656
+        ],
+        [
+          123.39062499999999,
+          435.1053771972656
+        ]
+      ],
+      "bbox": [
+        123.39062499999999,
+        385.2314453125,
+        541.6357421875,
+        435.1053771972656
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">• Hohe Konzessionsabgaben für Heizstromlieferungen belasten nicht nur die Heizstromabnehmer unangemessen. Sie können sich auch wettbewerblich nachteilig  auswirken in Fällen, in denen der Heizstromlieferant von der konzessionsgebenden  Kommune kontrolliert wird. Die Vereinnahmung ungerechtfertigt hoher Konzessionsabgaben auf der einen Seite schafft dann aus Sicht der Kommune den Freiraum, im  Vertrieb mit sehr geringer oder ohne Gewinnmarge zu operieren (Verschiebung der  Gewinnmarge aus dem Heizstromvertrieb in die Konzessionsabgabe). Wettbewerber  auf der Vertriebsebene würden so erheblich behindert.<a href=\"#page-7-2\">10</a></p>",
+      "page": 157,
+      "polygon": [
+        [
+          104.765625,
+          448.95703125
+        ],
+        [
+          541.6026611328125,
+          448.95703125
+        ],
+        [
+          541.6026611328125,
+          593.5955963134766
+        ],
+        [
+          104.765625,
+          593.5955963134766
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        448.95703125,
+        541.6026611328125,
+        593.5955963134766
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          70.91999816894531,
+          626.0436553955078
+        ],
+        [
+          73.91999816894531,
+          626.0436553955078
+        ],
+        [
+          73.91999816894531,
+          638.0436553955078
+        ],
+        [
+          70.91999816894531,
+          638.0436553955078
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        626.0436553955078,
+        73.91999816894531,
+        638.0436553955078
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-7-0\"></span><sup>8</sup> S. Bundesnetzagentur, Anlage 1 zum Beschl. BK6-07-002, \"Marktregeln für die Durchführung  der Bilanzkreisabrechnung Strom (MaBiS)\", S. 9, abrufbar im Internet unter: <a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/110572/publicationFile/5880/BK6-07-\">http://www.bundesnetzagentur.de/cae/servlet/contentblob/110572/publicationFile/5880/BK6-07-</a> 002_Anlagen1und2zumBeschluss10062009.pdf .</p>",
+      "page": 157,
+      "polygon": [
+        [
+          98.9453125,
+          640.5422668457031
+        ],
+        [
+          541.2692260742188,
+          640.5422668457031
+        ],
+        [
+          541.2692260742188,
+          687.8251953125
+        ],
+        [
+          98.9453125,
+          687.8251953125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        640.5422668457031,
+        541.2692260742188,
+        687.8251953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-7-1\"></span><sup>9</sup> S. <i>Nabe/Ters</i>: Standardlastprofile für unterbrechbare, temperaturabhängige Verbrauchseinrichtungen (1), Gutachten im Auftrag der Bundesnetzagentur, Januar 2008, abrufbar im Internet unter:</p>",
+      "page": 157,
+      "polygon": [
+        [
+          96.6171875,
+          689.4697265625
+        ],
+        [
+          538.6297607421875,
+          689.4697265625
+        ],
+        [
+          538.6297607421875,
+          724.9194488525391
+        ],
+        [
+          96.6171875,
+          724.9194488525391
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        689.4697265625,
+        538.6297607421875,
+        724.9194488525391
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/Gutacht</a> <a href=\"http://www.bundesnetzagentur.de/cae/servlet/contentblob/132386/publicationFile/1600/GutachtenHeizstrommarktI_Id17128pdf.pdf\">enHeizstrommarktI_Id17128pdf.pdf,</a> S. 18.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          111.74999999999999,
+          725.6494140625
+        ],
+        [
+          535.46875,
+          725.6494140625
+        ],
+        [
+          535.46875,
+          747.9668884277344
+        ],
+        [
+          111.74999999999999,
+          747.9668884277344
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        725.6494140625,
+        535.46875,
+        747.9668884277344
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-7-2\"></span><sup>10</sup> S. dazu BKartA, Beschl. v. 16.09.2010, Az. B10-11/09 <i>–</i> <i>\"GAG Ahrensburg\"</i>, abrufbar im Internet unter http://www.bundeskartellamt.de/wDeutsch/download/pdf/Missbrauchsaufsicht/B10-11- 09_GAG_Ahrensburg.pdf.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          98.9453125,
+          749.9822769165039
+        ],
+        [
+          538.9609375,
+          749.9822769165039
+        ],
+        [
+          538.9609375,
+          787.73046875
+        ],
+        [
+          98.9453125,
+          787.73046875
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        749.9822769165039,
+        538.9609375,
+        787.73046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 182,
+      "polygon": [
+        [
+          289.20001220703125,
+          49.7470703125
+        ],
+        [
+          310.8046875,
+          49.7470703125
+        ],
+        [
+          310.8046875,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        49.7470703125,
+        310.8046875,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/178",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">15. Auf der Grundlage eines Unternehmensvergleichs der Jahre 2007 bis 2009 ergeben sich  für die Betrachtungszeiträume 2007 und 2008 Erlösüberhöhungen. Nach vorläufiger Beurteilung der Beschlussabteilung lässt sich hieraus für den genannten Zeitraum ein Verstoß gegen § 19 Abs. 1 i.V.m. Abs. 4 Nr. 2 GWB (2007) bzw. § 19 Abs. 1 i.V.m. Abs. 4  Nr. 2 und § 29 S. 1 Nr. 1 GWB (2008) ableiten.</li><li block-type=\"ListItem\">16. Die Überprüfung der Verhaltensweisen der Beschlussadressatin erfolgte für die Betrachtungszeiträume der Kalenderjahre 2007, 2008 und 2009 jeweils durch einen (Netto-) Erlösvergleich.</li><li block-type=\"ListItem\">17. Beim Erlösvergleich handelt es sich um eine zulässige und vom Bundesgerichtshof bestätigte Prüfungsmethode in Preismissbrauchsverfahren. <a href=\"#page-8-0\">11</a> Die Anwendung des Erlösvergleichs als Ausprägung des räumlichen Vergleichsmarktkonzepts sieht vor, die mit  der Belieferung von Heizstromkunden erzielten Erlöse zunächst um vom Vertriebsunternehmen unbeeinflussbare Komponenten wie die Netzentgelte, die Konzessionsabgaben, die KWK-Abgabe<a href=\"#page-8-1\">12,</a> die Ökosteuern sowie die gesetzliche Umsatzsteuer zu bereinigen. Die für das Heizstromvertriebsunternehmen durch den Abzug um diese Komponenten ermittelten Netto-Erlöse werden anschließend ins Verhältnis zu den auf identische Weise ermittelten Netto-Erlösen des Vergleichsunternehmens gesetzt und im Wege des Benchmarking verglichen.<a href=\"#page-8-2\">13</a> Durch die Gegenüberstellung der Netto-Erlöse wird  ermittelt, wie das Vergleichsunternehmen im räumlichen Markt des betroffenen Heizstromvertriebsunternehmens agiert hätte.<a href=\"#page-8-3\">14</a></li><li block-type=\"ListItem\">18. Die im Rahmen des Erlösvergleiches vorgenommene Berechnung berücksichtigt zwei  Aspekte: Erstens stellt die Beschlussabteilung eine Zeitraumbetrachtung an. Jede im  Laufe der Kalenderjahre 2007, 2008 und 2009 abgesetzte Mengeneinheit Heizstrom  geht mit dem dafür erzielten Preis in die Jahresgesamtbetrachtung ein. Unterjährige  Preisänderungen werden dadurch berücksichtigt. Zweitens ermöglicht es der Erlösvergleich der Beschlussabteilung, alle Produkte im Segment Heizstrom mit ihrer jeweiligen  Abnahmemenge und damit Bedeutung im Portfolio des Heizstromanbieters zu berücksichtigen, da sich der Erlös aus dem Produkt von Preis und abgesetzter Menge ergibt.</li><li block-type=\"ListItem\">19. Durch den Abzug der Netzentgelte von den insgesamt mit dem Absatz von Heizstrom an  private Letztverbraucher erzielten Erlösen trägt die Beschlussabteilung zum einen der</li></ul></p>",
+      "page": 182,
+      "polygon": [
+        [
+          87.3046875,
+          86.337890625
+        ],
+        [
+          541.6372680664062,
+          86.337890625
+        ],
+        [
+          541.6372680664062,
+          656.16796875
+        ],
+        [
+          87.3046875,
+          656.16796875
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        86.337890625,
+        541.6372680664062,
+        656.16796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 182,
+      "polygon": [
+        [
+          70.91999816894531,
+          672.1236419677734
+        ],
+        [
+          73.91999816894531,
+          672.1236419677734
+        ],
+        [
+          73.91999816894531,
+          684.1236419677734
+        ],
+        [
+          70.91999816894531,
+          684.1236419677734
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        672.1236419677734,
+        73.91999816894531,
+        684.1236419677734
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>11</sup> BGHZ 129, 37 (41) <i>–</i> <i>Weiterverteiler</i>, BGH, Beschl. v. 28.05.2005, Az. KVR 17/04 - <i>\"Stadtwerke </i></p>",
+      "page": 182,
+      "polygon": [
+        [
+          99.23999786376953,
+          686.1806640625
+        ],
+        [
+          541.323486328125,
+          686.1806640625
+        ],
+        [
+          541.323486328125,
+          708.3818359375
+        ],
+        [
+          99.23999786376953,
+          708.3818359375
+        ]
+      ],
+      "bbox": [
+        99.23999786376953,
+        686.1806640625,
+        541.323486328125,
+        708.3818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-8-1\"></span><span id=\"page-8-0\"></span><i>Mainz\"</i>, Beschlussausfertigung, S. 9 = WuW/E DE-R 1513, 1515<i>.</i> <sup>12</sup> Abgabe aus dem Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung (kurz: Kraft-Wärme-Kopplungsgesetz, KWK-G).</p>",
+      "page": 182,
+      "polygon": [
+        [
+          96.6171875,
+          700.4357147216797
+        ],
+        [
+          532.8673706054688,
+          700.4357147216797
+        ],
+        [
+          532.8673706054688,
+          733.4357299804688
+        ],
+        [
+          96.6171875,
+          733.4357299804688
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        700.4357147216797,
+        532.8673706054688,
+        733.4357299804688
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-8-2\"></span><sup>13</sup> Vgl. zum detaillierten Vorgehen auch <i>Becker/Blau</i>: Die Preismissbrauchsnovelle in der Praxis,  München 2010, Rn. 131 ff.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          98.9453125,
+          735.462272644043
+        ],
+        [
+          541.2736206054688,
+          735.462272644043
+        ],
+        [
+          541.2736206054688,
+          759.4752502441406
+        ],
+        [
+          98.9453125,
+          759.4752502441406
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        735.462272644043,
+        541.2736206054688,
+        759.4752502441406
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-8-3\"></span><sup>14</sup> Vgl. BGH, Beschl. v. 28.05.2005, Az. KVR 17/04 - <i>\"Stadtwerke Mainz\"</i>, Beschlussausfertigung,  S. 9 = WuW/E DE-R 1513, 1515.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          98.9453125,
+          761.41796875
+        ],
+        [
+          541.2935791015625,
+          761.41796875
+        ],
+        [
+          541.2935791015625,
+          785.5152473449707
+        ],
+        [
+          98.9453125,
+          785.5152473449707
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        761.41796875,
+        541.2935791015625,
+        785.5152473449707
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          288.978515625,
+          48.9248046875
+        ],
+        [
+          317.3160095214844,
+          48.9248046875
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          288.978515625,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        288.978515625,
+        48.9248046875,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bindungswirkung von § 111 Abs. 3 EnWG Rechnung.<a href=\"#page-9-0\">15</a> Zum anderen werden strukturelle Unterschiede zwischen den verglichenen Vertriebsunternehmen durch den Abzug der  Netzentgelte berücksichtigt, da die strukturellen Besonderheiten im Niveau der genehmigten Netzentgelte widergespiegelt werden und dadurch die Berücksichtigung von Korrekturzuschlägen und -abschlägen – wie von der Rechtsprechung zur Anwendung des  Vergleichsmarktkonzepts gefordert<a href=\"#page-9-1\">16</a> – entfällt.<a href=\"#page-9-2\">17</a></p>",
+      "page": 218,
+      "polygon": [
+        [
+          104.765625,
+          84.2822265625
+        ],
+        [
+          541.4926147460938,
+          84.2822265625
+        ],
+        [
+          541.4926147460938,
+          188.0557861328125
+        ],
+        [
+          104.765625,
+          188.0557861328125
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        84.2822265625,
+        541.4926147460938,
+        188.0557861328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">20. Neben den Netzentgelten zieht die Beschlussabteilung auch Konzessionsabgaben als  staatlich erhobene Abgaben von den im Segment Heizstrom erzielten Gesamterlösen  ab. Die Beschlussabteilung hat dabei regelmäßig nur den niedrigen für Stromsondervertragslieferungen gemäß § 2 Abs. 3 Nr. 1 Konzessionsabgabenverordnung (KAV) zu entrichtenden Konzessionsabgabensatz von 0,11 Cent/kWh, bezogen auf die vom entsprechenden Vertriebsunternehmen im jeweiligen Kalenderjahr abgesetzte Heizstrommenge,  in Abzug gebracht. Heizstromverträge unterscheiden sich vom gesetzlichen Leitbild der  Grundversorgung mit Allgemeinstrom, insbesondere aufgrund der regelmäßig vereinbarten Möglichkeit, die Stromversorgung zu unterbrechen. Die Abweichung von den gesetzlichen Rahmenbedingungen der Grundversorgung hat zur Folge, dass nach den Abgrenzungskriterien des Bundesgerichtshofs Heizstromverträge grundsätzlich als Sonderverträge einzuordnen sind. Der maximal zulässige Konzessionsabgabensatz bestimmt sich in diesem Fall nach §§ 2 Abs. 2 Nr. 3, Abs. 7 S. 3 letzter Hs. der Konzessionsabgabenverordnung (KAV) i.V.m. § 7 Abs. 1 und 4 Bundestarifordnung Elektrizität  (BTOElt). Nach dem erkennbaren gesetzgeberischen Willen wirkt die konzessionsabgabenrechtliche Privilegierung von Heizstromlieferungen auch nach Außerkrafttreten der  BTOElt fort.<a href=\"#page-9-3\">18</a> Demgemäß darf für Heizstromlieferungen höchstens eine Konzessionsabgabe in Höhe von 0,11 Cent/kWh erhoben (und ggf. Drittlieferanten nach § 2 Abs. 6  KAV in Rechnung gestellt) werden. Die Beschlussabteilung geht aufgrund obiger Aus-</p>",
+      "page": 218,
+      "polygon": [
+        [
+          86.140625,
+          207.0157470703125
+        ],
+        [
+          541.5930786132812,
+          207.0157470703125
+        ],
+        [
+          541.5930786132812,
+          542.0460815429688
+        ],
+        [
+          86.140625,
+          542.0460815429688
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        207.0157470703125,
+        541.5930786132812,
+        542.0460815429688
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          70.91999816894531,
+          564.4836730957031
+        ],
+        [
+          73.91999816894531,
+          564.4836730957031
+        ],
+        [
+          73.91999816894531,
+          576.4836730957031
+        ],
+        [
+          70.91999816894531,
+          576.4836730957031
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        564.4836730957031,
+        73.91999816894531,
+        576.4836730957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/3",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-9-0\"></span><sup>15</sup> Die Netzentgelte wurden von den Regulierungsbehörden in einem ex-ante Verfahren anhand  spezieller Bestimmungen des EnWG und der Stromnetzentgeltverordnung (StromNEV) geprüft  und genehmigt. Eine Doppel-Kontrolle der Netzentgelte durch zwei Behörden ist nicht sinnvoll  und soll durch § 111 Abs. 3 EnWG gerade ausgeschlossen werden. Daher muss der zu überprüfende Gesamterlös um die Netzentgelte bereinigt werden. Vgl. auch BKartA, Beschl. v.  01.12.2008, Az. B10-21/08 - \"<i>RheinEnergie\"</i>, Beschlussausfertigung Rn. 25 <i>= </i>WuW/E DE-V  1704 ff<i>.</i></p>",
+      "page": 218,
+      "polygon": [
+        [
+          99.23999786376953,
+          578.4638671875
+        ],
+        [
+          541.3135375976562,
+          578.4638671875
+        ],
+        [
+          541.3135375976562,
+          660.2699890136719
+        ],
+        [
+          99.23999786376953,
+          660.2699890136719
+        ]
+      ],
+      "bbox": [
+        99.23999786376953,
+        578.4638671875,
+        541.3135375976562,
+        660.2699890136719
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-9-1\"></span><sup>16</sup> Vgl. BGH, Beschl. v. 31.05.1972, Az. KVR 2/71 <i>-</i> <i>\"Stromtarif\" </i>= WuW 1972, S. 819 ff., BGH,  Beschl. v. 16.12.1976, Az. KVR 2/76 - \"<i>Valium I\" </i>= WuW 1976, S. 255 ff.; BGH, Beschl. v.  21.10.1986, Az. KVR 7/85 - \"<i>Glockenheide\"</i> = WuW/E BGH 2309, 2311 f.,BGH, Beschl. v.  21.02.1995, Az. KVR 4/94 <i>-</i> <i>\"Strompreis Schwäbisch Hall\" = WuW</i>/E BGH 2967, 2971; KG,  Beschl. v. 15.01.1997 (nicht rechtskräftig) Az. Kart 25/95 - \"Spreegas\" = WuW/E OLG 5926,  5929 = WuW 1997, S. 1001 ff.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          98.9453125,
+          659.45703125
+        ],
+        [
+          541.323486328125,
+          659.45703125
+        ],
+        [
+          541.323486328125,
+          732.3701171875
+        ],
+        [
+          98.9453125,
+          732.3701171875
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        659.45703125,
+        541.323486328125,
+        732.3701171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-9-2\"></span><sup>17</sup> Vgl. BKartA, Beschl. v. 01.12.2008, Az. B10-21/08 - \"<i>RheinEnergie\"</i>, Beschlussausfertigung,</p>",
+      "page": 218,
+      "polygon": [
+        [
+          98.9453125,
+          733.0498046875
+        ],
+        [
+          541.3035278320312,
+          733.0498046875
+        ],
+        [
+          541.3035278320312,
+          753.6064453125
+        ],
+        [
+          98.9453125,
+          753.6064453125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        733.0498046875,
+        541.3035278320312,
+        753.6064453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-9-3\"></span>Rn. <sup>25</sup><i>= </i>WuW/E DE-V 1704 ff<i>.</i> <sup>18</sup> S. dazu BR-Drucks. 358/99, S. 6: \"Der Strom für Nachtspeicherheizungen soll auch künftig nicht  mit der höheren Konzessionsabgabe für Tarifabnehmer belastet werden können.\"</p>",
+      "page": 218,
+      "polygon": [
+        [
+          98.9453125,
+          748.1957244873047
+        ],
+        [
+          541.2655029296875,
+          748.1957244873047
+        ],
+        [
+          541.2655029296875,
+          782.5147666931152
+        ],
+        [
+          98.9453125,
+          782.5147666931152
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        748.1957244873047,
+        541.2655029296875,
+        782.5147666931152
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 193,
+      "polygon": [
+        [
+          289.20001220703125,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        49.7470703125,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">führungen davon aus, dass die Erhebung von Konzessionsabgaben nur bis zu einem  Betrag von 0,11 Cent/kWh anerkennungsfähig ist.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          105.9296875,
+          86.337890625
+        ],
+        [
+          541.4652099609375,
+          86.337890625
+        ],
+        [
+          541.4652099609375,
+          116.05096435546875
+        ],
+        [
+          105.9296875,
+          116.05096435546875
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        86.337890625,
+        541.4652099609375,
+        116.05096435546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">21. Für alle drei betrachteten Kalenderjahre 2007, 2008 und 2009 hat die Beschlussabteilung die E.ON Bayern Vertrieb GmbH als Vergleichsunternehmen ausgewählt. Dieses  Unternehmen verfügt bei Berücksichtigung unternehmensindividueller Strombeschaffungskosten und effizienter Vertriebskosten über eine Kostendeckung und genügt somit  den höchstrichterlichen Anforderungen an Vergleichsunternehmen.<a href=\"#page-10-0\">19</a> Die Beschlussabteilung hat das Unternehmen unter dem Gesichtspunkt des Vergleichs mit einer Vielzahl  betroffener Unternehmen als gut geeignet angesehen.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          86.140625,
+          133.20703125
+        ],
+        [
+          541.54248046875,
+          133.20703125
+        ],
+        [
+          541.54248046875,
+          254.0269775390625
+        ],
+        [
+          86.140625,
+          254.0269775390625
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        133.20703125,
+        541.54248046875,
+        254.0269775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt wertet die Abweichungen beim Erlösvergleich gegenüber der  E.ON Bayern Vertrieb GmbH in Bezug auf jedes einzelne betrachtete Kalenderjahr und  nimmt keine Saldierung ermittelter prozentualer oder absoluter Abweichungen über alle  drei Kalenderjahre vor.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          104.765625,
+          271.7587890625
+        ],
+        [
+          541.5757446289062,
+          271.7587890625
+        ],
+        [
+          541.5757446289062,
+          338.0413513183594
+        ],
+        [
+          104.765625,
+          338.0413513183594
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        271.7587890625,
+        541.5757446289062,
+        338.0413513183594
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/189",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">22. Die Beschlussabteilung berücksichtigt bei den ermittelten Vergleichsabständen einen  Erheblichkeitszuschlag. Ein Erheblichkeitszuschlag ist nach der Rechtsprechung des  Bundesgerichtshofes geboten, da grundsätzlich nur bei einem erheblichen Preisabstand  ein Unwerturteil gerechtfertigt ist.<a href=\"#page-10-1\">20</a> Allerdings kann sich die Höhe des Zuschlags an der  Intensität des (Rest-)Wettbewerbs orientieren.<a href=\"#page-10-2\">21</a> Als Gradmesser für den bestehenden  Wettbewerb in einem Markt zieht die Beschlussabteilung seit den 2008 abgeschlossenen Gaspreisverfahren die abnehmerseitige Wechselquote heran.<a href=\"#page-10-3\">22</a> Auf den vorliegenden Heizstrommärkten hat in den Betrachtungszeiträumen de facto nur ein äußerst geringfügiger Versorgerwechsel stattgefunden, womit ein Erheblichkeitszuschlag in Höhe  von 0 % anzusetzen wäre. Zu Gunsten der betroffenen Unternehmen wird trotz des fehlenden Restwettbewerbs ein Erheblichkeitszuschlag in Höhe von 1 % auf den ermittelten  prozentualen Abstand festgesetzt. Der Erheblichkeitszuschlag wird von der Beschlussabteilung zu Gunsten der Unternehmen nicht lediglich als Erheblichkeitsgrenze, sondern  als Abzugsposten berücksichtigt.</li><li block-type=\"ListItem\">23. Zur Wahrung der Geschäftsgeheimnisse des Vergleichsunternehmens werden die ermittelten Abweichungen in Form von prozentualen und betragsmäßigen Spannen angege-</li></ul></p>",
+      "page": 193,
+      "polygon": [
+        [
+          86.140625,
+          353.57421875
+        ],
+        [
+          541.597900390625,
+          353.57421875
+        ],
+        [
+          541.597900390625,
+          656.16796875
+        ],
+        [
+          86.140625,
+          656.16796875
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        353.57421875,
+        541.597900390625,
+        656.16796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-10-2\"></span><span id=\"page-10-1\"></span><span id=\"page-10-0\"></span><sup> </sup><sup>19</sup> S. BGH, Beschl. v. 02.02.2010, Az. KVR 66/08 - <i>\"Wasserpreise Wetzlar\"</i> = WuW/E DE-R 2841- 2853.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          70.91999816894531,
+          672.1236419677734
+        ],
+        [
+          537.796875,
+          672.1236419677734
+        ],
+        [
+          537.796875,
+          707.5152435302734
+        ],
+        [
+          70.91999816894531,
+          707.5152435302734
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        672.1236419677734,
+        537.796875,
+        707.5152435302734
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>20</sup> S. BGH, Beschl. v. 22.08.1999, Az. KVR 12/98 - <i>\"Flugpreisspaltung\"</i>, Beschlussausfertigung,  S. 10 f. = WuW/E DE –R 375 ff.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          97.78125,
+          708.79296875
+        ],
+        [
+          541.3035278320312,
+          708.79296875
+        ],
+        [
+          541.3035278320312,
+          733.4352493286133
+        ],
+        [
+          97.78125,
+          733.4352493286133
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        708.79296875,
+        541.3035278320312,
+        733.4352493286133
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>21</sup> S. BGH, Beschl. v. 28.05.2005, Az. KVR 17/04 - <i>\"Stadtwerke Mainz\"</i>, Beschlussausfertigung,  S. 9 = WuW/E DE-R 1513, 1515.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          96.6171875,
+          735.10546875
+        ],
+        [
+          541.3135375976562,
+          735.10546875
+        ],
+        [
+          541.3135375976562,
+          759.4752502441406
+        ],
+        [
+          96.6171875,
+          759.4752502441406
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        735.10546875,
+        541.3135375976562,
+        759.4752502441406
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-10-3\"></span><sup>22</sup> S. z.B. BKartA, Beschl. v. 01.12.2008, Az. B10-21/08 - <i>\"RheinEnergie\"</i>, Beschlussausfertigung,  Rn. 28 = WuW/E DE-V 1704 ff.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          98.9453125,
+          761.41796875
+        ],
+        [
+          541.2935791015625,
+          761.41796875
+        ],
+        [
+          541.2935791015625,
+          785.5152473449707
+        ],
+        [
+          98.9453125,
+          785.5152473449707
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        761.41796875,
+        541.2935791015625,
+        785.5152473449707
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 166,
+      "polygon": [
+        [
+          289.20001220703125,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        49.7470703125,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/165",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">ben (z. B. Abweichung zwischen 5  10 %, Betrag zwischen 1.000.000 und 1.500.000  Euro). Um dem Übermaßverbot gerecht zu werden, wird bei der Festlegung des Abschöpfungsbetrags zu Gunsten der betroffenen Vertriebsunternehmen auf die jeweilige  betragsmäßige Spannenuntergrenze abgestellt. So wird beim Abschöpfungsbetrag nach  Berücksichtigung des Erheblichkeitszuschlags zusätzlich ein \"Spannenabschlag\" gewährt.</li><li block-type=\"ListItem\">24. Bei der sachlichen Rechtfertigung hat die Beschlussabteilung berücksichtigt, dass die im  Rahmen der Preismissbrauchsaufsicht gefundene Erlösobergrenze nicht unter den Kosten des Unternehmens liegen darf. Der Bundesgerichtshof hat in den Fällen <i>Flugpreis</i><i>spaltung</i> und <i>Wasserpreise Wetzlar</i> entschieden, dass ein marktbeherrschendes Unternehmen im Wege der Preismissbrauchsaufsicht nicht dazu gezwungen werden kann,  seine Leistung zu nicht kostendeckenden Preisen anzubieten.<a href=\"#page-11-0\">23</a> Die Beschlussabteilung  hat daher Strombeschaffungs- und Vertriebskosten für die Versorgung von Heizstromkunden als Kostenunterdeckungsgrenze für den Vergleich anerkannt. Allerdings greift  der Einwand der Kostenunterdeckung nach der Rechtsprechung nur bei ordnungsgemäßer Kostenzuordnung und Ausschöpfung etwaiger Rationalisierungsreserven.</li><li block-type=\"ListItem\">25. Nach vorläufiger Auffassung der Beschlussabteilung sind daher in Bezug auf die Strombeschaffungskosten als Obergrenze maximal die mengengewichteten durchschnittlichen  Heizstrombezugskosten der untersuchten Vertriebsunternehmen in den jeweiligen Kalenderjahren anzusetzen. Dieses Vorgehen entspricht dem Vergleichsmarktkonzept mit  seiner wettbewerbsanalogen Preissimulation. Die mengengewichteten, durchschnittlichen Heizstrombezugskosten anderer Unternehmen hätte ein Unternehmen auf Grund  der im gesamten Benchmark vergleichbaren Beschaffungsstrategie erzielen können.  Denn alle betrachteten Unternehmen haben eine ratierliche Strombeschaffung vorgenommen und den benötigten Heizstrom in 12 – 36 Tranchen beschafft. Mit der Beschaffung des benötigten Heizstroms haben die betrachteten Unternehmen größtenteils zwei  oder drei Jahre vor dem Liefertermin begonnen und sechs Monate vor dem Liefertermin  abgeschlossen. Die Heizstrombeschaffung erfolgte weitestgehend an der Börse, teilweise auch Over-the-Counter (OTC). Keines der untersuchten Unternehmen hat Heizstrom  zu konzerninternen Verrechnungspreisen bezogen. In den Fällen, in denen keine separate Beschaffung von Heizstrom erfolgt ist, wurden die spezifischen Heizstrombeschaffungskosten überwiegend mithilfe von Gradtagszahlen bzw. von Hourly Price Forward  Curves (HPFC) allokiert. Wenige Unternehmen haben sogar auf Haushaltsstrombasis  beschafft, was zu einer Erhöhung des durchschnittlichen Beschaffungswertes geführt  hat. Auf Grund der diversifizierten Beschaffung der betrachteten Unternehmen und einer</li></ul></p>",
+      "page": 166,
+      "polygon": [
+        [
+          88.46875,
+          85.515625
+        ],
+        [
+          541.6151123046875,
+          85.515625
+        ],
+        [
+          541.6151123046875,
+          721.9692153930664
+        ],
+        [
+          88.46875,
+          721.9692153930664
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        85.515625,
+        541.6151123046875,
+        721.9692153930664
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/5",
+      "block_type": "Text",
+      "html": "",
+      "page": 166,
+      "polygon": [
+        [
+          70.91999816894531,
+          735.6036529541016
+        ],
+        [
+          73.91999816894531,
+          735.6036529541016
+        ],
+        [
+          73.91999816894531,
+          747.6036529541016
+        ],
+        [
+          70.91999816894531,
+          747.6036529541016
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        735.6036529541016,
+        73.91999816894531,
+        747.6036529541016
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-11-0\"></span><sup>23</sup> BGH, Beschl. v. 22.08.1999, Az. KVR 12/98 - <i>\"Flugpreisspaltung\"</i>, Beschlussausfertigung, S.  10 f. = WuW/E DE –R 375 ff<i>.;</i> BGH, Beschl. v. 02.02.2010, Az. KVR 66/08 – <i>\"Wasserpreise </i> <i>Wetzlar\"</i> = WuW/E DE-R 2841-2853</p>",
+      "page": 166,
+      "polygon": [
+        [
+          98.9453125,
+          749.4951171875
+        ],
+        [
+          541.3135375976562,
+          749.4951171875
+        ],
+        [
+          541.3135375976562,
+          785.4141502380371
+        ],
+        [
+          98.9453125,
+          785.4141502380371
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        749.4951171875,
+        541.3135375976562,
+        785.4141502380371
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          288.978515625,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          49.7470703125
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          288.978515625,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        288.978515625,
+        49.7470703125,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">insgesamt betrachteten Heizstrommenge von ca. 9,6 Mrd. Kilowattstunden für ca. 1,2  Mio. Abnahmestellen werden ca. 70 % des geschätzten Gesamtmarktvolumens erfasst.  Somit ist von einer hohen Repräsentativität des mengengewichteten Durchschnittswerts  der Beschaffungskosten auszugehen.</p>",
+      "page": 153,
+      "polygon": [
+        [
+          104.765625,
+          85.9267578125
+        ],
+        [
+          541.6089477539062,
+          85.9267578125
+        ],
+        [
+          541.6089477539062,
+          152.0413818359375
+        ],
+        [
+          104.765625,
+          152.0413818359375
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        85.9267578125,
+        541.6089477539062,
+        152.0413818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">26. Des Weiteren erkennt die Beschlussabteilung im Rahmen der sachlichen Rechtfertigung  Vertriebskosten an, die im Zusammenhang mit dem Absatz von Heizstrom an private  Letztverbraucher anfallen. Analog zur Anerkennung der Heizstrombezugskosten wird  auch in Bezug auf die Vertriebskosten lediglich ein effizienter Durchschnittswert anerkannt. Die Beschlussabteilung geht davon aus, dass den Unternehmen finanzielle Einsparungen im Bereich der Kundenbetreuung (Messung und Abrechnung) durch die  gleichzeitige Belieferung von privaten Endkunden mit Haushalts- und Heizstrom entstehen, da etwa ein Drittel aller von den untersuchten 25 Unternehmen angebotenen Produkte die gemeinsame Haushalts- und Heizstrommessung (\"Gemeinsame Messung\")  vorsehen. Nicht als Vertriebskosten anerkennungsfähig erachtet die Beschlussabteilung  Forderungsausfälle, da diese bereits erlösmindernd berücksichtigt werden. Ebenfalls  nicht berücksichtigungsfähig sind Kosten für Marketing-Maßnahmen (z. B. Förder- /Investitionszuschüsse, Beratungen usw.), die im Zusammenhang mit der Neukundengewinnung im Bereich von elektrischen Wärmepumpen gewährt werden.</li><li block-type=\"ListItem\">27. Die angebotenen und oben unter Rn.<a href=\"#page-2-0\"> 4</a> näher dargestellten Zusagen entlasten zunächst  den Nachfrager finanziell und räumen durch ihre kompensatorische Wirkung den gegen die Beschlussadressatin gerichteten Vorwurf missbräuchlicher Erlös- bzw. Preisüberhöhungen in den Jahren 2007 und 2008 aus. Die Entgegennahme der Zusagen und der  Abschluss des Verfahrens gegen die Beschlussadressatin führen schneller zu einem befriedigenden und sichtbaren Ergebnis für die betroffenen Nachfrager als eine Fortführung des Verfahrens unter Inkaufnahme eines sich anschließenden langwierigen  Rechtsstreits.</li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          86.140625,
+          164.453125
+        ],
+        [
+          541.5758056640625,
+          164.453125
+        ],
+        [
+          541.5758056640625,
+          565.9419860839844
+        ],
+        [
+          86.140625,
+          565.9419860839844
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        164.453125,
+        541.5758056640625,
+        565.9419860839844
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Darüber hinaus leistet die Beschlussadressatin mit den Zusagen der dargestellten strukturellen Maßnahmen einen erheblichen Beitrag zum Abbau der auf den Heizstrommärkten bestehenden Marktzutrittsschranken. Wie die Ermittlungen der Beschlussabteilung  gezeigt haben, stellen die Marktzutrittsschranken den Hauptgrund dar, weshalb die Heizstrommärkte trotz der Liberalisierung der Endverbrauchermärkte weiterhin derart vermachtet sind. Die fehlenden Wechselmöglichkeiten führen dazu, dass der Heizstromkunde beim Marktbeherrscher \"gefangen\" ist. Stünden dem Verbraucher Wechselmöglichkeiten offen, könnte er diese bei überhöhten Heizstrompreisen oder Preiserhöhungen nutzen und zu alternativen Anbietern wechseln. Bei bestehenden Wechselmöglichkeiten  würden die derzeit bestehenden Verhaltensspielräume der etablierten Versorger bei der</p>",
+      "page": 153,
+      "polygon": [
+        [
+          102.4375,
+          584.897705078125
+        ],
+        [
+          541.5647583007812,
+          584.897705078125
+        ],
+        [
+          541.5647583007812,
+          757.8945693969727
+        ],
+        [
+          102.4375,
+          757.8945693969727
+        ]
+      ],
+      "bbox": [
+        102.4375,
+        584.897705078125,
+        541.5647583007812,
+        757.8945693969727
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          289.20001220703125,
+          49.3359375
+        ],
+        [
+          317.3160095214844,
+          49.3359375
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        49.3359375,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Preissetzung somit begrenzt, und nachträgliche Verhaltenskontrollen der Kartellbehörden  im Rahmen von Preismissbrauchsverfahren wären nicht erforderlich.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          103.6015625,
+          86.337890625
+        ],
+        [
+          541.5594482421875,
+          86.337890625
+        ],
+        [
+          541.5594482421875,
+          116.05096435546875
+        ],
+        [
+          103.6015625,
+          116.05096435546875
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        86.337890625,
+        541.5594482421875,
+        116.05096435546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Neben der Abstellung von Preismissbräuchen ist es daher Ziel der Beschlussabteilung,  die bestehenden Marktzutrittsschranken durch die Entgegennahme struktureller Zusagen  abzubauen und so den Marktzugang für dritte Anbieter zu erleichtern. Diesem Zweck  dienen die strukturellen Zusagen, die von der Beschlussadressatin abgegeben worden  sind.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          102.4375,
+          133.6181640625
+        ],
+        [
+          541.5040283203125,
+          133.6181640625
+        ],
+        [
+          541.5040283203125,
+          218.0274658203125
+        ],
+        [
+          102.4375,
+          218.0274658203125
+        ]
+      ],
+      "bbox": [
+        102.4375,
+        133.6181640625,
+        541.5040283203125,
+        218.0274658203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">28. Der in Verfügungsziffer 4. aufgenommene Widerrufsvorbehalt dient als Möglichkeit zur  Aufhebung der Verbindlichkeitserklärung in solchen Fällen, die durch § 32 b Abs. 2  GWB möglicherweise nicht abgedeckt sind.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          86.140625,
+          235.990234375
+        ],
+        [
+          541.625732421875,
+          235.990234375
+        ],
+        [
+          541.625732421875,
+          284.0135498046875
+        ],
+        [
+          86.140625,
+          284.0135498046875
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        235.990234375,
+        541.625732421875,
+        284.0135498046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>V.</b></p>",
+      "page": 112,
+      "polygon": [
+        [
+          299.455078125,
+          319.4501953125
+        ],
+        [
+          310.513671875,
+          319.4501953125
+        ],
+        [
+          310.513671875,
+          332.3036193847656
+        ],
+        [
+          299.455078125,
+          332.3036193847656
+        ]
+      ],
+      "bbox": [
+        299.455078125,
+        319.4501953125,
+        310.513671875,
+        332.3036193847656
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/112",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">29. [Ausführungen zu Gebühren]</li><li block-type=\"ListItem\">30. [Ausführungen zu Gebühren]</li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          87.88671875,
+          351.5185546875
+        ],
+        [
+          248.18260192871094,
+          351.5185546875
+        ],
+        [
+          248.18260192871094,
+          387.2043762207031
+        ],
+        [
+          87.88671875,
+          387.2043762207031
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        351.5185546875,
+        248.18260192871094,
+        387.2043762207031
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Rechtsmittelbelehrung:</b></h2>",
+      "page": 112,
+      "polygon": [
+        [
+          241.83398437499997,
+          418.945556640625
+        ],
+        [
+          366.08984375,
+          418.945556640625
+        ],
+        [
+          366.08984375,
+          429.98553466796875
+        ],
+        [
+          241.83398437499997,
+          429.98553466796875
+        ]
+      ],
+      "bbox": [
+        241.83398437499997,
+        418.945556640625,
+        366.08984375,
+        429.98553466796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen diesen Beschluss ist die Beschwerde zulässig. Sie ist schriftlich binnen einer mit Zustellung des Beschlusses beginnenden Frist von einem Monat beim Bundeskartellamt, Kaiser-Friedrich-Straße 16, 53113 Bonn, einzureichen. Es genügt jedoch, wenn sie innerhalb dieser  Frist bei dem Beschwerdegericht, dem Oberlandesgericht Düsseldorf, eingeht.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.93536376953125,
+          441.1455078125
+        ],
+        [
+          541.537353515625,
+          441.1455078125
+        ],
+        [
+          541.537353515625,
+          507.9157409667969
+        ],
+        [
+          70.93536376953125,
+          507.9157409667969
+        ]
+      ],
+      "bbox": [
+        70.93536376953125,
+        441.1455078125,
+        541.537353515625,
+        507.9157409667969
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerde ist durch einen beim Bundeskartellamt oder beim Beschwerdegericht einzureichenden Schriftsatz zu begründen. Die Frist für die Beschwerdebegründung beträgt zwei Monate. Sie beginnt mit der Zustellung der angefochtenen Verfügung und kann auf Antrag vom Vorsitzenden des Beschwerdegerichts verlängert werden. Die Beschwerdebegründung muss die  Erklärung enthalten, inwieweit der Beschluss angefochten und seine Abänderung oder Aufhebung beantragt wird, und die – gegebenenfalls auch neuen – Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          68.6796875,
+          520.0830078125
+        ],
+        [
+          541.5040893554688,
+          520.0830078125
+        ],
+        [
+          541.5040893554688,
+          639.8879852294922
+        ],
+        [
+          68.6796875,
+          639.8879852294922
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        520.0830078125,
+        541.5040893554688,
+        639.8879852294922
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift und Beschwerdebegründung müssen durch einen Rechtsanwalt unterzeichnet sein.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.92433166503906,
+          650.8232421875
+        ],
+        [
+          538.9609375,
+          650.8232421875
+        ],
+        [
+          538.9609375,
+          681.8841400146484
+        ],
+        [
+          70.92433166503906,
+          681.8841400146484
+        ]
+      ],
+      "bbox": [
+        70.92433166503906,
+        650.8232421875,
+        538.9609375,
+        681.8841400146484
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 21,
+      "polygon": [
+        [
+          289.20001220703125,
+          50.158203125
+        ],
+        [
+          317.3160095214844,
+          50.158203125
+        ],
+        [
+          317.3160095214844,
+          62.41009521484375
+        ],
+        [
+          289.20001220703125,
+          62.41009521484375
+        ]
+      ],
+      "bbox": [
+        289.20001220703125,
+        50.158203125,
+        317.3160095214844,
+        62.41009521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerde hat keine aufschiebende Wirkung. Auf Antrag kann das Beschwerdegericht die  aufschiebende Wirkung der Beschwerde ganz oder teilweise anordnen.</p>",
+      "page": 21,
+      "polygon": [
+        [
+          68.6796875,
+          86.7490234375
+        ],
+        [
+          541.4005126953125,
+          86.7490234375
+        ],
+        [
+          541.4005126953125,
+          117.25091552734375
+        ],
+        [
+          68.6796875,
+          117.25091552734375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        86.7490234375,
+        541.4005126953125,
+        117.25091552734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 21,
+      "polygon": [
+        [
+          69.552734375,
+          235.16796875
+        ],
+        [
+          163.259765625,
+          235.16796875
+        ],
+        [
+          163.259765625,
+          245.03515625
+        ],
+        [
+          69.552734375,
+          245.03515625
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        235.16796875,
+        163.259765625,
+        245.03515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 21,
+      "polygon": [
+        [
+          250.27343749999997,
+          233.9345703125
+        ],
+        [
+          334.0859375,
+          233.9345703125
+        ],
+        [
+          334.0859375,
+          242.9794921875
+        ],
+        [
+          250.27343749999997,
+          242.9794921875
+        ]
+      ],
+      "bbox": [
+        250.27343749999997,
+        233.9345703125,
+        334.0859375,
+        242.9794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Felix Engelsing Dr. Gero Meeßen Stephan Schweikardt</p>",
+      "page": 21,
+      "polygon": [
+        [
+          70.91999816894531,
+          233.1123046875
+        ],
+        [
+          524.119140625,
+          233.1123046875
+        ],
+        [
+          524.119140625,
+          245.767578125
+        ],
+        [
+          70.91999816894531,
+          245.767578125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        233.1123046875,
+        524.119140625,
+        245.767578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 2,
+      "polygon": [
+        [
+          286.2960725075529,
+          44.97863247863248
+        ],
+        [
+          320.5075528700906,
+          44.97863247863248
+        ],
+        [
+          320.5075528700906,
+          64.76923076923077
+        ],
+        [
+          286.2960725075529,
+          64.76923076923077
+        ]
+      ],
+      "bbox": [
+        286.2960725075529,
+        44.97863247863248,
+        320.5075528700906,
+        64.76923076923077
+      ],
+      "section_hierarchy": {
+        "2": "/page/13/SectionHeader/7"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,864 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 109,
+      "polygon": [
+        [
+          30.7603515625,
+          21.4611328125
+        ],
+        [
+          167.1302734375,
+          21.4611328125
+        ],
+        [
+          167.1302734375,
+          73.9216796875
+        ],
+        [
+          30.7603515625,
+          73.9216796875
+        ]
+      ],
+      "bbox": [
+        30.7603515625,
+        21.4611328125,
+        167.1302734375,
+        73.9216796875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACuAccDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiis/XdVi0TRLzUpiPLt4zIfwoAzNa8deHNAkaLUNTgilXrH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EUzICxHvxXUAADAGBQAUUUUAfPv7SP8Ar9J/65t/6FXjHhj/AJGfTv8Arutez/tI/wCv0n/rm3/oVeMeGP8AkZ9O/wCu60Afcdp/x5wf9c1/lU1Q2n/HnB/1zX+VTUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHDePtMWaKOdLN5S/ySNGCTg9sf1rH8MaZs8QLYarE0vlwny9y/KoODXqBUMMMAR703yYt+/y039N23mgD5w+NOuadJbp4e0IebFC3nXTIdwVh6n6GsP4Pa5aaTqcthrK+XpmoDb5r8KH6Dnt3r6Kl8C+H5Ir9PsCA3ylZm6k59PSorf4eeG4NHg0z7AjwQNuQn72ck9evegDn/FdjbxXFjb6NGUmuEwksYyMZ7+tTeB9E8q+la5spEa2b5JHyBnrwO9d7HawRpGqxJiMYTIyQKlCgdAB9KAFooooAKKKKAPAP2jonkn0nYhb92eg/wBqvGvDNtMPE2nExNjz17V9EfGdVaXT9yg/Ieo96820ONP7cs/kX/WjtXDVxnJU5LH1WA4cWKwaxLqWunpbsfT9r/x5wf8AXNf5VNUdv/x7xf7g/lUldx8s1ZhRRRQIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDyT4zf63T/APcP86830P8A5Dln/wBdRXpHxm/1un/7h/nXm+h/8hyz/wCuorxMT/vD+R+oZH/yKY+j/U+n4P8Aj3i/3B/KpKjg/wCPeL/cH8qkr20fmEt2FFFFAgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPJPjN/rdP/3D/OvN9D/5Dln/ANdRXpHxm/1un/7h/nXm+h/8hyz/AOuorxMT/vD+R+oZH/yKY+j/AFPp+D/j3i/3B/KpKjg/494v9wfyqSvbR+YS3YUUUUCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8k+M3+t0//AHD/ADrzfQ/+Q5Z/9dRXpHxm/wBbp/8AuH+deb6H/wAhyz/66ivExP8AvD+R+oZH/wAimPo/1Pp+D/j3i/3B/KpKjg/494v9wfyqSvbR+YS3YUUUUCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8k+M3+t0/8A3D/OvN9D/wCQ5Z/9dRXuPjfQrPWHtjdBjsUgYPvXMWPgvSYL+CVFfcrgjk18rjsxo0sY6cr3uj77Kc1oUcuVKV72f6nqsH/HvF/uD+VSU2MBYkUdAoFOr6lbHwT3CiiimIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> <b>17. Mai 2010</b></p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.91999816894531,
+          124.162109375
+        ],
+        [
+          490.07031249999994,
+          124.162109375
+        ],
+        [
+          490.07031249999994,
+          136.41546630859375
+        ],
+        [
+          70.91999816894531,
+          136.41546630859375
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        124.162109375,
+        490.07031249999994,
+        136.41546630859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Rücknahme der Anmeldung im Zusammenschlussverfahren Frischbeton Pfuhl </b></h2>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          177.1982421875
+        ],
+        [
+          522.3359985351562,
+          177.1982421875
+        ],
+        [
+          522.3359985351562,
+          190.83538818359375
+        ],
+        [
+          69.84375,
+          190.83538818359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        177.1982421875,
+        522.3359985351562,
+        190.83538818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>–</b> <b>Kein Gemeinschaftsunternehmen zwischen Dünkel/Röhm/Schwenk</b></h2>",
+      "page": 109,
+      "polygon": [
+        [
+          70.91999816894531,
+          201.0439453125
+        ],
+        [
+          465.01214599609375,
+          201.0439453125
+        ],
+        [
+          465.01214599609375,
+          214.775390625
+        ],
+        [
+          70.91999816894531,
+          214.775390625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        201.0439453125,
+        465.01214599609375,
+        214.775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Transportbeton</p>",
+      "page": 109,
+      "polygon": [
+        [
+          68.6796875,
+          230.40032958984375
+        ],
+        [
+          285.5679931640625,
+          230.40032958984375
+        ],
+        [
+          285.5679931640625,
+          243.18109130859375
+        ],
+        [
+          68.6796875,
+          243.18109130859375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        230.40032958984375,
+        285.5679931640625,
+        243.18109130859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B1-108/09</p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.91999053955078,
+          261.0565185546875
+        ],
+        [
+          261.9140625,
+          261.0565185546875
+        ],
+        [
+          261.9140625,
+          273.83721923828125
+        ],
+        [
+          70.91999053955078,
+          273.83721923828125
+        ]
+      ],
+      "bbox": [
+        70.91999053955078,
+        261.0565185546875,
+        261.9140625,
+        273.83721923828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum: 19. April 2010</p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.42578125,
+          291.712646484375
+        ],
+        [
+          278.8372497558594,
+          291.712646484375
+        ],
+        [
+          278.8372497558594,
+          304.493408203125
+        ],
+        [
+          70.42578125,
+          304.493408203125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        291.712646484375,
+        278.8372497558594,
+        304.493408203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die geplante Beteiligung mit jeweils 25% der Anteile durch die Firmen Dünkel und Röhm, zwei  mittelständische Baustoffunternehmen, an den Transportbetonaktivitäten der Firma Schwenk  haben die Beteiligten im Hauptprüfverfahren aufgegeben und ihre Anmeldung am 19. April 2010  zurückgenommen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          67.515625,
+          337.5400390625
+        ],
+        [
+          541.5774536132812,
+          337.5400390625
+        ],
+        [
+          541.5774536132812,
+          407.2884216308594
+        ],
+        [
+          67.515625,
+          407.2884216308594
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        337.5400390625,
+        541.5774536132812,
+        407.2884216308594
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Unternehmen G.u.P. Röhm &amp; Söhne GmbH &amp; Co. KG, Wendlingen (\"Röhm\"), und  Kieswerke Dünkel GmbH &amp; Co. KG, Schemmerhofen (\"Dünkel\"), hatten im Dezember 2009 den  Erwerb von jeweils 25 % der Anteile an der Frischbeton Pfuhl GmbH &amp; Co. KG, Neu-Ulm  (\"Frischbeton Pfuhl\"), angemeldet. Bislang wurde die Frischbeton Pfuhl von der Schwenk  Transportbeton GmbH &amp; Co. KG, Ulm, betrieben, einem Tochterunternehmen der Schwenk KG,  in dem die Transportbetonaktivitäten (v.a. das Transportbetonwerk Pfuhl) dieses Baustoffkonzerns zusammengefasst sind. Dünkel und Röhm sind mittelständische  Unternehmen mit einem Schwerpunkt im Bereich des Vertriebs von Sand, Kies und Splitten.  Dünkel hat darüber hinaus eigene Transportbetonaktivitäten. Mit dem Erwerb beabsichtigten die  Zusammenschlussbeteiligten das Transportbetonwerk Pfuhl in ein Gemeinschaftsunternehmen  (\"GU\") umzuwandeln.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          424.7001953125
+        ],
+        [
+          541.6764526367188,
+          424.7001953125
+        ],
+        [
+          541.6764526367188,
+          628.0412902832031
+        ],
+        [
+          69.84375,
+          628.0412902832031
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        424.7001953125,
+        541.6764526367188,
+        628.0412902832031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wirtschaftlich ist der Raum Ulm im Hinblick auf den Absatz von Transportbeton von hohem  Interesse, da durch das Bahnprojekt Stuttgart 21 eine Schnellbahntrasse verwirklicht wird, die  auch im Raum Ulm und Neu-Ulm Tunnelbauten und Betontrassen erforderlich macht.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          68.6796875,
+          647.123046875
+        ],
+        [
+          541.599609375,
+          647.123046875
+        ],
+        [
+          541.599609375,
+          696.9298095703125
+        ],
+        [
+          68.6796875,
+          696.9298095703125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        647.123046875,
+        541.599609375,
+        696.9298095703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Das Bundeskartellamt hatte ein Hauptprüfverfahren eingeleitet, weil im Marktraum Ulm die  Entstehung oder Verstärkung einer marktbeherrschenden Stellung im Markt für Transportbeton  zu befürchten war. Der Marktanteil von Schwenk lag bereits oberhalb der Vermutungsschwelle  der Einzelmarktbeherrschung. Der Zusammenschluss hätte zu weiteren Verflechtungen</p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.90902709960938,
+          709.615234375
+        ],
+        [
+          541.5884399414062,
+          709.615234375
+        ],
+        [
+          541.5884399414062,
+          778.8406448364258
+        ],
+        [
+          70.90902709960938,
+          778.8406448364258
+        ]
+      ],
+      "bbox": [
+        70.90902709960938,
+        709.615234375,
+        541.5884399414062,
+        778.8406448364258
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          788.1416015625
+        ],
+        [
+          307.55108642578125,
+          798.4266548156738
+        ],
+        [
+          300.328125,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.55108642578125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">zwischen der Schwenk-Gruppe und den beiden mittelständischen Unternehmen durch  Minderheitsbeteiligungen geführt und so die Marktstruktur weiter verschlechtert. Dünkel  verfügte im räumlich relevanten Markt und im Einlieferungsgebiet bereits über Beteiligungen an  Transportbetonunternehmen. Die Wettbewerbsstruktur mit hohen Marktanteilsabständen  zwischen Schwenk und den mittelständischen Wettbewerbern deuteten ebenfalls auf eine  bereits bestehende marktbeherrschende Stellung von Schwenk hin, die durch den  Zusammenschluss verstärkt worden wäre. Dies galt insbesondere auch deshalb, weil ein sehr  hoher Grad an Verflechtungen nicht nur zwischen den Zusammenschlussbeteiligten, sondern  auch mit anderen Wettbewerbern und Zuliefereren besteht.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.91996002197266,
+          121.2841796875
+        ],
+        [
+          541.6764526367188,
+          121.2841796875
+        ],
+        [
+          541.6764526367188,
+          286.6956787109375
+        ],
+        [
+          70.91996002197266,
+          286.6956787109375
+        ]
+      ],
+      "bbox": [
+        70.91996002197266,
+        121.2841796875,
+        541.6764526367188,
+        286.6956787109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Zusammenschlussbeteiligten haben die Fortsetzung des Projekts auf der Grundlage der  vorläufigen Einschätzung des Bundeskartellamtes beraten und zweimal die Frist für das  Hauptprüfverfahren um jeweils einen Monat verlängert. Eine Entscheidung im Rahmen der  Fusionskontrolle war aufgrund der Rücknahme der Anmeldung nicht mehr erforderlich.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          69.84375,
+          299.7158203125
+        ],
+        [
+          541.632568359375,
+          299.7158203125
+        ],
+        [
+          541.632568359375,
+          368.6064147949219
+        ],
+        [
+          69.84375,
+          368.6064147949219
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        299.7158203125,
+        541.632568359375,
+        368.6064147949219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Vorhaben war auch auf seine Vereinbarkeit mit § 1 GWB zu prüfen. Der Bundesgerichtshof  hat u.a. Maßstäbe für solche Sachverhalte entwickelt, bei denen die Mutterunternehmen und  deren sogenanntes \"kooperatives\" GU auf demselben sachlichen und räumlichen Markt tätig sind. Eine Beschränkung des Wettbewerbs zwischen den Mutterunternehmen im Rahmen eines  solchen GU ist in diesen Fällen regelmäßig zu erwarten. Ob es sich auch im Einzelfall so  verhält, ist aufgrund einer Gesamtbetrachtung der wirtschaftlichen Zusammenhänge und  Auswirkungen zu beurteilen, wobei im Allgemeinen von einem wirtschaftlich zweckmäßigen und  kaufmännisch vernünftigen Verhalten der Unternehmen auszugehen ist.<a href=\"#page-1-0\">1</a></p>",
+      "page": 139,
+      "polygon": [
+        [
+          69.84375,
+          382.353515625
+        ],
+        [
+          541.6656494140625,
+          382.353515625
+        ],
+        [
+          541.6656494140625,
+          526.4219360351562
+        ],
+        [
+          69.84375,
+          526.4219360351562
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        382.353515625,
+        541.6656494140625,
+        526.4219360351562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es genügt, wenn aufgrund der festgestellten Tatsachen eine überwiegende Wahrscheinlichkeit  dafür spricht, dass die Muttergesellschaften ihr Verhalten untereinander abstimmen und den  Versuch unternehmen werden, ihre Ertragssituation auf diese Weise zu verbessern.  Voraussetzung ist insoweit weder eine marktbeherrschende Stellung, noch eine marktstarke  Stellung der beteiligten Unternehmen.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.91999816894531,
+          538.1728515625
+        ],
+        [
+          541.62158203125,
+          538.1728515625
+        ],
+        [
+          541.62158203125,
+          627.2458038330078
+        ],
+        [
+          70.91999816894531,
+          627.2458038330078
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        538.1728515625,
+        541.62158203125,
+        627.2458038330078
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Muttergesellschaften Schwenk und Dünkel haben im Markt für Transportbeton nach  Einschätzung der Beschlussabteilung eine Marktstellung inne, die erhebliche Anreize  geschaffen hätte, ihre Ertragssituation durch ein abgestimmtes Vorgehen zu verbessern.  Maßgebend ist, ob nach der Lebenserfahrung eine gegenseitige Rücksichtnahme im</p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.91999816894531,
+          646.7119140625
+        ],
+        [
+          541.6435546875,
+          646.7119140625
+        ],
+        [
+          541.6435546875,
+          715.1407241821289
+        ],
+        [
+          70.91999816894531,
+          715.1407241821289
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        646.7119140625,
+        541.6435546875,
+        715.1407241821289
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.716796875,
+          728.52734375
+        ],
+        [
+          73.626953125,
+          728.52734375
+        ],
+        [
+          73.626953125,
+          738.39453125
+        ],
+        [
+          70.716796875,
+          738.39453125
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        728.52734375,
+        73.626953125,
+        738.39453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          301.97998046875,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.4266548156738
+        ],
+        [
+          301.97998046875,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        301.97998046875,
+        788.1416015625,
+        307.89453125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-0\"></span><sup> 1</sup> s. z.B. BGH – Gratiszeitung Hallo – vom 23.06.2009, KZR 58/07; BGH – Kalksandstein - vom  04.03.2008, KVZ 55/07, BGH – Ostfleisch – vom 08.05.2001, KVR 12/99.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          69.84375,
+          731.5901260375977
+        ],
+        [
+          541.4019165039062,
+          731.5901260375977
+        ],
+        [
+          541.4019165039062,
+          770.1065902709961
+        ],
+        [
+          69.84375,
+          770.1065902709961
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        731.5901260375977,
+        541.4019165039062,
+        770.1065902709961
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Geschäftsverkehr zu erwarten ist, die eine Koordinierung des Marktverhaltens der  Muttergesellschaften bewirkt.</p>",
+      "page": 45,
+      "polygon": [
+        [
+          70.91999816894531,
+          121.6953125
+        ],
+        [
+          541.577392578125,
+          121.6953125
+        ],
+        [
+          541.577392578125,
+          153.903564453125
+        ],
+        [
+          70.91999816894531,
+          153.903564453125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        121.6953125,
+        541.577392578125,
+        153.903564453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt sieht darüber hinaus Anhaltspunkte dafür, dass aufgrund der  bestehenden Beteiligungen zwischen verschiedenen Wettbewerbern im Marktraum Ulm eine  Verhaltenskoordination erfolgt. Es wird daher zurzeit geprüft, ob die über das aufgegebene  Zusammenschlussvorhaben hinaus bestehenden Verflechtungen zwischen den Wettbewerbern  im Marktraum Ulm gegen § 1 GWB verstoßen. Hierbei wird auch der Aspekt zu berücksichtigen  sein, dass eine unzulässige Wettbewerbsbeschränkung im Sinne des § 1 GWB nicht notwendig  voraussetzt, dass die Muttergesellschaften ein GU kontrollieren, eine Beteiligung von mehr als  25 % halten oder einen wettbewerblich erheblichen Einfluss gemäß § 37 Abs. 1 Nr. 4 GWB  ausüben.</p>",
+      "page": 45,
+      "polygon": [
+        [
+          70.91996002197266,
+          173.498046875
+        ],
+        [
+          541.6435546875,
+          173.498046875
+        ],
+        [
+          541.6435546875,
+          336.6766052246094
+        ],
+        [
+          70.91996002197266,
+          336.6766052246094
+        ]
+      ],
+      "bbox": [
+        70.91996002197266,
+        173.498046875,
+        541.6435546875,
+        336.6766052246094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 45,
+      "polygon": [
+        [
+          301.97998046875,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.4266548156738
+        ],
+        [
+          301.97998046875,
+          798.4266548156738
+        ]
+      ],
+      "bbox": [
+        301.97998046875,
+        788.1416015625,
+        307.89453125,
+        798.4266548156738
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

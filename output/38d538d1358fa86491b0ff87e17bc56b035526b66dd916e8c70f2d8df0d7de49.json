@@ -1,0 +1,5321 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 117,
+      "polygon": [
+        [
+          31.08046875,
+          29.72490234375
+        ],
+        [
+          166.81015625,
+          29.72490234375
+        ],
+        [
+          166.81015625,
+          90.32587890625
+        ],
+        [
+          31.08046875,
+          90.32587890625
+        ]
+      ],
+      "bbox": [
+        31.08046875,
+        29.72490234375,
+        166.81015625,
+        90.32587890625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADKAcQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKRmVBlmCj1JoAWiq0mo2cLKsl1CrN90FxzUyTRSfckRvoc0APooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACszxBrUHh7RLrVLnBit0LkbgufYZPWtOvBfjbro1fxXofg+G4xBJcxi6CnuzAAH8DmgBuofHjXtQ+Tw94YnYEbg7Rs7Y7HC54rr/ALZrPiH4e2Oo+IbOC0nWcNNb3KsIpE3fxqBwMeop/wAIrK0j03Vn8tBdretC645RFA2j6ck13+p2EGpabPZ3BKxSoVJU4I9xQB88eOH8IRQedLa6TJd2w3ImmygxzRt8pGOzAkH8Kf8AADVC3iXWLaK2yGt/Mh3HJTBPy598j8q87+IMkcfiW40+31Iahb2rFVn8oISe4OOuPWvYf2ctDSLRtS1thmSaUQL7BRk/nuH5UAVrr4w+ONE1i6j1Pwu5tY5SufKZQBnj5sYP516L4B+Itr46W5SOzks7i2x5kUrDd+Wc4ro9fs7G80K+h1AILZ4WErN2XHWvmLTdWm8JeKfC/iASGNb6Pbcjs6ZClj+efwoA+sKKjgmjuYI5omDRyKGVh3BqSgApsjFYnYdQCadTJv8AUSf7p/lQB806t8evFVlrN9aRR2nlwzvGuYxnAYgdq9D+D/xF1jxzPqKaosIFuqlPLXHWvmnxF/yM2q/9fkv/AKGa9n/Zs/4+9b/3E/nQB9C0UUUAecfGLxTrHhXQLC40W4WG4nvFhLMgYYKt6+4FYc6fF+x0gaqmrabeIIhKYFhG4rjPcU/9oR1j8L6Q7HCrqKEn22tVm9+MnhSy8KLFbXbXV59mWNYUTGW2gck0AdL8NfGx8c+GBfywiK6ify50Xpu9R9a7KvMvgh4cvNB8GyS3wVZb6Xz9gIO0dulWfhh4u1XxRfeI4tSeNlsblI4di4wDuznn2FAHolFedp4u1U/GlvDJeP8As0Wpl27fm3Y9c1keO/H3iLQfiLYaHpMUM6XcW1InB/1jDAJPoCcnjtQB63RXius+I/H3gPWdKudcvbO/06+mEUkcaFfLJxwP89q7r4ieMz4P8IPqduiyXMpCW6t0LHoT7CgDT8Zajc6R4P1TULNwlxBAzxsRnBFUfhvrV74h8C6dqeoyCS6mUl2C4zz6V5p4kPxGtfh7d6nq93Z3Vrc2+Li0CFWiVuAQfYkV2PwuvotM+DlhfTH93BA7t+FAHotFeM6Nq3xF8c6bceINKv7PTrEuwtLdoyxkCkj5jn1FdT8O/Hc/ifwre3mpQrHfacWW5WPoSATkflQB3tZ+uXUtloN/dQNtligd0OM4IHFeRaV4h8f+NrDVdd0jUrSytbSV0htPLLF9vPJzXU+HvFF74r+FV/e6lbG3vUgljmUoVBIB5APqKALXwm8R6l4p8FLqOqzCW5NxJHuCheAeOBXdV4V8PvF1t4O+CUl/IQ1y13MltF3kkJ4H9fwr0HwrqfiKPwRLrXiILJeOjTR20MZBVcfKOvJoA7SivGdNu/ih4o0i512G8tdMQFzb2TwnLBSeCc+1dh8M/GFz4x8Jm9vY0S9gdoptn3SR3FAHbVla/wCI9L8M2AvNVulghJ2qSCSx9AB1rxrQvHfxC8W6pqej6MtmHtrlg91KCqxxhiAO/PBqt8cLXxPHpmnyajeWr2JkjVI0U7hLsG4k+mc0AfQKOJI1dfusAR9KdXHaHc674f8ACt7qHii7trkQQiWL7OpXChehz36VxWlan8SPGGjTeJNP1CysbQlmtbUxkmRV9TmgD2OUlYnYdQCRXnvwk8Vat4q0nVJ9VnWWSC6McZCBcLz6fSrvw58ZzeNPCct1eQrFfW7NDcKvTcO4rmPgF/yAdb/6/T/7NQBsfDPxXq3iPWfElvqU6yR2V2YoAEA2rk/nXo9eO/Bf/kYvGX/X+38zVy41fx14q8YalpuivHpGmWDFPtE0RZpSDjI6cGgD1aivMvh94v1248W6r4R8RtDNfWS+ZHPEMB1BAOfzFZvibxv4stfimfDGjLbSJPCPJEqnCEj7xPoKAPX6K8OvfGfjzwZ4tg0LVHtdVk1FMWjKCm1zwCevAJ5qxqPibx14I8U6MPEF7aXun6lIY2SJCPLPHA/MUAeuatq9joenS3+o3CwW0f3nbtUmnX9vqmnW9/asXt7iMSRsRjKkZFeU/HeDXX8Lyz291browVBNCynzGfccEH06VvfCm28SQ+HLKTVry1l097OP7LHEhDIMDG4/SgD0GiiigAooooAKKKKACiiigAooqG6uY7O1kuJifLjUs21ST+QoAwvG/iu28HeGLnVJyC6rthjJ++56CvkPUJNae5g8W3m4vdXRlilY/edTngemRXqXilNf+KniffPa3GmeGNPJJmuUMY2jq+D1JrkZktvGuuXMu9rPwxo1uwjP91FGFA/2mOPzoA9G0a51PUseM/Ak0ctzKirqmkyHhnA+8B6/SmeMPjHqsfhi8sJ/Dd/pWoyoYvOk4VSeMjivFdI1HXPDch1vRpLm2gEpjWcZCt32n14rd8U/FTW/F/h9dK1SK3YK4fzkXaxIoA4YksSSck9TXq3wl+J03hG2utJfTZ9QilbzYY4PvK3Q/nxXlFb3hHxTdeD9cGq2cMcswjaMLJ05xz+lAHveo3vi74gWrpqNo3hnwyBuupZjtlkTuMntivHvF18vjXxjDp3h+ECzt4/s1lH0yqjOfxxTNe8d+LvH8htJppJYgpf7LbrhcDkkgdaqaboxbwx/wkGkzv8A2lps4a5i7omflcewOAfrQB7f8DfHD31jJ4V1RyL+xz5W88smeR9Qf517NXyz/Z+o6wLP4geEEL38TAX9pF99JB1YDuGH9a+g/BvikeKdFjupLS4s7tRtngniZCrd8ZHIoA6OmTf6iT/dP8qfTJv9RJ/un+VAHwt4i/5GbVf+vyX/ANDNez/s2f8AH3rf+4n868Y8Rf8AIzar/wBfkv8A6Ga9n/Zs/wCPvW/9xP50AfQtFFFAHkH7QQDeGdHBGQdSjBB/3WrsH8FeHNT8KRQz6PZDfaKS6QqrA7RzkDNZXxd8Jat4u0GxttHSN54LtZiHbAwA39SKw5LX4vXWmrpqrptpF5YiMoYEhQMduaAG/AO+um0vWdLmuHmhsbrZCWOcL6Cj4Hf8hTxn/wBfsf8A7Urr/hv4ETwJoD2jzie7nfzLiVehb29q4+28LeNvBHi/Vbvw1ZW2oadqTh2SSUJ5Z5xnPpk9KACFg37S8gB5FiQf++RSeJFV/wBorw8GGR9nc/8Ajhqfw34E8T2fxUHinVpIZVngPnGNuEYjAUD0AArZ1fwhql58YNI8SRIh0+1hZJGLc5KEdPxoAx/j1/yA9E/7CUf9apfHTd/wiXh0/wDLPz13fktdV8VPCep+LNL0yDTERnt71Jn3Nj5RnNXPHvgtvGHgtdKSRYryIK8Lt0DqOh9qALPjzyz8ONY342/Y2x9ccVwuhll/ZrkKZ3fY2xj/AHhSXei/EzxD4Tk8N6hbWdpCsO1roTBmn29BgdMkDNdf4P8ACVxZfDKLw3qyqsphaKQKcgZ6UAcN8N9I8dXHgDTJNI8Q2NrYMr+XDJahmX52zk/XNdR8NPCJ8Mwa79s1e01H7ZKHmMIwE4OQfzrB0TS/iT4I0qTw9pemWmpWSM/2a6M6r5asSeQeTya6fwH4Am8P+EdQ0/U7gS3uqBjcuhyAWBHH0zQByV74N1/wNc3fiDwNqC3WnOxluNPc7lPc4/8Arc11ukeL7bxr8MdQ1OCDyJBbyJNF/dcKc1ymkaH8RfB+k3vh3TdNtL+yldzDdNOFKBhjoeTxXUeD/Ad14Y+HV7ozypLf3aSPIVPy72GAP5UAeC6BDNpen+GfEGpobrQYtRlR4T92J8/eP8/wr6g1vxHaaN4RuNeTEttFB5qBejDHFcZ4R+HU8XwsuvC+vRRiWaSVxtO4KScqfzxUfh3wZ4hk+HmqeD9eKCPDJZ3IfdlT0BHtj9aAM7Q2+InjjRjrja9BpFjOGaG3jt1YlQfUg074ABh4T1YM24i6OT69ab4c0T4k2Hh8eE3t7OCyUNENS80FljJPRRznB4zW/wDCbwfqvg/QtQstTCb5Z96FWzuHPNAHPfAtR9u8WNjk37DP/AmqX9oT/kVtL/6/R/Ktv4X+D9V8K3GvPqSIovLsyxbWzlST/jVr4reDb3xn4XS1054xdwSiWMOcBvbNAEvxGLL8JdVKdfsif+hLXF+AtG8d3HgHTH0zxHY29g8LeXE9qGKjc2cnvzmuz0Sw8R694S1DSPFtpBbNJEIYjE4bcMH5jj3ArkdI074l+EtEfw3p+lWl9apuW3vTOq7FPqp5PWgDoPhn4Ufwtp2sJJq1tqD3M5ldrcYCNjkGsX4Bf8gHW/8Ar9P/ALNXVfDrwXN4O8LyWl1Os9/csZZ3U8bj2FUvhT4R1TwlpWp2+poivcXJkTY2eOf8aAOe+DLBNf8AGjHoL5ifzNOsPE3jH4ia/qUPhy/g0nSbGUxGcxCRpD+Oetbnw68Hap4d1TxJNqKIsWoXLSQlWzlST1/Oue0bwt458Ba9qsXh+xtL/TL+Yyo0swTyiehI68CgCh8PrS+sfjzrVvqN/wDb7pLBw8+wLuO9OwrUcA/tKR5HSwP8qn8F+AvEei/E688Q6rLFOl1bMJJUb/loWU4A9OK128I6ofjMnibYn9nC1MW7dzux6UAYHxDAPxp8GZA+6386f8cR++8LH/p/H8xW54t8IaprHxI8Oa3aohs7AETEtgjJ7Cl+J3hLVPFMmhnTkRhZ3Yll3NjC5H+FAEXxt/5Jbef78f8AOul8B/8AIhaF/wBeUX/oIqHx94am8V+C7zSLd0SeRQYy/TcOmay/htb+L9NsE0rxFZW8VrZwLHbyxyBi5GByB7UAd5RRRQAUUUUAFFFFABRRRQAUjbSp3Yx3zS0jKGUqwBB4IPegDwr4t+M7nX7hfBfheOSeSRtt1JEOP9wH+dee6xp8kL2Hw+0Zlkn8wNqEydHl75P91efyr2z4heI7XwjZPY+GtIifXbxSFFpbDKZ/iO0da8XurO6+HugTTX2f+En1lCiqxy9vE33ifRm6evNADL2CLxDr1l4V0uTZomlKWnm7MR/rJD+gFR6T4WtvH/jK9Gl24stFs05kX+6owCT6tjP4029hk8NeHoPDVopfXdYKveFeWRD9yP8AHJJ/CvTdUhs/hF8IHsAy/wBs6lGQx/iLsOfwUYH4UAfOLDDEehrr7fwRNdfDn/hLLQmU2920VxDjOEAUhv1Oa48nJzXtHwJ8S2Ykv/COqFTbaguYQ/QtjBH1Ix+VAHMXcqWUGk+N/DcSweVtivLdeVjlXAOR/dYYP41PeXMHhzxBZ+J9Lj36BqylZ7fqFDffjPuM5H0q5qOkL8OfHF7oOqqz+HdUUqSegjbow91/pVTTLNNK1XUPAeuyL9ivWBtLk/djk/5ZyKfQ9PxoA1tEu734XeMI9UtUkufDOpgMHQZUof5MuTX0ppl/ZapYxX1hIkkEyhlde9eF/D7VNU8E37+EPF+mvJpUj5tp5Yd8Sk+hIxtPH0r3iztLOztxHY28EEJ+YLCgVee+BQBYpk3+ok/3T/Kn0yb/AFEn+6f5UAfC3iL/AJGbVf8Ar8l/9DNez/s2f8fet/7ifzrxjxF/yM2q/wDX5L/6Ga9n/Zs/4+9b/wBxP50AfQtFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGfrD3UGnzTafZJdXoGI0YgAn3PpXgWs+Grjw5eXHjbx9ewXOoFt1nYRMW3Sfw5z0UHn8K+ja5HxF4B0TXb19V1G1kvrmJCYYZJDsBA4GBjvQB5b8HfB95rus3XjfWo8uWJtFl6M3976DgVgfEjw3r2u6he6td6gl5JFP5Nvb26sV2D7xXjovIJ9Qa9Mi8T6ioi0rzYLGCSMjIsWQRoDg4O/HtnFR2c+qWE091plk00EuIrcT2LNkDjbuD45bJJx1JoA8K8feFYfC/i210eHkfZ4N59XIG4/nXQ3/wzurTxs1vp9w1nCtrHdW85U43kcJn1O1jVP40agJ/incyLj9wsSEDsyjmvbNQ1DVNSsLa0tLNJLWeyheORbVpWZgDk7gwxjj86AKHiTwbfePPhfbm8lt7nWraPfBNFn5yOqtkcHsfevLvD2nW/j3Tk8NalcjT/Emm5WymmBHmKP8Alm3fI7fSvVoNfutFtoTZXODctsnhmtCzJKDtZgA42hmB9eSavad4M0nxc7axq2nCHUYpyEuYFaB2wepXJ5oA0vAVr4msdMGl+KLaCZrYbYbuN929fQ55zXa0yGPyYUjDM20AZbqafQAUyb/USf7p/lT6ZN/qJP8AdP8AKgD4W8Rf8jNqv/X5L/6Ga9n/AGbP+PvW/wDcT+deMeIv+Rm1X/r8l/8AQzXs/wCzZ/x963/uJ/OgD6FooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPPtb8EX+p6jqU7tHLFIRLb5bDb8jAOfQBsf75q1c63f+DPAhubzSp5rqNpAkFuPMPLErkrnsRmu3pGVWGGAI9CKAPjLXfC3ie/16yutRs5Rd67IZIwynOWPf065r3f4S69rFpbyeENZ0u7ju9PBEdwYz5bL2G7pXqbQQuyM0SMyfdJX7v0p4RQxYKAx6nFAHmR8E6teNdXc9pAl1vdYkkkDK6NKzsDg9CGxXoel2stlpdtazzGaWKMK0h6sR3q3RQAUUUUAFMm5hkH+yf5U+myf6p/900DW58Va/wCHdQk8R6m6ouGupSPmH94169+zzplzp91rJnUDciYwQa5LWP8AkN3/AP18Sf8AoRr0n4Mf8fGp/wC6tebRxdSdVQex9pmfD+Ew2BliKbfMkuumtvI9dooor0j4oKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApsn+qf8A3TTqbJ/qn/3TQNbny3rH/Ibv/wDr4k/9CNek/Bj/AI+NT/3VrzbWP+Q3f/8AXxJ/6Ea9J+DH/Hxqf+6teHhf46P1HPP+RTP0X5o9dooor3D8tCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKbJ/qn/3TTqbJ/qn/wB00DW58t6x/wAhu/8A+viT/wBCNek/Bj/j41P/AHVrzbWP+Q3f/wDXxJ/6Ea9J+DH/AB8an/urXh4X+Oj9Rzz/AJFM/Rfmj12iiivcPy0KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApsn+qf/dNOpsn+qf8A3TQNbny3rH/Ibv8A/r4k/wDQjXpPwY/4+NT/AN1a821j/kN3/wD18Sf+hGvSfgx/x8an/urXh4X+Oj9Rzz/kUz9F+aPXaKKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACmyf6p/8AdNOpG+6fpQxrc+WtY/5Dd/8A9fEn/oRr0n4Mf8fGp/7q1vXNpbm6mJhjJLn+H3rb8MQxRPP5carkDOBivj8uzNVcbGly21fX1Pt80zhV8BKjyWul19DpKKKK+wPhwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkb7p+lLSN90/Sk9gOHuP+PmX/fP862fDn35voKxrj/j5l/3z/Otnw59+b6CvzrJv+RnH1f5M9zFf7u/kdBRRRX6MeGFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUjfdP0paRvun6UnsBw9x/x8y/75/nWz4c+/N9BWNcf8fMv++f51s+HPvzfQV+dZN/yM4+r/ACZ7mK/3d/I6Ciiiv0Y8MKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Vergabekammer des Bundes VK 3 - 122/11</p>",
+      "page": 117,
+      "polygon": [
+        [
+          68.6796875,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          157.41998291015625
+        ],
+        [
+          68.6796875,
+          157.41998291015625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        125.806640625,
+        226.42031860351562,
+        157.41998291015625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Beschluss</b></h1>",
+      "page": 117,
+      "polygon": [
+        [
+          280.7300109863281,
+          174.3203125
+        ],
+        [
+          328.78997802734375,
+          174.3203125
+        ],
+        [
+          328.78997802734375,
+          187.41998291015625
+        ],
+        [
+          280.7300109863281,
+          187.41998291015625
+        ]
+      ],
+      "bbox": [
+        280.7300109863281,
+        174.3203125,
+        328.78997802734375,
+        187.41998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/3",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th>In dem Nachprüfungsverfahren</th><th></th></tr><tr><td>…,</td><td>-<br/>Antragstellerin<br/>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>…,</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>…,</td><td>-<br/>Antragsgegnerin<br/>–</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>…</td><td></td></tr></tbody></table>",
+      "page": 117,
+      "polygon": [
+        [
+          65.1875,
+          253.2578125
+        ],
+        [
+          530.8125,
+          253.2578125
+        ],
+        [
+          530.8125,
+          535.6293029785156
+        ],
+        [
+          65.1875,
+          535.6293029785156
+        ]
+      ],
+      "bbox": [
+        65.1875,
+        253.2578125,
+        530.8125,
+        535.6293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe \"Lieferung von apothekenpflichtigen Zubereitungen aus Fertigarzneimitteln  an die Onkologie zur unmittelbaren ärztlichen Anwendung\" (…), hat die 3. Vergabekammer des  Bundes durch die Vorsitzende Direktorin beim Bundeskartellamt Dr. Herlemann, den  hauptamtlichen Beisitzer Leitender Regierungsdirektor Thiele und den ehrenamtlichen Beisitzer Knipp auf die mündliche Verhandlung vom 27. September 2011 am 11. Oktober 2011 beschlossen:</p>",
+      "page": 117,
+      "polygon": [
+        [
+          69.84375,
+          573.94140625
+        ],
+        [
+          541.649169921875,
+          573.94140625
+        ],
+        [
+          541.649169921875,
+          681.0992889404297
+        ],
+        [
+          69.84375,
+          681.0992889404297
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        573.94140625,
+        541.649169921875,
+        681.0992889404297
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 147,
+      "polygon": [
+        [
+          295.3699951171875,
+          81.91998291015625
+        ],
+        [
+          314.296875,
+          81.91998291015625
+        ],
+        [
+          314.296875,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        81.91998291015625,
+        314.296875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/147",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die Antragstellerin trägt die Kosten des Verfahrens sowie die zur  zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der  Antragsgegnerin.</li><li block-type=\"ListItem\">3. Die Hinzuziehung eines Verfahrensbevollmächtigten durch die Antragsgegnerin war  notwendig.</li></ul></p>",
+      "page": 147,
+      "polygon": [
+        [
+          98.36328125,
+          142.21929931640625
+        ],
+        [
+          541.7089233398438,
+          142.21929931640625
+        ],
+        [
+          541.7089233398438,
+          286.1484375
+        ],
+        [
+          98.36328125,
+          286.1484375
+        ]
+      ],
+      "bbox": [
+        98.36328125,
+        142.21929931640625,
+        541.7089233398438,
+        286.1484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 147,
+      "polygon": [
+        [
+          283.3699951171875,
+          312.88934326171875
+        ],
+        [
+          326.1499938964844,
+          312.88934326171875
+        ],
+        [
+          326.1499938964844,
+          323.9293212890625
+        ],
+        [
+          283.3699951171875,
+          323.9293212890625
+        ]
+      ],
+      "bbox": [
+        283.3699951171875,
+        312.88934326171875,
+        326.1499938964844,
+        323.9293212890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 147,
+      "polygon": [
+        [
+          301.201171875,
+          350.80926513671875
+        ],
+        [
+          308.767578125,
+          350.80926513671875
+        ],
+        [
+          308.767578125,
+          361.8492736816406
+        ],
+        [
+          301.201171875,
+          361.8492736816406
+        ]
+      ],
+      "bbox": [
+        301.201171875,
+        350.80926513671875,
+        308.767578125,
+        361.8492736816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag), eine gesetzliche Krankenkasse, machte am … im Supplement  zum Amtsblatt der Europäischen Gemeinschaften die beabsichtigte Vergabe von  Rahmenverträgen über die Lieferung von apothekenpflichtigen Zubereitungen aus  Fertigarzneimitteln an insgesamt 19 onkologische Vertragsarztpraxen (\"Betriebsstätten\") zur  unmittelbaren ärztlichen Anwendung (Zytostatika) im Offenen Verfahren gemeinschaftsweit  bekannt (…). Adressaten der Ausschreibung sind Apotheken, wobei von den bundesweit ca.  21.000 Apotheken lediglich etwa 300 in dem spezialisierten Bereich der Zubereitung von  Zytostatika tätig sind. Die Ag stützt sich hierbei auf die Vorschrift des § 129 Abs. 5 Satz 3 SGB  V, wonach Verträge zwischen Apotheken und gesetzlichen Krankenkassen zur Sicherstellung  der Versorgung mit parenteralen Zubereitungen aus Fertigarzneimitteln in der Onkologie  zugelassen werden; nach dieser Vorschrift können hierbei Abschläge auf den Abgabepreis des  pharmazeutischen Unternehmers sowie auf die Preise und Preisspannen der Apotheken  vereinbart werden. Für die Ag handelt es sich hierbei um die erste Ausschreibung nach dieser  Vorschrift.</p>",
+      "page": 147,
+      "polygon": [
+        [
+          70.94400024414062,
+          388.8492736816406
+        ],
+        [
+          541.7295532226562,
+          388.8492736816406
+        ],
+        [
+          541.7295532226562,
+          646.6292877197266
+        ],
+        [
+          70.94400024414062,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        388.8492736816406,
+        541.7295532226562,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Auftrag ist in 11 Lose aufgeteilt worden. Der Loszuschnitt erfolgte betriebsstättenbezogen,  d.h. von den insgesamt 19 in der Bekanntmachung durch Angabe ihrer jeweiligen  Betriebsstättennummer bezeichneten onkologisch tätigen Vertragsarztpraxen mit Sitz … waren  eine oder mehrere je einem Los zugeordnet. Wie aus dem Vermerk zur Losaufteilung  hervorgeht, waren für den Loszuschnitt maßgebend v.a. räumliche und verkehrstechnische  Belange.</p>",
+      "page": 147,
+      "polygon": [
+        [
+          70.94400024414062,
+          673.5392761230469
+        ],
+        [
+          541.7291870117188,
+          673.5392761230469
+        ],
+        [
+          541.7291870117188,
+          779.5078125
+        ],
+        [
+          70.94400024414062,
+          779.5078125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        673.5392761230469,
+        541.7291870117188,
+        779.5078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          295.3699951171875,
+          80.9931640625
+        ],
+        [
+          314.587890625,
+          80.9931640625
+        ],
+        [
+          314.587890625,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        80.9931640625,
+        314.587890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ausgeschriebenen Rahmenverträge sollen eine Laufzeit von 12 Monaten haben, mit der  Möglichkeit der Verlängerung um weitere 12 Monate. Die Liefer-/ bzw. Leistungsfrist soll am 56.  Kalendertag nach Zuschlagserteilung beginnen. Die Bieter konnten bis zum Ablauf der  Angebotsabgabefrist, d.h. dem 27. September 2011 (16:00 Uhr), Angebote für ein oder mehrere  Lose abgeben. Alleiniges Zuschlagskriterium ist der Preis. In Ziffer 5 Leistungsbeschreibung  (LB) wurden Angaben zum voraussichtlichen Auftragsvolumen der Rahmenvereinbarung  gemacht, insbesondere, indem hier auf die Preisblätter gemäß Anlage 3 verwiesen wurde, aus  welchen sich alle Verordnungen der ausgeschriebenen Betriebsstätten aus den Monaten April  2010 bis März 2011 ergaben.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          69.84375,
+          140.1962890625
+        ],
+        [
+          541.7353515625,
+          140.1962890625
+        ],
+        [
+          541.7353515625,
+          305.0892333984375
+        ],
+        [
+          69.84375,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        140.1962890625,
+        541.7353515625,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die LB sieht, soweit vorliegend von Interesse, Folgendes vor:</p>",
+      "page": 161,
+      "polygon": [
+        [
+          70.94400024414062,
+          331.7841796875
+        ],
+        [
+          369.4388122558594,
+          331.7841796875
+        ],
+        [
+          369.4388122558594,
+          343.00927734375
+        ],
+        [
+          70.94400024414062,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        331.7841796875,
+        369.4388122558594,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>4. Sonderkennzeichen und Pharmazentralnummer</i></h4>",
+      "page": 161,
+      "polygon": [
+        [
+          87.3046875,
+          362.3658752441406
+        ],
+        [
+          325.5499267578125,
+          362.3658752441406
+        ],
+        [
+          325.5499267578125,
+          372.3258972167969
+        ],
+        [
+          87.3046875,
+          372.3258972167969
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        362.3658752441406,
+        325.5499267578125,
+        372.3258972167969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>In Apotheken hergestellte parenterale Zubereitungen aus Fertigarzneimitteln in der Onkologie werden </i> <i>mit Sonderkennzeichen gemäß der \"Technischen</i> <i>Anlage 1\" zur Vereinbarung zur Datenübermittlung </i> <i>nach § 300 SGB V abgerechnet. .... Ergänzend zu den Sonderkennzeichen sind in den </i> <i>Abrechnungsdaten gemäß der \"Technischen Anlage 3\" zur Vereinbarung zur Datenübermittlung nach </i> <i>§ 300 SGB V Zusatzdaten zu den</i> <i>in den Zubereitungen verwendeten Fertigarzneimitteln zu </i> <i>übermitteln. Aus den ergänzenden Zusatzdaten wird der Wirkstoff nach Art und Menge der </i> <i>verwendeten Arzneimittel, inklusive des abgerechneten Verwurfs, bestimmt, aus den </i> <i>Sonderkennzeichen die Art der Zubereitung.</i></p>",
+      "page": 161,
+      "polygon": [
+        [
+          84.9765625,
+          372.8974609375
+        ],
+        [
+          541.2201538085938,
+          372.8974609375
+        ],
+        [
+          541.2201538085938,
+          464.2313537597656
+        ],
+        [
+          84.9765625,
+          464.2313537597656
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        372.8974609375,
+        541.2201538085938,
+        464.2313537597656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>6. Kalkulatorische Grundlagen</i></h4>",
+      "page": 161,
+      "polygon": [
+        [
+          85.849609375,
+          488.8369140625
+        ],
+        [
+          232.30442810058594,
+          488.8369140625
+        ],
+        [
+          232.30442810058594,
+          498.8258972167969
+        ],
+        [
+          85.849609375,
+          498.8258972167969
+        ]
+      ],
+      "bbox": [
+        85.849609375,
+        488.8369140625,
+        232.30442810058594,
+        498.8258972167969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>...</i></p>",
+      "page": 161,
+      "polygon": [
+        [
+          86.431640625,
+          500.2513427734375
+        ],
+        [
+          96.27288055419922,
+          500.2513427734375
+        ],
+        [
+          96.27288055419922,
+          511.0380859375
+        ],
+        [
+          86.431640625,
+          511.0380859375
+        ]
+      ],
+      "bbox": [
+        86.431640625,
+        500.2513427734375,
+        96.27288055419922,
+        511.0380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Der Bezugspreis in den Preisblättern der Anlage 3 errechnet sich aus den Apothekeneinkaufspreisen </i> <i>für Fertigarzneimitteln mit dem jeweiligen Wirkstoff auf Basis der Lauer-Taxe. ...</i></p>",
+      "page": 161,
+      "polygon": [
+        [
+          86.140625,
+          511.7713317871094
+        ],
+        [
+          540.8552856445312,
+          511.7713317871094
+        ],
+        [
+          540.8552856445312,
+          533.2513427734375
+        ],
+        [
+          86.140625,
+          533.2513427734375
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        511.7713317871094,
+        540.8552856445312,
+        533.2513427734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>7. Bestimmung des Bezugspreises</i></h2>",
+      "page": 161,
+      "polygon": [
+        [
+          87.3046875,
+          546.3458557128906
+        ],
+        [
+          252.92420959472656,
+          546.3458557128906
+        ],
+        [
+          252.92420959472656,
+          557.0849609375
+        ],
+        [
+          87.3046875,
+          557.0849609375
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        546.3458557128906,
+        252.92420959472656,
+        557.0849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Zur Berechnung des Bezugspreises werden die von den pharmazeutischen Unternehmen </i> <i>gemeldeten Apothekeneinkaufspreise der LAUER-Taxe verwendet. Für die Angebotskalkulation des </i> <i>Bieters zugrunde liegenden Bezugspreise der jeweiligen aufgeführten Wirkstoffe in den Preisblättern </i> <i>gemäß Anlage 3 gilt der Preisstand vom 01.07.2011. Für die Berechnung der Bezugspreise werden </i> <i>für nicht patentgeschützte sowie patentgeschützte Arzneimitteln und solchen, zu denen kein anderes </i> <i>Fertigarzneimittel verfügbar ist, verschiedene Verfahren angewendet.....</i><i>\"</i></p>",
+      "page": 161,
+      "polygon": [
+        [
+          86.140625,
+          557.7313232421875
+        ],
+        [
+          541.3204956054688,
+          557.7313232421875
+        ],
+        [
+          541.3204956054688,
+          626.1552734375
+        ],
+        [
+          86.140625,
+          626.1552734375
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        557.7313232421875,
+        541.3204956054688,
+        626.1552734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>8.</i> <i>Ermittlung des wirtschaftlichsten Angebots</i></h1>",
+      "page": 161,
+      "polygon": [
+        [
+          87.88671875,
+          636.8447265625
+        ],
+        [
+          305.56640625,
+          636.8447265625
+        ],
+        [
+          305.56640625,
+          648.3458709716797
+        ],
+        [
+          87.88671875,
+          648.3458709716797
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        636.8447265625,
+        305.56640625,
+        648.3458709716797
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Alleiniges Zuschlagskriterium ...ist das niedrigste Gesamtlosgebot für alle Verordnungen der </i> <i>ausgeschriebenen Betriebsstätten. Zur Abgabe seines Angebotes hat der Bieter einen prozentualen </i> <i>Abschlag auf den Bezugspreis für die Mengeneinheit jedes aufgeführten Wirkstoffes und einen </i> <i>Zuschlag für die Dienstleistung anzugeben....Das Gesamtlosgebot entspricht der Gesamtsumme in </i> <i>EURO, die sich aus den Einzelgeboten für jeden Wirkstoff der ausgeschriebene/n Betriebsstätte/n in </i> <i>einem Los unter Berücksichtigung der Mengenvorgaben des Preisblattes und der gebotenen </i> <i>Abschläge und Zuschläge des Bieters für ein Los, berechnet......Der für den jeweiligen Wirkstoff </i> <i>berechnete Bezugspreis kann</i> <i>sich zum 1. und 15. eines Monats ändern. Hingegen gilt der für jeden </i> <i>aufgeführten Wirkstoff gebotene prozentuale Abschlag und Zuschlag für die Dauer der Laufzeit der </i> <i>Rahmenvereinbarung.</i></p>",
+      "page": 161,
+      "polygon": [
+        [
+          84.9765625,
+          647.123046875
+        ],
+        [
+          541.3680419921875,
+          647.123046875
+        ],
+        [
+          541.3680419921875,
+          763.1973571777344
+        ],
+        [
+          84.9765625,
+          763.1973571777344
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        647.123046875,
+        541.3680419921875,
+        763.1973571777344
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 169,
+      "polygon": [
+        [
+          295.3699951171875,
+          81.91998291015625
+        ],
+        [
+          314.296875,
+          81.91998291015625
+        ],
+        [
+          314.296875,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        81.91998291015625,
+        314.296875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>9.2 Berechnung von Einzelaufträgen</i></h3>",
+      "page": 169,
+      "polygon": [
+        [
+          87.3046875,
+          122.517578125
+        ],
+        [
+          260.5111389160156,
+          122.517578125
+        ],
+        [
+          260.5111389160156,
+          133.1358642578125
+        ],
+        [
+          87.3046875,
+          133.1358642578125
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        122.517578125,
+        260.5111389160156,
+        133.1358642578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die Vergabe von Einzelaufträgen .....</i> <i>erfolgt in dem Umfang der ärztlichen Verordnung. Der </i> <i>Einzelauftrag beinhaltet Menge, Wirkstoff, Trägerlösung sowie ggf. ein verordnetes Primärpackmittel. </i> <i>Der Gesamtpreis eines Einzelauftrages berechnet sich im Regelfall wie folgt:</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          87.3046875,
+          134.029296875
+        ],
+        [
+          541.40625,
+          134.029296875
+        ],
+        [
+          541.40625,
+          167.4412841796875
+        ],
+        [
+          87.3046875,
+          167.4412841796875
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        134.029296875,
+        541.40625,
+        167.4412841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(Bezugspreis je Mengeneinheit Wirkstoff -</i> <i>% Abschlag) * verordnete Menge Wirkstoff + Zuschlag = </i> <i>Gesamtpreis eines Einzelauftrages.</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          87.98400115966797,
+          179.25390625
+        ],
+        [
+          541.1261596679688,
+          179.25390625
+        ],
+        [
+          541.1261596679688,
+          202.0013427734375
+        ],
+        [
+          87.98400115966797,
+          202.0013427734375
+        ]
+      ],
+      "bbox": [
+        87.98400115966797,
+        179.25390625,
+        541.1261596679688,
+        202.0013427734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>......</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          86.140625,
+          203.099609375
+        ],
+        [
+          104.55288696289062,
+          203.099609375
+        ],
+        [
+          104.55288696289062,
+          213.5213623046875
+        ],
+        [
+          86.140625,
+          213.5213623046875
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        203.099609375,
+        104.55288696289062,
+        213.5213623046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Dabei gilt die im Angebot angegebene zum 1. und 15. eines Monats aktualisierte Preisbildung für den </i> <i>Bezugspreis je Mengeneinheit Wirkstoff und der jeweilige bezuschlagte prozentuale Abschlag je </i> <i>Wirkstoff sowie der Zuschlag für die Herstellung der anwendungsfertigen Zubereitung. Mit dem </i> <i>Gesamtpreis des Einzelauftrages sind die Lieferung, die Herstellung, die Primärpackmittel, die </i> <i>Trägerlösungen sowie </i><i>anfallender Verwurf abgegolten.\"</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          86.140625,
+          224.8896484375
+        ],
+        [
+          541.101806640625,
+          224.8896484375
+        ],
+        [
+          541.101806640625,
+          282.5213623046875
+        ],
+        [
+          86.140625,
+          282.5213623046875
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        224.8896484375,
+        541.101806640625,
+        282.5213623046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Vertragsentwurf (VertragE) sieht u.a. vor, dass dieser Vertrag von den Regelungen des  Rahmenvertrages über die Arzneimittelversorgung nach § 129 Abs. 2 SGB V und den  Bestimmungen des Arzneimittelversorgungsvertrages nach § 129 Abs. 5 Satz 1 SGB V  abweichen kann. Die spezielleren Regelungen des VertragE sollen diesen vorgehen (§ 1 Abs. 5  VertragE). Ferner sieht der VertragE u.a. vor:</p>",
+      "page": 169,
+      "polygon": [
+        [
+          70.94400024414062,
+          301.771484375
+        ],
+        [
+          541.6743774414062,
+          301.771484375
+        ],
+        [
+          541.6743774414062,
+          390.1692810058594
+        ],
+        [
+          70.94400024414062,
+          390.1692810058594
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        301.771484375,
+        541.6743774414062,
+        390.1692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>\"</i><i>§ 1 Gegenstand des Vertrages</i></h4>",
+      "page": 169,
+      "polygon": [
+        [
+          95.744140625,
+          416.4775390625
+        ],
+        [
+          244.6353302001953,
+          416.4775390625
+        ],
+        [
+          244.6353302001953,
+          426.9259033203125
+        ],
+        [
+          95.744140625,
+          426.9259033203125
+        ]
+      ],
+      "bbox": [
+        95.744140625,
+        416.4775390625,
+        244.6353302001953,
+        426.9259033203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(1) Dieser Vertrag regelt die Sicherstellung der Versorgung..... Als zu versorgende Versicherte </i> <i>werden in diesem Zusammenhang die Versicherten des Auftraggebers definiert, die von den </i> <i>Betriebsstätten der bezuschlagten Lose ambulant betreut werden......</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          94.2890625,
+          427.578125
+        ],
+        [
+          541.1779174804688,
+          427.578125
+        ],
+        [
+          541.1779174804688,
+          461.3513488769531
+        ],
+        [
+          94.2890625,
+          461.3513488769531
+        ]
+      ],
+      "bbox": [
+        94.2890625,
+        427.578125,
+        541.1779174804688,
+        461.3513488769531
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>§ 3 Art und Umfang der Leistung</i></h4>",
+      "page": 169,
+      "polygon": [
+        [
+          94.87109375,
+          485.5478515625
+        ],
+        [
+          252.01953124999997,
+          485.5478515625
+        ],
+        [
+          252.01953124999997,
+          495.9458923339844
+        ],
+        [
+          94.87109375,
+          495.9458923339844
+        ]
+      ],
+      "bbox": [
+        94.87109375,
+        485.5478515625,
+        252.01953124999997,
+        495.9458923339844
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(1) Der Auftragnehmer ist alleiniger Vertragspartner des Auftraggebers für das jeweils bezuschlagte </i> <i>Los (Betriebsstätte) und hier auf Grund des erteilten Zuschlags für die Versorgung der Versicherten </i> <i>gemäß § 1 Ziffer 1 exklusiv verantwortlich (vgl. § 4 dieses Vertrages). Der Auftragnehmer </i> <i>verpflichtet sich, für die Versicherten des Auftraggebers keine vertragsgegenständlichen </i> <i>Rezepturen in den übrigen durch die Ausschreibung definierten Losen (ausgeschriebene </i> <i>Betriebsstätten mit kompletter Anschrift Anl. 1), für die er</i> <i>keinen Zuschlag erhalten hat, abzugeben. </i> <i>Dies gilt nicht für Rezepte, die der Versicherte selbst vorlegt (Wahlfreiheit des Versicherten).</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          95.453125,
+          496.2373046875
+        ],
+        [
+          541.3126831054688,
+          496.2373046875
+        ],
+        [
+          541.3126831054688,
+          576.3313598632812
+        ],
+        [
+          95.453125,
+          576.3313598632812
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        496.2373046875,
+        541.3126831054688,
+        576.3313598632812
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>...</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          96.50399780273438,
+          577.6416015625
+        ],
+        [
+          104.79287719726562,
+          577.6416015625
+        ],
+        [
+          104.79287719726562,
+          587.8513336181641
+        ],
+        [
+          96.50399780273438,
+          587.8513336181641
+        ]
+      ],
+      "bbox": [
+        96.50399780273438,
+        577.6416015625,
+        104.79287719726562,
+        587.8513336181641
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>§ 4 Rechte und Pflichten des Auftraggebers/Exklusivität</i></h4>",
+      "page": 169,
+      "polygon": [
+        [
+          95.453125,
+          600.6650390625
+        ],
+        [
+          363.1875,
+          600.6650390625
+        ],
+        [
+          363.1875,
+          610.9058685302734
+        ],
+        [
+          95.453125,
+          610.9058685302734
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        600.6650390625,
+        363.1875,
+        610.9058685302734
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/169",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\"><i>(1) Der Auftraggeber unterstützt den Auftragnehmer bei der Leistungserbringung im Rahmen dieses </i> <i>Vertrages durch aktive Information der zu beliefernden Betriebsstätten über die Inhalte zur </i> <i>Abwicklung des Vertrages. Sollten sich bei der Umsetzung des Vertrages Probleme in der </i> <i>Zusammenarbeit mit den zu beliefernden Betriebsstätten ergeben, bemüht sich der Auftraggeber </i> <i>um eine kurzfristige Klärung.</i></li><li block-type=\"ListItem\"><i>(2) Der Auftraggeber übernimmt keine Garantie für den Umfang der Abforderung der vertrags</i><i>gegenständlichen Rezepturen durch die verordnenden Ärzte. Das Volumen, welches</i> <i>in dem </i> <i>jeweiligen Los (Betriebsstätte), für das der Auftragnehmer den Zuschlag erhalten hat, </i> <i>ausgeschrieben ist, stellt lediglich eine Prognose auf Grund der im Vorfeld der Ausschreibung </i> <i>erfolgten Analysen des Auftraggebers für die Vergangenheit dar. Im Bereich der ambulanten </i> <i>Versorgung können Entwicklungen eintreten, die der Auftraggeber nicht beeinflussen kann und die </i> <i>sich auf dieses Volumen auswirken.</i></li></ul></p>",
+      "page": 169,
+      "polygon": [
+        [
+          95.453125,
+          612.3313446044922
+        ],
+        [
+          541.39599609375,
+          612.3313446044922
+        ],
+        [
+          541.39599609375,
+          760.3173522949219
+        ],
+        [
+          95.453125,
+          760.3173522949219
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        612.3313446044922,
+        541.39599609375,
+        760.3173522949219
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          295.3699951171875,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        81.91998291015625,
+        314.587890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>(3) Der Auftraggeber hat in Bezug auf die Versorgung seiner Versicherten mit Rezepturen einen </i> <i>Sicherstellungsauftrag gemäß § 129 Abs. 5 Satz 3 SGB V. Dementsprechend verpflichtet sich der </i> <i>Auftraggeber nach Erteilung des Zuschlags in dem jeweiligen Los/der jeweiligen Betriebsstätte, die </i> <i>dort ambulant behandelnden Ärzte, die den Anwendungsbereich dieses Vertrages mit einbezogen </i> <i>sind (vgl. § 1 Ziffer 1 Satz 2) und Rezepturen im Sinne dieses Vertrages verordnen, zu informieren. </i> <i>Diese Information beinhaltet den Hinweis, dass die Sicherstellung der Versorgung allein durch den </i> <i>Auftragnehmer erfolgt, der den jeweiligen Zuschlag erhalten hat und die Ärzte sämtliche </i> <i>vertragsgegenständlichen Zubereitungen dort zu beziehen haben.</i></li><li block-type=\"ListItem\"><i>(4)</i> <i>Der Auftraggeber verpflichtet sich Rezepturen, die von Apotheken oder zur Herstellung </i> <i>berechtigten Betrieben angefertigt und abgegeben werden, die nicht Vertragspartner in dem </i> <i>Gebietslos sind, bei der Abrechnung nicht zu berücksichtigen und von der Erstattung in vollem </i> <i>Umfang auszuschließen. Die Herstellung und Auslieferung von Rezepturen durch Apotheken oder </i> <i>Herstellungsbetriebe, die keinen Zuschlag erhalten haben, erfolgt mithin auf deren Alleiniges </i> <i>finanzielles Risiko. Dies gilt nicht für Rezepte, die der Versicherte selbst vorlegt (Wahlfreiheit des </i> <i>Versicherten).</i></li></ul></p>",
+      "page": 162,
+      "polygon": [
+        [
+          95.453125,
+          122.1064453125
+        ],
+        [
+          541.2679443359375,
+          122.1064453125
+        ],
+        [
+          541.2679443359375,
+          305.4713134765625
+        ],
+        [
+          95.453125,
+          305.4713134765625
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        122.1064453125,
+        541.2679443359375,
+        305.4713134765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>§ 5 Bestimmungen zur Preisbildung</i></h4>",
+      "page": 162,
+      "polygon": [
+        [
+          96.03515625,
+          318.68585205078125
+        ],
+        [
+          267.15234375,
+          318.68585205078125
+        ],
+        [
+          267.15234375,
+          328.90625
+        ],
+        [
+          96.03515625,
+          328.90625
+        ]
+      ],
+      "bbox": [
+        96.03515625,
+        318.68585205078125,
+        267.15234375,
+        328.90625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/162",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>(1) Durch Artikel 7 Nr. 1d) des Gesetzes zur Änderung arzneimittelrechtlicher und anderer </i> <i>Vorschriften (so genannte 15. AMG-Novelle) wurden die Fertigarzneimittel in parenteralen </i> <i>Zubereitungen dem Anwendungsbereich der Arzneimittelpreisverordnung (AMPreisV) entzogen, </i> <i>§</i> <i>1 Abs. 3 Satz 1 Nr. 8 AMPreisV. Die Apotheken haben mithin die Möglichkeit, die Einkaufspreise </i> <i>für diese Arzneimittel mit den Pharmazeutischen Herstellern frei zu vereinbaren, vgl. auch § 129 </i> <i>Absatz 5c) Satz 2 SGB</i> <i>V. Im Interesse einer qualitativ hochwertigen und wirtschaftlichen</i> <i>Versorgung, verpflichtet sich die Apotheke hiervon Gebrauch zu machen.</i></li><li block-type=\"ListItem\"><i>(2) Mit dem zwischen dem Auftraggeber und dem Auftragnehmer in den Preisblättern (Anlage 3 zu </i> <i>diesem Vertrag) vereinbarten Preisen sind sämtliche Leistungen der Apotheke bei der Herstellung </i> <i>der vertragsgegenständlichen Rezepturen abgegolten. Damit sind neben den tatsächlichen </i> <i>Einkaufspreisen für die Wirkstoffe sämtliche Leistungen gem. der Leistungsbeschreibung </i> <i>einbezogen. Gegebenenfalls anfallender Verwurf ist ebenfalls mit abgegolten</i><i>.\"</i></li></ul></p>",
+      "page": 162,
+      "polygon": [
+        [
+          98.9453125,
+          330.07135009765625
+        ],
+        [
+          541.4219360351562,
+          330.07135009765625
+        ],
+        [
+          541.4219360351562,
+          478.9697265625
+        ],
+        [
+          98.9453125,
+          478.9697265625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        330.07135009765625,
+        541.4219360351562,
+        478.9697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Antragstellerin (ASt) betreibt eine öffentliche Apotheke mit Sitz in …, die u.a. im Bereich  Zubereitung von Zytostatika tätig ist. Sie rügte mit Schreiben ihrer Verfahrensbevollmächtigten  vom 19. August 2011 diverse Vergaberechtsverstöße. Darin machte sie u.a. geltend, die in den  Verdingungsunterlagen vorgesehene Angebotskalkulation in Abhängigkeit von der  Preisentwicklung der Wirkstoffe in der Lauertaxe bürde der ASt ein ungewöhnliches Wagnis  auf.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          70.94400024414062,
+          502.749267578125
+        ],
+        [
+          541.647705078125,
+          502.749267578125
+        ],
+        [
+          541.647705078125,
+          608.7092742919922
+        ],
+        [
+          70.94400024414062,
+          608.7092742919922
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        502.749267578125,
+        541.647705078125,
+        608.7092742919922
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In einem Antwortschreiben vom 25. August 2011 teilte die Ag der ASt mit, deren Vorbringen im  Wesentlichen nicht abhelfen zu wollen. Soweit vorliegend von Interesse, kündigte die Ag  allerdings an, die Vertragsbedingungen in der Weise zu ändern, dass Auftragnehmer den  Vertrag auch dann kündigen können, wenn sich die Preisentwicklung der Wirkstoffe in der  Lauertaxe so zum Nachteil des Bieters verändert hat, dass das ursprüngliche Angebot aufgrund  der Preiserhöhung nicht mehr auskömmlich ist. Hierdurch werde - so die Ag in dem Schreiben  vom 25. August 2011 - das kalkulatorische \"Restrisiko\" der Bieter minimiert.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          70.94400024414062,
+          635.5892791748047
+        ],
+        [
+          541.7333984375,
+          635.5892791748047
+        ],
+        [
+          541.7333984375,
+          760.535285949707
+        ],
+        [
+          70.94400024414062,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        635.5892791748047,
+        541.7333984375,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          295.3699951171875,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        81.91998291015625,
+        314.587890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/145",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit einem per Fax am 9. September 2011 bei der Vergabekammer des Bundes  eingegangenen Schreiben beantragte die ASt sodann die Einleitung eines  Nachprüfungsverfahrens in Bezug auf alle 11 Lose. Die Vergabekammer übermittelte den  Nachprüfungsantrag der Ag am selben Tag.</li><li block-type=\"ListItem\">a. Die ASt meint, der Nachprüfungsantrag sei zulässig. Die ASt habe ein Interesse an dem  Auftrag. Sie beabsichtige, ein Angebot auf alle Lose abzugeben. Durch die geltend gemachten  Vergaberechtsverstöße werde sie jedoch an einer seriösen Angebotskalkulation gehindert.</li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          69.84375,
+          120.873046875
+        ],
+        [
+          541.7293090820312,
+          120.873046875
+        ],
+        [
+          541.7293090820312,
+          267.1392822265625
+        ],
+        [
+          69.84375,
+          267.1392822265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        120.873046875,
+        541.7293090820312,
+        267.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag sei auch begründet, wobei die ASt inhaltlich drei Punkte beanstandet:</p>",
+      "page": 145,
+      "polygon": [
+        [
+          69.84375,
+          293.9599609375
+        ],
+        [
+          535.7281494140625,
+          293.9599609375
+        ],
+        [
+          535.7281494140625,
+          305.0892333984375
+        ],
+        [
+          69.84375,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        293.9599609375,
+        535.7281494140625,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">aa. Es sei mit § 8 Abs. 1 VOL/A-EG unvereinbar, dass die Ag den Bietern zwar vertraglich das  Recht zur exklusiven Belieferung der Betriebsstätten einräume (§ 3 Abs. 1 Satz 1  VertragE), andererseits aber aus Rechtsgründen gar nicht in der Lage sei, die Exklusivität  auch zu gewährleisten. Nach § 31 Abs. 1 Satz 5 SGB V stehe den Versicherten der Ag ein  Apothekenwahlrecht zu. Dieses Apothekenwahlrecht könne nicht durch einen auf § 129  Abs. 5 Satz 3 SGB V gestützten Vertrag eingeschränkt werden; dies sei von der Ag  ausweislich der Regelung in § 3 Abs. 1 Satz 3 und § 4 Abs. 4 Satz 3 Vertrag durchaus  zutreffend gesehen worden. Absprachen zwischen dem Arzt und Apotheker gemäß § 11  Abs. 2 Apothekengesetz (ApoG) könnten dieses Wahlrecht nicht einschränken. Da die  Ärzte in den 19 Betriebsstätten nicht Vertragspartner seien, bleibe es diesen rechtlich  unbenommen, die Zubereitungen nicht bei einem Vertragspartner der Ag, sondern bei einer  dritten Apotheke zu beziehen. Im Übrigen hätten Nachfragen der ASt bei dem Vorsitzenden  des BNHO ergeben, dass nach dessen Kenntnisstand keine der 19 Betriebsstätten den  ausgeschriebenen Vertrag unterstützen werde. Die Annahme der Ag, die 19 Betriebsstätten Praxen könnten aufgrund des Wirtschaftlichkeitsgebots (§§ 12, 70 Abs. 1 SGB V) zu dem  gewünschten Verhalten angehalten werden, gehe jedenfalls in den Fällen fehl, in denen die  Versicherten von ihrem Apothekenwahlrecht Gebrauch machten. Die ASt untermauert ihre  Aussage mit Vorlage eines Schreibens des Berufsverbands der Niedergelassenen  Hämatologen und Onkologen in Deutschland e.V. (BNHO) vom 12. September 2011, in  welchem dieser gegenüber der Ag insbesondere die unterbliebene vorherige  Kontaktaufnahme monierte; unter kurzer Darlegung seiner weiteren Bedenken fordert der  BNHO die Ag auf, die Ausschreibung aufzuheben.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          70.94400024414062,
+          325.6171875
+        ],
+        [
+          541.7297973632812,
+          325.6171875
+        ],
+        [
+          541.7297973632812,
+          741.4592895507812
+        ],
+        [
+          70.94400024414062,
+          741.4592895507812
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        325.6171875,
+        541.7297973632812,
+        741.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          295.3699951171875,
+          80.58203125
+        ],
+        [
+          314.587890625,
+          80.58203125
+        ],
+        [
+          314.587890625,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        80.58203125,
+        314.587890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt meint, es werde den Bietern ein ungewöhnliches Wagnis auferlegt, weil diese nicht  zuverlässig einschätzen könnten, wie viele Versicherte von ihrem Apothekenwahlrecht  Gebrauch machten. Nach den eigenen Erfahrungen der ASt nutzten nicht wenige  Versicherte diese Möglichkeit.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          89.6328125,
+          122.517578125
+        ],
+        [
+          541.70556640625,
+          122.517578125
+        ],
+        [
+          541.70556640625,
+          191.17926025390625
+        ],
+        [
+          89.6328125,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        122.517578125,
+        541.70556640625,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da einerseits die Einräumung von Exklusivität mit höherrangigem Recht (§ 31 Abs. 1 Satz 5  SGB V) unvereinbar sei, andererseits aber die Nichtgewährung von Exklusivität der  Ausschreibung die Grundlage entziehe, sei die Aufhebung der Ausschreibung die im  Rahmen der Entscheidung nach § 114 Abs. 1 GWB vorzusehende Rechtsfolge.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          90.796875,
+          217.4892578125
+        ],
+        [
+          541.7333984375,
+          217.4892578125
+        ],
+        [
+          541.7333984375,
+          286.1292724609375
+        ],
+        [
+          90.796875,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        217.4892578125,
+        541.7333984375,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bb. Indem die Ag in Ziffer 8 bzw. Ziffer 9.2 Abs. 5 LB verlange, dass die Bieter der  Angebotskalkulation den in der Lauertaxe niedergelegten Abgabepreis des  pharmazeutischen Herstellers (ApU-Listenpreis) zum 1. Juli 2011 zugrunde legen, während  für die Berechnung des tatsächlich abzurechnenden Preises eines Einzelauftrages die  aktuellen, in der Lauertaxe hinterlegten ApU-Listenpreise maßgeblich seien, werde den  Bietern ein ungewöhnliches Wagnis aufgebürdet. Wie aus den Vorgaben der LB  hervorgehe, könnten sich die von den Herstellern an die Lauertaxe gemeldeten ApU-Listenpreise zum 1. und 15. eines jeden Monats ändern. Die Entwicklung der  Herstellerabgabepreise sei von den Bietern nicht im vorhinein kalkulierbar. Würden die  Hersteller z.B. ihren zum 1. Juli 2011 an die Lauertaxe gemeldeten Abgabepreis zu einem  späteren Zeitpunkt senken, müssten die Bieter kalkulatorische Verluste hinnehmen. Die  Wahrscheinlichkeit sinkender Herstellerabgabepreise sei besonders hoch bei  patentgeschützten Arzneimitteln, deren Patentschutz während der Vertragslaufzeit  auslaufe. Nach Ablauf des Patentschutzes sei regelmäßig mit erheblichem Preisdruck  durch Generikahersteller zu rechnen.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.94400024414062,
+          312.4609375
+        ],
+        [
+          541.7218627929688,
+          312.4609375
+        ],
+        [
+          541.7218627929688,
+          589.7492828369141
+        ],
+        [
+          70.94400024414062,
+          589.7492828369141
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        312.4609375,
+        541.7218627929688,
+        589.7492828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das nachträglich von der Ag vorgesehene Kündigungsrecht der Auftragnehmer für den Fall,  dass sich die Herstellerpreise derart verändern, dass das ursprüngliche Angebot sich als  nicht mehr auskömmlich erweist (§ 11 Abs. 3 VertragE), ändere nichts daran, dass den  Bietern ein ungewöhnliches Wagnis auferlegt werde. Denn es bleibe unklar, bei welchem  Grad der Abweichung der aktuellen ApU-Listenpreise im Vergleich zum ApU-Listenpreis  zum 1. Juli 2011 Unauskömmlichkeit vorliege.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          89.6328125,
+          615.4658203125
+        ],
+        [
+          541.7290649414062,
+          615.4658203125
+        ],
+        [
+          541.7290649414062,
+          722.4992828369141
+        ],
+        [
+          89.6328125,
+          722.4992828369141
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        615.4658203125,
+        541.7290649414062,
+        722.4992828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">cc. Ferner ist die ASt der Auffassung, dass es mit § 8 Abs. 1 VOL/A-EG unvereinbar sei, den  Bietern das Risiko der Kalkulation des anfallenden Verwurfs aufzubürden. Die Ag hätte den</p>",
+      "page": 139,
+      "polygon": [
+        [
+          70.94400024414062,
+          748.26171875
+        ],
+        [
+          541.67626953125,
+          748.26171875
+        ],
+        [
+          541.67626953125,
+          779.4952812194824
+        ],
+        [
+          70.94400024414062,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        748.26171875,
+        541.67626953125,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 127,
+      "polygon": [
+        [
+          295.3699951171875,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          81.91998291015625
+        ],
+        [
+          314.587890625,
+          93.91998291015625
+        ],
+        [
+          295.3699951171875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.3699951171875,
+        81.91998291015625,
+        314.587890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bietern keine Daten über die in der Vergangenheit angefallenen Verwürfe an die Hand  gegeben, obwohl die Apotheken seit dem Inkrafttreten der Anlage 3 zur Hilfstaxe am 1.  Januar 2010 Verwürfe gegenüber den Krankenkassen gesondert abrechneten. Der Ag  lägen mithin entsprechende Daten vor, was auch darin zum Ausdruck komme, dass die Ag  gegenüber den Apotheken sog. Retaxierungen vornehme. Diese Daten über anfallende  Verwürfe hätte die Ag den Bietern bekannt geben müssen. Die Bieter selbst verfügten über  keine ausreichenden Erfahrungswerte, zumal die Krankenkassen bislang den Apotheken  die hierdurch entstandenen Kosten erstattet hätten. Die daraus resultierende  Kalkulationsunsicherheit werde noch dadurch erhöht, dass der Zuschlagsdestinatär  aufgrund des Apothekenwahlrechts der Versicherten keine exklusive Marktstellung erhalte.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.6328125,
+          123.25927734375
+        ],
+        [
+          541.7098388671875,
+          123.25927734375
+        ],
+        [
+          541.7098388671875,
+          305.0892333984375
+        ],
+        [
+          89.6328125,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        123.25927734375,
+        541.7098388671875,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "3": "/page/3/SectionHeader/1",
+        "4": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt,</h2>",
+      "page": 127,
+      "polygon": [
+        [
+          70.42578125,
+          331.7841796875
+        ],
+        [
+          160.853759765625,
+          331.7841796875
+        ],
+        [
+          160.853759765625,
+          343.00927734375
+        ],
+        [
+          70.42578125,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        331.7841796875,
+        160.853759765625,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. die Ausschreibung aufzuheben;</p>",
+      "page": 127,
+      "polygon": [
+        [
+          130.45999145507812,
+          369.6083984375
+        ],
+        [
+          296.8359375,
+          369.6083984375
+        ],
+        [
+          296.8359375,
+          380.9292907714844
+        ],
+        [
+          130.45999145507812,
+          380.9292907714844
+        ]
+      ],
+      "bbox": [
+        130.45999145507812,
+        369.6083984375,
+        296.8359375,
+        380.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">hilfsweise:</p>",
+      "page": 127,
+      "polygon": [
+        [
+          129.2109375,
+          388.8492736816406
+        ],
+        [
+          181.17776489257812,
+          388.8492736816406
+        ],
+        [
+          181.17776489257812,
+          399.8892822265625
+        ],
+        [
+          129.2109375,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        129.2109375,
+        388.8492736816406,
+        181.17776489257812,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/125",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. der Ag zu untersagen, die in den Vergabeunterlagen unter Ziffer 8 bzw. Ziffer 9.2  Abs. 5 der Leistungsbeschreibung festgelegte Bindung des Gesamtpreises eines  Einzelauftrages an die Preisentwicklung der Lauer-Taxe aufrechtzuerhalten;</li><li block-type=\"ListItem\">3. der Ag zu untersagen, die in den Vergabeunterlagen unter Ziffer 9.2 Abs. 6 der  Leistungsbeschreibung geregelte Abgeltung des anfallenden Verwurfs im  Angebotspreis aufrechtzuerhalten;</li></ul></p>",
+      "page": 127,
+      "polygon": [
+        [
+          128.046875,
+          406.19921875
+        ],
+        [
+          541.5648803710938,
+          406.19921875
+        ],
+        [
+          541.5648803710938,
+          514.3271484375
+        ],
+        [
+          128.046875,
+          514.3271484375
+        ]
+      ],
+      "bbox": [
+        128.046875,
+        406.19921875,
+        541.5648803710938,
+        514.3271484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">äußerst hilfsweise:</p>",
+      "page": 127,
+      "polygon": [
+        [
+          129.2109375,
+          521.7092895507812
+        ],
+        [
+          221.49581909179688,
+          521.7092895507812
+        ],
+        [
+          221.49581909179688,
+          532.7492980957031
+        ],
+        [
+          129.2109375,
+          532.7492980957031
+        ]
+      ],
+      "bbox": [
+        129.2109375,
+        521.7092895507812,
+        221.49581909179688,
+        532.7492980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/127",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4. festzustellen, dass die Ag gegen zwingende Vorschriften des Vergaberechts  verstoßen hat und die ASt hierdurch in ihren Rechten verletzt ist;</p>",
+      "page": 127,
+      "polygon": [
+        [
+          128.046875,
+          538.583984375
+        ],
+        [
+          541.479248046875,
+          538.583984375
+        ],
+        [
+          541.479248046875,
+          573.119140625
+        ],
+        [
+          128.046875,
+          573.119140625
+        ]
+      ],
+      "bbox": [
+        128.046875,
+        538.583984375,
+        541.479248046875,
+        573.119140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sowie</p>",
+      "page": 127,
+      "polygon": [
+        [
+          130.45999145507812,
+          578.7092895507812
+        ],
+        [
+          158.43536376953125,
+          578.7092895507812
+        ],
+        [
+          158.43536376953125,
+          589.9755859375
+        ],
+        [
+          130.45999145507812,
+          589.9755859375
+        ]
+      ],
+      "bbox": [
+        130.45999145507812,
+        578.7092895507812,
+        158.43536376953125,
+        589.9755859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/126",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">5. der ASt Einsicht in die Vergabeakten zu gewähren;</li><li block-type=\"ListItem\">6. die Hinzuziehung des Verfahrensbevollmächtigten der ASt gemäß § 128 Abs. 4  GWB für notwendig zu erklären;</li><li block-type=\"ListItem\">7. der Ag die Kosten des Verfahrens einschließlich der Kosten der  zweckentsprechenden Rechtsverfolgung der ASt aufzuerlegen.</li></ul></p>",
+      "page": 127,
+      "polygon": [
+        [
+          128.046875,
+          597.3759765625
+        ],
+        [
+          541.5999145507812,
+          597.3759765625
+        ],
+        [
+          541.5999145507812,
+          686.1806640625
+        ],
+        [
+          128.046875,
+          686.1806640625
+        ]
+      ],
+      "bbox": [
+        128.046875,
+        597.3759765625,
+        541.5999145507812,
+        686.1806640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h2>b. Die Ag beantragt,</h2>",
+      "page": 127,
+      "polygon": [
+        [
+          69.84375,
+          711.4592742919922
+        ],
+        [
+          168.75360107421875,
+          711.4592742919922
+        ],
+        [
+          168.75360107421875,
+          722.4992828369141
+        ],
+        [
+          69.84375,
+          722.4992828369141
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        711.4592742919922,
+        168.75360107421875,
+        722.4992828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. den Nachprüfungsantrag zurückzuweisen,</p>",
+      "page": 127,
+      "polygon": [
+        [
+          128.62890625,
+          748.6728515625
+        ],
+        [
+          348.0363464355469,
+          748.6728515625
+        ],
+        [
+          348.0363464355469,
+          760.535285949707
+        ],
+        [
+          128.62890625,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        128.62890625,
+        748.6728515625,
+        348.0363464355469,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          295.08984375,
+          81.91998291015625
+        ],
+        [
+          314.87890625,
+          81.91998291015625
+        ],
+        [
+          314.87890625,
+          93.91998291015625
+        ],
+        [
+          295.08984375,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        295.08984375,
+        81.91998291015625,
+        314.87890625,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/135",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. der ASt die Kosten des Verfahrens einschließlich die Kosten der  zweckentsprechenden Rechtsverfolgung der Ag aufzuerlegen,</li><li block-type=\"ListItem\">3. die Hinzuziehung der Verfahrensbevollmächtigten der Ag für notwendig zu  erklären.</li></ul></p>",
+      "page": 135,
+      "polygon": [
+        [
+          128.046875,
+          122.1064453125
+        ],
+        [
+          541.4791259765625,
+          122.1064453125
+        ],
+        [
+          541.4791259765625,
+          191.17926025390625
+        ],
+        [
+          128.046875,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        128.046875,
+        122.1064453125,
+        541.4791259765625,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach Auffassung der Ag kann es dahingestellt bleiben, ob das bislang in § 8 Nr. 1 Abs. 3  VOL/A (2006) ausdrücklich geregelte Verbot der Überbürdung ungewöhnlicher Wagnisse  auch nach dem neu gefassten § 8 Abs. 1 VOL/A-EG fortgelte, der keine vergleichbare  Regelung mehr enthalte. Jedenfalls könnten nur solche Wagnisse gegen § 8 VOL/A-EG  verstoßen, die zu einer hinreichend unsicheren Kalkulationsgrundlage führen.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          86.140625,
+          215.8447265625
+        ],
+        [
+          541.7300415039062,
+          215.8447265625
+        ],
+        [
+          541.7300415039062,
+          305.0892333984375
+        ],
+        [
+          86.140625,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        215.8447265625,
+        541.7300415039062,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entgegen der Auffassung der ASt seien die Regelungen in den Verdingungsunterlagen zur  Einräumung von Exklusivität eindeutig und bürdeten den Bietern kein ungewöhnliches  Wagnis auf. Dies habe die VK Bund bereits in einem vergleichbaren Verfahren entschieden  (Hinweis auf Beschluss vom 29. April 2010, VK 2 – 20/10). Im Übrigen sei zu  berücksichtigen, dass es bei den in Rede stehenden onkologischen Behandlungen faktisch  ohnehin nicht zur Ausübung des Apothekenwahlrechts komme. Denn üblicherweise händige  der behandelnde Arzt dem Patienten das Rezept nicht aus; die Lieferung der teilweise  toxischen und hochempfindlichen Arzneimittel erfolge im Regelfall unmittelbar von der  Apotheke an den behandelnden Arzt. Sie – die Ag – habe mit Schreiben vom 12. August  2011 die 19 onkologischen Arztpraxen über die Ausschreibung informiert und von diesen  kein negatives Feedback erhalten. In der mündlichen Verhandlung vor der Vergabekammer  erklärte die Ag, in der 38. KW ein Gespräch mit Vertretern des BNHO geführt zu haben und  von diesem im Ergebnis Zustimmung zum Vorhaben signalisiert bekommen zu haben.  Jedenfalls gehe die Ag davon aus, dass die betroffenen Arztpraxen aufgrund des gesetzlich  verankerten Wirtschaftlichkeitsgebots (§§ 12, 70 Abs. 1 SGB V) exklusiv mit dem jeweiligen  Zuschlagsdestinatär zusammen arbeiten werden.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          84.9765625,
+          331.9692687988281
+        ],
+        [
+          541.6954956054688,
+          331.9692687988281
+        ],
+        [
+          541.6954956054688,
+          627.6692962646484
+        ],
+        [
+          84.9765625,
+          627.6692962646484
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        331.9692687988281,
+        541.6954956054688,
+        627.6692962646484
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kalkulation der Angebote in Abhängigkeit von der Entwicklung Herstellerabgabepreise  sei ebenfalls mit § 8 Abs. 1 VOL/A-EG vereinbar. Die Preise für die streitgegenständlichen  Arzneimittel würden – unabhängig von den Listenpreisen der Hersteller – auf der  Zwischenhandelsstufe ausgehandelt. Anders als bei der geltenden Hilfstaxe Anlage 3, bei  der ein pauschaler Abschlag von 10 % vereinbart worden sei, sei den Bietern vorliegend die  Möglichkeit eingeräumt worden, die Abschläge individuell zu kalkulieren. Außerdem weist  die Ag auf die weitgehende Preisstabilität bei einer Vielzahl von Arzneimitteln hin.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          86.140625,
+          654.1123046875
+        ],
+        [
+          541.7017211914062,
+          654.1123046875
+        ],
+        [
+          541.7017211914062,
+          779.9189453125
+        ],
+        [
+          86.140625,
+          779.9189453125
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        654.1123046875,
+        541.7017211914062,
+        779.9189453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Regelungen in Ziffer 9.2 LB, denen zufolge der anfallende Verwurf mit dem Gesamtpreis  abgegolten werde, bürde den Bietern ebenfalls kein ungewöhnliches Wagnis auf.  Üblicherweise seien die anfallenden Verwurfsmengen gering. Es sei in erster Linie eine  Frage der betrieblichen Organisation, welche Restmengen anfielen. Aufgrund ihrer  Erfahrungen seien Apotheken sehr wohl in der Lage, dies zu kalkulieren. In der mündlichen  Verhandlung vor der Vergabekammer machte die Ag ergänzend geltend, über keine  belastbaren statistischen Daten zu den Verwurfsmengen zu verfügen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          86.140625,
+          140.1962890625
+        ],
+        [
+          541.718994140625,
+          140.1962890625
+        ],
+        [
+          541.718994140625,
+          267.1392822265625
+        ],
+        [
+          86.140625,
+          267.1392822265625
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        140.1962890625,
+        541.718994140625,
+        267.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Der ASt ist antragsgemäß Akteneinsicht in dem nach § 111 Abs. 2 GWB zulässigen Umfang  gewährt worden. In der mündlichen Verhandlung am 27. September 2011 hatten die Verfahrensbeteiligten Gelegenheit, ihre Ausführungen zu ergänzen und zu vertiefen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.94400024414062,
+          293.548828125
+        ],
+        [
+          541.4302368164062,
+          293.548828125
+        ],
+        [
+          541.4302368164062,
+          343.00927734375
+        ],
+        [
+          70.94400024414062,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        293.548828125,
+        541.4302368164062,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die  Vergabeakten, soweit sie der Vergabekammer vorgelegen haben, wird ergänzend Bezug  genommen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.94400024414062,
+          369.8892822265625
+        ],
+        [
+          541.4559326171875,
+          369.8892822265625
+        ],
+        [
+          541.4559326171875,
+          418.9692687988281
+        ],
+        [
+          70.94400024414062,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        369.8892822265625,
+        541.4559326171875,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 109,
+      "polygon": [
+        [
+          298.0,
+          445.7292785644531
+        ],
+        [
+          309.35528564453125,
+          445.7292785644531
+        ],
+        [
+          309.35528564453125,
+          456.769287109375
+        ],
+        [
+          298.0,
+          456.769287109375
+        ]
+      ],
+      "bbox": [
+        298.0,
+        445.7292785644531,
+        309.35528564453125,
+        456.769287109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig, in der Sache aber unbegründet.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          483.7892761230469
+        ],
+        [
+          409.1955871582031,
+          483.7892761230469
+        ],
+        [
+          409.1955871582031,
+          494.82928466796875
+        ],
+        [
+          69.84375,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        483.7892761230469,
+        409.1955871582031,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Bedenken hinsichtlich der Zulässigkeit des Nachprüfungsantrags bestehen nicht. Insbesondere ist die ASt gemäß § 107 Abs. 2 GWB antragsbefugt. Die Antragsbefugnis setzt  neben dem Interesse des Bieters am Auftrag eine Verletzung in seinen Rechten nach § 97 Abs.  7 GWB durch die Nichtbeachtung bieterschützender Vergabevorschriften voraus. Ein Interesse  am Auftrag wird im Regelfall durch die Abgabe eines Angebots dokumentiert. Aber auch ohne  die Abgabe eines Angebots kann ein Interesse am Auftrag bestehen, wenn der Bieter schlüssig  geltend macht, aufgrund gewichtiger Vergaberechtsverstöße kein Angebot abgeben zu können  (vgl. etwa Dicks in Ziekow/Völlink, Vergaberecht, 1. Aufl. (2011), § 107 Rn. 12 ff. m.w.N.). So  liegt es hier. Die ASt trägt vor, Angebote für alle Lose abgeben zu wollen. An der Abgabe eines  Angebotes sehe sie sich aber aufgrund der von ihr geltend gemachten Verstöße gegen § 8 Abs.  1 VOL/A-EG gehindert. Damit ist die Antragsbefugnis gegeben. Ihrer Obliegenheit zur  unverzüglichen Rüge gemäß § 107 Abs. 3 Satz 1 GWB hat die ASt entsprochen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          517.205078125
+        ],
+        [
+          541.750244140625,
+          517.205078125
+        ],
+        [
+          541.750244140625,
+          741.4592895507812
+        ],
+        [
+          69.84375,
+          741.4592895507812
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        517.205078125,
+        541.750244140625,
+        741.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist zurückzuweisen. Diejenigen Vorgaben der Ausschreibung,  welche die ASt streitig stellt und aus denen sie die fehlende Kalkulierbarkeit herleitet, sind am  Maßstab von § 8 Abs. 1 VOL/A-EG zu messen. Danach muss die Leistung eindeutig und  erschöpfend beschrieben werden, so dass alle Bewerber sie im gleichen Sinne verstehen  können. Ziel der Vorgaben ist dabei, wie die Vorschrift ebenfalls ausdrücklich deutlich macht,  dass im Ergebnis miteinander vergleichbare Angebote erwartet werden können. Die  Ausschreibungsbestimmungen der Ag entsprechen diesen rechtlichen Vorgaben.</li><li block-type=\"ListItem\">a. Die ASt beanstandet grundlegend, dass die Ag einerseits Exklusivität verspreche, diese  andererseits aber einmal aufgrund des Apothekenwahlrechts des Patienten sowie des  Weiteren aufgrund der ablehnenden Haltung der Ärzte, wie sie im Schreiben des Verbandes  vom 12. September 2011 deutlich werde, nicht gewährleisten könne. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa. Entgegen der Darstellung der ASt bedeutet \"Exklusivität\" im Sinne von § 3 Abs. 1  VertragE nicht, dass die Versicherten der Ag – soweit sie über die 19 Betriebsstätten  durch die streitgegenständliche Ausschreibung erfasst werden - ausnahmslos, also zu  100 % durch den jeweiligen Ausschreibungsgewinner versorgt werden. Dies wird einmal  unmissverständlich deutlich durch den Klammerzusatz in § 3 Abs. 1 Satz 1 VertragE, wo  in Bezug auf die exklusive Verantwortlichkeit des Auftragnehmers ausdrücklich auf § 4  VertragE verwiesen wird. Die Exklusivität besteht danach in dem Umfang, wie sie in § 4  VertragE definiert wird. Nach § 4 Abs. 1 VertragE verpflichtet sich die Ag, die  Durchsetzung des Vertrags durch aktive Information der Betriebsstätten zu befördern  und – so Abs. 4 - Rezepturen, die in den fraglichen Gebietslosen von anderen  Apotheken etc. als dem jeweiligen Ausschreibungsgewinner angefertigt werden, von der  Erstattung auszuschließen. Die Ag weist hier ausdrücklich auch auf die Wahlfreiheit der  Versicherten in Bezug auf die Apotheke hin; macht der Versicherte von seiner  Wahlfreiheit Gebrauch, indem er selbst das Rezept in der Apotheke einreicht, so erfolgt  in diesem Fall stets die Abrechnung durch die Ag, auch wenn es sich nicht um die ausschreibungsgewinnende Apotheke handelt. Die Ag gibt mit diesem Hinweis auf das  Wahlrecht des Patienten die geltende Rechtslage - § 31 Abs. 1 S. 5 SGB V - korrekt  wieder; diese von der ASt skizzierte Rechtslage ist mithin auch auf Seiten der Ag  unstreitig und soll weder durch den streitgegenständlichen Vertrag abgeändert werden noch wird sie tatsächlich hierdurch abgeändert. § 4 Abs. 2 VertragE besagt  ausdrücklich, dass die Ag keine Garantie für den Umfang der Abforderung der</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          68.6796875,
+          120.4619140625
+        ],
+        [
+          541.7391967773438,
+          120.4619140625
+        ],
+        [
+          541.7391967773438,
+          747.4552917480469
+        ],
+        [
+          68.6796875,
+          747.4552917480469
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        120.4619140625,
+        541.7391967773438,
+        747.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          292.25,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        80.58203125,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vertragsgegenständlichen Rezepturen durch die verordnenden Ärzte übernimmt, enthält  also gerade keine Zusage einer 100 %-Versorgung.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          103.6015625,
+          120.873046875
+        ],
+        [
+          541.7171020507812,
+          120.873046875
+        ],
+        [
+          541.7171020507812,
+          153.25927734375
+        ],
+        [
+          103.6015625,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        120.873046875,
+        541.7171020507812,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Vorgaben, welche die Ag aufgestellt hat, machen bereits unmissverständlich klar,  dass unter \"Exklusivität\" nicht eine 100%-Versorgung, sondern vielmehr der Abschluss  eines Vertrages lediglich mit einer Apotheke pro Los als Vertragspartner gemeint ist,  also das sog. \"Ein-Partner-Modell\" im Gegensatz zum sog. \"Mehr-Partner-Modell\",  welches nach § 4 VOL/A-EG grundsätzlich ebenfalls zulässig ist. Zusätzlich zu der  Eindeutigkeit der Vorgaben ist hier zu berücksichtigen, dass ein öffentlicher  Auftraggeber bei Abfassung der Vergabeunterlagen vom objektiven Empfängerhorizont  ausgehen darf, der geprägt wird durch die Ausschreibungsadressaten, vorliegend also  die Apotheken als sachkundige Einrichtungen. Es ist davon auszugehen, dass die Apotheken mit dem Gesamtkomplex \"Verträge zwischen gesetzlichen Krankenkassen  und Leistungserbringern\" in höchstem Maße vertraut sind, da die Apotheken z.B. die  gesetzliche Substitution nach § 129 SGB V bei Rabattverträgen über Generika  durchzuführen haben. Sämtliche Fragestellungen in diesem Zusammenhang, wie  beispielsweise das Ein-Partner- im Gegensatz zum Mehr-Partner-Modell sowie  Fragestellungen der Umsetzungsquoten von Rabattverträgen und deren Ursachen  stellen sich alltäglich in jeder Apotheke. Der Abschluss derartiger Verträge sowie daraus  resultierende Fragestellungen – wie z.B. die fehlende Lieferfähigkeit von  ausschreibungsgewinnenden pharmazeutischen Herstellern bei Beginn des  Rabattvertrags - ist Gegenstand der Berichterstattung in pharmazeutischen  Fachzeitschriften, wie der Vergabekammer amtsbekannt ist. Auch wenn der vorliegende  Vertrag nach § 129 Abs. 5 S. 3 SGB V keinen Rabattvertrag über generische Wirkstoffe  darstellt, so ergeben sich hier parallele Fragestellungen aus einem den Apotheken  durchaus bekannten Rechtsrahmen. Von einer entsprechenden Fachkunde und einem  entsprechend geschulten Vorverständnis des Adressatenkreises der Ausschreibung  durfte die Ag ausgehen. Die Vorgaben sind gerade vor diesem Hintergrund eindeutig in  dem Sinne, dass \"Exklusivität\" das Ein-Partner-Modell meint, gestützt durch die Ag in  dem in § 4 VertragE vorgesehen Umfang zur positiven Beeinflussung der  Umsetzungsquote.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          103.6015625,
+          167.1793212890625
+        ],
+        [
+          541.7305297851562,
+          167.1793212890625
+        ],
+        [
+          541.7305297851562,
+          690.703125
+        ],
+        [
+          103.6015625,
+          690.703125
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        167.1793212890625,
+        541.7305297851562,
+        690.703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">bb. Es bleibt die Unsicherheit über die Umsetzungsquote. Der ASt ist zuzugeben, dass  vorliegend eine Unterstützung der Durchsetzung des Vertrags durch den Gesetzgeber  anders als bei den Rabattverträgen über Generika und der diesbezüglich in § 129 Abs. 1  SGB V verankerten Substitutionsverpflichtung nicht gegeben ist, sondern dass sich im</p>",
+      "page": 141,
+      "polygon": [
+        [
+          84.9765625,
+          704.4992828369141
+        ],
+        [
+          541.7333984375,
+          704.4992828369141
+        ],
+        [
+          541.7333984375,
+          773.751953125
+        ],
+        [
+          84.9765625,
+          773.751953125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        704.4992828369141,
+        541.7333984375,
+        773.751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegenteil das gesetzlich garantierte Recht des Versicherten, eine Apotheke seiner Wahl  zu beauftragen, kontraproduktiv auf die Durchsetzungsquote auswirkt. Festzustellen ist  ebenfalls, dass Rahmenverträge nach SGB V aufgrund der verschiedenen beteiligten  Akteure mit größeren Unwägbarkeiten belastet sind als Rahmenverträge in anderen  Bereichen (ausführlich hierzu bereits 3. Vergabekammer des Bundes, Beschluss vom  23. Januar 2009, VK 3-194/08). Diese Rahmenbedingungen verpflichten einen  öffentlichen Auftraggeber in diesem Bereich umso mehr, den Bietern alle  kalkulationsrelevanten Fakten an die Hand zu geben, um den Vorgaben von § 8 Abs. 1  VOL/A-EG zu entsprechen. Dies kann aber nur gelten, soweit diese Fakten auch  tatsächlich verfügbar sind. Verfügbar sind die Verordnungszahlen zu Lasten der Ag in  den einzelnen Losen im Referenzzeitraum April 2010 bis März 2011, welche die Ag  auch gemäß Ziffer 5 der Leistungsbeschreibung i.V.m. den Preisblättern (Anlage 3 zur  Ausschreibung) den Bietern mitgeteilt hat. In Bezug auf die Umsetzungsquote ist die  Verfügbarkeit der Angaben derzeit jedoch nicht gegeben, da die vorliegende  Ausschreibung die erste der Ag nach § 129 Abs. 5 S. 3 SGB V ist. Die Ag hat somit  keine Erfahrungswerte, wie viele Versicherte von ihrem Wahlrecht Gebrauch machen  werden oder ob es Ärzte geben wird, die den Vertrag nicht akzeptieren und andere  Apotheken als den jeweiligen Ausschreibungsgewinner beauftragen werden. Das  gesetzgeberische Anliegen von § 129 Abs. 5 S. 3 SGB V, im Sinne einer Realisierung  von Einsparpotentialen Verträge über Zytostatika zu ermöglichen, würde im Ansatz  ausgehebelt, wenn man einer gesetzlichen Kasse bereits bei der ersten Ausschreibung  dieser Art abverlangen würde, Angaben über die Umsetzungsquote machen zu müssen,  um den Vorgaben von § 8 Abs. 1 VOL/A-EG zu entsprechen. Angaben über die  Umsetzungsquote können sich nur aus Erfahrung ableiten, nicht aber abstrakt vorgegeben werden. Spekulationen des Auftraggebers sind aber von vornherein  ungeeignet, im Sinne von § 8 Abs. 1 VOL/A-EG zu einer Eindeutigkeit der  Leistungsbeschreibung beizutragen. Auch wenn nicht zu verkennen ist, dass die Bieter  hier mit einer gewissen Kalkulationsunsicherheit konfrontiert sind, so hat der  Gesetzgeber dies mit der Regelung in § 129 Abs. 5 S. 3 SGB V zumindest für die erste  Ausschreibung dieser Art durch die jeweilige Kasse, hier die Ag, den Bietern auferlegt. Sobald die Ag jedoch im Rahmen von nachfolgenden Ausschreibungen über  Erfahrungswerte aus der vorliegenden Ausschreibung bezüglich der Umsetzungsquote  verfügen wird, ist sie verpflichtet, den Bietern die entsprechenden Informationen auch  tatsächlich zur Verfügung zu stellen.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          103.6015625,
+          121.6953125
+        ],
+        [
+          541.7535400390625,
+          121.6953125
+        ],
+        [
+          541.7535400390625,
+          760.535285949707
+        ],
+        [
+          103.6015625,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        103.6015625,
+        121.6953125,
+        541.7535400390625,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          292.25,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        80.58203125,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinzu kommt aber ungeachtet vorstehender Erwägungen auch, dass das Risiko, das  sich bezüglich der Umsetzungsquote aus dem Patientenwahlrecht und aus der  Akzeptanz der Ärzte ergibt, rein quantitativ als gering darstellt und die Umsetzung nicht  substantiell in Frage stellen dürfte.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          104.765625,
+          121.2841796875
+        ],
+        [
+          541.7281494140625,
+          121.2841796875
+        ],
+        [
+          541.7281494140625,
+          191.17926025390625
+        ],
+        [
+          104.765625,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        121.2841796875,
+        541.7281494140625,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(1) Was das Patientenwahlrecht anbelangt, so spielt eine Rolle, dass die  Zubereitungen während der Therapie unmittelbar durch den Arzt verabreicht werden. Die Lieferung erfolgt bereits jetzt, also auch ohne den  streitgegenständlichen Vertrag, im Regelfall direkt von der Apotheke an den  bestellenden oder abrufenden Arzt unter \"Umgehung\" des Patienten. Auf  Nachfrage der Vergabekammer hat die ASt in der mündlichen Verhandlung  bestätigt, dass insbesondere Sicherheitsgründe ursächlich für die Direktlieferung  zwischen Apotheke und behandelndem Arzt sind. Denn bei einem Teil der  Zytostatika-Zubereitungen handelt es sich um hochtoxische Stoffe; der Umgang  hiermit erfordert die Einhaltung und Beachtung besonderer  Sicherheitsvorkehrungen. Dementsprechend müssen die Bieter in der den  Verdingungsunterlagen beigefügten \"Eigenerklärung\" erklären, dass sie</p>",
+      "page": 143,
+      "polygon": [
+        [
+          118.73437499999999,
+          205.09930419921875
+        ],
+        [
+          541.7333984375,
+          205.09930419921875
+        ],
+        [
+          541.7333984375,
+          425.111328125
+        ],
+        [
+          118.73437499999999,
+          425.111328125
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        205.09930419921875,
+        541.7333984375,
+        425.111328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\" im Falle der teilweisen oder vollständigen Herst</i><i>ellung parenteraler Zubereitungen von </i> <i>der zuständigen Behörde zur Herstellung patientenindividueller parenteraler </i> <i>Zubereitungen (z.B. Zytostatika und monoklonale Antikörper) nicht beanstandete </i> <i>Betriebsräume betreibe(n) und .....im Falle der Zuschlagserteilung die in den Leitlinien </i> <i>der Bundesapothekerkammer (BAK) zur \"Prüfung und Lagerung der Primärpackmittel\" </i> <i>sowie zur \"aseptischen Herstellung und Prüfung applikationsfertiger Parenteralia mit </i> <i>toxischem Potential\" inklusive der zugehörigen Kommentare normier</i><i>ten Kriterien in </i> <i>Bezug auf die H</i><i>erstellung beachten und einhalten werden\".</i></p>",
+      "page": 143,
+      "polygon": [
+        [
+          145.5078125,
+          437.4453125
+        ],
+        [
+          541.3372802734375,
+          437.4453125
+        ],
+        [
+          541.3372802734375,
+          569.3713684082031
+        ],
+        [
+          145.5078125,
+          569.3713684082031
+        ]
+      ],
+      "bbox": [
+        145.5078125,
+        437.4453125,
+        541.3372802734375,
+        569.3713684082031
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinzu kommt, dass die Zytostatika teilweise selbst gekühlt nur sehr kurz haltbar  sind. In einer Bieterinformation vom 13. September 2011 (Frage 3) wird z.B. am  Beispiel des Wirkstoffs Melphalan darauf hingewiesen, dass zwischen dem  Anbruch und dem Ende der Infusion maximal 1,5 Stunden liegen dürfen. Aus  diesen Gründen erlaubt auch § 11 Abs. 2 ApoG für Zytostatikazubereitungen als  Ausnahme von dem in Abs. 1 normierten Grundsatz eine unmittelbare Abgabe  der anwendungsfertigen Zubereitung von der Apotheke an den Arzt.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          140.8515625,
+          582.1640625
+        ],
+        [
+          541.721923828125,
+          582.1640625
+        ],
+        [
+          541.721923828125,
+          707.7392883300781
+        ],
+        [
+          140.8515625,
+          707.7392883300781
+        ]
+      ],
+      "bbox": [
+        140.8515625,
+        582.1640625,
+        541.721923828125,
+        707.7392883300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Hieraus wird deutlich, dass das Apotheken-Wahlrecht der Versicherten im Falle  der streitgegenständlichen Zytostatika faktisch weitgehend leerlaufen dürfte. Der  Versicherte bekommt die Arzneimittel ohnehin nicht ausgehändigt und die</p>",
+      "page": 143,
+      "polygon": [
+        [
+          140.8515625,
+          718.2490234375
+        ],
+        [
+          541.7424926757812,
+          718.2490234375
+        ],
+        [
+          541.7424926757812,
+          770.7352828979492
+        ],
+        [
+          140.8515625,
+          770.7352828979492
+        ]
+      ],
+      "bbox": [
+        140.8515625,
+        718.2490234375,
+        541.7424926757812,
+        770.7352828979492
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 136,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">unmittelbare Abwicklung zwischen Arzt und Apotheke stellt für den Patienten  eine verfahrenstechnische Erleichterung dar. Es wird vor diesem Hintergrund  wenige Versicherte geben, die auf der Aushändigung des Rezepts und auf  eigene Einreichung bei einer Apotheke ihrer Wahl bestehen. Aus Sicht des  Patienten dürfte sich die Verabreichung der Fertigarzneimittel in der  onkologischen Praxis in rein tatsächlicher Hinsicht und ohne Detailkenntnis über  die Hintergründe vielmehr dem Sprechstundenbedarf vergleichbar als vom Arzt  bereitgestellt darstellen.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          140.8515625,
+          121.6953125
+        ],
+        [
+          541.718017578125,
+          121.6953125
+        ],
+        [
+          541.718017578125,
+          267.1392822265625
+        ],
+        [
+          140.8515625,
+          267.1392822265625
+        ]
+      ],
+      "bbox": [
+        140.8515625,
+        121.6953125,
+        541.718017578125,
+        267.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(2) Was die Akzeptanz des Vertrags durch die Ärzte in dem Sinn, dass sie beim  Ausschreibungsgewinner ordern, anbelangt, so verhält es sich ähnlich wie beim  Apothekenwahlrecht des Patienten. Da es keine wie auch immer geartete  Substitution gibt, hängt die Durchsetzungsquote ausschließlich davon ab, in  welchem Umfang die Ärzte, also die Betriebsstätten, tatsächlich beim  Ausschreibungsgewinner bestellen. Allerdings kommt es bei der diesbezüglichen  Prognose des Ärzteverhaltens weniger auf deren Bewertung des von der Ag  geplanten Vertragsschlusses an. Auch wenn die Betriebsstätten den Vertrag nicht  billigen sollten, so unterliegen sie in ihrem Verordnungsverhalten dem  sozialrechtlichen Wirtschaftlichkeitsgrundsatz. Es ist nicht davon auszugehen,  dass die Ärzte unter Missachtung dieses Grundsatzes und der diesbezüglichen  Überprüfungsmöglichkeiten (mit möglicher Sanktionsfolge bei unwirtschaftlicher  Verschreibungszuweisung) von Apotheken beziehen werden, die nicht  Vertragspartner der Ag sind. Es ist vielmehr davon auszugehen, dass die  Beteiligten sich in den vom SGB V vorgegebenen Pflichtenverhältnissen  rechtstreu verhalten werden. Die Ag hat darüber hinaus ihrerseits in § 4 Abs. 4  VertragE Maßnahmen vorgesehen, welche eine \"Scharfstellung\" des Vertrags  bewirken, indem die Abrechnung mit Nicht-Ausschreibungsgewinnern und die  Erstattung an diese abgelehnt wird (vgl. LSG Nordrhein-Westfalen, Beschluss  vom 22.7.2010, L 21 SF 152/10 Verg, zu einer vergleichbar ausgestalteten  Ausschreibung einer anderen Kasse). Beauftragt ein Arzt eine andere Apotheke  als den Ausschreibungsgewinner, so besteht für ihn das Risiko, dass er in  Regress genommen werden könnte.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          120.6199951171875,
+          279.5703125
+        ],
+        [
+          541.7266235351562,
+          279.5703125
+        ],
+        [
+          541.7266235351562,
+          709.5392913818359
+        ],
+        [
+          120.6199951171875,
+          709.5392913818359
+        ]
+      ],
+      "bbox": [
+        120.6199951171875,
+        279.5703125,
+        541.7266235351562,
+        709.5392913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Angesichts dieser Überlegungen führen Apothekenwahlrecht des Patienten und die  von der ASt angeführte fehlende Akzeptanz bei den Ärzten nicht dazu, dass die  hieraus resultierenden Unsicherheiten über die Umsetzungsquote eine nach § 8 Abs.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          118.73437499999999,
+          722.771484375
+        ],
+        [
+          541.5654296875,
+          722.771484375
+        ],
+        [
+          541.5654296875,
+          772.535285949707
+        ],
+        [
+          118.73437499999999,
+          772.535285949707
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        722.771484375,
+        541.5654296875,
+        772.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1 VOL/A-EG uneindeutige Leistungsbeschreibung zur Folge haben; Unsicherheiten  über die Absatzmenge sind Rahmenverträgen nach § 4 VOL/A-EG immanent und  gemeinschaftsrechtlich nach Art. 32 Richtlinie 2004/18/EG auch zulässig. Die Bieter  können verbleibende Unsicherheiten über eine vorsichtige, d.h. nicht zu niedrige  Preiskalkulation, abfangen.</li><li block-type=\"ListItem\">b. Auch wird den Bietern kein ungewöhnliches Wagnis dadurch auferlegt, dass diese im  Rahmen der Angebotskalkulation den Herstellerabgabepreis (ApU-Listenpreis) mit Stand 1. Juli 2011 zugrunde zu legen haben, während für die Abrechnung der Einzelaufträge  der jeweils aktuell in der Lauertaxe hinterlegte ApU-Listenpreis maßgeblich sein soll. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa.§ 8 Abs. 1 VOL/A-EG gebietet, dass der Ag die Leistung so eindeutig und  erschöpfend zu beschreiben hat, dass alle Bieter die Beschreibung im gleichen Sinne  verstehen müssen und dass miteinander vergleichbare Angebote zu erwarten sind.  Die Vorgabe der Ag, dass die Bieter der Angebotskalkulation den ApU-Listenpreis zum 1. Juli 2011 zugrunde legen sollen, stellt sicher, dass alle Bieter miteinander  vergleichbare Angebote abgeben. Ohne eine solche Vorgabe hätte die Gefahr  bestanden, dass Bieter Angebote abgeben, die nicht miteinander vergleichbar sind.  Diese Gefahr macht Bieteranfrage 6 (Stand: 13. September 2011) deutlich:</li></ul></li></ul></p>",
+      "page": 151,
+      "polygon": [
+        [
+          87.98400115966797,
+          122.517578125
+        ],
+        [
+          541.7237548828125,
+          122.517578125
+        ],
+        [
+          541.7237548828125,
+          449.9292907714844
+        ],
+        [
+          87.98400115966797,
+          449.9292907714844
+        ]
+      ],
+      "bbox": [
+        87.98400115966797,
+        122.517578125,
+        541.7237548828125,
+        449.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/7/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>\"</i><i>Frage 6:</i></h2>",
+      "page": 151,
+      "polygon": [
+        [
+          155.693359375,
+          462.5244140625
+        ],
+        [
+          196.4785919189453,
+          462.5244140625
+        ],
+        [
+          196.4785919189453,
+          473.5913391113281
+        ],
+        [
+          155.693359375,
+          473.5913391113281
+        ]
+      ],
+      "bbox": [
+        155.693359375,
+        462.5244140625,
+        196.4785919189453,
+        473.5913391113281
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Zwischen Abgabetermin 27.09. und Bindefrist (24.10.11) liegen zwei Termine für </i> <i>Meldungsmöglichkeit für pharmazeutische Unternehmer für neue Preise in der </i> <i>Lauertaxe (28.09. und 12.10). Sie bezuschlagen nach dem niedrigsten Preis. Jetzt </i> <i>besteht die Möglichkeit, dass sich die Preise für den bundeseinheitlichen </i> <i>Abrechnungspreis ändern und sich damit die Angebote verschiedener Anbieter </i> <i>ändern und man damit in der Bewertung günstigstes Angebot zu einem anderen </i> <i>Ergebnis kommt. Beispiel zur Verdeutlichung..... Wie verfahren Sie in dieser </i> <i>Situation?</i><i>\"</i></p>",
+      "page": 151,
+      "polygon": [
+        [
+          154.8203125,
+          481.17132568359375
+        ],
+        [
+          541.2890625,
+          481.17132568359375
+        ],
+        [
+          541.2890625,
+          571.5313720703125
+        ],
+        [
+          154.8203125,
+          571.5313720703125
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        481.17132568359375,
+        541.2890625,
+        571.5313720703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In ihrer Antwort teilte die Ag - zutreffenderweise - mit, dass die beschriebene  Situation im Rahmen der Angebotswertung ausgeschlossen ist, weil der  Angebotskalkulation ausschließlich der Preisstand vom 1. Juli 2011 zugrunde zu  legen ist.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          118.73437499999999,
+          603.9541015625
+        ],
+        [
+          541.7315063476562,
+          603.9541015625
+        ],
+        [
+          541.7315063476562,
+          672.3392944335938
+        ],
+        [
+          118.73437499999999,
+          672.3392944335938
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        603.9541015625,
+        541.7315063476562,
+        672.3392944335938
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">bb. Dass für die konkrete Einzelabrechnung bei Durchführung des Vertrags  demgegenüber an den aktuellen ApU-Listenpreis angeknüpft werden soll, ist  vergaberechtlich nicht zu beanstanden. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">Zunächst ist darauf hinzuweisen, dass der ASt aus dieser Regelung in der LB nur  dann ein Nachteil erwachsen kann, wenn der ApU-Listenpreis nachträglich im</li></ul></li></ul></p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          686.1806640625
+        ],
+        [
+          541.7276611328125,
+          686.1806640625
+        ],
+        [
+          541.7276611328125,
+          779.1352806091309
+        ],
+        [
+          98.9453125,
+          779.1352806091309
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        686.1806640625,
+        541.7276611328125,
+        779.1352806091309
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 138,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergleich zu dem am 1. Juli 2011 in der Lauer-Taxe hinterlegten ApU-Listenpreis  sinkt. Hebt der pharmazeutische Unternehmer den ApU-Listenpreis dagegen  nachträglich an, erwächst dem Apotheker daraus ein Vorteil, dass der von ihm an die  Ag zu entrichtende fixe prozentuale Abschlag nur bezogen auf den niedrigeren ApU-Listenpreises zum Stand 1. Juli 2011 zu entrichten ist.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          118.73437499999999,
+          122.517578125
+        ],
+        [
+          541.7424926757812,
+          122.517578125
+        ],
+        [
+          541.7424926757812,
+          210.1392822265625
+        ],
+        [
+          118.73437499999999,
+          210.1392822265625
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        122.517578125,
+        541.7424926757812,
+        210.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entscheidend ist aber der Umstand, dass dem Lauerlistenpreis für die Bieter und  deren Kalkulation nur eine sehr eingeschränkte Bedeutung zukommt, da sie ihrerseits  mit den pharmazeutischen Unternehmen in Bezug auf die für die parenteralen  Zubereitungen notwendigen Wirkstoffe individuelle Einkaufspreise vereinbaren, die unabhängig von der Lauerliste sind. In der mündlichen Verhandlung bestand  Übereinstimmung zwischen den Parteien, dass die Ag gerade an diesem individuell  von der Apotheke vereinbarten, im Vergleich zum Lauerlistenpreis günstigeren  Einkaufspreis für die Wirkstoffe partizipieren und hierüber substantielle Einsparungen  realisieren will; das Einsparungspotential für die Ag soll sich über den Wirkstoffpreis,  nicht dagegen über den Zuschlag für die Apothekendienstleistung als solche (also  das Herstellen) realisieren. § 5 Abs. 1 Satz 2, 3 VertragE macht diese  Zusammenhänge auch ganz explizit deutlich. Damit können die Apotheken dem  Risiko von Preisveränderungen durch eigene Preisvereinbarungen mit  pharmazeutischen Unternehmen für die eigene Kalkulation wirksam begegnen (so  bereits LSG Nordrhein-Westfalen, Beschluss vom 22.7.2010, a.a.O., sub II.2.a.bb  (2)).</p>",
+      "page": 138,
+      "polygon": [
+        [
+          118.73437499999999,
+          224.05926513671875
+        ],
+        [
+          541.7293090820312,
+          224.05926513671875
+        ],
+        [
+          541.7293090820312,
+          519.7892761230469
+        ],
+        [
+          118.73437499999999,
+          519.7892761230469
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        224.05926513671875,
+        541.7293090820312,
+        519.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt hat im Übrigen ihre Befürchtung, die Arzneimittelpreise würden nach dem 1.  Juli 2011 sinken, nicht substantiiert begründet. Die ASt macht geltend, dass die  Arzneimittelpreise deutlich sinken werden; dies gelte v.a. für Arzneimittel, deren  Patentschutz während der Laufzeit des Vertrages auslaufen werde. In einem vor der  Vergabekammer des Bundes im Jahr 2010 entschiedenen Fall hat der dortige  Antragsteller hingegen eine andere Preisentwicklung prognostiziert, d.h. teils massive  Preissteigerungen (Vergabekammer des Bundes, Beschluss VK 2 - 20/10; bestätigt  durch LSG Nordrhein-Westfalen, a.a.O.).</p>",
+      "page": 138,
+      "polygon": [
+        [
+          118.73437499999999,
+          533.2392578125
+        ],
+        [
+          541.7161254882812,
+          533.2392578125
+        ],
+        [
+          541.7161254882812,
+          677.6192932128906
+        ],
+        [
+          118.73437499999999,
+          677.6192932128906
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        533.2392578125,
+        541.7161254882812,
+        677.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Ihrer Meinung nach besteht die Gefahr von Preissenkungen insbesondere bei  patentgeschützten Arzneimitteln, deren Patentschutz ausläuft. Die Ag hat  demgegenüber geltend gemacht, dass die Preise der streitgegenständlichen  Arzneimittel weitgehend stabil seien. Der Pressemitteilung des Arzneiverordnungs-Reports 2011 des Wissenschaftlichen Instituts der AOK vom 14. September 2011 ist</p>",
+      "page": 138,
+      "polygon": [
+        [
+          118.73437499999999,
+          689.880859375
+        ],
+        [
+          541.6837158203125,
+          689.880859375
+        ],
+        [
+          541.6837158203125,
+          778.5352821350098
+        ],
+        [
+          118.73437499999999,
+          778.5352821350098
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        689.880859375,
+        541.6837158203125,
+        778.5352821350098
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">zu entnehmen, dass auf dem Generikamarkt die Gesamtumsätze dank der  Rabattverträge um 2,7 Prozent gesunken sind. Demgegenüber seien die Kosten für  patentgeschützte Arzneimittel, die rd. 48 % des Arzneimittelumsatzes ausmachten,  stetig gestiegen. Mit dem zum 1.1. 2011 in Kraft getretenen  Arzneimittelmarktneuordnungsgesetz (AMNOG) sei mit der Nutzenbewertung ein  erster Schritt zur Preiskontrolle neuer Arzneimittel eingeleitet worden.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          118.73437499999999,
+          121.6953125
+        ],
+        [
+          541.59228515625,
+          121.6953125
+        ],
+        [
+          541.59228515625,
+          229.0992431640625
+        ],
+        [
+          118.73437499999999,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        121.6953125,
+        541.59228515625,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dies zugrunde legend ist das Risiko, dass die Preise von patentgeschützten  Arzneimitteln während der Vertragslaufzeit sinken würden, begrenzt. Im Übrigen hat  auch die ASt in der mündlichen Verhandlung vor der Vergabekammer eingeräumt,  dass die Zahl der patentgeschützten Arzneimittel, deren Patentschutz während der  Vertragslaufzeit abläuft, begrenzt ist. Auf Nachfrage der Vergabekammer teilte die  ASt mit, dass nach ihrer Kenntnis der Patentschutz lediglich eines Arzneimittels  (Topotecan) während der Laufzeit des streitgegenständlichen Vertrages auslaufen  wird.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          118.73437499999999,
+          241.3349609375
+        ],
+        [
+          541.7285766601562,
+          241.3349609375
+        ],
+        [
+          541.7285766601562,
+          386.9292907714844
+        ],
+        [
+          118.73437499999999,
+          386.9292907714844
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        241.3349609375,
+        541.7285766601562,
+        386.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinzu kommt, dass die Laufzeit des Vertrages nur ein Jahr beträgt, mit der  Möglichkeit der Verlängerung um ein Jahr. Dies ist ein vergleichsweise kurzer  Zeitraum, der es den Bietern – eher als bei längerfristigen Verträgen – ermöglicht,  mögliche Entwicklungen der Arzneimittelpreise bei der Kalkulation zu antizipieren.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          118.73437499999999,
+          400.0322265625
+        ],
+        [
+          541.689697265625,
+          400.0322265625
+        ],
+        [
+          541.689697265625,
+          468.8892822265625
+        ],
+        [
+          118.73437499999999,
+          468.8892822265625
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        400.0322265625,
+        541.689697265625,
+        468.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zudem hat die Ag den Bietern nunmehr in § 11 Abs. 3 VertragE die Möglichkeit  eingeräumt, den Vertrag zu kündigen, wenn der Auftragnehmer durch Vorlage eines  unabhängigen Gutachters (z.B. eines Wirtschaftsprüfers) den Nachweis erbringen  kann, dass sich die ApU-Listenpreise derart verändert haben, dass das ursprüngliche  Angebot des Auftragnehmers nicht mehr auskömmlich ist. Mit dieser Klausel knüpft  die Ag an § 19 Abs. 6 Satz 2 VOL-A/EG an, wonach auf Angebote, deren Preise in  offenbarem Missverhältnis zur Leistung stehen, der Zuschlag nicht erteilt werden darf.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          118.73437499999999,
+          482.8292541503906
+        ],
+        [
+          544.6090698242188,
+          482.8292541503906
+        ],
+        [
+          544.6090698242188,
+          608.0654296875
+        ],
+        [
+          118.73437499999999,
+          608.0654296875
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        482.8292541503906,
+        544.6090698242188,
+        608.0654296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da nach § 1 Abs. 2 lit. d) VertragE auch die allgemeinen Vertragsbedingungen für die  Ausführungen von Leistungen, Teil B (VOL/B) gelten, haben die Vertragsparteien  daneben die Möglichkeit, die Preisänderungen bzw. eine Vertragsanpassung nach  § 2 Nr. 3 VOL/B bzw. § 313 BGB zu vereinbaren.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          120.6199951171875,
+          620.810546875
+        ],
+        [
+          541.6578369140625,
+          620.810546875
+        ],
+        [
+          541.6578369140625,
+          689.6192932128906
+        ],
+        [
+          120.6199951171875,
+          689.6192932128906
+        ]
+      ],
+      "bbox": [
+        120.6199951171875,
+        620.810546875,
+        541.6578369140625,
+        689.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 169,
+      "polygon": [
+        [
+          292.25,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          80.58203125
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        80.58203125,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/ListGroup/169",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">c. Die Regelung in den Ziffer 9.2 Abs. 6 LB sowie § 5 Abs. 2 VertragE, wonach der  anfallende Verwurf nicht gesondert abgerechnet wird, sondern in den Gesamtpreis mit  einzukalkulieren ist, macht die Leistungsbeschreibung nicht unklar und belastet die  Bieter daher auch nicht mit unzulässigen Kalkulationsrisiken. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa.Zwar wird der sog. \"Verwurf\"  also Teilmengen von Arzneimitteln, die etwa wegen  Ablaufs des Haltbarkeitsdatums oder aus rechtlichen Gründen nicht mehr  weiterverarbeitungsfähig sind - nach der derzeit bestehenden Rechtslage, also ohne  den streitgegenständlichen Vertrag, gesondert abgegolten. Dies ergibt sich aus dem  Vertrag, den der Spitzenverband Bund der Krankenkassen und der Deutsche  Apothekerverband mit Wirkung vom 1. Oktober 2009 über die Preisbildung für Stoffe  und Zubereitungen aus Stoffen (\"Hilfstaxe\") auf Grundlage der §§ 4 und 5  Arzneimittelpreisverordnung (AMPreisV) geschlossen haben. Anlage 3 dieses  Vertrages, die durch eine Ergänzungsvereinbarung mit Wirkung vom 1. Januar 2010  geändert worden ist, enthält Berechnungsgrundlagen für parenterale Lösungen.  Danach ist abrechnungsfähig die je Verordnungsblatt verordnete, nach Milligramm,  Milliliter bemessene Wirkstoffmenge, ggf. zuzüglich eines Verwurfs. Verwurf ist  danach also isoliert als solcher abrechnungsfähig (Hilfstaxe Anlage 3 Teil 1 Ziffer 3.5  i.Vm. Ziffer 3.4). Dabei sind die anfallenden Kosten von derjenigen Krankenkasse zu  tragen, für deren Versicherten die letzte Zubereitung mit dieser Wirkstoffeinheit erfolgte, bevor der Verwurf erforderlich wurde (\"Erläuterungen zu den neuen  Regelungen über die Preisbildung für von der Apotheke hergestellte parenterale  Lösungen\"). Die Tatsache, dass der Verwurf in der Hilfstaxe Anlage 3 einer  gesonderten Regelung im Sinne einer isolierten Abrechenbarkeit zugeführt wurde,  belegt, dass es sich bei den für den Verwurf anfallenden Kosten nicht um in ihrer  Höhe zu vernachlässigende Größen handelt. Im Zusammenhang mit der  vorliegenden Ausschreibung illustriert die Bieteranfrage vom 13. September 2011, Frage 3, die mit dem Verwurf verbundene Problematik. Dort heißt es u.a.:</li></ul></li></ul></p>",
+      "page": 169,
+      "polygon": [
+        [
+          87.98400115966797,
+          121.2841796875
+        ],
+        [
+          541.7290649414062,
+          121.2841796875
+        ],
+        [
+          541.7290649414062,
+          646.6292877197266
+        ],
+        [
+          87.98400115966797,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        87.98400115966797,
+        121.2841796875,
+        541.7290649414062,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Frage 3:</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          128.62890625,
+          653.2900390625
+        ],
+        [
+          170.8876190185547,
+          653.2900390625
+        ],
+        [
+          170.8876190185547,
+          664.3213500976562
+        ],
+        [
+          128.62890625,
+          664.3213500976562
+        ]
+      ],
+      "bbox": [
+        128.62890625,
+        653.2900390625,
+        170.8876190185547,
+        664.3213500976562
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>...</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          130.45999145507812,
+          665.88134765625
+        ],
+        [
+          138.814453125,
+          665.88134765625
+        ],
+        [
+          138.814453125,
+          675.8413391113281
+        ],
+        [
+          130.45999145507812,
+          675.8413391113281
+        ]
+      ],
+      "bbox": [
+        130.45999145507812,
+        665.88134765625,
+        138.814453125,
+        675.8413391113281
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Der Wirkstoff Melphalan wird nur in einer 50mg Packung angeboten. Der Wirkstoff ist selbst </i> <i>gekühlt nur sehr kurz haltbar (Stabilitätsliste bei 2 bis 8 Grad Celsius 24 h, laut Fachinfo </i> <i>zwischen Anbruch und dem Ende der Infusion maximal 1,5 Stunden </i><i>–</i> <i>Infusionszeit 30 </i> <i>Min.). Die Dosierung wird in der Fachinfo mit 15mg/qm Körperoberfläche bzw. 7 mg/qm </i> <i>Körperoberfläche angegeben. Da eine Körperoberfläche von über 3 qm</i> <i>in der Praxis nicht </i> <i>vorkommt (typischerweise &lt; 2 qm) und bei diesem seltenen Stoff nur 57 Hersteller in allen </i> <i>Losen im Jahr 2010 bei </i><i>…</i> <i>Patienten anfielen, sind zwei Therapien an einem Tag sehr </i> <i>unwahrscheinlich. Es entsteht in der Praxis bei jeder Herstellung somit zwangsläufig ein </i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          128.046875,
+          687.8251953125
+        ],
+        [
+          541.3509521484375,
+          687.8251953125
+        ],
+        [
+          541.3509521484375,
+          779.2773475646973
+        ],
+        [
+          128.046875,
+          779.2773475646973
+        ]
+      ],
+      "bbox": [
+        128.046875,
+        687.8251953125,
+        541.3509521484375,
+        779.2773475646973
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><i>a) Ausgangssituation</i></p>",
+      "page": 169,
+      "polygon": [
+        [
+          130.375,
+          676.3134765625
+        ],
+        [
+          223.6656951904297,
+          676.3134765625
+        ],
+        [
+          223.6656951904297,
+          687.3613433837891
+        ],
+        [
+          130.375,
+          687.3613433837891
+        ]
+      ],
+      "bbox": [
+        130.375,
+        676.3134765625,
+        223.6656951904297,
+        687.3613433837891
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 139,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          81.91998291015625
+        ],
+        [
+          317.2820129394531,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.2820129394531,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>erheblicher Verwurf. Die gleiche Problematik stellt sich neben Melphalan (Verwurfsquote: </i> <i>104</i> <i>%</i> <i>) bei anderen Wirkstoffen Pentostatin (Verwurfsquote: 85 %), Azacitidin </i> <i>(Verwurfsquote: 44 %), Temsirolimus (Verwurfsquote: 20 %). Die</i> <i>angegebenen </i> <i>Prozentzahlen beruhen auf Erfahrungswerten. </i></p>",
+      "page": 139,
+      "polygon": [
+        [
+          129.2109375,
+          122.1064453125
+        ],
+        [
+          541.373779296875,
+          122.1064453125
+        ],
+        [
+          541.373779296875,
+          167.4412841796875
+        ],
+        [
+          129.2109375,
+          167.4412841796875
+        ]
+      ],
+      "bbox": [
+        129.2109375,
+        122.1064453125,
+        541.373779296875,
+        167.4412841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>b) Kalkulatorische Berücksichtigung des Verwurfs</i></p>",
+      "page": 139,
+      "polygon": [
+        [
+          129.2109375,
+          179.6650390625
+        ],
+        [
+          350.3828125,
+          179.6650390625
+        ],
+        [
+          350.3828125,
+          190.4813232421875
+        ],
+        [
+          129.2109375,
+          190.4813232421875
+        ]
+      ],
+      "bbox": [
+        129.2109375,
+        179.6650390625,
+        350.3828125,
+        190.4813232421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Bei patentgeschützten Wirkstoffen lassen sich keine Einkaufsvorteile erzielen, die den </i> <i>Verlust kompensieren, der mit dem Verwurf eintritt. Damit stellt sich die Frage, ob diesen </i> <i>Wirkstoffen, anstelle eines Abschlages, rein rechnerisch, Aufschläge kalkuliert werden </i> <i>können, um ein auskömmliches Angebot zu gewährleisten.\"</i></p>",
+      "page": 139,
+      "polygon": [
+        [
+          130.375,
+          191.587890625
+        ],
+        [
+          541.2457275390625,
+          191.587890625
+        ],
+        [
+          541.2457275390625,
+          236.4412841796875
+        ],
+        [
+          130.375,
+          236.4412841796875
+        ]
+      ],
+      "bbox": [
+        130.375,
+        191.587890625,
+        541.2457275390625,
+        236.4412841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus der Bieteranfrage folgt zunächst, dass die Annahme der Ag, Verwurf falle  üblicherweise nur in geringen Mengen an, zwar für sich genommen zutrifft. Da die  streitgegenständlichen Wirkstoffe jedoch zum Teil sehr hochpreisig sind, kann es sich  im Einzelfall um einen nicht zu vernachlässigenden Kostenfaktor handeln. Außerdem  wird aus der Bieteranfrage Nr. 3 deutlich, dass es – anders als von der Ag  vorgetragen (vgl. S. 4, 1. Absatz ihres Schriftsatzes vom 21. September 2011) – ernstlich zweifelhaft ist, ob es \"in erster Linie eine Frage der betrieblichen  Organisation\" ist, ob und in welchem Umfang Verwurf anfällt. Denn wird ein Wirkstoff,  wie das in der Bieteranfrage genannte Melphalan, nur äußerst selten verschrieben,  lässt sich der Anfall von Verwurf kaum vermeiden, wenn der Wirkstoff nur kurze Zeit  haltbar ist.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          118.73437499999999,
+          256.1357421875
+        ],
+        [
+          541.6558837890625,
+          256.1357421875
+        ],
+        [
+          541.6558837890625,
+          457.9692687988281
+        ],
+        [
+          118.73437499999999,
+          457.9692687988281
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        256.1357421875,
+        541.6558837890625,
+        457.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bb.Dennoch führt die Tatsache, dass die Ag in ihren Ausschreibungsunterlagen keine  Angaben zum Umfang des Verwurfs gemacht hat, im Ergebnis nicht dazu, dass ein  Verstoß gegen § 8 Abs. 1 VOL/A-EG vorläge. Das Auftragsvolumen der  Rahmenverträge ist im Sinne von § 4 Abs. 1 S. 2 VOL/A-EG auch ohne gesonderte  Angaben zum Verwurf genau genug umrissen. Es kann daher dahingestellt bleiben,  ob die Ag aus ihren Abrechnungsunterlagen repräsentative Daten über den Umfang  des Verwurfs erhoben hat bzw. ob die Abrechnungsunterlagen den abgerechneten  Verwurf überhaupt erkennen lassen, was zwischen den Parteien umstritten ist: Nach  Angaben der Ag in der mündlichen Verhandlung hat die Ag monatlich insgesamt rd. 5  Mio. Rezepte abzurechnen. Bedingt durch die große Menge würden die Rezepte nur  maschinell ausgewertet. Was den Verwurf anbelange, sei eine maschinelle  Auswertung jedoch nicht möglich, weil es derzeit keine verbindlichen Vorgaben  darüber gebe, welche Angaben die Apotheken bei der Abrechnung gegenüber den  Krankenkassen machten müssten. Die ASt verweist im Gegenzug auf Retaxierungen  durch die Ag in Bezug auf den Verwurf, die nur möglich seien, wenn die Ag auch über  die Verwurfsmengen im Bilde sei.</p>",
+      "page": 139,
+      "polygon": [
+        [
+          106.34000396728516,
+          484.314453125
+        ],
+        [
+          541.7281494140625,
+          484.314453125
+        ],
+        [
+          541.7281494140625,
+          780.5752792358398
+        ],
+        [
+          106.34000396728516,
+          780.5752792358398
+        ]
+      ],
+      "bbox": [
+        106.34000396728516,
+        484.314453125,
+        541.7281494140625,
+        780.5752792358398
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          292.25,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          81.91998291015625
+        ],
+        [
+          317.498046875,
+          93.91998291015625
+        ],
+        [
+          292.25,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        292.25,
+        81.91998291015625,
+        317.498046875,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da Ausschreibungsreife aber nicht erst dann gegeben ist, wenn seitens der Ag Daten  über den abgerechneten Verwurf vorgelegt werden können, bedarf es an dieser  Stelle keiner weiteren Aufklärung. Die besondere Verpflichtung eines öffentlichen  Auftraggebers im sozialrechtlichen Gefüge auf Angabe aller relevanten Daten für die  Kalkulation (s. hierzu bereits oben) erfasst aber nur solche Daten, die tatsächlich  auch kalkulationsrelevant sind. Kalkulationsrelevant ist im vorliegenden  Zusammenhang die Gesamtmenge an Wirkstoffen, die im Vergleichszeitraum in den  19 Betriebsstätten zu Lasten der Ag abgerechnet wurde. Diese Gesamtmengen  werden in den Preisblättern (Anlage 3 zur Ausschreibung) exakt für jeden Wirkstoff  und jede Betriebsstätte ausgewiesen. Diese Gesamtmenge beinhaltet sowohl die  tatsächlich an die Patienten verabreichten Mengen als auch den Verwurf, soweit die  Ag nach der derzeit geltenden Regelung – Abrechnung des Verwurfs zu Lasten der  gesetzlichen Krankenkasse, deren Versicherter als Letzter mit der danach  verworfenen Wirkstoffeinheit behandelt wurde - diesen zu bezahlen hatte. Es ist diese  Gesamtmenge, in Bezug auf welche die Bieter insbesondere ihre Verhandlungen mit  den pharmazeutischen Unternehmern als Zulieferern der Wirkstoffe, vgl. § 5 Abs. 1  VertragE, und damit ihre Kalkulation auszurichten haben. Welcher Anteil von dieser  Gesamtmenge Verwurf ist und welcher beim Patienten angewendet wurde, ist in  diesem Zusammenhang irrelevant, da beides in gleicher Weise bezahlt wurde. Die  Tatsache, dass nicht bei jedem Verwurf ein Patient der Ag \"Letzter\" im Sinne der  derzeitigen Abrechnungsregelung ist und damit nicht jeder anfallende Verwurf der Ag  zugerechnet wurde, sich mithin nicht jeder Verwurf in den im Preisblatt ausgewiesenen Volumen wiederfindet, führt weder dazu, dass das Auftragsvolumen  nicht genau genug definiert wurde, § 4 Abs. 1 S. 2 VOL/A-EG, noch dazu, dass die  Leistungsbeschreibung nicht erschöpfend wäre, § 8 Abs. 1 VOL/A-EG. Es verhält  sich nämlich so, dass ein späterer Auftragnehmer auch zukünftig im Rahmen der  gesetzlichen Bedingungen und insbesondere vor Ablauf des Haltbarkeitszeitpunkts  solche Wirkstoffeinheiten, die er für einen Versicherten der Ag anbricht, in der Folge  auch für Versicherte anderer Kassen wird verwenden können, so dass eine  Verwurfsabrechnung nach der bestehenden Regelung zu Lasten der Kasse des  letzten Patienten vor Verwurf gehen wird. Insofern ist das Auftragsvolumen so genau  wie möglich umrissen; in Ermangelung einer Kalkulationsrelevanz musste die  Aufteilung der in den Preisblättern ausgewiesenen Gesamtwirkstoffmengen auf  verabreichte Mengen und auf Verwurf nicht vorgenommen werden.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          118.73437499999999,
+          121.6953125
+        ],
+        [
+          541.7300415039062,
+          121.6953125
+        ],
+        [
+          541.7300415039062,
+          760.535285949707
+        ],
+        [
+          118.73437499999999,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        121.6953125,
+        541.7300415039062,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- 22 -</p>",
+      "page": 99,
+      "polygon": [
+        [
+          291.888671875,
+          81.91998291015625
+        ],
+        [
+          318.080078125,
+          81.91998291015625
+        ],
+        [
+          318.080078125,
+          93.91998291015625
+        ],
+        [
+          291.888671875,
+          93.91998291015625
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        81.91998291015625,
+        318.080078125,
+        93.91998291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 99,
+      "polygon": [
+        [
+          296.544921875,
+          122.517578125
+        ],
+        [
+          310.9190979003906,
+          122.517578125
+        ],
+        [
+          310.9190979003906,
+          134.17926025390625
+        ],
+        [
+          296.544921875,
+          134.17926025390625
+        ]
+      ],
+      "bbox": [
+        296.544921875,
+        122.517578125,
+        310.9190979003906,
+        134.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 128 Abs. 3 S. 1, Abs. 4 S. 1 GWB i.V.m. § 80 Abs. 2, 3  S. 2 VwVfG .</p>",
+      "page": 99,
+      "polygon": [
+        [
+          70.94400024414062,
+          146.7744140625
+        ],
+        [
+          541.6959228515625,
+          146.7744140625
+        ],
+        [
+          541.6959228515625,
+          178.21929931640625
+        ],
+        [
+          70.94400024414062,
+          178.21929931640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        146.7744140625,
+        541.6959228515625,
+        178.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung eines anwaltlichen Bevollmächtigten durch die Ag war notwendig. Durch den  Nachprüfungsantrag wurden nicht nur einfach gelagerte, auftragsbezogene Sach- und Rechtsfragen aufgeworfen, sondern hierüber hinausgehende nicht einfach gelagerte Rechtsfragen zur  Durchführung des Vergabeverfahrens (vgl. BGH, Beschluss vom 26. September 2006, X ZB  14/06; OLG Düsseldorf, Beschlüsse vom 13. August 2004, VII-Verg 12 und 14/02, vom 25.  Februar 2004, VII-Verg 12/00, und vom 9. August 2001, Verg 1/01). Es ist auch der Aspekt der  Waffengleichheit mit der ebenfalls anwaltlich vertretenen ASt zu berücksichtigen.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          69.84375,
+          204.744140625
+        ],
+        [
+          541.6607055664062,
+          204.744140625
+        ],
+        [
+          541.6607055664062,
+          331.373046875
+        ],
+        [
+          69.84375,
+          331.373046875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        204.744140625,
+        541.6607055664062,
+        331.373046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 99,
+      "polygon": [
+        [
+          316.916015625,
+          393.4541015625
+        ],
+        [
+          330.9591064453125,
+          393.4541015625
+        ],
+        [
+          330.9591064453125,
+          404.80926513671875
+        ],
+        [
+          316.916015625,
+          404.80926513671875
+        ]
+      ],
+      "bbox": [
+        316.916015625,
+        393.4541015625,
+        330.9591064453125,
+        404.80926513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt, beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf,  einzulegen.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          70.94400024414062,
+          442.37890625
+        ],
+        [
+          541.652099609375,
+          442.37890625
+        ],
+        [
+          541.652099609375,
+          511.8692626953125
+        ],
+        [
+          70.94400024414062,
+          511.8692626953125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        442.37890625,
+        541.652099609375,
+        511.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt. Die Beschwerdeschrift muss durch  einen Rechtsanwalt unterschrieben sein. Dies gilt nicht für Beschwerden von juristischen  Personen des öffentlichen Rechts.</p>",
+      "page": 99,
+      "polygon": [
+        [
+          70.94400024414062,
+          550.749267578125
+        ],
+        [
+          541.5018920898438,
+          550.749267578125
+        ],
+        [
+          541.5018920898438,
+          656.7092742919922
+        ],
+        [
+          70.94400024414062,
+          656.7092742919922
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        550.749267578125,
+        541.5018920898438,
+        656.7092742919922
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Thiele</p>",
+      "page": 99,
+      "polygon": [
+        [
+          69.26171875,
+          738.8056640625
+        ],
+        [
+          338.3477478027344,
+          738.8056640625
+        ],
+        [
+          338.3477478027344,
+          750.5752868652344
+        ],
+        [
+          69.26171875,
+          750.5752868652344
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        738.8056640625,
+        338.3477478027344,
+        750.5752868652344
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 99,
+      "polygon": [
+        [
+          306.439453125,
+          738.8056640625
+        ],
+        [
+          336.123046875,
+          738.8056640625
+        ],
+        [
+          336.123046875,
+          747.8505859375
+        ],
+        [
+          306.439453125,
+          747.8505859375
+        ]
+      ],
+      "bbox": [
+        306.439453125,
+        738.8056640625,
+        336.123046875,
+        747.8505859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/10",
+        "2": "/page/15/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "18": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "19": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "20": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "21": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

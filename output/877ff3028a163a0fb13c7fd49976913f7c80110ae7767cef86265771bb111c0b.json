@@ -1,0 +1,767 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Auditorat </b></h2>",
+      "page": 123,
+      "polygon": [
+        [
+          265.115234375,
+          96.6162109375
+        ],
+        [
+          332.6393737792969,
+          96.6162109375
+        ],
+        [
+          332.6393737792969,
+          110.95037841796875
+        ],
+        [
+          265.115234375,
+          110.95037841796875
+        ]
+      ],
+      "bbox": [
+        265.115234375,
+        96.6162109375,
+        332.6393737792969,
+        110.95037841796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Décision n° 2009-P/K-20-AUD du 10 septembre 2009 </b></h1>",
+      "page": 123,
+      "polygon": [
+        [
+          124.55468749999999,
+          124.162109375
+        ],
+        [
+          473.9311218261719,
+          124.162109375
+        ],
+        [
+          473.9311218261719,
+          139.03619384765625
+        ],
+        [
+          124.55468749999999,
+          139.03619384765625
+        ]
+      ],
+      "bbox": [
+        124.55468749999999,
+        124.162109375,
+        473.9311218261719,
+        139.03619384765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Affaire CONC-I/O-96/0013 : Union Professionnelle de la Radio et de la </i> <i>Télédistribution (RTD) c/ RTBF, BRTN, NOS, TF1, FR2, FR3, ARD, ZDF, TVI, </i> <i>BBC, RTL+, ARTE, et ITV </i></h3>",
+      "page": 123,
+      "polygon": [
+        [
+          83.27998352050781,
+          158.2861328125
+        ],
+        [
+          515.52001953125,
+          158.2861328125
+        ],
+        [
+          515.52001953125,
+          198.408447265625
+        ],
+        [
+          83.27998352050781,
+          198.408447265625
+        ]
+      ],
+      "bbox": [
+        83.27998352050781,
+        158.2861328125,
+        515.52001953125,
+        198.408447265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4>I. Procédure</h4>",
+      "page": 123,
+      "polygon": [
+        [
+          69.552734375,
+          224.0673828125
+        ],
+        [
+          165.66598510742188,
+          224.0673828125
+        ],
+        [
+          165.66598510742188,
+          236.1484375
+        ],
+        [
+          69.552734375,
+          236.1484375
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        224.0673828125,
+        165.66598510742188,
+        236.1484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le 18 juin 1996, l'Union Professionnelle de la Radio et de la Télédistribution a déposé plainte  contre :</p>",
+      "page": 123,
+      "polygon": [
+        [
+          95.453125,
+          250.3798828125
+        ],
+        [
+          527.177490234375,
+          250.3798828125
+        ],
+        [
+          527.177490234375,
+          275.684814453125
+        ],
+        [
+          95.453125,
+          275.684814453125
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        250.3798828125,
+        527.177490234375,
+        275.684814453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/123",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. la Radio-Télévision belge de la Communauté française, en abrégé « RTBF »</li><li block-type=\"ListItem\">2. la Belgische Radio-en Televisie van de Nederlandse gemeenschap, en abrégé « BRTN »</li><li block-type=\"ListItem\">3. Nederlandse Omroep Stichting , en abrégé « NOS »</li><li block-type=\"ListItem\">4. la société anonyme de droit français Télévision Française 1, en abrégé « TF1 »</li><li block-type=\"ListItem\">5. la société anonyme de droit français France Télévision 2, en abrégé « FR2 »</li><li block-type=\"ListItem\">6. la société anonyme de droit français France Télévision 3, en abrégé « FR3 »</li><li block-type=\"ListItem\">7. l'institut de droit public allemand ARD</li><li block-type=\"ListItem\">8. l'institut de droit public allemand Zweiter Deutscher Fernsehen, en abrégé « ZDF »</li><li block-type=\"ListItem\">9. la société de droit belge, TVI S.A.</li><li block-type=\"ListItem\">10. la société par actions de droit britannique BBC Worldwide Ltd, en abrégé « BBC »</li><li block-type=\"ListItem\">11. la société en commandite simple de droit allemand RTL Plus Deutschland, en abrégé  « RTL+ »</li><li block-type=\"ListItem\">12. l'Association Relative à la Télévision Européenne G.E.I.E., en abrégé « ARTE »</li><li block-type=\"ListItem\">13. la société par actions de droit britannique Independent Television Association, en abrégé  « ITV »</li></ul></p>",
+      "page": 123,
+      "polygon": [
+        [
+          95.453125,
+          284.50390625
+        ],
+        [
+          527.2027587890625,
+          284.50390625
+        ],
+        [
+          527.2027587890625,
+          562.4054565429688
+        ],
+        [
+          95.453125,
+          562.4054565429688
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        284.50390625,
+        527.2027587890625,
+        562.4054565429688
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">pour violation de l'article 2 §1 et 3 de la loi du 5 août 1991. Le secteur concerné est celui de la  câblodistribution.</p>",
+      "page": 123,
+      "polygon": [
+        [
+          97.78125,
+          571.0634765625
+        ],
+        [
+          527.1500854492188,
+          571.0634765625
+        ],
+        [
+          527.1500854492188,
+          596.1909027099609
+        ],
+        [
+          97.78125,
+          596.1909027099609
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        571.0634765625,
+        527.1500854492188,
+        596.1909027099609
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cette plainte a été enregistrée sous le numéro CONC-I/O-96/0013.</p>",
+      "page": 123,
+      "polygon": [
+        [
+          96.6171875,
+          605.1286315917969
+        ],
+        [
+          394.24163818359375,
+          605.1286315917969
+        ],
+        [
+          394.24163818359375,
+          616.2880859375
+        ],
+        [
+          96.6171875,
+          616.2880859375
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        605.1286315917969,
+        394.24163818359375,
+        616.2880859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/20",
+      "block_type": "SectionHeader",
+      "html": "<h4>II. Prescription</h4>",
+      "page": 123,
+      "polygon": [
+        [
+          69.26171875,
+          651.0485076904297
+        ],
+        [
+          173.60400390625,
+          651.0485076904297
+        ],
+        [
+          173.60400390625,
+          663.0485076904297
+        ],
+        [
+          69.26171875,
+          663.0485076904297
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        651.0485076904297,
+        173.60400390625,
+        663.0485076904297
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le 1er octobre 2006, la loi sur la protection de la concurrence économique, coordonnée le 15  septembre 2006 (M.B. du 29 septembre 2006, ci-après LPCE) est entrée en vigueur. L'article 94  § 2 de la LPCE prévoit que les actes de procédure effectués conformément à la loi sur la  protection de la concurrence économique, coordonnée le 1er juillet 1999 (ci-après ancienne loi)  continuent à produire leurs effets pour l'application de la LPCE.</p>",
+      "page": 123,
+      "polygon": [
+        [
+          95.453125,
+          675.8894653320312
+        ],
+        [
+          527.2531127929688,
+          675.8894653320312
+        ],
+        [
+          527.2531127929688,
+          744.3447875976562
+        ],
+        [
+          95.453125,
+          744.3447875976562
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        675.8894653320312,
+        527.2531127929688,
+        744.3447875976562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">L'article 88 § 1er de la LPCE (art. 48 de l'ancienne loi) stipule que l'instruction ne peut porter  que sur des faits ne remontant pas à plus de cinq ans. Ce délai se compte à partir de la date de la  décision de l'Auditorat de procéder à une instruction d'office ou de la date de la saisine de  l'Auditorat conformément à l'article 44 § 1er.</p>",
+      "page": 69,
+      "polygon": [
+        [
+          97.78125,
+          66.34942626953125
+        ],
+        [
+          527.20458984375,
+          66.34942626953125
+        ],
+        [
+          527.20458984375,
+          120.873046875
+        ],
+        [
+          97.78125,
+          120.873046875
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        66.34942626953125,
+        527.20458984375,
+        120.873046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">L'article 88 § 2 prévoit que le délai de prescription en ce qui concerne la procédure d'instruction  et de décision est de cinq ans à partir de la date visée au § 1er. Le délai de prescription n'est  interrompu que par des actes d'instruction ou de décision faits dans le délai déterminé ci-avant  ou par une demande motivée adressée au Conseil par le plaignant ou le demandeur; ces actes  font courir un nouveau délai d'égale durée.</p>",
+      "page": 69,
+      "polygon": [
+        [
+          95.453125,
+          129.75982666015625
+        ],
+        [
+          527.2464599609375,
+          129.75982666015625
+        ],
+        [
+          527.2464599609375,
+          196.521484375
+        ],
+        [
+          95.453125,
+          196.521484375
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        129.75982666015625,
+        527.2464599609375,
+        196.521484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Il résulte de l'examen du dossier que le dernier acte de procédure date du 25 juillet 1996. Depuis  lors, le délai de prescription n'a pas été interrompu.</p>",
+      "page": 69,
+      "polygon": [
+        [
+          95.453125,
+          204.3330078125
+        ],
+        [
+          527.3715209960938,
+          204.3330078125
+        ],
+        [
+          527.3715209960938,
+          230.2703857421875
+        ],
+        [
+          95.453125,
+          230.2703857421875
+        ]
+      ],
+      "bbox": [
+        95.453125,
+        204.3330078125,
+        527.3715209960938,
+        230.2703857421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Par ces motifs,</p>",
+      "page": 69,
+      "polygon": [
+        [
+          70.91999816894531,
+          263.947265625
+        ],
+        [
+          180.33360290527344,
+          263.947265625
+        ],
+        [
+          180.33360290527344,
+          277.1884765625
+        ],
+        [
+          70.91999816894531,
+          277.1884765625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        263.947265625,
+        180.33360290527344,
+        277.1884765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/0/SectionHeader/2",
+        "4": "/page/0/SectionHeader/20"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>L'Auditorat,</h3>",
+      "page": 69,
+      "polygon": [
+        [
+          70.91999816894531,
+          297.2490234375
+        ],
+        [
+          161.6951904296875,
+          297.2490234375
+        ],
+        [
+          161.6951904296875,
+          309.88848876953125
+        ],
+        [
+          70.91999816894531,
+          309.88848876953125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        297.2490234375,
+        161.6951904296875,
+        309.88848876953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Constate que la prescription est acquise dans l'affaire CONC-I/O-96/0013 et en ordonne le  classement conformément à l'article 45 § 2 de la LPCE.</p>",
+      "page": 69,
+      "polygon": [
+        [
+          97.78125,
+          323.150390625
+        ],
+        [
+          527.17431640625,
+          323.150390625
+        ],
+        [
+          527.17431640625,
+          349.36474609375
+        ],
+        [
+          97.78125,
+          349.36474609375
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        323.150390625,
+        527.17431640625,
+        349.36474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Fait à Bruxelles, le 10 septembre 2009.</p>",
+      "page": 69,
+      "polygon": [
+        [
+          97.78125,
+          377.8310546875
+        ],
+        [
+          273.0191650390625,
+          377.8310546875
+        ],
+        [
+          273.0191650390625,
+          389.2001953125
+        ],
+        [
+          97.78125,
+          389.2001953125
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        377.8310546875,
+        273.0191650390625,
+        389.2001953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pour l'Auditorat,</p>",
+      "page": 69,
+      "polygon": [
+        [
+          96.03515625,
+          418.0556335449219
+        ],
+        [
+          175.7967529296875,
+          418.0556335449219
+        ],
+        [
+          175.7967529296875,
+          429.0356140136719
+        ],
+        [
+          96.03515625,
+          429.0356140136719
+        ]
+      ],
+      "bbox": [
+        96.03515625,
+        418.0556335449219,
+        175.7967529296875,
+        429.0356140136719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Marielle FASSIN Patrick MARCHAND Bert STULENS  Auditeur Auditeur Auditeur général</p>",
+      "page": 69,
+      "polygon": [
+        [
+          96.6171875,
+          537.3505859375
+        ],
+        [
+          496.70147705078125,
+          537.3505859375
+        ],
+        [
+          496.70147705078125,
+          568.4047546386719
+        ],
+        [
+          96.6171875,
+          568.4047546386719
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        537.3505859375,
+        496.70147705078125,
+        568.4047546386719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 69,
+      "polygon": [
+        [
+          518.298828125,
+          794.7197265625
+        ],
+        [
+          524.701171875,
+          794.7197265625
+        ],
+        [
+          524.701171875,
+          805.5949401855469
+        ],
+        [
+          518.298828125,
+          805.5949401855469
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        794.7197265625,
+        524.701171875,
+        805.5949401855469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

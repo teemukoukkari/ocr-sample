@@ -1,0 +1,166 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 649,
+      "polygon": [
+        [
+          13.654785156250002,
+          16.4453125
+        ],
+        [
+          86.69609069824219,
+          16.4453125
+        ],
+        [
+          86.69609069824219,
+          41.11328125
+        ],
+        [
+          13.654785156250002,
+          41.11328125
+        ]
+      ],
+      "bbox": [
+        13.654785156250002,
+        16.4453125,
+        86.69609069824219,
+        41.11328125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Bestseller's</b> <b>retailagreements</b> <b>covering</b> <b>independent</b> <b>concept</b> <b>stores</b></h2>",
+      "page": 649,
+      "polygon": [
+        [
+          12.783203125000002,
+          57.1474609375
+        ],
+        [
+          579.1709594726562,
+          57.1474609375
+        ],
+        [
+          579.1709594726562,
+          103.04193115234375
+        ],
+        [
+          12.783203125000002,
+          103.04193115234375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        57.1474609375,
+        579.1709594726562,
+        103.04193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Journal nr. 3/1120-0301-0133/vis/SE The Council meeting 27. August 2003</p>",
+      "page": 649,
+      "polygon": [
+        [
+          12.783203125000002,
+          120.4619140625
+        ],
+        [
+          335.3737487792969,
+          120.4619140625
+        ],
+        [
+          335.3737487792969,
+          129.872802734375
+        ],
+        [
+          12.783203125000002,
+          129.872802734375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        120.4619140625,
+        335.3737487792969,
+        129.872802734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/649",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Bestseller Wholesale (Bestseller) notified by letter of 9. may 2001the company's agreements with independent Danish concept stores concerning the following brands: Vero Moda, ONLY, JACK&amp; JONES and EXIT. The agreements covers the concept stores, that exclusively are selling either Vero Moda-, ONLY-, JACK &amp; JONES- or EXIT-items.</li><li block-type=\"ListItem\">2. Bestseller asked for a comfort letter of non-intervention cf. art. 9 in the Danish Competition Act, or subsidiary an exemption according to art. 8 (1), in case a comfort letter could not be issued.</li><li block-type=\"ListItem\">3. The Authority found that the agreements constitute selective distribution agreements containing several elements that restricts competition.</li><li block-type=\"ListItem\">4. The Authority found, that the conditions in the agreements concerning (a) the concept stores obligations to follow recommended prices, (b) Bestsellers fixed prices covering sales between the concept stores internally, and (c) the concept stores obligations to report sales prices and contribution margins for each item to Bestseller through the joint IT-system, constitute a restriction on competition in conflict with art. 6 (1) in the Danish Competition Act.</li><li block-type=\"ListItem\">5. Bestseller informed the Authority, that they were prepared to cancel the obligation to follow recommended prices and the stipulations about Bestsellers dictating prices covering sales between the individual koncept stores. But bestseller was not willing to change the concept stores obligations to report sales prices and contribution margins.</li><li block-type=\"ListItem\">6. It is the opinion af the Authority, that the conditions in the agreements concerning the concept stores obligations to follow the recommended prices, Bestsellers price dictations covering sales between the individual concept stores and the concept stores reporting of sales prices and contribution margins on each item to Bestseller through the joint IT-system do not fulfil the conditions for an individual exemption cf. art. 8 (1) in the Danish Competition Act.</li></ul></p>",
+      "page": 649,
+      "polygon": [
+        [
+          12.783203125000002,
+          142.251953125
+        ],
+        [
+          579.0390625,
+          142.251953125
+        ],
+        [
+          579.0390625,
+          443.9502258300781
+        ],
+        [
+          12.783203125000002,
+          443.9502258300781
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        142.251953125,
+        579.0390625,
+        443.9502258300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

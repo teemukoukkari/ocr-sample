@@ -1,0 +1,3776 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 116,
+      "polygon": [
+        [
+          30.7603515625,
+          30.62939453125
+        ],
+        [
+          167.1302734375,
+          30.62939453125
+        ],
+        [
+          167.1302734375,
+          89.42138671875
+        ],
+        [
+          30.7603515625,
+          89.42138671875
+        ]
+      ],
+      "bbox": [
+        30.7603515625,
+        30.62939453125,
+        167.1302734375,
+        89.42138671875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "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PKtU+sct9Ln6LSy3CPKfaumubkve2t7H0VRRRXsH50FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeCfFb/AJHR/wDrgv8AM1Q+Hf8AyO+n/wC8f5Vf+K3/ACOj/wDXBf5mqHw7/wCR30//AHj/ACrw5f7z8z9To/8AIkX/AF7/AEPoqiiivcPywKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8E+K3/I6P8A9cF/maofDv8A5HfT/wDeP8qv/Fb/AJHR/wDrgv8AM1Q+Hf8AyO+n/wC8f5V4cv8AefmfqdH/AJEi/wCvf6H0VRRRXuH5YFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeCfFb/kdH/64L/M1Q+Hf/I76f8A7x/lV/4rf8jo/wD1wX+Zqh8O/wDkd9P/AN4/yrw5f7z8z9To/wDIkX/Xv9D6Kooor3D8sCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPHfiJ4X1HVfFLXNsIvLMSj5mIPU+1VPBPhLU9O8WWV1OIvLRjnaxJ6fSvQ9d/5CR/3RUWkf8hOH618PUzGssy9lpbmt+J9fDNa6wHsVa3Lb8Dr6KKK+4PkAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDldd/5CR/3RUWkf8AITh+tS67/wAhI/7oqLSP+QnD9a/OKv8AyN/+3/1Pdj/u3yOvooor9HPCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOV13/kJH/dFRaR/yE4frRRX5xV/5G/8A2/8Aqe7H/dvkdfRRRX6OeEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Vergabekammer des Bundes VK 2 – 106/17</p>",
+      "page": 116,
+      "polygon": [
+        [
+          69.84375,
+          126.2177734375
+        ],
+        [
+          225.57408142089844,
+          126.2177734375
+        ],
+        [
+          225.57408142089844,
+          156.499267578125
+        ],
+        [
+          69.84375,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        126.2177734375,
+        225.57408142089844,
+        156.499267578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Beschluss</b></h1>",
+      "page": 116,
+      "polygon": [
+        [
+          274.7300109863281,
+          203.921875
+        ],
+        [
+          334.958984375,
+          203.921875
+        ],
+        [
+          334.958984375,
+          216.6800537109375
+        ],
+        [
+          274.7300109863281,
+          216.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.7300109863281,
+        203.921875,
+        334.958984375,
+        216.6800537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In dem Nachprüfungsverfahren</p>",
+      "page": 116,
+      "polygon": [
+        [
+          70.42578125,
+          261.0693359375
+        ],
+        [
+          222.91796874999997,
+          261.0693359375
+        ],
+        [
+          222.91796874999997,
+          272.29925537109375
+        ],
+        [
+          70.42578125,
+          272.29925537109375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        261.0693359375,
+        222.91796874999997,
+        272.29925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Antragstellerin -</p>",
+      "page": 116,
+      "polygon": [
+        [
+          458.3499755859375,
+          324.529296875
+        ],
+        [
+          542.21630859375,
+          324.529296875
+        ],
+        [
+          542.21630859375,
+          335.8955078125
+        ],
+        [
+          458.3499755859375,
+          335.8955078125
+        ]
+      ],
+      "bbox": [
+        458.3499755859375,
+        324.529296875,
+        542.21630859375,
+        335.8955078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gegen</p>",
+      "page": 116,
+      "polygon": [
+        [
+          173.736328125,
+          362.44927978515625
+        ],
+        [
+          204.99777221679688,
+          362.44927978515625
+        ],
+        [
+          204.99777221679688,
+          373.4892883300781
+        ],
+        [
+          173.736328125,
+          373.4892883300781
+        ]
+      ],
+      "bbox": [
+        173.736328125,
+        362.44927978515625,
+        204.99777221679688,
+        373.4892883300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Antragsgegner -</p>",
+      "page": 116,
+      "polygon": [
+        [
+          444.9100036621094,
+          413.08929443359375
+        ],
+        [
+          546.52734375,
+          413.08929443359375
+        ],
+        [
+          546.52734375,
+          424.1293029785156
+        ],
+        [
+          444.9100036621094,
+          424.1293029785156
+        ]
+      ],
+      "bbox": [
+        444.9100036621094,
+        413.08929443359375,
+        546.52734375,
+        424.1293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Beigeladene -</p>",
+      "page": 116,
+      "polygon": [
+        [
+          471.2200012207031,
+          465.5492858886719
+        ],
+        [
+          545.9363403320312,
+          465.5492858886719
+        ],
+        [
+          545.9363403320312,
+          476.58929443359375
+        ],
+        [
+          471.2200012207031,
+          476.58929443359375
+        ]
+      ],
+      "bbox": [
+        471.2200012207031,
+        465.5492858886719,
+        545.9363403320312,
+        476.58929443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe [...] hat die 2. Vergabekammer des Bundes durch die Vorsitzende Direktorin  beim Bundeskartellamt Dr. Herlemann, den hauptamtlichen Beisitzer Regierungsdirektor Zeise und den ehrenamtlichen Beisitzer Schlüter auf die mündliche Verhandlung vom 5. Oktober 2017  am 18. Oktober 2017 beschlossen:</p>",
+      "page": 116,
+      "polygon": [
+        [
+          69.84375,
+          507.06927490234375
+        ],
+        [
+          541.6686401367188,
+          507.06927490234375
+        ],
+        [
+          541.6686401367188,
+          572.1092834472656
+        ],
+        [
+          69.84375,
+          572.1092834472656
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        507.06927490234375,
+        541.6686401367188,
+        572.1092834472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/116",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Dem Antragsgegner wird untersagt, auf der Grundlage der Transparenzbekanntmachung  vom 23. August 2017 […] einen Zuschlag zugunsten der Beigeladenen zu erteilen. Ihm  wird bei fortbestehender Beschaffungsabsicht aufgegeben, das Vergabeverfahren in den  Stand vor Markterkundung zurückzuversetzen und es unter Beachtung der  Rechtsauffassung der Kammer fortzusetzen.</li><li block-type=\"ListItem\">2. Der Antragsgegner trägt die Kosten des Nachprüfungsverfahrens (Gebühren und  Auslagen) sowie die zur zweckentsprechenden Rechtsverfolgung entstandenen  Aufwendungen der Antragstellerin.</li><li block-type=\"ListItem\">3. Die Beigeladene trägt die ihr entstandenen Aufwendungen selbst.</li></ul></p>",
+      "page": 116,
+      "polygon": [
+        [
+          88.46875,
+          599.8292846679688
+        ],
+        [
+          541.6650390625,
+          599.8292846679688
+        ],
+        [
+          541.6650390625,
+          774.6952819824219
+        ],
+        [
+          88.46875,
+          774.6952819824219
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        599.8292846679688,
+        541.6650390625,
+        774.6952819824219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          295.8499755859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          92.60003662109375
+        ],
+        [
+          295.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.8499755859375,
+        80.58203125,
+        314.005859375,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4. Die Hinzuziehung der Verfahrensbevollmächtigten durch die Antragstellerin wird für  notwendig erklärt.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          88.46875,
+          123.25927734375
+        ],
+        [
+          541.5997314453125,
+          123.25927734375
+        ],
+        [
+          541.5997314453125,
+          153.25927734375
+        ],
+        [
+          88.46875,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        123.25927734375,
+        541.5997314453125,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Gründe:</b></h1>",
+      "page": 151,
+      "polygon": [
+        [
+          281.12109375,
+          185.4208984375
+        ],
+        [
+          326.15673828125,
+          185.4208984375
+        ],
+        [
+          326.15673828125,
+          197.4193115234375
+        ],
+        [
+          281.12109375,
+          197.4193115234375
+        ]
+      ],
+      "bbox": [
+        281.12109375,
+        185.4208984375,
+        326.15673828125,
+        197.4193115234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 151,
+      "polygon": [
+        [
+          301.201171875,
+          210.9111328125
+        ],
+        [
+          308.767578125,
+          210.9111328125
+        ],
+        [
+          308.767578125,
+          222.73931884765625
+        ],
+        [
+          301.201171875,
+          222.73931884765625
+        ]
+      ],
+      "bbox": [
+        301.201171875,
+        210.9111328125,
+        308.767578125,
+        222.73931884765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Antragsgegner (Ag) machte am 23. August 2017 durch eine freiwillige Ex-ante-Transparenzbekanntmachung die beabsichtigte Vergabe […] im Rahmen eines  Verhandlungsverfahrens ohne vorherige Bekanntmachung oder Aufruf zum Wettbewerb im  Supplement zum Amtsblatt der EU […] gemeinschaftsweit bekannt. Die Verfahrensbeteiligten  streiten darüber, ob der streitgegenständliche Auftrag ohne vorherige Auftragsbekanntmachung – wie angekündigt – unmittelbar an die Beigeladene (Bg) erteilt werden kann.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          235.16796875
+        ],
+        [
+          541.7333984375,
+          235.16796875
+        ],
+        [
+          541.7333984375,
+          343.70703125
+        ],
+        [
+          69.84375,
+          343.70703125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        235.16796875,
+        541.7333984375,
+        343.70703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Ziff. II.2.4) der Ex-ante-Transparenzbekanntmachung beschreibt den  streitgegenständlichen Beschaffungsgegenstand wie folgt:<b>:</b></p>",
+      "page": 151,
+      "polygon": [
+        [
+          70.94400024414062,
+          369.6083984375
+        ],
+        [
+          541.653076171875,
+          369.6083984375
+        ],
+        [
+          541.653076171875,
+          400.0322265625
+        ],
+        [
+          70.94400024414062,
+          400.0322265625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        369.6083984375,
+        541.653076171875,
+        400.0322265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 151,
+      "polygon": [
+        [
+          125.71874999999999,
+          421.8492736816406
+        ],
+        [
+          144.80239868164062,
+          421.8492736816406
+        ],
+        [
+          144.80239868164062,
+          432.8892822265625
+        ],
+        [
+          125.71874999999999,
+          432.8892822265625
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        421.8492736816406,
+        144.80239868164062,
+        432.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Als Begründung dafür, dass die Lieferungen/Dienstleistungen nur von einem bestimmten  Wirtschaftsteilnehmer ausgeführt werden können und der Auftrag aus Sicht der Ag daher  der Bg zu erteilen ist, führt die Bekanntmachung Folgendes an:</p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          469.1025390625
+        ],
+        [
+          541.7333984375,
+          469.1025390625
+        ],
+        [
+          541.7333984375,
+          518.3492736816406
+        ],
+        [
+          98.9453125,
+          518.3492736816406
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        469.1025390625,
+        541.7333984375,
+        518.3492736816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"</i> <i>aufgrund des Schutzes von ausschließlichen Rechten einschließlich Rechten des </i> <i>geistigen Eigentums</i></p>",
+      "page": 151,
+      "polygon": [
+        [
+          126.88281249999999,
+          538.583984375
+        ],
+        [
+          498.6254577636719,
+          538.583984375
+        ],
+        [
+          498.6254577636719,
+          561.5713500976562
+        ],
+        [
+          126.88281249999999,
+          561.5713500976562
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        538.583984375,
+        498.6254577636719,
+        561.5713500976562
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 151,
+      "polygon": [
+        [
+          126.30078124999999,
+          577.269287109375
+        ],
+        [
+          144.80239868164062,
+          577.269287109375
+        ],
+        [
+          144.80239868164062,
+          588.3092803955078
+        ],
+        [
+          126.30078124999999,
+          588.3092803955078
+        ]
+      ],
+      "bbox": [
+        126.30078124999999,
+        577.269287109375,
+        144.80239868164062,
+        588.3092803955078
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Vergabedokumentation (Vermerk vom 24. Juli 2107) beschreibt den Ablauf der vom Ag  durchgeführten Markterkundung auszugsweise wie folgt:</p>",
+      "page": 151,
+      "polygon": [
+        [
+          98.9453125,
+          610.8692626953125
+        ],
+        [
+          541.7406005859375,
+          610.8692626953125
+        ],
+        [
+          541.7406005859375,
+          643.4228515625
+        ],
+        [
+          98.9453125,
+          643.4228515625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        610.8692626953125,
+        541.7406005859375,
+        643.4228515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 151,
+      "polygon": [
+        [
+          133.576171875,
+          667.7792816162109
+        ],
+        [
+          152.48239135742188,
+          667.7792816162109
+        ],
+        [
+          152.48239135742188,
+          678.8192901611328
+        ],
+        [
+          133.576171875,
+          678.8192901611328
+        ]
+      ],
+      "bbox": [
+        133.576171875,
+        667.7792816162109,
+        152.48239135742188,
+        678.8192901611328
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"</p>",
+      "page": 151,
+      "polygon": [
+        [
+          99.26399230957031,
+          648.7892761230469
+        ],
+        [
+          102.94031524658203,
+          648.7892761230469
+        ],
+        [
+          102.94031524658203,
+          659.8292846679688
+        ],
+        [
+          99.26399230957031,
+          659.8292846679688
+        ]
+      ],
+      "bbox": [
+        99.26399230957031,
+        648.7892761230469,
+        102.94031524658203,
+        659.8292846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Laut [Bg] sind diese Lösungen durch Patente geschützt.\"</i></p>",
+      "page": 151,
+      "polygon": [
+        [
+          135.03125,
+          691.6813507080078
+        ],
+        [
+          386.46875,
+          691.6813507080078
+        ],
+        [
+          386.46875,
+          701.8037109375
+        ],
+        [
+          135.03125,
+          701.8037109375
+        ]
+      ],
+      "bbox": [
+        135.03125,
+        691.6813507080078,
+        386.46875,
+        701.8037109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Gegen die Bezuschlagung der Bg wandte sich die Antragstellerin (ASt) mit Schreiben ihrer  Verfahrensbevollmächtigten vom 28. und 31. August 2017. Der Ag lehnte es mit Schreiben  vom 29. August 2017 ab, der Rüge zu entsprechen, da die ASt technisch und aufgrund des</p>",
+      "page": 151,
+      "polygon": [
+        [
+          97.78125,
+          722.3603515625
+        ],
+        [
+          541.7300415039062,
+          722.3603515625
+        ],
+        [
+          541.7300415039062,
+          771.4552917480469
+        ],
+        [
+          97.78125,
+          771.4552917480469
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        722.3603515625,
+        541.7300415039062,
+        771.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 137,
+      "polygon": [
+        [
+          295.8499755859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          92.60003662109375
+        ],
+        [
+          295.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.8499755859375,
+        80.58203125,
+        314.005859375,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">zugunsten der Bg bestehenden Patentschutzes auch rechtlich nicht in der Lage sei, die von  der Ag verlangten Leistungen erbringen zu können.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.6683349609375,
+          122.1064453125
+        ],
+        [
+          541.6683349609375,
+          153.25927734375
+        ],
+        [
+          98.9453125,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.6683349609375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/137",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit einem am 1. September 2017 bei der Vergabekammer des Bundes eingegangenen  Schriftsatz ihrer Verfahrensbevollmächtigten beantragte die ASt die Einleitung eines  Nachprüfungsverfahrens. Diesen Nachprüfungsantrag hat die Kammer dem Ag am  gleichen Tag übermittelt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt trägt vor, dass sie ein Interesse an der Erbringung des streitgegenständlichen  Auftrages habe. Entgegen der Einschätzung der Ag falle der Auftrag auch in das  Leistungsspektrum der ASt und könne daher nicht nur von der Bg erbracht werden.</li></ul></li></ul></p>",
+      "page": 137,
+      "polygon": [
+        [
+          70.94400024414062,
+          179.6650390625
+        ],
+        [
+          541.7098999023438,
+          179.6650390625
+        ],
+        [
+          541.7098999023438,
+          324.04925537109375
+        ],
+        [
+          70.94400024414062,
+          324.04925537109375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        179.6650390625,
+        541.7098999023438,
+        324.04925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die geplante Direktvergabe zugunsten der Bg sei vergaberechtswidrig, weil die  Voraussetzungen des § 14 Abs. 4 Nr. 2 lit. c) VgV nicht vorlägen. Keines der von der  insoweit darlegungs- und beweisbelasteten Ag zitierten Patente bewirke, dass die Bg  als einziges Unternehmen in der Lage sei, den streitgegenständlichen Auftrag zu  erbringen. Der zu beschaffende […] mache schon von der jeweiligen technischen  Lehre der in der Transparenzbekanntmachung genannten Patente keinen Gebrauch. Auch das System der ASt könne die in der Bekanntmachung aufgestellten Bedingungen erfüllen. Im Einzelnen:</p>",
+      "page": 137,
+      "polygon": [
+        [
+          126.88281249999999,
+          349.0517578125
+        ],
+        [
+          541.7377319335938,
+          349.0517578125
+        ],
+        [
+          541.7377319335938,
+          494.82928466796875
+        ],
+        [
+          126.88281249999999,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        349.0517578125,
+        541.7377319335938,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Soweit die Ag in ihrer Bekanntmachung verlange, dass es möglich sein müsse,  verschiedene Proben in kürzester Zeit zu wechseln, sei das genannte Patent der Bg  […] nicht unerlässlich, da es schon keinen Probewechselmechanismus betreffe. Das  Patent beschreibe vielmehr ein Steuerungssystem, um das Betriebsfluid aus dem [...] zu entfernen. Jedes der im Markt angebotenen Systeme, welches nicht auf dieses im  Patent beschriebene Steuerungssystem zurückgreife, wie etwa dasjenige der ASt, sei  rechtlich nicht zu beanstanden. Als Beispiele seien die Patente […] zu nennen, die  sämtlich vor dem Prioritätsdatum des Patents der Bg bekannt gewesen seien. Ein  Ausschließlichkeitsrecht der Bg in Bezug auf Bedingung Nr. 1 könne daher nicht  festgestellt werden.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          126.88281249999999,
+          521.31640625
+        ],
+        [
+          541.7305297851562,
+          521.31640625
+        ],
+        [
+          541.7305297851562,
+          703.5392913818359
+        ],
+        [
+          126.88281249999999,
+          703.5392913818359
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        521.31640625,
+        541.7305297851562,
+        703.5392913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die vom Ag in diesem Zusammenhang herangezogenen Argumente des zu  gewährleistenden Probenschutzes in einem elektrostatisch geschützten Schaltkreis  und des Messvorgangs vor der Abkühlung ergäben sich nicht aus der</p>",
+      "page": 137,
+      "polygon": [
+        [
+          126.88281249999999,
+          729.349609375
+        ],
+        [
+          541.745849609375,
+          729.349609375
+        ],
+        [
+          541.745849609375,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        729.349609375,
+        541.745849609375,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          295.8499755859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          92.60003662109375
+        ],
+        [
+          295.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.8499755859375,
+        80.58203125,
+        314.005859375,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bekanntmachung. Offenbar verlange der Ag nachträglich auch noch, dass die Probe  wie auch Teile des […] bei der Montage der Probe Zimmertemperatur hätten sowie, dass die Probe gebogen und der Widerstand in gebogenem Zustand eingestellt und  während der Abkühlung stabil gehalten werde. Dies seien bislang nicht  kommunizierte Anforderungen, auf die sich die ASt nicht haben einstellen können und  die in der Bekanntmachung auch nicht als Bedingung für die Vergabe genannt worden  seien.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          126.88281249999999,
+          121.6953125
+        ],
+        [
+          541.7291870117188,
+          121.6953125
+        ],
+        [
+          541.7291870117188,
+          248.17926025390625
+        ],
+        [
+          126.88281249999999,
+          248.17926025390625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        121.6953125,
+        541.7291870117188,
+        248.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bedingung Nr. 2 verlange eine geringstmögliche Anpassung der mit verschiedenen  Proben verbundenen Versuchsaufbauten, wofür ausweislich der Bekanntmachung  eine Lösung ohne Veränderung der Verdrahtung \"am geeignetsten scheine\". Schon diese Wortwahl belege, dass andere Lösungen ebenso möglich seien. Die Bg könne  auch hier keine Ausschließlichkeitsrechte für sich reklamieren. Das zitierte Patent […]  stehe schon nicht ihr, sondern vielmehr einem Dritten zu. Auch das vermeintliche  Exklusivvertriebsrecht bestehe nach Auffassung der ASt nicht, da sich die […]-Gerät  unmittelbar beim Hersteller und nicht bei der Bg beschafft habe. Jedenfalls betreffe  das Patent nur eine Steuerschaltung (Digital-Analog-Umsetzerschaltung) sowie ein  Verfahren zur Generierung einer analogen Ausgangsspannung für eine  hochauflösende Messtechnik, so dass es nicht einschlägig für die Anpassung der mit  verschiedenen Proben verbundenen Versuchsaufbauten im Hinblick auf deren Verdrahtung sei. Letztlich gebe es auch hier alternative Lösungen, die die vom Ag  beschriebene Funktionalität gewährleisteten. Denkbar seien hier z.B. \"Matrix-Switch  modules\", die ebenfalls einen Wechsel von Instrumenten ohne Veränderung der  Verkabelung ermöglichten und einer unbeabsichtigten Zerstörung empfindlicher  Proben entgegenwirkten. Entgegenzutreten sei der Vorstellung des Ag, dass es sich  bei dem von der Bg genutzten […] um in den […] integrierte Elektronik handele. Es  sei vielmehr ein Stück Messelektronik, welches räumlich vollständig getrennt vom […] sei und mit diesem über Kabel verbunden werde.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          126.88281249999999,
+          275.08929443359375
+        ],
+        [
+          541.745361328125,
+          275.08929443359375
+        ],
+        [
+          541.745361328125,
+          646.6292877197266
+        ],
+        [
+          126.88281249999999,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        275.08929443359375,
+        541.745361328125,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die vom Ag durchgeführte Markterkundung sei nicht ordnungsgemäß durchgeführt  worden. Die in der Transparenzbekanntmachung als ausschlaggebend bezeichneten  Bedingungen (Probewechsel in kürzester Zeit; Anpassung der Versuchsaufbauten  mit geringstmöglichem Aufwand) seien bei der ASt nicht abgefragt worden. Mangels  gleichem Informationsstand könne sich der Ag folglich nicht auf angebliche  Ausschließlichkeitsrechte zugunsten der Bg berufen. Gleiches gelte für die im</p>",
+      "page": 150,
+      "polygon": [
+        [
+          126.88281249999999,
+          673.5392761230469
+        ],
+        [
+          541.718994140625,
+          673.5392761230469
+        ],
+        [
+          541.718994140625,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        673.5392761230469,
+        541.718994140625,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          295.8499755859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          92.60003662109375
+        ],
+        [
+          295.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.8499755859375,
+        80.58203125,
+        314.005859375,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nachprüfungsverfahren nachgeschobenen Anforderungen des Probenschutzes und  der Messungsmöglichkeit bereits während der Abkühlphase. Der Ag habe lediglich  im März/April 2017 nach einem Basissystem mit Magneten und  Vibrationsentkopplung gefragt, ohne die nunmehr relevanten Bedingungen  anzusprechen. Ihr Informationsangebot könne folgerichtig nicht auf sämtliche, zum  Teil auch erst im Nachprüfungsverfahren nachgeschobene Anforderungen  eingegangen sein und könne somit nicht als Beleg für eine fehlende Befähigung der  ASt für die Erbringung der Leistung herangezogen werden. Sie hätte jedoch ohne  Weiteres ihr Informationsangebot entsprechend anpassen können, wenn ihr die  Anforderungen kommuniziert worden wären. Der Vertreter des Ag habe der ASt  gegenüber auf einer Tagung in […] im März 2017 sogar ein Upgrade auf einen  schnellen Probenwechsel abgelehnt, obwohl die Geschwindigkeit nunmehr eine  entscheidende Rolle spiele. Zwischen Juni und August 2017 habe der Ag exklusiv mit  der Bg verhandelt und den ursprünglich abgefragten Leistungsumfang in Gesprächen  mit ihr erweitert.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          126.88281249999999,
+          120.873046875
+        ],
+        [
+          541.7310180664062,
+          120.873046875
+        ],
+        [
+          541.7310180664062,
+          399.8892822265625
+        ],
+        [
+          126.88281249999999,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        120.873046875,
+        541.7310180664062,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Selbst wenn tatsächlich Ausschließlichkeitsrechte zugunsten der Bg bestünden,  handele es sich bei dem Probewechselmechanismus und der Messelektronik um  externe Zubehörteile, die jeweils ca. 10 % des Gesamtauftragswerts ausmachten.  Auch insofern dürfte der Ag nicht das gesamte System bei der Bg beschaffen,  sondern allenfalls die patentgeschützten Geräte.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          126.88281249999999,
+          426.8892822265625
+        ],
+        [
+          541.720458984375,
+          426.8892822265625
+        ],
+        [
+          541.720458984375,
+          513.7892761230469
+        ],
+        [
+          126.88281249999999,
+          513.7892761230469
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        426.8892822265625,
+        541.720458984375,
+        513.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Anscheinend sei es dem Ag nur auf eine Lieferung noch im Jahr 2017 angekommen,  was die Bg anscheinend zugesagt habe. Die in der Transparenzbekanntmachung  genannten Bedingungen sowie die im Nachprüfungsverfahren nachgeschobenen  Gründe sollten nur nachträglich das Ziel einer möglichst schnellen Beschaffung  rechtfertigen.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          126.88281249999999,
+          540.6692810058594
+        ],
+        [
+          541.647216796875,
+          540.6692810058594
+        ],
+        [
+          541.647216796875,
+          628.6220703125
+        ],
+        [
+          126.88281249999999,
+          628.6220703125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        540.6692810058594,
+        541.647216796875,
+        628.6220703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>Die ASt beantragt:</h4>",
+      "page": 120,
+      "polygon": [
+        [
+          127.46484374999999,
+          654.5792846679688
+        ],
+        [
+          217.48977661132812,
+          654.5792846679688
+        ],
+        [
+          217.48977661132812,
+          665.6240234375
+        ],
+        [
+          127.46484374999999,
+          665.6240234375
+        ]
+      ],
+      "bbox": [
+        127.46484374999999,
+        654.5792846679688,
+        217.48977661132812,
+        665.6240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Es wird festgestellt, dass die von dem Ag geplante Vergabe des Auftrags […] an die Bg im Verhandlungsverfahren ohne Teilnahmewettbewerb unzulässig  ist.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          141.86000061035156,
+          698.103515625
+        ],
+        [
+          541.5987548828125,
+          698.103515625
+        ],
+        [
+          541.5987548828125,
+          747.4552917480469
+        ],
+        [
+          141.86000061035156,
+          747.4552917480469
+        ]
+      ],
+      "bbox": [
+        141.86000061035156,
+        698.103515625,
+        541.5987548828125,
+        747.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 129,
+      "polygon": [
+        [
+          295.8499755859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          80.58203125
+        ],
+        [
+          314.005859375,
+          92.60003662109375
+        ],
+        [
+          295.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.8499755859375,
+        80.58203125,
+        314.005859375,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/128",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Der Ag wird angewiesen, bei Fortbestehen der Beschaffungsabsicht den  Auftrag […] nur nach einem vergaberechtskonformen Vergabeverfahren  nach Maßgabe der Rechtsauffassung der Vergabekammer zu vergeben.</li><li block-type=\"ListItem\">3. Die Hinzuziehung der Verfahrensbevollmächtigten der ASt wird gem. § 182  Abs. 4 GWB für notwendig erklärt.</li><li block-type=\"ListItem\">4. Die Kosten des Verfahrens einschließlich der zur zweckentsprechenden  Rechtsverfolgung erforderlichen Aufwendungen der ASt trägt der Ag.</li></ul></p>",
+      "page": 129,
+      "polygon": [
+        [
+          140.8515625,
+          123.25927734375
+        ],
+        [
+          541.649169921875,
+          123.25927734375
+        ],
+        [
+          541.649169921875,
+          260.17926025390625
+        ],
+        [
+          140.8515625,
+          260.17926025390625
+        ]
+      ],
+      "bbox": [
+        140.8515625,
+        123.25927734375,
+        541.649169921875,
+        260.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>b) Der Ag beantragt,</h3>",
+      "page": 129,
+      "polygon": [
+        [
+          105.638671875,
+          305.4716796875
+        ],
+        [
+          211.817138671875,
+          305.4716796875
+        ],
+        [
+          211.817138671875,
+          317.0892333984375
+        ],
+        [
+          105.638671875,
+          317.0892333984375
+        ]
+      ],
+      "bbox": [
+        105.638671875,
+        305.4716796875,
+        211.817138671875,
+        317.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/129",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die ASt trägt die Kosten des Verfahrens einschließlich der zur  zweckentsprechenden Rechtsverfolgung erforderlichen Aufwendungen des  Ag.</li><li block-type=\"ListItem\">3. Die Hinzuziehung der Verfahrensbevollmächtigten des Ag wird für notwendig  erklärt.</li></ul></p>",
+      "page": 129,
+      "polygon": [
+        [
+          140.8515625,
+          349.8740234375
+        ],
+        [
+          541.6243896484375,
+          349.8740234375
+        ],
+        [
+          541.6243896484375,
+          467.9292907714844
+        ],
+        [
+          140.8515625,
+          467.9292907714844
+        ]
+      ],
+      "bbox": [
+        140.8515625,
+        349.8740234375,
+        541.6243896484375,
+        467.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Ag trägt vor, dass die ASt bereits nicht antragsbefugt sei. Sie könne keine  Verletzung in eigenen Rechten durch die vermeintliche Nichtbeachtung von  Vergabevorschriften geltend machen, weil sie nicht darlegen könne, inwieweit sie den  zu vergebenden Auftrag werde ausführen können. Dass der Auftrag grundsätzlich in  ihr Leistungsspektrum falle und sie nach ihrem Vortrag rechtlich und technisch zur  Auftragsdurchführung in der Lage sei, reiche nicht aus. Es sei für den Ag überhaupt  nicht absehbar, ob und inwieweit die ASt eine den Anforderungen entsprechende technische Lösung anbieten könne, so dass sie auch kein Interesse am Auftrag habe.  Es dränge sich dem Ag der Verdacht auf, dass die ASt allein in Schädigungsabsicht  zulasten des Ag und der Bg vorgehe.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          125.71874999999999,
+          494.8292541503906
+        ],
+        [
+          541.7372436523438,
+          494.8292541503906
+        ],
+        [
+          541.7372436523438,
+          676.6592864990234
+        ],
+        [
+          125.71874999999999,
+          676.6592864990234
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        494.8292541503906,
+        541.7372436523438,
+        676.6592864990234
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag sei auch unbegründet, da die Voraussetzungen des § 14  Abs. 4 Nr. 2 lit. c) VgV für die Durchführung eines Verhandlungsverfahrens ohne  Teilnahmewettbewerb allein mit der Bg vorlägen. Aufgrund der ihr zustehenden Schutzrechte (hier: Patente) könne der Auftrag nur von dieser erbracht werden. Der</p>",
+      "page": 129,
+      "polygon": [
+        [
+          126.88281249999999,
+          703.037109375
+        ],
+        [
+          541.5595703125,
+          703.037109375
+        ],
+        [
+          541.5595703125,
+          771.4552917480469
+        ],
+        [
+          126.88281249999999,
+          771.4552917480469
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        703.037109375,
+        541.5595703125,
+        771.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          295.671875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          92.60003662109375
+        ],
+        [
+          295.671875,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.671875,
+        80.58203125,
+        314.296875,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ag habe sich im Rahmen seines Leistungsbestimmungsrechts auf gewisse  Spezifikationen festgelegt, die dazu führten, dass andere Unternehmen nicht in  Betracht kämen. So habe der Ag definiert, dass ein Wechsel der zu untersuchenden  Proben in kürzester Zeit möglich sein müsse und sich die mit verschiedenen Proben  verbundenen Versuchsaufbauten mit geringstmöglichem Aufwand anpassen lassen  müssten (Bedingungen 1 und 2). Der Ag habe in der Folge eine umfassende  Marktanalyse vorgenommen und dabei festgestellt, dass nur das System der Bg die  so definierten Leistungsmerkmale erfülle. Hierfür sei nicht erforderlich gewesen, bei  der ASt die Bedingungen 1 und 2 explizit zu kommunizieren. Ebenso wenig sei es für  eine ordnungsgemäße Markterkundung erforderlich, von allen Marktteilnehmern  Informationen in gleicher Tiefe abzufragen bzw. über sämtliche Anforderungen  gleichermaßen zu informieren. Es sei ausreichend gewesen, dass sich der Ag selbst  ein Bild von den im Markt angebotenen Leistungen habe machen können. Für den  Ag habe es nach der Erkundung auf der Hand gelegen, dass die ASt das gewünschte  Versuchssystem nicht werde anbieten können. Da die ASt insbesondere über kein  System verfüge, das die unerwünschte externe Verkabelung vermeide, und es somit  für eine Nutzerplattform nicht so einsetzbar sei wie das System der Bg, habe keine  Erforderlichkeit bestanden, mit ihr über ein Upgrade ihres Systems für einen  schnellen Probewechsel zu sprechen. Sie biete keine in den […] integrierte  Messelektronik für kleinste Ströme an, worunter die Nutzbarkeit ihres Systems leide.  Die vom Ag zum Beleg seiner Anforderungen im Einzelnen näher ausgeführten  technischen Spezifika des […] bzw. der an ihm angeschlossenen Systeme, seien auch nicht nur nachgeschoben. Soweit in der Rügeerwiderung und der Replik auf den Nachprüfungsantrag weitere technische Zusammenhänge (z.B. Schutz der Probe,  Messung während des Abkühlungsvorgangs etc.) aufgeführt worden seien, habe man  lediglich den begrenzten Umfang der Darstellungsmöglichkeit in der  Transparenzbekanntmachung kompensieren, nicht jedoch neu aufgestellte Anforderungen an das System aufzeigen wollen. Jedenfalls diese präzisierten  Bedingungen könne die ASt nicht erbringen.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          126.88281249999999,
+          120.05078125
+        ],
+        [
+          541.7305297851562,
+          120.05078125
+        ],
+        [
+          541.7305297851562,
+          666.03515625
+        ],
+        [
+          126.88281249999999,
+          666.03515625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        120.05078125,
+        541.7305297851562,
+        666.03515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die in der Bekanntmachung genannten und zugunsten der Bg bestehenden Patente  seien als untrennbarer Teil ihres Systems notwendig für die Auftragsausführung.  Bezüglich der Bedingung Nr. 1 des schnellen Probenwechsels ermögliche die Lösung  der Bg das schnelle Entfernen der alten und Einbringen der neuen Probe in ca. 30  Minuten. Zudem werde durch die Vorgehensweise die Probe optimal geschützt, was</p>",
+      "page": 134,
+      "polygon": [
+        [
+          127.58000183105469,
+          692.4992828369141
+        ],
+        [
+          541.7290649414062,
+          692.4992828369141
+        ],
+        [
+          541.7290649414062,
+          779.9189453125
+        ],
+        [
+          127.58000183105469,
+          779.9189453125
+        ]
+      ],
+      "bbox": [
+        127.58000183105469,
+        692.4992828369141,
+        541.7290649414062,
+        779.9189453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          295.671875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          92.60003662109375
+        ],
+        [
+          295.671875,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.671875,
+        80.58203125,
+        314.296875,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">drohende finanzielle Verluste auf Seiten des Ag verringere. Es sei nicht klar, wie ein Gesamtsystem der ASt aussehen solle, welches die Anforderungen gleichermaßen  erfüllen könne. Die von ihr angeführten vermeintlich alternativen Patente ließen offen,  wie die Lösung insgesamt aussehe. Irrelevant sei, dass der  Probenwechselmechanismus nur 10 % des Gesamtauftragswerts ausmache, da der  Ag ein Gesamtsystem und nicht einzelne Komponenten beschaffen wolle.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.517578125
+        ],
+        [
+          541.6458129882812,
+          122.517578125
+        ],
+        [
+          541.6458129882812,
+          229.0992431640625
+        ],
+        [
+          126.88281249999999,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.517578125,
+        541.6458129882812,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gleiches gelte für die Bedingung Nr.2 des geringstmöglichen Anpassungsaufwands.  Auch wenn der weitere Wortlaut der Vorgabe \"am geeignetsten erscheint hier eine  Lösung, bei der die Verdrahtung der Probe nicht geändert werden muss\" etwas  schwammig sei, habe die Markterkundung ergeben, dass allein das von der […] entwickelte Steuerungssystem […] zu ihrer Erfüllung tauglich sei. Da die Bg aufgrund  einer Vereinbarung mit dem Patentinhaber seit Februar 2016 über das Exklusivrecht  für den Vertrieb bei Anwendungen […] verfüge, könne die ASt diese Komponente  nicht anbieten. Auch ein Direktkauf bei der […] durch die Ag selbst sei – unbeschadet  der Tatsache, dass sie ein Gesamtsystem beschaffen wolle – daher nicht möglich.  Gegenteiliges ergebe sich auch nicht aus dem Email-Verkehr zwischen der ASt und  der Universität Sherbrooke, da die darin angesprochene Kontaktaufnahme mit der  Patentinhaberin vor Vereinbarung des Exklusivrechts erfolgt sei. Die von ihr darüber  hinaus benannten Alternativen (z.B. Matrix-Switch modules) seien der Ag bekannt,  würden von ihr jedoch nicht als gleichwertig erachtet, da sie keine adäquate Lösungen für Nutzerplattformen – wie vorliegend geplant – unter gleichzeitiger Gewährleistung  einer hohen Messauflösung darstellten.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          125.71874999999999,
+          254.080078125
+        ],
+        [
+          541.7425537109375,
+          254.080078125
+        ],
+        [
+          541.7425537109375,
+          551.740234375
+        ],
+        [
+          125.71874999999999,
+          551.740234375
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        254.080078125,
+        541.7425537109375,
+        551.740234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt habe somit im Ergebnis weder schriftsätzlich noch in der mündlichen  Verhandlung konkret darlegen können, wie sie sämtliche Anforderungen des Ag  erfüllen wolle. Damit bestätige sie indirekt die vom Ag durchgeführte Markterkundung.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          126.88281249999999,
+          578.052734375
+        ],
+        [
+          541.5869750976562,
+          578.052734375
+        ],
+        [
+          541.5869750976562,
+          627.6692962646484
+        ],
+        [
+          126.88281249999999,
+          627.6692962646484
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        578.052734375,
+        541.5869750976562,
+        627.6692962646484
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dass die Bg noch im Jahr 2017 werde liefern können, sei letztlich kein  ausschlaggebender Gesichtspunkt für die geplante Vergabe an sie gewesen.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          127.58000183105469,
+          652.4677734375
+        ],
+        [
+          541.7406005859375,
+          652.4677734375
+        ],
+        [
+          541.7406005859375,
+          684.5792846679688
+        ],
+        [
+          127.58000183105469,
+          684.5792846679688
+        ]
+      ],
+      "bbox": [
+        127.58000183105469,
+        652.4677734375,
+        541.7406005859375,
+        684.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) Mit Beschluss vom 4. September 2017 ist die Bg zum Verfahren hinzugezogen  worden. Die Bg hat an der mündlichen Verhandlung teilgenommen, aber keine  schriftliche Stellungnahme abgegeben oder Anträge gestellt.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          711.4592742919922
+        ],
+        [
+          541.7243041992188,
+          711.4592742919922
+        ],
+        [
+          541.7243041992188,
+          760.595703125
+        ],
+        [
+          98.9453125,
+          760.595703125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        711.4592742919922,
+        541.7243041992188,
+        760.595703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 131,
+      "polygon": [
+        [
+          295.671875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          80.58203125
+        ],
+        [
+          314.296875,
+          92.60003662109375
+        ],
+        [
+          295.671875,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        295.671875,
+        80.58203125,
+        314.296875,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/130",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. In der mündlichen Verhandlung am 25. September 2017 wurde der Sachverhalt  umfassend erörtert. Auf die Schriftsätze der Parteien, auf die Vergabeakte, soweit sie der  Vergabekammer vorgelegen hat, sowie auf die Verfahrensakte der Vergabekammer wird  ergänzend Bezug genommen.</li><li block-type=\"ListItem\">4. Die Entscheidungsfrist wurde mit Verfügung der Vorsitzenden vom 5. Oktober 2017 bis  zum 20. Oktober 2017 verlängert, auch um Vergleichsverhandlungen der  Verfahrensbeteiligten Zeit und Raum zu geben. Die vom Ag in der Folge als Vergleich  angebotene Zurückversetzung des Verfahrens in den Zeitpunkt der Markterkundung im  Gegenzug zur Rücknahme des Nachprüfungsantrags und hälftiger Kostentragungslast  wurde von der ASt nicht akzeptiert. Den daraufhin vom Ag erhobenen Vorwurf einer  rechtsmissbräuchlichen Fortführung des Nachprüfungsantrags in Schädigungsabsicht  des Ag und Bg wies die ASt zurück. Zwar sei die angebotene Zurückversetzung des  Vergabeverfahrens akzeptabel, nicht jedoch die Pflicht zur Rücknahme des Antrags und  die hälftige Kostenteilung. Dies sei angesichts des Sach- und Streitstandes nicht  angemessen. Da der Ag allein aufgrund des Stellung des hiesigen Nachprüfungsantrags  dazu habe bewegt werden können, die technischen Lösungen der ASt bei der  Markterkundung zu berücksichtigen, sei eine Tragung einer wesentlichen Kostenlast  durch die ASt vorliegend unbillig.</li></ul></p>",
+      "page": 131,
+      "polygon": [
+        [
+          88.46875,
+          122.1064453125
+        ],
+        [
+          541.7333984375,
+          122.1064453125
+        ],
+        [
+          541.7333984375,
+          475.8692626953125
+        ],
+        [
+          88.46875,
+          475.8692626953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        122.1064453125,
+        541.7333984375,
+        475.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 131,
+      "polygon": [
+        [
+          282.8671875,
+          521.5892944335938
+        ],
+        [
+          292.5552673339844,
+          521.5892944335938
+        ],
+        [
+          292.5552673339844,
+          532.6293029785156
+        ],
+        [
+          282.8671875,
+          532.6293029785156
+        ]
+      ],
+      "bbox": [
+        282.8671875,
+        521.5892944335938,
+        292.5552673339844,
+        532.6293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig und begründet.</p>",
+      "page": 131,
+      "polygon": [
+        [
+          70.94400024414062,
+          559.6292724609375
+        ],
+        [
+          328.4391174316406,
+          559.6292724609375
+        ],
+        [
+          328.4391174316406,
+          570.6692810058594
+        ],
+        [
+          70.94400024414062,
+          570.6692810058594
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        559.6292724609375,
+        328.4391174316406,
+        570.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/131",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die Zulässigkeit des Nachprüfungsantrags ist gegeben.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die allgemeinen Zulässigkeitsvoraussetzungen  ein dem Bund zuzurechnender  Auftrag oberhalb der für die europaweite Vergabe einschlägigen  Auftragsschwellenwerte für Lieferungen – sind zwanglos erfüllt.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) Die ASt ist auch antragsbefugt nach § 160 Abs. 2 GWB. Sie macht geltend, durch das  allein mit der Bg geplante Verhandlungsverfahren in ihrer wettbewerblichen  Beteiligungsmöglichkeit eingeschränkt werde, zumal sie – nach ihrem Vortrag – die  von dem Ag in der Transparenzbekanntmachung aufgestellten Bedingungen</li></ul></li></ul></p>",
+      "page": 131,
+      "polygon": [
+        [
+          70.94400024414062,
+          597.3759765625
+        ],
+        [
+          541.7293090820312,
+          597.3759765625
+        ],
+        [
+          541.7293090820312,
+          780.330078125
+        ],
+        [
+          70.94400024414062,
+          780.330078125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        597.3759765625,
+        541.7293090820312,
+        780.330078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 131,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.916015625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gleichermaßen erfüllen könne wie die Bg. Ob die angeführten Patente tatsächlich  Ausschließlichkeitsrechten zugunsten der Bg begründen, so dass der ASt eine  Angebotsabgabe unmöglich wäre, ist zwischen den Verfahrensbeteiligten umstritten  und daher im Rahmen der Begründetheit zu thematisieren.</p>",
+      "page": 131,
+      "polygon": [
+        [
+          126.88281249999999,
+          121.6953125
+        ],
+        [
+          541.4916381835938,
+          121.6953125
+        ],
+        [
+          541.4916381835938,
+          191.17926025390625
+        ],
+        [
+          126.88281249999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        121.6953125,
+        541.4916381835938,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/131",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">c) Die ASt hat die geplante Vergabe zugunsten der Bg nach Veröffentlichung der  Transparenzbekanntmachung am 23. August 2017 mit Schreiben vom 28. und 31.  August 2017 die gewählte Vorgehensweise gegenüber dem Ag gerügt. Die Frist des  § 160 Abs. 3 S. 1 Nr. 4 GWB wurde gewahrt.</li><li block-type=\"ListItem\">d) Der Nachprüfungsantrag ist auch nicht als rechtsmissbräuchlich zu qualifizieren. Die  Zurückweisung des Vergleichsangebots, weil es eine – aus Sicht der ASt – nachteilige  Kostenfolge beinhaltet, führt nicht dazu, dass dem ASt eine unlautere Motivation bei  der Stellung des Antrags bzw. der Fortführung des Verfahrens zur Last gelegt werden  könnte. Der Ag hätte dem Nachprüfungsantrag seinerseits durch eine echte Abhilfe,  freilich verbunden mit einer negativen Kostenfolge zu seinen Lasten, die Grundlage  entziehen können. Dass der ASt angesichts des Sach- und Streitstands (dazu  sogleich) eine für ihn günstige Kostenfolge präferiert, ist rational und kein  Rechtsmissbrauch.</li></ul></p>",
+      "page": 131,
+      "polygon": [
+        [
+          99.38400268554688,
+          211.322265625
+        ],
+        [
+          541.7080078125,
+          211.322265625
+        ],
+        [
+          541.7080078125,
+          463.1293029785156
+        ],
+        [
+          99.38400268554688,
+          463.1293029785156
+        ]
+      ],
+      "bbox": [
+        99.38400268554688,
+        211.322265625,
+        541.7080078125,
+        463.1293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "3": "/page/5/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2>2. Der Nachprüfungsantrag ist begründet.</h2>",
+      "page": 131,
+      "polygon": [
+        [
+          70.94400024414062,
+          501.9931640625
+        ],
+        [
+          292.4861145019531,
+          501.9931640625
+        ],
+        [
+          292.4861145019531,
+          513.7892761230469
+        ],
+        [
+          70.94400024414062,
+          513.7892761230469
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        501.9931640625,
+        292.4861145019531,
+        513.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Wahl des Verhandlungsverfahrens ohne vorgeschalteten Teilnahmewettbewerb mit  dem Ziel der Beauftragung der Bg ist vergaberechtswidrig. Der Ag hat nicht hinreichend  belegt, dass die Bg das einzige Unternehmen ist, welche die in der  Transparenzbekanntmachung genannten Bedingungen Nr. 1 und 2 erfüllen kann (dazu sub  a)). Darüber hinaus weicht auch das von der Bg eingereichte Angebot selbst von den  aufgestellten Vorgaben ab, so dass es seinerseits nicht bezuschlagungsfähig ist (dazu sub  b)). Ein Zuschlag kann im streitgegenständlichen Vergabeverfahren folglich nicht erteilt  werden, weshalb es zurückzuversetzen und unter Beachtung der Rechtsauffassung der  Kammer fortzuführen ist (dazu sub c)).</p>",
+      "page": 131,
+      "polygon": [
+        [
+          97.78125,
+          540.228515625
+        ],
+        [
+          541.7286376953125,
+          540.228515625
+        ],
+        [
+          541.7286376953125,
+          703.5392913818359
+        ],
+        [
+          97.78125,
+          703.5392913818359
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        540.228515625,
+        541.7286376953125,
+        703.5392913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">a) Gemäß § 119 Abs. 5, 2. Alt. GWB i.V.m. § 14 Abs. 4 VgV kann der öffentliche  Auftraggeber Aufträge im Verhandlungsverfahren ohne Teilnahmewettbewerb unter  den Voraussetzungen des § 14 Abs. 4 VgV vergeben. Von den dort geregelten Fällen</p>",
+      "page": 131,
+      "polygon": [
+        [
+          98.9453125,
+          728.9384765625
+        ],
+        [
+          541.5911254882812,
+          728.9384765625
+        ],
+        [
+          541.5911254882812,
+          779.4952812194824
+        ],
+        [
+          98.9453125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        728.9384765625,
+        541.5911254882812,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.916015625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">beruft sich der Ag vorliegend auf § 14 Abs. 4 Nr. 2 c) VgV. Danach ist die gewählte  Verfahrensart möglich, wenn der Auftrag wegen des Schutzes von ausschließlichen  Rechten, insbesondere von gewerblichen Schutzrechten, nur von einem bestimmten  Unternehmen erbracht werden kann. Sämtliche Ausnahmen vom vorrangig  durchzuführenden offenen oder nicht offenen Verfahren sind grundsätzlich eng  auszulegen (OLG Düsseldorf, Beschluss vom 12. Juni 2017, VII-Ver 13/17). Dies gilt  erst recht, wenn – wie auch hier – letztlich nur noch mit einem Unternehmen  verhandelt werden soll, die Vergabe also vollkommen außerhalb des Wettbewerbs erfolgt. Die Beweislast für das Vorliegen des Ausnahmetatbestands trägt der Ag.  Hierbei sind stichhaltige Belege beizubringen, aus denen sich das Vorliegen der  Voraussetzungen ergibt (vgl. EuGH, Urteil vom 15. Oktober 2009, C-275/08; OLG  Düsseldorf, Beschluss vom 18. Dezember 2013, VII-Verg 24/13). Dass die diesbezüglich in der Transparenzbekanntmachung genannten Leistungsparameter  und Bedingungen allein von der Bg aufgrund der ihr selbst bzw. über eine  Exklusivvertriebsvereinbarung zustehenden Patente erbracht werden können, steht  zur Überzeugung der Kammer vorliegend nicht fest. Im Einzelnen:</p>",
+      "page": 151,
+      "polygon": [
+        [
+          126.88281249999999,
+          120.873046875
+        ],
+        [
+          541.7290649414062,
+          120.873046875
+        ],
+        [
+          541.7290649414062,
+          418.9692687988281
+        ],
+        [
+          126.88281249999999,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        120.873046875,
+        541.7290649414062,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(1) Soweit der Ag in der Transparenzbekanntmachung vorgegeben hat, dass die  <i>\"Möglichkeit des Wechsels verschiedener Proben in kürzester Zeit\"</i> gegeben  sein muss (Bedingung Nr. 1) und darüber hinaus sich <i>\"die mit verschiedenen </i> <i>Proben verbundenen Versuchsaufbauten (…)</i> <i>mit geringstmöglichem Aufwand </i> <i>anpassen lassen müssen [wobei] am geeignetsten hier eine Lösung (scheint), </i> <i>bei der die Verdrahtung der Probe nicht verändert werden muss\"</i> (Bedingung  Nr.2), handelt es sich um rein funktionale Anforderungen an den zu  beschaffenden […]. Daneben hat sie einige von der Anlage zu erfüllende  Leistungsmerkmale […] in der Bekanntmachung vorgegeben.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          126.88281249999999,
+          444.4345703125
+        ],
+        [
+          541.8659057617188,
+          444.4345703125
+        ],
+        [
+          541.8659057617188,
+          608.7092742919922
+        ],
+        [
+          126.88281249999999,
+          608.7092742919922
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        444.4345703125,
+        541.8659057617188,
+        608.7092742919922
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Für den Beschaffungsbedarf war ausweislich der Transparenzbekanntmachung  somit nur von Bedeutung, dass neben den einzuhaltenden  Leistungsparametern das zu beschaffende Gerät bestimmte Funktionalitäten  bzw. Handhabungsmöglichkeiten aufweist; der konkrete technische  Lösungsweg hierfür wird durch die beiden genannten Bedingungen jedoch nicht  vorgegeben. Im Gegenteil belegt die Wortwahl (\"kürzeste Zeit\",  \"geringstmöglicher Aufwand\", \"am geeignetsten scheint zu sein\") eine Offenheit  in Bezug auf die Art und Weise der (graduellen) Erfüllbarkeit. Auch wenn sich</p>",
+      "page": 151,
+      "polygon": [
+        [
+          155.984375,
+          635.5892791748047
+        ],
+        [
+          541.7310180664062,
+          635.5892791748047
+        ],
+        [
+          541.7310180664062,
+          779.4952812194824
+        ],
+        [
+          155.984375,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        155.984375,
+        635.5892791748047,
+        541.7310180664062,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 160,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.916015625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">beim Ag im Laufe der Markterkundung eine gewisse Vorstellung bezüglich des  bevorzugten […] entwickelt haben mag, hat er letztlich keine \"harten\" Anforderungen (wie etwa: \"Probewechsel in unter 30 Minuten\" oder \"keine  Änderung der Verdrahtung der Probe möglich\") an die Anlage aufgestellt,  anhand derer die Kammer im Ausgangspunkt eine Exklusivität der Bg,  respektive einen per-se-Ausschluss der ASt messen könnte. Eine  Unerlässlichkeit der Nutzung der Ausschließlichkeitsrechte des Patents der Bg  (hinsichtlich des Lademechanismus der Probe) bzw. des – zwischen den  Verfahrensbeteiligten umstrittenen – Exklusivvertriebsrechts für das System  […] (in Bezug auf die Messelektronik) lässt sich daher nicht unmittelbar aus den  beiden genannten Bedingungen ableiten.</p>",
+      "page": 160,
+      "polygon": [
+        [
+          154.8203125,
+          121.6953125
+        ],
+        [
+          541.7410888671875,
+          121.6953125
+        ],
+        [
+          541.7410888671875,
+          324.04925537109375
+        ],
+        [
+          154.8203125,
+          324.04925537109375
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        121.6953125,
+        541.7410888671875,
+        324.04925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus dem gleichen Grund vermögen die im Nachprüfungsverfahren vom Ag  angeführten technischen Erklärungen für eine Präferenz zugunsten des  Systems der Bg (z.B. bessere Nutzerplattformfähigkeit wg. geringerer  Fehleranfälligkeit; Messmöglichkeit während des Abkühlungsvorgangs;  besserer Probenschutz etc.) dessen Ausschließlichkeit nicht zu begründen.  Denn sie finden ebenfalls keinen Anhalt in den beiden Bedingungen.</p>",
+      "page": 160,
+      "polygon": [
+        [
+          154.8203125,
+          350.92926025390625
+        ],
+        [
+          541.7290649414062,
+          350.92926025390625
+        ],
+        [
+          541.7290649414062,
+          457.5908203125
+        ],
+        [
+          154.8203125,
+          457.5908203125
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        350.92926025390625,
+        541.7290649414062,
+        457.5908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(2) Die ASt hat darüber hinaus vorgetragen, dass ihr System grundsätzlich auch  einen Probenwechsel innerhalb von sechs bis acht Stunden realisieren kann,  was für sich genommen die Bedingung Nr. 1 erfülle, und dass es neben dem genannten Patent der Bg weitere, explizit den Probenwechsel betreffende  Patente gebe, welche die Bedingung Nr. 1 grundsätzlich einhielten (u.a. die […]. Dem ist der Ag nicht substantiiert entgegengetreten, sondern hat sich darauf  zurückgezogen, dass die ASt ihrerseits nicht dargelegt habe, wie das  Gesamtsystem bei Nutzung der von ihr zitierten Patente aussehen solle. Dies  verkehrt jedoch die Rollen bei der Darlegungs- und Beweislast in Bezug auf die  Ausschließlichkeitsrechte: Es wäre am Ag gewesen darzulegen, weshalb die  von der ASt angeführten Patente untauglich sind, die Bedingung Nr. 1 zu  erfüllen, und nicht an der ASt in Unkenntnis einer (ohnehin nicht vorhandenen)  Leistungsbeschreibung, ein potentielles Gesamtsystem darzustellen. Dies hat  der Ag jedoch nicht getan.</p>",
+      "page": 160,
+      "polygon": [
+        [
+          127.58000183105469,
+          483.4921875
+        ],
+        [
+          541.7290649414062,
+          483.4921875
+        ],
+        [
+          541.7290649414062,
+          741.4592895507812
+        ],
+        [
+          127.58000183105469,
+          741.4592895507812
+        ]
+      ],
+      "bbox": [
+        127.58000183105469,
+        483.4921875,
+        541.7290649414062,
+        741.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          80.58203125
+        ],
+        [
+          316.916015625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.916015625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ebenso hat die ASt vorgetragen, dass es Alternativsysteme zum vom Ag  präferierten […] gibt, die im Sinne der Transparenzbekanntmachung den  Anpassungsaufwand reduzieren sollen. Diese Alternativen werden ebenfalls  nicht durch den – für die Entscheidung der Kammer allein maßgeblichen – Wortlaut der Bedingung Nr. 2 ausgeschlossen. Darauf, dass die von der ASt  angeführten Alternativsysteme aus Sicht des Ag für Nutzerplattformen aufgrund  ihrer (vorgetragenen) Fehleranfälligkeit nicht erwünscht seien, kommt es nicht  an. Denn ein Ausschluss dieser Systeme kann aus den aufgestellten  Bedingungen ebenfalls nicht eindeutig abgeleitet werden, so dass die  Beteiligung der ASt jedenfalls nicht definitiv ausgeschlossen erscheint.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          154.8203125,
+          122.9287109375
+        ],
+        [
+          541.73388671875,
+          122.9287109375
+        ],
+        [
+          541.73388671875,
+          305.0892333984375
+        ],
+        [
+          154.8203125,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        122.9287109375,
+        541.73388671875,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Transparenzbekanntmachung stellt im Ergebnis keine taugliche Grundlage  für die Rechtfertigung eines Verhandlungsverfahrens allein mit der Bg dar.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          154.8203125,
+          330.1396484375
+        ],
+        [
+          541.6673583984375,
+          330.1396484375
+        ],
+        [
+          541.6673583984375,
+          361.9692687988281
+        ],
+        [
+          154.8203125,
+          361.9692687988281
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        330.1396484375,
+        541.6673583984375,
+        361.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/157",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(3) Gegenteiliges ergibt sich auch nicht aus der vom Ag durchgeführten  Markterkundung. Auf diese kann er sich schon deshalb nicht zur Rechtfertigung  des Wettbewerbsausschlusses zu Lasten der ASt berufen, weil er dieser  gegenüber die Anforderungen an das zu beschaffende System nicht vollständig  kommuniziert hat. Im Gegenteil hat er ausweislich des von ihm vorgelegten  Vermerks zum Ablauf der Markterkundung vom 24. Juli 2017 Teile der  streitgegenständlichen Anforderungen exklusiv mit der Bg besprochen (Betrieb  als Nutzerplattform, Messungsbeginn wenige Minuten nach Probeneinbau,  Probenwechsel in weniger als 30 Minuten). Er hat daher schon in der  Vorbereitung der Vergabe die fehlende Lieferfähigkeit der ASt aufgrund einer  von dieser nicht angebotenen integrierten Messelektronik unterstellt und in der  Folge allein die Möglichkeiten der Bg abgefragt, weil er deren System als  vorzugswürdigere Lösung angesehen hatte. Dies gilt es zu korrigieren.</li><li block-type=\"ListItem\">b) Hinzu kommt, dass auch das vom Ag für den Zuschlag vorgesehene Angebot der Bg  nach Lage der Akten jedenfalls nicht sämtliche an die Anlage gestellten  Anforderungen – im Sinne der in der Bekanntmachung genannten  Leistungsparameter – erfüllt. Da es aus sich heraus somit nicht zuschlagsfähig ist – zur Wahrung von Geschäftsgeheimnissen wird auf die Darstellung der einzelnen  Abweichungen zu den Parametern verzichtet – taugt es auch aus diesem Grund nicht  zur Rechtfertigung eines Alleinstellungsmerkmals der Bg.</li></ul></p>",
+      "page": 157,
+      "polygon": [
+        [
+          98.9453125,
+          386.46484375
+        ],
+        [
+          541.7425537109375,
+          386.46484375
+        ],
+        [
+          541.7425537109375,
+          779.4952812194824
+        ],
+        [
+          98.9453125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        386.46484375,
+        541.7425537109375,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.86822509765625,
+          80.58203125
+        ],
+        [
+          316.86822509765625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.86822509765625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Streitfall ist der Verzicht auf ein wettbewerbliches Verfahren seitens des Ag nicht  gerechtfertigt. Bei Fortbestehen des Beschaffungsbedarfs hat der Ag daher entweder  von vornherein ein wettbewerbliches, vergaberechtskonformes Verfahren  durchzuführen oder aber unter transparenter Bekanntgabe seiner Anforderung eine  Markterkundung vorzunehmen, um anhand der Rückläufer beurteilen zu können, ob tatsächlich eine rechtliche und/oder technische Alleinstellung der Bg besteht.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          126.88281249999999,
+          141.4296875
+        ],
+        [
+          541.7310180664062,
+          141.4296875
+        ],
+        [
+          541.7310180664062,
+          248.17926025390625
+        ],
+        [
+          126.88281249999999,
+          248.17926025390625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        141.4296875,
+        541.7310180664062,
+        248.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">c) Für die Fortführung des Verfahrens sieht sich die Kammer noch zu folgenden  Ausführungen veranlasst: Dem Ag ist zuzugestehen, dass die Frage, ob ein Auftrag  – wie hier aufgrund des angeführten Schutzes von Ausschließlichkeitsrechten – nur  von einem bestimmten Unternehmen ausgeführt werden kann, im Ausgangspunkt  von der Definition des Auftragsgegenstands und der Bestimmung seiner technischen  Spezifikationen durch den Auftraggeber abhängt. Es kann je nach dessen  Ausgestaltung durchaus die vergaberechtskonforme Folge eintreten, dass aufgrund  bestimmter Merkmale nur ein Unternehmen in der Lage ist, den Auftrag zu erfüllen,  wenn der Ag die ihm zustehende und dem Vergabeverfahren grundsätzlich  vorgelagerte Bestimmungsfreiheit, ob und was beschafft werden soll, sachgerecht  ausgeübt hat. Die vergaberechtlichen Anforderung an die  Beschaffungsbedarfsdefinition sind nach ständiger Rechtsprechung gewahrt, sofern  die Bestimmung durch den Auftragsgegenstand sachlich gerechtfertigt ist, vom  Auftraggeber dafür nachvollziehbare, objektive und auftragsbezogene Gründe  angegeben worden sind und die Bestimmung folglich willkürfrei getroffen worden ist,  solche Gründe tatsächlich vorhanden (festzustellen und notfalls erwiesen) sind, und  die Bestimmung andere Wirtschaftsteilnehmer nicht diskriminiert (vgl. OLG Düsseldorf, Beschluss v. 14. September 2016, VII-Verg 13/16, Beschluss v. 1. August  2012, VII-Verg 10/12, jeweils m.w.N.). Dabei gilt, dass eine Leistungsbestimmung,  die – wie vorliegend – zu einem völligen Wettbewerbsausschluss führt, größerer  Darlegungs- und Rechtfertigungstiefe bedarf als eine solche, die unter  Aufrechterhaltung des Vergabewettbewerbs im Ergebnis (nur) zu einer herstelleroder produktbezogenen Leistungsspezifikation gemäß § 31 Abs. 6 VgV führt (OLG  Düsseldorf, Beschluss vom 12. Juni 2017, VII-Verg 13/17). Bei Vorliegen  entsprechender rechtfertigender Sachgründe ist es dem Ag daher grundsätzlich nicht  verwehrt, ggf. wettbewerbsbeschränkende Spezifikationen aufzustellen. Diese sind</p>",
+      "page": 149,
+      "polygon": [
+        [
+          108.2578125,
+          274.63671875
+        ],
+        [
+          541.73486328125,
+          274.63671875
+        ],
+        [
+          541.73486328125,
+          760.535285949707
+        ],
+        [
+          108.2578125,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        274.63671875,
+        541.73486328125,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 107,
+      "polygon": [
+        [
+          292.470703125,
+          80.58203125
+        ],
+        [
+          317.498046875,
+          80.58203125
+        ],
+        [
+          317.498046875,
+          92.60003662109375
+        ],
+        [
+          292.470703125,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.470703125,
+        80.58203125,
+        317.498046875,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">entsprechend transparent zu machen und – auch für etwaige Nachprüfungsverfahren  – hinreichend zu dokumentieren.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          127.58000183105469,
+          121.6953125
+        ],
+        [
+          541.609375,
+          121.6953125
+        ],
+        [
+          541.609375,
+          153.25927734375
+        ],
+        [
+          127.58000183105469,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        127.58000183105469,
+        121.6953125,
+        541.609375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 107,
+      "polygon": [
+        [
+          298.58203125,
+          198.97930908203125
+        ],
+        [
+          311.38671875,
+          198.97930908203125
+        ],
+        [
+          311.38671875,
+          210.019287109375
+        ],
+        [
+          298.58203125,
+          210.019287109375
+        ]
+      ],
+      "bbox": [
+        298.58203125,
+        198.97930908203125,
+        311.38671875,
+        210.019287109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 1, Abs. 3 S. 1, Abs. 4 S. 1, 2 und S. 4 GWB.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          70.94400024414062,
+          236.4013671875
+        ],
+        [
+          519.0686645507812,
+          236.4013671875
+        ],
+        [
+          519.0686645507812,
+          248.17926025390625
+        ],
+        [
+          70.94400024414062,
+          248.17926025390625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        236.4013671875,
+        519.0686645507812,
+        248.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Danach hat der Ag als unterliegende Partei sowohl die Kosten des Verfahrens (Gebühren und  Auslagen) als auch die zur zweckentsprechenden Rechtsverteidigung notwendigen  Aufwendungen der ASt zu tragen.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          70.94400024414062,
+          274.63671875
+        ],
+        [
+          541.7132568359375,
+          274.63671875
+        ],
+        [
+          541.7132568359375,
+          324.04925537109375
+        ],
+        [
+          70.94400024414062,
+          324.04925537109375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        274.63671875,
+        541.7132568359375,
+        324.04925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Bg hat sich – abgesehen von der Teilnahme an der mündlichen Verhandlung – nicht am  Verfahren beteiligt, keine Schriftsätze eingereicht oder Anträge gestellt und damit auch kein  Kostenrisiko auf sich genommen. Daher ist sie nicht als zusammen mit dem Ag unterliegende  Partei anzusehen.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          70.94400024414062,
+          350.28515625
+        ],
+        [
+          541.7117919921875,
+          350.28515625
+        ],
+        [
+          541.7117919921875,
+          418.9692687988281
+        ],
+        [
+          70.94400024414062,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        350.28515625,
+        541.7117919921875,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung anwaltlicher Bevollmächtigter durch die ASt war notwendig. Es stellten sich  komplexe Fragestellungen in patent- und vergaberechtlicher Hinsicht, welche die ASt selbst nicht aufarbeiten konnte.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          69.84375,
+          445.8492736816406
+        ],
+        [
+          541.6472778320312,
+          445.8492736816406
+        ],
+        [
+          541.6472778320312,
+          494.82928466796875
+        ],
+        [
+          69.84375,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        445.8492736816406,
+        541.6472778320312,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 107,
+      "polygon": [
+        [
+          298.010009765625,
+          540.5492858886719
+        ],
+        [
+          311.677734375,
+          540.5492858886719
+        ],
+        [
+          311.677734375,
+          551.5892944335938
+        ],
+        [
+          298.010009765625,
+          551.5892944335938
+        ]
+      ],
+      "bbox": [
+        298.010009765625,
+        540.5492858886719,
+        311.677734375,
+        551.5892944335938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt, beim Oberlandesgericht Düsseldorf Vergabesenat , Cecilienallee 3, 40474 Düsseldorf,  einzu¬legen.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          70.94400024414062,
+          578.052734375
+        ],
+        [
+          541.4576416015625,
+          578.052734375
+        ],
+        [
+          541.4576416015625,
+          646.6292877197266
+        ],
+        [
+          70.94400024414062,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        578.052734375,
+        541.4576416015625,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die Tatsachen und Beweismittel  ange¬ben, auf die sich die Beschwerde stützt.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          69.84375,
+          673.435546875
+        ],
+        [
+          541.5018920898438,
+          673.435546875
+        ],
+        [
+          541.5018920898438,
+          741.4592895507812
+        ],
+        [
+          69.84375,
+          741.4592895507812
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        673.435546875,
+        541.5018920898438,
+        741.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 33,
+      "polygon": [
+        [
+          292.8499755859375,
+          80.58203125
+        ],
+        [
+          316.86822509765625,
+          80.58203125
+        ],
+        [
+          316.86822509765625,
+          92.60003662109375
+        ],
+        [
+          292.8499755859375,
+          92.60003662109375
+        ]
+      ],
+      "bbox": [
+        292.8499755859375,
+        80.58203125,
+        316.86822509765625,
+        92.60003662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 33,
+      "polygon": [
+        [
+          70.94400024414062,
+          122.1064453125
+        ],
+        [
+          538.9609375,
+          122.1064453125
+        ],
+        [
+          538.9609375,
+          153.25927734375
+        ],
+        [
+          70.94400024414062,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        122.1064453125,
+        538.9609375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist.  Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über  die Beschwerde verlängern.</p>",
+      "page": 33,
+      "polygon": [
+        [
+          69.84375,
+          180.076171875
+        ],
+        [
+          541.6300048828125,
+          180.076171875
+        ],
+        [
+          541.6300048828125,
+          267.236328125
+        ],
+        [
+          69.84375,
+          267.236328125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        180.076171875,
+        541.6300048828125,
+        267.236328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Zeise</p>",
+      "page": 33,
+      "polygon": [
+        [
+          150.25999450683594,
+          331.373046875
+        ],
+        [
+          429.8034362792969,
+          331.373046875
+        ],
+        [
+          429.8034362792969,
+          343.00927734375
+        ],
+        [
+          150.25999450683594,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        150.25999450683594,
+        331.373046875,
+        429.8034362792969,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 33,
+      "polygon": [
+        [
+          403.056640625,
+          330.9619140625
+        ],
+        [
+          430.412109375,
+          330.9619140625
+        ],
+        [
+          430.412109375,
+          340.0068359375
+        ],
+        [
+          403.056640625,
+          340.0068359375
+        ]
+      ],
+      "bbox": [
+        403.056640625,
+        330.9619140625,
+        430.412109375,
+        340.0068359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2",
+        "2": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

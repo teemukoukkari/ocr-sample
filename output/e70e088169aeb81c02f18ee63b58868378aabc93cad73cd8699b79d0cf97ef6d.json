@@ -1,0 +1,2424 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          386.759765625,
+          45.224609375
+        ],
+        [
+          428.3710021972656,
+          45.224609375
+        ],
+        [
+          428.3710021972656,
+          55.59613037109375
+        ],
+        [
+          386.759765625,
+          55.59613037109375
+        ]
+      ],
+      "bbox": [
+        386.759765625,
+        45.224609375,
+        428.3710021972656,
+        55.59613037109375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 130,
+      "polygon": [
+        [
+          21.593359375,
+          37.86533203125
+        ],
+        [
+          199.578515625,
+          37.86533203125
+        ],
+        [
+          199.578515625,
+          100.27529296875
+        ],
+        [
+          21.593359375,
+          100.27529296875
+        ]
+      ],
+      "bbox": [
+        21.593359375,
+        37.86533203125,
+        199.578515625,
+        100.27529296875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADQAlEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKCQASTgCgAooBB6GgkDrQAUVhah4x0DTrn7JLqMUl5nAtLf97MfpGuWP5VUGq+JtUBOnaLHYwkfLNqUm1m9wi5I+jAUAdRRXNf2L4kuIwtz4nCZ+8tvZqpH0bOf0psfhrWbXLWviq8Ln/n6iWZfyyMUAdPRXJSeIdY8PLnxHYiazA5v9PRpAv8AvoBuH1AI96kjuvFGuESWsEei2ROVe7TzJ3GOvl9F+hIPtQB1NFcs3hbVZJPNfxXqIlPUIoVP++akfTfFduoa2161uiD/AKu5tNgI92Uk/pQB0tFcx/wkeq6YxXXNCnWIZ/0vTwbiP/vkfOPqVArT0rxJouuA/wBmana3TKPmSKUFk9iOoP1oA1KKKQsB1IFAC0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVyfii6fWbpPClhIPMuQG1CQH/U22fmHHQv90exJ7VZ13xDMl4NE0SMXOryr8xPMdqp/jkP8l6n6Vd0DQYNCs3QO093O3mXV1J9+d/U+gHYdAPxoAzovAOhWuRYJd6cp+8thdyW6t9QhANRXfhLw2jwR6vNc3iyPtii1K9knQt7B2IzXWV8tfFH4g6xca1qvhm92SWtpemS3n8oxzRMPu4wcFR24yeDmgD6W0uw0vTrdrXS7W1t4Y3IaO3QKFb6DvV+vFPgLrGt65d+IL+8w1lKYcsxJJmC7cg98gc++K2vi34kutElsLddQudPt54pGW4tNrSLKoyoZG+8p9sc9+1AHf6l4h0fSCo1DUra2LHAEkgBJq7b3MF3EstvNHLGwBDIwIr43tGils7e+8Q6VeXfmsYzeGZnMoblTy33wfwIPTPJ1dJ1G48Na9O4u9a0fTvsjS/ZIpASzAr8o3ZCgkghiCRnHPUgH1x1oryzx18U5/B/hTSJre1iuNW1CIOiyMWRBjljjG7sOCOteb2vxQ+J41i+cqsk9thpNMeyJCqfTaN2Pq350AfTdFebeBdc8e6+V1LxNbafo+lRfOFSJkkm4I53Mdq857HIFbGtfFHwjojNFLqqXNyPu29oPNdz6Ljgn8aAOxrL1Xw1omuFTqmlWd2yAhGmhViufQnpXi3xJ+MV+bW0g8NvNYuXJudwVpQvZSMMqk/Un6V3Pgz4t+GPEEVrp7XsttqQRIzHeKFMj45ww4PPrj6UAdAvgnTYlCW95q9tEPuxW+pzxov0UNgVVvvh7o89vNLEszantzBfXE7TTRMOhDuSRXXUUAY3hvWJNW04rdx+RqVq3k3kH9yQdx/ssMMPY1s1zmvaJdG9j1zRHEWqwLteJjiO7j6+W/uOdrds+hq9ouvW2tQsFVoLuLie0l4kiPv6j3HBoA1aKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuR8Y+L7TRJrbSf7QtrK8vFLefcOFSGMdX56n0Hc111cdoWm2lz428RajdQxyahHKkKFlyY4tvy4+o5oAs+FNS8KGP7FomrWV3ctmSXE6tPKe7sOp6/SuorgvF+o6YdTm0jUtHl+zQ28dz/aNvjdbF2ZVfA5GCh5/xrY8J6vPcLNpV/crcXtoqutwvS5hb7kg9+CD/wDXoA6WvnL4q+E/Hut+MZreDTlu7G7IaBrWMbVVc7fMcgbWx1ycfWvo2orq3S7tZbeQsElUo21ipwfQjpQB8rfC/wCJU/w81SfR9WiZtLeYrOFGWgkHBYY6jjke3Fdn8RLrS/EnjDSb+01SyvoRBvihEmI0hHzTNK38I2g8ct7VgfEj4YQ6LMRYWNta28j7o7yS6kYucHKEMcZ75rldBstmmW1xDZ293e2l2vn203+smDNsSNR1KHPNAGjpHg+TXNME1pqsh8MqWaAz3EMTx3ZAAjZWfgnHHPIwe9JJo9zb3moafrN29x4hksAbqIyI3lQIyMVQg4aUIm7bwNoPOalW00jw/wCH49P1hY7mGe9kvbGU+aVlhICBx5Z4J2Hg03V7H+0tXutRsohjWYorbTw4IKKPLjMmTyo3Ls5/56UAdXfaL4Z8V+AdH02XxhpltqumxZtprmXyleM8gNuwR+GelSx+JfG9uDAPFvgosUCPf/bITKwHQkhsk/hXjfiuG1tvEE8Fp5QWPCSCE5jDj7wU+mayre2nu5lht4nlkY4CouSaAPTtU1XTrt2k8V/EG81aWFtotdLicqyHqN7BV/nWWPGPhHTPNi0fwjIwP+rvLq7xOM9eikCs3T/DOj2N4I/Furvp5x81tbRGWZT6MBwp9j60X0sDay9joGiLLp80ojt1nt900n/AiNwJ9qANqx+IugQLBDL4OhSNJ/PMsV0WfcRgkgr83HYmqd/c+HdZ0zR9C8IaHfPrn2glr2VAJZeSQMKzdM8njG3Nctr+nNpWt3Vk8DW7RvgwscmM/wB0n26V3/ww+Jt54Ws5NJSxsp1ZzKktzL5ZUcAqD+oH1oA+pdPjlh0y1jmz5qQor5OfmAGf1qzWV4e1218RaPDqFq6MrjDqrBtrdxkVq0AFef8AirWfC8t2lxZ+J9MsNetD+6m+0KVJ7xy4P3T0OeR1qx4k1uC91GfTZpnh0myKi+kjJ3TysMrbrjk8EEgeoHrWh4QvoNTtryGPQl022spvs8cThdxIGTlR06igC74V8SW3ifRkvYHi81T5c6RyBwjjqARwR6EcEVt1yGj2VppnxC1a305FjguLVLi5ijGFWfdjOPUrg119ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWFq3hv7bfjUrDULnTNQCbHnt1QiVewdXUg49cZ963aKAMXR/Dsemy3dzdXk+o312qrPcXO3lAMBAqgKFGTwB3Oc5rhr0HwV460hFJTTppmjgxztilIVoefSXyWHtv7cV6nXD/FjSnvvA097bxeZe6VLHf2+DjBjYFj/wB87qAO4rO1PXtJ0YxjUtQt7UyHCCR8E1at5d1jFM3eMMcfTNfLXxBTXvEWq32r6paXxinfytEthCQZIdzfNjBPAwSD139qAPoDxP488K6Loss2oarFJFKpQR2k26V8/wB3acg985FfNcPxCtLTxHLqEWnXU8LlRm7vXmmCq2VIduhBAI47c5rNsfBV2fGmlaHc2V9J57RNcBISpCMRuZT/AHQDySODmvZofgQLHbDbyWVxbecZpTcMweULykXCnaucZYc+1AHnsGqQWmkBtKtra/0xH8qGC8MgMZSKNncMrAgszElegOcYzWoyy2d818ssRunilieVhiOIFLaeEbRnYquWIOOSOepNex+F/hzp+leGZ9P1aK3vLq9kee8dE2p5j9QncADAHTpVnTPhv4d010cwzXbxjbG1zJuKr/d4A3Dpw2egoA+dNK+Fuqa3fwS+a0sTSqb4sBGUDH5mRuVYe/6V73feFdJ8BeC9Rm8MabaW96sDYup2JYZGCxc5IHsK8++Kh1m+12PSYbW507TogyWsdqSqMM4a4k2A7Y1z+P6jy+xs/F/iKObT7eTWbmz8syqHVyHXtnr1/GgDN8O3c8HiJrlLaPUb/bI0AmAkRpcffYN97A3EZ7469K+h/hD4bl82TxLqnnXtzc2sRtrq5bcybt29VB+7jAHGODiuc8B/AqVNPstV1ueS01IXMc6wLg+XGuTtbHUtx9B+Ve8wQRWsCQwRrHEgwqKMAUAeF/Ff4T395r0/inRYIrxHG+6sZCRkgckEEE56nkfWvKdV0q/u9Di1+y8HJpVhbPiS4jaRkc8Yysrtx9OOe9fVnjjUtQ0zwndyaVbyT6jKBDbLHHvw7cAkeg718v36+KdYi1mzn1HUJ9N01GkuSyHY8iMqsi7fl4Z+megz7UAdp8JviPHZ6nFbalqMSJdMImtYNKjhjQkgK5kjI9ecqa+g9Svo9O0u5vZGCpDEzlj04FfOvwB0K8Him9mv9GmNlJZECW4gITO5SMFhgn6V7J8ULoW/gC/twjs17ttECDkM5wKAMP4bafJrKrr93lrdHd7dWUfPO53Syn1Kk+UvoIzjrXWah4Zml1GW/wBK1e50ue4AFwIY43WXHQkOpwwyeRj3zWppGmxaPo1npsGPLtoViBAxuwOT9Sefxq7QBmaNosOjQyhZprm4nfzJ7mdgZJW9TgAD2AAA7CtOiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKzfENuLvw1qtsek1nNGfxQitKs/XZPJ8PanL/ctJW/JDQBW8JTtc+EtKmc5Z7ZCc/Ss7xf4u0nwpFY3uoQLNC03k+ajKTBnvjrjjnHStHwnAbfwlpcDjlbZQQfpXy/8UNH1bQfG2uToIbaymcYS2KojRv8AdBQdenOR15oA+ltA1nRNf1nUprGKM3tkUgebAy0bKHUg/wB05P5Vpavr2k6DAk2rajbWUbnarTyBAx9BmvGf2cdNRrbWNZku/MuJGW38rccqo5yR78AfQ1d+NGpfZ/EekWltGl1cz20sb2syB42U/dyD/FuwRQBp6j8edAhlI0vTtQ1SJELyTQx7VTBwfvfz961vD/xm8H62gWe/GmXIXLw3vybecYDHgnvxXzlY6iuieHbWXTvE+JZZ/wB5ZGyBMRKgOcknK4wMfxY9qvyXYstavNQstVttauLbTMtcvZBPK+aNUZSc/Ou4DceRjA7YAPrl0t7mEs6xyRumMkAgqf6VHHcWCyGOOW3VwPuqwBArwD4o+MdS/wCFf+GINLu7iOx1G33T3AYh3I42MR68kisPT/g0891eQNrem/ZAqPbakZcbjjPCbun19KAPqLzo9yr5i7m6DPWn14H4dn8DfDW7a/1jxK+va3EPJj8oGT7Op6hFJ4J9c/TGTnSn+MXiXWZGTw34VaGBAWlur4MVRP72Bj+tAHr2papp+kWhutSvILW3BwZJnCrn6mi1t9Om08fZYoHtJwZBsUFXDck++c5r5m8WzeK/HsFm8pupYre5MUDz2/lbnxuLbVACLjGM5PbNdD4W+MviXR9M0ybxLo4l0Ob9xFfouxiVwM+hwM9sn1oA+gkjSJAkahVAwABgCua8aBHj0SFxkSatb8fRq6OCZLiCOaM5SRQ6n1BGRXPeMEydCf8Au6tb/q1AHS0UUUAFFFFABRRRQAU1pEVgrOoJ6AmnV88/Gb/kr3hb/fg/9GigD6GphljDbTIob0J5rI8TeI7Twr4ZudXvGAjgjyq5wXbso9ya8T+Enhi88beLLvx54gXzYxMzQK5JDSe2f4VHAHTj2oA+hqKqalqljo9jJe6jdRW1tH96SRsAVxcPxn8DzXn2b+1gnOPNdCEP40Ad/RTIZoriJZYZFkjYZV0OQR9a5y8+IHhmw8Q/2FdanHFqG9Y/KYH7zYwM++RQB01FISAM9qwPDvjXQPFc1xDo18ty9uoaQAY2g8D+VAHQUVz2r+N/D+h63b6PqF+sN9cBDFEQctuYqv6g1o61reneHtMk1HVLlLe1jIDO3qTgD8zQBoUVj6B4o0nxPZSXmk3Pn28bbWkCkDNQ6L4y0LxDqN1YaZfLPc2uRMgH3cHH8xQBvUVQ1nWbHQNLm1LUpxBaQ43yEdMkAfqRUeha/pviTTRqGlXIuLYsVDgdxwaANOiuKu/iz4Msbye0uNYjSeCRopF2nhlOCPzFXdF+InhTxBdraadrNvLcv92Inax+maAOooqK5uYrO2luJ22xRKWdvQCuJ/4XH4G/6Dcf/fJoA7uiuS0f4l+FNe1WHTNO1RJrubPlxgHnAJP6A1oeIvGOh+FBCdZvVtvOz5e4ZzigDdoqCyvbfUbGC9tJVlt50EkbqeGUjINY48aaC3ikeGxfL/apJHkY5yFLH9ATQBv0Vy2u/EXwv4b1NtO1XU0t7pVDFCD0PSs3/hcfgb/oNx/98mgDu6KxvD3inR/FVtLcaPdrcxRNsdgMYNZHiD4n+EvDd01rf6ohuV+9FCN7L9aAOwornfDfjrw74sLJpGoxzTIu5oTw6j6Vd8QeJNK8L6el9q90Le3eQRByM5YgkD8gaANWiqmmala6vptvqFjKJbW4QPG4/iHrUGua9pvhzTW1DVblbe1VgpdvU9BQBpUVlaB4j0vxPpzX+kXS3NsshiLqOjAAkfkRV2/vbfTdPub67kEdvbRNLK5/hVRkn8hQBYornfDvjnw94quJrfR9QS5lhUM6gYwDW9PNHbW8k8zBYokLux7ADJNAElFczoPj/wANeJdRaw0nUUuLlVLlFB6Dqal8ReN/D/hSeGHWb9baSZdyAgnIzigDoaK4T/hcfgb/AKDcf/fJrodN8WaNq+gXGuWV4sunW4cyTAcKEGW/IUAbVFcJ/wALj8Df9BuP/vk05PjB4IkkVF1qMsxAA2nrQB3NFNjkWWJJEOVcBgfUGnUAFFFFABRRRQAUUUUAFFFFABRRRQAVheM5Vi8F6zubaZbSSBD/ALcg2IPxZgK3a5fxmxum0TRkYBr/AFKLdnskOZyce5iC/wDAqAOhs0MdjboRgrGoI/CvIvHnwU0zWdcufETazc2cDgyXUfkNcNu9Vwc46cYOMccdPZKCMjBoA+J9E8Q6z4C8Qy3ujzSrGsjR/voiqToDxuU/TPqK9B1TxvbeNdb0zUYdFuEnkCpKyPkyXCDdHBG/8ILAZbFeh/EL4d29zZXN7Y2jTxOC89sblo1XnOVVVPfk145oOlJqFudHinQXdnMssF1BN8kcbOPMZh1yoyc9gDQBc8LjTLvTn8R39lqMt7I8lhLFp1nHMrHap83aRhOGHAHJBII6VXn+x6BrGo6DbxSjT7KySeS4kiUu03ySI0i9dpJWMpkjLZOcCp5bKW40O3l0myka2upvtk1p5vlPayyYAX5eTGUCFc9Qc1Yk0sarqhhlIe6uY1fVJkIEaRRSRxtErA8lUKSNnptGe9AFqT4n+HU0OLwxrXg13s0AeRPP2tDKeTsUjIHpzXK3N/8ADZIT9l03xJI3aKS8iRPzCH+Vc34m1CLUtenltwfIQ+VESdxKLwCT3PvW94Y+FviXxLB9sS0NnpwXe15dAom3Gcjuw+maAFTx9Zaa5OgeEtKssx7DJdbrqTP97LYXP/AajvvFnj7VViinvdUKuAYkhiMe4dtoQDI+lWdA1Gx03WxY+HtDg1a+3/u7y95HyjJYJ0VRgnJPTrir8HhXxB4/8aSC01O2nuWPmXc1qWWC17YBHB/4DmgDl7Hx34r0xybbXb4E8ESSeYPybNd34b0Dxt8V9Js7a4vLaHw9aTHJAVBuzlsKo+9hu+BzXGeNfD15p/j6+0ZEnu7oS4U+X885Izu2juevHrTdC1jXfCF75DXeq6VBcEGRYBtZsdCA2B3oA+0bW3W0s4LZSSsUaxgnuAMVz/jtCvhz7aDj7BcRXePXY3T9ai8BeJn8RaGv2iK6jurcBZGuYwjS8cOMEjn2Nbmt2Canod7ZOCVmhZcD1xxQBforH8K351Lwvp1y7FpvJEc2Rz5qfI4/76Vq2KACiiigAooooAK+cvjldR2PxQ8PXk2fKgWKV8DJ2rICf5V9G187fGuKOf4seGoZUDxyGFXU9CDKARQBU8W+LB8X/GGjeGdHme20rcC7zYUu3c7c84HQZ5r6I0nS7TRNKttNsIhFbW0YjjUeg7n3PUn1rxL4vfD+PQrOy8WeF7UWctgymdbdcYHUP+Hf2r074eeM7fxv4Ut9STC3SDyrqP8AuSgc/geo9jQB5J8W7q58WfFfRfB4lcWCNH5iIcEsxO8+hIUccdzXper/AAn8JXnhqXTINLhtmWIiK4QHejY4bOefxrzDxCwtv2m9PkmOxWkTBPfKMB+tfQ83+ok/3T/KgDw/9nPxFeXun6nodxI0kNnslgLHJUNkFR7ZGfxrzr4rWl3e/GPVYbFGe5BWRAhwfkiDEj6BSfwrrf2agf7Y189vIi/9CakuQG/apjBAIM2CD/17mgD1P4X+MV8YeCoppWH2+1Xybpe+4Dg/jXl37Nn/ACG/EP8A1wi/9Cap7pj8IPi8Zc+X4f1kHd6ICeT/AMBOD9Kg/Zr51vxD/wBcIv8A0JqAGfGH/kunhv8A652f/o96ufF3U77xz440/wAB6IwYRSAznJCiT1b2UZJ61kfHW1kvvi9o9pFJ5ck9pbxI/wDdLTSAH8M1B4SuJvhP8X5LHxA6SRXKiF7xzwFYjEmT0GRzntmgD6G0Dw/ZeF/DMGkWC4ht4tuT1dscsfcnmvFvgd/yUnxZ/vP/AOjWr3+U5gcjnKn+VfP/AMDyB8TPFak4Ys/H/bVqAPRPjX/ySjWP+2X/AKNWs34Bf8k0h/6+Jf8A0I1o/Gs4+FGsf9sv/Rq1nfAIH/hWcB9biX/0I0AeafD/AETTdf8Ajl4js9VtI7q3El44jkzjcJhg8fU1o/HLwboXhWy0nVtCgGn3ZudhWFyM8Fg3J4IKjp61zPh/Sdf1n4w+IbXw3qo0y+E925nJIygm5XgHuR+VXPHWheJfCut6Pqnji4/4SLTll2gCUhSeu3ke2ffFAHu0V/d6p8J0vr5Nl3caYJJV2kYYpzwa8k+AvhTQvEOj6rLq+mw3bxXCqhkz8o2j0Nez6lf2uqfD64v7Fg1rcWBkiIGPlK8cV87/AAo+HA8cadf3B1y8077PKE2wDIbIzk8igD6J03wJ4X0fUIr/AE/Rre3uos7JUzlcgg9/QmvJP2kwWXQwOpZxXfeBPhiPBGsXGoDXr3UPOtzD5U4wFyytkcnn5cfjXB/tH/e0H/fagC58BvFc8cVz4M1bdFdWpMtqsmQSh5KjjsTkHPIbjpWPD/ydfH/11k/9Jmqx8SNDutAh8NfEDR0Kz28ECXezjdhBtY/UfKfoKw/C+t2/iP8AaO07V7UgxXJd8eh+zPkfgc0Ae+at4J8N65fNe6npFvc3LKFMj5yQOnQ14F8PvDej6l8avEOlXlhFNYwS3QigbO1QshAx9BX05Xzx8MP+TgPFH/Xe8/8ARpoA9juNFsfCvhPWT4fsktJBayyosQJzIEO04PfNeJ/AnR/D2vXurT67HDdasJB5UVw2SVIJYhT1Oa+jZZI4omeVlWMD5ixwK8m8Q/BHQtcnl1Pw7qL6bcvuP7ht0bN+HQfSgCvq/wAJNR074i2PiLwZ9js7VCrzwSzOo3ZwwUBTwRzgnrVj9ov/AJJ1af8AYTj/APRctcxY+MfGfwy8ZWfh/wAVXQ1KwuSuyXduO0naGU9eo6Gun/aL/wCSdWn/AGE4/wD0XLQB13wu/wCSYeHf+vNf615v8f8AVJb+/wBD8J2jN5lw4llVcEHJ2qCPUYJ/GvSPhecfDDw8f+nNf614OvjLRL747XHiPW7ox6bazN9nkiRnDbPlQ4APUDNAHTfAm+m8P+MfEHg28dyQxki3fKu6NtrED1YMp+i1674//wCSdeJf+wZcf+i2r541/wAaaJH8bLHxV4fujLaSNG1y8kbIAxyj8EDgLg19C+OpUm+GniKWM7kfSrhlI7gxNigD5j+DmstonxH02RuILpjbOzHCjd3P0r6H+L+u/wBg/DfUpUkMc9yBbREDPzN1H/fIavnnRNHe5+E99rUCkz6Vqyy4UdVKLnJ9BivR/Hesf8J/rfgLQLdgRexpf3QzlCD1H1GyQfjQBy37P8MkHxHmjlQo62j5U9ulbX7RKh/FHh9WGQYcEf8AA6d8MYkg+PGtxRjCJHKqj0AwBUf7RieZ4l0GPJG6AjI7Zc0AesWnw08GPZwM3h+0LNGpJ+bk4+tb1j4d0jTdIm0mzsIobCYMJIFztYMMN+Yrye3+ASy20Un/AAmOqruQNgL0yP8Aer1vQNJ/sPQrPTBcSXP2aPZ50n3n9zQB5D8aPBXhvQ/h/Ne6ZpEFtcieNRImc4Lc9TWl8J/A3hnVPhxo2o32j2894/mFpWzkkSuB39AKu/H3/kmM/wD18xf+hVqfBj/kkuh/7s3/AKOegDukRY0VEGFUAAegp1FFABRRRQAUUUUAFFFFABRRRQAUUUUAFcpYSLrfj+9uwoa30eD7JG23gzSEM+D6qEUf8DNTeOPFC+F/D01zGhlvpFKWsKnln9foOP0Hem+ANFm0TwhaRXTbr65zdXTnPzSPyevTjAx7UAdPXA+NvirpHg64NttjvrqMZmt47gLJH0I4IOetd627YduN2OM9M14Dr3wW8RXb3U8V3ZXWpaxKbi6mKtHHaEEsyIcsWBL4HA4SgB+v/tFpJpwi8P6W6Xsgx5lwdwjyOwHU5x7V5fH4s8fag7ajHrGqurTiP5ZmCFz0QLnH4V6FpfwS12y+IOmSA2semWvl3Ekx/eDKkbkwQMljnnsPpz7OfAnhv7Qk66ZHG8bvInlsyhXbqwAOA3oe3bFAHgGn6X4g13RtR1e3sXt7u1nkt52ssxEIsUaLGu3qgKt8o4FaVjosupi3t9JsBLbMsiL5YKRkywwCUbhjZIDEx5BB3CvoLSNHsNB0yHTdMt1t7SEEJGpJxk5PJ5PJq1HBFCWMUSJvOW2qBk+poA+ddU8EeGvBk+n33ie+FncCQS28VlCHlYKc4kX7hA7kAZrsPGvxS8H6x8P7yK01qQS3Me0W8KgTH/ZIP3R6ml8c/DHVvEPiCS+S8+1W8oZ5VkwGWNSCsEQ/hzjls/4VxWjfs767LeudYvdPgtnjbBgZpGVj0+Uhf50AeU+Ho5LjVVtUlkgivP8ARnkRc43H5RntlgPwzX1l8NfCTeGdDjknjEN3cW8SzwhQArJuGfqc1N4Q+HGi+FNBg07yIryVJhcPcSxDLyAYBx2AycDnGa7CgDz/AOInwz0TxdBJqcz/AGLU4Y8reI23O3pv7Ee/WvBPEFlBJ4K8/U/H39qapDIBFpyTtMijpwT396+nPGeiXniPwzcaPaXEVuLsiOeSRS2Is/NtAI+b0rw1Pgfr7/2xeNbWQXyJItOgLkSBlkUKzDGMlAx6nlvyAML4M3usjxOP7H021uXto/MuCzmN2hyAwGPvHngHvX1cOQDjFeO/CL4Vaz4J1m51XVby3zNb+UIICWzkg/MSB0x0FexUAcp4akGmeI9d8PsCqLKL+0UtnMUv3sf9tVkP/AhXV1598SftehXej+MdPjLvp8pt7yJFBMtvIRkZ9mAwPU12ul6naaxp0N/ZSiSCVcqe49j6EUAXKKKKACiiigArw/4q+GNb1b4n+Hb/AE/TLi4tIGhMssa5VMSAnP4V7hRQBXubSC+sJLO6iWWCaMxyRuMhgRggivBPC/hrxT8M/ifcxafpl3faBcSBHkjUkGM8qf8AeXOD+NfQdFAHkfxd+Hmp63qFh4p8ODdq1jt3R55cKdyFQeMg54759qw7/wCIXxJ1fSpdFt/CM1vqMiGOSdFYFQRjI54Ne8UUAeffCf4et4E0GT7YUfU7tg05TkIB0QHuB/MmuMn8La637R0etjS7g6YJsm62/JjySOv14r3SigDi/if4MXxr4OuLOJQb6D99aEnHzgdPxHH415/8AvC2u+HtU1qTV9LuLNJYY1jMq43EMc4r3SigDwn4o+Ftd1X4w6DqVhpdzcWUKWoknjXKrtmYnP0BBrpPjX4Cm8WeH4r/AE23aXVbE/IidZIz95R79/wr1KigDg/hTfa/N4Ti0/xHp11bXtkBEJJ1x5qD7p+oHB+led6z4O8WfDz4i3HinwrYnU7O7MjSRBclQ53MrD0zggj6V9AUUAfPXibXPiD8T9OXQbXww9hZSyJ58jggEg5AJPQZAP4V7L4J8LxeDvCdloscnmGFSZH/ALzk5Yj2yTXQUUAeE/DbwtrumfGrXtUvdLuILGY3flzuuFbdMCuD7jmui+PGg6r4g8I6fbaTYzXk0d+JGSJckL5bjP5kV6pRQBxWiadew/B+z02W2kS9TS1haBh8wcJjGK8c8ATfEPwBZ3dtZ+DJrlbmQSMZkbIIGOMGvpiigDzDwr428e6t4ktLLWPB4sLCUt5tztYbMKSOp7kAfjWP8d/Des6+2jf2Tp0955TMZPKXO3617PRQBiLo0OqeDIdH1GHMctkkMqMM4OwD8wf5V4N4A+HPiHwv8ZbF59NuDptrNMBebfkKmJwpz+IH1r6UooAK8P8Ah74X1zTvjX4h1S80y4gsZ5roxTuuFcNISMH3Fe4UUAZfiPRo/EPhzUNJlO1bqFow391v4T+Bwa8K8M33j74UR3OlTeHJNR04ylkkTJAP+yR619E0UAfPA8OeMvip45sNY1zS20nTrQJtyuPkDbsLnqSa7r46aJqev+Bba00qymu7hdQjkMcQyQoSQE/mR+dem0UAed2Ca1oXwNtre1sbr+2Y9O8mOCNf3iSHIBx7E5rmPhB8Lra38P3Vz4s0C3lvJ5j5cd5CrsiAY6Hpk5Ne10UAePfFn4Xafd+Elm8L+H7WHUYJ1YrZwKjSRkEEYGM87T+dbljHrWp/A69sb6wuk1b+y57byZR88j+WQMD3yAK9FooA8W+EfgzUIfh54i0bXtNmtvtsxAjlG0sDGBn8xVD4KeA9b0fxTf3+vWc8P2KD7NaecMqwZySU9hj/AMer3iigDxLwH4Z1vT/jVrWqXemXENjKJfLndcK2cYwah+O3hnXtb17RrnSNKuL1IITvMS5AO7ODXudFAHikPxE+J8MKRDwACEUKCUft/wACr0nwVrGt65oH2vX9K/sy985k+z4I+UYweSeuTXRUUAeefGjR9Q1z4fTWemWkt1cmeNhHEMnAbk1o/CnTbzSPhpo9jqFtJbXUQl3xSDDLmVyM/gRXZUUAFFFFABRRRQAUUUUAFFFFABRRRQAVm67rCaJppumhknkZ1iihj6ySMcKvPAya0q4f4h2V1qtx4e02G/axgnvsyzqOQVGVAPZieBQBlabpNx4p8WyXGpTRXSWLj7W0eTEko5W3jPcJnLnuxHoQPTap6Xpdno2mw6fYQrDbQrhVH6knuScknuTVygArxr4gfF2LTZ5LPSriS11jTbvEtrOh2XEY64IyOe2SDXstfIXxbXQB441c6euoLeNcZk80ARbuj4z8x56HpQB7r8NPiOvjXVtZtWyPKKTwDHAQqAy59m/nW14y8Y3PhyWC207Tl1G9kjec25mEbGJfvFAfvt/sjmvKv2d/EWh2S3+jTssGq3UgkR3OBMqjhR7jJOO+fatH4z/aNU8UaXYD/R7GBQs10Rja0p2gbupGDyKAOXn+KXjDxQ0dxZa7p2kozOqWythwRyAxI5yDwenGOvFb/hr4u+KxqUmi3Nlp+ryxQiY3cdyIkRBjczseBjODnBzxivKf7Ou7iBdGGkW0WpW2bh5yqr5kAVcc9+5z3zVtLY6vBd39rp6afbPbrDZrGAjTTM8atyOq/e68DIHegD6n1TxlomheHYNb1W9S3tZguwjLFyeygct+HbmuEi/aE8KPcbXs9Tjt9237S0IKfoc/pXE/ELR9e8S/Dvw3q6Wcrf2fE0V7bImNrD+LHpx+tUba9+GCSXt5JpWsA3ca50pUYJEw64YdefyoA9t0D4l+HvFWqJYaC91fPgtNItu6JAvYsWA6ngAZNdjXgej+MNeGnix8A+CI9JspP+Xu6AADerMeDwMc1iaq2p6kJJvFnxBsJChy+kw3e1WI7fKcAeuOaAPX/HXxO0fwVBGrYvbyRzGIIZF/dsP7/Pyiuu067+36ZaXmFHnwpLhW3AbgDwe/WvmQ+HNB1y0thdeNNKkkWbAt428oRxY+6injJbOT3zVVLXXfhlo2leIrbXljurq4YPpQcnKKSORnkYH/AI8tAH1fRVexuGutPtrhgFaWJXIHYkA1YoAr31lBqNhPZXK7oZkKOPY/1rzOwk1LwRcX6JGZUs0M91bFgPtNsOs8WeN6jhl78dyAfVKxfEvh+DXtPKNKbe5iDNBcDrGSCCD6qQSCDwQTQBrxSpPCksZBR1DAj0NPrnPATyv4D0Rp23P9kT5v73HWujoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK57xpZz3XhyWa0ybuydLuAAZ3PGdwH44roaQgMpUjIIwRQBBY3kOo6fbX1uxaC4iWWMnurAEfoasVy3hh/7I1LUPDMrcW7m5sif4reQk4HP8Db0x6KvrXU0AFYGveE9H1uZL+60ixu9Rt0YW73KZXOOAw/iH1zit+igD4x8U+DdW8O6jc3NxPZR3aTmQ29l5mYiTuBX5AAB7Hitiz8Ta5qcei32sa23lxl7aF5It5gUgq05I/jUngnn3r6R8YeEbDxPYH7Q0kU8KsUkSXy88fdY4Py+vBxXgGmp4fsdZudBuNTs47KSWPNt9qadJJFcEgy+WoVWxjOcDPNAEXhy+13TvBptrOK0F7balLau9zZCeWOIKpMf3WwpYtnP4VX1+6uIPFviC6QW62sOnJbLbRwjyH3rGTGqjG3DM0g90+tX71F8mC31vVn0q8tI1imurdpPLuZCBIwYxBsyL5gUk8HGQfR0aRQTWjXkbizsY5ZYweXlkieGUSSeoaOXYM+vvigDAu/HvjTwrqK21n4jnaNYEWNmUOGTHB2uGwf1qq/xb8bySGVtYTzSMeYLKAN/30EzWFqEWqa3ri3NxBKkupS5gaZfLV8nAwTgY6c9K9fs/glpXhTQrnXvGWorcLbRmQ2tsSEJ7DcRk59AKAPMbK38aePJvs0MuqaopbJ82ZmjU/icDrUV94c0zSbi4sNT1to9SgYq0UFr5sW708zeP/QatWOuy6xrbtc6lLo+jwq0pgs3K7Ix0RQCNzEkDJ+vQV33w9+HGmeL/ABA95eWT2ul2qxzC3lmMstzvyVLPgDbxzj6Z70AeMXds1ndSQM6OUOA6HKsPUexr0v4YWHw3ljS+8U6hLDqEE3y20z/uJBwVb5Vz1zkE4/OqvxZ8JS6F8QLhpYjbaVduHt51jJjUEfd4/u9MdeK5aaGHw9cwXOneILG+d8q5tYJCYxx1Esag59vTtQB9uWssE9rFLaujwMoMbR/dK9sVLXk3we8ZHU7MaU/9sXUQBaC9udOEUQI6x70Zl+mcfma9ZoAK5zxxdyQ+GJ7O2/4+9SZbCDHVWlOwv/wEEv8ARa6OuXhb+3PG7zDJs9FUoh5w9y4IJ/4ChI/4HQB0Nlax2NlBawoEjhQIqjoABU9FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBz3ijS7mZbbV9NDHU9PJeNAcech+/GfrgY9xWnpGq2+taZDfW2Qrj5kb7yMOqkeoPFXq5m/0y/wBH1OXWdETzkm5vNOJwJiB99P7sn6MOD2IAOmr55+JfxU1q41e/svDkk1na6RL5dxdLJs3SbiMe4O0gD2Ne56Rrdhr9mZLSU5xiSFxtkjPcMOorl9Q+EfhO/htbc2RhtosmaOFyhuT/AAmRh8zEcnOe5oA+e9W8e+OvGbWOhXl8UF2VSONQIRNuIC7j35HeoYPhlqiMsGoh7W6eYrgjKRxL9+Vz/dA6etfQkPwg8NReMItf8hj5EcflQGRiBImMOcnnACgDp1PNeg0AeD+EfhVc6z4KmmuLq4haaeWSwW5TDGIqqKXHbKoDx61q2Hw28Q38yf2gILAQvlZEkBcHy1j3xMvOCsakq3BOPSvY6KAPBPGGu2XgCZ9O8N2dpe6hGEkvZ5VG2NwflwnTec9q5/V/jx4i1TR7nSxo1tBdbCskyklkxwTg8A17hrXw+0TWtRW/kjkhuYy0iGBigEx6TED7zjsTmsvRPg14N0OcTx6e9xN5fllriVnB9TtzjJ+lAHz34H8B694gntdZh09bmwa8FvKZP4gwO9sd8DnPrivqvw14dtPDWj29hbAM0USxNMRhnC5xn6ZNaFlY2um2cVnY20VtbRDCRRIFVR14AqxQBgeNJdKtvCWpXOs2qXNlFCzSRsoJb2Ge9fLWq6to8fh2fRLDwhFBdPicXcrmSeOM4OSe2Rjj0b3r611fRbDXbRLXUrdZ4FlWURt0LL0yO49jXEw/Bnw1Hb6vuE7XWqCVZZxIRtR3DhVUfKACq9qAPEvgnocfiDxbLBNfXFs9rB9pt2ikIxIHXBx0P0r6yHAAzmuT8J/Djw14Mna50myZLt4vKkneVnLDgngnA6dhWhq/iSGxn+wWURvtVdSY7WI9Pdz/AAigA8S6xLYW8Vlp4WTVr0mO1jJ6f3pD/srn8yB3q1oWkRaJpMNlGdzDLSyd3c8sx/GqHh3w9NZXE2r6vMt3rl0AJZgMLCg6RRj+FR+ZOSa6GgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDF1XwxY6nOLtGmsr9cbby0bZJ9DwQw+oNUM+MdJGNthrluijncbafj2+ZXb3yo+ldTRQBzKeNbSHcuqabqumSD+Ge0aUEeu6HeoH1IrTsPEei6o6pZaraTyMMiJZhv/wC+eo/KtIgEEEAg9jWbf+HdH1OIR3mm28qg7h8mDn6igDTormR4TmsFX+xNZvLILnbBKfOhA9Ap6VGfEmo6HhfE1iI7bOP7RtMvAOgG8dU+pG33oA6qimQzRXEKSwyLJG4yrqcgj2NVdU1ax0WyN3qFykEIIUFjyzHoAO5PoKALtISACScAdSa5YX3ifXH/ANAtE0eyPS4vU3TsOeVi7dvvYNOXwPZXOxtavbzVnXJxcynywfUIOlAF278X+HrJikmrWzyA7TFA3nPn02pk/pVJ/F810xTRvD+qX/QCaSMW0QPv5hD/AJKa3LTSdPsYkjtbKCJYxhdsYyB9auUAcsdN8U6uGXUdSt9JtyeYdNBllI/66uAB/wB8fjWzpWh6dosLR2NuIyxy8jEs7n1Zjya0KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkIDAggEHqDS0UAclPod/4cme78LxpJbyPum0t32xknq0Z/gPsODVnR/Dci3v9sa7Mt7qzcpx+7tR/ciHYe/U9zXSUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ragn-Sells AS Suur-Sõjamäe 50A  11415 Tallinn</p>",
+      "page": 130,
+      "polygon": [
+        [
+          90.505859375,
+          139.24151611328125
+        ],
+        [
+          185.31201171875,
+          139.24151611328125
+        ],
+        [
+          185.31201171875,
+          178.84149169921875
+        ],
+        [
+          90.505859375,
+          178.84149169921875
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        139.24151611328125,
+        185.31201171875,
+        178.84149169921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">13.11.2023 nr 5-5/2023-038</p>",
+      "page": 130,
+      "polygon": [
+        [
+          388.510009765625,
+          180.4873046875
+        ],
+        [
+          523.9000244140625,
+          180.4873046875
+        ],
+        [
+          523.9000244140625,
+          192.6414794921875
+        ],
+        [
+          388.510009765625,
+          192.6414794921875
+        ]
+      ],
+      "bbox": [
+        388.510009765625,
+        180.4873046875,
+        523.9000244140625,
+        192.6414794921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud elektrooniliselt e-posti aadressile</i><i><a href=\"mailto:eesti@ragnsells.com\"> eesti@ragnsells.com</a></i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          216.214111328125
+        ],
+        [
+          375.9921875,
+          216.214111328125
+        ],
+        [
+          375.9921875,
+          227.3564453125
+        ],
+        [
+          89.6328125,
+          227.3564453125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        216.214111328125,
+        375.9921875,
+        227.3564453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teade järelevalvemenetluse lõpetamisest</b></h1>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          260.71148681640625
+        ],
+        [
+          298.7640075683594,
+          260.71148681640625
+        ],
+        [
+          298.7640075683594,
+          272.71148681640625
+        ],
+        [
+          89.6328125,
+          272.71148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        260.71148681640625,
+        298.7640075683594,
+        272.71148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>1.</b> <b>Järelevalvemenetluse alustamine</b></h1>",
+      "page": 130,
+      "polygon": [
+        [
+          106.51171875,
+          304.511474609375
+        ],
+        [
+          298.58203125,
+          304.511474609375
+        ],
+        [
+          298.58203125,
+          316.511474609375
+        ],
+        [
+          106.51171875,
+          316.511474609375
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        304.511474609375,
+        298.58203125,
+        316.511474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile laekus 29.06.2023 avaldus Pärnu linna korteriühistu esindajatelt seoses  Ragn-Sells AS-i (edaspidi Ragn-Sells) jäätmeveoteenuse lisateenuste hindadega Pärnu linnas.  Kaebuses viidati Pärnu nr 1 (Tammiste, Ülejõe, Rääma, Vana-Pärnu) jäätmeveopiirkonna  hinnakirjadele, kuid samad hinnad kehtisid ka teistes Pärnu jäätmeveopiirkondades. Hinnakirja  kohaselt rakendatakse jäätmevaldajale jäätmekoti või ratastel kuni 800L konteineri  käsitranspordi (kuni 15m veoki peatumiskohast) ühe korra eest tasu 12 eurot. Kaebuse esitaja  palus Konkurentsiametil kontrollida, kas sellise lisatasu võtmine on vastavuses  konkurentsiseadusega (KonkS).</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          331.373046875
+        ],
+        [
+          547.3839721679688,
+          331.373046875
+        ],
+        [
+          547.3839721679688,
+          455.4914855957031
+        ],
+        [
+          89.6328125,
+          455.4914855957031
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        331.373046875,
+        547.3839721679688,
+        455.4914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>2.</b> <b>Faktilised asjaolud</b></h1>",
+      "page": 130,
+      "polygon": [
+        [
+          107.384765625,
+          491.25146484375
+        ],
+        [
+          223.843994140625,
+          491.25146484375
+        ],
+        [
+          223.843994140625,
+          503.25146484375
+        ],
+        [
+          107.384765625,
+          503.25146484375
+        ]
+      ],
+      "bbox": [
+        107.384765625,
+        491.25146484375,
+        223.843994140625,
+        503.25146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ragn-Sells on Pärnu linna korraldatud jäätmeveo piirkonnas olmejäätmete veol turgu valitsev  ettevõtja, kellel on KonkS § 16 järgi keelatud oma turgu valitsevat seisundit kuritarvitada.  Sellega seoses alustas Konkurentsiamet 10.07.2023 talle laekunud avalduse alusel asjaolude  väljaselgitamiseks järelevalvemenetlust Ragn Sells tegevuse suhtes.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          513.5048828125
+        ],
+        [
+          547.39599609375,
+          513.5048828125
+        ],
+        [
+          547.39599609375,
+          574.6514587402344
+        ],
+        [
+          89.6328125,
+          574.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        513.5048828125,
+        547.39599609375,
+        574.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pärnu linnavalitsus korraldas riigihanke \"Korraldatud jäätmeveo teenuse kontsessiooni  andmine Pärnu linna\" viitenumbriga 251779 (edaspidi riigihange), mille alusel on Ragn-Sellsil  Pärnu linna jäätmeveopiirkondades nr 1, 2 ja 3 alates 31.10.2022 kuni 31.08.2027 jäätmeveo  kontsessioon (ainuõigus).</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          586.5314636230469
+        ],
+        [
+          547.3839721679688,
+          586.5314636230469
+        ],
+        [
+          547.3839721679688,
+          647.5341796875
+        ],
+        [
+          89.6328125,
+          647.5341796875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        586.5314636230469,
+        547.3839721679688,
+        647.5341796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vastavalt kehtestatud lisateenuste hinnakirjale, on Ragn-Sells kehtestanud alates 01.12.2022  lisatasu 12 eurot kord \"jäätmekoti või ratastel kuni 800L konteineri käsitranspordi (kuni 15m  veoki peatumiskohast)\" teenuse eest. Varasemalt kehtinud hinnakirja kohaselt maksis sama  teenus 4,20 eurot kord.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          658.0814666748047
+        ],
+        [
+          547.3599853515625,
+          658.0814666748047
+        ],
+        [
+          547.3599853515625,
+          717.7214660644531
+        ],
+        [
+          89.6328125,
+          717.7214660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        658.0814666748047,
+        547.3599853515625,
+        717.7214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaebaja hinnangul on selline lisatasu võtmine vastuolus konkurentsiseadusega, kuna tegemist  on põhjendamatult kõrge hinnaga võrreldes teiste jäätmeveoteenust osutavate ettevõtjate poolt  kehtestatud sama lisateenuse hindadega ja varasemalt kehtinud hinnakirjaga.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          729.4814605712891
+        ],
+        [
+          547.3480224609375,
+          729.4814605712891
+        ],
+        [
+          547.3480224609375,
+          774.57421875
+        ],
+        [
+          89.6328125,
+          774.57421875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        729.4814605712891,
+        547.3480224609375,
+        774.57421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          89.6328125,
+          794.7197265625
+        ],
+        [
+          447.8303527832031,
+          794.7197265625
+        ],
+        [
+          447.8303527832031,
+          805.5434112548828
+        ],
+        [
+          89.6328125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        794.7197265625,
+        447.8303527832031,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>Ragn-Sells</b> <b>AS-i</b> <b>esitatud selgitused </b></h1>",
+      "page": 172,
+      "polygon": [
+        [
+          108.73999786376953,
+          46.4580078125
+        ],
+        [
+          306.8420104980469,
+          46.4580078125
+        ],
+        [
+          306.8420104980469,
+          58.94146728515625
+        ],
+        [
+          108.73999786376953,
+          58.94146728515625
+        ]
+      ],
+      "bbox": [
+        108.73999786376953,
+        46.4580078125,
+        306.8420104980469,
+        58.94146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet esitas 10.07.2023 Ragn-Sellsile teabenõude, milles palus Ragn-Sellsi poolt  kehtestatud jäätmeveo lisateenuse \"jäätmekoti või ratastel kuni 800L konteineri käsitranspordi  (kuni 15m veoki peatumiskohast\" (edaspidi lisateenus) hinna 12 eurot kohta selgitusi ja  kuluarvestuse esitamist.</p>",
+      "page": 172,
+      "polygon": [
+        [
+          89.6328125,
+          69.892578125
+        ],
+        [
+          547.3839721679688,
+          69.892578125
+        ],
+        [
+          547.3839721679688,
+          130.48150634765625
+        ],
+        [
+          89.6328125,
+          130.48150634765625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        69.892578125,
+        547.3839721679688,
+        130.48150634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ragn-Sells selgitas 31.07.2023 esitatud vastuses teabetaotlusele, et järelevalvemenetluses  vaatluse all oleva tasu näol ei ole tegemist teenusega, mis oleks seotud korraldatud  jäätmeveoteenuse raames antud ainuõigusega ega ka teenusega, mis oleks selle teenusega  seotud ulatuses, millele puuduvad alternatiivsed lahendused ning millest tingituna laieneks  antud teenusele turgu valitsevast seisundit tulenevad piirangud. Ragn-Sells lisas, et korraldatud  jäätmeveo teenuse aspektist lähtuvalt on kogumismahuti käsitransport jäätmeveokini kuni 10  meetrit jäätmete vedamisega seotud toiming ehk teenustasu osa. Pikema vahemaa korral on tegemist jäätmevaldaja enda valikuga, kas ta soovib seda teenust vedajalt, lahendab selle  alternatiivselt parema asukohaga või toob jäätmevaldaja ise/haldusettevõtte abil konteineri  korraldatud jäätmeveo teenusega määratud alale. Selle teenuse osutamiseks sõlmivad  jäätmevedaja ja jäätmevaldaja vastavasisulise kokkuleppe. Ragn-Sells viitas seejuures  riigihankelepingu punktile 2.5, mis sätestab, et vedaja võib lisaks korraldatud jäätmeveole  pakkuda jäätmevaldajale lepinguga soetud lisateenuseid, mis teostatakse jäätmevaldaja ja  vedaja vahelise lepingu alusel. Lähtuvalt Pärnu linna jäätmehoolduseeskirja § 7 lõikest 7 on  jäätmevaldaja kohustatud kuni 1100 liitrise käsitsi teisaldatava ratastel väikemahuti paigutama  seda tühjendava jäätmeveokiga samal tasandil paiknevale jäätmeveokit kandvale pinnale, mis  ei ole jäätmeveoki lähimast võimalikust peatuskohast kaugemal kui 10 meetrit. Pikema  vahemaa korral määratakse tühjendamistingimused jäätmevaldaja ja jäätmevedaja vahelise  kokkuleppega.</p>",
+      "page": 172,
+      "polygon": [
+        [
+          88.46875,
+          141.4296875
+        ],
+        [
+          547.4080200195312,
+          141.4296875
+        ],
+        [
+          547.4080200195312,
+          439.9914855957031
+        ],
+        [
+          88.46875,
+          439.9914855957031
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        141.4296875,
+        547.4080200195312,
+        439.9914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sellest lähtuvalt on Ragn-Sellsi hinnangul tegemist teenusega, mille osas ei ole ettevõttel  kohustust antud lisateenust pakkuda kui eraldiseisvat kokkulepet ei ole sõlmitud. Sellisel juhul  on jäätmevedajal õigus rakendada tühisõidutasu (hankelepingu punkt 4.1 sätestab, et kui  kogumismahuti tühjendamine ei ole võimalik põhjusel, et jäätmevaldaja on jätnud täitmata  jäätmehoolduseeskirjast või jäätmeveolepingust tulenevad kogumimahuti tühjendamist  võimaldavad tingimused (ei ole tagatud ligipääs kogumismahutile, kogumismahutis on  sobimatud jäätmed, krundil puudub kogumismahuti), võib vedaja nõuda tühisõidutasu vastavalt  jäätmehoolduseeskirja § 7 lõikele 14).</p>",
+      "page": 172,
+      "polygon": [
+        [
+          88.46875,
+          451.8349609375
+        ],
+        [
+          547.260009765625,
+          451.8349609375
+        ],
+        [
+          547.260009765625,
+          574.8914794921875
+        ],
+        [
+          88.46875,
+          574.8914794921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        451.8349609375,
+        547.260009765625,
+        574.8914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks soovis Konkurentsiamet teada, kui palju kliente Pärnu jäätmeveopiirkondades nimetatud  teenust kasutab. Ragn-Sells selgitas, et statistiliselt on antud teenuse osas toimunud aegreas nii  kliendinimekirja muutusi kui ka teenuse tarbijate selge vähenemine. Pärnu piirkonnas nr 1 on  hetkel kokku /…/ klienti, kellest vastavat lisateenust on kasutanud /…/ ehk /…/ klienti ja  hetkeseisuga kasutab seda teenust /…/ klient. Pärnu piirkonnas nr 2 on kokku /…/ klienti,  kellest antud teenust on üldse kasutanud /…/ klienti ja hetkeseisuga kasutab seda /…/ klienti.</p>",
+      "page": 172,
+      "polygon": [
+        [
+          88.46875,
+          585.8642578125
+        ],
+        [
+          547.39599609375,
+          585.8642578125
+        ],
+        [
+          547.39599609375,
+          678.1214599609375
+        ],
+        [
+          88.46875,
+          678.1214599609375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        585.8642578125,
+        547.39599609375,
+        678.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet palus Ragn-Sellsil esitada ka täpne kuluarvestus ja põhjendada, miks näiteks  Haapsalu linnas on Ragn-Sellsi poolt kehtestatud hinnakirjas sama lisateenuse tasu 4,20 eurot.  Ragn-Sells selgitas, et hinnad on kujunenud erinevates turusituatsioonides. Nimelt on Haapsalu  lisateenuse hind kujunenud enne Ukrainas alanud sõda ja sellega seonduvad kütuse- ja tööturul  toimunud muutusi ning järgnenud majanduskriisi mõju ehk see hind ei kajasta täna erinevate  kriiside mõjul toimunud hindade tõusust tulenevaid muutusi. Ragn-Sells märkis, et samuti on</p>",
+      "page": 172,
+      "polygon": [
+        [
+          89.6328125,
+          690.00146484375
+        ],
+        [
+          547.407958984375,
+          690.00146484375
+        ],
+        [
+          547.407958984375,
+          782.3857421875
+        ],
+        [
+          89.6328125,
+          782.3857421875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        690.00146484375,
+        547.407958984375,
+        782.3857421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 172,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.537109375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">lisateenuse hinna kujunemisel oluline osa piirkondlikul eripäral. Pärnu piirkonna  hinnakujundusel on arvestatud sellega, et seda teenust pakkudes tuleb konteinerid ära tuua ja  tagasi viia sisehoovidest ja kangialustest, kuhu on raske ligi pääseda ning milleni viiv tee ja/või  sisehoovi pinnas on ebaühtlane (n. kruusa või killustikukattega), mis teeb konteineri vedamise  oluliselt raskemaks ja ajamahukamaks ettevõtmiseks.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          89.6328125,
+          46.869140625
+        ],
+        [
+          547.25,
+          46.869140625
+        ],
+        [
+          547.25,
+          122.517578125
+        ],
+        [
+          89.6328125,
+          122.517578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.869140625,
+        547.25,
+        122.517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ragn-Sells esitas ka lisateenuse kuluarvestuse, mille kohaselt on hinnakujundusel lähtutud  pressautode keskmisest minutihinnast, milleks on /…/ ja asjaolust, et antud piirkonnas on  mõõdetud keskmiseks käsitühjenduse ajakuluks ca /…/ minutit. Täiendavalt on arvestatud  asjaoluga, et Pärnu linnas on ühe korraldatud jäätmeveoteenuse hinna sisse jääva  tavatühjenduse ajakulu /…/ minutit, seega kujuneks keskmiselt lisateenusele kuluvaks ajaks /…/min - /…/ min = /…/ minutit. Lisateenuse kulupõhises arvestuses on lähtutud (/…/), mis on  korrutatud /…/ ehk /…/ eurot, millele lisandub /…/ eurot (tekib /…/, mis lisandub, kuna samal  ajal jääb tegemata /…/ tavatühjendust ehk /…/, mille tõttu pikeneb /…/ keskmiselt /…/ min  võrra). Eeltoodust tulenevalt on antud teenuse kulupõhiseks hinnaks ~ /…/eurot, millele  lisandub käibemaks.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          88.46875,
+          134.029296875
+        ],
+        [
+          547.4400024414062,
+          134.029296875
+        ],
+        [
+          547.4400024414062,
+          289.1514892578125
+        ],
+        [
+          88.46875,
+          289.1514892578125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        134.029296875,
+        547.4400024414062,
+        289.1514892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.</b> <b>Konkurentsiameti esialgne seisukoht ja õiguslik hinnang</b></h1>",
+      "page": 154,
+      "polygon": [
+        [
+          107.09375,
+          324.794921875
+        ],
+        [
+          416.734375,
+          324.794921875
+        ],
+        [
+          416.734375,
+          336.9114685058594
+        ],
+        [
+          107.09375,
+          336.9114685058594
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        324.794921875,
+        416.734375,
+        336.9114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet analüüsis Ragn-Sellsi poolt esitatud selgitusi ja kulupõhist arvutust.  15.09.2023 edastas Konkurentsiamet Ragn-Sellsile esialgse seisukoha ja ettekirjutuse hoiatuse.  Järgnevalt on toodud välja Konkurentsiameti esialgses seisukohas toodud põhjendused ja  õiguslik hinnang tekkinud konkurentsiprobleemile.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          89.6328125,
+          348.7914733886719
+        ],
+        [
+          547.281982421875,
+          348.7914733886719
+        ],
+        [
+          547.281982421875,
+          408.31146240234375
+        ],
+        [
+          89.6328125,
+          408.31146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        348.7914733886719,
+        547.281982421875,
+        408.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Jäätmekoti või ratastel kuni 800L konteineri käsitranspordi (kuni 15m veoki peatumiskohast)  teenus ei kuulu korraldatud jäätmeveo koosseisu ehk tegemist on lisateenusega, mis on ka  hinnastatud korraldatud jäätmeveost eraldi. Teenuse kontsessiooni andmise riigihanke  (viitenumber 251779) \"Korraldatud jäätmeveo teenuse kontsessiooni andmine Pärnu linnas\"  hankedokumendi punkti 2.5 kohaselt võib vedaja lisaks korraldatud jäätmeveole pakkuda  jäätmevaldajale lepinguga seotud lisateenuseid, mis teostatakse jäätmevaldaja ja -vedaja  vahelise lepingu alusel.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          89.6328125,
+          425.93359375
+        ],
+        [
+          547.4400634765625,
+          425.93359375
+        ],
+        [
+          547.4400634765625,
+          535.2914733886719
+        ],
+        [
+          89.6328125,
+          535.2914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        425.93359375,
+        547.4400634765625,
+        535.2914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pärnu linna jäätmehoolduseeskirja § 11 lg 3 kohaselt võib jäätmevedaja jäätmevaldajale  osutada lisateenuseid poolte kokkuleppel. Lisateenus eeskirja tähenduses on korraldatud  jäätmeveoga hõlmamata tasuline jäätmekäitlusteenus, mida jäätmevedaja jäätmevaldajale  osutab ning mille eest on jäätmevedajal õigus võtta tasu. Jäätmehoolduseeskirja § 7 lg 7  kohaselt tuleb kuni 1100 liitrine käsitsi teisaldatav ratastel väikemahuti paigutada seda  tühjendava jäätmeveokiga samal tasandil paiknevale jäätmeveokit kandvale pinnale, mis ei ole  jäätmeveoki lähimast võimalikust peatuskohast kaugemal kui 10 meetrit. Pikema vahemaa  korral määratakse tühjendamistingimused jäätmevaldaja ja jäätmevedaja vahelise  kokkuleppega.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          88.46875,
+          555.0914611816406
+        ],
+        [
+          547.416015625,
+          555.0914611816406
+        ],
+        [
+          547.416015625,
+          694.0814666748047
+        ],
+        [
+          88.46875,
+          694.0814666748047
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        555.0914611816406,
+        547.416015625,
+        694.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodust tulenevalt võib Konkurentsiameti hinnangul jäätmevedaja nõuda vastavalt  jäätmehoolduseeskirja § 7 lg-le 7 ja hankelepingu punktile 2.5 põhjendatud lisatasu kuni 1100  liitrise käsitsi teisaldatava ratastel väikemahuti vedamiseks, mis on kaugemal kui 10 meetrit.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          89.6328125,
+          713.7614593505859
+        ],
+        [
+          547.342041015625,
+          713.7614593505859
+        ],
+        [
+          547.342041015625,
+          758.12890625
+        ],
+        [
+          89.6328125,
+          758.12890625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        713.7614593505859,
+        547.342041015625,
+        758.12890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.24609375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.1.</b> <b>Kaubaturg ja Ragn-Sells</b> <b>AS-i</b> <b>turgu valitsev seisund</b></h1>",
+      "page": 142,
+      "polygon": [
+        [
+          107.67578125,
+          46.94146728515625
+        ],
+        [
+          397.52734375,
+          46.94146728515625
+        ],
+        [
+          397.52734375,
+          58.94146728515625
+        ],
+        [
+          107.67578125,
+          58.94146728515625
+        ]
+      ],
+      "bbox": [
+        107.67578125,
+        46.94146728515625,
+        397.52734375,
+        58.94146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit ettevõtja või mitu samal kaubaturul  tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul tegutseda arvestataval  määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu valitseva seisundi omamist  eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale ettevõtjale kuulub  kaubaturul vähemalt 40 protsenti käibest.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          86.6815185546875
+        ],
+        [
+          547.2379760742188,
+          86.6815185546875
+        ],
+        [
+          547.2379760742188,
+          162.80859375
+        ],
+        [
+          89.6328125,
+          162.80859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        86.6815185546875,
+        547.2379760742188,
+        162.80859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Pärnu linnavalitsus on korraldanud vastavates korraldatud jäätmeveopiirkondades jäätmeveo  teenuse osutamise jäätmeseaduse § 66 ja 67 alusel nii, et Ragn-Sells on antud piirkondades  ainus teenuse osutaja. Ükski teine ettevõtja ei saa korraldatud jäätmeveo teenust sellel  territooriumil pakkuda.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          181.84149169921875
+        ],
+        [
+          547.3480224609375,
+          181.84149169921875
+        ],
+        [
+          547.3480224609375,
+          241.48150634765625
+        ],
+        [
+          89.6328125,
+          241.48150634765625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        181.84149169921875,
+        547.3480224609375,
+        241.48150634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konteinerite käsitransport kaugemalt kui 10 meetrit ei kuulu korraldatud olmejäätmeveo  koosseisu, kuid on sellega seotud teenus. Kõnealust lisateenust ei vaja keegi millekski muuks  kui üksnes selleks, et talle saaks osutada jäätmeveoteenust. Teisisõnu on tegemist põhiteenust  võimaldava lisateenusega, mis ei ole tegelikkuses põhiteenusest lahutatav. Küll on  jäätmevaldajatel võimalik selle lisateenuse osutamist vältida, veeretades ise prügikonteinerid  jäätmevedaja saabumisel. Samas ei saaks keegi pakkuda Ragn-Sellsist sõltumatut  konkureerivat teenust üksnes konteinerite teisaldamiseks, kuna puudub eraldi kaubaturg ja  eraldi võetuna ei saaks selline teenus olla konkurentsivõimeline.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          261.31146240234375
+        ],
+        [
+          547.407958984375,
+          261.31146240234375
+        ],
+        [
+          547.407958984375,
+          384.31146240234375
+        ],
+        [
+          89.6328125,
+          384.31146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        261.31146240234375,
+        547.407958984375,
+        384.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Olmejäätmeveol turgu valitsevat seisundit omava ettevõtjana on Ragn-Sellsil kontroll oma  veotingimuste üle (veoringid ja -ajad, logistika). Seetõttu kui mõni muu ettevõtja sooviks  jäätmevedajatele eraldi konteinerite käsitranspordi teenust pakkuda, siis oleks ta seda teenust  osutades sõltuv Ragn-Sellsist. Samuti korraldatud olmejäätmeveost lahutatuna saaks seesugune  teenus vaevalt osutuda majanduslikult tasuvaks. Eraldi teenusena konteinerite käsitransport  eeldaks mitte üksnes Ragn-Sellsi veoringide ja -aegade teadmist, vaid ka eraldi tööjõudu ja  transporti, millega kaasnevad vältimatult lisakulud võrreldes Ragn-Sellsiga, kes teisaldab  konteinereid jäätmeveoteenust osutades. Seda arvestades oleks kellelgi keeruline ja  majanduslikult ebamõistlik hakata tegelema Ragn-Sellsi veopiirkonnas konteinerite  teisaldamisega. Kogu Eestist ei leidu teadaolevalt näidet, kus mõni ettevõtja oleks isegi üritanud  jäätmevedajale taolisel juhul konkurentsi pakkuda.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          404.1114501953125
+        ],
+        [
+          547.4080200195312,
+          404.1114501953125
+        ],
+        [
+          547.4080200195312,
+          575.5859375
+        ],
+        [
+          89.6328125,
+          575.5859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        404.1114501953125,
+        547.4080200195312,
+        575.5859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks eeltoodule on üks võimalik viis nõudluse või pakkumise asendatavuse olemasolu  hindamiseks kohaldada nii-öelda hüpoteetilise monopolisti testi või SSNIP-testi. Selle testi  puhul peaks küsima, mis juhtuks, kui esineks väike, aga märkimisväärne ja püsiv asjaomase  toote või teenuse hinnatõus, eeldusel et kõikide teiste toodete või teenuste hinnad jäävad samaks  (nii-öelda suhteline hinnatõus).<sup>1</sup> SSNIP testi on põhimõtteliselt võimalik teostada 2 faasilisena,  kus esimeses selgitatakse välja, kui paljud kliendid hakkaksid 5-10%-lise hinnatõusu korral  kasutama mõnda teist teenust ja teises analüüsitakse turuvalitseja kulumudeli põhjal, kas  müügimahtude vähenemise tulemusel on hinnatõus kahjulik või kasulik.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          88.46875,
+          593.67578125
+        ],
+        [
+          547.4080200195312,
+          593.67578125
+        ],
+        [
+          547.4080200195312,
+          717.6014633178711
+        ],
+        [
+          88.46875,
+          717.6014633178711
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        593.67578125,
+        547.4080200195312,
+        717.6014633178711
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          761.41796875
+        ],
+        [
+          94.2890625,
+          761.41796875
+        ],
+        [
+          94.2890625,
+          771.28515625
+        ],
+        [
+          89.6328125,
+          771.28515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        761.41796875,
+        94.2890625,
+        771.28515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 142,
+      "polygon": [
+        [
+          522.955078125,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          522.955078125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        522.955078125,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> Komisjoni teatis \"Suunised turuanalüüsi ja märkimisväärse turujõu hindamise kohta vastavalt ELi  elektrooniliste sidevõrkude ja -teenuste reguleerivale raamistikul\", punkt 29</p>",
+      "page": 142,
+      "polygon": [
+        [
+          89.6328125,
+          770.8740234375
+        ],
+        [
+          490.658203125,
+          770.8740234375
+        ],
+        [
+          490.658203125,
+          794.7197265625
+        ],
+        [
+          89.6328125,
+          794.7197265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        770.8740234375,
+        490.658203125,
+        794.7197265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet ei ole läbi viinud küsitlust, selgitamaks välja kuidas jäätmevedaja 5-10% lisele lisateenuse hinnatõusule reageeriks. Siiski saab rakendada analoogia korras SSNIP testi,  võttes arvesse Ragn-Sellsi poolt kehtestatud hinnakirja enne 01.12.2022 ja hetkel kehtivat hinnakirja ning hinnata kuidas see on mõjutanud lisateenust kasutavate klientide arvu Pärnu  jäätmeveopiirkondades.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.6328125,
+          46.046875
+        ],
+        [
+          547.1279907226562,
+          46.046875
+        ],
+        [
+          547.1279907226562,
+          122.44146728515625
+        ],
+        [
+          89.6328125,
+          122.44146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.046875,
+        547.1279907226562,
+        122.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Käesoleval juhul on hinnatõus olnud märkimisväärselt suurem kui 5-10%, mida üldjuhul  kasutatakse SSNIP testi tehes. Pärnu jäätmeveopiirkondades kuni 30.11.2022 kehtinud  hinnakirja kohaselt maksis jäätmekoti või ratastel kuni 800 liitrise konteineri käsitransport  jäätmeveokini (11-15m veoki peatumiskohast) 4,20 eurot. Alates 01.12.2022 kehtib  eelnimetatud lisateenusele uus hind, 12 eurot kord, mis teeb hinnatõusuks 185,7%. Järgmisena  tuleb hinnata, kas sellise märkimisväärse hinnatõusu korral on jäätmevedajad hakanud  kasutama mõnda teist teenust, selleks et hinnata, kas tegemist on asendatava teenusega  konkurentsiseaduse mõistes. Lähtudes Ragn-Sellsi esitatud andmetest kasutas Pärnu  jäätmeveopiirkondades 1 ja 2 kokku antud teenust varasemalt /…/ klienti ja hetkeseisuga /…/ klienti. Selgub, et suurem osa (60%) teenusekasutajatest on jäänud kasutama lisateenust  hoolimata pea kolmekordsest hinnatõusust. Konkurentsiametil puudub vajadus eraldi  kontrollida, kas nendel jäätmevaldajatel, kes jäid kõnealust lisateenust kasutama on võimalus  konteiner tuua lähemale kui 10 meetrit. Ainuüksi asjaolu, et 60% jäätmevaldajatest jäi kõnealust  lisateenust ka pärast märkimisväärset hinnatõusu edasi kasutama näitab, et ratastel konteineri  paigutamine kuni 10 meetri kaugusele ei ole suurele osale teenust kasutavale jäätmevaldajale  sobivaks alternatiiviks. Vastasel juhul oleksid nad toonud konteineri 10 meetri kaugusele ja  loobunud lisateenusest.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          88.46875,
+          141.4296875
+        ],
+        [
+          547.4400024414062,
+          141.4296875
+        ],
+        [
+          547.4400024414062,
+          408.0714416503906
+        ],
+        [
+          88.46875,
+          408.0714416503906
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        141.4296875,
+        547.4400024414062,
+        408.0714416503906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust on Konkurentsiameti hinnangul selge, et Ragn-Sellsil on turgu valitsev  seisund talle omistatud jäätmeveo piirkonnas nii korraldatud jäätmeveo teenuse osutamisel kui  ka sellega seotud lisateenuste turul (nagu konteinerite käsitransport, mis ei ole asendatav mõne  teise teenusepakkujaga).</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.6328125,
+          427.1669921875
+        ],
+        [
+          547.3720092773438,
+          427.1669921875
+        ],
+        [
+          547.3720092773438,
+          487.4114685058594
+        ],
+        [
+          89.6328125,
+          487.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        427.1669921875,
+        547.3720092773438,
+        487.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.2.Turgu valitseva seisundi kuritarvitamine ebaõiglaste hinnatingimuste </b> <b>rakendamisega</b></h1>",
+      "page": 145,
+      "polygon": [
+        [
+          107.09375,
+          499.2914733886719
+        ],
+        [
+          485.2399597167969,
+          499.2914733886719
+        ],
+        [
+          485.2399597167969,
+          527.25146484375
+        ],
+        [
+          107.09375,
+          527.25146484375
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        499.2914733886719,
+        485.2399597167969,
+        527.25146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 kohaselt on turgu valitseval ettevõtjal keelatud oma seisundi otsene või kaudne  kuritarvitamine kaubaturul. KonkS § 16 p 1 keelab ebaõiglaste ostu- või müügihindade või  muude ebaõiglaste äritingimuste kehtestamise või rakendamise. Ebaõiglaseks tuleb pidada  turgu valitseva ettevõtja kehtestatud hinda, mis ei ole mõistlikus vahekorras teenuse  majandusliku väärtusega. Teenuse majanduslik väärtus on omakorda seotud teenuse  osutamiseks vajalike kuludega.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.6328125,
+          539.011474609375
+        ],
+        [
+          547.3720092773438,
+          539.011474609375
+        ],
+        [
+          547.3720092773438,
+          631.0888671875
+        ],
+        [
+          89.6328125,
+          631.0888671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        539.011474609375,
+        547.3720092773438,
+        631.0888671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevat arvestades tuleb leida vastus küsimusele, kas Ragn-Sellsi poolt Pärnu linnas  kehtestatud olmejäätmeveo lisateenuse hind jäätmemahutite käsitranspordi eest on mõistlikus  vahekorras selle teenuse majandusliku väärtusega teenuse tarbijate jaoks. Selleks on vaja esmalt  uurida tasus sisalduvaid kulusid ja võrrelda neid kuludega, mis on sama teenuse osutamiseks  vajalikud. Seejärel on võimalik hinnata, kas Ragn-Sellsi tasu teenuse eest on kulupõhine ning  kas teenuse hinda pole lülitatud ülemäärast tulukust.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.6328125,
+          641.7783203125
+        ],
+        [
+          547.3839721679688,
+          641.7783203125
+        ],
+        [
+          547.3839721679688,
+          733.6814651489258
+        ],
+        [
+          89.6328125,
+          733.6814651489258
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        641.7783203125,
+        547.3839721679688,
+        733.6814651489258
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Hinna põhjendatuse üle otsustamisel saab Konkurentsiamet eelkõige lähtuda Ragn-Sellsi poolt  esitatud andmetest ja põhjendustest. Turgu valitseva ettevõtjana on Ragn-Sellsil kohustus</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.6328125,
+          745.3837890625
+        ],
+        [
+          547.3839721679688,
+          745.3837890625
+        ],
+        [
+          547.3839721679688,
+          774.1630859375
+        ],
+        [
+          89.6328125,
+          774.1630859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        745.3837890625,
+        547.3839721679688,
+        774.1630859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.24609375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tõendada, et tema teenuse osutamiseks tehtud kulutused on asjakohased ning et ta ei teeni  tarbijate arvelt ülemäärast tulu.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          46.4580078125
+        ],
+        [
+          547.1160278320312,
+          46.4580078125
+        ],
+        [
+          547.1160278320312,
+          74.781494140625
+        ],
+        [
+          89.6328125,
+          74.781494140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.4580078125,
+        547.1160278320312,
+        74.781494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet küsis Ragn-Sellsilt põhjendusi, millised kulutused kaasnevad lisateenuse  (jäätmekoti või ratastel kuni 800-liitrise konteineri käsitransport jäätmeveokini) osutamisega.  Ragn-Sells esitas kuluarvestuse, mille kohaselt keskmine pressautode minutihind on /…/ eurot/minut ja keskmine mõõdetud käsitühjenduse ajakulu ca /…/. Tavatühjenduse ajakuluks  on Ragn-Sells arvestanud /…/ ning seega on Ragn-Sells hinnanud lisateenusele kuluvaks ajaks  /…/ minutit – /…/ minutit ehk /…/ minutit, mis on korrutatud /…/. Sellele on lisatud veel /…/ eurot, mis tekib /…/, kuna samal ajal jääb tegemata /…/ ehk /…/, mille tõttu pikeneb  teenindustsükkel keskmiselt /…/ minuti võrra.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          86.337890625
+        ],
+        [
+          547.3480224609375,
+          86.337890625
+        ],
+        [
+          547.3480224609375,
+          209.801513671875
+        ],
+        [
+          89.6328125,
+          209.801513671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        86.337890625,
+        547.3480224609375,
+        209.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul ei ole selline kuluarvestus eluliselt usutav. Lähtudes Ragn-Sellsi  esitatud kuluarvestusest kulub ainuüksi 11-15 meetri (esimese 10 meetri käsitransport  jäätmekonteinerini on arvestatud põhiteenuse sisse) edasi ja tagasi ehk kokku maksimaalselt  10 meetri (5 meetrit ühes suunas ja tagasi) läbimisele /…/ minutit. Seejuures ei ole Ragn-Sells  selgitanud ega esitanud tõendeid, kuidas moodustub jäätmekoti või kuni 800-liitrise konteineri  käsitranspordi ajakuluks /…/ minutit. Konkurentsiameti hinnangul on tegemist liiga suure  ajakuluga 10 meetri läbimiseks.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          221.189453125
+        ],
+        [
+          547.4080200195312,
+          221.189453125
+        ],
+        [
+          547.4080200195312,
+          328.8714599609375
+        ],
+        [
+          89.6328125,
+          328.8714599609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        221.189453125,
+        547.4080200195312,
+        328.8714599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks on Konkurentsiameti hinnangul arusaamatu, kuidas on lisateenuse hind võrreldes kuni  01.12.2022 kehtinud hinnakirjaga oluliselt rohkem tõusnud kui põhiteenuse ehk konteinerite  tühjendamise hinnad. Ragn-Sells on oma vastuses teabetaotlusele põhjendanud hinnatõusu  Ukrainas alanud sõja ja sellega seonduvate kütuse- ja tööturul toimunud muudatustega ning  sellele järgnenud majanduskriisi mõjuga. Konkurentsiamet nõustub, et hinnad on tõusnud ja  see mõjutab Eesti majandust. Samas on tarbijahinnaindeks tõusnud suurusjärgus 20%. Kui  põhjendada hinnatõusu inflatsiooniga, siis oleks pidanud olmejäätmete veoga seotud teenused  tõusma umbes sarnases suurusjärgus. Vaadates Pärnu piirkonnas varem kehtinud olmejäätmete  veo hinnakirja, siis on konteinerite tühjendamise hinnad tõusnud keskmiselt 27%, mis on samas  suurusjärgus inflatsiooniga, samas kõnealuse lisateenuse hind on tõusnud 185,7%.  Konkurentsiameti hinnangul ei saa põhjendada ligi kolmekordset lisateenuse hinnatõusu  inflatsiooniga.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          340.75146484375
+        ],
+        [
+          547.4400024414062,
+          340.75146484375
+        ],
+        [
+          547.4400024414062,
+          527.4833984375
+        ],
+        [
+          89.6328125,
+          527.4833984375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        340.75146484375,
+        547.4400024414062,
+        527.4833984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks on Ragn-Sells hinnatõusu põhjenduseks toonud ka piirkondliku eripära ning selgitanud,  et Pärnu piirkonna hinnakujundusel on arvestatud sellega, et seda teenust pakkudes tuleb  konteinerid ära tuua ja tagasi viia sisehoovidest ja kangialustest, kuhu on raske ligi pääseda  ning milleni viiv tee ja/või sisehoovi pinnas on ebaühtlane (n. kruusa või killustikukattega), mis  teeb konteineri vedamise oluliselt raskemaks ja ajamahukamaks ettevõtmiseks. Ragn-Sellsi  esitatud kuluarvestuse kohaselt kulub jäätmevedajal 10 meetri läbimiseks /…/ minutit, millest  tulenevalt on ka antud lisateenuse kulu erakordselt kõrge. Kui lisateenuse hind koosneb  sisuliselt ajakulust, mis tuleneb konteinerite veeretamisest, siis jääb selgusetuks, kas ajakulu on  võrreldes varasemalt kehtinud hinnakirjaga suurenenud või on konteinerite asukohad kõikidel  lisateenuse kasutajatel muutunud raskemaks võrreldes varasema perioodiga. Konkurentsiameti  hinnangul ei ole võimalik kontrollida Ragn-Sellsi poolt esitatud selgitusi ja toodud arvutusi.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          539.25146484375
+        ],
+        [
+          547.4400024414062,
+          539.25146484375
+        ],
+        [
+          547.4400024414062,
+          710.0263671875
+        ],
+        [
+          89.6328125,
+          710.0263671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        539.25146484375,
+        547.4400024414062,
+        710.0263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Lähtudes Ragn-Sellsi 31.07.2023 esitatud kuluarvestusest ja selgitustest leidis  Konkurentsiamet oma esialgses seisukohas, et Ragn-Sells ei ole välja selgitanud kulusid, mis  tal kõnealuse lisateenuse osutamisel tekivad. Seesugune teguviis on turgu valitseva ettevõtja  puhul sobimatu, kuna õiglase hinnakujunduse tagamiseks tuleb tal enne mistahes lisatasu</p>",
+      "page": 166,
+      "polygon": [
+        [
+          89.6328125,
+          720.7158203125
+        ],
+        [
+          547.281982421875,
+          720.7158203125
+        ],
+        [
+          547.281982421875,
+          781.4374618530273
+        ],
+        [
+          89.6328125,
+          781.4374618530273
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        720.7158203125,
+        547.281982421875,
+        781.4374618530273
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 166,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.828125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kehtestamist välja selgitada sellega seotud kulud ning neist lähtuda. Konteinerite  käsitranspordiga seotud kulude mõõtmiseks tulnuks Ragn-Sellsil teha vastavad mõõdistused  (kui kaua konteineri igakordne käsitransport aega võtab, kui palju lisandub sellega tööjõukulu,  kütusekulu jms). Kulusid ei saa kindlaks määrata suvaliselt, vaid aluseks tuleb võtta mõõtmistel  põhinevad andmed, mille paikapidavust on võimalik kontrollida.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          46.869140625
+        ],
+        [
+          547.2699584960938,
+          46.869140625
+        ],
+        [
+          547.2699584960938,
+          122.517578125
+        ],
+        [
+          89.6328125,
+          122.517578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.869140625,
+        547.2699584960938,
+        122.517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.</b> <b>Menetluse lõpetamine konkurentsiolukorra parandamise tõttu</b></h1>",
+      "page": 157,
+      "polygon": [
+        [
+          107.09375,
+          134.32147216796875
+        ],
+        [
+          446.99999999999994,
+          134.32147216796875
+        ],
+        [
+          446.99999999999994,
+          146.32147216796875
+        ],
+        [
+          107.09375,
+          146.32147216796875
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        134.32147216796875,
+        446.99999999999994,
+        146.32147216796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">16.10.2023 edastas Ragn-Sells Konkurentsiametile oma vastuse ameti esialgsele seisukohale ja  ettekirjutuse hoiatusele.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          158.2015380859375
+        ],
+        [
+          547.2739868164062,
+          158.2015380859375
+        ],
+        [
+          547.2739868164062,
+          186.04150390625
+        ],
+        [
+          89.6328125,
+          186.04150390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        158.2015380859375,
+        547.2739868164062,
+        186.04150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ragn-Sells tegi ettepaneku lähtuda hinnastamisel inflatsioonitõusust ja kehtestada alates  01.11.2023 ühe jäätmekoti või ratastel kogumismahuti käsitranspordi eest veokini (11-20m)  teenuse hinnaks 5,35 eurot/kord käibemaksuga. Seega kui enne Konkurentsiameti  järelevalvemenetluse algatamist oli kõnealuse lisateenuse hind 12 eurot kord, siis  järelevalvemenetluse tulemusel hakkaks kehtima uus hind milleks on 5,35 eurot kord.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          197.7548828125
+        ],
+        [
+          547.4320068359375,
+          197.7548828125
+        ],
+        [
+          547.4320068359375,
+          273.43145751953125
+        ],
+        [
+          89.6328125,
+          273.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        197.7548828125,
+        547.4320068359375,
+        273.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Uue hinnakirja raames peab Konkurentsiamet siiski vajalikuks rõhutada hinna kulupõhisuse  olulisust. Isegi kui mõni turgu valitsevat seisundit omava ettevõtja poolt pakutav teenus on  lisateenus ja see sõlmitakse kokkuleppeliselt, siis sellest ei tulene turgu valitsevale ettevõtjale  õigust võtta teenuse eest rohkem kui kulupõhist hinda. Seda isegi olukorras kui inflatsioon on  olnud kõrgem kui reaalse teenuse kulupõhine hind. Konkurentsiameti esialgsest seisukohast ei  tulene, et turgu valitsev ettevõtja võib oma hinnakujunduses lähtuda inflatsioonist ja selle alusel  tõsta hindu, kui tegelikkuses inflatsioon ei ole ettevõtja kulusid mõjutanud. Samas, kuna Ragn-Sellsi 01.11.2023 kehtestatud hind on samas suurusjärgus teistes piirkondades sama lisateenuse  eest küsitava hinnaga ja poole võrra odavam menetluse algatamisel kehtinud hinnast, ei ole  ameti hinnangul otstarbekas käesoleval hetkel menetlust jätkata.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          284.50390625
+        ],
+        [
+          547.407958984375,
+          284.50390625
+        ],
+        [
+          547.407958984375,
+          440.1114501953125
+        ],
+        [
+          89.6328125,
+          440.1114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        284.50390625,
+        547.407958984375,
+        440.1114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tulenevalt asjaolust, et Ragn-Sells kehtestas alates 01.11.2023 kõnealusele jäätmeveo  lisateenusele uued hinnad, millega ettevõtja parandas konkurentsiolukorda, siis ei pea  Konkurentsiamet vajalikuks ettekirjutuse tegemist.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          451.8349609375
+        ],
+        [
+          547.384033203125,
+          451.8349609375
+        ],
+        [
+          547.384033203125,
+          495.69146728515625
+        ],
+        [
+          89.6328125,
+          495.69146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        451.8349609375,
+        547.384033203125,
+        495.69146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust lõpetab Konkurentsiamet Ragn-Sells AS-i suhtes alustatud  järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 3 alusel.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          506.1044921875
+        ],
+        [
+          547.384033203125,
+          506.1044921875
+        ],
+        [
+          547.384033203125,
+          535.4114685058594
+        ],
+        [
+          89.6328125,
+          535.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        506.1044921875,
+        547.384033203125,
+        535.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 157,
+      "polygon": [
+        [
+          88.759765625,
+          571.0634765625
+        ],
+        [
+          209.240234375,
+          571.0634765625
+        ],
+        [
+          209.240234375,
+          582.1441345214844
+        ],
+        [
+          88.759765625,
+          582.1441345214844
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        571.0634765625,
+        209.240234375,
+        582.1441345214844
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar</p>",
+      "page": 157,
+      "polygon": [
+        [
+          90.7439956665039,
+          593.7314605712891
+        ],
+        [
+          181.01171875,
+          593.7314605712891
+        ],
+        [
+          181.01171875,
+          605.7314605712891
+        ],
+        [
+          90.7439956665039,
+          605.7314605712891
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        593.7314605712891,
+        181.01171875,
+        605.7314605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 157,
+      "polygon": [
+        [
+          90.7439956665039,
+          609.6014709472656
+        ],
+        [
+          348.63671875,
+          609.6014709472656
+        ],
+        [
+          348.63671875,
+          621.6014709472656
+        ],
+        [
+          90.7439956665039,
+          621.6014709472656
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        609.6014709472656,
+        348.63671875,
+        621.6014709472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ärakiri on Konkurentsiameti 13.11.2023 otsuse nr 5-5/2023-038 originaaliga samane. Ärakirjas  on ärisaladuseks loetud teabe asemel kasutatud tähist /…/.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          647.9453125
+        ],
+        [
+          547.35400390625,
+          647.9453125
+        ],
+        [
+          547.35400390625,
+          677.2814636230469
+        ],
+        [
+          89.6328125,
+          677.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        647.9453125,
+        547.35400390625,
+        677.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Triinu Saar, Konkurentsiameti konkurentsi haldusmenetluste valdkonna jurist</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.6328125,
+          689.1614532470703
+        ],
+        [
+          464.46093749999994,
+          689.1614532470703
+        ],
+        [
+          464.46093749999994,
+          701.1614532470703
+        ],
+        [
+          89.6328125,
+          701.1614532470703
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        689.1614532470703,
+        464.46093749999994,
+        701.1614532470703
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.828125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

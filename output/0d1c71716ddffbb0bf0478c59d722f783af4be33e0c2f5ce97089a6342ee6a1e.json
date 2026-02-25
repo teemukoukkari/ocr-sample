@@ -1,0 +1,762 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 175,
+      "polygon": [
+        [
+          60.3275390625,
+          36.5908203125
+        ],
+        [
+          186.4537109375,
+          36.5908203125
+        ],
+        [
+          186.4537109375,
+          99.9052734375
+        ],
+        [
+          60.3275390625,
+          99.9052734375
+        ]
+      ],
+      "bbox": [
+        60.3275390625,
+        36.5908203125,
+        186.4537109375,
+        99.9052734375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXy7r3/ACHr7/rs386+oq+Xde/5D19/12b+dedmPwxPs+Df4tX0X5s9S+DH/IL1H/rsP/QRXqFeX/Bj/kF6j/12H/oIr1CujCfwYni8Qf8AIyq+q/JBRRRXSeMFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFfLuvf8h6+/67N/OvqKvHdS8BWdxqVzM11KC8hYgLXjZziqeHhB1Hvc+p4XxlLC1KjqvdI0vgx/yC9R/67D/0EV6hXHeAdBh0Kzuo4ZWkEkm47hjHArsa7cvqxq4aM47M8rOq0K2OqVIbP/IKKKK7DywooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArirr/AI+pf9412tcVdf8AH1L/ALxr5Liv+FS9Wejl/wAUjb8O/wCpl/3v6VtVi+Hf9TL/AL39K2q9fI/9wp/11ObF/wAaQUUUV6xzhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXFXX/H1L/vGu1rirr/j6l/3jXyXFf8ACperPRy/4pG34d/1Mv8Avf0rarF8O/6mX/e/pW1Xr5H/ALhT/rqc2L/jSCiiivWOcKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4q6/4+pf8AeNdrXFXX/H1L/vGvkuK/4VL1Z6OX/FI2/Dv+pl/3v6VtVi+Hf9TL/vf0rar18j/3Cn/XU5sX/GkFFFFesc4UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVxV1/x9S/7xoor5Liv+FS9Wejl/xSNvw7/qZf97+lbVFFevkf+4U/66nNi/40gooor1jnCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 6. März 2024</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          143.40997314453125
+        ],
+        [
+          519.171875,
+          143.40997314453125
+        ],
+        [
+          519.171875,
+          157.45001220703125
+        ],
+        [
+          69.84375,
+          157.45001220703125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        143.40997314453125,
+        519.171875,
+        157.45001220703125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Erwerbs</b> <b>aller Anteile</b> <b>an der Rauch Spanplattenwerk GmbH</b> <b>durch die EGGER </b> <b>Holzwerkstoffe GmbH</b></h2>",
+      "page": 175,
+      "polygon": [
+        [
+          75.6640625,
+          196.9326171875
+        ],
+        [
+          487.5980529785156,
+          196.9326171875
+        ],
+        [
+          487.5980529785156,
+          221.97998046875
+        ],
+        [
+          75.6640625,
+          221.97998046875
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        196.9326171875,
+        487.5980529785156,
+        221.97998046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Herstellung und Vertrieb von Spanplatten</p>",
+      "page": 175,
+      "polygon": [
+        [
+          74.5,
+          236.3800048828125
+        ],
+        [
+          402.7762145996094,
+          236.3800048828125
+        ],
+        [
+          402.7762145996094,
+          249.46002197265625
+        ],
+        [
+          74.5,
+          249.46002197265625
+        ]
+      ],
+      "bbox": [
+        74.5,
+        236.3800048828125,
+        402.7762145996094,
+        249.46002197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B1-99/23</p>",
+      "page": 175,
+      "polygon": [
+        [
+          75.08203125,
+          263.73992919921875
+        ],
+        [
+          258.00726318359375,
+          263.73992919921875
+        ],
+        [
+          258.00726318359375,
+          276.82000732421875
+        ],
+        [
+          75.08203125,
+          276.82000732421875
+        ]
+      ],
+      "bbox": [
+        75.08203125,
+        263.73992919921875,
+        258.00726318359375,
+        276.82000732421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 9. November 2023</p>",
+      "page": 175,
+      "polygon": [
+        [
+          76.34400177001953,
+          291.24993896484375
+        ],
+        [
+          299.2777099609375,
+          291.24993896484375
+        ],
+        [
+          299.2777099609375,
+          304.3299560546875
+        ],
+        [
+          76.34400177001953,
+          304.3299560546875
+        ]
+      ],
+      "bbox": [
+        76.34400177001953,
+        291.24993896484375,
+        299.2777099609375,
+        304.3299560546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat am 09. November 2023 das Vorhaben der EGGER Holzwerkstoffe GmbH, St.  Johann in Tirol, Österreich (\"EGGER\"), alle Anteile an der Rauch Spanplattenwerk GmbH, Markt Bibart (\"RSG\"), zu erwerben, freigegeben. Der Freigabe vorausgegangen waren intensive Ermittlungen.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          330.1396484375
+        ],
+        [
+          528.9647216796875,
+          330.1396484375
+        ],
+        [
+          528.9647216796875,
+          378.25
+        ],
+        [
+          70.94400024414062,
+          378.25
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        330.1396484375,
+        528.9647216796875,
+        378.25
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">RSG betreibt in Markt Bibart (Bayern) ein Spanplattenwerk, in dem Rohspanplatten verschiedener  Dicken und Dichten hergestellt werden. Die Rohspanplatten wurden zum einen konzernintern an die  Rauch Möbelwerke GmbH (\"RMG\"), einem Hersteller insbesondere von Schrank- und  Schlafzimmermöbeln, geliefert. Zum anderen wurden die Spanplatten extern insbesondere an Hersteller  aus der Türen- und Möbelindustrie vertrieben.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          390.9873046875
+        ],
+        [
+          539.938232421875,
+          390.9873046875
+        ],
+        [
+          539.938232421875,
+          474.25
+        ],
+        [
+          68.6796875,
+          474.25
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        390.9873046875,
+        539.938232421875,
+        474.25
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Geschäftsgegenstand der EGGER-Gruppe ist die Herstellung von Holzwerkstoffen, d.h. Werkstoffen, die  durch Zerkleinern von Holz und anschließendes Zusammenfügen der Strukturelemente erzeugt werden  und als Vorprodukte insbesondere für die Bereiche Möbel und Innenausbau, Fußböden und  Bauprodukte dienen. EGGER stellt u.a. auch Rohspanplatten her, setzt diese jedoch überwiegend für die  Eigenproduktion ein und vertreibt sie bislang kaum an externe Dritte in Deutschland.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          485.5478515625
+        ],
+        [
+          538.1507568359375,
+          485.5478515625
+        ],
+        [
+          538.1507568359375,
+          570.27001953125
+        ],
+        [
+          69.84375,
+          570.27001953125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        485.5478515625,
+        538.1507568359375,
+        570.27001953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da im Bereich der Spanplattenproduktion nur vergleichsweise wenige Anbieter tätig sind, in der  Vergangenheit bereits ein Kartellverfahren in dieser Branche geführt wurde (vgl.<a href=\"https://www.bundeskartellamt.de/SharedDocs/Entscheidung/DE/Fallberichte/Kartellverbot/2011/B12-15-08.html\"> Fallbericht</a> vom 19. <a href=\"https://www.bundeskartellamt.de/SharedDocs/Entscheidung/DE/Fallberichte/Kartellverbot/2011/B12-15-08.html\">Oktober 2011)</a> und es während der Corona-Krise von Abnehmern von Spanplatten Beschwerden über  starke Preisanstiege und mangelnde Verfügbarkeiten gab (vgl<a href=\"https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/AktuelleMeldungen/2021/23_07_2021_Fallbericht_Spanplatten.html\">. Fallbericht vom 23.</a> Juli 2021), hat das  Bundeskartellamt den vorliegenden Zusammenschluss genau geprüft und zahlreiche Nachfrager und  Wettbewerber befragt.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          583.2300109863281
+        ],
+        [
+          526.822998046875,
+          583.2300109863281
+        ],
+        [
+          526.822998046875,
+          684.947265625
+        ],
+        [
+          68.6796875,
+          684.947265625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        583.2300109863281,
+        526.822998046875,
+        684.947265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Abgrenzung zu beschichteten Spanplatten und anderen Holzwerkstoffen wie Sperrholzplatten,  mitteldichten Faserplatten, OSB-Platten oder Hartfaserplatten hat das Bundeskartellamt entsprechend  der bisherigen Entscheidungspraxis des Amtes und der Europäischen Kommission einen eigenen  sachlichen Markt für Rohspanplatten angenommen. In räumlicher Hinsicht wurden vom  Bundeskartellamt und der Europäischen Kommission in bisherigen Fällen verschiedene Abgrenzungen</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          695.63671875
+        ],
+        [
+          532.636962890625,
+          695.63671875
+        ],
+        [
+          532.636962890625,
+          780.2960014343262
+        ],
+        [
+          70.94400024414062,
+          780.2960014343262
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        695.63671875,
+        532.636962890625,
+        780.2960014343262
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          300.328125,
+          788.051872253418
+        ],
+        [
+          307.62774658203125,
+          788.051872253418
+        ],
+        [
+          307.62774658203125,
+          798.0118713378906
+        ],
+        [
+          300.328125,
+          798.0118713378906
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.051872253418,
+        307.62774658203125,
+        798.0118713378906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">diskutiert, nämlich national, grenzüberschreitend mit einem bestimmten Radius um die  Produktionsstätte (z.B. 500 km oder 1000 km) oder auch europaweit. Im vorliegenden Falle fokussierten  sich die Ermittlungen auf den deutschen Markt als engstmögliche Marktabgrenzungsvariante.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          127.8623046875
+        ],
+        [
+          538.7557373046875,
+          127.8623046875
+        ],
+        [
+          538.7557373046875,
+          175.17999267578125
+        ],
+        [
+          69.84375,
+          175.17999267578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        127.8623046875,
+        538.7557373046875,
+        175.17999267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ermittlungen ergaben, dass der gemeinsame Marktanteil der Zusammenschlussbeteiligten im Jahr 2022 und im ersten Halbjahr 2023 weit unterhalb der gesetzlichen Vermutungsschwelle zur  Einzelmarktbeherrschung (40 Prozent) lag. Da EGGER in Deutschland bislang nur wenige Rohspanplatten  am Markt absetzt, fällt die Marktanteilsaddition zudem gering aus. Insofern geht durch das  Zusammenschlussvorhaben kein bedeutsamer Marktteilnehmer verloren. Hinreichende unilaterale  Wettbewerbsverschlechterungen sind daher nicht ersichtlich.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          186.2431640625
+        ],
+        [
+          540.0966796875,
+          186.2431640625
+        ],
+        [
+          540.0966796875,
+          289.21002197265625
+        ],
+        [
+          69.84375,
+          289.21002197265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        186.2431640625,
+        540.0966796875,
+        289.21002197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Daneben EGGER/RSG mit Kronospan, Pfleiderer, Rheinspan und Sonae nur wenige große Anbieter den  Markt dominieren, lag der Schwerpunkt der Untersuchung entsprechend auf der Frage, ob zwischen der  zusammengeschlossenen Einheit und den anderen großen Anbietern am Markt eine  Verhaltenskoordinierung in Frage kommen könnte. Die Ermittlungen zeigten jedoch, dass es sich bei  RSG um einen spezialisierten Anbieter handelt, der sich auf die Herstellung und den Vertrieb von  besonders hochwertigen Rohspanplatten fokussiert hat, die sich durch den Einsatz von Frischholz, eine  besonders glatte Oberfläche und eine besonders stabile Mittelschicht auszeichnen. Diese Eigenschaften  erleichtern die weitere Verarbeitung durch die Abnehmer, bspw. die in dieser Hinsicht besonders  anspruchsvolle Türen- und Zargenindustrie. Die Spanplatten werden zudem i.d.R. individuell nach  Kundenwunsch zugeschnitten (sogenanntes Fixmaß). Diese Sonderqualität und Sondermaße machen  RSG zu einem Anbieter, der sich von den anderen großen Unternehmen am Markt, die eher auf das  Massengeschäft ausgerichtet sind, unterscheidet. Zahlreiche Nachfrager gaben an, dass sie aufgrund  dieser Eigenschaften gezielt bei RSG nachfragen. Eine Verhaltenskoordinierung mit anderen Anbietern ist aufgrund dieser Besonderheiten unwahrscheinlich.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          302.16998291015625
+        ],
+        [
+          538.8688354492188,
+          302.16998291015625
+        ],
+        [
+          538.8688354492188,
+          547.2300109863281
+        ],
+        [
+          69.84375,
+          547.2300109863281
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        302.16998291015625,
+        538.8688354492188,
+        547.2300109863281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es gibt keine ausreichend belastbaren Hinweise, dass sich an dieser Einschätzung durch den  Zusammenschluss etwas ändern wird. Zwar steigt EGGER von seiner bisherigen Außenposition durch  den Zusammenschluss in das bereits bestehende rechnerische Oligopol der größten Anbieter auf (die  gesetzliche Vermutungsschwelle für gemeinsame Marktbeherrschung, dass fünf oder weniger  Unternehmen gemeinsam auf einen Markanteil von mindestens zwei Dritteln kommen, ist erfüllt). Dass  EGGER jedoch das übernommene Werk im Prognosezeitraum \"auf Massengeschäft statt Qualität\"  umstellen sowie seine Präsenz bei Rohspanplatten verstärken wird und damit eine Koordinierung unter  den Oligopolmitgliedern erleichtert, ist unwahrscheinlich. Die besonderen Produktionsanlagen, die  bestehende Kundenstruktur und ein langfristiger Liefervertrag mit der bislang konzernverbundenen  RMG sprechen gegen diese Annahme. Es besteht auch weiterhin ein finanzieller Anreiz, die  höherwertigen Platten zu vertreiben.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          560.1900024414062
+        ],
+        [
+          535.7488403320312,
+          560.1900024414062
+        ],
+        [
+          535.7488403320312,
+          751.2560043334961
+        ],
+        [
+          70.94400024414062,
+          751.2560043334961
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        560.1900024414062,
+        535.7488403320312,
+        751.2560043334961
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 191,
+      "polygon": [
+        [
+          302.07421875,
+          788.051872253418
+        ],
+        [
+          307.89453125,
+          788.051872253418
+        ],
+        [
+          307.89453125,
+          798.0118713378906
+        ],
+        [
+          302.07421875,
+          798.0118713378906
+        ]
+      ],
+      "bbox": [
+        302.07421875,
+        788.051872253418,
+        307.89453125,
+        798.0118713378906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch die von Marktteilnehmern vorgetragene Befürchtung, dass EGGER künftig anstelle von  Rohspanplatten verstärkt beschichtete Spanplatten herstellen und vertreiben könnte, gibt für sich  genommen keinen Anlass zu fusionskontrollrechtlichen Bedenken. Zwar sieht das Bundeskartellamt den Trend, dass Holzwerkstoffhersteller einen größeren Teil der Wertschöpfungskette auf sich vereinen  wollen und Spanplatten immer öfter selbst beschichten. Doch selbst wenn EGGER – wovon auf  absehbare Zeit nicht auszugehen ist – die komplette Produktion von RSG auf beschichtete Spanplatten umstellen würde, würde EGGER auch in diesem Bereich voraussichtlich keine marktbeherrschende  Stellung erlangen. Die in diesem Bereich wichtigsten Wettbewerber Kronospan und Pfleiderer verfügen  hier jeweils über eine vergleichbare Marktposition wie EGGER und agieren insofern auf Augenhöhe. Für  eine Umstellung auf Beschichtung sind außerdem sehr hohe Investitionen nötig und die Kunden für  beschichtete Spanplatten müssten erst noch gewonnen werden. Das hierfür notwendige  wettbewerblich aktive Verhalten würde insofern auch gegen eine Koordinierung unter den drei großen  Konzernen sprechen.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          69.84375,
+          126.62890625
+        ],
+        [
+          536.2451171875,
+          126.62890625
+        ],
+        [
+          536.2451171875,
+          355.21002197265625
+        ],
+        [
+          69.84375,
+          355.21002197265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        126.62890625,
+        536.2451171875,
+        355.21002197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zusammenfassend ist aufgrund der Produktionsbesonderheiten hier weder in Hinblick auf unilaterale  noch in Hinblick auf koordinierte Effekte eine erhebliche Behinderung wirksamen Wettbewerbs durch  das Zusammenschlussvorhaben zu erwarten. Das Vorhaben wurde daher freigegeben.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          69.84375,
+          367.552734375
+        ],
+        [
+          528.127197265625,
+          367.552734375
+        ],
+        [
+          528.127197265625,
+          415.21002197265625
+        ],
+        [
+          69.84375,
+          415.21002197265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        367.552734375,
+        528.127197265625,
+        415.21002197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 87,
+      "polygon": [
+        [
+          302.07421875,
+          788.051872253418
+        ],
+        [
+          307.89453125,
+          788.051872253418
+        ],
+        [
+          307.89453125,
+          798.0118713378906
+        ],
+        [
+          302.07421875,
+          798.0118713378906
+        ]
+      ],
+      "bbox": [
+        302.07421875,
+        788.051872253418,
+        307.89453125,
+        798.0118713378906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

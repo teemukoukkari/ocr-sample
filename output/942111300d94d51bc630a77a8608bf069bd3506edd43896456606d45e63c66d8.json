@@ -1,0 +1,5580 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 224,
+      "polygon": [
+        [
+          419.935546875,
+          45.224609375
+        ],
+        [
+          544.5040283203125,
+          45.224609375
+        ],
+        [
+          544.5040283203125,
+          73.181640625
+        ],
+        [
+          419.935546875,
+          73.181640625
+        ]
+      ],
+      "bbox": [
+        419.935546875,
+        45.224609375,
+        544.5040283203125,
+        73.181640625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Meie: 27.08.2024 nr 5-1/23-0020-132-20</p>",
+      "page": 224,
+      "polygon": [
+        [
+          331.75,
+          167.56146240234375
+        ],
+        [
+          530.02001953125,
+          167.56146240234375
+        ],
+        [
+          530.02001953125,
+          179.56146240234375
+        ],
+        [
+          331.75,
+          179.56146240234375
+        ]
+      ],
+      "bbox": [
+        331.75,
+        167.56146240234375,
+        530.02001953125,
+        179.56146240234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 224,
+      "polygon": [
+        [
+          15.249218749999999,
+          41.97666015625
+        ],
+        [
+          204.75859375,
+          41.97666015625
+        ],
+        [
+          204.75859375,
+          104.38662109375
+        ],
+        [
+          15.249218749999999,
+          104.38662109375
+        ]
+      ],
+      "bbox": [
+        15.249218749999999,
+        41.97666015625,
+        204.75859375,
+        104.38662109375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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96Rz0AHrUXhbRZNI0kfanD39wxnu3H8UjckfQdB7Cs7RrC71rUxr+rQtEoBFjaP1iT+8w7Mf0rrV+7QAAYpaKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAIZIVlRo5EV0YYKtzmuVk8P6poErT+HJUe3J3Np07EIfXY38J9unuK7Cm+vFAHL23jbTQ4g1aOfSbj7pS7TaufaQZT9a6K2nhuoVlt5o5UI4aNgw/MUTWsNypSeFJF9HXNYE/gbRnkMtrHNZTHnfaylD/WgDpE444FOyK5X/hH9fs/+PDxJK4HRL2ESZ/4FkH9KadW8U6Z/wAhDQo76MdZdNnBIHqVk2/pmgDrMg8Z5pu3g8daxdO8V6RqMwt1uDb3X/PvcoYpPwDAZ/DNbtADNmR0pwOBilyKjkZUVndgqjkknAA96AH7hRmuXuvHGmxzG306K61a4BxssYtyj6ucJ+tMW58Y6nzFY2OlxHo1xKZJf++VBX/x6gDqjyKp3uo2Glw+Ze3lvbIB1lkC/wA6wv8AhFdTuj/xMfE17JnqtsohH06mrVl4M0Oxk81bITTdTJOS7E/jQBRm8Xyag5t/DunXF+54NxIhigT6s2N3/AQasad4Xme9XU9euRf36/cUDEUPsg/qetdGkaxqFRQq+ijFSUAM2n0x9KcM45paKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACkYZGKWigDM1LRdP1aFor+1SUHoxGCPoR0rn3j1rwiPMiaXVtHU/NGxzPAvqOzqPTr9a7OggEYI4oA5q78X6TBpsN5bym7kuTtt7eAZkkb0x2x3zjFUovD2pa8Rc+JLgpCeU023bCKP9tv4j9OK2bTw3pVjqk2o21mkdzN99hyB9B2rYH3RQBVtLO2soRFbQRwxgYCouKsrinUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Erkki Kaisla Enefit Power AS</p>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          167.56146240234375
+        ],
+        [
+          171.34799194335938,
+          167.56146240234375
+        ],
+        [
+          171.34799194335938,
+          193.3614501953125
+        ],
+        [
+          89.6328125,
+          193.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        167.56146240234375,
+        171.34799194335938,
+        193.3614501953125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud elektrooniliselt e-posti aadressile:</i> <i><a href=\"mailto:info@enefitpower.ee\">info@enefitpower.ee.</a></i></p>",
+      "page": 224,
+      "polygon": [
+        [
+          90.7439956665039,
+          231.6414794921875
+        ],
+        [
+          406.0299987792969,
+          231.6414794921875
+        ],
+        [
+          406.0299987792969,
+          243.8017578125
+        ],
+        [
+          90.7439956665039,
+          243.8017578125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        231.6414794921875,
+        406.0299987792969,
+        243.8017578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teade järelevalvemenetluse lõpetamisest</b></h1>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          302.1826171875
+        ],
+        [
+          297.3479919433594,
+          302.1826171875
+        ],
+        [
+          297.3479919433594,
+          314.47149658203125
+        ],
+        [
+          89.6328125,
+          314.47149658203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        302.1826171875,
+        297.3479919433594,
+        314.47149658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>1.</b> <b>Järelevalvemenetluse alustamine</b> <b>ja faktilised asjaolud</b></h1>",
+      "page": 224,
+      "polygon": [
+        [
+          89.05078125,
+          344.2314453125
+        ],
+        [
+          386.4739990234375,
+          344.2314453125
+        ],
+        [
+          386.4739990234375,
+          356.2314453125
+        ],
+        [
+          89.05078125,
+          356.2314453125
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        344.2314453125,
+        386.4739990234375,
+        356.2314453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Viru Keemia Grupp AS (edaspidi VKG) esindaja Advokaadibüroo LINKLaw OÜ esitas  18.09.2023 VKG nimel Konkurentsiametile taotluse<sup>1</sup> (edaspidi Taotlus) Eesti Energia AS-i  (edaspidi EE) ja Enefit Power AS-i (edaspidi Enefit) suhtes järelevalvemenetluse algatamiseks  seoses EE ja Enefiti poolt väidetava turgu valitseva seisundi kuritarvitamisega.</p>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          371.2529296875
+        ],
+        [
+          547.4400024414062,
+          371.2529296875
+        ],
+        [
+          547.4400024414062,
+          431.7314453125
+        ],
+        [
+          89.6328125,
+          431.7314453125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        371.2529296875,
+        547.4400024414062,
+        431.7314453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Taotluses tõi VKG välja (kokkuvõtvalt), et Enefit omab põlevkiviturul turgu valitsevat seisundit konkurentsiseaduse (KonkS) § 13 lg 1 tähenduses. VKG leidis, et sisuliselt jagati põlevkiviturg  nelja turuosalise vahel ära keskkonnaministeeriumi 10.08.2009 käskkirjaga nr 1319 (edaspidi  käskkiri nr 1319), arvestamata seejuures kaevandajate tegelikke vajadusi ja lähtudes sel hetkel  kehtinud keskkonnalubadest (edaspidi ka kaevandamislubadest).</p>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          446.0791015625
+        ],
+        [
+          547.4080200195312,
+          446.0791015625
+        ],
+        [
+          547.4080200195312,
+          523.1714477539062
+        ],
+        [
+          89.6328125,
+          523.1714477539062
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        446.0791015625,
+        547.4080200195312,
+        523.1714477539062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…] Koos Enefitiga rajatavast Uus-Kiviõli kaevandusest on lubatud kaevandamisloa alusel  kaevandada kokku kuni 6 mln tonni geoloogilist põlevkivi<sup>2</sup> aastas. Seejuures VKG osakaal sellest piirmäärast on 1/3 ehk 2 mln tonni aastas. VKG Uus-Kiviõli II (edaspidi UK II)  kaevandamisloale on kantud kõrvaltingimus, et VKG võib oma kaevanduse poolel kaevandada  kuni 5 mln tonni aastas tingimusel, et Enefit ei ole alustanud kaevandamist enda poolel. VKG  sõnul ei taga selline tingimus talle jätkusuutlikku tootmist, tehnilist arengut ega  investeerimiskindlust, kuna Enefiti tegevuse korral (kaevandama asudes) väheneks VKG  aastane kaevemaht tagasi 2 mln tonni peale.</p>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          539.011474609375
+        ],
+        [
+          547.4400024414062,
+          539.011474609375
+        ],
+        [
+          547.4400024414062,
+          663.1572265625
+        ],
+        [
+          89.6328125,
+          663.1572265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        539.011474609375,
+        547.4400024414062,
+        663.1572265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…], eeldab Enefiti nõusolekut. VKG on küsinud Enefiti nõusolekut, kuid Enefit ei ole sellega  nõustunud. VKG hinnangul on see käsitatav turgu valitseva seisundi kuritarvitamisena</p>",
+      "page": 224,
+      "polygon": [
+        [
+          89.6328125,
+          676.724609375
+        ],
+        [
+          547.1599731445312,
+          676.724609375
+        ],
+        [
+          547.1599731445312,
+          705.8414611816406
+        ],
+        [
+          89.6328125,
+          705.8414611816406
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        676.724609375,
+        547.1599731445312,
+        705.8414611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><sup>1</sup> Konkurentsiametis 19.09.2023 registreeritud taotlus nr 5-1/23-0020-132-1.</p>",
+      "page": 224,
+      "polygon": [
+        [
+          90.7439956665039,
+          757.306640625
+        ],
+        [
+          396.6399841308594,
+          757.306640625
+        ],
+        [
+          396.6399841308594,
+          770.5034103393555
+        ],
+        [
+          90.7439956665039,
+          770.5034103393555
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        757.306640625,
+        396.6399841308594,
+        770.5034103393555
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><sup>2</sup> Maa all asuvate põlevkivikihtide summaarne kogus ilma põlevkivikihtide vahel olevate paekivikihtideta.</p>",
+      "page": 224,
+      "polygon": [
+        [
+          88.46875,
+          771.384391784668
+        ],
+        [
+          515.1802368164062,
+          771.384391784668
+        ],
+        [
+          515.1802368164062,
+          782.0234146118164
+        ],
+        [
+          88.46875,
+          782.0234146118164
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        771.384391784668,
+        515.1802368164062,
+        782.0234146118164
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 224,
+      "polygon": [
+        [
+          90.7439956665039,
+          788.1416015625
+        ],
+        [
+          447.8303527832031,
+          788.1416015625
+        ],
+        [
+          447.8303527832031,
+          799.5434112548828
+        ],
+        [
+          90.7439956665039,
+          799.5434112548828
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        788.1416015625,
+        447.8303527832031,
+        799.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vähemalt KonkS § 16 p 2 osas.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.21484375,
+          71.1259765625
+        ],
+        [
+          239.69000244140625,
+          71.1259765625
+        ],
+        [
+          239.69000244140625,
+          84.1614990234375
+        ],
+        [
+          90.21484375,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        71.1259765625,
+        239.69000244140625,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Võttes arvesse eeltoodut, algatas Konkurentsiamet 19.10.2023 Enefiti suhtes järelevalvemenetluse, hindamaks Enefiti ja vajadusel EE tegevuse vastavust KonkS § 16.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          99.9052734375
+        ],
+        [
+          544.2359619140625,
+          99.9052734375
+        ],
+        [
+          544.2359619140625,
+          127.96148681640625
+        ],
+        [
+          89.6328125,
+          127.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        99.9052734375,
+        544.2359619140625,
+        127.96148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>2.</b> <b>Enefiti</b> <b>poolt esitatud selgitused</b></h1>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          143.801513671875
+        ],
+        [
+          269.0,
+          143.801513671875
+        ],
+        [
+          269.0,
+          155.801513671875
+        ],
+        [
+          89.6328125,
+          155.801513671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        143.801513671875,
+        269.0,
+        155.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Koos järelevalvemenetluse alustamise teate edastamisega 19.10.2023 palus Konkurentsiamet  Enefitil esitada oma seisukohad ja argumendid Taotluse kohta.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          171.03125
+        ],
+        [
+          547.384033203125,
+          171.03125
+        ],
+        [
+          547.384033203125,
+          199.60150146484375
+        ],
+        [
+          89.6328125,
+          199.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        171.03125,
+        547.384033203125,
+        199.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.7439956665039,
+          215.44146728515625
+        ],
+        [
+          113.65999603271484,
+          215.44146728515625
+        ],
+        [
+          113.65999603271484,
+          227.767578125
+        ],
+        [
+          90.7439956665039,
+          227.767578125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        215.44146728515625,
+        113.65999603271484,
+        227.767578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.7439956665039,
+          242.9794921875
+        ],
+        [
+          113.65999603271484,
+          242.9794921875
+        ],
+        [
+          113.65999603271484,
+          255.31146240234375
+        ],
+        [
+          90.7439956665039,
+          255.31146240234375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        242.9794921875,
+        113.65999603271484,
+        255.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.505859375,
+          271.1514892578125
+        ],
+        [
+          113.65999603271484,
+          271.1514892578125
+        ],
+        [
+          113.65999603271484,
+          283.1514892578125
+        ],
+        [
+          90.505859375,
+          283.1514892578125
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        271.1514892578125,
+        113.65999603271484,
+        283.1514892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>VKG</b> <b>poolt täiendavalt esitatud selgitused</b></h1>",
+      "page": 219,
+      "polygon": [
+        [
+          90.21484375,
+          298.482421875
+        ],
+        [
+          321.9620056152344,
+          298.482421875
+        ],
+        [
+          321.9620056152344,
+          310.99151611328125
+        ],
+        [
+          90.21484375,
+          310.99151611328125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        298.482421875,
+        321.9620056152344,
+        310.99151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti ja VKG vahel toimus 18.12.2023 kohtumine<sup>3</sup> , kus arutati täiendavalt  Taotlusega seonduvat. Samuti andis VKG kohtumisel ülevaate UK II mäeeraldisel kaevanduse  avamise arengutest ja hetkeseisust ning põlevkivi kaevandamisest üldisemalt.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          325.57879638671875
+        ],
+        [
+          547.3719482421875,
+          325.57879638671875
+        ],
+        [
+          547.3719482421875,
+          370.6314392089844
+        ],
+        [
+          89.6328125,
+          370.6314392089844
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        325.57879638671875,
+        547.3719482421875,
+        370.6314392089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet saatis pärast kohtumist VKG-le päringu Taotluse asjaolude täpsemaks  väljaselgitamiseks. VKG tõi 12.02.2024 saadetud vastuses<sup>4</sup> […]</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          386.4714660644531
+        ],
+        [
+          547.3060302734375,
+          386.4714660644531
+        ],
+        [
+          547.3060302734375,
+          415.244140625
+        ],
+        [
+          89.6328125,
+          415.244140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        386.4714660644531,
+        547.3060302734375,
+        415.244140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Veel selgitas VKG Taotluses esinevat erisust põlevkivi koguste kohta. Nimelt kajastab  geoloogiline põlevkivivaru seda mahtu, mis asub maapõues ja ei sisalda lubjakivi.  Kaubapõlevkivi märgib mahtu, mis kaevandamise, transportimise ja töötlemise tulemusel  sisaldab lubjakivi. Seetõttu on kaubapõlevkivi kogus alati suurem geoloogilise põlevkivi  kogusest. […]</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          429.22265625
+        ],
+        [
+          547.4080200195312,
+          429.22265625
+        ],
+        [
+          547.4080200195312,
+          505.7714538574219
+        ],
+        [
+          89.6328125,
+          505.7714538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        429.22265625,
+        547.4080200195312,
+        505.7714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG tõi välja, et 2023. aastal kaevandati tagantjärele kaevandamise raames 0,63 mln tonni  geoloogilist põlevkivi. 2024. aastaks ei ole VKG veel taotlenud tagantjärele kaevandamise  mahtu, […]</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          520.9052734375
+        ],
+        [
+          547.4400024414062,
+          520.9052734375
+        ],
+        [
+          547.4400024414062,
+          565.4114685058594
+        ],
+        [
+          89.6328125,
+          565.4114685058594
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        520.9052734375,
+        547.4400024414062,
+        565.4114685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG kirjeldas ka UK II avamiseks tehtud investeeringute maksumuse jagunemist, kui Enefit peaks asuma kaevandama Uus-Kiviõli mäeeraldise enda poolel (edaspidi UK I). […].</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          581.2814636230469
+        ],
+        [
+          544.4080200195312,
+          581.2814636230469
+        ],
+        [
+          544.4080200195312,
+          609.298828125
+        ],
+        [
+          89.6328125,
+          609.298828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        581.2814636230469,
+        544.4080200195312,
+        609.298828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks esitas VKG oma 12.02.2024 vastuses seisukohad Enefiti poolt Konkurentsiametile  01.12.2023 esitatud kirja kohta. VKG sõnul (kokkuvõtvalt) on Enefiti poolt 01.12.2023 kirjas  toodud väited eksitavad. Enefit on põlevkivi kaevandamisel turgu valitsev ettevõtja ning  kuritarvitab oma seisundit. VKG leidis, et Enefit on rikkunud KonkS § 16, sh p 2 ning Euroopa  Liidu toimimise lepingu (ELTL) artiklit 102, sh selle punkti b.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          624.9614562988281
+        ],
+        [
+          547.4080200195312,
+          624.9614562988281
+        ],
+        [
+          547.4080200195312,
+          702.21484375
+        ],
+        [
+          89.6328125,
+          702.21484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        624.9614562988281,
+        547.4080200195312,
+        702.21484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 219,
+      "polygon": [
+        [
+          520.2999877929688,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          520.2999877929688,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        520.2999877929688,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/14",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Konkurentsiametis 03.01.2024 registreeritud protokoll nr 5-1/23-0020-002-1.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          771.6962890625
+        ],
+        [
+          406.7320251464844,
+          771.6962890625
+        ],
+        [
+          406.7320251464844,
+          782.5034103393555
+        ],
+        [
+          89.6328125,
+          782.5034103393555
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        771.6962890625,
+        406.7320251464844,
+        782.5034103393555
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/15",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Konkurentsiametis 13.02.2024 registreeritud kiri nr 5-1/23-0020-132-9.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          87.88671875,
+          783.3843879699707
+        ],
+        [
+          383.9320068359375,
+          783.3843879699707
+        ],
+        [
+          383.9320068359375,
+          794.0234146118164
+        ],
+        [
+          87.88671875,
+          794.0234146118164
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        783.3843879699707,
+        383.9320068359375,
+        794.0234146118164
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 240,
+      "polygon": [
+        [
+          89.923828125,
+          72.1614990234375
+        ],
+        [
+          110.73600006103516,
+          72.1614990234375
+        ],
+        [
+          110.73600006103516,
+          84.1614990234375
+        ],
+        [
+          89.923828125,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.923828125,
+        72.1614990234375,
+        110.73600006103516,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG palus 12.02.2024 kirjaga, et Konkurentsiamet teeks Enefitile KonkS § 63<sup>6</sup> alusel  ettekirjutuse, millega kohustaks:</p>",
+      "page": 240,
+      "polygon": [
+        [
+          89.6328125,
+          98.671875
+        ],
+        [
+          547.4080200195312,
+          98.671875
+        ],
+        [
+          547.4080200195312,
+          127.96148681640625
+        ],
+        [
+          89.6328125,
+          127.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        98.671875,
+        547.4080200195312,
+        127.96148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/240",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Enefiti hoiduma kaevandamisest […] ja</li><li block-type=\"ListItem\"> Enefiti esitama taotluse Keskkonnaametile […] või</li><li block-type=\"ListItem\"> Enefiti nõustuma […] muudatusega […]. Lisaks kohustada Enefiti esitama taotluse […] või</li><li block-type=\"ListItem\"> Enefiti nõustuma […] muutmisega, […].</li></ul></p>",
+      "page": 240,
+      "polygon": [
+        [
+          106.51171875,
+          143.801513671875
+        ],
+        [
+          544.78125,
+          143.801513671875
+        ],
+        [
+          544.78125,
+          219.281494140625
+        ],
+        [
+          106.51171875,
+          219.281494140625
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        143.801513671875,
+        544.78125,
+        219.281494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Täiendavalt palus VKG Konkurentsiametit jätkata järelevalvemenetlust, tuvastamaks  KonkS § 61<sup>1</sup> alusel Enefiti poolt ELTL artikli 102 (Kreeka pruunsöe kaasuse C-553/12 p näitel) ja KonkS § 16 (sh p 2) rikkumine ning teha korrakaitseseaduse (KorS) § 28 lg 1 alusel  ettekirjutus turgu valitseva seisundi kuritarvitamise lõpetamiseks, tagades sh eelnevas loetelus  sätestatud tegevuste tegemine ja eesmärkide saavutamine.</p>",
+      "page": 240,
+      "polygon": [
+        [
+          88.46875,
+          233.9345703125
+        ],
+        [
+          547.4080200195312,
+          233.9345703125
+        ],
+        [
+          547.4080200195312,
+          310.6314697265625
+        ],
+        [
+          88.46875,
+          310.6314697265625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        233.9345703125,
+        547.4080200195312,
+        310.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.</b> <b>Kaubaturg ja turgu</b> <b>valitsev seisund</b></h1>",
+      "page": 240,
+      "polygon": [
+        [
+          90.21484375,
+          326.47149658203125
+        ],
+        [
+          292.6579895019531,
+          326.47149658203125
+        ],
+        [
+          292.6579895019531,
+          338.4714660644531
+        ],
+        [
+          90.21484375,
+          338.4714660644531
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        326.47149658203125,
+        292.6579895019531,
+        338.4714660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.1.</b> <b>Kaubaturg</b></h1>",
+      "page": 240,
+      "polygon": [
+        [
+          107.384765625,
+          354.43145751953125
+        ],
+        [
+          187.11199951171875,
+          354.43145751953125
+        ],
+        [
+          187.11199951171875,
+          366.43145751953125
+        ],
+        [
+          107.384765625,
+          366.43145751953125
+        ]
+      ],
+      "bbox": [
+        107.384765625,
+        354.43145751953125,
+        187.11199951171875,
+        366.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 3 lg 1 kohaselt on kaubaturg hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja  kasutustingimuste ning tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel  vahetatavate või asendatavate kaupade käibimise ala, mis hõlmab muu hulgas kogu Eesti  territooriumi või selle osa.</p>",
+      "page": 240,
+      "polygon": [
+        [
+          89.6328125,
+          381.9423828125
+        ],
+        [
+          547.427978515625,
+          381.9423828125
+        ],
+        [
+          547.427978515625,
+          441.93145751953125
+        ],
+        [
+          89.6328125,
+          441.93145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        381.9423828125,
+        547.427978515625,
+        441.93145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaevandamisel saadakse erineva kvaliteediga põlevkivi, mis jaotatakse erinevatesse kvaliteedikategooriatesse, lähtudes peamiselt kütteväärtusest ja tükisuurusest. See, millise kvaliteediga  põlevkivi on, sõltub kaevanduse asukohast ja kaevandamis- ning rikastamistehnoloogiast.  Samas on põlevkivi kaevandamisega tegelevatel ettevõtjatel võimalik rikastamise protsessi  käigus kerge vaevaga reguleerida lõpptoodangu kvaliteeti. Seetõttu võib erineva kvaliteediga  põlevkivi lugeda asendatavaks. Konkurentsiamet on varasemalt selgitanud<sup>5</sup> ja jääb selle juurde,  et kaup, millest turu määratlemisel lähtuda, on põlevkivi (s.o nii kontsentraat kui ka  energeetiline põlevkivi).</p>",
+      "page": 240,
+      "polygon": [
+        [
+          88.46875,
+          457.7714538574219
+        ],
+        [
+          547.4400024414062,
+          457.7714538574219
+        ],
+        [
+          547.4400024414062,
+          581.341796875
+        ],
+        [
+          88.46875,
+          581.341796875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        457.7714538574219,
+        547.4400024414062,
+        581.341796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Põlevkivi energiasisaldus on suhteliselt madal, sisaldades suurel määral lubjakivi. Seetõttu on  transport kulukas ja suure vahemaa taha transportimine ebaökonoomne. Sellele viitab ka  asjaolu, et põlevkivi ei ole aastaid Eestisse imporditud ega ka eksporditud. Seega ei ole  põlevkivi geograafiliselt laiemalt kaubeldav. Sel põhjusel on põlevkivi tarbiv tööstus Eestis  koondunud põlevkivimaardlate lähedusse mõnekümne kilomeetri raadiuses. Peamiselt  kasutatakse põlevkivi Eestis elektri ja põlevkiviõli tootmiseks. Põlevkivi kui kauba  geograafiline turg on seega piiratud Eestiga või pigem isegi Kirde-Eestiga.</p>",
+      "page": 240,
+      "polygon": [
+        [
+          89.6328125,
+          596.7614593505859
+        ],
+        [
+          547.4400024414062,
+          596.7614593505859
+        ],
+        [
+          547.4400024414062,
+          705.50390625
+        ],
+        [
+          89.6328125,
+          705.50390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        596.7614593505859,
+        547.4400024414062,
+        705.50390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 240,
+      "polygon": [
+        [
+          89.6328125,
+          758.12890625
+        ],
+        [
+          93.125,
+          758.12890625
+        ],
+        [
+          93.125,
+          767.99609375
+        ],
+        [
+          89.6328125,
+          767.99609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        758.12890625,
+        93.125,
+        767.99609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 240,
+      "polygon": [
+        [
+          520.2999877929688,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          520.2999877929688,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        520.2999877929688,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> Konkurentsiameti 19.10.2015 teade nr 5.1-5/15-039.</p>",
+      "page": 240,
+      "polygon": [
+        [
+          88.46875,
+          783.3843879699707
+        ],
+        [
+          307.3125,
+          783.3843879699707
+        ],
+        [
+          307.3125,
+          794.30859375
+        ],
+        [
+          88.46875,
+          794.30859375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        783.3843879699707,
+        307.3125,
+        794.30859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.2.</b> <b>Turgu valitsev seisund</b></h1>",
+      "page": 262,
+      "polygon": [
+        [
+          107.67578125,
+          72.1614990234375
+        ],
+        [
+          244.36398315429688,
+          72.1614990234375
+        ],
+        [
+          244.36398315429688,
+          84.1614990234375
+        ],
+        [
+          107.67578125,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        107.67578125,
+        72.1614990234375,
+        244.36398315429688,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit KonkS tähenduses ettevõtja või mitu  samal kaubaturul tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul  tegutseda arvestataval määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu  valitseva seisundi omamist eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale  ettevõtjale kuulub kaubaturul vähemalt 40% käibest.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          88.46875,
+          99.9052734375
+        ],
+        [
+          547.4080200195312,
+          99.9052734375
+        ],
+        [
+          547.4080200195312,
+          175.60150146484375
+        ],
+        [
+          88.46875,
+          175.60150146484375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        99.9052734375,
+        547.4080200195312,
+        175.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 3 lg 2 kohaselt arvestatakse kaubaturu piiritlemisel asendatavate kaupade käivet  üldjuhul rahalises väljenduses. Kui see ei ole võimalik või otstarbekas, võib kaubaturu mahtu  ja sellel tegutseva ettevõtja turuosa arvestada mõne muu võrreldava näitaja alusel.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          88.46875,
+          190.765625
+        ],
+        [
+          547.27001953125,
+          190.765625
+        ],
+        [
+          547.27001953125,
+          235.1214599609375
+        ],
+        [
+          88.46875,
+          235.1214599609375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        190.765625,
+        547.27001953125,
+        235.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MaaPS § 46 lg 3 kohaselt on põlevkivi kaevandamise aastamäär 20 mln tonni. See on  maksimaalne lubatud kaevandatav kogus aastas kõikide kaevandamislube omavate ettevõtjate  peale kokku. Kuivõrd põlevkivi tarne kaubaturu tootmismaht on piiratud koguseliselt, siis ei  ole turuosa määratlemisel otstarbekas lähtuda käibest. Otstarbekas on lähtuda kogusest.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          89.6328125,
+          250.99151611328125
+        ],
+        [
+          547.3839721679688,
+          250.99151611328125
+        ],
+        [
+          547.3839721679688,
+          310.6314697265625
+        ],
+        [
+          89.6328125,
+          310.6314697265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        250.99151611328125,
+        547.3839721679688,
+        310.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eestis omab põlevkivi kaevandamise luba neli ettevõtjat: Enefit, Osaühing VKG Kaevandused (edaspidi VKG Kaevandused), KIVIÕLI KEEMIATÖÖSTUSE OSAÜHING (edaspidi  Kiviõli) ja Heidelberg Materials Kunda AS (endine Aktsiaselts Kunda Nordic Tsement; edaspidi Kunda). Kaevandatav aastamäär 20 mln tonni on jagatud nende nelja ettevõtja vahel  käskkirja nr 1319 alusel. Selle kohaselt omab Enefit aastasest lubatud kaevemahust  15,01 mln tonni ehk 75,05%, VKG Kaevandused omab 2,772 mln tonni ehk 13,86%, Kiviõli omab 1,98 mln tonni ehk 9,9% ja Kunda omab 0,238 mln tonni ehk 1,19%.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          89.6328125,
+          326.0283203125
+        ],
+        [
+          547.39599609375,
+          326.0283203125
+        ],
+        [
+          547.39599609375,
+          433.7714538574219
+        ],
+        [
+          89.6328125,
+          433.7714538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        326.0283203125,
+        547.39599609375,
+        433.7714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kui vaadelda põlevkivi kaevandamise lubadega ettevõtjatele eraldatud põlevkivivaru  2023. aasta lõpu seisuga<sup>6</sup> , siis Enefiti aktiivne põlevkivivaru oli 331,1 mln tonni, VKG  Kaevandused varu oli 98,8 mln tonni, Kiviõli varu oli 8,0 mln tonni ja Kunda varu oli 2,0  mln tonni. Nelja ettevõtja peale kokku oli varu 439,9 mln tonni. Enefiti osa sellest varust  moodustas 75,3% ehk ligikaudu sama osakaal nagu käskkirja nr 1319 alusel.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          89.6328125,
+          449.3681640625
+        ],
+        [
+          547.4320068359375,
+          449.3681640625
+        ],
+        [
+          547.4320068359375,
+          525.0914611816406
+        ],
+        [
+          89.6328125,
+          525.0914611816406
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        449.3681640625,
+        547.4320068359375,
+        525.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Enefitile on seega tagatud 75% põlevkivi aastasest lubatud kaevemahust. Kuigi Enefit ei ole  seda varasematel aastatel täiel määral ära kasutanud, siis sõltumata turul tegutsevate  konkurentide tegevusest on Enefitil võimalik soovi korral see kogus kaevandada. Selline  turuosa on Enefitile tagatud regulatiivse piiranguga ega ole kujunenud vaba konkurentsi  tingimustes. Enefitil on põlevkivi kaubaturul jätkuvalt turgu valitsev seisund.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          88.46875,
+          540.9314575195312
+        ],
+        [
+          547.4320068359375,
+          540.9314575195312
+        ],
+        [
+          547.4320068359375,
+          616.69921875
+        ],
+        [
+          88.46875,
+          616.69921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        540.9314575195312,
+        547.4320068359375,
+        616.69921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Esinevad regulatiivsed (sh MaaPS tulenevad) tõkked, mistõttu on uutel ettevõtjatel Eesti  põlevkivi kaubaturule võimatu siseneda ning kaubaturul juba tegutsevatel ettevõtjatel ei ole  võimalik oma turutegevust laiendada. Eesti põlevkivi kaubaturul puudub (potentsiaalne) konkurents. Eelnevat on Konkurentsiamet oma 19.10.2015 teates nr 5.1-5/15-039 põhjalikult  ka selgitanud.</p>",
+      "page": 262,
+      "polygon": [
+        [
+          89.6328125,
+          632.2814636230469
+        ],
+        [
+          547.4320068359375,
+          632.2814636230469
+        ],
+        [
+          547.4320068359375,
+          708.79296875
+        ],
+        [
+          89.6328125,
+          708.79296875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        632.2814636230469,
+        547.4320068359375,
+        708.79296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Samas näeb kehtiv regulatsioon ette mehhanismid, mis võimaldavad turuosalistel</p>",
+      "page": 262,
+      "polygon": [
+        [
+          90.7439956665039,
+          723.7214660644531
+        ],
+        [
+          547.2139892578125,
+          723.7214660644531
+        ],
+        [
+          547.2139892578125,
+          735.7214660644531
+        ],
+        [
+          90.7439956665039,
+          735.7214660644531
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        723.7214660644531,
+        547.2139892578125,
+        735.7214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4 (12)</p>",
+      "page": 262,
+      "polygon": [
+        [
+          520.2999877929688,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          520.2999877929688,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        520.2999877929688,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> Maa-ameti Maavaravarude koondbilanss 2023, kättesaadav: <a href=\"https://geoportaal.maaamet.ee/docs/geoloogia/koondbilanss_2023.pdf?t=20240613135444\">https://geoportaal.maaamet.ee/docs/geoloogia/koondbilanss_2023.pdf?t=20240613135444.</a></p>",
+      "page": 262,
+      "polygon": [
+        [
+          89.6328125,
+          770.8740234375
+        ],
+        [
+          455.9499816894531,
+          770.8740234375
+        ],
+        [
+          455.9499816894531,
+          794.7197265625
+        ],
+        [
+          89.6328125,
+          794.7197265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        770.8740234375,
+        455.9499816894531,
+        794.7197265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kokkuleppeliselt õigusaktidega ettenähtud kaevandamismahtusid muuta. Üheks võimaluseks on kasutada tagantjärele kaevandamise mehhanismi (MaaPS § 63), mille puuduseks võib  pidada siiski seda, et tagantjärele kaevandamisest saadav maht ei ole ette teada ega ole seega  sellest potentsiaalselt huvitatud ettevõtjatele garanteeritud. Lisaks, ka tagantjärele  kaevandamisele kehtivad ettevõtjale seatud piirmäärad (maksimaalne ettevõtjapõhine  aastamäär ja maksimaalne mäeeraldisepõhine aastamäär). Kui ettevõtjal on need määrad juba  täitunud, siis ei saa see ettevõtja osaleda tagantjärele kaevandamisel.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          70.71484375
+        ],
+        [
+          547.407958984375,
+          70.71484375
+        ],
+        [
+          547.407958984375,
+          179.44146728515625
+        ],
+        [
+          89.6328125,
+          179.44146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        70.71484375,
+        547.407958984375,
+        179.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Teiseks seaduses sätestatud mahu ümberjagamise võimaluseks on, et ettevõtja, kes talle  kasutada antud kaevandamise aastamäära ära ei kasuta, loobub kaevandamata osast MaaPS § 61 lg 7 alusel või võõrandab selle MaaPS § 61 lg 6 sätestatud tingimusi täitvale  isikule.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          88.46875,
+          194.0546875
+        ],
+        [
+          547.3839721679688,
+          194.0546875
+        ],
+        [
+          547.3839721679688,
+          254.95147705078125
+        ],
+        [
+          88.46875,
+          254.95147705078125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        194.0546875,
+        547.3839721679688,
+        254.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile ei ole teada ja menetluses ka ei toodud välja, et […].</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.7439956665039,
+          270.79150390625
+        ],
+        [
+          440.260009765625,
+          270.79150390625
+        ],
+        [
+          440.260009765625,
+          283.681640625
+        ],
+        [
+          90.7439956665039,
+          283.681640625
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        270.79150390625,
+        440.260009765625,
+        283.681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Asjaolu, et uutel tulijatel on pea võimatu Eesti põlevkivi kaubaturule siseneda ja kaubaturul  juba tegutsevatel ettevõtjatel ei ole võimalik oma kaevandamise aastamäära muudmoodi  suurendada, kui läbi Enefiti poolse mahtude loovutamise või võõrandamise, tähendab, et Enefiti turupositsioon on tugev ja tema turuosa on püsiv. Enefitil on põlevkivi kaubaturul jätkuvalt  turgu valitsev seisund<sup>7</sup> .</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          298.6314697265625
+        ],
+        [
+          547.4080200195312,
+          298.6314697265625
+        ],
+        [
+          547.4080200195312,
+          374.1114501953125
+        ],
+        [
+          89.6328125,
+          374.1114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        298.6314697265625,
+        547.4080200195312,
+        374.1114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.</b> <b>Turgu valitseva seisundi võimalik kuritarvitamine</b></h1>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          389.95147705078125
+        ],
+        [
+          364.98199462890625,
+          389.95147705078125
+        ],
+        [
+          364.98199462890625,
+          401.95147705078125
+        ],
+        [
+          89.6328125,
+          401.95147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        389.95147705078125,
+        364.98199462890625,
+        401.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Taotluse kohaselt on selle eesmärgiks põlevkiviturul valitseva konkurentsivastase olukorra  parandamine ja seeläbi konkurentsi kahjustava olukorra lahendamine. Taotluses leitakse, et  Enefit rikub eelkõige KonkS §16 p 2.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          417.93145751953125
+        ],
+        [
+          547.261962890625,
+          417.93145751953125
+        ],
+        [
+          547.261962890625,
+          462.11328125
+        ],
+        [
+          89.6328125,
+          462.11328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        417.93145751953125,
+        547.261962890625,
+        462.11328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 kehtestab ettevõtja(te) turgu valitseva seisundi kuritarvitamise keelu. KonkS § 16  kohaselt on keelatud ühe või mitme ettevõtja poolt turgu valitseva seisundi otsene või kaudne  kuritarvitamine kaubaturul, sealhulgas:</p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          477.45147705078125
+        ],
+        [
+          547.427978515625,
+          477.45147705078125
+        ],
+        [
+          547.427978515625,
+          521.7275390625
+        ],
+        [
+          89.6328125,
+          521.7275390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        477.45147705078125,
+        547.427978515625,
+        521.7275390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/219",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. otsene või kaudne ebaõiglaste ostu- või müügihindade või muude ebaõiglaste  äritingimuste kehtestamine või rakendamine;</li><li block-type=\"ListItem\">2. tootmise, teenindamise, kaubaturu, tehnilise arengu või investeerimise piiramine;</li><li block-type=\"ListItem\">3. võrdväärsete kokkulepete korral erinevate tingimuste pakkumine või rakendamine  erinevatele äripartneritele, pannes mõne neist sellega ebasoodsasse  konkurentsiolukorda;</li><li block-type=\"ListItem\">4. teisele poolele kokkuleppe objektiga mitteseotud lisakohustuse seadmine;</li><li block-type=\"ListItem\">5. ettevõtja sundimine endaga või teise ettevõtjaga koondumiseks, konkurentsi kahjustava  kokkuleppe sõlmimiseks, kooskõlastatud tegevuseks või otsuse vastuvõtmiseks;</li><li block-type=\"ListItem\">6. põhjendamatu keeldumine kauba müümisest või ostmisest.</li></ul></p>",
+      "page": 219,
+      "polygon": [
+        [
+          105.9296875,
+          536.1171875
+        ],
+        [
+          547.2940063476562,
+          536.1171875
+        ],
+        [
+          547.2940063476562,
+          691.9365234375
+        ],
+        [
+          105.9296875,
+          691.9365234375
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        536.1171875,
+        547.2940063476562,
+        691.9365234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Riigikohus on asjas 2-15-505 selgitanud, et kui <i>[…] hageja rajab oma nõude väitele, et kostja </i> <i>on turgu valitsevat seisundit kuritarvitanud, ja toob välja asjaolud, mis puudutavad KonkS-i </i></p>",
+      "page": 219,
+      "polygon": [
+        [
+          89.6328125,
+          707.7614593505859
+        ],
+        [
+          547.4400024414062,
+          707.7614593505859
+        ],
+        [
+          547.4400024414062,
+          736.75
+        ],
+        [
+          89.6328125,
+          736.75
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        707.7614593505859,
+        547.4400024414062,
+        736.75
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.21484375,
+          757.7177734375
+        ],
+        [
+          93.70703125,
+          757.7177734375
+        ],
+        [
+          93.70703125,
+          768.4072265625
+        ],
+        [
+          90.21484375,
+          768.4072265625
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        757.7177734375,
+        93.70703125,
+        768.4072265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 219,
+      "polygon": [
+        [
+          520.2999877929688,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          520.2999877929688,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        520.2999877929688,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/14",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> Selle asjaolu tuvastas ka Riigikohus tsiviilasjas 2-15-505 ja turuolukord ei ole muutunud.</p>",
+      "page": 219,
+      "polygon": [
+        [
+          90.7439956665039,
+          783.3843879699707
+        ],
+        [
+          453.8273010253906,
+          783.3843879699707
+        ],
+        [
+          453.8273010253906,
+          794.30859375
+        ],
+        [
+          90.7439956665039,
+          794.30859375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        783.3843879699707,
+        453.8273010253906,
+        794.30859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>konkreetsete punktidega hõlmatud rikkumisi, tuleb kostja teo õigusvastasuse kohta hinnangu </i> <i>andmiseks kindlaks teha, kas kostja on rikkunud kasvõi ühte KonkS</i> <i>§</i> <i>16 p-des 1–6 nimetatud </i> <i>või muud turgu valitseva seisundi kuritarvitamisena käsitatava tegevuse keeldu. […]</i> Seejuures  märgime, et KonkS § 16 punktid 1–6 sisaldavad mitteammendavat loetelu juhtumitest, millal  on tegemist ettevõtja poolt turgu valitseva seisundi kuritarvitamisega kaubaturul. Eelnev  tähendab, et ka KonkS § 16 p 1–6 nimetamata tegevus võib teatud olukordades kvalifitseeruda  kuritarvituseks.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          72.1614990234375
+        ],
+        [
+          547.4080200195312,
+          72.1614990234375
+        ],
+        [
+          547.4080200195312,
+          179.44146728515625
+        ],
+        [
+          89.6328125,
+          179.44146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        72.1614990234375,
+        547.4080200195312,
+        179.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.1.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>1</b></h1>",
+      "page": 250,
+      "polygon": [
+        [
+          107.384765625,
+          195.281494140625
+        ],
+        [
+          208.25,
+          195.281494140625
+        ],
+        [
+          208.25,
+          207.281494140625
+        ],
+        [
+          107.384765625,
+          207.281494140625
+        ]
+      ],
+      "bbox": [
+        107.384765625,
+        195.281494140625,
+        208.25,
+        207.281494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 1 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          222.833984375
+        ],
+        [
+          547.3599853515625,
+          222.833984375
+        ],
+        [
+          547.3599853515625,
+          250.99151611328125
+        ],
+        [
+          89.6328125,
+          250.99151611328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        222.833984375,
+        547.3599853515625,
+        250.99151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/249",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja on kohaldanud otseselt või kaudselt ebaõiglasi tingimusi;</li><li block-type=\"ListItem\"> ettevõtja kui kaubaturul turgu valitsevat seisundit omava ettevõtja tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 250,
+      "polygon": [
+        [
+          107.09375,
+          265.591796875
+        ],
+        [
+          547.135986328125,
+          265.591796875
+        ],
+        [
+          547.135986328125,
+          342.43145751953125
+        ],
+        [
+          107.09375,
+          342.43145751953125
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        265.591796875,
+        547.135986328125,
+        342.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG selgitas 18.12.2023 kohtumisel, et […].</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          357.685546875
+        ],
+        [
+          309.7900085449219,
+          357.685546875
+        ],
+        [
+          309.7900085449219,
+          370.2714538574219
+        ],
+        [
+          89.6328125,
+          370.2714538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        357.685546875,
+        309.7900085449219,
+        370.2714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Võttes arvesse VKG selgitust ning et VKG ei ole viimastel aastatel Enefitilt põlevkivi ostnud, ei tuvastatud menetluses KonkS § 16 p 1 sätestatud koosseisu.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          386.1114501953125
+        ],
+        [
+          544.5599975585938,
+          386.1114501953125
+        ],
+        [
+          544.5599975585938,
+          413.95147705078125
+        ],
+        [
+          89.6328125,
+          413.95147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        386.1114501953125,
+        544.5599975585938,
+        413.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.2.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>2</b></h1>",
+      "page": 250,
+      "polygon": [
+        [
+          106.802734375,
+          429.93145751953125
+        ],
+        [
+          208.489990234375,
+          429.93145751953125
+        ],
+        [
+          208.489990234375,
+          442.37890625
+        ],
+        [
+          106.802734375,
+          442.37890625
+        ]
+      ],
+      "bbox": [
+        106.802734375,
+        429.93145751953125,
+        208.489990234375,
+        442.37890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 2 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          456.357421875
+        ],
+        [
+          547.3599853515625,
+          456.357421875
+        ],
+        [
+          547.3599853515625,
+          485.6114501953125
+        ],
+        [
+          89.6328125,
+          485.6114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        456.357421875,
+        547.3599853515625,
+        485.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/250",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja piirab teiste turuosaliste tootmist, teenindamist, kaubaturgu, tehnilist arengut  või investeerimist;</li><li block-type=\"ListItem\"> ettevõtja käitumisele ei ole objektiivset õigustust;</li><li block-type=\"ListItem\"> ettevõtja, kui kaubaturul turgu valitsevat seisundit omava ettevõtja, tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 250,
+      "polygon": [
+        [
+          107.09375,
+          501.45147705078125
+        ],
+        [
+          547.3599853515625,
+          501.45147705078125
+        ],
+        [
+          547.3599853515625,
+          608.8876953125
+        ],
+        [
+          107.09375,
+          608.8876953125
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        501.45147705078125,
+        547.3599853515625,
+        608.8876953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">On oluline, et hindamisel lähtutaks sellest, kas piiramine lähtub just turgu valitseva ettevõtja  tegevusest.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          624.6014709472656
+        ],
+        [
+          547.3839721679688,
+          624.6014709472656
+        ],
+        [
+          547.3839721679688,
+          652.4414672851562
+        ],
+        [
+          89.6328125,
+          652.4414672851562
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        624.6014709472656,
+        547.3839721679688,
+        652.4414672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Turgu valitseva seisundi kuritarvitamise hindamisel tuleb vaadelda eelkõige, kas Enefiti  tegevus piirab VKG võimalusi kaevandada aastas 2,772 mln tonni geoloogilist põlevkivi, kuid  ka seda, kas VKG-l on võimalik ammendada UK II kaevandus kaevandamisloa kehtivusaja  jooksul.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          667.6796875
+        ],
+        [
+          547.3299560546875,
+          667.6796875
+        ],
+        [
+          547.3299560546875,
+          727.9214630126953
+        ],
+        [
+          89.6328125,
+          727.9214630126953
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        667.6796875,
+        547.3299560546875,
+        727.9214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/16",
+      "block_type": "SectionHeader",
+      "html": "<h1>5.2.1. VKG kaevandamise maht</h1>",
+      "page": 250,
+      "polygon": [
+        [
+          125.13671874999999,
+          743.7814636230469
+        ],
+        [
+          285.55999755859375,
+          743.7814636230469
+        ],
+        [
+          285.55999755859375,
+          755.7814636230469
+        ],
+        [
+          125.13671874999999,
+          755.7814636230469
+        ]
+      ],
+      "bbox": [
+        125.13671874999999,
+        743.7814636230469,
+        285.55999755859375,
+        755.7814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Riigi poolt VKG-le eraldatud aastane kaevemaht on 2,772 mln tonni geoloogilist põlevkivi</p>",
+      "page": 250,
+      "polygon": [
+        [
+          88.46875,
+          771.7414627075195
+        ],
+        [
+          547.3720092773438,
+          771.7414627075195
+        ],
+        [
+          547.3720092773438,
+          784.0302734375
+        ],
+        [
+          88.46875,
+          784.0302734375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        771.7414627075195,
+        547.3720092773438,
+        784.0302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 250,
+      "polygon": [
+        [
+          519.171875,
+          794.30859375
+        ],
+        [
+          544.5166625976562,
+          794.30859375
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          519.171875,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        519.171875,
+        794.30859375,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">aastas. Lisaks on VKG-l võimalik suurendada oma aastast kaevemahtu tagantjärele  kaevandamise mehhanismi kasutades, mis eeldab sellise mahu olemasolu (teised ettevõtjad on  jätnud oma lubatud mahu teatud määral kaevandamata) ja VKG mäeeraldistepõhist  kaevemahtu, mis võimaldaksid ületada ettevõtjapõhist aastamäära. Seega ei ole tagantjärele  kaevandamine garanteeritud, kuna sõltub VKG-st mitteolenevatest teguritest.</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          71.537109375
+        ],
+        [
+          547.238037109375,
+          71.537109375
+        ],
+        [
+          547.238037109375,
+          147.6414794921875
+        ],
+        [
+          89.6328125,
+          147.6414794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        71.537109375,
+        547.238037109375,
+        147.6414794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG-l on Ojamaa, Sompa, Viru II ja UK II kaevandused, milles on olemas põlevkivivaru. […].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          162.80859375
+        ],
+        [
+          544.3200073242188,
+          162.80859375
+        ],
+        [
+          544.3200073242188,
+          175.60150146484375
+        ],
+        [
+          89.6328125,
+          175.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        162.80859375,
+        544.3200073242188,
+        175.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kui UK II kaevandus on ette valmistatud ([…]), siis on VKG-l võimalik seal kaevandada  mäeeraldisepõhiselt kuni 5,0 mln geoloogilist põlevkivi aastas ([…], siis oleks VKG-l lubatud  UK II kaeveväljalt kaevandada maksimaalselt 2,0 mln tonni. […], on VKG ettevõtjapõhiseks  aastamääraks mõlemal juhul 2,772 mln tonni.</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          191.44146728515625
+        ],
+        [
+          547.407958984375,
+          191.44146728515625
+        ],
+        [
+          547.407958984375,
+          252.0244140625
+        ],
+        [
+          89.6328125,
+          252.0244140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        191.44146728515625,
+        547.407958984375,
+        252.0244140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1>5.2.2. UK II ammendamise võimalikkus</h1>",
+      "page": 230,
+      "polygon": [
+        [
+          125.13671874999999,
+          266.8251953125
+        ],
+        [
+          324.5780029296875,
+          266.8251953125
+        ],
+        [
+          324.5780029296875,
+          278.95147705078125
+        ],
+        [
+          125.13671874999999,
+          278.95147705078125
+        ]
+      ],
+      "bbox": [
+        125.13671874999999,
+        266.8251953125,
+        324.5780029296875,
+        278.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG UK II kaevandamisluba kehtib kuni 2049. aastani ehk veel 25 aastat. […].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          294.79150390625
+        ],
+        [
+          475.6600036621094,
+          294.79150390625
+        ],
+        [
+          475.6600036621094,
+          306.79150390625
+        ],
+        [
+          89.6328125,
+          306.79150390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        294.79150390625,
+        475.6600036621094,
+        306.79150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaevandamise puhul ei ole tavapäratu, et tööde käigus selgub, et mingi osa maavarast ei ole  olemasoleva tehnikaga ligipääsetav või ei ole kaevandamine piisavalt tasuv. […].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          321.505859375
+        ],
+        [
+          547.1399536132812,
+          321.505859375
+        ],
+        [
+          547.1399536132812,
+          350.4714660644531
+        ],
+        [
+          89.6328125,
+          350.4714660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        321.505859375,
+        547.1399536132812,
+        350.4714660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          90.21484375,
+          365.908203125
+        ],
+        [
+          113.66399383544922,
+          365.908203125
+        ],
+        [
+          113.66399383544922,
+          378.43145751953125
+        ],
+        [
+          90.21484375,
+          378.43145751953125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        365.908203125,
+        113.66399383544922,
+        378.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1>5.2.3. Investeerimise piiramine</h1>",
+      "page": 230,
+      "polygon": [
+        [
+          126.30078124999999,
+          393.865234375
+        ],
+        [
+          280.4720153808594,
+          393.865234375
+        ],
+        [
+          280.4720153808594,
+          406.2714538574219
+        ],
+        [
+          126.30078124999999,
+          406.2714538574219
+        ]
+      ],
+      "bbox": [
+        126.30078124999999,
+        393.865234375,
+        280.4720153808594,
+        406.2714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG tõi Taotluses välja, et […] piirab VKG investeerimiskindlust. VKG ei saa eraettevõtjana  riskida suure summa investeerimisega, kui ei ole kindel selle investeeringu tagasiteenimine.</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          421.0
+        ],
+        [
+          547.3359985351562,
+          421.0
+        ],
+        [
+          547.3359985351562,
+          449.9714660644531
+        ],
+        [
+          89.6328125,
+          449.9714660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        421.0,
+        547.3359985351562,
+        449.9714660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          90.21484375,
+          465.40234375
+        ],
+        [
+          113.65999603271484,
+          465.40234375
+        ],
+        [
+          113.65999603271484,
+          477.93145751953125
+        ],
+        [
+          90.21484375,
+          477.93145751953125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        465.40234375,
+        113.65999603271484,
+        477.93145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile 18.12.2023 kohtumisel antud selgituste kohaselt oli VKG investeerinud  UK II kaevandusse 2023. aasta lõpuks […] eurot. Täiendavalt on vaja investeerida […].</p>",
+      "page": 230,
+      "polygon": [
+        [
+          88.46875,
+          492.537109375
+        ],
+        [
+          547.384033203125,
+          492.537109375
+        ],
+        [
+          547.384033203125,
+          521.6114501953125
+        ],
+        [
+          88.46875,
+          521.6114501953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        492.537109375,
+        547.384033203125,
+        521.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodud põhjustel on Konkurentsiamet seisukohal, et […]) ei piira VKG investeeringuid.  Seda kinnitab ka asjaolu, et VKG on juba investeerinud üle […] euro.</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          537.4514770507812
+        ],
+        [
+          547.281982421875,
+          537.4514770507812
+        ],
+        [
+          547.281982421875,
+          566.541015625
+        ],
+        [
+          89.6328125,
+          566.541015625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        537.4514770507812,
+        547.281982421875,
+        566.541015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h1>5.2.4. Hinnang võimalikule KonkS § 16 p 2 rikkumisele</h1>",
+      "page": 230,
+      "polygon": [
+        [
+          126.73999786376953,
+          580.9306640625
+        ],
+        [
+          401.6015625,
+          580.9306640625
+        ],
+        [
+          401.6015625,
+          593.2814636230469
+        ],
+        [
+          126.73999786376953,
+          593.2814636230469
+        ]
+      ],
+      "bbox": [
+        126.73999786376953,
+        580.9306640625,
+        401.6015625,
+        593.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Võttes arvesse menetluses kogutud infot, ei tuvastanud Konkurentsiamet KonkS § 16 p 2  sätestatud koosseisu, kuna:</p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          608.8876953125
+        ],
+        [
+          547.4400024414062,
+          608.8876953125
+        ],
+        [
+          547.4400024414062,
+          636.9614562988281
+        ],
+        [
+          89.6328125,
+          636.9614562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        608.8876953125,
+        547.4400024414062,
+        636.9614562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/230",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. VKG-le on tagatud kogu põlevkivivaru kaevandamine UK II kaevandusest;</li><li block-type=\"ListItem\">2. UK II mäeeraldise kehtiv aastamäär on 5,0 mln tonni geoloogilist põlevkivi mitte  2,0 mln tonni;</li><li block-type=\"ListItem\">3. VKG-l on rahalised vahendid UK II kaevanduse täielikuks avamiseks ja selleks on VKG  juba investeerinud üle […] euro;</li><li block-type=\"ListItem\">4. VKG-le ei ole Enefiti tegevuse või tegevusetuse tõttu juurdepääs põlevkivi kaubaturule  piiratud. Piiratud on kaevandatav aastane maht, kuid vastava piirangu kehtestamine ei ole  ette heidetav Enefitile. Ette heidetav oleks see, kui Enefit ei kaevanda lubatud mahtusid  välja ja neist ka ei loobu, mille tõttu pidurdub põlevkivituru tehnoloogiline areng või</li></ul></p>",
+      "page": 230,
+      "polygon": [
+        [
+          89.6328125,
+          652.9214630126953
+        ],
+        [
+          547.4440307617188,
+          652.9214630126953
+        ],
+        [
+          547.4440307617188,
+          791.7814636230469
+        ],
+        [
+          89.6328125,
+          791.7814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        652.9214630126953,
+        547.4440307617188,
+        791.7814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 230,
+      "polygon": [
+        [
+          519.75390625,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          519.75390625,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        519.75390625,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">piiratakse teiste turuosaliste võimalusi tuua turule uusi ja konkureerivaid tooteid.</p>",
+      "page": 202,
+      "polygon": [
+        [
+          108.2578125,
+          72.1614990234375
+        ],
+        [
+          497.05468749999994,
+          72.1614990234375
+        ],
+        [
+          497.05468749999994,
+          84.1614990234375
+        ],
+        [
+          108.2578125,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        72.1614990234375,
+        497.05468749999994,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks on VKG-l Keskkonnaametis menetluses taotlus UK II loa mäeeraldisepõhise aastamäära  suurendamiseks püsivalt 5,0 mln tonni peale. […]. Hetkel on keskkonnaloa muutmise menetlus  keskkonnamõjude hindamise (edaspidi KMH) aruande Keskkonnaametile tutvumiseks  esitamise ning teistele asutustele avalikustamise etapis. Prognoositav aeg keskkonnaloa  muutmise menetluses otsuse tegemiseks on 2025. aasta II pool. Seega on üsna tõenäoline, et  […].</p>",
+      "page": 202,
+      "polygon": [
+        [
+          89.6328125,
+          99.0830078125
+        ],
+        [
+          547.3419799804688,
+          99.0830078125
+        ],
+        [
+          547.3419799804688,
+          191.44146728515625
+        ],
+        [
+          89.6328125,
+          191.44146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        99.0830078125,
+        547.3419799804688,
+        191.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet selgitab, et ei saa anda välja haldusakte (teha ettekirjutusi) tingimusliku  olukorra kohta, kus eeldatakse kellegi pahatahtlikkust tulevikus ja sellest tulenevat muutust  põlevkivi kaevandamise mahus. Amet saab lähtuda sellest, et hetkel on VKG-l UK II  kaevanduses kasutada aastane kaevemaht 5,0 mln tonni geoloogilist põlevkivi. […]. Samuti on  teada Enefiti eesmärgid lõpetada lähitulevikus elektri tootmine põlevkivist, mis peaks  langetama Enefiti vajadust põlevkivi järele. See omakorda vähendab tõenäosust, et […].</p>",
+      "page": 202,
+      "polygon": [
+        [
+          89.6328125,
+          207.2109375
+        ],
+        [
+          547.4400024414062,
+          207.2109375
+        ],
+        [
+          547.4400024414062,
+          299.3046875
+        ],
+        [
+          89.6328125,
+          299.3046875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        207.2109375,
+        547.4400024414062,
+        299.3046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kui Enefit soovib asuda kaevandama UK I kaevandusest, […]. Kui UK I kaevanduses  kaevandamise alustamine ei ole objektiivselt põhjendatud, vaid kannab eesmärki vähendada  VKG võimalusi kaevandada põlevkivi, võib olla tegemist turgu valitseva seisundi  kuritarvitamisega. Objektiivselt ei oleks kaevandamise alustamine ilmtingimata põhjendatud  näiteks siis, kui Enefit saaks oma põlevkivi vajaduse katta olemasolevate kaevandustega, kuid  […].</p>",
+      "page": 202,
+      "polygon": [
+        [
+          89.6328125,
+          314.10546875
+        ],
+        [
+          547.39599609375,
+          314.10546875
+        ],
+        [
+          547.39599609375,
+          406.19921875
+        ],
+        [
+          89.6328125,
+          406.19921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        314.10546875,
+        547.39599609375,
+        406.19921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevast tulenevalt peame vajalikuks märkida, et olenemata sellest, kas eelisolukord  kaevandamismahtude osas on seaduslik, võib konkurentsi rikkumine aset leida juhul, kui turgu  valitsevat seisundit omav ettevõtja, omades valdavat osa lubatavast põlevkivi kaevemahust,  seda ise välja ei kaevanda, aga sellest ka teiste turuosaliste kasuks ei loobu või seda kohase tasu  eest ei võõranda. Selline tegevus võib iseäranis olla konkurentsi kahjustav juhul, kui sellega  kaasneb üldise tehnoloogilise arengu takistamine või piiratakse teiste turuosaliste võimalusi  tuua turule uusi või ka konkureerivaid tooteid. Järelevalvemenetluses need asjaolud kinnitust  ei leidnud.</p>",
+      "page": 202,
+      "polygon": [
+        [
+          89.6328125,
+          421.7714538574219
+        ],
+        [
+          547.4080200195312,
+          421.7714538574219
+        ],
+        [
+          547.4080200195312,
+          544.8914794921875
+        ],
+        [
+          89.6328125,
+          544.8914794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        421.7714538574219,
+        547.4080200195312,
+        544.8914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1>5.2.5. Kreeka pruunsöe kaasus ei kohaldu</h1>",
+      "page": 202,
+      "polygon": [
+        [
+          125.13671874999999,
+          560.7314453125
+        ],
+        [
+          331.6099853515625,
+          560.7314453125
+        ],
+        [
+          331.6099853515625,
+          572.7314453125
+        ],
+        [
+          125.13671874999999,
+          572.7314453125
+        ]
+      ],
+      "bbox": [
+        125.13671874999999,
+        560.7314453125,
+        331.6099853515625,
+        572.7314453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG viitas oma Taotluses Kreeka pruunsöe kaasusele (C-553/12 P). Selles kaasuses  (kokkuvõtvalt) kuulus Dimosia Epicheirisi Ilektrismoy'le (edaspidi DEI) umbes 91% Kreeka  pruunsöe varudest, millele oli väljastatud kaevandamisluba. Nimetatud kaasuse asjaolude  kohaselt rikkus Kreeka Vabariik ELTL artiklit 106(1) koosmõjus artikliga 102, andes DEI-le  eelisõigusega juurdepääsu pruunsöe kaevandamiseks. Seetõttu puudus konkurentidel ligipääs  toorainele.</p>",
+      "page": 202,
+      "polygon": [
+        [
+          88.46875,
+          588.6014709472656
+        ],
+        [
+          547.427978515625,
+          588.6014709472656
+        ],
+        [
+          547.427978515625,
+          679.9214630126953
+        ],
+        [
+          88.46875,
+          679.9214630126953
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        588.6014709472656,
+        547.427978515625,
+        679.9214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Eestis ei ole Enefitile antud eelisõigust põlevkivi kaevandamisel. Uusi kaevandamislubasid on  väljastatud siiski ka teistele ettevõtjatele, mitte nagu Kreekas, kus neid pruunsöe osas  praktiliselt ei väljastatud. Kehtivate kaevandamislubade põhjal on Enefiti käsutuses ligi 75%  põlevkivivarust, mis on märkimisväärne kogus ja loob Enefitile turgu valitseva seisundi, millest  aga ei järeldu automaatset rikkumist, sest valdavalt on teistel kaubaturul tegutsevatel  ettevõtjatel olnud võimalus kaevandada Enefiti poolt kaevandatav osa ise tagantjärele</p>",
+      "page": 202,
+      "polygon": [
+        [
+          88.46875,
+          695.2255859375
+        ],
+        [
+          547.4320068359375,
+          695.2255859375
+        ],
+        [
+          547.4320068359375,
+          787.2214660644531
+        ],
+        [
+          88.46875,
+          787.2214660644531
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        695.2255859375,
+        547.4320068359375,
+        787.2214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 202,
+      "polygon": [
+        [
+          519.171875,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          519.171875,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        519.171875,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kaevandamise mehhanismi kasutades.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          90.7439956665039,
+          71.1259765625
+        ],
+        [
+          272.9639892578125,
+          71.1259765625
+        ],
+        [
+          272.9639892578125,
+          84.1614990234375
+        ],
+        [
+          90.7439956665039,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        71.1259765625,
+        272.9639892578125,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Samuti ei ole Taotluses välja toodud ega vastavat teavet esitatud selle kohta, et Enefiti kasutatav  põlevkivivaru (ligi 75%) mõjutaks otseselt mõnda vertikaalselt seotud kaubaturgu, kus  kasutakse põlevkivi sisendina.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          100.1214599609375
+        ],
+        [
+          547.39599609375,
+          100.1214599609375
+        ],
+        [
+          547.39599609375,
+          144.3076171875
+        ],
+        [
+          89.6328125,
+          144.3076171875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        100.1214599609375,
+        547.39599609375,
+        144.3076171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eesti puhul on probleem selles, et põlevkivi aastased kaevandamismahud jagunevad ettevõtjate  vahel ajalooliste põhimõtete alusel (käskkiri nr 1319), mis ei vasta enam tänapäeva muutunud  olukorrale. Ettevõtjatel ei ole sisuliselt võimalik oma turuosa suurendada regulatiivsete  piirangute tõttu. See aitab Enefitil säilitada turgu valitsevat seisundit ja piirab uute ettevõtjate  turule tulekut. Nende põhimõtete muutmine on seadusandja ehk riigi pädevuses. Oluline on  rõhutada, et konkurentsiõiguslikult ei ole keelatud turgu valitseva seisundi omamine, vaid selle  seisundi kuritarvitamine.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          88.46875,
+          159.6414794921875
+        ],
+        [
+          547.3839721679688,
+          159.6414794921875
+        ],
+        [
+          547.3839721679688,
+          266.95147705078125
+        ],
+        [
+          88.46875,
+          266.95147705078125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        159.6414794921875,
+        547.3839721679688,
+        266.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mis puudutab Konkurentsiameti pädevust võtta lõplik seisukoht ettevõtja tegevuse kooskõla  kohta ELTL artikliga 102, siis märgime, et Konkurentsiamet saab kohaldada ELTL artiklit 102  juhul, kui Eesti kohaliku turu tegevused mõjutavad liikmesriikidevahelist kaubandust. Antud  juhul on tegemist väga lokaalse turuga, kuna kaubaks olev põlevkivi ei ole laiemas  geograafilises ulatuses kaubeldav.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          281.6259765625
+        ],
+        [
+          547.4200439453125,
+          281.6259765625
+        ],
+        [
+          547.4200439453125,
+          358.2714538574219
+        ],
+        [
+          89.6328125,
+          358.2714538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        281.6259765625,
+        547.4200439453125,
+        358.2714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Võttes arvesse eeltoodut, KonkS § 16 p 2 sätestatud koosseisu menetluses ei tuvastatud.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          374.1114501953125
+        ],
+        [
+          512.8599853515625,
+          374.1114501953125
+        ],
+        [
+          512.8599853515625,
+          386.1114501953125
+        ],
+        [
+          89.6328125,
+          386.1114501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        374.1114501953125,
+        512.8599853515625,
+        386.1114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.3.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>3</b></h1>",
+      "page": 248,
+      "polygon": [
+        [
+          107.09375,
+          401.95147705078125
+        ],
+        [
+          208.25,
+          401.95147705078125
+        ],
+        [
+          208.25,
+          413.95147705078125
+        ],
+        [
+          107.09375,
+          413.95147705078125
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        401.95147705078125,
+        208.25,
+        413.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 3 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          429.93145751953125
+        ],
+        [
+          547.3599853515625,
+          429.93145751953125
+        ],
+        [
+          547.3599853515625,
+          457.7714538574219
+        ],
+        [
+          89.6328125,
+          457.7714538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        429.93145751953125,
+        547.3599853515625,
+        457.7714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/247",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja kohaldab võrdväärsete kokkulepete korral äripartneritele erinevaid tingimusi,  pannes mõne neist sellega ebasoodsasse konkurentsiolukorda;</li><li block-type=\"ListItem\"> ettevõtja käitumisele ei ole objektiivset õigustust;</li><li block-type=\"ListItem\"> ettevõtja, kui kaubaturul turgu valitsevat seisundit omava ettevõtja, tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 248,
+      "polygon": [
+        [
+          107.09375,
+          473.6114501953125
+        ],
+        [
+          547.3599853515625,
+          473.6114501953125
+        ],
+        [
+          547.3599853515625,
+          580.8914794921875
+        ],
+        [
+          107.09375,
+          580.8914794921875
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        473.6114501953125,
+        547.3599853515625,
+        580.8914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Menetluse käigus kogutud materjalid ei sisaldanud infot Enefiti äripartnerite kohta, kellega  Enefit oleks sõlminud VKG-ga võrdväärse koostöölepingu, kuid VKG-st erinevatel  tingimustel, mistõttu menetluses KonkS § 16 p 3 koosseisu ei tuvastatud.</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          596.5537109375
+        ],
+        [
+          547.3719482421875,
+          596.5537109375
+        ],
+        [
+          547.3719482421875,
+          640.4414672851562
+        ],
+        [
+          89.6328125,
+          640.4414672851562
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        596.5537109375,
+        547.3719482421875,
+        640.4414672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.4.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>4</b></h1>",
+      "page": 248,
+      "polygon": [
+        [
+          106.51171875,
+          656.2814636230469
+        ],
+        [
+          208.25,
+          656.2814636230469
+        ],
+        [
+          208.25,
+          668.2814636230469
+        ],
+        [
+          106.51171875,
+          668.2814636230469
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        656.2814636230469,
+        208.25,
+        668.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 4 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 248,
+      "polygon": [
+        [
+          89.6328125,
+          684.125
+        ],
+        [
+          547.3599853515625,
+          684.125
+        ],
+        [
+          547.3599853515625,
+          712.0814666748047
+        ],
+        [
+          89.6328125,
+          712.0814666748047
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        684.125,
+        547.3599853515625,
+        712.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/248",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja kohaldab teisele poolele kokkuleppe objektiga mitteseotud lisakohustusi;</li><li block-type=\"ListItem\"> ettevõtja käitumisele ei ole objektiivset õigustust;</li></ul></p>",
+      "page": 248,
+      "polygon": [
+        [
+          108.2578125,
+          727.2939453125
+        ],
+        [
+          547.135986328125,
+          727.2939453125
+        ],
+        [
+          547.135986328125,
+          787.5814628601074
+        ],
+        [
+          108.2578125,
+          787.5814628601074
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        727.2939453125,
+        547.135986328125,
+        787.5814628601074
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 248,
+      "polygon": [
+        [
+          520.2999877929688,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          805.5434112548828
+        ],
+        [
+          520.2999877929688,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        520.2999877929688,
+        794.7197265625,
+        544.78125,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- ettevõtja, kui kaubaturul turgu valitsevat seisundit omava ettevõtja, tegevus võis  kahjustada konkurentsi.</p>",
+      "page": 220,
+      "polygon": [
+        [
+          107.09375,
+          72.1614990234375
+        ],
+        [
+          547.3599853515625,
+          72.1614990234375
+        ],
+        [
+          547.3599853515625,
+          100.31640625
+        ],
+        [
+          107.09375,
+          100.31640625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        72.1614990234375,
+        547.3599853515625,
+        100.31640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet hindas […].</p>",
+      "page": 220,
+      "polygon": [
+        [
+          90.505859375,
+          115.96148681640625
+        ],
+        [
+          233.69000244140625,
+          115.96148681640625
+        ],
+        [
+          233.69000244140625,
+          128.2734375
+        ],
+        [
+          90.505859375,
+          128.2734375
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        115.96148681640625,
+        233.69000244140625,
+        128.2734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 220,
+      "polygon": [
+        [
+          90.7439956665039,
+          143.801513671875
+        ],
+        [
+          113.66399383544922,
+          143.801513671875
+        ],
+        [
+          113.66399383544922,
+          155.8193359375
+        ],
+        [
+          90.7439956665039,
+          155.8193359375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        143.801513671875,
+        113.66399383544922,
+        155.8193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 220,
+      "polygon": [
+        [
+          90.7439956665039,
+          170.6201171875
+        ],
+        [
+          113.66399383544922,
+          170.6201171875
+        ],
+        [
+          113.66399383544922,
+          183.6414794921875
+        ],
+        [
+          90.7439956665039,
+          183.6414794921875
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        170.6201171875,
+        113.66399383544922,
+        183.6414794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 220,
+      "polygon": [
+        [
+          90.505859375,
+          199.3994140625
+        ],
+        [
+          110.73600006103516,
+          199.3994140625
+        ],
+        [
+          110.73600006103516,
+          211.60150146484375
+        ],
+        [
+          90.505859375,
+          211.60150146484375
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        199.3994140625,
+        110.73600006103516,
+        211.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul ei saa […] lugeda ebavõrdseks, kuna […].</p>",
+      "page": 220,
+      "polygon": [
+        [
+          89.6328125,
+          227.44146728515625
+        ],
+        [
+          433.29998779296875,
+          227.44146728515625
+        ],
+        [
+          433.29998779296875,
+          239.44146728515625
+        ],
+        [
+          89.6328125,
+          239.44146728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        227.44146728515625,
+        433.29998779296875,
+        239.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…].</p>",
+      "page": 220,
+      "polygon": [
+        [
+          89.6328125,
+          255.31146240234375
+        ],
+        [
+          113.65999603271484,
+          255.31146240234375
+        ],
+        [
+          113.65999603271484,
+          267.31146240234375
+        ],
+        [
+          89.6328125,
+          267.31146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        255.31146240234375,
+        113.65999603271484,
+        267.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevast tulenevalt ei tuvastatud KonkS § 16 p 4 koosseisu esinemist.</p>",
+      "page": 220,
+      "polygon": [
+        [
+          88.46875,
+          282.4482421875
+        ],
+        [
+          431.06201171875,
+          282.4482421875
+        ],
+        [
+          431.06201171875,
+          295.1514892578125
+        ],
+        [
+          88.46875,
+          295.1514892578125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        282.4482421875,
+        431.06201171875,
+        295.1514892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.5.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>5</b></h1>",
+      "page": 220,
+      "polygon": [
+        [
+          106.51171875,
+          310.99151611328125
+        ],
+        [
+          208.489990234375,
+          310.99151611328125
+        ],
+        [
+          208.489990234375,
+          322.99151611328125
+        ],
+        [
+          106.51171875,
+          322.99151611328125
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        310.99151611328125,
+        208.489990234375,
+        322.99151611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 5 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 220,
+      "polygon": [
+        [
+          89.6328125,
+          337.951171875
+        ],
+        [
+          547.3599853515625,
+          337.951171875
+        ],
+        [
+          547.3599853515625,
+          366.7914733886719
+        ],
+        [
+          89.6328125,
+          366.7914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        337.951171875,
+        547.3599853515625,
+        366.7914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/219",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja sunnib teist isikut endaga või teise ettevõtjaga koondumiseks, konkurentsi  kahjustava kokkuleppe sõlmimiseks, kooskõlastatud tegevuseks või otsuse  vastuvõtmiseks;</li><li block-type=\"ListItem\"> ettevõtja käitumisele ei ole objektiivset õigustust;</li><li block-type=\"ListItem\"> ettevõtja, kui kaubaturul turgu valitsevat seisundit omava ettevõtja, tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 220,
+      "polygon": [
+        [
+          107.09375,
+          382.6314392089844
+        ],
+        [
+          547.3599853515625,
+          382.6314392089844
+        ],
+        [
+          547.3599853515625,
+          506.515625
+        ],
+        [
+          107.09375,
+          506.515625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        382.6314392089844,
+        547.3599853515625,
+        506.515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet menetluses KonkS § 16 p 5 sätestatud koosseisu ei tuvastanud.</p>",
+      "page": 220,
+      "polygon": [
+        [
+          90.7439956665039,
+          521.6114501953125
+        ],
+        [
+          477.8199768066406,
+          521.6114501953125
+        ],
+        [
+          477.8199768066406,
+          534.0615234375
+        ],
+        [
+          90.7439956665039,
+          534.0615234375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        521.6114501953125,
+        477.8199768066406,
+        534.0615234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/15",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>5.6.</b> <b>KonkS</b> <b>§</b> <b>16</b> <b>p</b> <b>6</b></h1>",
+      "page": 220,
+      "polygon": [
+        [
+          107.09375,
+          549.4514770507812
+        ],
+        [
+          208.489990234375,
+          549.4514770507812
+        ],
+        [
+          208.489990234375,
+          561.4514770507812
+        ],
+        [
+          107.09375,
+          561.4514770507812
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        549.4514770507812,
+        208.489990234375,
+        561.4514770507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 6 kohase turgu valitseva seisundi kuritarvitamise kindlaksmääramisel tuleb  tuvastada kumulatiivselt järgmised asjaolud:</p>",
+      "page": 220,
+      "polygon": [
+        [
+          89.6328125,
+          577.4414672851562
+        ],
+        [
+          547.3599853515625,
+          577.4414672851562
+        ],
+        [
+          547.3599853515625,
+          605.2814636230469
+        ],
+        [
+          89.6328125,
+          605.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        577.4414672851562,
+        547.3599853515625,
+        605.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/220",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> ettevõtja on asjaomasel kaubaturul turgu valitsevat seisundit omav ettevõtja  (KonkS § 13);</li><li block-type=\"ListItem\"> ettevõtja keeldub kauba müümisest või ostmisest;</li><li block-type=\"ListItem\"> ettevõtja käitumisele ei ole objektiivset õigustust;</li><li block-type=\"ListItem\"> ettevõtja, kui kaubaturul turgu valitsevat seisundit omava ettevõtja, tegevus võis  kahjustada konkurentsi.</li></ul></p>",
+      "page": 220,
+      "polygon": [
+        [
+          106.51171875,
+          621.1214599609375
+        ],
+        [
+          547.3599853515625,
+          621.1214599609375
+        ],
+        [
+          547.3599853515625,
+          712.4414672851562
+        ],
+        [
+          106.51171875,
+          712.4414672851562
+        ]
+      ],
+      "bbox": [
+        106.51171875,
+        621.1214599609375,
+        547.3599853515625,
+        712.4414672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]. VKG on 18.12.2023 kohtumisel ametile kinnitanud, et Enefit ei ole keeldunud VKG-le  põlevkivi müümisest.</p>",
+      "page": 220,
+      "polygon": [
+        [
+          88.46875,
+          726.4716796875
+        ],
+        [
+          547.427978515625,
+          726.4716796875
+        ],
+        [
+          547.427978515625,
+          756.2614593505859
+        ],
+        [
+          88.46875,
+          756.2614593505859
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        726.4716796875,
+        547.427978515625,
+        756.2614593505859
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/22",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 220,
+      "polygon": [
+        [
+          515.260009765625,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          515.260009765625,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        515.260009765625,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 6 sätestatud koosseisu amet ei tuvastanud.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          71.1259765625
+        ],
+        [
+          362.12200927734375,
+          71.1259765625
+        ],
+        [
+          362.12200927734375,
+          84.1614990234375
+        ],
+        [
+          89.6328125,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        71.1259765625,
+        362.12200927734375,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>6.</b> <b>Menetluse lõpetamine rikkumise</b> <b>puudumise tõttu</b></h1>",
+      "page": 246,
+      "polygon": [
+        [
+          90.21484375,
+          100.1214599609375
+        ],
+        [
+          363.76953125,
+          100.1214599609375
+        ],
+        [
+          363.76953125,
+          112.1214599609375
+        ],
+        [
+          90.21484375,
+          112.1214599609375
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        100.1214599609375,
+        363.76953125,
+        112.1214599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaalunud menetluse käigus kogutud andmeid ja esitatud selgitusi, leiab Konkurentsiamet, et  Enefiti tegevuses ([…]) puuduvad turgu valitseva seisundi kuritarvitamise tunnused.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          127.96148681640625
+        ],
+        [
+          547.384033203125,
+          127.96148681640625
+        ],
+        [
+          547.384033203125,
+          156.23046875
+        ],
+        [
+          89.6328125,
+          156.23046875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        127.96148681640625,
+        547.384033203125,
+        156.23046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VKG on leidnud, et Konkurentsiamet peaks tegema Enefitile ettekirjutuse. KorS § 28 lg 1  kohaselt on korrakaitseorganil õigus teha ettekirjutus isikule ohu tõrjumiseks või korrarikkumise kõrvaldamiseks. Antud juhul ei ole Konkurentsiamet tuvastanud ohtu või korrarikkumist, mida peaks ettekirjutusega kõrvaldama. Seega puudub alus ettekirjutuse tegemiseks.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          170.6201171875
+        ],
+        [
+          547.4400024414062,
+          170.6201171875
+        ],
+        [
+          547.4400024414062,
+          231.281494140625
+        ],
+        [
+          89.6328125,
+          231.281494140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        170.6201171875,
+        547.4400024414062,
+        231.281494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust, lõpetab Konkurentsiamet Enefit Power AS-i suhtes alustatud  järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 p 1 alusel.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          247.1514892578125
+        ],
+        [
+          547.3359985351562,
+          247.1514892578125
+        ],
+        [
+          547.3359985351562,
+          275.458984375
+        ],
+        [
+          89.6328125,
+          275.458984375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        247.1514892578125,
+        547.3359985351562,
+        275.458984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>7.</b> <b>Taotlus teabe saamiseks</b></h1>",
+      "page": 246,
+      "polygon": [
+        [
+          90.21484375,
+          289.8486328125
+        ],
+        [
+          231.06640624999997,
+          289.8486328125
+        ],
+        [
+          231.06640624999997,
+          302.95147705078125
+        ],
+        [
+          90.21484375,
+          302.95147705078125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        289.8486328125,
+        231.06640624999997,
+        302.95147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Arvestades käesolevas järelevalvemenetluse lõpetamise teates esitatud asjaolusid, leiab  Konkurentsiamet, et konkurentsiolukord põlevkivi tarne turul Eestis võib oluliselt muutuda  teatud võimalike Enefiti tegevuste korral. Konkurentsiamet peab võimalikuks, et teatud selliste  Enefiti tegevuste korral võib esineda oht turgu valitseva seisundi kuritarvitamiseks.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          318.79150390625
+        ],
+        [
+          547.4440307617188,
+          318.79150390625
+        ],
+        [
+          547.4440307617188,
+          378.43145751953125
+        ],
+        [
+          89.6328125,
+          378.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        318.79150390625,
+        547.4440307617188,
+        378.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kui Enefit võtab vastu otsuse hakata kaevandama UK I kaeveväljal, palume Enefitil  KonkS § 57 lg 1 punktide 5 ja 9, § 59 lg 1 ja KorS § 23 lg 3 alusel esitada Konkurentsiametile  järgmine teave:</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          394.2714538574219
+        ],
+        [
+          547.3839721679688,
+          394.2714538574219
+        ],
+        [
+          547.3839721679688,
+          437.9714660644531
+        ],
+        [
+          89.6328125,
+          437.9714660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        394.2714538574219,
+        547.3839721679688,
+        437.9714660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/230",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Palume esitada Enefiti otsuse, millega otsustati asuda kaevandama UK I kaeveväljal […].</li><li block-type=\"ListItem\">2. Millises mahus põlevkivi (mln t) kaevandas Enefit eelmises punktis nimetatud otsuse  tegemisele eelnenud kalendriaastal?</li><li block-type=\"ListItem\">3. Palume Enefitil esitada täidetuna alljärgnev tabel ettevõtja põlevkivivarude kohta  esimeses punktis nimetatud otsusele eelnenud poolaasta lõpu seisuga.</li></ul></p>",
+      "page": 246,
+      "polygon": [
+        [
+          107.09375,
+          453.890625
+        ],
+        [
+          547.4080200195312,
+          453.890625
+        ],
+        [
+          547.4080200195312,
+          546.806640625
+        ],
+        [
+          107.09375,
+          546.806640625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        453.890625,
+        547.4080200195312,
+        546.806640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Table/11",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Mäeeraldise nimetus</th><th>Kaeveloa nr</th><th>Varude suurus (mln t)</th><th>Kaevandatav kogus (mln t)</th></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>",
+      "page": 246,
+      "polygon": [
+        [
+          121.52812499999999,
+          546.2310546875
+        ],
+        [
+          548.971875,
+          546.2310546875
+        ],
+        [
+          548.971875,
+          604.9408203125
+        ],
+        [
+          121.52812499999999,
+          604.9408203125
+        ]
+      ],
+      "bbox": [
+        121.52812499999999,
+        546.2310546875,
+        548.971875,
+        604.9408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Käesolevale teabetaotlusele vastamise tähtaeg on 10 päeva arvates kuupäevast, mil Enefit võttis  vastu esimeses punktis nimetatud otsuse või alustas vastava tegevusega.</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          619.0814666748047
+        ],
+        [
+          547.3419799804688,
+          619.0814666748047
+        ],
+        [
+          547.3419799804688,
+          648.767578125
+        ],
+        [
+          89.6328125,
+          648.767578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        619.0814666748047,
+        547.3419799804688,
+        648.767578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vastavalt KorS § 23 lg 4 on Konkurentsiametil õigus teha ettekirjutus isikule, kes jättis  kirjalikus taotluses nõutud teabe või materjalid tähtajaks esitamata või esitas mittetäieliku,  ebaõige või eksitava teabe. Ettekirjutuse täitmata jätmise korral on Konkurentsiametil õigus  rakendada sunniraha füüsilisele isikule kuni 6400 eurot ja juriidilisele isikule kuni 9600 eurot  (KonkS § 57<sup>1</sup> ).</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          662.7614593505859
+        ],
+        [
+          547.3600463867188,
+          662.7614593505859
+        ],
+        [
+          547.3600463867188,
+          738.2414627075195
+        ],
+        [
+          89.6328125,
+          738.2414627075195
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        662.7614593505859,
+        547.3600463867188,
+        738.2414627075195
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Juhul, kui esitate eelpool nõutud teabe Konkurentsiametile e-posti teel, siis juhime tähelepanu  sellele, et konfidentsiaalse teabe võib edastada krüpteeritult. Sellisel juhul palume teabe</p>",
+      "page": 246,
+      "polygon": [
+        [
+          89.6328125,
+          752.7841796875
+        ],
+        [
+          547.3060302734375,
+          752.7841796875
+        ],
+        [
+          547.3060302734375,
+          781.941463470459
+        ],
+        [
+          89.6328125,
+          781.941463470459
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        752.7841796875,
+        547.3060302734375,
+        781.941463470459
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 246,
+      "polygon": [
+        [
+          514.806640625,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          514.806640625,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        514.806640625,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">saatmine e-posti teel kooskõlastada Konkurentsiameti ametnikuga.</p>",
+      "page": 40,
+      "polygon": [
+        [
+          89.6328125,
+          72.1614990234375
+        ],
+        [
+          411.176025390625,
+          72.1614990234375
+        ],
+        [
+          411.176025390625,
+          84.1614990234375
+        ],
+        [
+          89.6328125,
+          84.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        72.1614990234375,
+        411.176025390625,
+        84.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Enefit ei ole kohustatud käesolevale teabetaotlusele vastama, kui […]. Sellisel juhul kinnitab  Konkurentsiamet teabetaotlusele vastamise vajaduse äralangemise.</p>",
+      "page": 40,
+      "polygon": [
+        [
+          89.6328125,
+          99.494140625
+        ],
+        [
+          547.3480224609375,
+          99.494140625
+        ],
+        [
+          547.3480224609375,
+          127.96148681640625
+        ],
+        [
+          89.6328125,
+          127.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        99.494140625,
+        547.3480224609375,
+        127.96148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 40,
+      "polygon": [
+        [
+          90.505859375,
+          143.801513671875
+        ],
+        [
+          170.73599243164062,
+          143.801513671875
+        ],
+        [
+          170.73599243164062,
+          155.8193359375
+        ],
+        [
+          90.505859375,
+          155.8193359375
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        143.801513671875,
+        170.73599243164062,
+        155.8193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(allkirjastatud digitaalselt) Evelin Pärn-Lee peadirektor</p>",
+      "page": 40,
+      "polygon": [
+        [
+          89.6328125,
+          187.0654296875
+        ],
+        [
+          216.947998046875,
+          187.0654296875
+        ],
+        [
+          216.947998046875,
+          234.1614990234375
+        ],
+        [
+          89.6328125,
+          234.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        187.0654296875,
+        216.947998046875,
+        234.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">667 2460 <a href=\"mailto:indrek.ahermaa@konkurentsiamet.ee\">indrek.ahermaa@konkurentsiamet.ee</a></p>",
+      "page": 40,
+      "polygon": [
+        [
+          89.6328125,
+          281.6259765625
+        ],
+        [
+          269.66400146484375,
+          281.6259765625
+        ],
+        [
+          269.66400146484375,
+          309.6715087890625
+        ],
+        [
+          89.6328125,
+          309.6715087890625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        281.6259765625,
+        269.66400146484375,
+        309.6715087890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 40,
+      "polygon": [
+        [
+          515.260009765625,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          515.260009765625,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        515.260009765625,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

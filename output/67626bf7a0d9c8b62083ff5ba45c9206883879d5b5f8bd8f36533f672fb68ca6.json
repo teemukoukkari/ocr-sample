@@ -1,0 +1,640 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 123,
+      "polygon": [
+        [
+          524.9921875,
+          39.8798828125
+        ],
+        [
+          555.31884765625,
+          39.8798828125
+        ],
+        [
+          555.31884765625,
+          57.1474609375
+        ],
+        [
+          524.9921875,
+          57.1474609375
+        ]
+      ],
+      "bbox": [
+        524.9921875,
+        39.8798828125,
+        555.31884765625,
+        57.1474609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 123,
+      "polygon": [
+        [
+          523.828125,
+          48.513671875
+        ],
+        [
+          556.421875,
+          48.513671875
+        ],
+        [
+          556.421875,
+          64.958984375
+        ],
+        [
+          523.828125,
+          64.958984375
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        48.513671875,
+        556.421875,
+        64.958984375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/2",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/2'></p>",
+      "page": 123,
+      "polygon": [
+        [
+          34.1943359375,
+          35.31630859375
+        ],
+        [
+          146.2353515625,
+          35.31630859375
+        ],
+        [
+          146.2353515625,
+          63.35556640625
+        ],
+        [
+          34.1943359375,
+          63.35556640625
+        ]
+      ],
+      "bbox": [
+        34.1943359375,
+        35.31630859375,
+        146.2353515625,
+        63.35556640625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/2": "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"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>2026/90116 16.2.2026</h2>",
+      "page": 123,
+      "polygon": [
+        [
+          265.2090148925781,
+          72.201416015625
+        ],
+        [
+          553.4308471679688,
+          72.201416015625
+        ],
+        [
+          553.4308471679688,
+          85.1605224609375
+        ],
+        [
+          265.2090148925781,
+          85.1605224609375
+        ]
+      ],
+      "bbox": [
+        265.2090148925781,
+        72.201416015625,
+        553.4308471679688,
+        85.1605224609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Nõukogu 23. oktoobri 2025. aasta määruse (EL) 2025/2033 (millega muudetakse määrust </b> <b>(EL) nr 833/2014, mis käsitleb piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib </b> <b>olukorda Ukrainas) parandus</b></p>",
+      "page": 123,
+      "polygon": [
+        [
+          92.9762954711914,
+          98.2607421875
+        ],
+        [
+          504.1981201171875,
+          98.2607421875
+        ],
+        [
+          504.1981201171875,
+          130.39697265625
+        ],
+        [
+          92.9762954711914,
+          130.39697265625
+        ]
+      ],
+      "bbox": [
+        92.9762954711914,
+        98.2607421875,
+        504.1981201171875,
+        130.39697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i><a href=\"http://data.europa.eu/eli/reg/2025/2033/oj\">(Euroopa Liidu Teataja L, 2025/2033, 23. oktoober 2025</a></i><i>)</i></p>",
+      "page": 123,
+      "polygon": [
+        [
+          190.90625,
+          137.7294921875
+        ],
+        [
+          403.7998352050781,
+          137.7294921875
+        ],
+        [
+          403.7998352050781,
+          147.34783935546875
+        ],
+        [
+          190.90625,
+          147.34783935546875
+        ]
+      ],
+      "bbox": [
+        190.90625,
+        137.7294921875,
+        403.7998352050781,
+        147.34783935546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1) Leheküljel 10 artikli 1 punktis 10 määrusesse (EL) nr 833/2014 lisatava uue artikli 5ah lõike 2 punktis a</p>",
+      "page": 123,
+      "polygon": [
+        [
+          67.4085693359375,
+          170.6201171875
+        ],
+        [
+          482.03448486328125,
+          170.6201171875
+        ],
+        [
+          482.03448486328125,
+          181.25054931640625
+        ],
+        [
+          67.4085693359375,
+          181.25054931640625
+        ]
+      ],
+      "bbox": [
+        67.4085693359375,
+        170.6201171875,
+        482.03448486328125,
+        181.25054931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>asendatakse</i> \"2. Alates 25. jaanuarist 2026 on keelatud:</p>",
+      "page": 123,
+      "polygon": [
+        [
+          76.24609375,
+          187.8876953125
+        ],
+        [
+          311.4355773925781,
+          187.8876953125
+        ],
+        [
+          311.4355773925781,
+          198.201416015625
+        ],
+        [
+          76.24609375,
+          198.201416015625
+        ]
+      ],
+      "bbox": [
+        76.24609375,
+        187.8876953125,
+        311.4355773925781,
+        198.201416015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">a) omada jätkuvalt osalust sellise juriidilise isiku, üksuse või asutuse omandiõiguses või kontrollis, kes on  ametlikult registreeritud residendina või kelle registrijärgne asukoht, peamine tegevuskoht või püsiv  tegevuskoht asub Venemaa Föderatsiooni erimajandustsoonis või innovatsiooni- või eelispiirkonnas,  mis on loetletud LII lisa A või B osas;\"</p>",
+      "page": 123,
+      "polygon": [
+        [
+          133.8671875,
+          204.3330078125
+        ],
+        [
+          529.77734375,
+          204.3330078125
+        ],
+        [
+          529.77734375,
+          246.6168212890625
+        ],
+        [
+          133.8671875,
+          246.6168212890625
+        ]
+      ],
+      "bbox": [
+        133.8671875,
+        204.3330078125,
+        529.77734375,
+        246.6168212890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>järgmisega:</i> \"2. Alates 25. jaanuarist 2026 on keelatud:</p>",
+      "page": 123,
+      "polygon": [
+        [
+          79.15625,
+          253.2578125
+        ],
+        [
+          311.4355773925781,
+          253.2578125
+        ],
+        [
+          311.4355773925781,
+          263.5677490234375
+        ],
+        [
+          79.15625,
+          263.5677490234375
+        ]
+      ],
+      "bbox": [
+        79.15625,
+        253.2578125,
+        311.4355773925781,
+        263.5677490234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">a) omada jätkuvalt osalust sellise juriidilise isiku, üksuse või asutuse omandiõiguses või kontrollis, kes on  ametlikult registreeritud residendina või kelle registrijärgne asukoht, peamine tegevuskoht või püsiv  tegevuskoht asub Venemaa Föderatsiooni erimajandustsoonis või innovatsiooni- või eelispiirkonnas,  mis on loetletud LII lisa A osas;\".</p>",
+      "page": 123,
+      "polygon": [
+        [
+          133.8671875,
+          269.2919921875
+        ],
+        [
+          529.77734375,
+          269.2919921875
+        ],
+        [
+          529.77734375,
+          311.983154296875
+        ],
+        [
+          133.8671875,
+          311.983154296875
+        ]
+      ],
+      "bbox": [
+        133.8671875,
+        269.2919921875,
+        529.77734375,
+        311.983154296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2) Leheküljel 119 XVII lisas määrusesse (EL) nr 833/2014 lisatava uue lisa LII pealkirjas</p>",
+      "page": 123,
+      "polygon": [
+        [
+          66.3515625,
+          327.6728515625
+        ],
+        [
+          404.287109375,
+          327.6728515625
+        ],
+        [
+          404.287109375,
+          337.4380798339844
+        ],
+        [
+          66.3515625,
+          337.4380798339844
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        327.6728515625,
+        404.287109375,
+        337.4380798339844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>asendatakse</i> \"\"<i>LII LISA</i></p>",
+      "page": 123,
+      "polygon": [
+        [
+          76.537109375,
+          344.529296875
+        ],
+        [
+          173.42564392089844,
+          344.529296875
+        ],
+        [
+          173.42564392089844,
+          354.3326110839844
+        ],
+        [
+          76.537109375,
+          354.3326110839844
+        ]
+      ],
+      "bbox": [
+        76.537109375,
+        344.529296875,
+        173.42564392089844,
+        354.3326110839844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Artiklis 5aga osutatud erimajandustsoonide, innovatsiooni- ja eelispiirkondade loetelu</b>\"</p>",
+      "page": 123,
+      "polygon": [
+        [
+          133.8671875,
+          358.9189453125
+        ],
+        [
+          494.72656249999994,
+          358.9189453125
+        ],
+        [
+          494.72656249999994,
+          369.0726623535156
+        ],
+        [
+          133.8671875,
+          369.0726623535156
+        ]
+      ],
+      "bbox": [
+        133.8671875,
+        358.9189453125,
+        494.72656249999994,
+        369.0726623535156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>järgmisega:</i> \"\"<i>LII LISA</i></p>",
+      "page": 123,
+      "polygon": [
+        [
+          77.701171875,
+          375.3642578125
+        ],
+        [
+          173.736328125,
+          375.3642578125
+        ],
+        [
+          173.736328125,
+          385.9662170410156
+        ],
+        [
+          77.701171875,
+          385.9662170410156
+        ]
+      ],
+      "bbox": [
+        77.701171875,
+        375.3642578125,
+        173.736328125,
+        385.9662170410156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Artiklis 5ah osutatud erimajandustsoonide, innovatsiooni- ja eelispiirkondade loetelu</b>\".</p>",
+      "page": 123,
+      "polygon": [
+        [
+          133.8671875,
+          390.1650390625
+        ],
+        [
+          491.5933837890625,
+          390.1650390625
+        ],
+        [
+          491.5933837890625,
+          400.7636413574219
+        ],
+        [
+          133.8671875,
+          400.7636413574219
+        ]
+      ],
+      "bbox": [
+        133.8671875,
+        390.1650390625,
+        491.5933837890625,
+        400.7636413574219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ELI: http://data.europa.eu/eli/reg/2025/2033/corrigendum/2026-02-16/oj 1/1</p>",
+      "page": 123,
+      "polygon": [
+        [
+          40.16015625,
+          811.1650390625
+        ],
+        [
+          553.4422607421875,
+          811.1650390625
+        ],
+        [
+          553.4422607421875,
+          822.7319240570068
+        ],
+        [
+          40.16015625,
+          822.7319240570068
+        ]
+      ],
+      "bbox": [
+        40.16015625,
+        811.1650390625,
+        553.4422607421875,
+        822.7319240570068
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 123,
+      "polygon": [
+        [
+          540.70703125,
+          811.1650390625
+        ],
+        [
+          553.51171875,
+          811.1650390625
+        ],
+        [
+          553.51171875,
+          820.2099609375
+        ],
+        [
+          540.70703125,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        540.70703125,
+        811.1650390625,
+        553.51171875,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

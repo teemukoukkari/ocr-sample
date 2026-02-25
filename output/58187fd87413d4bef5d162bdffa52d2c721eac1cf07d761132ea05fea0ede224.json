@@ -1,0 +1,502 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 152,
+      "polygon": [
+        [
+          20.371093749999996,
+          38.317578125
+        ],
+        [
+          199.63671875,
+          38.317578125
+        ],
+        [
+          199.63671875,
+          99.823046875
+        ],
+        [
+          20.371093749999996,
+          99.823046875
+        ]
+      ],
+      "bbox": [
+        20.371093749999996,
+        38.317578125,
+        199.63671875,
+        99.823046875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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igAooooAKKKKACiiigArD1PwnpWpzm5MT2131+0WkjQyE+5Ugt9DW5RQBzA0zxRpwxZaxDfRjpHfRAED03IAT+NL/buv2n/H74ckkUdZLWZXH/fOSa6aigDnYPG+iNIIrud9PlJwEvozASfbdjNdBHIk0ayRurowyGU5BqOe1t7lCk8McinghlzWBN4Ot4HM+i3M2lz9cQnMbH/aXvQB0tFcvb+IrzSrlbLxJAsO44ivouYZPr3Q/Xj3roLm+tbO0a6uJ444FG4yMeMUAWKrXuoWemwGe9uobaIdXlcKPzNc2uo654lcjSk/s3Ten2ydcySf7idh7kj6Vcs/Bmk28wubmN7677z3Tb2/D0oAiPjfTpzt0yC81JuzWsDPH/32Bij+0/FN5/x66HDaA9HvJw36Kc10iRRxLtjRUHooxTqAOXbw9rWpDGr69KsR6wWI8pf++xh/1rW0rQdM0VCLG1RHb78rfNI/+855P4mtKigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAhurWC9t3t7mJJYXGGRxkGuas/A8EN8pur64u9OgO61spjlIj7nq2O2a6uigBAAoAAAA6AUtFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Express Post AS Eesti Post</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.05078125,
+          138.962890625
+        ],
+        [
+          170.843994140625,
+          138.962890625
+        ],
+        [
+          170.843994140625,
+          165.04150390625
+        ],
+        [
+          89.05078125,
+          165.04150390625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        138.962890625,
+        170.843994140625,
+        165.04150390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">06.07.2023 nr 5-5/2023-022</p>",
+      "page": 152,
+      "polygon": [
+        [
+          395.6199951171875,
+          180.4873046875
+        ],
+        [
+          531.0,
+          180.4873046875
+        ],
+        [
+          531.0,
+          192.6414794921875
+        ],
+        [
+          395.6199951171875,
+          192.6414794921875
+        ]
+      ],
+      "bbox": [
+        395.6199951171875,
+        180.4873046875,
+        531.0,
+        192.6414794921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud e-posti aadressidele</i> <i><a href=\"mailto:info@expresspost.ee\">info@expresspost.ee,</a></i><i><a href=\"mailto:info@omniva.ee\"> info@omniva.ee</a></i></p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          213.214111328125
+        ],
+        [
+          394.6171875,
+          213.214111328125
+        ],
+        [
+          394.6171875,
+          224.254150390625
+        ],
+        [
+          89.6328125,
+          224.254150390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        213.214111328125,
+        394.6171875,
+        224.254150390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Teade järelevalvemenetluse lõpetamisest</b></h2>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          273.814453125
+        ],
+        [
+          315.953857421875,
+          273.814453125
+        ],
+        [
+          315.953857421875,
+          286.93878173828125
+        ],
+        [
+          89.6328125,
+          286.93878173828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        273.814453125,
+        315.953857421875,
+        286.93878173828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Express Post pöördus 18.06.2021 Konkurentsiameti poole taotlusega algatada riikliku järelevalve menetlus AS-i Eesti Post suhtes seoses ärikirjade allahindluse korra p-s 3.1.5  sätestatud täiendava allahindlusega, mis on vastuolus KonkS § 16 p 1 sätestatud keeluga  kuritarvitada turgu valitsevat seisundit ebaõiglaste müügihindade kehtestamise ja rakendamise  teel ning teha AS-le Eesti Post ettekirjutus, millega kohustada AS-i Eesti Post lõpetama KonkS  § 16 p 1 rikkumine seoses ärikirjade allahindluse korra p-s 3.1.5 sätestatud täiendava  allahindlusega.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          316.271484375
+        ],
+        [
+          547.416015625,
+          316.271484375
+        ],
+        [
+          547.416015625,
+          411.0714416503906
+        ],
+        [
+          89.6328125,
+          411.0714416503906
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        316.271484375,
+        547.416015625,
+        411.0714416503906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tuginedes AS Express Post kodulehel <sup>1</sup>  olevale informatsioonile sulges AS Express Post  kojukandeteenuse valdkonna, sealhulgas ärikirjade kojukande teenuse pakkumise (viimastes  piirkondades lõpetati teenuse pakkumine 01.07.2023) ning AS-i Eesti Post teavitusele, et AS  Eesti Post otsustas lõpetada alates 01.07.2023 ärikirjateenuste allahindluskorra mahupõhise  allahindluse pakkumise standardkirjade, eemaldades ärikirjade allahindluse korrast p-i 3.1.5  (s.h p-d 3.1.5.1 – 3.1.5.4)<sup>2</sup> , ei ole Konkurentsiameti menetluse jätkamisel väljundit.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          425.29876708984375
+        ],
+        [
+          547.4280395507812,
+          425.29876708984375
+        ],
+        [
+          547.4280395507812,
+          507.7490234375
+        ],
+        [
+          89.6328125,
+          507.7490234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        425.29876708984375,
+        547.4280395507812,
+        507.7490234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodud põhjendustel lõpetab Konkurentsiamet AS Express Post kaebuse alusel alustatud  järelevalvemenetluse AS-i Eesti Post tegevuse suhtes KonkS § 63<sup>4</sup> lg 1 p-i 9 järgi.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          523.1714477539062
+        ],
+        [
+          547.3720092773438,
+          523.1714477539062
+        ],
+        [
+          547.3720092773438,
+          548.9714660644531
+        ],
+        [
+          89.6328125,
+          548.9714660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        523.1714477539062,
+        547.3720092773438,
+        548.9714660644531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.341796875,
+          611.3341522216797
+        ],
+        [
+          208.38192749023438,
+          611.3341522216797
+        ],
+        [
+          208.38192749023438,
+          622.8662109375
+        ],
+        [
+          89.341796875,
+          622.8662109375
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        611.3341522216797,
+        208.38192749023438,
+        622.8662109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 152,
+      "polygon": [
+        [
+          90.7439956665039,
+          759.1174697875977
+        ],
+        [
+          93.7439956665039,
+          759.1174697875977
+        ],
+        [
+          93.7439956665039,
+          771.1174697875977
+        ],
+        [
+          90.7439956665039,
+          771.1174697875977
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        759.1174697875977,
+        93.7439956665039,
+        771.1174697875977
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.05078125,
+          632.7333984375
+        ],
+        [
+          348.0260009765625,
+          632.7333984375
+        ],
+        [
+          348.0260009765625,
+          658.3214569091797
+        ],
+        [
+          89.05078125,
+          658.3214569091797
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        632.7333984375,
+        348.0260009765625,
+        658.3214569091797
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          90.7439956665039,
+          794.7197265625
+        ],
+        [
+          447.87030029296875,
+          794.7197265625
+        ],
+        [
+          447.87030029296875,
+          805.5434112548828
+        ],
+        [
+          90.7439956665039,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        794.7197265625,
+        447.87030029296875,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> <a href=\"https://www.expresspost.ee/\">https://www.expresspost.ee/,</a> külastatud 05.07.2023</p>",
+      "page": 152,
+      "polygon": [
+        [
+          90.7439956665039,
+          771.6962890625
+        ],
+        [
+          307.3299865722656,
+          771.6962890625
+        ],
+        [
+          307.3299865722656,
+          782.4794082641602
+        ],
+        [
+          90.7439956665039,
+          782.4794082641602
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        771.6962890625,
+        307.3299865722656,
+        782.4794082641602
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> EP 29.05.2023 vastuskiri Konkurentsiametile</p>",
+      "page": 152,
+      "polygon": [
+        [
+          89.6328125,
+          783.3603858947754
+        ],
+        [
+          280.5390625,
+          783.3603858947754
+        ],
+        [
+          280.5390625,
+          793.9994125366211
+        ],
+        [
+          89.6328125,
+          793.9994125366211
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        783.3603858947754,
+        280.5390625,
+        793.9994125366211
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 151,
+      "polygon": [
+        [
+          31.6625,
+          15.7875
+        ],
+        [
+          167.3921875,
+          15.7875
+        ],
+        [
+          167.3921875,
+          66.4390625
+        ],
+        [
+          31.6625,
+          66.4390625
+        ]
+      ],
+      "bbox": [
+        31.6625,
+        15.7875,
+        167.3921875,
+        66.4390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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XKxpt/ibOM5wwz7GvNdG0LUvCV9caBremvqPhu8f/WxglUPQHPGOprqdRkuLcw6aHbzrdjm4Xuueh969D8IaY8WnSTXJilE5DKAdwGB70AQ+DfBtn4YiL6beztZzDcsD42rmuupAAowAAPQUtABRRRQB8PeM/wDkb9T/AOu7fzNepfs5/wDIZv8A/c/pXlvjP/kb9T/67t/M16l+zn/yGb//AHP6UAfR9FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBh3HhPTLm8uLpoiJZ0KMc+o61Q1DwxfQeEptJ0K/aCdydsr9gc5H611dFAHz7qXwCuWvdMaG584O5N/I55OT2/Wu+8E+ANT8G6tPHb6mX0ZxkQHGd3r/OvRKKAOaj8EaYI7pJd0ouX3Nu6jrwPzroLa3itLeOCFdsaAKBUtFABRRRQAUUUUAfJXinw9aS+Jb+Rs5aZifzr0L4H6VBYapeNFnJXv9K5TxJ/yMN7/wBdW/nXdfB3/kI3f+7/AEryKNao66i3ofomZ5bhKeWSqwppSstT2SiiivXPzsKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA+YfEn/ACMN7/11b+dd18Hf+Qjd/wC7/SuF8Sf8jDe/9dW/nXdfB3/kI3f+7/SvDw/+8L1P1LN/+RRL/Cv0PZKKKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD5h8Sf8jDe/wDXVv513Xwd/wCQjd/7v9K4XxJ/yMN7/wBdW/nXdfB3/kI3f+7/AErw8P8A7wvU/Us3/wCRRL/Cv0PZKKKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD5h8Sf8AIw3v/XVv513Xwd/5CN3/ALv9K4XxJ/yMN7/11b+dd18Hf+Qjd/7v9K8PD/7wvU/Us3/5FEv8K/Q9kooor3D8tCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPAtc8G6rc61dTIqbWkJHJ9a634Y6Be6RfXL3SqAw4waKK+JwGPrTzBU3a12fYY3NK9TAulK1rI9Qooor7Y+PCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht </b>13. September 2016</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          116.3505859375
+        ],
+        [
+          523.828125,
+          116.3505859375
+        ],
+        [
+          523.828125,
+          129.13671875
+        ],
+        [
+          69.84375,
+          129.13671875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        116.3505859375,
+        523.828125,
+        129.13671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Erwerbs der Transthermos-Gruppe durch Gesellschafter der </b> <b>Nagel Group</b></h2>",
+      "page": 151,
+      "polygon": [
+        [
+          74.5,
+          154.1748046875
+        ],
+        [
+          501.037109375,
+          154.1748046875
+        ],
+        [
+          501.037109375,
+          181.21673583984375
+        ],
+        [
+          74.5,
+          181.21673583984375
+        ]
+      ],
+      "bbox": [
+        74.5,
+        154.1748046875,
+        501.037109375,
+        181.21673583984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Tiefkühl-Logistik</p>",
+      "page": 151,
+      "polygon": [
+        [
+          75.6640625,
+          185.009765625
+        ],
+        [
+          294.62481689453125,
+          185.009765625
+        ],
+        [
+          294.62481689453125,
+          199.5010986328125
+        ],
+        [
+          75.6640625,
+          199.5010986328125
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        185.009765625,
+        294.62481689453125,
+        199.5010986328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B9 – 50/16</p>",
+      "page": 151,
+      "polygon": [
+        [
+          76.24609375,
+          204.3330078125
+        ],
+        [
+          268.31640625,
+          204.3330078125
+        ],
+        [
+          268.31640625,
+          218.16107177734375
+        ],
+        [
+          76.24609375,
+          218.16107177734375
+        ]
+      ],
+      "bbox": [
+        76.24609375,
+        204.3330078125,
+        268.31640625,
+        218.16107177734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 25. August 2016</p>",
+      "page": 151,
+      "polygon": [
+        [
+          73.91796875,
+          224.04107666015625
+        ],
+        [
+          296.25390625,
+          224.04107666015625
+        ],
+        [
+          296.25390625,
+          236.82110595703125
+        ],
+        [
+          73.91796875,
+          236.82110595703125
+        ]
+      ],
+      "bbox": [
+        73.91796875,
+        224.04107666015625,
+        296.25390625,
+        236.82110595703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat den Erwerb der Transthermos-Gruppe durch Gesellschafter der  Nagel Group im Hauptprüfverfahren freigegeben.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          259.4248046875
+        ],
+        [
+          527.4655151367188,
+          259.4248046875
+        ],
+        [
+          527.4655151367188,
+          291.9586181640625
+        ],
+        [
+          69.84375,
+          291.9586181640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        259.4248046875,
+        527.4655151367188,
+        291.9586181640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Zusammenschluss betrifft den Wirtschaftszweig der Tiefkühl-Logistik (TK-Logistik). Die  Erwerber sind Miteigentümer der Nagel Group, Versmold, die am Markt unter der Bezeichnung  Kraftverkehr Nagel bekannt ist und die alle Arten von Dienstleistungen der Lebensmittel-Logistik anbietet. Unter der Bezeichnung Eurocool Nagel ist die Nagel Group auch im Bereich  der TK-Logistik mit Lager-, Transport- und Mehrwertdiensten tätig.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          305.060546875
+        ],
+        [
+          527.506103515625,
+          305.060546875
+        ],
+        [
+          527.506103515625,
+          392.8867492675781
+        ],
+        [
+          69.84375,
+          392.8867492675781
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        305.060546875,
+        527.506103515625,
+        392.8867492675781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Zielgesellschaften (Transthermos-Gruppe, insbesondere Transthermos GmbH) sind überwiegend im Bereich der TK-Logistik tätig und bieten ebenfalls Lager-, Transport und  Mehrwertdienste an, im Wesentlichen für tiefgekühlte Produkte. Transthermos ist in diesem  Bereich einer der beiden großen bundesweit tätigen Anbieter.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          406.6103515625
+        ],
+        [
+          527.4775390625,
+          406.6103515625
+        ],
+        [
+          527.4775390625,
+          474.8583984375
+        ],
+        [
+          69.84375,
+          474.8583984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        406.6103515625,
+        527.4775390625,
+        474.8583984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Anfängliche Ermittlungen, insbesondere unter Kunden und Wettbewerbern der Beteiligten,  wiesen auf wettbewerbliche Probleme hin, die eine eingehendere Prüfung in einem  Hauptprüfverfahren erforderlich machten. Im Ergebnis hat das Bundeskartellamt unter vier Gesichtspunkten mögliche Bedenken gegen den Zusammenschluss geprüft und ist dabei  jeweils zu dem Ergebnis gekommen, dass eine erhebliche Beschränkung wesentlichen  Wettbewerbs nicht zu erwarten ist. Dabei wurden die wettbewerblichen Auswirkungen zulasten  der Parteien auch bei einer engen Marktabgrenzung geprüft, und zwar bei einem nationalen Markt für die bundesweite Erbringung von TK-Logistikdienstleistungen. Bei dieser Betrachtung  wurde die Belieferung der Systemgastronomie nicht in den Produktmarkt einbezogen. Dieser  wurde außerdem auf Leistungen der Lebensmittel-Logistik beschränkt, also Leistungen für die  chemische oder pharmazeutische Industrie, die ebenfalls Leistungen der TK-Logistik in  Anspruch nehmen, wurden ebenfalls nicht berücksichtigt. Die genaue Abgrenzung des  sachlich relevanten Marktes konnte offengelassen werden.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          488.7750549316406
+        ],
+        [
+          527.5104370117188,
+          488.7750549316406
+        ],
+        [
+          527.5104370117188,
+          727.4143753051758
+        ],
+        [
+          69.84375,
+          727.4143753051758
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        488.7750549316406,
+        527.5104370117188,
+        727.4143753051758
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Wettbewerbliche Bedenken konnten auch bei der Abgrenzung eines Marktes für Leistungen  des Sammelgutverkehrs innerhalb der TK-Logistik ausgeschlossen werden. Der</p>",
+      "page": 151,
+      "polygon": [
+        [
+          69.84375,
+          737.9833984375
+        ],
+        [
+          527.4600219726562,
+          737.9833984375
+        ],
+        [
+          527.4600219726562,
+          771.4002456665039
+        ],
+        [
+          69.84375,
+          771.4002456665039
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        737.9833984375,
+        527.4600219726562,
+        771.4002456665039
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sammelgutverkehr umfasst Stückgüter, die zu einer Sammelladung zusammengefasst  werden. Typischerweise besteht der Sammelgutverkehr aus mehreren Schritten: zunächst  wird das Stückgut beim Versender abgeholt und zu einem ersten Umschlagplatz gebracht  (Vorlauf), dort wird die Ware umgeschlagen und auf einen größeren Lkw umgeladen. Dieser  transportiert die Ladung zu einem zweiten Umschlagspunkt (Hauptlauf), von wo aus die Ware  dann zu den verschiedenen Empfängern transportiert wird (Nachlauf, Distribution). Für die  Erbringung einer solchen Dienstleistung ist ein Sammelgut-Netzwerk erforderlich.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          69.84375,
+          71.537109375
+        ],
+        [
+          527.4312133789062,
+          71.537109375
+        ],
+        [
+          527.4312133789062,
+          197.71075439453125
+        ],
+        [
+          69.84375,
+          197.71075439453125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.537109375,
+        527.4312133789062,
+        197.71075439453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Prüfung, ob eine signifikante Behinderung wirksamen Wettbewerbs zu erwarten ist, erfolgte schließlich in vier Schritten.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          70.86000061035156,
+          210.5
+        ],
+        [
+          524.3875122070312,
+          210.5
+        ],
+        [
+          524.3875122070312,
+          241.6856689453125
+        ],
+        [
+          70.86000061035156,
+          241.6856689453125
+        ]
+      ],
+      "bbox": [
+        70.86000061035156,
+        210.5,
+        524.3875122070312,
+        241.6856689453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Erstens wurde geprüft, ob als Folge des Zusammenschlusses eine Einzelmarktbeherrschung  oder der Eintritt sonstiger unilateraler Effekte zu erwarten ist, insbesondere ob eine  Verringerung der Zahl der wesentlichen Anbieter von drei auf zwei zu befürchten ist. Dagegen  spricht jedoch neben der starken Marktstellung des Wettbewerbers und Marktführers in der  bundesweiten TK-Logistik, Nordfrost, dass sich wegen der im Vergleich zur Zielgesellschaft  relativ geringen Bedeutung von Nagel an der Marktstruktur nichts Wesentliches ändern wird.  Nagel und die Zielgesellschaft sind auch keine engsten Wettbewerber, und es ist nicht zu  befürchten, dass zusammenschlussbedingt ein besonders wettbewerbsaktiver Anbieter  wegfallen wird. Schließlich besteht weiterhin Randwettbewerb seitens der anderen Anbieter,  und zwar auch der kleineren, bundesweit oder regional tätigen, Anbieter und der  Unternehmen, die Teilladungsverkehre anbieten. Für einen Teil der Kunden besteht die  Möglichkeit, auf Großhandelslösungen oder auf die Eigenerbringung der Logistikleistungen  auszuweichen, und auch von den Anbietern von Logistikleistungen für die Systemgastronomie  geht ein gewisser Wettbewerbsdruck aus. Die Marktzutrittsschranken sind zwar nicht niedrig,  aber mittelfristig überwindbar.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          69.84375,
+          254.90234375
+        ],
+        [
+          527.4830322265625,
+          254.90234375
+        ],
+        [
+          527.4830322265625,
+          532.2823181152344
+        ],
+        [
+          69.84375,
+          532.2823181152344
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        254.90234375,
+        527.4830322265625,
+        532.2823181152344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zweitens wurde festgestellt, dass der Zusammenschluss, auch wenn die Voraussetzungen  der Oligopolvermutung erfüllt sind, nicht zu einer Verstärkung eines marktbeherrschenden  Oligopols zwischen dem fusionierten Unternehmen und Nordfrost führen wird. Zudem sind keine sonstigen koordinierten Effekte zu erwarten.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          68.6796875,
+          545.162109375
+        ],
+        [
+          527.3895874023438,
+          545.162109375
+        ],
+        [
+          527.3895874023438,
+          614.1820983886719
+        ],
+        [
+          68.6796875,
+          614.1820983886719
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        545.162109375,
+        527.3895874023438,
+        614.1820983886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Drittens ergaben die Ermittlungen, dass das fusionierte Unternehmen weder in der Lage sein  wird, noch Anreize dazu haben wird, durch eine Kopplung von Leistungen der Frische- und  der Tiefkühllogistik den Wettbewerb auf dem Markt der TK-Logistik zu beeinträchtigen. Hierzu  wurde festgestellt, dass viele Unternehmen nur Frische- oder nur TK-Produkte anbieten und  deshalb keine kombinierte Logistikleistung benötigen. Auch soweit Kunden beide Arten von  Leistungen, also solche der Frische- und solche der TK-Logistik benötigen, fragen sie beide  Dienstleistungen in der Regel getrennt nach. Zudem birgt ein gemeinsamer Transport  Schwierigkeiten in der Handhabung und ist komplizierter, da unterschiedliche zu</p>",
+      "page": 133,
+      "polygon": [
+        [
+          69.84375,
+          628.1596221923828
+        ],
+        [
+          527.48193359375,
+          628.1596221923828
+        ],
+        [
+          527.48193359375,
+          772.5185546875
+        ],
+        [
+          69.84375,
+          772.5185546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        628.1596221923828,
+        527.48193359375,
+        772.5185546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">transportierende Produktgruppen verschiedene Temperaturen benötigen. Die Kombination  von Leistungen der Frische- und der Tiefkühllogistik führt somit nicht zwangsläufig zu  Effizienzgewinnen und wird derzeit nur von wenigen Kunden nachgefragt. Jedenfalls kann  nicht erwartet werden, dass die Effekte eines möglichen kombinierten Angebotes so stark sind,  dass sie zu wettbewerblichen Bedenken führen, zumal Nagel auch ohne den  Zusammenschluss in der Lage ist, ein kombiniertes Angebot zu machen.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          69.84375,
+          71.1259765625
+        ],
+        [
+          527.4476928710938,
+          71.1259765625
+        ],
+        [
+          527.4476928710938,
+          178.748291015625
+        ],
+        [
+          69.84375,
+          178.748291015625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.1259765625,
+        527.4476928710938,
+        178.748291015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Schließlich wurde geprüft, ob das fusionierte Unternehmen einen bevorzugten Zugang zu den  Frachtraum zur Verfügung stellenden Fuhrunternehmern bekommt und so seine  Wettbewerber beim Bezug der knappen Ressource der Subunternehmerleistungen behindern  kann. Die Ermittlungen ergaben, dass das fusionierte Unternehmen nicht in der Lage sein wird,  auf eine ausreichend große Zahl von Frachtführern Druck auszuüben. Zudem folgen aus dem  gebündelten Einkauf von Frachtraum durch das fusionierte Unternehmen nicht zwangsläufig  Anreize für eine Abschottungsstrategie, da eine bessere Auslastung auch zu einer Senkung  des Bedarfs nach Frachtraum führen könnte.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          69.84375,
+          192.41015625
+        ],
+        [
+          527.4699096679688,
+          192.41015625
+        ],
+        [
+          527.4699096679688,
+          336.5528259277344
+        ],
+        [
+          69.84375,
+          336.5528259277344
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        192.41015625,
+        527.4699096679688,
+        336.5528259277344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Ergebnis konnte festgestellt werden, dass die Untersagungsvoraussetzungen nicht  gegeben sind.</p>",
+      "page": 53,
+      "polygon": [
+        [
+          69.84375,
+          348.2294921875
+        ],
+        [
+          527.3805541992188,
+          348.2294921875
+        ],
+        [
+          527.3805541992188,
+          380.4728088378906
+        ],
+        [
+          69.84375,
+          380.4728088378906
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        348.2294921875,
+        527.3805541992188,
+        380.4728088378906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

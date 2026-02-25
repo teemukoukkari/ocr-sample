@@ -1,0 +1,4498 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 103,
+      "polygon": [
+        [
+          31.022265625,
+          29.80712890625
+        ],
+        [
+          168.032421875,
+          29.80712890625
+        ],
+        [
+          168.032421875,
+          88.59912109375
+        ],
+        [
+          31.022265625,
+          88.59912109375
+        ]
+      ],
+      "bbox": [
+        31.022265625,
+        29.80712890625,
+        168.032421875,
+        88.59912109375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADEAckDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKQkKMkgD1NAC0VWl1CzgUGW6hQE4BLjmpUuIZceXKjZ6YYGgCSiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKgvbuOx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uYrBTNEvARm5xj8a9K0DV9QufAPh6GytI5reeyMUjG2aYlxj5eGGOMn8KAJbDwpfeLvhlNoeu3cF1cQEpbzLnfGy9A2R/kEV5H4fsIdQ8/4feKnNjdwyt9guZBxFJ/dP+yf616xbatd+HrJ7iK4aK8jbyLqGa0Y78YKsFD5yFZQTnsKvW3hrT/HtzcTeIdNR5bcr5V1HE0D5xn+8c/WgCT4c6P4s8Nwf2Jrsdve6dH/x7XUb7ig9CCBxXowAAwAAB2FV7CzTT7KK1jkkdIl2q0hy2Pc1ZoAKKKKAPi/4pf8AJS9c/wCu4/8AQRXV/s9/8lAl/wCvVq5T4pf8lL1z/ruP/QRXV/s9/wDJQJf+vVqAPqWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4rxH4RvNa1yWYvG9lLBtKsfmVgDgf7pJBPuoo0iS/8ACHhW/m1DTpWED7oooP3ruoRR0XPcGu1oIBGCMigD478cWHiXxDeHxZqGnTxRajceVBGyHcoHCjH0AHvXq/wm1HXPCN+fButaXdtHIfNt7iOMsi5HIJ7CvaXt4ZFVXiRlU5AKjANO2Lu3bRu6ZxzQB57qHhHVdW1zULuW3SHa7y2khkByxRFHAPH3T19a6/w5ps+laJDaXDIZFydqfdjBOQi+w6D6Vq0UAFFFFABRRRQB8hfErQb65+ImszRopRpgR8w/uiun+A+j3dj46llnVQv2ZhwwNSeOf+R01P8A66j/ANBFb3wi/wCRtk/64NXmwxdR1uR7XPtsRw9hKeXPFJvm5U99L29D3SiiivSPiQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD5t8c/8jpqf/XUf+git74Rf8jbJ/wBcGrB8c/8AI6an/wBdR/6CK3vhF/yNsn/XBq8On/vPzP1PGf8AIlf+Bfkj3SiiivcPywKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA+bfHP/ACOmp/8AXUf+git74Rf8jbJ/1wasHxz/AMjpqf8A11H/AKCK3vhF/wAjbJ/1wavDp/7z8z9Txn/Ilf8AgX5I90ooor3D8sCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPm3xz/AMjpqf8A11H/AKCK3vhF/wAjbJ/1wasHxz/yOmp/9dR/6CK3vhF/yNsn/XBq8On/ALz8z9Txn/Ilf+Bfkj3SiiivcPywKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA+bfHP/I6an/11H/oIre+EX/I2yf9cGrvdWtYH1SdmhQktySParfhy3hi1EskSqdh5Ar4+hmalj1R5ftNb+Z9ziM4U8tdDk+yle/l6HWUUUV9gfDBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHG6n/AMhKf/e/pVrw/wD8f5/3TVXU/wDkJT/739KteH/+P8/7pr84wv8AyNl/jf5s92p/u3yOoooor9HPCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAON1P/kJT/739KteH/8Aj/P+6aKK/OML/wAjZf43+bPdqf7t8jqKKKK/RzwgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//Z"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Vergabekammer des Bundes</p>",
+      "page": 103,
+      "polygon": [
+        [
+          69.26171875,
+          125.3955078125
+        ],
+        [
+          226.42031860351562,
+          125.3955078125
+        ],
+        [
+          226.42031860351562,
+          144.3076171875
+        ],
+        [
+          69.26171875,
+          144.3076171875
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        125.3955078125,
+        226.42031860351562,
+        144.3076171875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">VK 1 - 48/21</p>",
+      "page": 103,
+      "polygon": [
+        [
+          70.42578125,
+          145.1298828125
+        ],
+        [
+          132.29312133789062,
+          145.1298828125
+        ],
+        [
+          132.29312133789062,
+          156.499267578125
+        ],
+        [
+          70.42578125,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        145.1298828125,
+        132.29312133789062,
+        156.499267578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Beschluss</b></h1>",
+      "page": 103,
+      "polygon": [
+        [
+          274.427734375,
+          233.5234375
+        ],
+        [
+          335.541015625,
+          233.5234375
+        ],
+        [
+          335.541015625,
+          246.6800537109375
+        ],
+        [
+          274.427734375,
+          246.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.427734375,
+        233.5234375,
+        335.541015625,
+        246.6800537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/4",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th>In dem Nachprüfungsverfahren</th><th></th></tr><tr><td>[…]</td><td>-<br/>Antragstellerin<br/>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>[…]</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>[…]</td><td>-<br/>Antragsgegnerin<br/>zu 1) -</td></tr><tr><td>[…]</td><td>-<br/>Antragsgegnerin<br/>zu 2) -</td></tr><tr><td>Verfahrensbevollmächtigte der Antragsgegnerinnen<br/>zu 1 ) und zu 2):</td><td></td></tr><tr><td>[…]</td><td></td></tr></tbody></table>",
+      "page": 103,
+      "polygon": [
+        [
+          69.84375,
+          312.4609375
+        ],
+        [
+          495.89062499999994,
+          312.4609375
+        ],
+        [
+          495.89062499999994,
+          595.3203125
+        ],
+        [
+          69.84375,
+          595.3203125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        312.4609375,
+        495.89062499999994,
+        595.3203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe \"Neubaustrecke […] Planungsleistungen grenzübergreifender  Planungsraum\", Referenznummer der Bekanntmachung: […], hat die 1. Vergabekammer des  Bundes durch den Vorsitzenden Direktor beim Bundeskartellamt Behrens, die hauptamtliche  Beisitzerin Leitende Regierungsdirektorin Dr. Dittmann und die ehrenamtliche Beisitzerin  Ottenströer nach Lage der Akten am 8. Juli 2021 beschlossen:</p>",
+      "page": 103,
+      "polygon": [
+        [
+          68.6796875,
+          615.4658203125
+        ],
+        [
+          541.6640625,
+          615.4658203125
+        ],
+        [
+          541.6640625,
+          700.1591796875
+        ],
+        [
+          68.6796875,
+          700.1591796875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        615.4658203125,
+        541.6640625,
+        700.1591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 115,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9393310546875
+        ],
+        [
+          295.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/114",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Die Antragstellerin trägt die Kosten des Nachprüfungsverfahrens (Gebühren und  Auslagen) sowie die zur zweckentsprechenden Rechtsverteidigung notwendigen  Aufwendungen der Antragsgegnerin zu 1) und der Antragsgegnerin zu 2).</li><li block-type=\"ListItem\">3. Die Hinzuziehung von Verfahrensbevollmächtigten durch die Antragsgegnerin zu 1) und  zu 2) war notwendig.</li></ul></p>",
+      "page": 115,
+      "polygon": [
+        [
+          86.140625,
+          122.9287109375
+        ],
+        [
+          541.5310668945312,
+          122.9287109375
+        ],
+        [
+          541.5310668945312,
+          268.05859375
+        ],
+        [
+          86.140625,
+          268.05859375
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        122.9287109375,
+        541.5310668945312,
+        268.05859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Gründe:</b></h3>",
+      "page": 115,
+      "polygon": [
+        [
+          283.3699951171875,
+          313.1292724609375
+        ],
+        [
+          326.228515625,
+          313.1292724609375
+        ],
+        [
+          326.228515625,
+          324.3837890625
+        ],
+        [
+          283.3699951171875,
+          324.3837890625
+        ]
+      ],
+      "bbox": [
+        283.3699951171875,
+        313.1292724609375,
+        326.228515625,
+        324.3837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 115,
+      "polygon": [
+        [
+          298.873046875,
+          344.08929443359375
+        ],
+        [
+          307.9191589355469,
+          344.08929443359375
+        ],
+        [
+          307.9191589355469,
+          355.1293029785156
+        ],
+        [
+          298.873046875,
+          355.1293029785156
+        ]
+      ],
+      "bbox": [
+        298.873046875,
+        344.08929443359375,
+        307.9191589355469,
+        355.1293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die beiden Antragsgegnerinnen (Ag), die Eisenbahninfrastrukturunternehmen Deutschlands  und der […], führen derzeit gemeinsam ein europaweites Verhandlungsverfahren mit  Teilnahmewettbewerb durch. Ausgeschrieben sind Planungsleistungen der  Grundlagenermittlung und Vorplanung (HOAI Leistungsphasen 1 und 2) für ein ca. 44 km  langes, grenzüberschreitendes Teilstück der Eisenbahnneubaustrecke […]. Die  Neubaustrecke, die auf deutscher bzw. […] Seite in das jeweilige Bestandsnetz einzufügen  ist, führt zweigleisig durch das […]. \"Kernstück\" dieser Maßnahme ist der Neubau eines  Tunnels mit einer relativ großen Länge von (je nach Ausführungsweise) 25 bis 30 km im […] (vgl. Ziffer 1.0 der Projektbeschreibung, S. 4).</p>",
+      "page": 115,
+      "polygon": [
+        [
+          70.94400024414062,
+          372.0751953125
+        ],
+        [
+          541.7266845703125,
+          372.0751953125
+        ],
+        [
+          541.7266845703125,
+          537.9092712402344
+        ],
+        [
+          70.94400024414062,
+          537.9092712402344
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        372.0751953125,
+        541.7266845703125,
+        537.9092712402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zu den zu erbringenden Leistungen ergibt sich aus der Projektbeschreibung Folgendes:</p>",
+      "page": 115,
+      "polygon": [
+        [
+          68.6796875,
+          564.4853515625
+        ],
+        [
+          501.3716125488281,
+          564.4853515625
+        ],
+        [
+          501.3716125488281,
+          575.8592834472656
+        ],
+        [
+          68.6796875,
+          575.8592834472656
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        564.4853515625,
+        501.3716125488281,
+        575.8592834472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Für den Verlauf der Neubaustrecke \"wird es\"</p>",
+      "page": 115,
+      "polygon": [
+        [
+          69.84375,
+          602.8592681884766
+        ],
+        [
+          290.9933166503906,
+          602.8592681884766
+        ],
+        [
+          290.9933166503906,
+          613.8992767333984
+        ],
+        [
+          69.84375,
+          613.8992767333984
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        602.8592681884766,
+        290.9933166503906,
+        613.8992767333984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"zwei grundsätzlich verschiedene Korridoralternativen geben, welche im Zuge Vorplanung  komplett zu beplanen sind. Dabei handelt es sich um die nachfolgend genannten  Planungsvarianten:</p>",
+      "page": 115,
+      "polygon": [
+        [
+          98.9453125,
+          632.7333984375
+        ],
+        [
+          541.6666870117188,
+          632.7333984375
+        ],
+        [
+          541.6666870117188,
+          670.7792816162109
+        ],
+        [
+          98.9453125,
+          670.7792816162109
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        632.7333984375,
+        541.6666870117188,
+        670.7792816162109
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/115",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) \"Teiluntertunnelung\" mit Überholbahnhof in der freien Strecke und</li><li block-type=\"ListItem\">b) \"Volltunnel\" mit Überholbahnhof etwa in Höhe der Ortslage […].</li></ul></p>",
+      "page": 115,
+      "polygon": [
+        [
+          111.74999999999999,
+          672.3392791748047
+        ],
+        [
+          450.9493103027344,
+          672.3392791748047
+        ],
+        [
+          450.9493103027344,
+          697.6923828125
+        ],
+        [
+          111.74999999999999,
+          697.6923828125
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        672.3392791748047,
+        450.9493103027344,
+        697.6923828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Für die vorstehend beschriebenen Planungsvarianten bearbeitet der Auftragnehmer,  jeweils separat.\" (Ziffer 1.1 der Projektbeschreibung, S. 5.)</p>",
+      "page": 115,
+      "polygon": [
+        [
+          98.9453125,
+          697.6592712402344
+        ],
+        [
+          541.5927124023438,
+          697.6592712402344
+        ],
+        [
+          541.5927124023438,
+          722.3603515625
+        ],
+        [
+          98.9453125,
+          722.3603515625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        697.6592712402344,
+        541.5927124023438,
+        722.3603515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum \"Projektteil zwei (2a) Volltunnelvariante\" ist unter Ziffer 1.3 der Projektbeschreibung (S. 9)  näher ausgeführt:</p>",
+      "page": 115,
+      "polygon": [
+        [
+          82.6484375,
+          740.861328125
+        ],
+        [
+          541.8428344726562,
+          740.861328125
+        ],
+        [
+          541.8428344726562,
+          772.107421875
+        ],
+        [
+          82.6484375,
+          772.107421875
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        740.861328125,
+        541.8428344726562,
+        772.107421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          294.798828125,
+          74.89935302734375
+        ],
+        [
+          315.169921875,
+          74.89935302734375
+        ],
+        [
+          315.169921875,
+          85.9393310546875
+        ],
+        [
+          294.798828125,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.89935302734375,
+        315.169921875,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Bei diesen Projektvarianten, gemäß Anlage 18 - Streckenkarte, wird die gesamte Strecke  von der Streckenausfädelung im Bereich […] bis […] als bis zu 30,5 km langer Tunnel  ausgeführt. (…) Für die Planung einer möglichen Volltunnelvariante, sowie die Anordnung  von mindestens einem Rettungs- und Evakuierungspunkt gegebenenfalls im Abschnitt des  Hochpunktes, welche aus der Gesamtlänge des Tunnels, sowie der Anforderungen an ein  komplexes Rettungskonzept resultiert, ist im Zuge der Vorplanung die Lokalisierung einer  optimalen Linienführung erforderlich. (…)\"</p>",
+      "page": 134,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.7686767578125,
+          122.1064453125
+        ],
+        [
+          541.7686767578125,
+          210.25927734375
+        ],
+        [
+          98.9453125,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.7686767578125,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sowie ebenda zum \"Projektteil zwei (2b) NBS-Abschnitt Teiluntertunnelung\":</p>",
+      "page": 134,
+      "polygon": [
+        [
+          84.9765625,
+          230.89935302734375
+        ],
+        [
+          455.14843749999994,
+          230.89935302734375
+        ],
+        [
+          455.14843749999994,
+          242.1572265625
+        ],
+        [
+          84.9765625,
+          242.1572265625
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        230.89935302734375,
+        455.14843749999994,
+        242.1572265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Dieser Projektteil, gemäß Anlage 18 - Streckenkarte, verläuft von der Streckenausfädelung  im Bereich […] durch einen kurzen Tunnel und teilweise oberirdisch. Dabei unterquert die  Strecke, nach Ausfädelung im Bereich […], in zwei kurzen Tunnelabschnitten die  Gemeinden […] und […]. Eine Trennung dieser Tunnelabschnitte erfolgt durch einen  Geländeeinschnitt, welcher im Zuge der Vorplanung, hinsichtlich Örtlichkeit, Größe und  Ausbildung genauer zu validieren ist. Die Strecke kommt im Bereich […] an die Oberfläche  und überquert das […] gebündelt mittels einer Brücke. (…) Anschließend verläuft die  Strecke weiter durch den bis zu 26,8 km langen […]tunnel – mit gleichem Verlauf wie bei  der Volltunnelvariante (2a), sowie der Anordnung mindestens eines Rettungs- und  Evakuierungspunktes - bis nach […]. (…).\"</p>",
+      "page": 134,
+      "polygon": [
+        [
+          98.9453125,
+          262.48931884765625
+        ],
+        [
+          541.8567504882812,
+          262.48931884765625
+        ],
+        [
+          541.8567504882812,
+          388.109375
+        ],
+        [
+          98.9453125,
+          388.109375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        262.48931884765625,
+        541.8567504882812,
+        388.109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf der erwähnten Streckenkarte (Anlage 18) sind in verschiedenen Farben sieben  unterschiedliche Linien eingezeichnet, die laut Legende die jeweiligen  Schienenbestandsnetze miteinander verbinden. Wie sich ebenfalls aus der Legende dieser  Karte ergibt, beziehen sich die einzelnen Farben der Linien auf die sog. Varianten A bis G.  Diese sieben Varianten beziehen sich aufgrund des vorherigen Raumordnungsverfahrens  zum Teil auf die Volltunnelvariante (Varianten A bis C) und im Übrigen auf die Variante  \"Teiluntertunnelung\" (Varianten D bis G) (s. Ziffer 2.2a bzw. Ziffer 2.2b der  Projektbeschreibung, S. 15 f.).</p>",
+      "page": 134,
+      "polygon": [
+        [
+          84.9765625,
+          407.84375
+        ],
+        [
+          541.63525390625,
+          407.84375
+        ],
+        [
+          541.63525390625,
+          552.5625
+        ],
+        [
+          84.9765625,
+          552.5625
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        407.84375,
+        541.63525390625,
+        552.5625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Des Weiteren ist in der Projektbeschreibung Folgendes vorgesehen:</p>",
+      "page": 134,
+      "polygon": [
+        [
+          84.9765625,
+          577.6416015625
+        ],
+        [
+          420.68695068359375,
+          577.6416015625
+        ],
+        [
+          420.68695068359375,
+          589.8992767333984
+        ],
+        [
+          84.9765625,
+          589.8992767333984
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        577.6416015625,
+        420.68695068359375,
+        589.8992767333984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h4>\"Für beide zu beplanenden Grundsatzalternativen</h4>",
+      "page": 134,
+      "polygon": [
+        [
+          97.19921875,
+          616.7792816162109
+        ],
+        [
+          353.3197326660156,
+          616.7792816162109
+        ],
+        [
+          353.3197326660156,
+          627.8192901611328
+        ],
+        [
+          97.19921875,
+          627.8192901611328
+        ]
+      ],
+      "bbox": [
+        97.19921875,
+        616.7792816162109,
+        353.3197326660156,
+        627.8192901611328
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/134",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) \"Teiluntertunnelung\" mit Überholbahnhof in freier Strecke und</li><li block-type=\"ListItem\">b) \"Volltunnel\" mit Überholbahnhof etwa in Höhe der Ortslage […] sind jeweils bis zu fünf verschiedene Trassenvarianten (einschließlich Varianten zur Lage  eines Überholbahnhofs) und bis zu fünf verschiedene Spurplan-/Trassierungsvarianten im  Ausbindebereich zu untersuchen. Die Lösungsvorschläge sind in Gegenüberstellungen  sowohl technisch als auch wirtschaftlich zu bewerten.\" (Ziffer 4.4 der Projektbeschreibung,  S. 34, Hervorhebungen auch im Original.)</li></ul></p>",
+      "page": 134,
+      "polygon": [
+        [
+          96.6171875,
+          629.3792724609375
+        ],
+        [
+          541.6851806640625,
+          629.3792724609375
+        ],
+        [
+          541.6851806640625,
+          716.3792877197266
+        ],
+        [
+          96.6171875,
+          716.3792877197266
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        629.3792724609375,
+        541.6851806640625,
+        716.3792877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 187,
+      "polygon": [
+        [
+          295.010009765625,
+          74.89935302734375
+        ],
+        [
+          314.6463317871094,
+          74.89935302734375
+        ],
+        [
+          314.6463317871094,
+          85.9393310546875
+        ],
+        [
+          295.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.89935302734375,
+        314.6463317871094,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die zu planenden Varianten des Tunnelbauwerks sind u.a. \"auch im Hinblick auf deren  Umweltverträglichkeit\" sowie unter Berücksichtigung der \"erforderlichen geologischen  Erkundungen\" zu untersuchen (Ziffer 4.4 der Projektbeschreibung, S. 34).</p>",
+      "page": 187,
+      "polygon": [
+        [
+          84.9765625,
+          123.33984375
+        ],
+        [
+          541.634765625,
+          123.33984375
+        ],
+        [
+          541.634765625,
+          172.67578125
+        ],
+        [
+          84.9765625,
+          172.67578125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        123.33984375,
+        541.634765625,
+        172.67578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>Unter Berücksichtigung der Parameter</h1>",
+      "page": 187,
+      "polygon": [
+        [
+          84.39453125,
+          198.5771484375
+        ],
+        [
+          275.1244812011719,
+          198.5771484375
+        ],
+        [
+          275.1244812011719,
+          210.25927734375
+        ],
+        [
+          84.39453125,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        84.39453125,
+        198.5771484375,
+        275.1244812011719,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/186",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Wirtschaftlichkeit / Kosten (Investitions- und Life-Cycle-Cost)</li><li block-type=\"ListItem\"> Finanzierungsfähigkeit</li><li block-type=\"ListItem\"> Genehmigungsfähigkeit</li><li block-type=\"ListItem\"> Umweltbelange</li><li block-type=\"ListItem\"> baubetrieblicher Eingriff</li></ul></p>",
+      "page": 187,
+      "polygon": [
+        [
+          91.37890625,
+          219.0628662109375
+        ],
+        [
+          405.2293701171875,
+          219.0628662109375
+        ],
+        [
+          405.2293701171875,
+          288.69281005859375
+        ],
+        [
+          91.37890625,
+          288.69281005859375
+        ]
+      ],
+      "bbox": [
+        91.37890625,
+        219.0628662109375,
+        405.2293701171875,
+        288.69281005859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">soll der Planer (Auftragnehmer) \"eine entsprechende Wertungsmatrix (…) erstellen und die  Wertungskriterien mit [den Ag] abstimmen (s. Ziffer 1.1 der Projektbeschreibung, S. 5).</p>",
+      "page": 187,
+      "polygon": [
+        [
+          84.9765625,
+          302.1826171875
+        ],
+        [
+          541.3209838867188,
+          302.1826171875
+        ],
+        [
+          541.3209838867188,
+          332.9292907714844
+        ],
+        [
+          84.9765625,
+          332.9292907714844
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        302.1826171875,
+        541.3209838867188,
+        332.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum Leistungsumfang des Auftragnehmers gehören u.a. die</p>",
+      "page": 187,
+      "polygon": [
+        [
+          83.23046875,
+          359.7412109375
+        ],
+        [
+          378.4809875488281,
+          359.7412109375
+        ],
+        [
+          378.4809875488281,
+          370.8492736816406
+        ],
+        [
+          83.23046875,
+          370.8492736816406
+        ]
+      ],
+      "bbox": [
+        83.23046875,
+        359.7412109375,
+        378.4809875488281,
+        370.8492736816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/187",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Objekt-/Tragwerksplanung Ingenieurbauwerke, insbesondere für Tunnelbauwerke</li><li block-type=\"ListItem\"> Objektplanung Verkehrsanlagen</li><li block-type=\"ListItem\"> Fachplanung technische Streckenausrüstung von Ingenieurbauwerken, insbesondere Tunnelbauwerke (…)</li><li block-type=\"ListItem\"> die Erstellung des Brandschutzkonzeptes (Klimatisierung, Zu-/Abluft, ...)</li><li block-type=\"ListItem\"> Erstellung eines Rettungskonzeptes (…)</li><li block-type=\"ListItem\"> Unterstützung/Mitwirkung bei der Bearbeitung der Umweltplanung,</li><li block-type=\"ListItem\"> die Bearbeitung der schall- und erschütterungstechnischen Untersuchungen  sowie</li><li block-type=\"ListItem\"> Kampfmittelrisikoprüfung und Luftbildauswertung</li><li block-type=\"ListItem\"> (…)</li><li block-type=\"ListItem\"> Mitwirkung bei der Erstellung bzw. Erstellung von Stellungnahmen zu  Vorhaben Dritter</li><li block-type=\"ListItem\"> Vollumfängliche, planungsbegleitende Vermessungsleistungen</li><li block-type=\"ListItem\"> (…)\".(Ziffer 4.2, S. 30 der Projektbeschreibung.)</li></ul></p>",
+      "page": 187,
+      "polygon": [
+        [
+          97.78125,
+          392.25286865234375
+        ],
+        [
+          491.35308837890625,
+          392.25286865234375
+        ],
+        [
+          491.35308837890625,
+          613.3428497314453
+        ],
+        [
+          97.78125,
+          613.3428497314453
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        392.25286865234375,
+        491.35308837890625,
+        613.3428497314453
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/22",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entsprechend der Leistungsbilder der HOAI \"Objektplanung für Ingenieurbauwerke\" und  \"Planungskoordination\" soll der Auftragnehmer \"sämtliche Leistungen\" erbringen,</p>",
+      "page": 187,
+      "polygon": [
+        [
+          84.9765625,
+          633.14453125
+        ],
+        [
+          541.6011962890625,
+          633.14453125
+        ],
+        [
+          541.6011962890625,
+          663.8192901611328
+        ],
+        [
+          84.9765625,
+          663.8192901611328
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        633.14453125,
+        541.6011962890625,
+        663.8192901611328
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/23",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">\"die zum Abschluss einer gesamthaften, erweiterten Vorplanung notwendig sind  (Gesamtplanerleistung). (…) Der Auftragnehmer schuldet als werkvertraglichen Erfolg die  Erstellung der vollständigen Unterlagen für den Vorhabenteil \"Neubaustrecke […]  Planungsleistungen grenzübergreifender Planungsraum\" und alle ihm übertragenen  Ingenieurleistungen zum Erreichen der Planungsziele. (…) Der Auftragnehmer schuldet  dem Auftraggeber den Erfolg der Maßnahme, d. h. der Auftragnehmer ist verantwortlich für  die Richtigkeit, Vollständigkeit der Arbeitsergebnisse und die Funktionalität hinsichtlich der  auszuführenden Planungsleistungen insbesondere hinsichtlich der</p>",
+      "page": 187,
+      "polygon": [
+        [
+          98.9453125,
+          684.3392791748047
+        ],
+        [
+          541.7223510742188,
+          684.3392791748047
+        ],
+        [
+          541.7223510742188,
+          783.9592819213867
+        ],
+        [
+          98.9453125,
+          783.9592819213867
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        684.3392791748047,
+        541.7223510742188,
+        783.9592819213867
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 133,
+      "polygon": [
+        [
+          294.798828125,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          85.9393310546875
+        ],
+        [
+          294.798828125,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.826171875,
+        315.169921875,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Genehmigungsfähigkeit. (…) Besonderes Augenmerk ist hierbei auf Themen wie  Trassenlage, technische Abschnittsgrenzen, Bauwerke, Umweltplanung, sowie Notfall- und  Rettungskonzept hinsichtlich Tunnel- und Streckensicherheit zu legen. (…)\" (Ziffer 4.1 der  Projektbeschreibung, S. 27 ff.).</p>",
+      "page": 133,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.7257080078125,
+          122.517578125
+        ],
+        [
+          541.7257080078125,
+          172.33929443359375
+        ],
+        [
+          98.9453125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.7257080078125,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Weitere Details zu den o.g. Objekt- und Fachplanungen ergeben sich aus den Anlagen 1.1 bis  1.8 des Vertrags (s. S. 6, 30 der Projektbeschreibung i.V.m. Anlagen 1.1 bis 1.8).</p>",
+      "page": 133,
+      "polygon": [
+        [
+          84.9765625,
+          191.9990234375
+        ],
+        [
+          541.6378173828125,
+          191.9990234375
+        ],
+        [
+          541.6378173828125,
+          222.97930908203125
+        ],
+        [
+          84.9765625,
+          222.97930908203125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        191.9990234375,
+        541.6378173828125,
+        222.97930908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>U.a. die Leistungen</h2>",
+      "page": 133,
+      "polygon": [
+        [
+          83.23046875,
+          249.5576171875
+        ],
+        [
+          180.01486206054688,
+          249.5576171875
+        ],
+        [
+          180.01486206054688,
+          260.9293212890625
+        ],
+        [
+          83.23046875,
+          260.9293212890625
+        ]
+      ],
+      "bbox": [
+        83.23046875,
+        249.5576171875,
+        180.01486206054688,
+        260.9293212890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/133",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Tunnelbautechnische Gutachterleistungen und Beratung,</li><li block-type=\"ListItem\"> Erkundung + Gutachten Hydrologie,</li><li block-type=\"ListItem\"> Erkundung + Gutachten Geologie,</li><li block-type=\"ListItem\"> Erkundung + Gutachten Baugrund,</li><li block-type=\"ListItem\"> Kartierung Flora / Fauna,</li><li block-type=\"ListItem\"> Gutachten Umwelt (UVP)</li></ul></p>",
+      "page": 133,
+      "polygon": [
+        [
+          97.78125,
+          282.33282470703125
+        ],
+        [
+          387.7738342285156,
+          282.33282470703125
+        ],
+        [
+          387.7738342285156,
+          366.3328552246094
+        ],
+        [
+          97.78125,
+          366.3328552246094
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        282.33282470703125,
+        387.7738342285156,
+        366.3328552246094
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sollen an andere Auftragnehmer, also nicht im Wege des streitgegenständlichen  Vergabeverfahrens, vergeben werden (s. S. 7, 28, 31 der Projektbeschreibung).</p>",
+      "page": 133,
+      "polygon": [
+        [
+          84.9765625,
+          386.0537109375
+        ],
+        [
+          541.4092407226562,
+          386.0537109375
+        ],
+        [
+          541.4092407226562,
+          416.82928466796875
+        ],
+        [
+          84.9765625,
+          416.82928466796875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        386.0537109375,
+        541.4092407226562,
+        416.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Zuschlag soll anhand der Kriterien \"Gesamthonorar\" (gewichtet mit 90%) und \"Qualität\"  vergeben werden. Dabei haben sich die Ag vorbehalten, den Zuschlag ohne weitere  Verhandlungen auf eines der eingegangenen Angebote zu erteilen (s. hierzu Ziffer II.2.14 der  EU-Bekanntmachung).</p>",
+      "page": 133,
+      "polygon": [
+        [
+          82.6484375,
+          442.37890625
+        ],
+        [
+          541.7197265625,
+          442.37890625
+        ],
+        [
+          541.7197265625,
+          511.7492980957031
+        ],
+        [
+          82.6484375,
+          511.7492980957031
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        442.37890625,
+        541.7197265625,
+        511.7492980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Als zuständige Stelle für Nachprüfungsverfahren wird in Ziffer VI.4.2 der EU-Bekanntmachung  die Vergabekammer des Bundes genannt. In Ziffer VI.4.3 der EU-Bekanntmachung werden im  Zusammenhang mit den Angaben zu den Fristen für die Einlegung von Rechtsbehelfen die  Regelungen des § 160 Abs. 3 GWB wiedergegeben. Wie die Ag in Ziffer 2.2 (S. 15) der  Projektbeschreibung ausführen, werden die Leistungen nach dem EU-Vergaberecht, dem  nationalen deutschen Vergaberecht bzw. dem in deutsches Recht transformierten EU-Recht  vergeben.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          83.8125,
+          538.6292724609375
+        ],
+        [
+          541.7310180664062,
+          538.6292724609375
+        ],
+        [
+          541.7310180664062,
+          663.9794921875
+        ],
+        [
+          83.8125,
+          663.9794921875
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        538.6292724609375,
+        541.7310180664062,
+        663.9794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach erfolgreichem Teilnahmewettbewerb gab die ASt ein Angebot ab, der Angebotspreis der  ASt lag deutlich unter denen der übrigen Bieter.</p>",
+      "page": 133,
+      "polygon": [
+        [
+          84.9765625,
+          688.6474609375
+        ],
+        [
+          541.5639038085938,
+          688.6474609375
+        ],
+        [
+          541.5639038085938,
+          720.4592895507812
+        ],
+        [
+          84.9765625,
+          720.4592895507812
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        688.6474609375,
+        541.5639038085938,
+        720.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Nach mehrfacher schriftlicher Aufklärung des Angebotspreises der ASt und dessen Kalkulation  im Januar und Februar 2021, in dem die Ag u.a. darauf hinwiesen, dass zahlreiche</p>",
+      "page": 133,
+      "polygon": [
+        [
+          84.9765625,
+          747.3592834472656
+        ],
+        [
+          541.4976196289062,
+          747.3592834472656
+        ],
+        [
+          541.4976196289062,
+          777.86328125
+        ],
+        [
+          84.9765625,
+          777.86328125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        747.3592834472656,
+        541.4976196289062,
+        777.86328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 117,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9393310546875
+        ],
+        [
+          295.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Einzelpreise der ASt die entsprechenden Schätzungen der Ag \"deutlich\" unterschritten, fand  am 3. März 2021 ein Aufklärungsgespräch zwischen den Ag und der ASt statt, in dem sich  herausstellte, dass beide Seiten den zu planenden Streckenverlauf anders verstanden hatten:  Nach Auffassung der Ag seien zwei Tunnelalternativen (Voll- und Teiltunnel) mit bis zu fünf  Untervarianten separat zu planen; demgegenüber verwies die ASt auf Seite 9 der  Projektbeschreibung, wonach der \"gleiche Verlauf\" der Strecke in beiden Tunnelvarianten  vorgegeben worden sei, so dass Teile der Planung für die eine Tunnelvariante im Rahmen der  anderen Variante wiederverwendbar seien (s. Protokoll des Gespräches der Ag vom 3. März  2021 bzw. Korrekturen der ASt dazu vom 23. März 2021).</p>",
+      "page": 117,
+      "polygon": [
+        [
+          84.9765625,
+          122.9287109375
+        ],
+        [
+          541.7300415039062,
+          122.9287109375
+        ],
+        [
+          541.7300415039062,
+          286.249267578125
+        ],
+        [
+          84.9765625,
+          286.249267578125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.9287109375,
+        541.7300415039062,
+        286.249267578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Bezugnahme auf das Aufklärungsgespräch vom 3. März 2021 informierten die Ag der  ASt am 25. März 2021 darüber, dass deren Angebot gemäß § 54 Abs. 3 SektVO  ausgeschlossen werde, weil es nicht dem vorgegebenen Leistungssoll entspreche. Den  Rügen der ASt vom 30. März, 14. und 16. April 2021 halfen die Ag nicht ab.</p>",
+      "page": 117,
+      "polygon": [
+        [
+          82.6484375,
+          312.8720703125
+        ],
+        [
+          541.519775390625,
+          312.8720703125
+        ],
+        [
+          541.519775390625,
+          381.1201171875
+        ],
+        [
+          82.6484375,
+          381.1201171875
+        ]
+      ],
+      "bbox": [
+        82.6484375,
+        312.8720703125,
+        541.519775390625,
+        381.1201171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/117",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit Schreiben ihrer Verfahrensbevollmächtigten vom 22. April 2021 beantragte die ASt bei der  Vergabekammer des Bundes die Einleitung eines Nachprüfungsverfahrens. Der Antrag wurde  am selben Tag an die Ag übermittelt. Während des Nachprüfungsverfahrens erklärten die Ag  am 21. Mai 2021, auf die Erstangebote den Zuschlag erteilen zu wollen.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt meint, ihr Nachprüfungsantrag sei zulässig und begründet, weil ihre Rügen  rechtzeitig erfolgt und ihr Angebot zu Unrecht ausgeschlossen worden sei.</li></ul></li></ul></p>",
+      "page": 117,
+      "polygon": [
+        [
+          69.84375,
+          406.6103515625
+        ],
+        [
+          541.7291259765625,
+          406.6103515625
+        ],
+        [
+          541.7291259765625,
+          532.8692626953125
+        ],
+        [
+          69.84375,
+          532.8692626953125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        406.6103515625,
+        541.7291259765625,
+        532.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Zur Rechtzeitigkeit ihrer Rügen trägt die ASt vor, bis zum Ablauf der Angebotsfrist sei für  sie das abweichende Verständnis der Ag von der Leistungsbeschreibung oder deren  Mehrdeutigkeit nicht erkennbar gewesen. Hätte sie Zweifel an ihrer Auslegung der  Leistungsbeschreibung gehabt, hätte sie eine Bieterfrage gestellt. Erst beim Ausschluss  ihres Angebots habe die ASt erkannt, dass die Leistungsbeschreibung nicht hinreichend  bestimmt genug, sondern mehrdeutig gewesen sei. Bis zu diesem Zeitpunkt hätten sich die  Aufklärungsverlangen der Ag allein auf den angeblich ungewöhnlich niedrigen  Angebotspreis der ASt beschränkt. Bei der Äußerung der Ag im Gespräch vom 3. März  2021, dass sie den Leistungsgegenstand anders verstünden als die ASt und die  Planungsergebnisse nicht mehrfach verwendet werden könnten, handele es sich nicht um  einen rügefähigen Vergaberechtsverstoß, ein solcher stehe hier erst noch bevor. Anders  als die Ag meinten, sei das Schreiben der ASt vom 23. März 2021, in dem sie eine Korrektur</p>",
+      "page": 117,
+      "polygon": [
+        [
+          96.6171875,
+          558.318359375
+        ],
+        [
+          541.5926513671875,
+          558.318359375
+        ],
+        [
+          541.5926513671875,
+          779.6392784118652
+        ],
+        [
+          96.6171875,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        558.318359375,
+        541.5926513671875,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 116,
+      "polygon": [
+        [
+          294.798828125,
+          74.89935302734375
+        ],
+        [
+          315.169921875,
+          74.89935302734375
+        ],
+        [
+          315.169921875,
+          85.9393310546875
+        ],
+        [
+          294.798828125,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.89935302734375,
+        315.169921875,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">des Gesprächsprotokolls der Ag begehrt habe, keine vergaberechtliche Rüge gewesen.  Denn zu diesem Zeitpunkt habe die ASt keine konkreten rügefähigen  Vergaberechtsverstöße erkannt, sondern nur, dass das Aufklärungsgespräch unvollständig  protokolliert worden sei. Ein rügefähiger Vergaberechtsverstoß der Ag habe sich erst aus  dem Ausschlussschreiben vom 25. März 2021 ergeben.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.5374145507812,
+          122.517578125
+        ],
+        [
+          541.5374145507812,
+          210.25927734375
+        ],
+        [
+          98.9453125,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.5374145507812,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum fehlerhaften Ausschluss ihres Angebots führt die ASt aus, ihr Angebot entspreche den  Vorgaben der Leistungsbeschreibung und auch der Angebotspreis sei nicht unangemessen  niedrig. Denn die Leistungsbeschreibung sei nach den allgemeinen Auslegungsregeln  (§§ 133, 157 BGB) so zu verstehen, dass zwar Planungsleistungen für zwei verschiedene  Alternativen mit bis zu fünf verschiedene Varianten anzubieten waren, diese Alternativen  jedoch in Teilen gleich verlaufen durften bzw. nach den Vorgaben der Vergabeunterlagen  sogar mussten. Die ASt sei daher zu Recht davon ausgegangen, dass Planungsergebnisse  der einen Alternative auch bei der anderen verwendet werden könnten, für den gleich  verlaufenden Streckenabschnitt gebe es \"große Überschneidungen\". Aufgrund dieser  Annahme habe die ASt bei der Kalkulation des Angebotspreises Kosteneinsparungen  eingeplant, die zu ihrem niedrigen Angebotspreis führten.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          98.9453125,
+          236.8125
+        ],
+        [
+          541.7089233398438,
+          236.8125
+        ],
+        [
+          541.7089233398438,
+          438.06927490234375
+        ],
+        [
+          98.9453125,
+          438.06927490234375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        236.8125,
+        541.7089233398438,
+        438.06927490234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Für ihr Verständnis der Vergabeunterlagen verweist die ASt auf Seite 9 und 10 der  Projektbeschreibung, ansonsten sei der Streckenverlauf an keiner anderen Stelle in den  Vergabeunterlagen konkret vorgegeben worden. Danach verlaufe die Strecke bei der  Teiltunnelvariante durch den […]tunnel \"mit gleichem Verlauf wie bei der  Volltunnelvariante\". Anders als die Ag meinten, sei auch der Streckenkarte gemäß Anlage  18 der Vergabeunterlagen nicht zu entnehmen, dass der Streckenverlauf des Tunnels in  Bezug auf die beiden Alternativen \"2a Volltunnel\" und \"2b Teiluntertunnelung\" zwingend  verschieden sei. Im Gegenteil sei auf dieser Karte, auf die in der Leistungsbeschreibung  mehrfach verwiesen werde, deutlich zu erkennen, dass die eingezeichneten Varianten in  erheblichen Bereichen gleich verliefen und insbesondere für den in […] liegenden  Streckenabschnitt keinen unterschiedlichen Verlauf vorsähen. Für signifikante Teile des  Streckenverlaufs habe die ASt eine komplett unterschiedliche Grundlagenermittlung und  Vorplanung angeboten und so die in der Projektbeschreibung aufgestellte Vorgabe erfüllt,  dass bis zu fünf verschiedenen Trassenvarianten \"zu untersuchen\" und \"separat\" zu  bearbeiten seien. Dass es im Angebot der ASt in Teilen Überschneidungen bei den zu  planenden Tunnelabschnitten gebe, stehe dieser Vorgabe nicht entgegen. Denn den  Vergabeunterlagen sei nicht zu entnehmen, dass die einzelnen Alternativen und</p>",
+      "page": 116,
+      "polygon": [
+        [
+          96.6171875,
+          458.58929443359375
+        ],
+        [
+          541.7252807617188,
+          458.58929443359375
+        ],
+        [
+          541.7252807617188,
+          773.2792816162109
+        ],
+        [
+          96.6171875,
+          773.2792816162109
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        458.58929443359375,
+        541.7252807617188,
+        773.2792816162109
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9393310546875
+        ],
+        [
+          295.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Streckenführungsvarianten komplett losgelöst voneinander betrachtet werden müssten und  keinerlei Überschneidungen der möglichen Streckenführungsoptionen möglich seien.  Selbst wenn je nach vorherigen Streckenverläufen einzelne Anpassungen für den  ansonsten gleich verlaufenden Streckenabschnitt notwendig werden sollten, handele es  sich hierbei um einzelne Modifizierungen, die je nach vorheriger Variante der  Streckenführung aber auch absolut marginal ausfallen könnten. Solche Anpassungen  könnten in einem begrenzten Anpassungsbereich realisiert werden.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          121.6953125
+        ],
+        [
+          541.6640625,
+          121.6953125
+        ],
+        [
+          541.6640625,
+          248.32928466796875
+        ],
+        [
+          98.9453125,
+          248.32928466796875
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.6953125,
+        541.6640625,
+        248.32928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Des Weiteren trägt die ASt dazu vor, warum kein Unterkostenangebot i.S.d. § 54 SektVO  vorliege und ihre Kostenkalkulation auch sonst schlüssig sei.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          274.63671875
+        ],
+        [
+          541.3388061523438,
+          274.63671875
+        ],
+        [
+          541.3388061523438,
+          305.20928955078125
+        ],
+        [
+          98.9453125,
+          305.20928955078125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        274.63671875,
+        541.3388061523438,
+        305.20928955078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf den rechtlichen Hinweis der Vergabekammer vom 31. Mai 2021, \"nach derzeitiger  Einschätzung der Sach- und Rechtslage\" sei davon auszugehen, dass das Angebot der  ASt zu Recht ausgeschlossen worden sei, weil der Leistungs-/Projektbeschreibung nicht  entnommen werden könne, dass beide Tunnelvarianten \"Volltunnel\" und \"Teiltunnel\"  zumindest teilweise einen identischen Streckenverlauf haben sollten, trägt die ASt vor, dass  dieses Verständnis den Passus der Vergabeunterlagen zum \"gleichen Verlauf\" beider  Tunnelvarianten vollständig ignoriere. Auch \"Grundsatzvarianten\", von denen in den  Vergabeunterlagen die Rede sei, könnten sich grundsätzlich unterscheiden, in Teilen aber  gleichwohl identisch sein. Die Leistungsbeschreibung sei zumindest widersprüchlich und  damit unklar, was zulasten der Ag gehe und nicht zum Ausschluss des Angebots der ASt  führen dürfe. Zum Beleg ihres Verständnisses verweist die ASt ergänzend auf Teil B der  Unterlagen zum Raumordnungsverfahren zum Streckenverlauf auf […] Staatsgebiet. Des  Weiteren folge auch aus den ausgeschriebenen Leistungsphasen 1 und 2 der HOAI nicht,  dass es keine Festlegung auf Eigenschaften der zu planenden Maßnahme in bestimmten  Streckenabschnitten geben könne. Denn die HOAI sei keine Leistungsbeschreibung,  sondern ausschließlich Honorarordnung, und die Leistungsbilder beschrieben lediglich, wie  die Planungsleistung erbracht werden müsse, sie äußerten sich jedoch nicht dazu, was  konkret zu planen sei. Sollte die Auslegung der Ag zutreffen, sei zudem unklar, was der  Auftragnehmer mit der Zuschlagserteilung auf den ausgeschriebenen Werkvertrag  überhaupt schulde.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          332.08929443359375
+        ],
+        [
+          541.6973876953125,
+          332.08929443359375
+        ],
+        [
+          541.6973876953125,
+          704.681640625
+        ],
+        [
+          98.9453125,
+          704.681640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        332.08929443359375,
+        541.6973876953125,
+        704.681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt beantragt über ihre Verfahrensbevollmächtigten,</p>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          730.5592803955078
+        ],
+        [
+          375.0879211425781,
+          730.5592803955078
+        ],
+        [
+          375.0879211425781,
+          741.5992813110352
+        ],
+        [
+          98.9453125,
+          741.5992813110352
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        730.5592803955078,
+        375.0879211425781,
+        741.5992813110352
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. gegen die Ag das Nachprüfungsverfahren gemäß §§ 160 ff. GWB einzuleiten,</p>",
+      "page": 114,
+      "polygon": [
+        [
+          105.9800033569336,
+          768.4072265625
+        ],
+        [
+          494.8366394042969,
+          768.4072265625
+        ],
+        [
+          494.8366394042969,
+          779.6392784118652
+        ],
+        [
+          105.9800033569336,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        105.9800033569336,
+        768.4072265625,
+        494.8366394042969,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          295.010009765625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          85.9393310546875
+        ],
+        [
+          295.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.00390625,
+        314.87890625,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. den Ag zu untersagen, das Angebot der ASt auszuschließen,</li><li block-type=\"ListItem\">3. hilfsweise: die Ag zu verpflichten, das Verfahren in das Stadium vor Abgabe der  Angebote zurückzuversetzen und bei fortbestehender Beschaffungsabsicht ein  Vergabeverfahren unter Beachtung der Rechtsauffassung der Vergabekammer  durchzuführen,</li><li block-type=\"ListItem\">4. der ASt Einsicht in die Vergabeakte gemäß § 165 Abs. 1 GWB zu gewähren,</li><li block-type=\"ListItem\">5. den Ag die Kosten des Nachprüfungsverfahrens einschließlich der zur  zweckentsprechenden Rechtsverfolgung notwendigen Aufwendungen der ASt  aufzuerlegen.</li><li block-type=\"ListItem\">b) Die Ag beantragen über ihre Verfahrensbevollmächtigten, <ul><li block-type=\"ListItem\" class=\"list-indent-1\">1. den Nachprüfungsantrag vollständig zurückzuweisen,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2. der ASt, wenn und soweit ihr von der Vergabekammer bereits Einsicht in einzelne  Bestandteile der Vergabeakte gewährt worden ist, weitergehende Akteneinsicht zu  versagen,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3. festzustellen, dass die Hinzuziehung eines Verfahrensbevollmächtigten für die Ag zur  zweckentsprechenden Rechtsverfolgung notwendig war,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">4. der ASt die Kosten des Verfahrens einschließlich der zur zweckentsprechenden  Rechtsverfolgung notwendigen Auslagen der Ag aufzuerlegen.</li></ul></li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          83.8125,
+          122.9287109375
+        ],
+        [
+          541.6904907226562,
+          122.9287109375
+        ],
+        [
+          541.6904907226562,
+          495.4150390625
+        ],
+        [
+          83.8125,
+          495.4150390625
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        122.9287109375,
+        541.6904907226562,
+        495.4150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag meinen, der Nachprüfungsantrag sei bereits teilweise unzulässig, jedenfalls aber  unbegründet.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          99.26399230957031,
+          521.8292541503906
+        ],
+        [
+          541.3607788085938,
+          521.8292541503906
+        ],
+        [
+          541.3607788085938,
+          554.20703125
+        ],
+        [
+          99.26399230957031,
+          554.20703125
+        ]
+      ],
+      "bbox": [
+        99.26399230957031,
+        521.8292541503906,
+        541.3607788085938,
+        554.20703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Zur Unzulässigkeit tragen die Ag Folgendes vor: Die Aspekte, die die ASt im  Zusammenhang mit ihrem Verständnis der Vergabeunterlagen, insbesondere der  Leistungsbeschreibung, sowie der angeblich unzureichenden Protokollierung des  Aufklärungsgesprächs vom 3. März 2021 geltend mache, hätte sie bereits bis zum Ablauf  der Angebotsfrist rügen müssen. Spätestens seit dem Aufklärungsgespräch vom 3. März  2021 habe die ASt zudem positive Kenntnis davon gehabt, dass die Ag – aus Sicht der ASt  – ein unzutreffendes Verständnis von den Vergabeunterlagen hätten. Dies hätte die ASt  innerhalb von zehn Kalendertagen, also bis zum 13. März 2021, rügen müssen. Darüber  hinaus habe die ASt die Antragsfrist des § 160 Abs. 3 S. 1 Nr. 4 GWB versäumt. Denn dass  sie die Leistungsbeschreibung beanstande, habe die ASt spätestens bereits im  Aufklärungsgespräch vom 3. März 2021, spätestens aber am 23. März 2021 geltend</p>",
+      "page": 141,
+      "polygon": [
+        [
+          98.9453125,
+          578.8592834472656
+        ],
+        [
+          541.7352905273438,
+          578.8592834472656
+        ],
+        [
+          541.7352905273438,
+          780.330078125
+        ],
+        [
+          98.9453125,
+          780.330078125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        578.8592834472656,
+        541.7352905273438,
+        780.330078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 122,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gemacht, als sie das Gesprächsprotokoll der Ag korrigierte. Hieraufhin hätten die Ag mit  ihrer Ausschlussentscheidung vom 25. März 2021 klar und unmissverständlich zum  Ausdruck gebracht, dass sämtliches bisheriges Vorbringen der ASt zurückgewiesen werde.  Die sich an diese Nichtabhilfemitteilung der Ag anschließende 15-Tage-Frist, innerhalb der  die ASt ihren Nachprüfungsantrag hätte einreichen müssen, sei bereits am 9. April 2021  abgelaufen.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.7098999023438,
+          122.517578125
+        ],
+        [
+          541.7098999023438,
+          229.21929931640625
+        ],
+        [
+          98.9453125,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.7098999023438,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ungeachtet dessen sei der Nachprüfungsantrag insgesamt unbegründet. Die  Vergabeunterlagen seien eindeutig und ließen das Verständnis der ASt von den  ausgeschriebenen Leistungen nicht zu. Die Preisaufklärung der Ag habe gezeigt, dass das  Angebot der ASt nicht die tatsächlich ausgeschriebenen und anzubietenden Leistungen  beinhalte, da die ASt davon ausgehe, dass ihre Planungsleistungen in erheblichen Umfang  für beide Tunnelvarianten \"Volltunnel\" und \"Teiluntertunnelung\" verwendbar seien. Das  Angebot der ASt sei daher schon wegen unzulässiger Änderungen an den  Vergabeunterlagen zwingend auszuschließen.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          98.9453125,
+          255.3134765625
+        ],
+        [
+          541.5855102539062,
+          255.3134765625
+        ],
+        [
+          541.5855102539062,
+          400.00927734375
+        ],
+        [
+          98.9453125,
+          400.00927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        255.3134765625,
+        541.5855102539062,
+        400.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die Streckenkarte (Anlage 18 der Vergabeunterlagen), auf die die ASt ihre Argumentation  stütze, sei sehr grob und zeige sieben im Raumordnungsverfahren vorgestellte  Streckenvarianten im Sinne einer groben geografischen Einordnung hinsichtlich der Lage  im Lageplan. Diese Übersichtskarte zeige, dass die sieben Streckvarianten A bis G etwa  ab der deutsch-[…] Grenze wie auf Seite 10 der Projektbeschreibung erwähnt einen  \"gleichen Verlauf\" hätten. Daraus lasse sich jedoch nicht schlussfolgern, dass die zu  planenden Korridoralternativen in den übergeordneten Varianten \"Volltunnel\" und  \"Teiluntertunnelung\" mit jeweils bis zu fünf Untervarianten insofern \"gleich\" seien, dass  \"1 : 1\" oder jedenfalls in erheblichem Umfang die Planungsergebnisse der einen Alternative  auch bei der anderen Alternative verwendet werden könnten. Denn welche genaue  Streckenführung für die zu planenden Trassenvarianten in Betracht komme, sei weder jetzt  noch zum Zeitpunkt der Auftragserteilung im Detail bekannt. Die Ermittlung der exakten  Streckenführung der (bislang nicht existierenden) Neubaustrecke insbesondere mittels der  hier ausdrücklich ausgeschriebenen Planungs- und Untervarianten sei vielmehr gerade der  Gegenstand der Planungsleistungen, die im streitgegenständlichen Vergabeverfahren erst  noch zu vergeben und in der weiteren Planung im Projekt vorzunehmen seien. Der aktuelle  Planungs- und Projektstand sei ausdrücklich offen gehalten worden. Auch soweit die  bunten Linien auf der Streckenkarte (Anlage 18) von oben betrachtet identisch erschienen,  seien die durch den zu beauftragenden Planer zu untersuchenden Planungsvarianten in</p>",
+      "page": 122,
+      "polygon": [
+        [
+          96.6171875,
+          426.755859375
+        ],
+        [
+          541.7223510742188,
+          426.755859375
+        ],
+        [
+          541.7223510742188,
+          779.6392784118652
+        ],
+        [
+          96.6171875,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        96.6171875,
+        426.755859375,
+        541.7223510742188,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 101,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">der Realität weder hinsichtlich des exakten Verlaufs identisch noch hinsichtlich weiterer bei  der Planung zwingend zu berücksichtigender Details wie Gradiente (Gefälle/Anstieg),  Höhe, geologische und hydrologische Verhältnisse. Dies führe zu einer Vielzahl an  Planungssachverhalten, die selbst bei unterstellt gleicher Lage der Trassen (bezogen auf  deren rein geografische Einordnung) zu unterschiedlichen Verläufen des Tunnels führten.  Dies sei bereits für einen nicht fachkundigen Fachplaner eindeutig erkennbar. Zusätzlich  schulde der Planer bei der Untersuchung der ausgeschriebenen Varianten eine intensive  Auseinandersetzung mit Bauverfahren, Konstruktionsprinzipien und technologischen  Paramatern, für die er unterschiedliche Lösungsansätze erarbeiten und bewerten müsse.  Logistische, lüftungstechnische, sicherheitstechnische Analysen etc. hingen jedoch im  Wesentlichen nicht von der geografischen Lage des Tunnels ab, sondern von der  Tunnellänge, Stationierung, Hochpunkt, Lage der Rettungs- und Evakuierungspunkte.  Synergien und Einsparungen aufgrund einer gleichen geografischen Lage seien hier zwar  denkbar, eine weitgehende Wiederverwertbarkeit von Planungsinhalten, wie sie die ASt hier  behaupte, sei aber aufgrund der ausgeschriebenen Rahmenbedingungen und  Planungsparameter nicht möglich oder absehbar. Die ASt müsste die hier  ausgeschriebenen Leistungen schon im Zuge der Angebotserstellung vorweggenommen  haben, um nachvollziehbar und glaubhaft geltend machen zu können, der \"gleiche Verlauf\"  der Strecken stehe bereits jetzt fest.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          123.33984375
+        ],
+        [
+          541.7315063476562,
+          123.33984375
+        ],
+        [
+          541.7315063476562,
+          475.9892883300781
+        ],
+        [
+          98.9453125,
+          475.9892883300781
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        123.33984375,
+        541.7315063476562,
+        475.9892883300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag tragen weiter vor, sie hätten bei allen Bietern Preisaufklärungen vorgenommen und  mit allen Bietern Aufklärungsgespräche geführt. Hierbei hätten sie festgestellt, dass alle  Bieter bis auf die ASt die zu vergebende Planungsaufgabe einheitlich verstanden und  hierfür ein auskömmliches Honorar kalkuliert und ausreichend Personal vorgesehen hätten.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          501.9931640625
+        ],
+        [
+          541.6611938476562,
+          501.9931640625
+        ],
+        [
+          541.6611938476562,
+          570.7892761230469
+        ],
+        [
+          98.9453125,
+          570.7892761230469
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        501.9931640625,
+        541.6611938476562,
+        570.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Des Weiteren führen die Ag näher aus, dass das Angebot der ASt jedenfalls gemäß § 54  Abs. 3 SektVO auszuschließen sei, weil die ASt die von ihr angebotenen Preise und deren  Zusammensetzung nicht zufriedenstellend aufgeklärt habe.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          597.787109375
+        ],
+        [
+          541.6727294921875,
+          597.787109375
+        ],
+        [
+          541.6727294921875,
+          646.7792816162109
+        ],
+        [
+          98.9453125,
+          646.7792816162109
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        597.787109375,
+        541.6727294921875,
+        646.7792816162109
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Vergabekammer hat der ASt nach vorheriger Zustimmung der Ag Einsicht in die  Vergabeakten gewährt, soweit keine geheimhaltungsbedürftigen Aktenbestandteile betroffen  waren.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.94400024414062,
+          692.6192779541016
+        ],
+        [
+          541.4689331054688,
+          692.6192779541016
+        ],
+        [
+          541.4689331054688,
+          741.5992813110352
+        ],
+        [
+          70.94400024414062,
+          741.5992813110352
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        692.6192779541016,
+        541.4689331054688,
+        741.5992813110352
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 101,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wegen offensichtlicher Unbegründetheit des Nachprüfungsantrags ergeht die Entscheidung  gemäß § 166 Abs. 1 S. 3, 3. Alt. GWB nach Lage der Akten. Zu der zunächst nur vorläufigen  Einschätzung der Vergabekammer vom 31. Mai 2021 wurde der ASt rechtliches Gehör gegeben.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          69.84375,
+          123.33984375
+        ],
+        [
+          541.7305297851562,
+          123.33984375
+        ],
+        [
+          541.7305297851562,
+          172.33929443359375
+        ],
+        [
+          69.84375,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.33984375,
+        541.7305297851562,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Durch Verfügungen des Vorsitzenden vom 26. Mai und 10. Juni 2021 wurde die  Entscheidungsfrist zuletzt bis zum 9. Juli 2021 einschließlich verlängert.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.94400024414062,
+          198.5771484375
+        ],
+        [
+          541.7108154296875,
+          198.5771484375
+        ],
+        [
+          541.7108154296875,
+          229.21929931640625
+        ],
+        [
+          70.94400024414062,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        198.5771484375,
+        541.7108154296875,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die  Vergabeakten, soweit sie der Vergabekammer vorgelegt wurden, wird ergänzend Bezug  genommen.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.94400024414062,
+          257.32928466796875
+        ],
+        [
+          541.4799194335938,
+          257.32928466796875
+        ],
+        [
+          541.4799194335938,
+          306.4093017578125
+        ],
+        [
+          70.94400024414062,
+          306.4093017578125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        257.32928466796875,
+        541.4799194335938,
+        306.4093017578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 101,
+      "polygon": [
+        [
+          300.037109375,
+          352.249267578125
+        ],
+        [
+          309.931640625,
+          352.249267578125
+        ],
+        [
+          309.931640625,
+          363.2892761230469
+        ],
+        [
+          300.037109375,
+          363.2892761230469
+        ]
+      ],
+      "bbox": [
+        300.037109375,
+        352.249267578125,
+        309.931640625,
+        363.2892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig (dazu unter 1.), aber unbegründet (dazu unter 2.). Der  Hilfsantrag der ASt auf Zurückversetzung des Vergabeverfahrens in das Stadium vor  Angebotsabgabe ist ebenfalls zurückzuweisen (dazu unter 3.).</p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.94400024414062,
+          383.20928955078125
+        ],
+        [
+          541.380615234375,
+          383.20928955078125
+        ],
+        [
+          541.380615234375,
+          432.1893005371094
+        ],
+        [
+          70.94400024414062,
+          432.1893005371094
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        383.20928955078125,
+        541.380615234375,
+        432.1893005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/101",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag ist zulässig. Insbesondere ist die Vergabekammer des Bundes  zuständig, die ASt ist antragsbefugt und die Fristen des § 160 Abs. 3 S. 1 GWB wurden  hinsichtlich Rüge und Einreichung des Nachprüfungsantrags ebenfalls eingehalten.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Gegen die Zuständigkeit der Vergabekammer bestehen keine Bedenken, auch wenn eine  der beiden verfahrensbeteiligten Antragsgegnerinnen EU-Ausländerin ist. Gemeinsame  Vergabeverfahren, wie sie auch hier durchgeführt werden, sind gemäß Art. 57 RL  2014/25/EU, § 4 SektVO ausdrücklich zulässig und führen zur gemeinsamen  vergaberechtlichen Verantwortung beider Auftraggeber. Dem Hinweis in Ziffer VI.4.3 der  EU-Bekanntmachung, der die Regelungen des § 160 Abs. 3 GWB wiedergibt, ist zu  entnehmen, dass die Ag gemäß Art. 57 Abs. 4 RL 2014/25/EU, § 4 Abs. 2 S. 4 SektVO  zulässigerweise vereinbart haben, dass auf das streitgegenständliche Vergabeverfahren  die Regelungen des deutschen Vergaberechts anwendbar sein sollen. So haben es die Ag  auch in Ziffer 2.2 (S. 15) der Projektbeschreibung niedergelegt.</li></ul></li></ul></p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.94400024414062,
+          459.06927490234375
+        ],
+        [
+          541.6478271484375,
+          459.06927490234375
+        ],
+        [
+          541.6478271484375,
+          716.8592910766602
+        ],
+        [
+          70.94400024414062,
+          716.8592910766602
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        459.06927490234375,
+        541.6478271484375,
+        716.8592910766602
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinsichtlich der Zuständigkeit für Nachprüfungsverfahren haben sich beide  Auftraggeberinnen gemäß Ziffer VI.4.2 der EU-Bekanntmachung auf die Vergabekammer  des Bundes geeinigt.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          122.9287109375
+        ],
+        [
+          541.5848388671875,
+          122.9287109375
+        ],
+        [
+          541.5848388671875,
+          172.33929443359375
+        ],
+        [
+          98.9453125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.9287109375,
+        541.5848388671875,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/114",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">b) Die ASt ist antragsbefugt. Durch die Abgabe eines Angebots hat sie ihr Interesse am  Auftrag hinreichend dokumentiert. Des Weiteren macht sie, indem sie sich gegen den  Ausschluss dieses Angebots wendet, geltend, in ihren Rechten nach § 97 Abs. 6 GWB  verletzt zu sein. Außerdem droht der ASt ein Schaden. Denn da der Angebotspreis nach  der Wertungsmatrix der Ag mit 90% gewichtet wird und der Angebotspreis der ASt erheblich  unter dem der übrigen Bieter liegt, erscheint es möglich, dass auf das Angebot der ASt der  Zuschlag erteilt werden könnte, wenn es nicht ausgeschlossen worden wäre.</li><li block-type=\"ListItem\">c) Anders als die Ag meinen, sind die Rügen der ASt rechtzeitig erfolgt. Eine Rügeobliegenheit  i.S.d. § 160 Abs. 3 GWB entsteht u.a. erst dann, wenn ein Vergabeverstoß vorliegt, der den  Antragsteller in seinen Rechten verletzt. Was ihren Ausschluss wegen Abweichens von den  Vergabeunterlagen bzw. wegen ihres Angebotspreises angeht, brauchte die ASt daher  nicht die Aufklärungsersuchen der Ag oder das Aufklärungsgespräch vom 3. März 2021  (bzw. dessen inhaltliche Wiedergabe im Protokoll der Ag) zu rügen. Denn hier stellte sich  zwar heraus, dass das Verständnis der Ag und der ASt hinsichtlich des  Ausschreibungsgegenstands voneinander abwichen. Dies allein ist jedoch kein  (rügefähiger) Vergaberechtsverstoß. Denn dieses Verständnis der Ag hat sich zu Lasten  der ASt erst in der Ausschlussentscheidung der Ag manifestiert, die der ASt am 25. März  2021 mitgeteilt wurde. Die sich an diesen (angeblichen) Vergaberechtsverstoß  anschließende Rüge der ASt erfolgte gemäß § 160 Abs. 3 S. 1 Nr. 1 GWB rechtzeitig  innerhalb von zehn Kalendertagen, nämlich am 30. März 2021. Soweit der zu rügende  Vergaberechtsverstoß der Ag nicht im Angebotsausschluss, sondern in der  unzureichenden Bestimmtheit der Leistungsbeschreibung zu sehen sein sollte, brauchte  die ASt auch diesen Vergabefehler nicht schon früher zu rügen. Denn bis zu den  Aufklärungsverlangen der Ag war die ASt davon ausgegangen, dass ihr Verständnis der  Vergabeunterlagen, das sie dementsprechend auch ihrer Angebotskalkulation zugrunde  gelegt hatte, zutreffend ist. Dass diese Unterlagen auch anders zu verstehen sein könnten  und daher möglicherweise nicht eindeutig genug formuliert waren, war für die ASt mithin  nicht früher erkennbar, so dass sie dies gemäß § 160 Abs. 3 S. 1 Nr. 3 GWB nicht bis zum  Ablauf der Angebotsfrist rügen musste.</li></ul></p>",
+      "page": 114,
+      "polygon": [
+        [
+          84.9765625,
+          198.98828125
+        ],
+        [
+          541.729248046875,
+          198.98828125
+        ],
+        [
+          541.729248046875,
+          761.41796875
+        ],
+        [
+          84.9765625,
+          761.41796875
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        198.98828125,
+        541.729248046875,
+        761.41796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 122,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">d) Die ASt hat ebenfalls nicht die Antragsfrist des § 160 Abs. 3 S. 1 Nr. 4 GWB versäumt.  Maßgeblich für die Berechnung der 15-Tage-Frist ist hier nämlich – anders als die Ag  meinen – nicht die Mittelung der Ag vom 25. März 2021, dass das Angebot der ASt  auszuschließen sei. Denn nach dem oben Gesagten entstand erst auf dieses Schreiben  hin überhaupt eine Rügeobliegenheit der ASt. D.h. bei diesem Schreiben handelte es sich schon mangels vorheriger Rüge der ASt nicht um eine Nichtabhilfemitteilung der Ag i.S.d.  § 160 Abs. 3 S. 1 Nr. 4 GWB. Eine 15-Tage-Frist, die bei der Stellung des  Nachprüfungsantrags einzuhalten gewesen wäre, wurde durch dieses Schreiben also nicht  ausgelöst (vgl. OLG Düsseldorf, Beschluss vom 31. Mai 2017, VII-Verg 36/16 m.w.N.).</p>",
+      "page": 122,
+      "polygon": [
+        [
+          84.9765625,
+          122.1064453125
+        ],
+        [
+          541.7300415039062,
+          122.1064453125
+        ],
+        [
+          541.7300415039062,
+          286.249267578125
+        ],
+        [
+          84.9765625,
+          286.249267578125
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.1064453125,
+        541.7300415039062,
+        286.249267578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die erste ausdrückliche Nichtabhilfemitteilung der Ag auf die Rügen der ASt hin datiert vom  9. April 2021. Die ASt hat ihren Nachprüfungsantrag hieraufhin innerhalb von weniger als  15 Kalendertagen, nämlich am 22. April 2021, eingereicht.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          98.9453125,
+          312.8720703125
+        ],
+        [
+          541.7080078125,
+          312.8720703125
+        ],
+        [
+          541.7080078125,
+          362.08929443359375
+        ],
+        [
+          98.9453125,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        312.8720703125,
+        541.7080078125,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/122",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist unbegründet, denn das Angebot der ASt wurde zu Recht wegen  Änderungen an den Vergabeunterlagen ausgeschlossen (dazu unter a)). Ob die Ag den  Angebotsausschluss ebenfalls auf § 54 Abs. 3 SektVO stützen dürfen, braucht daher nicht  entschieden zu werden (dazu unter b)).  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die Ag haben das Angebot der ASt zu Recht wegen Änderungen an den  Vergabeunterlagen ausgeschlossen. Auch in der SektVO gilt ein solcher  Ausschlusstatbestand (dazu unter aa)) und dieser Tatbestand ist auch im hiesigen  Verhandlungsverfahren in seinem jetzigen Stadium anwendbar (dazu unter bb)). Das  Angebot der ASt entspricht nicht den ausgeschriebenen Vorgaben (dazu unter cc)). <ul><li block-type=\"ListItem\" class=\"list-indent-2\">aa) Zwar ist ein Ausschlusstatbestand wegen der Vornahme von Änderungen oder  Ergänzungen an den Vergabeunterlagen in der hier einschlägigen SektVO – anders  als z.B. in § 57 Abs. 1 Nr. 4 VgV – nicht ausdrücklich geregelt. Jedoch folgt aus den  allgemeinen, auch in der SektVO geltenden vergaberechtlichen Grundsätzen der  Transparenz und Gleichbehandlung der Bieter (§ 1 Abs. 1 SektVO i.V.m. § 97 Abs. 1,  2 GWB) , dass öffentliche Auftraggeber nur solche Angebote bezuschlagen dürfen, die  den ausgeschriebenen Vorgaben vollumfänglich entsprechen, und auf die vorab für  alle verbindlich aufgestellten Leistungsanforderungen nicht zugunsten einzelner Bieter  verzichten dürfen (vgl. OLG Düsseldorf, Beschluss vom 30. April 2014, VII-Verg 35/13).</li></ul></li></ul></li></ul></p>",
+      "page": 122,
+      "polygon": [
+        [
+          70.94400024414062,
+          386.46484375
+        ],
+        [
+          541.7300415039062,
+          386.46484375
+        ],
+        [
+          541.7300415039062,
+          762.6513671875
+        ],
+        [
+          70.94400024414062,
+          762.6513671875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        386.46484375,
+        541.7300415039062,
+        762.6513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          292.010009765625,
+          74.4150390625
+        ],
+        [
+          317.7663269042969,
+          74.4150390625
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.4150390625,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/ListGroup/120",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">bb) Dass es sich hier um ein Verhandlungsverfahren handelt, steht dem  Angebotsausschluss der ASt ebenfalls nicht entgegen. Denn in  Verhandlungsverfahren können Abweichungen vom ausgeschriebenen Angebotsinhalt  zwar grundsätzlich noch in den nächsten Verhandlungsrunden beseitigt werden (vgl  § 119 Abs. 5 GWB). Etwas anderes gilt jedoch dann, wenn sich der öffentliche  Auftraggeber – wie hier in Ziffer II.2.14 der EU-Bekanntmachung – i.S.d. § 15 Abs. 4  SektVO ausdrücklich vorbehalten hat, den Zuschlag ggf. auf die Erstangebote zu  erteilen, und sich – ebenfalls wie hier bereits geschehen – dafür entschieden hat, von  diesem Vorbehalt tatsächlich Gebrauch zu machen. Die Erstangebote sind mithin nicht  (mehr) indikativer Natur, sondern final. Mangels Möglichkeit, dessen Inhalt noch zu  überarbeiten, kann ein solches finales Angebot, das die ausgeschriebenen  Anforderungen nicht erfüllt, ausgeschlossen werden.</li><li block-type=\"ListItem\">cc) Dem Angebot der ASt, insbesondere der Kalkulation des Angebotspreises, liegt  unstreitig die Annahme zugrunde, dass die Ag in ihrer Leistungs-/Projektbeschreibung  bei den Varianten \"Volltunnel\" und \"Teiltunnel\" jedenfalls teilweise gleiche  Streckenverläufe vorgegeben haben. Die aus der Wiederverwendbarkeit planerischer  Leistungen entstehenden Einsparungen hat die ASt in ihren Angebotspreis  einkalkuliert. Da der Angebotspreis der ASt erheblich unter den Preisen der übrigen  Bieter sowie der Kostenschätzung der Ag liegt, ist sie hierbei von einem erheblichen  Einsparpotential, also von umfangreichen Überschneidungen der Tunnelverläufe,  ausgegangen.</li></ul></p>",
+      "page": 120,
+      "polygon": [
+        [
+          98.9453125,
+          121.6953125
+        ],
+        [
+          541.719482421875,
+          121.6953125
+        ],
+        [
+          541.719482421875,
+          532.8692626953125
+        ],
+        [
+          98.9453125,
+          532.8692626953125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.6953125,
+        541.719482421875,
+        532.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ein solches Verständnis, das nur dann zur Ausschreibungskonformität des Angebots  der ASt führen würde, wenn sich aus der Leistungsbeschreibung/Projektbeschreibung  tatsächlich ergäbe, dass beide o.g. Varianten (zumindest teilweise) einen identischen  Streckenverlauf haben sollen, ist dieser Beschreibung jedoch nicht zu entnehmen. Das  Angebot der ASt entspricht also nicht den von den Ag ausgeschriebenen Vorgaben.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          118.73437499999999,
+          559.749267578125
+        ],
+        [
+          541.7237548828125,
+          559.749267578125
+        ],
+        [
+          541.7237548828125,
+          648.3564453125
+        ],
+        [
+          118.73437499999999,
+          648.3564453125
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        559.749267578125,
+        541.7237548828125,
+        648.3564453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Maßgeblich für die Auslegung einer Leistungs- oder Projektbeschreibung ist die Sicht  eines objektiven, brachenkundigen Bieters (§§ 133, 157 BGB). Danach ist der  Streckenverlauf der beiden Planungsvarianten \"Volltunnel\" und \"Teiluntertunnelung\"  hier noch nicht konkret vorgegeben, sondern dass beide Varianten im Gegenteil  getrennt und unabhängig voneinander zu planen sind; das Planungsergebnis und</p>",
+      "page": 120,
+      "polygon": [
+        [
+          118.73437499999999,
+          679.6025390625
+        ],
+        [
+          541.602294921875,
+          679.6025390625
+        ],
+        [
+          541.602294921875,
+          767.5849609375
+        ],
+        [
+          118.73437499999999,
+          767.5849609375
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        679.6025390625,
+        541.602294921875,
+        767.5849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">damit (u.a.) der Streckenverlauf sind noch vollkommen offen. So ist Seite 5 der  Projektbeschreibung (Ziffer 1.1) zu entnehmen, dass es \"zwei grundsätzlich  verschiedene Korridoralternativen geben [wird], welche im Zuge der Vorplanung  komplett zu beplanen sind\", die Planungsvarianten \"Teiluntertunnelung\" und  \"Volltunnel\" \"bearbeitet der Auftragnehmer jeweils separat\". Ergänzend wird auf Seite  34 f. (Ziffer 4.4, 4.5 der Projektbeschreibung) ausgeführt, dass für \"beide zu  beplanenden Grundsatzalternativen (…) \"Teiluntertunnelung\" (…) und \"Volltunnel\" (…)  jeweils bis zu fünf verschiedene Trassenvarianten\" zu untersuchen und zu planen  seien. Dass es insgesamt mehr als fünf zu planende Alternativen geben soll (nämlich  jeweils bis zu fünf für die Teiltunnelvariante und bis zu fünf weitere für die  Volltunnelvariante), ist zudem Seite 15 f. (Ziffer 2.2a, 2.2b der Projektbeschreibung)  i.V.m. der Streckenkarte aus Anlage 18 zu entnehmen. Selbst wenn es sich hierbei  (wie die Ag betonen) nur um eine grobe Karte handeln sollte, sind hierauf nämlich  deutlich mehr als fünf verschiedene Streckenverläufe in unterschiedlichen Farben  eingezeichnet, wobei sich laut Ziffer 2.2a der Projektbeschreibung (nur) die dort  gekennzeichneten Varianten A bis C auf die Volltunnelvariante beziehen und (nur) die  Varianten D bis G auf die Teiltunnelvariante. Jedenfalls diese hier dargestellten  Alternativen haben ausweislich dieser Karte für die Voll- und Teiltunnelvariante  vollkommen unterschiedliche Streckenverläufe ohne irgendwelche Überschneidungen.  Abgesehen davon macht allein schon die ausdrücklich und unstreitig ausgeschriebene  Pflicht des Auftragnehmers, je Tunnelvariante zusätzlich bis zu fünf weitere Varianten  zu planen, das Verständnis der ASt, jedenfalls die Basisvarianten Voll- und  Teiluntertunnelung hätten einen zumindest teilweise identischen geografischen  Verlauf, unwahrscheinlich. Dass es sich um zwei getrennt voneinander zu beplanende  \"Grundsatzvarianten\" (nämlich \"2a\" und \"2b\") handelt, haben die Ag nicht zuletzt der  von der ASt zitierten Beschreibung der Streckenausführung auf Seite 9 f. der  Projektbeschreibung vorangestellt, so dass diese Prämisse auch bei der Auslegung  der Formulierung \"mit gleichem Verlauf wie bei der Volltunnelvariante\" auf Seite 10 zu  berücksichtigen ist, auf die sich die gegenteilige Argumentation der ASt entscheidend  stützt.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          118.73437499999999,
+          121.6953125
+        ],
+        [
+          541.7367553710938,
+          121.6953125
+        ],
+        [
+          541.7367553710938,
+          684.6992797851562
+        ],
+        [
+          118.73437499999999,
+          684.6992797851562
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        121.6953125,
+        541.7367553710938,
+        684.6992797851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Auch Teil B der Unterlagen zum Raumordnungsverfahren, auf die sich die ASt für ihre  Verständnis ergänzend beruft, steht der hier vertretenen Auffassung, dass der  Streckenverlauf der beiden Tunnelvarianten noch nicht festgelegt, sondern  ergebnisoffen zu planen ist, nicht entgegen. Im Gegenteil zeigen diese Unterlagen</p>",
+      "page": 114,
+      "polygon": [
+        [
+          119.89843749999999,
+          708.79296875
+        ],
+        [
+          541.6256713867188,
+          708.79296875
+        ],
+        [
+          541.6256713867188,
+          779.6392784118652
+        ],
+        [
+          119.89843749999999,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        119.89843749999999,
+        708.79296875,
+        541.6256713867188,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ausdrücklich auf, dass eine abschließende Vorfestlegung des Streckenverlaufs derzeit  noch nicht möglich ist, sondern gerade erst noch \"zentrale Aufgabe der  Ausführungsplanung\", also des streitgegenständlichen Vergabeverfahrens, sein wird  (s. S. 71 f.).</p>",
+      "page": 112,
+      "polygon": [
+        [
+          118.73437499999999,
+          122.517578125
+        ],
+        [
+          541.6954956054688,
+          122.517578125
+        ],
+        [
+          541.6954956054688,
+          191.29925537109375
+        ],
+        [
+          118.73437499999999,
+          191.29925537109375
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        122.517578125,
+        541.6954956054688,
+        191.29925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Gegen das Verständnis, die beiden Ag hätten sich hinsichtlich des zukünftigen  Streckenverlaufs vor Auftragsvergabe bereits insoweit festgelegt, dass jedenfalls  teilweise gleiche Verläufe bei beiden o.g. Varianten vorzusehen sind, spricht  entscheidend zudem der konkret ausgeschriebene Leistungsinhalt, der sich hier aus  der Projektbeschreibung und den ausgeschriebenen Leistungsbildern und -phasen  i.S.d. HOAI ergibt. Zwar ist der ASt zuzugeben, dass die Leistungsbilder oder -phasen  i.S.d. HOAI allein nicht das konkrete Planungsergebnis bestimmen können. Aber sie  legen immerhin abstrakt die Tätigkeiten fest, die der Planer erbringen muss, und geben  dem Bieter damit zumindest eine Liste der von ihm zu erbringenden Aufgaben vor.  Konkret wird der Leistungsinhalt dann aus diesen Leistungsbildern i.V.m. der  individuellen Projektbeschreibung bestimmt. Danach schuldet der Auftragnehmer im  Rahmen der hier ausgeschriebenen Leistungsphasen 1 und 2 i.S.d. HOAI die Planung  (hier sogar ausdrücklich mehrerer Varianten: zwei, mit jeweils bis zu fünf  \"Untervarianten\"), die hinsichtlich ihrer Machbarkeit, (vor allem bau- und  umweltschutzrechtlicher) Genehmigungsfähigkeit, Wirtschaftlichkeit usw. zu planen, zu  prüfen, zu vergleichen, gegeneinander abzuwägen und mit den beiden Ag  abzustimmen sind. Bei der verfahrensgegenständlichen Planungsaufgabe kommt Folgendes maßgeblich hinzu: Es handelt sich um ein unwegsames, stark gebirgiges  und bisher so nicht bebautes Gelände (das […]), in dem für den Eisenbahnverkehr  außergewöhnlich lange (über 25 km) Tunnelbauwerke zu errichten sind, so dass vor  der Planung des konkreten Streckenverlaufs eine umfangreiche Geländeerkundung  (bzgl. Bodenbeschaffenheit, Wasser, Umwelt, Natur) erforderlich ist. Wie die  eigentlichen Planungsleistungen sind auch diese wesentlichen Vorleistungen derzeit  noch nicht erbracht, sondern wurden hier zum Teil mit ausgeschrieben, sie sind also  (erst) vom künftigen Auftragnehmer oder durch andere Dienstleister zu erbringen. Eine  Vorfestlegung der Ag zum jetzigen Zeitpunkt dergestalt, dass die Streckenführung der  Tunnelvarianten zumindest über mehrere Kilometer gleich verlaufen wird, liegt für  einen branchenkundigen Bieter daher fern. Denn hätten die Ag sich so bereits festlegen  können (und wollen), hätten sie die jetzt oder später ausgeschriebenen  Planungsaufgaben in wesentlichen Teilen bereits selbst erbracht, was angesichts der</p>",
+      "page": 112,
+      "polygon": [
+        [
+          118.73437499999999,
+          217.078125
+        ],
+        [
+          541.7401123046875,
+          217.078125
+        ],
+        [
+          541.7401123046875,
+          779.6392784118652
+        ],
+        [
+          118.73437499999999,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        217.078125,
+        541.7401123046875,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 125,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          292.010009765625,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">für die Ag unwägbaren, da nicht vorherseh- und von ihr beeinflussbaren Parameter  (Beschaffenheit des Geländes und der Umgebungsnatur, Verhalten der zuständigen  Genehmigungsbehörden etc.) gar nicht machbar (und daher eben auch nicht so  vorgesehen) gewesen ist. Die eigene Unkenntnis vom späteren Planungsergebnis  erklärt möglicherweise auch, warum es zum Streckenverlauf keine weiteren Details in  den Vergabeunterlagen gab außer der groben Karte in Anlage 18 und den auch von  der ASt zitierten kurzen Ausführungen auf den Seiten 9 und 10 der  Projektbeschreibung.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          120.6199951171875,
+          122.1064453125
+        ],
+        [
+          541.7146606445312,
+          122.1064453125
+        ],
+        [
+          541.7146606445312,
+          267.28924560546875
+        ],
+        [
+          120.6199951171875,
+          267.28924560546875
+        ]
+      ],
+      "bbox": [
+        120.6199951171875,
+        122.1064453125,
+        541.7146606445312,
+        267.28924560546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ein branchenkundiger Bieter berücksichtigt bei der Auslegung der hiesigen  Projektbeschreibung zudem Folgendes: Eine Bezuschlagung des Angebots der ASt  würde den in Ziffer 4.1 der Projektbeschreibung ausdrücklich so ausgeschriebenen  Werkerfolg richtiger und vollständiger Arbeitsergebnisse und funktional ausführbaren,  insbesondere genehmigungsfähigen Planungsleistungen gefährden, da die ASt nicht  ergebnisoffen plant, sondern allein schon um die ihrem Angebotspreis  zugrundeliegenden Kalkulationsannahmen einzuhalten, sich schon jetzt (zumindest in  wesentlichen Teilen) auf ein bestimmtes Planungsergebnis festgelegt hat. Die ASt  verweist diesbezüglich auf später ggf. erforderlich werdende Änderungen ihrer  Angebotsprämissen und dass ggf. erforderliche Anpassungen \"in einem begrenzten  Anpassungsbereich realisiert werden\" könnten. Dass sich die Ag auf einen Vertrag, der  von vornherein solche Nachtrags- und Realisierbarkeitsrisiken in sich trägt, nicht  einlassen müssen, versteht sich von selbst.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          118.73437499999999,
+          293.548828125
+        ],
+        [
+          541.68896484375,
+          293.548828125
+        ],
+        [
+          541.68896484375,
+          532.8692626953125
+        ],
+        [
+          118.73437499999999,
+          532.8692626953125
+        ]
+      ],
+      "bbox": [
+        118.73437499999999,
+        293.548828125,
+        541.68896484375,
+        532.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Möglicherweise führt die vorzunehmende Planung und Abstimmung zwischen  Auftragnehmer und Ag im Ergebnis dazu, dass sich die Streckenverläufe der Voll- und  der Teiltunnelvariante jedenfalls teilweise überschneiden. Eine Vorabfestlegung der Ag  hierauf, wie sie dem Angebot der ASt zugrundeliegt, ist in der Leistungsbeschreibung  jedoch nicht erfolgt.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          120.6199951171875,
+          559.749267578125
+        ],
+        [
+          541.7367553710938,
+          559.749267578125
+        ],
+        [
+          541.7367553710938,
+          649.1787109375
+        ],
+        [
+          120.6199951171875,
+          649.1787109375
+        ]
+      ],
+      "bbox": [
+        120.6199951171875,
+        559.749267578125,
+        541.7367553710938,
+        649.1787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/ListGroup/125",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">b) Da das Angebot der Antragstellerin zu Recht ausgeschlossen wurde, weil es nicht den  ausgeschriebenen Anforderungen entspricht, braucht nicht entschieden zu werden, ob es  darüber hinaus ebenfalls gemäß § 54 Abs. 3 SektVO auszuschließen war.</li><li block-type=\"ListItem\">3. Da die Projektbeschreibung der Ag den Leistungsinhalt hinsichtlich des Streckenverlaufs der  beiden Tunnelvarianten hinreichend eindeutig genug bestimmt (s.o. unter 2a)cc)), ist der</li></ul></p>",
+      "page": 125,
+      "polygon": [
+        [
+          70.94400024414062,
+          673.0244140625
+        ],
+        [
+          541.49658203125,
+          673.0244140625
+        ],
+        [
+          541.49658203125,
+          779.6392784118652
+        ],
+        [
+          70.94400024414062,
+          779.6392784118652
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        673.0244140625,
+        541.49658203125,
+        779.6392784118652
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 103,
+      "polygon": [
+        [
+          291.888671875,
+          74.826171875
+        ],
+        [
+          318.080078125,
+          74.826171875
+        ],
+        [
+          318.080078125,
+          85.9393310546875
+        ],
+        [
+          291.888671875,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        74.826171875,
+        318.080078125,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hilfsantrag der ASt, das Vergabeverfahren in das Stadium vor Angebotsabgabe  zurückzuversetzen, ebenfalls zurückzuweisen.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          84.9765625,
+          122.517578125
+        ],
+        [
+          541.6680908203125,
+          122.517578125
+        ],
+        [
+          541.6680908203125,
+          153.3792724609375
+        ],
+        [
+          84.9765625,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        122.517578125,
+        541.6680908203125,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 103,
+      "polygon": [
+        [
+          298.6100158691406,
+          198.98828125
+        ],
+        [
+          311.095703125,
+          198.98828125
+        ],
+        [
+          311.095703125,
+          210.25927734375
+        ],
+        [
+          298.6100158691406,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        298.6100158691406,
+        198.98828125,
+        311.095703125,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 1, Abs. 3 S. 1, Abs. 4 S. 1, 2, 4 GWB. i.V.m. § 80  Abs. 2, Abs. 3 S. 2 VwVfG.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          70.94400024414062,
+          229.8232421875
+        ],
+        [
+          541.546142578125,
+          229.8232421875
+        ],
+        [
+          541.546142578125,
+          260.32928466796875
+        ],
+        [
+          70.94400024414062,
+          260.32928466796875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        229.8232421875,
+        541.546142578125,
+        260.32928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung eines Bevollmächtigten durch die Ag war notwendig, da das  Nachprüfungsverfahren umfangreiche Sach- und Rechtsfragen zur Auslegung von Leistungs- /Projektbeschreibungen und den Pflichten eines Bieters aufgeworfen hat, die die Beauftragung  eines Verfahrensbevollmächtigten als sachgerecht erscheinen lassen (vgl. BGH, Beschluss vom  26. September 2006, X ZB 14/06, Rz. 61). Zudem wurde so die erforderliche \"Waffengleichheit\"  gegenüber der anwaltlich vertretenen ASt hergestellt (vgl. OLG Düsseldorf, Beschluss vom  29. Mai 2019, VII-Verg 55/18).</p>",
+      "page": 103,
+      "polygon": [
+        [
+          69.84375,
+          286.1484375
+        ],
+        [
+          541.6098022460938,
+          286.1484375
+        ],
+        [
+          541.6098022460938,
+          412.029296875
+        ],
+        [
+          69.84375,
+          412.029296875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        286.1484375,
+        541.6098022460938,
+        412.029296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV. </b></p>",
+      "page": 103,
+      "polygon": [
+        [
+          295.671875,
+          457.9892883300781
+        ],
+        [
+          314.6252136230469,
+          457.9892883300781
+        ],
+        [
+          314.6252136230469,
+          469.029296875
+        ],
+        [
+          295.671875,
+          469.029296875
+        ]
+      ],
+      "bbox": [
+        295.671875,
+        457.9892883300781,
+        314.6252136230469,
+        469.029296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt,  beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf,  einzulegen.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          69.84375,
+          488.8369140625
+        ],
+        [
+          541.7305297851562,
+          488.8369140625
+        ],
+        [
+          541.7305297851562,
+          557.0849609375
+        ],
+        [
+          69.84375,
+          557.0849609375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        488.8369140625,
+        541.7305297851562,
+        557.0849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die  Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der  Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die  Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          69.84375,
+          583.779296875
+        ],
+        [
+          541.591552734375,
+          583.779296875
+        ],
+        [
+          541.591552734375,
+          652.4677734375
+        ],
+        [
+          69.84375,
+          652.4677734375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        583.779296875,
+        541.591552734375,
+        652.4677734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für  Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 103,
+      "polygon": [
+        [
+          70.94400024414062,
+          675.90234375
+        ],
+        [
+          541.46875,
+          675.90234375
+        ],
+        [
+          541.46875,
+          708.6992797851562
+        ],
+        [
+          70.94400024414062,
+          708.6992797851562
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        675.90234375,
+        541.46875,
+        708.6992797851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der  Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der  Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das</p>",
+      "page": 103,
+      "polygon": [
+        [
+          70.94400024414062,
+          735.5166015625
+        ],
+        [
+          541.4640502929688,
+          735.5166015625
+        ],
+        [
+          541.4640502929688,
+          784.6792793273926
+        ],
+        [
+          70.94400024414062,
+          784.6792793273926
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        735.5166015625,
+        541.4640502929688,
+        784.6792793273926
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 30,
+      "polygon": [
+        [
+          289.560546875,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9393310546875
+        ],
+        [
+          289.560546875,
+          85.9393310546875
+        ]
+      ],
+      "bbox": [
+        289.560546875,
+        74.826171875,
+        317.7663269042969,
+        85.9393310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Form/1",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th></th><th>Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur</th><th></th><th></th><th></th><th></th><th></th></tr><tr><td colspan=\"10\">Entscheidung über die Beschwerde verlängern.</td></tr></tbody></table>",
+      "page": 30,
+      "polygon": [
+        [
+          70.94400024414062,
+          121.6953125
+        ],
+        [
+          541.4467163085938,
+          121.6953125
+        ],
+        [
+          541.4467163085938,
+          153.3792724609375
+        ],
+        [
+          70.94400024414062,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        121.6953125,
+        541.4467163085938,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Behrens Dr. Dittmann</p>",
+      "page": 30,
+      "polygon": [
+        [
+          160.05859375,
+          236.4013671875
+        ],
+        [
+          445.25390624999994,
+          236.4013671875
+        ],
+        [
+          445.25390624999994,
+          248.32928466796875
+        ],
+        [
+          160.05859375,
+          248.32928466796875
+        ]
+      ],
+      "bbox": [
+        160.05859375,
+        236.4013671875,
+        445.25390624999994,
+        248.32928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/2",
+        "2": "/page/4/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "18": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "19": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

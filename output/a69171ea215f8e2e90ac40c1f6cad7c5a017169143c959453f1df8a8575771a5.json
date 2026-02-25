@@ -1,0 +1,868 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 111,
+      "polygon": [
+        [
+          62.7138671875,
+          36.8375
+        ],
+        [
+          174.7548828125,
+          36.8375
+        ],
+        [
+          174.7548828125,
+          94.725
+        ],
+        [
+          62.7138671875,
+          94.725
+        ]
+      ],
+      "bbox": [
+        62.7138671875,
+        36.8375,
+        174.7548828125,
+        94.725
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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86fGLRbe+8YmWUtu2djX0XXg3xV/5Go/7tcmMnKFO8We/wAN4aliMZyVo3VnuXPgZpUGn3V+Yi3zDnJ+le215B8G/wDj5vfp/hXr9XhZOVJORjn1CnQx06dJWStp8goooroPGCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvBvir/AMjUf92vea8G+Kv/ACNR/wB2uLH/AMI+m4U/3/5M2vg3/wAfN79P8K9fryD4N/8AHze/T/CvX6vBfwUc/Ev/ACMZ/L8gooorqPBCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvBvir/yNR/3a95rwb4q/8jUf92uLH/wj6bhT/f8A5M2vg3/x83v0/wAK9fryD4N/8fN79P8ACvX6vBfwUc/Ev/Ixn8vyCiiiuo8EKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK8G+Kv8AyNR/3a95rgPFnhvTtT1fz7lHL47NivLzfEQw+H557XPd4exUMNi/aT2szn/g3/x83v0/wr1+uN8F6FY6TLO1orAt13HNdlWmWVo1sNGcdjHPMRHEY2VSGzsFFFFegeQFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcvrn/H/+FdRXL65/x/8A4V89xN/uXzR24D+L8ix4e+/LXQVz/h778tdBW/D/APuEPmRjP4zCiiivaOUKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK5fXP+P8A/Cuorl9c/wCP/wDCvnuJv9y+aO3AfxfkWPD335a6Cuf8PfflroK34f8A9wh8yMZ/GYUUUV7RyhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXL65/x/wD4V1Fctrn/AB//AIV89xN/uXzR24D+L8iz4e+/LXQVz/h778tdBW/D/wDuEPmRjP4zCiiivaOUKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK5jW/wDj/wDwoorwOI/9z+aOzA/xfkWPD/8ArJa36KK3yH/cY/MnGfxmFFFFewcoUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 10. Juni 2010</p>",
+      "page": 111,
+      "polygon": [
+        [
+          55.87499999999999,
+          129.91796875
+        ],
+        [
+          519.171875,
+          129.91796875
+        ],
+        [
+          519.171875,
+          142.41546630859375
+        ],
+        [
+          55.87499999999999,
+          142.41546630859375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        129.91796875,
+        519.171875,
+        142.41546630859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Bußgeldverfahren gegen Brillenglashersteller</b></h2>",
+      "page": 111,
+      "polygon": [
+        [
+          56.45703124999999,
+          171.853515625
+        ],
+        [
+          316.7879943847656,
+          171.853515625
+        ],
+        [
+          316.7879943847656,
+          184.77545166015625
+        ],
+        [
+          56.45703124999999,
+          184.77545166015625
+        ]
+      ],
+      "bbox": [
+        56.45703124999999,
+        171.853515625,
+        316.7879943847656,
+        184.77545166015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche Herstellung und Vertrieb von Brillengläsern</p>",
+      "page": 111,
+      "polygon": [
+        [
+          55.87499999999999,
+          203.991943359375
+        ],
+        [
+          372.6110534667969,
+          203.991943359375
+        ],
+        [
+          372.6110534667969,
+          213.95196533203125
+        ],
+        [
+          55.87499999999999,
+          213.95196533203125
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        203.991943359375,
+        372.6110534667969,
+        213.95196533203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen B12 – 11/08</p>",
+      "page": 111,
+      "polygon": [
+        [
+          55.29296874999999,
+          233.39385986328125
+        ],
+        [
+          236.88671874999997,
+          233.39385986328125
+        ],
+        [
+          236.88671874999997,
+          243.3538818359375
+        ],
+        [
+          55.29296874999999,
+          243.3538818359375
+        ]
+      ],
+      "bbox": [
+        55.29296874999999,
+        233.39385986328125,
+        236.88671874999997,
+        243.3538818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung 28. Mai 2010</p>",
+      "page": 111,
+      "polygon": [
+        [
+          56.45703124999999,
+          262.915283203125
+        ],
+        [
+          240.37213134765625,
+          262.915283203125
+        ],
+        [
+          240.37213134765625,
+          272.87530517578125
+        ],
+        [
+          56.45703124999999,
+          272.87530517578125
+        ]
+      ],
+      "bbox": [
+        56.45703124999999,
+        262.915283203125,
+        240.37213134765625,
+        272.87530517578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat am 28. Mai 2010 Geldbußen in Höhe von insgesamt rd. 115 Mio. € gegen fünf Brillenglashersteller, sieben verantwortliche Mitarbeiter sowie den Zentralverband der  Augenoptiker (ZVA) verhängt. Bei den Unternehmen handelt es sich mit der Rodenstock GmbH,  München, der Carl Zeiss Vision GmbH, Aalen, der Essilor GmbH, Freiburg, der Rupp+Hubrach  Optik GmbH, Bamberg, und der Hoya Lens Deutschland GmbH, Müllheim, um die führenden Brillenglasunternehmen in Deutschland.</p>",
+      "page": 111,
+      "polygon": [
+        [
+          55.87499999999999,
+          313.6943359375
+        ],
+        [
+          541.5941162109375,
+          313.6943359375
+        ],
+        [
+          541.5941162109375,
+          423.0556640625
+        ],
+        [
+          55.87499999999999,
+          423.0556640625
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        313.6943359375,
+        541.5941162109375,
+        423.0556640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ausgangspunkt des Verfahrens waren Durchsuchungen Mitte 2008, bei denen umfangreiches Beweismaterial sichergestellt werden konnte. Nach den Ermittlungen des Bundeskartellamts haben  die Brillenglasunternehmen an zwei kartellrechtswidrigen Absprachen teilgenommen.</p>",
+      "page": 111,
+      "polygon": [
+        [
+          55.87499999999999,
+          442.7900390625
+        ],
+        [
+          541.439453125,
+          442.7900390625
+        ],
+        [
+          541.439453125,
+          491.8630676269531
+        ],
+        [
+          55.87499999999999,
+          491.8630676269531
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        442.7900390625,
+        541.439453125,
+        491.8630676269531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum einen trafen sich die Geschäftsführer bzw. Vertriebsleiter der fünf Brillenglashersteller seit  Mitte 2000 mehrfach jährlich, um sich über eine Vielzahl von Wettbewerbsparametern abzustimmen und sich gegenseitig über ihr Marktverhalten zu informieren. Entsprechend der Anfangsbuchstaben der Unternehmen wurde der Gesprächskreis als \"HERRZ-Kreis\" bezeichnet. In jedem Jahr  fanden etwa drei bis vier Treffen in wechselnden Hotels in unterschiedlichen, mehrmonatigen Zeitabständen statt. Dem Bundeskartellamt sind bis 2008 insgesamt über 30 Treffen bekannt. Zu den  Treffen gab es keine schriftlichen Einladungen und Protokolle oder Teilnehmerlisten. Die Tagesordnung lag erst bei dem Treffen selbst vor. Die Organisation der Treffen wechselte zwischen den  beteiligten Unternehmen. Konnte ein Unternehmensvertreter ausnahmsweise nicht an einem Treffen teilnehmen, was selten war, wurde er nachträglich über die Ergebnisse telefonisch unterrichtet.  Aber auch zwischen den Sitzungen gab es regen E-Mail-Verkehr zwischen den Beteiligten, in dem  unter Bezugnahme auf vorangegangene Treffen und dem dort abgestimmten Vorgehen konkrete  Daten und Unternehmensstrategien untereinander ausgetauscht oder die nächsten Termine für  Treffen abgestimmt wurden.</p>",
+      "page": 111,
+      "polygon": [
+        [
+          54.7109375,
+          509.8046875
+        ],
+        [
+          541.6272583007812,
+          509.8046875
+        ],
+        [
+          541.6272583007812,
+          769.3644180297852
+        ],
+        [
+          54.7109375,
+          769.3644180297852
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        509.8046875,
+        541.6272583007812,
+        769.3644180297852
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 111,
+      "polygon": [
+        [
+          293.34375,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          797.7701263427734
+        ],
+        [
+          293.34375,
+          797.7701263427734
+        ]
+      ],
+      "bbox": [
+        293.34375,
+        784.8525390625,
+        300.9120178222656,
+        797.7701263427734
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/0'></p>",
+      "page": 110,
+      "polygon": [
+        [
+          62.0736328125,
+          36.1796875
+        ],
+        [
+          175.3951171875,
+          36.1796875
+        ],
+        [
+          175.3951171875,
+          90.44921875
+        ],
+        [
+          62.0736328125,
+          90.44921875
+        ]
+      ],
+      "bbox": [
+        62.0736328125,
+        36.1796875,
+        175.3951171875,
+        90.44921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {
+        "/page/1/Picture/0": "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1rGvNwpuSPRyrDU8TjIUamzZ438L/D89p48sJmkQhT2+or6wr5z+H/8AyOFp9f6ivoys8JVlVg3I7uIcvo4HERp0Vo1cKKKK6jwAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArzP4w/8AIJtv97+temV5n8Yf+QTbf739a58V/BkexkH/ACMaXqef/D//AJHC0+v9RX0ZXzn8P/8AkcLT6/1FfRlYZf8Aw36nqcX/AO9w/wAP6hRRRXefJhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXmfxh/5BNt/vf1r0yvM/jD/wAgm2/3v61z4r+DI9jIP+RjS9Tz/wCH/wDyOFp9f6ivoyvnP4f/API4Wn1/qK+jKwy/+G/U9Ti//e4f4f1Ciiiu8+TCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvM/jD/yCbb/e/rXplcV8Q9CfXLCCNJlj2t/FXJjqkaeHlKT0R6mS1YUsdTnN2SZ5R8P/APkcLT6/1FfRleP+FPBMum+Ibe6a6jcJ2Ga9grmymvTrUnKm7q56PFGJpYjExlSd1YKKKK9Q+aCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACsXxD/AMe6fWtqsXxD/wAe6fWvKzv/AHCp6HRhP40TK0r/AJCMddfXIaV/yEY66+vO4W/3WXqb5h/EXoFFFFfTHAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFYviH/AI90+tbVYviH/j3T615Wd/7hU9Down8aJlaV/wAhGOuvrkNK/wCQjHXX153C3+6y9TfMP4i9Aooor6Y4AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArF8Q/8AHun1oorys7/3Cp6HRhP40TK0r/kIx119FFedwt/usvU3zD+IvQKKKK+mOAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q=="
+      }
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bei den HERRZ-Treffen sprachen die Unternehmensvertreter u.a. Preiszuschläge sowie von ihnen  gegenüber den Augenoptikern gewährte Konditionen, Rabatte und Boni sowie Rechnungsaufschläge und die von den Augenoptikern an die Hersteller zu zahlende Transportkostenpauschale  untereinander ab. Außerdem informierten sie sich regelmäßig gegenseitig über konkrete wettbewerbliche Maßnahmen, wie z.B. Preiserhöhungen, und stimmten sich über das Verhalten gegenüber Einkaufs- und Marketinggruppen ab. Schließlich tauschten sie sich über wettbewerbsrelevante Themen aus, wie z.B. über Gehälter ihres Außendienstes, Garantiebedingungen und die Teilnahme an Messen, oder sie besprachen Einzelfragen zum Marktverhalten. Durch die über den  HERRZ-Kreis abgestimmten Wettbewerbsparameter und ausgetauschten Informationen haben die  Kartellunternehmen ihre Vertriebspolitik ausgerichtet. Als Ergebnis dieser Vereinbarung wurde der  Preis- und Konditionenwettbewerb zwischen den fünf großen Brillenglasherstellern in Deutschland  zumindest soweit eingeschränkt, dass gegenüber den Augenoptikern Preise regelmäßig abgestimmt erhöht werden konnten und gleichzeitig die gewährten Boni bzw. Rabatte gegenseitig nicht  unterlaufen wurden. Preisliche Vorstöße einzelner Brillenglashersteller wurden dadurch unwahrscheinlicher, das Wettbewerbsgeschehen erlahmte insgesamt. Insgesamt lag den Treffen das gemeinsame Verständnis der Teilnehmer zugrunde, die bestehende Marktstruktur soweit wie möglich  zu erhalten.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          55.87499999999999,
+          128.2734375
+        ],
+        [
+          541.5940551757812,
+          128.2734375
+        ],
+        [
+          541.5940551757812,
+          444.429443359375
+        ],
+        [
+          55.87499999999999,
+          444.429443359375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        128.2734375,
+        541.5940551757812,
+        444.429443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zum anderen haben die Geschäftsführer bzw. Vertriebsleiter der fünf Brillenglashersteller zusammen mit Vertretern des ZVA eine weitere wettbewerbswidrige Absprache hinsichtlich der \"Unverbindlichen Preisempfehlungen\" getroffen. Hintergrund ist, dass ein Großteil der Augenoptiker die  Verkaufspreise, die der Kunde beim Augenoptiker für die Gläser bezahlt, aus Preislisten der Brillenglashersteller entnimmt. Die in den Preislisten aufgeführten \"Unverbindlichen Preisempfehlungen\" errechnen die Brillenglashersteller mit Hilfe von unternehmensindividuellen Kalkulationsformeln. Die \"Unverbindlichen Preisempfehlungen\", die die handwerkliche Leistung des Augenoptikers (d.h. das Einarbeiten der Gläser in die Brillenfassung) einschließen, haben in der Brillenglasbranche Richtpreisfunktion und werden entsprechend von der überwiegenden Zahl der Augenoptiker auch angewandt. Neben der Preisliste für die \"Unverbindlichen Verkaufspreise\" hat der Augenoptiker noch eine weitere Liste des Brillenglasherstellers, aus der er den Preis entnehmen  kann, den er als Einstandspreis für das jeweilige Brillenglas bezahlen muss.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          55.87499999999999,
+          462.935546875
+        ],
+        [
+          541.4833374023438,
+          462.935546875
+        ],
+        [
+          541.4833374023438,
+          684.0194549560547
+        ],
+        [
+          55.87499999999999,
+          684.0194549560547
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        462.935546875,
+        541.4833374023438,
+        684.0194549560547
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen des \"Arbeitskreises Preisstrukturen\" des ZVA haben die Unternehmen 2005 bei insgesamt drei Treffen diese unternehmensindividuellen Kalkulationsformeln offengelegt und dahingehend Änderungen für die nächsten drei Jahre abgestimmt, dass Erhöhungen der Einstandspreise  in etwa 1:1 auf die \"Unverbindlichen Preisempfehlungen\" aufgeschlagen werden. Gleichzeitig</p>",
+      "page": 110,
+      "polygon": [
+        [
+          55.87499999999999,
+          702.6259765625
+        ],
+        [
+          541.5608520507812,
+          702.6259765625
+        ],
+        [
+          541.5608520507812,
+          771.8426284790039
+        ],
+        [
+          55.87499999999999,
+          771.8426284790039
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        702.6259765625,
+        541.5608520507812,
+        771.8426284790039
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          293.92578125,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          797.7701263427734
+        ],
+        [
+          293.92578125,
+          797.7701263427734
+        ]
+      ],
+      "bbox": [
+        293.92578125,
+        784.8525390625,
+        300.9120178222656,
+        797.7701263427734
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/2/Picture/0'></p>",
+      "page": 130,
+      "polygon": [
+        [
+          61.81171875,
+          35.72744140625
+        ],
+        [
+          174.49296875,
+          35.72744140625
+        ],
+        [
+          174.49296875,
+          90.90146484375
+        ],
+        [
+          61.81171875,
+          90.90146484375
+        ]
+      ],
+      "bbox": [
+        61.81171875,
+        35.72744140625,
+        174.49296875,
+        90.90146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {
+        "/page/2/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC4AXcDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKr3N9a2aF7meOJR3dsUAWKKwr7xVp0GnG7tZ47td20GJsgH3PauU1j4oy6M4M+jyNBtyZUyR9B60AekUVzXh/xnp2ueHk1lpEtrVzwZTtx9a27XUrK+Xda3UUy+qNmgC1RRRQAUUVXvL610+AzXlxHBEP45GwKALFFY8XirQJ5Vii1ezd2OFVZQSa2AQRkdKACiisjWfE+jeH2jXVL+G2MgyokYDIoA16KwtM8ZeHtZmENhq1rPKTgIkgJNbtABRRRQAUUUUAFFUI9Z0+XVZNMS5ja8jXc0QPzAfT8av0AFFFFABRVG91mw0+6tra6uY4prltsSMcFz7VeoAKKKKACiiigAoopCQoJPQUALRWbZ69pl/bXFxbXcckVuSJWVgQpHXP5VPp2p2erWgurGdJoSSodDkZBwaALdFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAFTU76LTNMuL2ZgEhQsSa+dtGsLv4oeLJLi+vbm3tp2MixRyHCxnpxkd66X44eMpyieFdIDyXMo3XAj5O30/SuX+HWoXP9kW95ooWTVtNOJ7RjgzQ44x3zk/pQB7FZeBLTw14WvLDSN8ksg3gyktluPXPpXzd498QavPqD6deSSxvE5MkRTZhunavcNY+NGlW/h67IhurbVFjwsM0W35vzr5hv9SudT1KW/u5DJPK+9mPc0AfSvw48Dxav8KIbHVGlEd2fOTaxBUEY/pXG+MPDEvw71u3n0jUbt1RRKI2kbDDOMYzXWeC/i9oVp4LsLOSK5kvoIhH5MMW7J/Oue8da1c3WlXmu65B9jnuIvI06zb7+M53MD04yO9AHt3hfXIfEfh2z1OH7s8YYj0NbFfPXwP8Yz6Xdjw5qwMUVyPMtS/GT6D24NfQtAAa8z+OJZPh/KVYghuoOK9MrzL45/8AJPpv96gD5s8ITSt4t0wGVyDOP4jX27D/AKiP/dH8q+HvB/8AyN2l/wDXcV9ww/6iP/dH8qAH15B8S7eC7+Kfg6C5RZIHbDq3QjLda9frxr4radHq3xJ8JWEzvHHOdrNGSGAy3QigCt8SdI0rRtc8Pz6Eiwak9yF2QnGVwewr0+98UWGkX+k6ZeGQXV/tSIBcjOO/5V5R4x8Lp8N9R0vxJp9zLdJ5wikiuWL8cnILE4rd8cy+f8QvAsuMb5Ub880Ad/q3ijT9G1PT9Pui4nvnCQ7VyM89fyqlrvj3RPDuqRafqEkiTyxmRAq53DOMDnrXKfEbH/CfeDPX7Uv/ALNVXxPZwXnxt8OLPGHVLcsAwyM76AOt8OfETSfEWqSabHHc212o3CO4j2Fh6jn3qXxN490vwzdQ2cqz3N5LysFum9sfTNcj4mijtvjf4Z8lFj3253bRjPz0uiRpd/HXWzOgk8mDEYYZwMKeKAKHg7V7bXPjVqV9a+YI3tT8si7WU/LwRXaa98R9J0TUm09Ybq8u0GZEtYvM2D3weK5bQbWG1+PWsCFFQPbFiFGBn5axPBOo6zFrviWew0SDUma8AaWZyCvy9OhoA9a0XxZpOu6M+qWlxi3j/wBbv4Mf1HauaT4v6A14iNFeJavJ5aXbQ4jLZx97P1rK8EeEtUTR/E9nq0UdnHqcmUSJ87AV57CueQjwpZw+FvGelLLoxmzb30PYkkjJGMdT3oA6D4jus3jnwVIhyr3SEEdwWrth4w0xvEw8PwmWW9Vdz7FyqDjqe3WvNvi5NPa6n4Un0dPMmjZWtlPfn5a3fg9DYz6Pdao0nm6vNMftjOPmRgSAPpigDW1v4naPpGpS2EcF3eTQ8y/Zot4T64NbemeK9L1fQH1m0lZraNSXBHzLjqCK4Gz10z+INVg8IeHILv8AeAXV1cOQC2Og4PvWf8NmlPgHxWJlCOJZMopyFPzZAoA7LTvinoOrXSW9it1M5DbtsWduDjnmuW0L4oTXvxGvbGeO8NkSI4YxBypx1b0Ga1/gvYWq+CEufs8Zmknl3OVGTh271Q8KxRH4zeIB5SYCIQNo4+UUAdb4i8f6V4euorJ0uLq9kXcLe2j3sB7jPHWrWgeLtM8VadcS2LOskXyyxSrtdD7j8K8wsr/VU+KuvXFjpMOoyKEX965Gwbe3BroPBeja1beK9Z1W/sYbKG7QEQxOTghcegoAyfh3/wAiT4v/AOu8/wD6E9b3wpv7bTPhiLy7lEcEU87OxPQbzWD8O/8AkSfF/wD13n/9CepfCN3pdl8FJZtYRpLMTzBkU8sd7YFAHQ2/xd0Ke8ija3voraV/LjuXgxGzZwOc10XiLxfpXhizt7vUJHEE7Kqsi569K8f8Y6lrF/4Dt2Xw7bafpIuIjC+8+Zj+E4x3HvXQ/ExFm8J+F0kG5XltQc9+lAHQw/Fvw61/9mnF1bBlLRSTRbVkx/dOeat6H8SdH1rWjpQjura5ILRi4i2CQeo5rkfiPYWv9teC4xBGF81BgKBkZWl8dQx2/wAVfCphRY8hgdgxkZWgBfFXxPm03x5Y6fDHdrZpuE6CDJc8Y2+vevV7K7S+s4rlFdVkUMA4wRn1FeXeMoo/+Fu+HR5aYMcmflHP3a9XACjCgADsKAFooooAKKKKACiiigArn/F+vTaFo0klpZz3d3ICsUcSbufeugrL1+/bTdKmuYrSS6mVf3ccabiT2oA+atVg1PQBLd6md/ibWWwsR+Ywoe+O3cVzT6dqHhzXM6HdSSXdnEHu3T7qNnBHuPrXYa2NV0m4uPFHiVEGs3p8uxtGOTHnuR24JrHayuLe3g8PxZOpXx83UJc8onUqT+FAFHX/AInah4i0B9N1DTrRpW/5elQK/wCgrhK9V0rwxY+LtZufIAj0HSISPOxgy4zjn1yR3ry5gn2kqPubsfhmgDrvCnxBu/CelT2lnp9rLLI+8XEqhmTp0yDTZpdR8Va1aXfiS7lSC74imx8oODjA6CuhvvDdt4Wg0PX4rf7RpOowhbgMM7WOf/rVDHpywyXHhq5dTBc/v9LuSeN319MA0AS6bpV7q8f9kRkReItHbdbEnHmoP4Qe55Jr6C8B+Ib/AFnSFh1awntNRt12zCRMBj6j1rwbSLTU/EBhu9NfZ4m0dsSxE7TKg7+5ya+ifCmqXOraPHNfafJZXoG2aN0xz7etAG7XmXxz/wCSfTf71em15l8c/wDkn03+9QB80eD/APkbtL/67ivuGH/UR/7o/lXw94P/AORu0v8A67ivuGH/AFEf+6P5UAPrzP4i+GPEOp+KdD1vQYoJZNO+bbM+0E5PsfWvTKKAPHbzwl448a6lZJ4mFpbaZbyiRooJNxY/kPWuh8f+EtT1FtI1PQvLa/0tw0aSNgMAD359a9BooA8gvfDHjTxF4q0HW9ShtbeOwlBaGOXdxzz0HNdJqnhfUbv4maTrkYj+x20BSQluc7s9K7uigDhNe8L6jqHxN0LXIRH9js4ispLc53Z4FZ/iDwz4i0vxz/wk/huKC5M8fl3EM0mzPTpgH0r0uigDzDwh4T8SWvxCvPEetCAC7gKlY3ztPGB09qiTQPFng3xDqdx4etLW+sNQfzSk0pQo2MdgfevVKKAPOvD/AIL1lfCOtWuq3zrqGqEtlJCRCcYAU1zF/wCFPHOueHrbwvqFrafZopctemYs7Lk9iOuD617ZRQB574m8H6jf654UuLQRtDpjxmYs2DhfT1ptr4S1XQfiG+paV5f9kXwzdQlsbW4GQPzr0SigDyHSfDXjTwpqOrWWkQWktlfy+alxJLhoyc9sHPWtPwV4L1jRPCeu6ffmJrq9ZmQq2QSc9ePevS6KAOS+HOgXvhvwnFp1+EE6yyMdhyMFiR/Oucl8N+J9H+JtxrelW9tPYXu1ZfMkKsgAAJAwa9QooA8w1Hw/4m0Dxpca/wCH7a3u4ryMCeCWQptYADIwD71p+C/D2vQXep6vr8oF3eEbLeOQskagEe3t2rvKKAPN/CHg7VNH8NeILG6WMTXssrRbWyMMWIz+YqnB8PtTl+EsnhyZo0vhO8yYbK53Ejn8a9UooA8X1jw34+8TeFrfRry2sraK0KYKTEmTZwP4eK6fxf4U1PWdB0G1tljMtnJA0u5sDCYzj8q9BooA4Lxj4V1HWdV8OXFqI9lhIrTbmxwCp4/KmeLPCmpav460LVbYRm2s93mlmweSvT8q9AooA848f+GdfvPEWla9oEcE09mGVo5n2gg49j6V3unPdSWEL3saR3JUGREOQDjnBq1RQAUUUUAFFFFABRRRQAVHMHML+WFMmDt3dM1JRQB4B4y0pdE1KbxF4svVvNSf5bGwjOVU9vT1PauJMd/Z2ywMrt4i1xxvUj5o4jz+ByDX0d4j8OW9x5mpW+nRXepquIvOY7QfXHNed+GNCg8OeJLjWvFcxudZc5VI1DJH9On5YoA57xfqlr4A8CR+D9LKyalOo+2yJ/Cfr65Arxf+zL37XHbG3fz5BlUxya+lNXh0fW9ZuE1VGt1lKsf3Q3Y3DAJ7c1wWui2j+PFpHEqiBJSoAHGMGgCx8ONestd8M3XgbxASjMCtq7j7p4wv6VgjSrtvtXhe93LrGnPvsGPG/H8IPpjJr1L7BoukeIgNMgWaVpzL86gYfHOD6YpnjbSNO8aahaXejTSWmuwNhGZdqsRngmgDmPCunt4pvYNU0i9GneKLMhbu3fCiXHc/n6V9B2IuBZxfa1Rbjb+82HIzXK+GPDXyQajrOnQQaxGMPLbsQH9zgCuyoAK8y+Of/JPpv96vTa8y+Of/ACT6b/eoA+aPB/8AyN2l/wDXcV9ww/6iP/dH8q+HvB//ACN2l/8AXcV9ww/6iP8A3R/KgB9FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcN420C4v7mCSxtd8kh2vICflxzyK7migDze0ey0vwxdX/AIhs5RNbMSXdMFzxjH41896rd61qHj7+2ksZlmuJftEUeznZ7fka+yJreG4jMc0SSIequoINVjpOnmdJ/scHmIu1W8scD0oA8/hvNP8AEfhH+1NLspPtkzDzQi/NG/GfpV7wt4durTXpJr223Io8xJmyMv06fSu5htbe2QpBBHGpOSEUAfpU1ABRRRQAV5t8boZJ/AMyRIWbd0Fek1xPxR/5FGT61FSXJBy7HVgqCxGIhRbspOx8t+EdNvE8WaYzW7gCYZOK+14f9RH/ALo/lXzF4dA/4SGx4/5aivp6P/VJ/uisMLXdZNtHp55lNPLpwjCTd11HUUUV1HhBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXE/FH/kUZPrXbVxPxR/5FGT61jiP4Uj0co/36l6o8V8O/wDIw2P/AF1FfT0f+qT/AHRXzD4d/wCRhsf+uor6ej/1Sf7orky74ZH0XGP8Wl6P8x1FFFeifGBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXE/FH/kUZPrXbVxPxR/5FGT61jiP4Uj0co/36l6o8V8O/8jDY/wDXUV9PR/6pP90V8w+Hf+Rhsf8ArqK+no/9Un+6K5Mu+GR9Fxj/ABaXo/zHUUUV6J8YFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFcT8Uf8AkUZPrXbVyPxGsri+8MSQ20ZkcnoKwxLSoyb7HoZVJRxtJva6PDfDv/Iw2P8A11FfT0f+qT/dFfPGh+GdXh1yzkezkCrICSRX0PGMRqD6CuLLKkJxlyu59BxdVhUq03Bp6MdRRRXqHx4UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVm63/AMg9q0qzdb/5B7VwZp/udT0Zth/4sfU5y0/4+4v96u0X7o+lcXaf8fcX+9XaL90fSvB4U/hVPVHXmHxRFooor6084KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKzdb/5B7VpVm63/AMg9q4M0/wBzqejNsP8AxY+pzlp/x9xf71dov3R9K4u0/wCPuL/ertF+6PpXg8KfwqnqjrzD4oi0UUV9aecFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFZut/8g9qKK4M0/3Op6M2w/8AFj6nOWn/AB9xf71dov3R9KKK8HhT+FU9UdeYfFEWiiivrTzgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k="
+      }
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">stimmten sich die Unternehmensvertreter über die Frage der Einrechnung der Mehrwertsteuererhöhung von 16 auf 19% in die Kalkulationsformeln ab. Durch die Absprache war das Preissetzungsverhalten der Brillenglashersteller untereinander bekannt. Dadurch konnten sie regelmäßig  die Einstandspreise der Augenoptiker erhöhen, während die Augenoptiker diese Preiserhöhungen gleichzeitig über die \"Unverbindlichen Preisempfehlungen\" an ihre Kunden weitergeben konnten.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          55.87499999999999,
+          127.8623046875
+        ],
+        [
+          541.6160888671875,
+          127.8623046875
+        ],
+        [
+          541.6160888671875,
+          216.71844482421875
+        ],
+        [
+          55.87499999999999,
+          216.71844482421875
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        127.8623046875,
+        541.6160888671875,
+        216.71844482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es handelt sich in beiden Fällen um sog. Hardcore-Kartellverstöße. Die Taten \"HERRZ-Kreis\" und  \"Arbeitskreis Preisstrukturen\" stehen zueinander in Tatmehrheit. Die Ermittlungen haben nicht ergeben, dass die Taten auf Basis einer Grundabsprache praktiziert wurden.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          55.87499999999999,
+          235.5791015625
+        ],
+        [
+          541.6273193359375,
+          235.5791015625
+        ],
+        [
+          541.6273193359375,
+          285.70745849609375
+        ],
+        [
+          55.87499999999999,
+          285.70745849609375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        235.5791015625,
+        541.6273193359375,
+        285.70745849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat für die Bebußung in beiden Fällen ausschließlich das Recht der 7.  GWB-Novelle angewendet, die im Juli 2005 in Kraft getreten ist. Danach können gegen Unternehmen Geldbußen bis zu einer Höhe von 10% ihrer weltweiten Konzernumsätze verhängt werden.  Die Geldbußen wurden jeweils entsprechend der Bußgeldleitlinien des Bundeskartellamts<a href=\"#page-2-0\">1</a> anhand  der Umsatzerlöse bemessen, die die Unternehmen jeweils mit den von den Absprachen betroffenen Brillengläsern (ohne die Umsätze mit Filialisten und die Internet-Umsätze) zwischen August  2005 und Mai 2008 in Deutschland erzielt haben (sog. tatbezogener Umsatz). Das Bundeskartellamt hat bei der Bußgeldbemessung gegenüber der Rodenstock GmbH ihre umfangreiche Kooperation bei der Aufklärung beider Vorwürfe im Rahmen der Bonusregelung des Bundeskartellamtes  berücksichtigt und eine nicht unerhebliche Reduktion ihrer Geldbuße gewährt. Ebenfalls reduziert  wurden die gegenüber der Hoya Lens Deutschland GmbH bzw. der Carl Zeiss Vision GmbH und  dem ZVA verhängten Geldbußen für ihre Kooperation hinsichtlich der Vorwürfe \"HERRZ-Kreis\"  bzw. \"Arbeitskreis Preisstrukturen\". Darüber hinaus haben zwei Unternehmen und der Verband  sich zu einer einvernehmlichen Verfahrensbeendigung (sog. Settlement) bereit erklärt, wodurch die  Geldbußen noch einmal reduziert werden konnten.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          55.87499999999999,
+          299.3046875
+        ],
+        [
+          541.6051025390625,
+          299.3046875
+        ],
+        [
+          541.6051025390625,
+          576.1932678222656
+        ],
+        [
+          55.87499999999999,
+          576.1932678222656
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        299.3046875,
+        541.6051025390625,
+        576.1932678222656
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus Gründen der Verhältnismäßigkeit hat das Bundeskartellamt die nach den Regeln der Zumessung in Fällen der Tatmehrheit errechneten Geldbußen abgesenkt, u.a. weil jeweils derselbe tatbezogene Umsatz und Zeitraum bei der Bußgeldbemessung zugrunde gelegt wurden. Daraus errechneten sich insgesamt Geldbußen von rd. 85 Mio. Euro für den \"HERRZ-Kreis\" und rd. 30 Mio.  Euro für den \"Arbeitskreis Preisstrukturen\".</p>",
+      "page": 130,
+      "polygon": [
+        [
+          55.87499999999999,
+          594.9091796875
+        ],
+        [
+          541.6160888671875,
+          594.9091796875
+        ],
+        [
+          541.6160888671875,
+          683.1598968505859
+        ],
+        [
+          55.87499999999999,
+          683.1598968505859
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        594.9091796875,
+        541.6160888671875,
+        683.1598968505859
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-2-0\"></span></p>",
+      "page": 130,
+      "polygon": [
+        [
+          55.87499999999999,
+          744.5615234375
+        ],
+        [
+          59.36718749999999,
+          744.5615234375
+        ],
+        [
+          59.36718749999999,
+          755.2509765625
+        ],
+        [
+          55.87499999999999,
+          755.2509765625
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        744.5615234375,
+        59.36718749999999,
+        755.2509765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          293.92578125,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          784.8525390625
+        ],
+        [
+          300.9120178222656,
+          797.7701263427734
+        ],
+        [
+          293.92578125,
+          797.7701263427734
+        ]
+      ],
+      "bbox": [
+        293.92578125,
+        784.8525390625,
+        300.9120178222656,
+        797.7701263427734
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup> 1</sup> Bekanntmachung Nr. 38/2006 über die Festsetzung von Geldbußen nach § 81 Abs. 4 S. 2 GWB gegen Unternehmen  und Unternehmensvereinigungen vom 15. September 2006.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          56.63999938964844,
+          747.4901275634766
+        ],
+        [
+          540.7802124023438,
+          747.4901275634766
+        ],
+        [
+          540.7802124023438,
+          782.6073951721191
+        ],
+        [
+          56.63999938964844,
+          782.6073951721191
+        ]
+      ],
+      "bbox": [
+        56.63999938964844,
+        747.4901275634766,
+        540.7802124023438,
+        782.6073951721191
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

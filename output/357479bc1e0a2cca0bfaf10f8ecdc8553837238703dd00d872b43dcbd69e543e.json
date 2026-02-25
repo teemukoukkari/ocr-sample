@@ -1,0 +1,5606 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          29.91640625,
+          30.1771484375
+        ],
+        [
+          165.64609375,
+          30.1771484375
+        ],
+        [
+          165.64609375,
+          89.8736328125
+        ],
+        [
+          29.91640625,
+          89.8736328125
+        ]
+      ],
+      "bbox": [
+        29.91640625,
+        30.1771484375,
+        165.64609375,
+        89.8736328125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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eotj4OatJpBRRRTJCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8w+M3/IJ0/wD67n/0E14/B/x8Rf74/nXsHxm/5BOn/wDXc/8AoJrx+D/j4i/3x/OvExn8Zn6hw1/yLI/P8z6nsf8AkH23/XJf5VYqvY/8g+2/65L/ACqxXtLY/MZ/EwooopkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeYfGb/AJBOn/8AXc/+gmvH4P8Aj4i/3x/OvYPjN/yCdP8A+u5/9BNePwf8fEX++P514mM/jM/UOGv+RZH5/mfU9j/yD7b/AK5L/KrFV7H/AJB9t/1yX+VWK9pbH5jP4mFFFFMkKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDzD4zf8gnT/wDruf8A0E14/B/x8Rf74/nXsHxm/wCQTp//AF3P/oJrx+D/AI+Iv98fzrxMZ/GZ+ocNf8iyPz/M+p7H/kH23/XJf5VYqvY/8g+2/wCuS/yqxXtLY/MZ/EwooopkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAedfFnTrvUdMsUtIGlZZskAjgYPrXlcPhjWRPGTYSYDDuPX61794j/ANRD/vf0rnl++PrXxecZlUoYx04pW0Pscpzarh8IqUYprU7WyUrYwKwwRGoI/Cp6ZF/qk/3RT6+yi7xR8fJ3bYUUUVQgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAMTxH/qIf8Ae/pXPL98fWuh8R/6iH/e/pXPL98fWvzrP/8AkYS+X5HuYL+CjuYv9Un+6KfTIv8AVJ/uin1+hw+FHiPcKKKKoQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGJ4j/wBRD/vf0rnl++PrRRX51n//ACMJfL8j3MF/BR3MX+qT/dFPoor9Dh8KPEe4UUUVQgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">schlossen:</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.94400024414062,
+          706.7792816162109
+        ],
+        [
+          122.99760437011719,
+          706.7792816162109
+        ],
+        [
+          122.99760437011719,
+          717.8192901611328
+        ],
+        [
+          70.94400024414062,
+          717.8192901611328
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        706.7792816162109,
+        122.99760437011719,
+        717.8192901611328
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Vergabekammer des Bundes VK3-18/10</p>",
+      "page": 119,
+      "polygon": [
+        [
+          68.6796875,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          156.499267578125
+        ],
+        [
+          68.6796875,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        125.806640625,
+        226.42031860351562,
+        156.499267578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Beschluss</b></h1>",
+      "page": 119,
+      "polygon": [
+        [
+          274.6100158691406,
+          202.6884765625
+        ],
+        [
+          334.958984375,
+          202.6884765625
+        ],
+        [
+          334.958984375,
+          216.6800537109375
+        ],
+        [
+          274.6100158691406,
+          216.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.6100158691406,
+        202.6884765625,
+        334.958984375,
+        216.6800537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/3",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th>In dem Nachprüfungsverfahren</th><th></th></tr><tr><td></td><td>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td>Antragstellerin</td></tr><tr><td></td><td>-</td></tr><tr><td>gegen</td><td></td></tr><tr><td></td><td>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td>Antragsgegnerin</td></tr><tr><td></td><td>-</td></tr><tr><td></td><td>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td>Beigeladene</td></tr><tr><td></td><td>-</td></tr></tbody></table>",
+      "page": 119,
+      "polygon": [
+        [
+          64.0234375,
+          270.525390625
+        ],
+        [
+          501.71093749999994,
+          270.525390625
+        ],
+        [
+          501.71093749999994,
+          623.2292785644531
+        ],
+        [
+          64.0234375,
+          623.2292785644531
+        ]
+      ],
+      "bbox": [
+        64.0234375,
+        270.525390625,
+        501.71093749999994,
+        623.2292785644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe der Baumaßnahme \"Sanierung, energetische Optimierung und Modernisierung des Verwaltungsgebäudes ...\" hat die 3. Vergabekammer des Bundes durch die  Vorsitzende Direktorin beim Bundeskartellamt Dr. Herlemann, die hauptamtliche Beisitzerin  Regierungsdirektorin Brauer und den ehrenamtlichen Beisitzer Dr. Bayer am 11. März 2010 be-</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.94400024414062,
+          630.9092712402344
+        ],
+        [
+          541.603271484375,
+          630.9092712402344
+        ],
+        [
+          541.603271484375,
+          698.8592834472656
+        ],
+        [
+          70.94400024414062,
+          698.8592834472656
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        630.9092712402344,
+        541.603271484375,
+        698.8592834472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 137,
+      "polygon": [
+        [
+          294.798828125,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          85.79925537109375
+        ],
+        [
+          294.798828125,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.00390625,
+        315.169921875,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/136",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Antragsgegnerin wird untersagt, den Zuschlag auf das Angebot der Beigeladenen  zu erteilen. Bei fortbestehender Beschaffungsabsicht wird der Antragsgegnerin  aufgegeben, eine Neuwertung unter Berücksichtigung der Rechtsauffassung der  Vergabekammer durchzuführen.</li><li block-type=\"ListItem\">2. Die Antragsgegnerin und die Beigeladene tragen die Kosten des Verfahrens (Gebühren  und Auslagen) als Gesamtschuldner sowie die zur zweckentsprechenden  Rechtsverfolgung notwendigen Auslagen der Antragstellerin je zur Hälfte.</li><li block-type=\"ListItem\">3. Die Hinzuziehung eines Verfahrensbevollmächtigten durch die Antragstellerin wird für  notwendig erklärt.</li></ul></p>",
+      "page": 137,
+      "polygon": [
+        [
+          88.46875,
+          121.2841796875
+        ],
+        [
+          541.5363159179688,
+          121.2841796875
+        ],
+        [
+          541.5363159179688,
+          298.482421875
+        ],
+        [
+          88.46875,
+          298.482421875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        121.2841796875,
+        541.5363159179688,
+        298.482421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 137,
+      "polygon": [
+        [
+          283.3699951171875,
+          336.306640625
+        ],
+        [
+          326.228515625,
+          336.306640625
+        ],
+        [
+          326.228515625,
+          347.9292907714844
+        ],
+        [
+          283.3699951171875,
+          347.9292907714844
+        ]
+      ],
+      "bbox": [
+        283.3699951171875,
+        336.306640625,
+        326.228515625,
+        347.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 137,
+      "polygon": [
+        [
+          310.513671875,
+          368.20928955078125
+        ],
+        [
+          318.4791564941406,
+          368.20928955078125
+        ],
+        [
+          318.4791564941406,
+          379.2492980957031
+        ],
+        [
+          310.513671875,
+          379.2492980957031
+        ]
+      ],
+      "bbox": [
+        310.513671875,
+        368.20928955078125,
+        318.4791564941406,
+        379.2492980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/137",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die Antragsgegnerin (Ag) führt gegenwärtig unter der Maßnahmenummer ... ein Offenes  Verfahren zur Vergabe der Baumaßnahme \"Sanierung, energetische Optimierung und  Modernisierung des Verwaltungsgebäudes ...\" durch.</li><li block-type=\"ListItem\">a) Im Angebotsaufforderungsschreiben waren Nebenangebote zugelassen worden. In der  Leistungsbeschreibung zu Los 1 (Installationsarbeiten für Heiz-/ Kühldecke) war das Heiz-/  Kühldeckensystem folgendermaßen beschrieben:</li></ul></p>",
+      "page": 137,
+      "polygon": [
+        [
+          70.94400024414062,
+          416.06640625
+        ],
+        [
+          541.7290649414062,
+          416.06640625
+        ],
+        [
+          541.7290649414062,
+          556.673828125
+        ],
+        [
+          70.94400024414062,
+          556.673828125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        416.06640625,
+        541.7290649414062,
+        556.673828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>\"</i><i>2.1</i> <i>Heiz-/Kühldeckensystem</i></h4>",
+      "page": 137,
+      "polygon": [
+        [
+          113.54000091552734,
+          587.5087890625
+        ],
+        [
+          265.3006591796875,
+          587.5087890625
+        ],
+        [
+          265.3006591796875,
+          598.7492828369141
+        ],
+        [
+          113.54000091552734,
+          598.7492828369141
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        587.5087890625,
+        265.3006591796875,
+        598.7492828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Kombinierte Kühl-</i> <i>und Heizstrahldecke als fugenlose Decke für Einzelräume und </i> <i>Foyerbereich zur Erzielung eines behaglichen Arbeitsplatzklimas.</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          112.91406249999999,
+          606.4131774902344
+        ],
+        [
+          541.592529296875,
+          606.4131774902344
+        ],
+        [
+          541.592529296875,
+          630.2666015625
+        ],
+        [
+          112.91406249999999,
+          630.2666015625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        606.4131774902344,
+        541.592529296875,
+        630.2666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Es ist ein neutrales Prüfgutachten der Heiz-</i> <i>und Kühlleistungsdaten nach EN 14240 </i> <i>bzw. EN 14037 erforderlich. </i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          112.91406249999999,
+          636.8447265625
+        ],
+        [
+          541.6400146484375,
+          636.8447265625
+        ],
+        [
+          541.6400146484375,
+          661.3731842041016
+        ],
+        [
+          112.91406249999999,
+          661.3731842041016
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        636.8447265625,
+        541.6400146484375,
+        661.3731842041016
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          113.20507812499999,
+          675.6831817626953
+        ],
+        [
+          130.0447998046875,
+          675.6831817626953
+        ],
+        [
+          130.0447998046875,
+          686.7231903076172
+        ],
+        [
+          113.20507812499999,
+          686.7231903076172
+        ]
+      ],
+      "bbox": [
+        113.20507812499999,
+        675.6831817626953,
+        130.0447998046875,
+        686.7231903076172
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Normkühlleistung nach EN 14240 (8K):</i> <i>62 W/m²</i> <i>Kühlleistung nach Auslegung: 71 W/m²</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          112.91406249999999,
+          698.92578125
+        ],
+        [
+          360.35772705078125,
+          698.92578125
+        ],
+        [
+          360.35772705078125,
+          724.643180847168
+        ],
+        [
+          112.91406249999999,
+          724.643180847168
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        698.92578125,
+        360.35772705078125,
+        724.643180847168
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          113.54000091552734,
+          725.6494140625
+        ],
+        [
+          130.0447998046875,
+          725.6494140625
+        ],
+        [
+          130.0447998046875,
+          737.2431793212891
+        ],
+        [
+          113.54000091552734,
+          737.2431793212891
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        725.6494140625,
+        130.0447998046875,
+        737.2431793212891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Flächenverhältnis Aktivfläche (Aa) </i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          111.74999999999999,
+          738.9191818237305
+        ],
+        [
+          282.882568359375,
+          738.9191818237305
+        ],
+        [
+          282.882568359375,
+          752.7841796875
+        ],
+        [
+          111.74999999999999,
+          752.7841796875
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        738.9191818237305,
+        282.882568359375,
+        752.7841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>zur Installationsfläche (Ai):</i> <i>99 %</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          111.74999999999999,
+          751.5191802978516
+        ],
+        [
+          343.94122314453125,
+          751.5191802978516
+        ],
+        [
+          343.94122314453125,
+          762.5591812133789
+        ],
+        [
+          111.74999999999999,
+          762.5591812133789
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        751.5191802978516,
+        343.94122314453125,
+        762.5591812133789
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 137,
+      "polygon": [
+        [
+          113.54000091552734,
+          764.1191787719727
+        ],
+        [
+          130.0447998046875,
+          764.1191787719727
+        ],
+        [
+          130.0447998046875,
+          775.1591796875
+        ],
+        [
+          113.54000091552734,
+          775.1591796875
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        764.1191787719727,
+        130.0447998046875,
+        775.1591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          292.470703125,
+          74.4150390625
+        ],
+        [
+          314.6463317871094,
+          74.4150390625
+        ],
+        [
+          314.6463317871094,
+          85.79925537109375
+        ],
+        [
+          292.470703125,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.470703125,
+        74.4150390625,
+        314.6463317871094,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Modulabstand der Kühlmäander:</i> <i>90 mm</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.54000091552734,
+          122.9287109375
+        ],
+        [
+          352.4420166015625,
+          122.9287109375
+        ],
+        [
+          352.4420166015625,
+          134.28314208984375
+        ],
+        [
+          113.54000091552734,
+          134.28314208984375
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        122.9287109375,
+        352.4420166015625,
+        134.28314208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Registerlänge:</i> <i>2001-2650 mm</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.49609374999999,
+          135.84320068359375
+        ],
+        [
+          392.9053649902344,
+          135.84320068359375
+        ],
+        [
+          392.9053649902344,
+          146.8831787109375
+        ],
+        [
+          113.49609374999999,
+          146.8831787109375
+        ]
+      ],
+      "bbox": [
+        113.49609374999999,
+        135.84320068359375,
+        392.9053649902344,
+        146.8831787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Gewicht der Thermoplatten:</i> <i>10,2 kg/m²</i> <i>Betriebsgewicht:</i> <i>21,0 kg/m²</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.54000091552734,
+          159.51953125
+        ],
+        [
+          372.5,
+          159.51953125
+        ],
+        [
+          372.5,
+          184.80316162109375
+        ],
+        [
+          113.54000091552734,
+          184.80316162109375
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        159.51953125,
+        372.5,
+        184.80316162109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.20507812499999,
+          186.48321533203125
+        ],
+        [
+          130.0447998046875,
+          186.48321533203125
+        ],
+        [
+          130.0447998046875,
+          197.523193359375
+        ],
+        [
+          113.20507812499999,
+          197.523193359375
+        ]
+      ],
+      "bbox": [
+        113.20507812499999,
+        186.48321533203125,
+        130.0447998046875,
+        197.523193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>gewähltes Fabrikat: .......................</i> <i>gewählter Typ:</i> <i>.......................</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.54000091552734,
+          209.2666015625
+        ],
+        [
+          282.9169006347656,
+          209.2666015625
+        ],
+        [
+          282.9169006347656,
+          235.44317626953125
+        ],
+        [
+          113.54000091552734,
+          235.44317626953125
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        209.2666015625,
+        282.9169006347656,
+        235.44317626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Komplett liefern und montieren.</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.33203124999999,
+          249.5576171875
+        ],
+        [
+          266.4440002441406,
+          249.5576171875
+        ],
+        [
+          266.4440002441406,
+          260.76318359375
+        ],
+        [
+          112.33203124999999,
+          260.76318359375
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        249.5576171875,
+        266.4440002441406,
+        260.76318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.33203124999999,
+          274.2255859375
+        ],
+        [
+          130.0447998046875,
+          274.2255859375
+        ],
+        [
+          130.0447998046875,
+          286.1131591796875
+        ],
+        [
+          112.33203124999999,
+          286.1131591796875
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        274.2255859375,
+        130.0447998046875,
+        286.1131591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/1/SectionHeader/4",
+        "4": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>2.25 Zulage für Mineralwollauflage</i></h2>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          311.638671875
+        ],
+        [
+          292.6529541015625,
+          311.638671875
+        ],
+        [
+          292.6529541015625,
+          323.44927978515625
+        ],
+        [
+          112.91406249999999,
+          323.44927978515625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        311.638671875,
+        292.6529541015625,
+        323.44927978515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Akustik-</i> <i>und Dämmfilzauflage 20mm, in schwarzer PE-Folie rieselsicher </i> <i>eingeschweißt, Rohdichte 30 kg/m³, rückseitig auf die Kühldeckenkonstruktion </i> <i>vollflächig aufgelegen. (...)</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          330.1396484375
+        ],
+        [
+          541.6463012695312,
+          330.1396484375
+        ],
+        [
+          541.6463012695312,
+          367.3531494140625
+        ],
+        [
+          112.91406249999999,
+          367.3531494140625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        330.1396484375,
+        541.6463012695312,
+        367.3531494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Schallabsorptionsgrad nach EN 20354:</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.33203124999999,
+          392.220703125
+        ],
+        [
+          304.40234375,
+          392.220703125
+        ],
+        [
+          304.40234375,
+          404.6731872558594
+        ],
+        [
+          112.33203124999999,
+          404.6731872558594
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        392.220703125,
+        304.40234375,
+        404.6731872558594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>f/Hz 125 250 500 1000 2000 4000 5000</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          411.1328125
+        ],
+        [
+          327.1015625,
+          411.1328125
+        ],
+        [
+          327.1015625,
+          424.2890625
+        ],
+        [
+          112.91406249999999,
+          424.2890625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        411.1328125,
+        327.1015625,
+        424.2890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>as: 0,41 0,51 0,46 0,48 0,46 0,54 0,62</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          429.22265625
+        ],
+        [
+          324.7734375,
+          429.22265625
+        ],
+        [
+          324.7734375,
+          441.8731689453125
+        ],
+        [
+          112.91406249999999,
+          441.8731689453125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        429.22265625,
+        324.7734375,
+        441.8731689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die Schallabsorptionswerte nach DIN EN 20 354 sind über ein Prüfzeugnis eines </i> <i>unabhängigen Prüfinstitutes bei Registervollbelegung nachzuweisen. Bei </i> <i>Nichtbeachtung kann das Angebot aus dem Bieterverfahren ausgeschlossen werden.</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          468.1732177734375
+        ],
+        [
+          541.573974609375,
+          468.1732177734375
+        ],
+        [
+          541.573974609375,
+          505.2822265625
+        ],
+        [
+          112.91406249999999,
+          505.2822265625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        468.1732177734375,
+        541.573974609375,
+        505.2822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/14",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>Titel 3. Hydraulik</i></h4>",
+      "page": 130,
+      "polygon": [
+        [
+          112.91406249999999,
+          530.8292541503906
+        ],
+        [
+          201.68336486816406,
+          530.8292541503906
+        ],
+        [
+          201.68336486816406,
+          541.8692626953125
+        ],
+        [
+          112.91406249999999,
+          541.8692626953125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        530.8292541503906,
+        201.68336486816406,
+        541.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "4": "/page/2/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.20507812499999,
+          549.4131774902344
+        ],
+        [
+          130.0447998046875,
+          549.4131774902344
+        ],
+        [
+          130.0447998046875,
+          560.4531555175781
+        ],
+        [
+          113.20507812499999,
+          560.4531555175781
+        ]
+      ],
+      "bbox": [
+        113.20507812499999,
+        549.4131774902344,
+        130.0447998046875,
+        560.4531555175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "4": "/page/2/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/16",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>3.2 Hydraul. Anbindung der Wasserkreise</i></h3>",
+      "page": 130,
+      "polygon": [
+        [
+          111.74999999999999,
+          567.7744140625
+        ],
+        [
+          331.37384033203125,
+          567.7744140625
+        ],
+        [
+          331.37384033203125,
+          579.1893005371094
+        ],
+        [
+          111.74999999999999,
+          579.1893005371094
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        567.7744140625,
+        331.37384033203125,
+        579.1893005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i> <i>Ausführung je Achse wie folgt:</i> <i>Kupferrohre mit </i> <i>Nennweite (...)\"</i></p>",
+      "page": 130,
+      "polygon": [
+        [
+          113.54000091552734,
+          581.7529296875
+        ],
+        [
+          261.5091247558594,
+          581.7529296875
+        ],
+        [
+          261.5091247558594,
+          635.6931762695312
+        ],
+        [
+          113.54000091552734,
+          635.6931762695312
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        581.7529296875,
+        261.5091247558594,
+        635.6931762695312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Die Antragstellerin (ASt) gab nach Aufforderung durch die Ag fristgerecht zum 14.  Dezember 2009 ein Hauptangebot sowie ein Nebenangebot für Los 1 (Installationsarbeiten  für eine Heiz-/ Kühldecke) ab. Das Angebotsschreiben der ASt zum Hauptangebot hat u.a.  folgenden Inhalt:</p>",
+      "page": 130,
+      "polygon": [
+        [
+          70.94400024414062,
+          666.857421875
+        ],
+        [
+          541.6270751953125,
+          666.857421875
+        ],
+        [
+          541.6270751953125,
+          736.2992858886719
+        ],
+        [
+          70.94400024414062,
+          736.2992858886719
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        666.857421875,
+        541.6270751953125,
+        736.2992858886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          295.010009765625,
+          74.75927734375
+        ],
+        [
+          314.6463317871094,
+          74.75927734375
+        ],
+        [
+          314.6463317871094,
+          85.79925537109375
+        ],
+        [
+          295.010009765625,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.75927734375,
+        314.6463317871094,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Anbei übersenden wir Ihnen unser Angebot auf Grundlage des uns zugegangenen </i> <i>Leistungsverzeichnisses über die Lieferung und Montage einer ...</i> <i>Kühldecke, System </i> <i>(...)</i> <i>für das oben genannte Bauvorhaben.</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          112.91406249999999,
+          122.1064453125
+        ],
+        [
+          541.7257080078125,
+          122.1064453125
+        ],
+        [
+          541.7257080078125,
+          159.6031494140625
+        ],
+        [
+          112.91406249999999,
+          159.6031494140625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        122.1064453125,
+        541.7257080078125,
+        159.6031494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Evtl. Abweichungen bzw. Ergänzungen zum Ausschreibungstext haben wir im </i> <i>Anschreiben vermerkt. </i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          112.91406249999999,
+          184.5986328125
+        ],
+        [
+          541.4283447265625,
+          184.5986328125
+        ],
+        [
+          541.4283447265625,
+          209.523193359375
+        ],
+        [
+          112.91406249999999,
+          209.523193359375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        184.5986328125,
+        541.4283447265625,
+        209.523193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Bei dem angebotenen Kühldeckensystem werden die bauseitigen Deckenplatten </i> <i>(Thermoplatten ...</i> <i>mm) direkt mit den Kühlregistern verschraubt. [Es folgen weitere </i> <i>Ausführungen zur Installation -</i> <i>Anmerkung der Kammer.]\"</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          112.91406249999999,
+          235.5791015625
+        ],
+        [
+          541.5557861328125,
+          235.5791015625
+        ],
+        [
+          541.5557861328125,
+          272.16314697265625
+        ],
+        [
+          112.91406249999999,
+          272.16314697265625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        235.5791015625,
+        541.5557861328125,
+        272.16314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beigeladene (Bg) reichte ein Angebot mit folgendem Anschreiben ein:</p>",
+      "page": 145,
+      "polygon": [
+        [
+          91.9609375,
+          304.72930908203125
+        ],
+        [
+          451.9431457519531,
+          304.72930908203125
+        ],
+        [
+          451.9431457519531,
+          316.1611328125
+        ],
+        [
+          91.9609375,
+          316.1611328125
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        304.72930908203125,
+        451.9431457519531,
+        316.1611328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Mit Abgabe dieser Kurzfassung erkennen wir den Wortlaut des </i> <i>Leistungsverzeichnisses als allgemeinverbindlich an.</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          112.91406249999999,
+          348.2294921875
+        ],
+        [
+          541.5056762695312,
+          348.2294921875
+        ],
+        [
+          541.5056762695312,
+          372.0751953125
+        ],
+        [
+          112.91406249999999,
+          372.0751953125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        348.2294921875,
+        541.5056762695312,
+        372.0751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Zu einzelnen Positionen des Leistungsverzeichnisses ergänzen wir die </i> <i>Leistungsbeschreibung. Nachstehend sind auch die Abfragen zu Fabrikaten und </i> <i>Ausführung in einzelnen Positionen aufgeführt. </i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          111.74999999999999,
+          379.59320068359375
+        ],
+        [
+          541.5277709960938,
+          379.59320068359375
+        ],
+        [
+          541.5277709960938,
+          416.06640625
+        ],
+        [
+          111.74999999999999,
+          416.06640625
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        379.59320068359375,
+        541.5277709960938,
+        416.06640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/144",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>2</i> <i>Heiz-</i> <i>und Kühldeckensystem</i></li><li block-type=\"ListItem\"><i>2.1</i> <i>Heiz-</i> <i>und Kühldeckensystem:</i></li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          112.91406249999999,
+          442.2331848144531
+        ],
+        [
+          322.7967224121094,
+          442.2331848144531
+        ],
+        [
+          322.7967224121094,
+          471.8731689453125
+        ],
+        [
+          112.91406249999999,
+          471.8731689453125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        442.2331848144531,
+        322.7967224121094,
+        471.8731689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Fabrikat</i><i>: ...</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          176.9375,
+          478.55859375
+        ],
+        [
+          258.421875,
+          478.55859375
+        ],
+        [
+          258.421875,
+          490.6293029785156
+        ],
+        [
+          176.9375,
+          490.6293029785156
+        ]
+      ],
+      "bbox": [
+        176.9375,
+        478.55859375,
+        258.421875,
+        490.6293029785156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Typ</i><i>:</i> <i>...</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          175.19140625,
+          498.1732177734375
+        ],
+        [
+          257.1552734375,
+          498.1732177734375
+        ],
+        [
+          257.1552734375,
+          509.22930908203125
+        ],
+        [
+          175.19140625,
+          509.22930908203125
+        ]
+      ],
+      "bbox": [
+        175.19140625,
+        498.1732177734375,
+        257.1552734375,
+        509.22930908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Kühlleistung</i><i>:entspr. Leistungsverzeichnis, mit dem bei Ausführung mit </i> <i>unserem Kühldeckensystem für die vorgegebene </i> <i>Kühlleistung erforderlichen Aktivierungsgrad berücksichtigt.</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          177.25999450683594,
+          516.8931884765625
+        ],
+        [
+          541.6201171875,
+          516.8931884765625
+        ],
+        [
+          541.6201171875,
+          554.6181640625
+        ],
+        [
+          177.25999450683594,
+          554.6181640625
+        ]
+      ],
+      "bbox": [
+        177.25999450683594,
+        516.8931884765625,
+        541.6201171875,
+        554.6181640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          177.25999450683594,
+          560.8131713867188
+        ],
+        [
+          194.689453125,
+          560.8131713867188
+        ],
+        [
+          194.689453125,
+          571.8531494140625
+        ],
+        [
+          177.25999450683594,
+          571.8531494140625
+        ]
+      ],
+      "bbox": [
+        177.25999450683594,
+        560.8131713867188,
+        194.689453125,
+        571.8531494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Prüfzeugnisse zur Kühlleistung liegen sowohl nach DIN EN 14240 sowie </i> <i>der DIN 4715 vor.</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          177.25999450683594,
+          577.6416015625
+        ],
+        [
+          541.5106201171875,
+          577.6416015625
+        ],
+        [
+          541.5106201171875,
+          603.1731872558594
+        ],
+        [
+          177.25999450683594,
+          603.1731872558594
+        ]
+      ],
+      "bbox": [
+        177.25999450683594,
+        577.6416015625,
+        541.5106201171875,
+        603.1731872558594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>[Es folgen weitere Ausführungen zur Installation -</i> <i>Anmerkung der </i> <i>Kammer.]</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          177.25999450683594,
+          609.7099609375
+        ],
+        [
+          541.6702880859375,
+          609.7099609375
+        ],
+        [
+          541.6702880859375,
+          634.3731842041016
+        ],
+        [
+          177.25999450683594,
+          634.3731842041016
+        ]
+      ],
+      "bbox": [
+        177.25999450683594,
+        609.7099609375,
+        541.6702880859375,
+        634.3731842041016
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/145",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>3</i> <i>Hydraulik</i></li><li block-type=\"ListItem\"><i>3.2</i> <i>Hydraulische Anbindung der Wasserkreise:</i></li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          113.49609374999999,
+          659.8681640625
+        ],
+        [
+          388.1585998535156,
+          659.8681640625
+        ],
+        [
+          388.1585998535156,
+          690.4431762695312
+        ],
+        [
+          113.49609374999999,
+          690.4431762695312
+        ]
+      ],
+      "bbox": [
+        113.49609374999999,
+        659.8681640625,
+        388.1585998535156,
+        690.4431762695312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Ausführung entspr. Leistungsbeschreibung als Einheit je Achse, </i> <i>Auslegung systemkonform entspr. dem angebotenen Kühldeckensystem </i> <i>(...).\"</i></p>",
+      "page": 145,
+      "polygon": [
+        [
+          177.25999450683594,
+          695.2255859375
+        ],
+        [
+          541.6688232421875,
+          695.2255859375
+        ],
+        [
+          541.6688232421875,
+          734.3631820678711
+        ],
+        [
+          177.25999450683594,
+          734.3631820678711
+        ]
+      ],
+      "bbox": [
+        177.25999450683594,
+        695.2255859375,
+        541.6688232421875,
+        734.3631820678711
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          295.010009765625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          85.79925537109375
+        ],
+        [
+          295.010009765625,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.00390625,
+        314.87890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Angebotsformschreiben trug die Bg unter Ziffer 6.2 (Nebenangebote zum  Hauptangebot) \"<i>Anzahl: 0</i>\" ein.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          121.2841796875
+        ],
+        [
+          541.379638671875,
+          121.2841796875
+        ],
+        [
+          541.379638671875,
+          153.25927734375
+        ],
+        [
+          90.796875,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        121.2841796875,
+        541.379638671875,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Insgesamt reichten acht Bieter zum Submissionstermin Angebote ein. Keines der  abgegebenen Angebote enthielt zum Zeitpunkt der Angebotsabgabe weitergehende  Unterlagen wie Prüfgutachten (im Hinblick auf Pos. 2.1) oder Prüfzeugnisse (im Hinblick auf  Pos. 2.25).</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          167.1793212890625
+        ],
+        [
+          541.6578369140625,
+          167.1793212890625
+        ],
+        [
+          541.6578369140625,
+          235.0992431640625
+        ],
+        [
+          89.6328125,
+          235.0992431640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        167.1793212890625,
+        541.6578369140625,
+        235.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) In einem mit Schreiben vom 16. Dezember 2009 von der Bg auf Anforderung der Ag  eingereichten Datenblatt zu der angebotenen Gipskartondecke finden sich auf S. 4-3.1 die  Produktdaten der Kühldecke \"...\" Es wird dort ein Flächengewicht von ca. 22 kg/m²  angegeben.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.94400024414062,
+          268.09930419921875
+        ],
+        [
+          541.7002563476562,
+          268.09930419921875
+        ],
+        [
+          541.7002563476562,
+          336.7177734375
+        ],
+        [
+          70.94400024414062,
+          336.7177734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        268.09930419921875,
+        541.7002563476562,
+        336.7177734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das mit der Prüfung der Angebote betraute Ingenieurbüro fertigte am 16. Dezember 2009  zwei alternative Vergabevorschläge. Ein Vergabevorschlag kam zum Ergebnis, dass der  ASt der Zuschlag erteilt werden solle. Das Angebot der Bg sei von der Wertung  auszunehmen, da es aufgrund von Änderungen an den Verdingungsunterlagen  ausgeschlossen werden müsse. Der zweite Vergabevorschlag sah den Zuschlag auf das  Angebot der Bg als wirtschaftlich günstigstes Angebot vor.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          362.92926025390625
+        ],
+        [
+          541.66455078125,
+          362.92926025390625
+        ],
+        [
+          541.66455078125,
+          468.8892822265625
+        ],
+        [
+          89.6328125,
+          468.8892822265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        362.92926025390625,
+        541.66455078125,
+        468.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Bauausschuss der Ag entschied in seiner Sitzung vom 11. Januar 2010, den Zuschlag  auf das Angebot der Bg zu erteilen.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          494.5927734375
+        ],
+        [
+          541.4775390625,
+          494.5927734375
+        ],
+        [
+          541.4775390625,
+          525.7892761230469
+        ],
+        [
+          90.796875,
+          525.7892761230469
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        494.5927734375,
+        541.4775390625,
+        525.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">d) Mit Schreiben vom 15. Januar 2010 teite die Ag der ASt gemäß § 101 a GWB mit, dass auf  ihre Angebote der Zuschlag nicht erteilt werden könne, weil es sich dabei nicht um die  wirtschaftlichsten Angebote handele. Vielmehr liege ein niedrigeres Hauptangebot vor. Es  sei daher beabsichtigt, den Zuschlag auf das Angebot der Bg zu erteilen.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.94400024414062,
+          550.91796875
+        ],
+        [
+          541.5545654296875,
+          550.91796875
+        ],
+        [
+          541.5545654296875,
+          620.7092742919922
+        ],
+        [
+          70.94400024414062,
+          620.7092742919922
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        550.91796875,
+        541.5545654296875,
+        620.7092742919922
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Durch Schreiben vom 18. und 20. Januar 2010 rügte die ASt gegenüber der Ag die  getroffene Vergabeentscheidung. Sie war der Auffassung, die Bg habe kein  zuschlagwürdiges Hauptangebot abgegeben. Dies gelte insbesondere für die Pos. 3.2.  Zusätzlich wurde bezweifelt, dass die Bg die im Leistungsverzeichnis vorgegebenen  technischen Daten erfülle. Die ASt nahm hier Bezug auf die Schallabsorptionsdaten in Pos.  2.25.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          646.30078125
+        ],
+        [
+          541.7142333984375,
+          646.30078125
+        ],
+        [
+          541.7142333984375,
+          753.4552917480469
+        ],
+        [
+          89.6328125,
+          753.4552917480469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        646.30078125,
+        541.7142333984375,
+        753.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          294.798828125,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          85.79925537109375
+        ],
+        [
+          294.798828125,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.00390625,
+        315.169921875,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das prüfende Ingenieurbüro stellte daraufhin fest (Mail vom 25. Januar 2010 von Herrn ... an den Projektsteuerer, Herrn ..., Register 17 der Vergabeakte):</p>",
+      "page": 141,
+      "polygon": [
+        [
+          91.9609375,
+          121.2841796875
+        ],
+        [
+          538.7291259765625,
+          121.2841796875
+        ],
+        [
+          538.7291259765625,
+          153.25927734375
+        ],
+        [
+          91.9609375,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        121.2841796875,
+        538.7291259765625,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Uns liegen nur beide Prüfzeugnisse für die Schallabsorption vor. Fa. </i><i>...</i> <i>und Fa. ...</i> <i>konnten kein Prüfzeugnis für die LV-Pos. 2.25 vorlegen, dies müssten wohl beide</i> <i>Firmen erst prüfen lassen. Beide Firmen sagte mir, dass ihre normale gelochte Decke </i> <i>bereits die geforderten Anforderungen der LV-Pos. 2.25 erfüllen (siehe Tabelle). </i></p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          185.4208984375
+        ],
+        [
+          541.4282836914062,
+          185.4208984375
+        ],
+        [
+          541.4282836914062,
+          234.8431396484375
+        ],
+        [
+          112.91406249999999,
+          234.8431396484375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        185.4208984375,
+        541.4282836914062,
+        234.8431396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 141,
+      "polygon": [
+        [
+          113.54000091552734,
+          242.4031982421875
+        ],
+        [
+          130.0447998046875,
+          242.4031982421875
+        ],
+        [
+          130.0447998046875,
+          253.6689453125
+        ],
+        [
+          113.54000091552734,
+          253.6689453125
+        ]
+      ],
+      "bbox": [
+        113.54000091552734,
+        242.4031982421875,
+        130.0447998046875,
+        253.6689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Das Zeugnis der Fa. ...</i> <i>entspricht der ausgeschriebenen gelochten Decke, das der Fa. </i> <i>...</i> <i>entspricht nicht ganz der ausgeschriebenen gelochten Decke, jedoch mit einer </i> <i>anderen, \"schlechteren\" Lochung (freien Plattenquerschnitt von 16%). Ausgeschrieben </i> <i>ist jedoch eine Lochung mit einem freien Plattenquerschnitt von ca. 20%, welches die </i> <i>angegebenen Werte im Prüfzeugnis verbessern würden. Bezüglich der Rüge von Fa. </i> <i>...</i> <i>ist davon auszugehen, dass nach Rücksprache mit unserem Bauphysiker die Fa. ...</i> <i>die Schallabsorptionswerte mit der in Pos. 2.25 genannten Mineralwollauflage </i> <i>erreichen kann. Letztendlich kann dies aber nur durch eine Prüfung im Labor </i> <i>nachgewiesen werden.\"</i></p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          261.1231689453125
+        ],
+        [
+          541.5159301757812,
+          261.1231689453125
+        ],
+        [
+          541.5159301757812,
+          373.3531494140625
+        ],
+        [
+          112.91406249999999,
+          373.3531494140625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        261.1231689453125,
+        541.5159301757812,
+        373.3531494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag half dem Rügevorbringen nicht ab und teilte der ASt die Gründe hierfür durch Antwort vom 27. Januar 2010 mit. Durch erneutes Absageschreiben nach § 101 a GWB  gleichen Datums unterrichtete die Ag die ASt darüber, dass auf deren Angebot nach wie  vor aus wirtschaftlichen Gründen der Zuschlag nicht erteilt werden könne. Es liege das  wirtschaftlichere \"Nebenangebot\" der Bg vor, auf das jetzt der Zuschlag ergehen solle.  Diese Mitteilung ergänzte die Ag gegenüber der ASt durch schriftliche Information vom 28.  Januar 2010. Bei der Öffnung des Angebots der Bg im Rahmen des Submissionstermins  sei nicht eindeutig erkennbar gewesen, dass es sich um ein Nebenangebot handelte. In  ihrem Anschreiben zum Angebot habe die Bg jedoch auf die geänderte Position gegenüber  dem Leistungsverzeichnis hingewiesen und damit im Ergebnis ein zulässiges und \"von uns  zu wertendes Nebenangebot abgegeben.\"</p>",
+      "page": 141,
+      "polygon": [
+        [
+          89.6328125,
+          392.6318359375
+        ],
+        [
+          541.6222534179688,
+          392.6318359375
+        ],
+        [
+          541.6222534179688,
+          594.6692962646484
+        ],
+        [
+          89.6328125,
+          594.6692962646484
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        392.6318359375,
+        541.6222534179688,
+        594.6692962646484
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit Schreiben ihrer Verfahrensbevollmächtigten vom 5. Februar 2010 stellte die ASt daraufhin einen Antrag auf Nachprüfung bei der Vergabekammer des Bundes. Diesen Antrag hat die  Vergabekammer der Ag am selben Tag übermittelt.</li><li block-type=\"ListItem\">a) Der Nachprüfungsantrag sei begründet. Die Bg habe kein vergaberechtmäßiges  Hauptangebot abgegeben. Sie habe die Verdingungsunterlagen dadurch abgeändert, dass  sie das \"System ...\" der Bg angeboten haben. Dies führe dazu, dass die Bg nicht den für die  in der Pos. 3.2 beschriebenen Leistung nebst vorgegebenen Massengerüst abgefragten</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          70.94400024414062,
+          626.56640625
+        ],
+        [
+          541.7108154296875,
+          626.56640625
+        ],
+        [
+          541.7108154296875,
+          777.4552917480469
+        ],
+        [
+          70.94400024414062,
+          777.4552917480469
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        626.56640625,
+        541.7108154296875,
+        777.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 117,
+      "polygon": [
+        [
+          294.5078125,
+          74.00390625
+        ],
+        [
+          315.4609375,
+          74.00390625
+        ],
+        [
+          315.4609375,
+          85.79925537109375
+        ],
+        [
+          294.5078125,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.5078125,
+        74.00390625,
+        315.4609375,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Preis angegeben habe, sondern einen Preis, der sich auf völlig andere Massen beziehe.  Dies stelle eine Änderung der Leistungsbeschreibung dar, so dass das Angebot  auszuschließen sei.</p>",
+      "page": 117,
+      "polygon": [
+        [
+          90.796875,
+          121.6953125
+        ],
+        [
+          541.4346923828125,
+          121.6953125
+        ],
+        [
+          541.4346923828125,
+          172.21929931640625
+        ],
+        [
+          90.796875,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        121.6953125,
+        541.4346923828125,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im vorliegenden Fall habe die Bg aber auch kein rechtswirksames Nebenangebot, sondern  ein unzulässigerweise geändertes Hauptangebot abgegeben. Eine Umdeutung in ein  Nebenangebot sei nicht möglich, weil dies eine Umgehung der eindeutigen Vorschriften der  § 21 Nr. 1 Abs. 3 VOB/A und § 25 Nr. 1 Abs. 1 lit. b) VOB/A bedeuten würde. Hinzu  komme, dass es grundsätzlich Sache des Bieters sei, zu entscheiden, ob er ein Hauptoder Nebenangebot abgebe. Im vorliegenden Fall sei keineswegs eindeutig erkennbar,  dass die Bg ein Nebenangebot abgeben wollte. Zudem sei der Wille der Bg, ein  Nebenangebot abzugeben, gerade nicht zu belegen. Dies sei ausdrücklich ihrem  Schriftsatz im vorliegenden Nachprüfungsverfahren zu entnehmen. Zudem sei das  Nebenangebot, unterstellt es wäre tatsächlich abgegeben worden, nicht wie nach Formblatt  212 gefordert auf besonderer Anlage erfolgt.</p>",
+      "page": 117,
+      "polygon": [
+        [
+          89.6328125,
+          185.83203125
+        ],
+        [
+          541.6950073242188,
+          185.83203125
+        ],
+        [
+          541.6950073242188,
+          386.9292907714844
+        ],
+        [
+          89.6328125,
+          386.9292907714844
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        185.83203125,
+        541.6950073242188,
+        386.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hilfsweise weist die ASt darauf hin, dass das von der Bg angebotene System auch als  Nebenangebot nicht die vorgegebenen Daten des Vergabe-LV erfülle. Insbesondere  würden die geforderten Schallabsorptionsdaten, die in der Pos. 2.25 beschrieben seien,  nicht erfüllt. Weiterhin könne das System auch nicht die in der Pos. 2.1 vorgegebenen  Werte erfüllen. Auch fehle es an einer Gleichwertigkeit. Die Gleichwertigkeit sei nicht  hinreichend nachgewiesen. Dabei sei zu beachten, dass insbesondere eine bloße  Beschreibung des Produkts durch den Bieter nicht den Anforderungen genüge, die an  einen Gleichwertigkeitsnachweis zu stellen seien. Die ASt weist darauf hin, dass es für die  Beantwortung der Frage, ob Verdingungsunterlagen geändert wurden, völlig ohne Belang  sei, ob die Veränderungen \"unbedeutend\" für die Ausschreibung oder sogar besser als  diese seien. Auf die Wettbewerbsrelevanz oder die technische Notwendigkeit der  Einhaltung der gemachten Vorgaben komme es dagegen nicht an, ebenso wenig, ob es der  Bieter aus seiner Sicht für \"sinnvoll\" halte, die Vorgaben der Vergabestelle einzuhalten oder  nicht.</p>",
+      "page": 117,
+      "polygon": [
+        [
+          89.6328125,
+          400.8492736816406
+        ],
+        [
+          541.7228393554688,
+          400.8492736816406
+        ],
+        [
+          541.7228393554688,
+          658.6292877197266
+        ],
+        [
+          89.6328125,
+          658.6292877197266
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        400.8492736816406,
+        541.7228393554688,
+        658.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Soweit Ag und Bg meinten, das Angebot der Bg sei gem. § 25 Nr. 4 VOB/A wie ein  Hauptangebot zu werten, weil dieses lediglich von den technischen Spezifikationen  abweiche, sei festzustellen, dass unter \"technischen Spezifikationen\" nicht individuelle, auf  das konkrete Bauvorhaben bezogene technische Vorgaben zu verstehen seien, sondern  nur technische Regelwerke, Normen und ggfl. allgemeine Eigenschafts- und  Funktionsbeschreibungen. Bei den von der Ag hier geforderten Angaben handele es sich</p>",
+      "page": 117,
+      "polygon": [
+        [
+          90.796875,
+          670.5576171875
+        ],
+        [
+          541.7272338867188,
+          670.5576171875
+        ],
+        [
+          541.7272338867188,
+          778.5352821350098
+        ],
+        [
+          90.796875,
+          778.5352821350098
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        670.5576171875,
+        541.7272338867188,
+        778.5352821350098
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          295.010009765625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          74.00390625
+        ],
+        [
+          314.87890625,
+          85.79925537109375
+        ],
+        [
+          295.010009765625,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.00390625,
+        314.87890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">daher um individuelle, auf das konkrete Bauvorhaben bezogene technische Vorgaben.  Ungeachtet dessen hätte aber die vermeintliche Gleichwertigkeit sogleich mit dem Angebot  \"nachgewiesen\" werden müssen. Dies habe die Bg nicht getan.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          122.9287109375
+        ],
+        [
+          541.6900024414062,
+          122.9287109375
+        ],
+        [
+          541.6900024414062,
+          172.21929931640625
+        ],
+        [
+          90.796875,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        122.9287109375,
+        541.6900024414062,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt habe weder über \"Geschäftsgeheimnisse\" der Bg verfügt, noch liege eine  \"wettbewerbswidrige Abrede\" vor. Die Informationen der ASt stammten von der Homepage  der Bg.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          185.4208984375
+        ],
+        [
+          541.44580078125,
+          185.4208984375
+        ],
+        [
+          541.44580078125,
+          235.0992431640625
+        ],
+        [
+          89.6328125,
+          235.0992431640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        185.4208984375,
+        541.44580078125,
+        235.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/2/SectionHeader/8",
+        "3": "/page/2/SectionHeader/16"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1>Die ASt beantragt:</h1>",
+      "page": 119,
+      "polygon": [
+        [
+          91.9609375,
+          247.9130859375
+        ],
+        [
+          182.21377563476562,
+          247.9130859375
+        ],
+        [
+          182.21377563476562,
+          260.17926025390625
+        ],
+        [
+          91.9609375,
+          260.17926025390625
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        247.9130859375,
+        182.21377563476562,
+        260.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/118",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Ag wird untersagt, im Vergabeverfahren \"Sanierung, energetische  Optimierung und Modernisierung des Verwaltungsgebäudes der ...\" den Auftrag  bzgl. der \"Installationsarbeiten für Heiz-/ Kühldecke\" an die Bg zu erteilen.</li><li block-type=\"ListItem\">2. Der Ag wird aufgegeben, den Zuschlag in dem unter Ziff. 1 genannten  Vergabeverfahren an die ASt zu erteilen, hilfsweise die Wertung der Angebote  unter Berücksichtigung der Rechtsauffassung der Vergabekammer zu  wiederholen.</li><li block-type=\"ListItem\">3. Die Hinzuziehung der Verfahrensbevollmächtigten auf Seiten der ASt wird für  notwendig erklärt.</li><li block-type=\"ListItem\">4. Die Ag trägt die Kosten des Nachprüfungsverfahrens.</li></ul></p>",
+      "page": 119,
+      "polygon": [
+        [
+          111.74999999999999,
+          279.5703125
+        ],
+        [
+          525.5653076171875,
+          279.5703125
+        ],
+        [
+          525.5653076171875,
+          480.1893005371094
+        ],
+        [
+          111.74999999999999,
+          480.1893005371094
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        279.5703125,
+        525.5653076171875,
+        480.1893005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner beantragt die ASt Akteneinsicht gem. § 111 GWB in die Vergabeakten.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          91.9609375,
+          492.1259765625
+        ],
+        [
+          475.6832580566406,
+          492.1259765625
+        ],
+        [
+          475.6832580566406,
+          505.1492919921875
+        ],
+        [
+          91.9609375,
+          505.1492919921875
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        492.1259765625,
+        475.6832580566406,
+        505.1492919921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h4>b) Die Ag beantragt:</h4>",
+      "page": 119,
+      "polygon": [
+        [
+          70.134765625,
+          544.1492919921875
+        ],
+        [
+          177.76608276367188,
+          544.1492919921875
+        ],
+        [
+          177.76608276367188,
+          555.1893005371094
+        ],
+        [
+          70.134765625,
+          555.1893005371094
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        544.1492919921875,
+        177.76608276367188,
+        555.1893005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/119",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird als unbegründet abgewiesen.</li><li block-type=\"ListItem\">2. Die Hinzuziehung der Verfahrensbevollmächtigten auf Seiten der Antragsgegnerin  wird für notwendig erklärt.</li><li block-type=\"ListItem\">3. Die ASt trägt die Kosten des Nachprüfungsverfahrens (Gebühren und Auslagen)  sowie die zur zweckentsprechenden Rechtsverfolgung notwendigen  Rechtsanwaltskosten und Auslagen der Ag.</li></ul></p>",
+      "page": 119,
+      "polygon": [
+        [
+          111.74999999999999,
+          569.1092834472656
+        ],
+        [
+          537.5965576171875,
+          569.1092834472656
+        ],
+        [
+          537.5965576171875,
+          686.9792785644531
+        ],
+        [
+          111.74999999999999,
+          686.9792785644531
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        569.1092834472656,
+        537.5965576171875,
+        686.9792785644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Der Nachprüfungsantrag sei unbegründet. Das Angebot der Bg erfülle die technischen  Spezifikationen des LV vollständig; z.T. würden die Anforderungen übererfüllt. So sei  hinsichtlich der Pos. 2.1 des LV festzustellen, dass bestimmte Parameter  (Installationsflächenverhältnis von 99%, Modulabstände und Betriebsgewicht) für die</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          699.3369140625
+        ],
+        [
+          541.5029907226562,
+          699.3369140625
+        ],
+        [
+          541.5029907226562,
+          768.9352874755859
+        ],
+        [
+          90.796875,
+          768.9352874755859
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        699.3369140625,
+        541.5029907226562,
+        768.9352874755859
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 113,
+      "polygon": [
+        [
+          295.010009765625,
+          74.00390625
+        ],
+        [
+          314.6463317871094,
+          74.00390625
+        ],
+        [
+          314.6463317871094,
+          85.79925537109375
+        ],
+        [
+          295.010009765625,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.00390625,
+        314.6463317871094,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">technische Funktion der Heiz-/Kühlanlage völlig unbedeutend seien. Lediglich hinsichtlich  der Vorgabe der Kühlleistung von 62 bzw. 71 W/qm liege eine nicht zu vernachlässigende  Vorgabe vor. Die Kühlleistung werde aber vom System der Bg übertroffen, wie sich aus  dem entsprechenden Prüfbericht ergebe. Hinsichtlich der Schallabsorptionswerte, Pos.  2.25, hätten weder die ASt noch die Bg ein Prüfzeugnis vorlegen können. Beide Firmen  hätten aber erklärt, die geforderten Werte einzuhalten. Das mit der Wertung beauftragte  Ingenieurbüro gehe von der Einhaltung der Werte durch die Bg aus. Hinsichtlich der Pos.  3.2 erfülle das Angebot der Bg die geforderten technischen Vorgaben.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          89.6328125,
+          122.1064453125
+        ],
+        [
+          541.604248046875,
+          122.1064453125
+        ],
+        [
+          541.604248046875,
+          267.1392822265625
+        ],
+        [
+          89.6328125,
+          267.1392822265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        122.1064453125,
+        541.604248046875,
+        267.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag geht davon aus, dass das Angebot der Bg, unterstellt es sei als Hauptangebot  auszuschließen, als Nebenangebot zu werten sei. Es könne im Ergebnis dahingestellt  bleiben, ob das Angebot der Bg die Anforderungen an ein zuschlagsfähiges Hauptangebot  erfülle. Denn das Angebot der Bg erfülle die für Heiz-/Kühldecken geforderten  Voraussetzungen. So habe die Bg in ihrem Angebot den Wortlaut des LV als  allgemeinverbindlich anerkannt. Im Weiteren habe sie die Leistungsbeschreibung zu  einzelnen Positionen ergänzt und auch die Abfragen zu Fabrikaten und Ausführung  aufgeführt. Unterstellte man, diese Ausführungen wichen vom Leistungsverzeichnis  unzulässig ab, wäre das Angebot als Nebenangebot zu werten. Ein Nebenangebot sei  auch ohne Hauptangebot zuschlagswürdig, wenn in den Verdingungsunterlagen  Nebenangebote zugelassen worden seien. Nach § 25 Nr. 4 VOB/A sei ein Angebot nach  § 21 Nr. 2 VOB/A wie ein Hauptangebot zu werten. Das Nebenangebot der Bg (das diese  als Hauptangebot betrachte, obwohl es faktisch kein Hauptangebot sei, weil eine  verändertes Hauptangebot immer ein Nebenangebot sei) erfülle im Gegensatz zum Vortrag  der ASt die vorgegebenen technischen Spezifikationen des LV vollständig bzw. zum Teil  würden die Anforderungen übererfüllt.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          90.796875,
+          286.1484375
+        ],
+        [
+          541.7329711914062,
+          286.1484375
+        ],
+        [
+          541.7329711914062,
+          582.6692810058594
+        ],
+        [
+          90.796875,
+          582.6692810058594
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        286.1484375,
+        541.7329711914062,
+        582.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) Mit Beschluss vom 10. Februar 2010 ist die Bg zu dem Verfahren hinzugezogen worden.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          70.94400024414062,
+          602.7092742919922
+        ],
+        [
+          526.8840942382812,
+          602.7092742919922
+        ],
+        [
+          526.8840942382812,
+          613.7492828369141
+        ],
+        [
+          70.94400024414062,
+          613.7492828369141
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        602.7092742919922,
+        526.8840942382812,
+        613.7492828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/7/SectionHeader/3",
+        "4": "/page/7/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1>Die Bg beantragt,</h1>",
+      "page": 113,
+      "polygon": [
+        [
+          90.796875,
+          639.9092712402344
+        ],
+        [
+          177.88607788085938,
+          639.9092712402344
+        ],
+        [
+          177.88607788085938,
+          652.4677734375
+        ],
+        [
+          90.796875,
+          652.4677734375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        639.9092712402344,
+        177.88607788085938,
+        652.4677734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/113",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. den Nachprüfungsantrag zurückzuweisen,</li><li block-type=\"ListItem\">2. der Bg umfassend Akteneinsicht gemäß § 111 GWB in die Vergabeakte und die  Angebotsunterlagen der ASt zu erteilen,</li><li block-type=\"ListItem\">3. die Hinzuziehung der Verfahrensbevollmächtigten auf Seiten der Bg für notwendig  zu erklären,</li></ul></p>",
+      "page": 113,
+      "polygon": [
+        [
+          112.91406249999999,
+          664.8992767333984
+        ],
+        [
+          541.4494018554688,
+          664.8992767333984
+        ],
+        [
+          541.4494018554688,
+          763.8952865600586
+        ],
+        [
+          112.91406249999999,
+          763.8952865600586
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        664.8992767333984,
+        541.4494018554688,
+        763.8952865600586
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          291.888671875,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          85.79925537109375
+        ],
+        [
+          291.888671875,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        74.00390625,
+        318.080078125,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>4. der ASt die Kosten des Nachprüfungsverfahrens aufzuerlegen.</h1>",
+      "page": 112,
+      "polygon": [
+        [
+          113.41999816894531,
+          122.1064453125
+        ],
+        [
+          440.6120910644531,
+          122.1064453125
+        ],
+        [
+          440.6120910644531,
+          134.29925537109375
+        ],
+        [
+          113.41999816894531,
+          134.29925537109375
+        ]
+      ],
+      "bbox": [
+        113.41999816894531,
+        122.1064453125,
+        440.6120910644531,
+        134.29925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag sei unbegründet. Die Bg habe ein wertungsfähiges Hauptangebot  abgegeben. Der Wille der Bg, ein Nebenangebot abzugeben, sei nicht zu belegen. Das  Angebot entspreche der Leistungsbeschreibung und könne nicht wegen Änderungen an  den Verdingungsunterlagen gemäß § 25 Nr. 1 Abs. 1 lit b) i.V.m. § 21 Nr. 1 Abs. 3 VOB/A  ausgeschlossen werden.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          89.6328125,
+          171.853515625
+        ],
+        [
+          541.7185668945312,
+          171.853515625
+        ],
+        [
+          541.7185668945312,
+          260.17926025390625
+        ],
+        [
+          89.6328125,
+          260.17926025390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        171.853515625,
+        541.7185668945312,
+        260.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinsichtlich der Pos. 2.1 führt sie aus, dass sie das geforderte Installationsflächenverhältnis  erfülle und sogar übertreffe. Die Kühlleistung werde von ihrem System erfüllt. Allerdings  halte ihr System einen Modulabstand von 90 mm nicht ein. Jedoch sei der Modulabstand  für die technische Funktion der Heiz- und Kühlanlage völlig unbedeutend. Die Abstände der  Module seien von Hersteller zu Hersteller verschieden, ohne dass dies Auswirkung auf die  Leistung der Systeme habe. Ein Angebot, das von den vorgegebenen technischen  Spezifikationen abweiche, sei nicht auszuschließen, wenn die Voraussetzungen des § 21  Nr. 2 VOB/A erfüllt würden. Beim Modulabstand der Kühlmodule handele es sich gerade  um eine solche Abmessung und damit um eine technische Spezifikation i.S.d. § 21 Nr. 2  VOB/A i.V.m. Anhang TS der VOB/A. Die Bg habe mit dem Prüfbericht über ihr Kühl- und  Heizdeckensystem nachgewiesen, dass dem geforderten Schutzniveau in vollem Umfang  entsprochen werde. Ferner erfülle das Deckensystem der Bg die Vorgabe hinsichtlich des  Betriebsgewichts (nicht über 21 kg).</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.796875,
+          274.09930419921875
+        ],
+        [
+          541.7272338867188,
+          274.09930419921875
+        ],
+        [
+          541.7272338867188,
+          512.8292846679688
+        ],
+        [
+          90.796875,
+          512.8292846679688
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        274.09930419921875,
+        541.7272338867188,
+        512.8292846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Pos. 3.2 verwies die Bg auf ihr Angebotsschreiben, in dem sie ausdrücklich klar gestellt  habe, dass die hydraulische Anbindung der Wasserkreise \"entsprechend der  Leistungsbeschreibung\" ausgeführt werde.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          89.6328125,
+          526.749267578125
+        ],
+        [
+          541.6892700195312,
+          526.749267578125
+        ],
+        [
+          541.6892700195312,
+          577.23046875
+        ],
+        [
+          89.6328125,
+          577.23046875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        526.749267578125,
+        541.6892700195312,
+        577.23046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Pos. 2.25 sei gemäß dem Leistungsverzeichnis angeboten worden. Die Bg habe der Ag  überdies versichert, dass die geforderten Werte des Schallabsorptionsgrades eingehalten  werden könnten. Die Bg habe wie die ASt kein Prüfzeugnis vorgelegt. Jedoch führe dies  nicht zwingend zum Ausschluss der Angebote, da die Pos. 2.25 nur bestimme, dass bei  Nichtvorlage das Angebot ausgeschlossen werden könne. Die Ag habe sich sowohl von der  ASt als auch von der Bg die Einhaltung der Absorptionsgrade bestätigen lassen und ihr  Ermessen insoweit fehlerfrei ausgeübt.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          89.6328125,
+          589.564453125
+        ],
+        [
+          541.6162109375,
+          589.564453125
+        ],
+        [
+          541.6162109375,
+          714.5792846679688
+        ],
+        [
+          89.6328125,
+          714.5792846679688
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        589.564453125,
+        541.6162109375,
+        714.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Angebot der ASt sei wegen Verstoßes gegen den Geheimwettbewerb zwingend  auszuschließen, denn sie habe sich in wettbewerbswidriger Weise Geschäftsgeheimnisse  der Bg besorgt. Dies stelle einen schweren Verstoß gegen § 21 Nr. 1 Abs. 2 VOB/A dar.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.796875,
+          728.4992828369141
+        ],
+        [
+          541.4678955078125,
+          728.4992828369141
+        ],
+        [
+          541.4678955078125,
+          777.86328125
+        ],
+        [
+          90.796875,
+          777.86328125
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        728.4992828369141,
+        541.4678955078125,
+        777.86328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          291.888671875,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          85.79925537109375
+        ],
+        [
+          291.888671875,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        74.00390625,
+        318.080078125,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ASt und Bg wurde unter Beachtung von Geschäftsgeheimnissen Akteneinsicht gewährt. Die Akteneinsicht für ASt und Bg umfasste allein Teile der Vergabeakte, die keine  Geschäftsgeheimnisse enthielten. Insbesondere war kein Einblick in die Angebote der anderen  Bieter und entsprechende Prüfberichte zu den angebotenen Produkten zu gewähren.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          146.7744140625
+        ],
+        [
+          541.494140625,
+          146.7744140625
+        ],
+        [
+          541.494140625,
+          216.1392822265625
+        ],
+        [
+          70.94400024414062,
+          216.1392822265625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        146.7744140625,
+        541.494140625,
+        216.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Entscheidung ergeht gemäß § 112 Abs. 1 S. 3, 1. Alt. GWB ohne mündliche Verhandlung,  da alle Beteiligten auf deren Durchführung verzichtet haben.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.94400024414062,
+          229.8232421875
+        ],
+        [
+          541.3894653320312,
+          229.8232421875
+        ],
+        [
+          541.3894653320312,
+          260.2470703125
+        ],
+        [
+          70.94400024414062,
+          260.2470703125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        229.8232421875,
+        541.3894653320312,
+        260.2470703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die  Vergabeakten, soweit sie der Vergabekammer vorgelegen haben, wird ergänzend Bezug genommen.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          67.515625,
+          273.814453125
+        ],
+        [
+          541.3915405273438,
+          273.814453125
+        ],
+        [
+          541.3915405273438,
+          323.0892333984375
+        ],
+        [
+          67.515625,
+          323.0892333984375
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        273.814453125,
+        541.3915405273438,
+        323.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 100,
+      "polygon": [
+        [
+          309.931640625,
+          361.8492736816406
+        ],
+        [
+          320.0352478027344,
+          361.8492736816406
+        ],
+        [
+          320.0352478027344,
+          372.8892822265625
+        ],
+        [
+          309.931640625,
+          372.8892822265625
+        ]
+      ],
+      "bbox": [
+        309.931640625,
+        361.8492736816406,
+        320.0352478027344,
+        372.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der zulässige Nachprüfungsantrag ist begründet.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          69.26171875,
+          393.2892761230469
+        ],
+        [
+          313.06231689453125,
+          393.2892761230469
+        ],
+        [
+          313.06231689453125,
+          404.9658203125
+        ],
+        [
+          69.26171875,
+          404.9658203125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        393.2892761230469,
+        313.06231689453125,
+        404.9658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/100",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag ist zulässig. Die ASt ist gemäß § 107 Abs. 2 GWB antragsbefugt.  Durch die Abgabe ihres Angebots hat sie ihr Interesse an dem Auftrag hinreichend  dokumentiert. Indem sie die Zuschlagsentscheidung zu Gunsten der Bg als vergaberechtswidrig  angreift, macht sie geltend, durch den Verstoß in ihren Rechten (§ 97 Abs. 7 GWB) verletzt  worden zu sein. Die ASt ist den sich aus § 107 Abs. 3 GWB ergebenden Rügeobliegenheiten  rechtzeitig nachgekommen.</li><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist begründet. Das Angebot der Bg ist auszuschließen, weil es  hinsichtlich der in Pos. 2.1 geforderten Parameter der Kühl-/Heizdecke von den  Verdingungsunterlagen abweicht. Die ASt ist hierdurch in ihren Rechten gemäß § 97 Abs. 7  GWB verletzt.</li><li block-type=\"ListItem\">a) Das Angebot der Bg ist wegen Abweichens von den Vorgaben der Verdingungsunterlagen  im Hinblick auf das in Pos. 2.1 abgefragte Heiz-/Kühldeckensystem auszuschließen.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa) Vorab ist festzustellen, dass es sich bei dem Angebot der Bg um ein Hauptangebot  handelt. Die Bg hat im Angebotsschreiben unter Ziffer 6.2 ausdrücklich die Zahl der</li></ul></li></ul></p>",
+      "page": 100,
+      "polygon": [
+        [
+          69.84375,
+          437.0341796875
+        ],
+        [
+          541.6726684570312,
+          437.0341796875
+        ],
+        [
+          541.6726684570312,
+          769.8952865600586
+        ],
+        [
+          69.84375,
+          769.8952865600586
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        437.0341796875,
+        541.6726684570312,
+        769.8952865600586
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 126,
+      "polygon": [
+        [
+          291.8899841308594,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          85.79925537109375
+        ],
+        [
+          291.8899841308594,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        74.00390625,
+        317.7890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nebenangebote mit \"0\" bezeichnet. Ferner erklärte sie in dem beigefügten  Anschreiben, dass sie die Vorgaben der Verdingungsunterlagen anerkenne (<i>\"Mit </i> <i>Abgabe dieser Kurzfassung erkennen wir den Wortlaut des Leistungsverzeichnisses </i> <i>als allgemeinverbindlich an.</i><i>\")</i> und letztlich auch erfülle. An keiner Stelle im Angebot der  Bg findet sich ein Hinweis darauf, dass sie ein Nebenangebot abgeben wollte. Die Bg  hat auch schriftsätzlich im Nachprüfungsverfahren betont, dass sie ein Hauptangebot  abgegeben habe. Eine Umdeutung dieses Hauptangebots in ein Nebenangebot, wie es  die Ag im Rahmen der Wertung getan hat, ist schon deshalb nicht zulässig.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          112.91406249999999,
+          121.6953125
+        ],
+        [
+          541.7242431640625,
+          121.6953125
+        ],
+        [
+          541.7242431640625,
+          267.1392822265625
+        ],
+        [
+          112.91406249999999,
+          267.1392822265625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        121.6953125,
+        541.7242431640625,
+        267.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eine Umdeutung wäre aber auch deshalb unzulässig, weil sie zu einer Umgehung bzw.  Aushöhlung des zwingenden Ausschlusstatbestands des Abweichens von den  Verdingungsunterlagen, § 25 Nr. 1 Abs. 1 lit. b VOB/A, führen würde. Hinzukommt,  dass Nebenangebote gemäß § 21 Nr. 3 S. 2 VOB/A auf gesonderter Anlage zu  machen und als solche deutlich zu kennzeichnen sind. Zweck der formalen Trennung  von Haupt- und Nebenangeboten ist gerade die Vermeidung von Zweifeln über  Tragweite und Umfang des angeforderten Hauptangebots und dessen, was durch  Eigeninitiative des Bieters von den Anforderungen des Leistungsverzeichnisses  abweicht (Kratzenberg in Ingenstau/Korbion, 16. Aufl. 2006, § 21 VOB/A, Rn. 31).  Selbst wenn man das Angebot der Bg als Nebenangebot ansehen bzw. in ein solches  umdeuten wollte, läge ein Verstoß gegen diese Vorschriften vor.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          112.91406249999999,
+          294.04925537109375
+        ],
+        [
+          541.7300415039062,
+          294.04925537109375
+        ],
+        [
+          541.7300415039062,
+          495.00390625
+        ],
+        [
+          112.91406249999999,
+          495.00390625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        294.04925537109375,
+        541.7300415039062,
+        495.00390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bb) Das Angebot der Bg weicht von den Vorgaben der Ag in Pos. 2.1 zum Teil ab und  ändert damit unzulässig die technischen Vorgaben der Ag in der  Leistungsbeschreibung. Das Angebot der Bg ist daher gemäß § 25 Nr. 1 Abs. 1 lit. b  i.V.m. § 21 Nr. 1 Abs. 3 VOB/A auszuschließen.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          92.18399810791016,
+          523.50927734375
+        ],
+        [
+          541.6978759765625,
+          523.50927734375
+        ],
+        [
+          541.6978759765625,
+          593.2646484375
+        ],
+        [
+          92.18399810791016,
+          593.2646484375
+        ]
+      ],
+      "bbox": [
+        92.18399810791016,
+        523.50927734375,
+        541.6978759765625,
+        593.2646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Pos. 2.1, S. 20 der Leistungsbeschreibung, hat die Ag die technischen Parameter  der beschriebenen Heiz-/Kühldecke zusammengefasst. Insbesondere benannte sie  dort die geforderte Normkühlleistung sowie die Normheizleistung nach EN, die das  Produkt zu erbringen hat. Ferner führte sie das Flächenverhältnis der Aktivfläche (Aa)  zur Installationsfläche (Ai) mit 99% auf und benannte den Modulabstand der  Kühlmäander, der 90 mm betragen sollte. Weiter wurden das Gewicht der  Thermoplatten sowie das Gesamtbetriebsgewicht (21,0 kg/m²) genannt.</p>",
+      "page": 126,
+      "polygon": [
+        [
+          112.91406249999999,
+          618.3092803955078
+        ],
+        [
+          541.719482421875,
+          618.3092803955078
+        ],
+        [
+          541.719482421875,
+          743.328125
+        ],
+        [
+          112.91406249999999,
+          743.328125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        618.3092803955078,
+        541.719482421875,
+        743.328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          291.8899841308594,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          85.79925537109375
+        ],
+        [
+          291.8899841308594,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        74.00390625,
+        317.7890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Während das Angebot der Bg die geforderte Normkühlleistung erreicht (so dem  nachgereichten Prüfbericht zu entnehmen), erfüllt es unstreitig nicht die Vorgaben für  den Modulabstand der Kühlmäander von 90 mm. Ferner wird ausweislich des in der  Vergabeakte befindlichen Datenblatts der angebotenen Kühl-/Heizdecke auch das  geforderte Betriebsgewicht von 21 kg/m² überschritten: Das Datenblatt benennt  insoweit ein Flächengewicht der Kühldecke von ca. 22 kg/m² (Anlage zum Schreiben  der Bg vom 16. Dezember 2009, S. 4 – 3.1, Register 12 der Vergabeakte). Ob darüber  hinaus das von der Bg angebotene Flächenverhältnis der Aktivfläche (Aa) zur  Installationsfläche (Ai) von 100% ein zulässiges Abweichen von einer – wie die Bg  meint – Mindest-Vorgabe 99% darstellt, kann offen bleiben. Bereits das Abweichen der  Werte des Modulabstands der Kühlmäander und des Betriebsgewichts von den  vorgegebenen Parametern stellen Abänderungen der Vorgaben des  Leistungsverzeichnisses dar. Die Vorgaben des Leistungsverzeichnisses waren bei  diesen Parametern gerade nicht so formuliert, dass etwaige technische  Schwankungsspielräume gestattet waren (anders z.B. bei der Registerlänge: hier war  eine Schwankungsbreite von 2001-2650 mm erlaubt) oder etwa nur  Mindestanforderungen darstellten. Dass das Angebot der Bg die Vorgaben des  Leistungsverzeichnisses abändert, ist von dem mit der Prüfung der Angebote  beauftragten Ingenieurbüro daher in der ersten Prüfphase der Wertung durchaus  zutreffend eingeschätzt worden.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          122.517578125
+        ],
+        [
+          541.7247314453125,
+          122.517578125
+        ],
+        [
+          541.7247314453125,
+          494.82928466796875
+        ],
+        [
+          112.91406249999999,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        122.517578125,
+        541.7247314453125,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unbeachtlich ist insoweit der von Ag und Bg eingebrachte Einwand, die genannten  Parameter seien für die eigentliche Leistungserbringung unbedeutend und daher zu  vernachlässigen. Schon aus Gründen der Gleichbehandlung und Transparenz (§ 97  Abs. 2 und Abs. 1 GWB) ist es dem Auftraggeber im Vergabeverfahren nicht gestattet,  Anforderungen in der Leistungsbeschreibung nachträglich fallen zu lassen und damit  Bieter, die sich an die Vorgaben gehalten haben, zu benachteiligen.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          521.7092895507812
+        ],
+        [
+          541.604248046875,
+          521.7092895507812
+        ],
+        [
+          541.604248046875,
+          628.2109375
+        ],
+        [
+          112.91406249999999,
+          628.2109375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        521.7092895507812,
+        541.604248046875,
+        628.2109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">cc) Das Angebot der Bg ist aber auch nicht nach § 25 Nr. 4 VOB/A wie ein Hauptangebot  zu werten.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          92.30400085449219,
+          653.701171875
+        ],
+        [
+          541.6520385742188,
+          653.701171875
+        ],
+        [
+          541.6520385742188,
+          684.5792846679688
+        ],
+        [
+          92.30400085449219,
+          684.5792846679688
+        ]
+      ],
+      "bbox": [
+        92.30400085449219,
+        653.701171875,
+        541.6520385742188,
+        684.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Eine Leistung, die von den vorgesehenen technischen Spezifikationen abweicht, darf  nach § 21 Nr. 2 VOB/A angeboten werden, wenn sie mit dem geforderten  Schutzniveau in Bezug auf Sicherheit, Gesundheit und Gebrauchstauglichkeit  gleichwertig ist. Das Angebot ist gemäß § 25 Nr. 4 VOB/A wie ein Hauptangebot zu</p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          709.2041015625
+        ],
+        [
+          541.7293090820312,
+          709.2041015625
+        ],
+        [
+          541.7293090820312,
+          779.4952812194824
+        ],
+        [
+          112.91406249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        709.2041015625,
+        541.7293090820312,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          291.8899841308594,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          85.79925537109375
+        ],
+        [
+          291.8899841308594,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        74.00390625,
+        317.7890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">werten. Es ist schon fraglich, ob bei Einzelvorgaben in der Leistungsbeschreibung – wie den unter bb) beschriebenen – überhaupt von technischen Spezifikationen im  Sinne von § 9 Nr. 6 VOB/A auszugehen ist. Zwar besteht gemäß § 9 Nr. 6 Abs. 2  VOB/A für den Auftraggeber die Möglichkeit, technische Spezifikationen abweichend  von den üblichen Normwerken nach Abs. 1 in Form von Leistungs- und  Funktionsanforderungen zu formulieren, die so genau zu fassen sind, dass sie den  Unternehmen ein klares Bild von dem Auftragsgegenstand vermitteln und dem  Auftraggeber die Erteilung des Zuschlags ermöglichen (siehe dazu Kratzenberg in  Ingenstau/Korbion, § 9 VOB/A, Rn. 68). Es ist allerdings höchst zweifelhaft, ob schon  jede einzelne Vorgabe im Rahmen der Baubeschreibung des Leistungsverzeichnisses  eine technische Spezifikation in diesem Sinne darstellt; anderenfalls droht nämlich ein  Leerlaufen der grundsätzlich zwingenden Vorgaben der Verdingungsunterlagen (vgl.  § 25 Nr. 1 Abs. 3 VOB/A). Ob im streitgegenständlichen Fall tatsächlich technische  Spezifikationen betroffen waren, kann jedoch im Ergebnis offen bleiben.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          112.91406249999999,
+          123.25927734375
+        ],
+        [
+          541.7257080078125,
+          123.25927734375
+        ],
+        [
+          541.7257080078125,
+          380.9292907714844
+        ],
+        [
+          112.91406249999999,
+          380.9292907714844
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        123.25927734375,
+        541.7257080078125,
+        380.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Denn selbst wenn man davon ausginge, das Angebot der Bg weiche lediglich von den  vorgesehenen technischen Spezifikationen ab und habe gemäß § 21 Nr. 2 VOB/A  angeboten werden dürfen, weil die Leistung mit dem geforderten Schutzniveau in  Bezug auf Sicherheit, Gesundheit und Gebrauchstauglichkeit gleichwertig ist, so fehlt  es hier schon gemäß § 21 Nr. 2 S. 2 VOB/A an der entsprechenden eindeutigen  Bezeichnung der Abweichung im Angebot der Bg. Ferner fehlt es an einem Nachweis  der Gleichwertigkeit mit dem Angebot, § 21 Nr. 2 S. 3 VOB/A. Weder hatte die Bg im  Angebot die Abweichungen eindeutig bezeichnet, noch hat sie mit dem Angebot  nachgewiesen – etwa durch gleichzeitige Vorlage der Prüfberichte zur Heiz- und  Kühlleistung bzw. durch Nachweis, dass das erhöhte Betriebsgewicht der Kühldecke unschädlich ist –, dass das von ihr angebotene Fabrikat mit dem geforderten  Schutzniveau gleichwertig ist. Eine Wertung des Angebots wie ein Hauptangebot  gemäß § 25 Nr. 4 VOB/A ist daher nicht zulässig.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          112.91406249999999,
+          407.021484375
+        ],
+        [
+          541.7291870117188,
+          407.021484375
+        ],
+        [
+          541.7291870117188,
+          646.6292877197266
+        ],
+        [
+          112.91406249999999,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        407.021484375,
+        541.7291870117188,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Die ASt ist durch den Nichtausschluss des Angebots der Bg in ihren Rechten verletzt. Das  Angebot der ASt leidet zum derzeitigen Stand des Nachprüfungsverfahrens nicht selbst  unter einem Mangel, der zu einem zwingenden Ausschluss ihres eigenen Angebots im  Rahmen der Wertung und damit zu einer fehlenden Verletzung in ihren Rechten nach § 97  Abs. 7 GWB führen würde.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          70.94400024414062,
+          671.3798828125
+        ],
+        [
+          541.7237548828125,
+          671.3798828125
+        ],
+        [
+          541.7237548828125,
+          760.535285949707
+        ],
+        [
+          70.94400024414062,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        671.3798828125,
+        541.7237548828125,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          291.888671875,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          85.79925537109375
+        ],
+        [
+          291.888671875,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        74.00390625,
+        318.080078125,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/ListGroup/145",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">aa) Das Angebot der ASt ist nicht etwa deshalb von der Wertung auszuschließen, weil es  zum Zeitpunkt der Angebotsabgabe keinen Nachweis der Schallabsorptionswerte nach  DIN EN 20354 für die Akustik- und Dämmfilzauflage in Form eines Prüfzeugnisses  eines unabhängigen Prüfinstitutes enthielt (in Pos. 2.25 des Leistungsverzeichnisses  gefordert). Ein solcher Nachweis war hier nämlich nicht bereits mit Abgabe des  Angebots zu erbringen. Der öffentliche Auftraggeber hat Erklärungen und Nachweise,  die die Bieter bereits mit dem Angebot vorlegen sollen, in den mit der Aufforderung zur  Angebotsabgabe übermittelten Vergabeunterlagen eindeutig und unmissverständlich  anzugeben, so dass sie und der Zeitpunkt ihrer Vorlage aus der Sicht eines  fachkundigen, verständigen Bieters als solche einwandfrei zu erkennen sind. Dies  erfordert die bei einem Unterbleiben drohende Ausschlussfolge nach § 25 Nr. 1 Abs. 1  lit. b VOB/A (so zum Zeitpunkt der Vorlage eines Tragfähigkeitsnachweises: OLG  Düsseldorf, Beschluss vom 9. Dezember 2009, Verg 37/09 m.w.N.). Die Ausführungen  in Pos. 2.25 besagen im vorliegenden Fall nicht ausdrücklich etwas über den  Zeitpunkt, in dem der Nachweis zu führen ist (\"<i>Die Schallabsorptionswerte nach DIN </i> <i>EN 20 354 sind über ein Prüfzeugnis eines unabhängigen Prüfinstitutes bei </i> <i>Registervollbelegung nachzuweisen. Bei Nichtbeachtung kann das Angebot aus dem </i> <i>Bieterverfahren ausgeschlossen werden.</i>\"). Die Ag hat diese Vorgabe selbst so  verstanden, dass das Prüfzeugnis erst auf Anfordern vorzulegen war. Dies ist auch von  allen Bietern so verstanden worden, denn tatsächlich hat keines der in diesem  Vergabeverfahren abgegebenen Angebote zum Zeitpunkt der Angebotsabgabe  Prüfberichte oder Prüfgutachten enthalten. Eine solche Auslegung der Pos. 2.25 ist im  vorliegenden Fall auch sinnvoll, denn das geforderte Prüfzeugnis war hier speziell auf  die Vorgaben der Ausschreibung hin zu erstellen. Es ist daher grundsätzlich sinnvoll,  wenn derartige kostenintensive Nachweise von der Vergabestelle erst auf Anfordern  nach Angebotsabgabe von den Bietern, die in die engere Wahl kommen, abgefragt  werden. Festzustellen ist daher, dass ein Nachweis zum Zeitpunkt der  Angebotsabgabe von den Bietern nicht zu erbringen war. Das Angebot der ASt ist  daher nicht wegen Fehlens des Prüfzeugnisses zum Zeitpunkt der Angebotsabgabe  zwingend von der Wertung auszuschließen. Dies gilt ebenso für das Angebot der Bg  wie auch alle übrigen abgegebenen Angebote.</li><li block-type=\"ListItem\">bb) Die ASt ist auch nicht deshalb von der Wertung auszuschließen, weil sie im Nachgang  zur Angebotsabgabe bislang kein ausreichendes Prüfzeugnis für die Schallabsorption</li></ul></p>",
+      "page": 145,
+      "polygon": [
+        [
+          90.796875,
+          120.05078125
+        ],
+        [
+          541.7295532226562,
+          120.05078125
+        ],
+        [
+          541.7295532226562,
+          772.535285949707
+        ],
+        [
+          90.796875,
+          772.535285949707
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        120.05078125,
+        541.7295532226562,
+        772.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 132,
+      "polygon": [
+        [
+          291.8899841308594,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          74.00390625
+        ],
+        [
+          317.7890625,
+          85.79925537109375
+        ],
+        [
+          291.8899841308594,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.8899841308594,
+        74.00390625,
+        317.7890625,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vorgelegt und damit den geforderten Nachweis nicht erbracht hätte. Die Ag hat zwar  offenbar ein Prüfzeugnis hinsichtlich der Pos. 2.25 während der Wertung der Angebote  bei der ASt und der Bg abgefordert. Der Vergabeakte ist dies jedoch allenfalls inzident  zu entnehmen. So hat das von der Ag mit der technischen Prüfung betraute  Ingenieurbüro mit E-Mail an den Projektsteuerer vom 25. Januar 2010 festgestellt:  <i>\"Uns liegen nur beide Prüfzeugnisse für die Schallabsorption vor. Fa. </i><i>...</i> <i>und Fa. ...</i> <i>konnten kein Prüfzeugnis für die LV-Pos. 2.25 vorlegen, dies müssten wohl beide</i> <i>Firmen erst prüfen lassen\".</i> Damit steht fest, dass die ASt ein zwischenzeitlich  angefordertes Prüfzeugnis vorgelegt hat. Dieses erfüllt aber anscheinend nicht die  Anforderungen hinsichtlich der Pos. 2.25. Dies gilt im Übrigen auch für das Prüfzeugnis  der Bg. Diese Sachlage ist unter den Beteiligten des Nachprüfungsverfahrens auch  unstreitig. Das Angebot der ASt ist aber dennoch nicht zwingend gemäß § 25 Nr. 1  Abs. 1 lit. b i.V.m. § 21 Nr. 1 Abs. 2 VOB/A von der Wertung auszuschließen. Zwar ist  ein Angebot, dass die geforderten Erklärungen nicht enthält, regelmäßig von der  Wertung auszuschließen (BGH, Urteil vom 24. Mai 2005, X ZR 243/02). Ein  Ausschluss ist aber nur möglich, wenn eindeutig ist, welche Unterlagen und Angaben  zu welchem Zeitpunkt einzureichen waren. Hier ist jedoch der Vergabeakte nicht zu  entnehmen, wann, mit welchem Inhalt und mit welcher Frist Unterlagen von den  Bietern angefordert wurden. Anscheinend hat die Ag sich über das eingeschaltete  Ingenieurbüro an ASt und Bg (nicht aber an die übrigen Bieter) gewandt, um von  diesen Prüfzeugnisse abzufordern. Bei den übrigen Bietern von befinden sich keinerlei  weitere – über die reinen Angebotsunterlagen hinausgehenden – Unterlagen in der  Vergabeakte. Offenbar haben ASt und Ag daraufhin Prüfzeugnisse für die  Schallabsorption (das der ASt befindet sich aber nicht in der Vergabeakte) eingereicht.  Aufgrund des fehlenden Schriftverkehrs in der Vergabeakte lässt sich nicht klären, ob  die Aufforderungen an ASt (und Bg) eine abschließende Fristsetzung enthielten, die  weitere Voraussetzung für einen Ausschlusstatbestand bei nachgeforderten  Unterlagen wäre. Es ist daher auf der Grundlage der Vergabeakte nicht möglich, zu  Lasten der ASt einen Ausschlusstatbestand gemäß § 25 Nr. 1 Abs. 1 lit. b VOB/A  anzunehmen. Dies gilt im Übrigen genauso für das Angebot der Bg.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          112.91406249999999,
+          121.6953125
+        ],
+        [
+          541.7315063476562,
+          121.6953125
+        ],
+        [
+          541.7315063476562,
+          684.5792846679688
+        ],
+        [
+          112.91406249999999,
+          684.5792846679688
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        121.6953125,
+        541.7315063476562,
+        684.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 132,
+      "polygon": [
+        [
+          307.603515625,
+          722.3603515625
+        ],
+        [
+          322.1059875488281,
+          722.3603515625
+        ],
+        [
+          322.1059875488281,
+          735.6400909423828
+        ],
+        [
+          307.603515625,
+          735.6400909423828
+        ]
+      ],
+      "bbox": [
+        307.603515625,
+        722.3603515625,
+        322.1059875488281,
+        735.6400909423828
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 96,
+      "polygon": [
+        [
+          291.888671875,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          74.00390625
+        ],
+        [
+          318.080078125,
+          85.79925537109375
+        ],
+        [
+          291.888671875,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        74.00390625,
+        318.080078125,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 128 Abs. 3 Satz 1, Abs. 4 Satz 1 und 4 GWB i.V.m. § 80  Abs. 3 Satz 2 VwVfG. Es ist von einem vollen Obsiegen der ASt auf der Grundlage ihres  Hilfsantrags auszugehen. Denn die ASt hat das von ihr mit dem Nachprüfungsantrag verfolgte  wirtschaftliche Ziel, der Zuschlag dürfe unter Weiterführung des Vergabeverfahrens nicht auf  das Angebot der Bg ergehen, erreicht (vgl. zur Kostenquotelung bei Teilerfolg im Hilfsantrag:  OLG Düsseldorf, Beschluss vom 18. Dezember 2006, Verg 43/06).</p>",
+      "page": 96,
+      "polygon": [
+        [
+          69.84375,
+          121.6953125
+        ],
+        [
+          541.7295532226562,
+          121.6953125
+        ],
+        [
+          541.7295532226562,
+          229.0992431640625
+        ],
+        [
+          69.84375,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        121.6953125,
+        541.7295532226562,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag sowie die Bg haben die Kosten des Verfahrens als Gesamtschuldner zu tragen, da sie  im Verfahren unterlegen sind (§ 128 Abs. 3 Sätze 1 und 2 GWB). Neben der Ag ist auch die Bg  als unterliegende Beteiligte anzusehen. Die ASt hat sich in einen ausdrücklichen, bewussten  und gewollten Interessengegensatz zur Bg gestellt, indem sie den Ausschluss deren Angebots  begehrt hat. Die Bg hat sich durch die Stellung von Anträgen und durch schriftsätzliche  Ausführungen aktiv am Verfahren beteiligt (vgl. OLG Düsseldorf, Beschlüsse vom 13. August  2003, Verg 1/02, und vom 23. November 2004, VII-Verg 69/04 m.w.N.).</p>",
+      "page": 96,
+      "polygon": [
+        [
+          68.6796875,
+          261.0693359375
+        ],
+        [
+          541.5018310546875,
+          261.0693359375
+        ],
+        [
+          541.5018310546875,
+          386.9292907714844
+        ],
+        [
+          68.6796875,
+          386.9292907714844
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        261.0693359375,
+        541.5018310546875,
+        386.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag und die Bg haben zudem die zur zweckentsprechenden Rechtsverfolgung notwendigen  Auslagen der ASt zu tragen (§ 128 Abs. 4 Satz 1 und 4 GWB i.V.m. § 80 VwVfG). Die Bg kann  dann an der Auslagenerstattung teilhaben, wenn dies der Billigkeit entspricht (§§ 154 Absatz 3, 162 Absatz 3 analog; vgl. OLG Düsseldorf, Beschluss vom 17. Mai 2004, VII-Verg 12/03  m.w.N.). Die entsprechenden Voraussetzungen sind hier erfüllt. Da eine gesamtschuldnerische  Haftung mangels gesetzlicher Anordnung nicht in Betracht kommt, haften die Ag und die Bg für  die zu erstattenden Kosten nach Kopfteilen, also je zur Hälfte (analog § 159 VwGO i.V.m. § 100  Absatz 1 ZPO) (vgl. auch OLG Düsseldorf, Beschluss vom 12. September 2007, VII-Verg  28/07).</p>",
+      "page": 96,
+      "polygon": [
+        [
+          69.84375,
+          419.92926025390625
+        ],
+        [
+          541.7391357421875,
+          419.92926025390625
+        ],
+        [
+          541.7391357421875,
+          582.6692810058594
+        ],
+        [
+          69.84375,
+          582.6692810058594
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        419.92926025390625,
+        541.7391357421875,
+        582.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung eines Bevollmächtigten durch die ASt war notwendig, da das  Nachprüfungsverfahren umfangreiche Sach- und Rechtsfragen aufgeworfen hat, die die  Beauftragung eines Verfahrensbevollmächtigten als sachgerecht erscheinen lassen (vgl. BGH,  Beschluss vom 26. September 2006, X ZB 14/06).</p>",
+      "page": 96,
+      "polygon": [
+        [
+          70.94400024414062,
+          620.3994140625
+        ],
+        [
+          541.646728515625,
+          620.3994140625
+        ],
+        [
+          541.646728515625,
+          689.6192932128906
+        ],
+        [
+          70.94400024414062,
+          689.6192932128906
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        620.3994140625,
+        541.646728515625,
+        689.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 96,
+      "polygon": [
+        [
+          306.73046875,
+          730.4800872802734
+        ],
+        [
+          322.8139953613281,
+          730.4800872802734
+        ],
+        [
+          322.8139953613281,
+          742.4800872802734
+        ],
+        [
+          306.73046875,
+          742.4800872802734
+        ]
+      ],
+      "bbox": [
+        306.73046875,
+        730.4800872802734,
+        322.8139953613281,
+        742.4800872802734
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- 18 -</p>",
+      "page": 77,
+      "polygon": [
+        [
+          291.888671875,
+          73.5927734375
+        ],
+        [
+          318.080078125,
+          73.5927734375
+        ],
+        [
+          318.080078125,
+          85.79925537109375
+        ],
+        [
+          291.888671875,
+          85.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        73.5927734375,
+        318.080078125,
+        85.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          122.1064453125
+        ],
+        [
+          541.3792724609375,
+          122.1064453125
+        ],
+        [
+          541.3792724609375,
+          134.4404296875
+        ],
+        [
+          69.84375,
+          134.4404296875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        122.1064453125,
+        541.3792724609375,
+        134.4404296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung</p>",
+      "page": 77,
+      "polygon": [
+        [
+          68.6796875,
+          141.4296875
+        ],
+        [
+          541.4335327148438,
+          141.4296875
+        ],
+        [
+          541.4335327148438,
+          153.25927734375
+        ],
+        [
+          68.6796875,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        141.4296875,
+        541.4335327148438,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">beginnt, beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          159.1083984375
+        ],
+        [
+          541.7293090820312,
+          159.1083984375
+        ],
+        [
+          541.7293090820312,
+          172.21929931640625
+        ],
+        [
+          69.84375,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        159.1083984375,
+        541.7293090820312,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Düsseldorf, einzulegen.</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          178.431640625
+        ],
+        [
+          186.25,
+          178.431640625
+        ],
+        [
+          186.25,
+          191.17926025390625
+        ],
+        [
+          69.84375,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        178.431640625,
+        186.25,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          227.767578125
+        ],
+        [
+          541.4246826171875,
+          227.767578125
+        ],
+        [
+          541.4246826171875,
+          241.0992431640625
+        ],
+        [
+          70.94400024414062,
+          241.0992431640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        227.767578125,
+        541.4246826171875,
+        241.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          247.9130859375
+        ],
+        [
+          541.4974365234375,
+          247.9130859375
+        ],
+        [
+          541.4974365234375,
+          260.17926025390625
+        ],
+        [
+          69.84375,
+          260.17926025390625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        247.9130859375,
+        541.4974365234375,
+        260.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          267.6474609375
+        ],
+        [
+          541.7008056640625,
+          267.6474609375
+        ],
+        [
+          541.7008056640625,
+          279.1392822265625
+        ],
+        [
+          69.84375,
+          279.1392822265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        267.6474609375,
+        541.7008056640625,
+        279.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          287.08929443359375
+        ],
+        [
+          430.703125,
+          287.08929443359375
+        ],
+        [
+          430.703125,
+          298.1292724609375
+        ],
+        [
+          70.94400024414062,
+          298.1292724609375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        287.08929443359375,
+        430.703125,
+        298.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterschrieben sein. Dies gilt nicht für</p>",
+      "page": 77,
+      "polygon": [
+        [
+          69.84375,
+          335.0732421875
+        ],
+        [
+          541.44677734375,
+          335.0732421875
+        ],
+        [
+          541.44677734375,
+          348.0492858886719
+        ],
+        [
+          69.84375,
+          348.0492858886719
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        335.0732421875,
+        541.44677734375,
+        348.0492858886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          354.396484375
+        ],
+        [
+          387.6328125,
+          354.396484375
+        ],
+        [
+          387.6328125,
+          367.00927734375
+        ],
+        [
+          70.94400024414062,
+          367.00927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        354.396484375,
+        387.6328125,
+        367.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der</p>",
+      "page": 77,
+      "polygon": [
+        [
+          67.515625,
+          405.376953125
+        ],
+        [
+          541.4984741210938,
+          405.376953125
+        ],
+        [
+          541.4984741210938,
+          416.9292907714844
+        ],
+        [
+          67.515625,
+          416.9292907714844
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        405.376953125,
+        541.4984741210938,
+        416.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der</p>",
+      "page": 77,
+      "polygon": [
+        [
+          68.6796875,
+          423.0556640625
+        ],
+        [
+          541.450927734375,
+          423.0556640625
+        ],
+        [
+          541.450927734375,
+          435.8892822265625
+        ],
+        [
+          68.6796875,
+          435.8892822265625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        423.0556640625,
+        541.450927734375,
+        435.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          442.7900390625
+        ],
+        [
+          541.380615234375,
+          442.7900390625
+        ],
+        [
+          541.380615234375,
+          454.9692687988281
+        ],
+        [
+          70.94400024414062,
+          454.9692687988281
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        442.7900390625,
+        541.380615234375,
+        454.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          462.5244140625
+        ],
+        [
+          541.4561767578125,
+          462.5244140625
+        ],
+        [
+          541.4561767578125,
+          473.94927978515625
+        ],
+        [
+          70.94400024414062,
+          473.94927978515625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        462.5244140625,
+        541.4561767578125,
+        473.94927978515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entscheidung über die Beschwerde verlängern.</p>",
+      "page": 77,
+      "polygon": [
+        [
+          70.94400024414062,
+          481.8692626953125
+        ],
+        [
+          303.23828125,
+          481.8692626953125
+        ],
+        [
+          303.23828125,
+          492.9092712402344
+        ],
+        [
+          70.94400024414062,
+          492.9092712402344
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        481.8692626953125,
+        303.23828125,
+        492.9092712402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Brauer</p>",
+      "page": 77,
+      "polygon": [
+        [
+          148.126953125,
+          580.9306640625
+        ],
+        [
+          440.0768737792969,
+          580.9306640625
+        ],
+        [
+          440.0768737792969,
+          592.7492828369141
+        ],
+        [
+          148.126953125,
+          592.7492828369141
+        ]
+      ],
+      "bbox": [
+        148.126953125,
+        580.9306640625,
+        440.0768737792969,
+        592.7492828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 77,
+      "polygon": [
+        [
+          407.712890625,
+          580.9306640625
+        ],
+        [
+          439.724609375,
+          580.9306640625
+        ],
+        [
+          439.724609375,
+          589.9755859375
+        ],
+        [
+          407.712890625,
+          589.9755859375
+        ]
+      ],
+      "bbox": [
+        407.712890625,
+        580.9306640625,
+        439.724609375,
+        589.9755859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 150,
+      "polygon": [
+        [
+          20.080078124999996,
+          25.9013671875
+        ],
+        [
+          192.943359375,
+          25.9013671875
+        ],
+        [
+          192.943359375,
+          71.1259765625
+        ],
+        [
+          20.080078124999996,
+          71.1259765625
+        ]
+      ],
+      "bbox": [
+        20.080078124999996,
+        25.9013671875,
+        192.943359375,
+        71.1259765625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACXAkADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACikPWuS8XfELR/CMB+0yiW5I+WFDk59/SgDrGZUUszBQOpJxXPav458PaID9r1GLcP4UYMf0r548UfFfxB4ildIZzZ2p6JGcHHuRXCSu87l5naRj1LHJoA+kp/jv4aikKxpPIB3Ckf0pIvjv4Zc4dJ0/4CT/AEr5uxikOKAPqqz+L3hO74+2tGf9pCK1U+IHhmR41XVIsucDmvj/AGBzgKWPoBmtjSfCWt61Mkdjp0xyeGZSoH4mmB9lQzxXEQkhkWRD0ZTkGpa4v4b+GtT8M+G0tNUuzPMWLbSc7B6V2lIAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApCcUVxPxI8aJ4U0NhB899OCkSDkj3/WgDE+JnxRi8NxNpumMsmouMEg5EY/xr5zvr661K8e7vZmmnc5LMc1dew1LVbuS7uSTLK253c9auweHI1IM8hbnkCgDnRljhQWPoBmtKx8PaxqTBbTTrh89yhAr6T8FeCvCjaJa3sGnRSyMg3NIAx3Y57V3VvaW9qu23hSJfRRigD5l0r4LeKdRCvMsdrGe7EE/zrudI+AVjEVfU755j3WPK17RRigDkdL+GvhbSdpg02N2H8UoDH+VdRb2sFrHsgiSJfRBgVNSZoAKM0hYKOSB9aqXGp2lsP3ky/gc1nOpCCvJ2Gk3sM1LU/7NVZZIWeEnDMvO38Ks211FdwLPA4aNhkGuc1HxVAYmigi35GCW6VmeHtc+x3Zt5MLBIcgDopNcDzSh7VQTvc19hPlvY7zNApAQwyDkHpSivTMRaKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAGsdqk+gzXzv41vm1XxVdSyfMImMaA9sGvokjIIPQ14N4/8AD8+k69NchCbadtwYDgE0AclRRmpYbae4bbDC7n2FKUoxV5OwJXOy8BeMjoVz9ivGJs5Dwf7pr2qC4iuYVlhdXRhkFTmvn+y8F6reAFkWJT3avQfDNhfeHovLN8ZYyP8AVnOB9K8vEZ1g6G87vyNY0ZvoeibgOpFRPdwx/ecfnXNyXtxL96Q/hVZ2J5JzXiV+Ko7UYfebLDd2b82t28eQuWrLufEMx4iUKPesyRqqyNXm1M8xlb7VvQ2jQgie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8zrFfWSiGWJzggiutuby3tIHmnmSNFGSWbFcvrvw+07Vr86jbSy2N+es0B2lvrWaPhnLeuq6zrt7fQKc+U75B+vFAEHgzdr/AI31fxCin7FgQQOR9/BPP5GpvBf/ACULxT/v/wDsxrudP0610uyjs7OFYoIxhUUYArN0nw1BpWuajqccjNJenLg9BzmgDbrzrUf+S02H/XqP5NXouKw5/DME/iyHXzIwmij8sL2xz/jQByMdyPCnxPu3vfks9UQbJj0D5JIP6V6Os0bLuWRCvqGGKoa3oOn+ILE2moQLLH1BI5U+orkv+FcXcA8iz8R6hDadPK8zt+VAHaRalZ3NzJaRXEbzKMsqnOK4HwrcxaP8Q9e0+8YRPct5sJfgOCT0/Kup8OeDtN8NeZJbK0lzL/rJ5OWb8aPEvg7TfEyxvcq0dzFzHPHw6/jQBuPPFFGZHkRUAySTxXlGj61BrXxpumtm3QwwCMOOjEFulbP/AAre+nxDe+Jb+e07xGTqPTpWxpXgLS9F1qLULFfK8uIRhB0OM8/rQBhRf8lsuP8AryT+bV6QKwV8L26+LX1/zG85ohFt7YBP+Nb1AHnXjT/kffDf/XVv/QTXolYereGYNV1mw1KSRlks2LKB0ORitzFAHmvxY0lJo9M1SW3+0W1rNmdMZ+U8Z/WtTTvB3gnVrOO6s7C0kikGQQBXZXFvFdQPBMgeJxhlPQiuEl+GMdpO8mhardaajnJiifCj6DFAE2o+EvAulw+ZeWVnGpOACMkn6VsXdjY6f4OuYNOiWK28hiiqMDpWRp/w1skvEvNXvJ9TnQ5Xz23KD+VdfeWSXdhLaH5UkQpx2FAHKfC3/kRLH/dH8hXZSj90/wDumszw7oUXh7R4dOgcvHEMAnrWqy7lK+oxQB5r4Ltxd3XiqD/npcSL/KpvhvqMWmW9z4avnEN5ZyFVDnG9eACK6nQ/DcGh3d9PFIzG7lMjA9iar+IvBWl+IZUuZVaG8T7lxFw4/GgDfeeKKMu8qKgGSSwrH1cQeI/DN7DZTLKskZUMvTPWucPw3urnEN/4hv7i1/55GTqPyrsNH0ay0LT47GwhWKFBwAOtAHl/w+8P+FdR0ZdP1HTrddVs/wB1OsgAZiO9djJ4B8HwoXl020RQMksAKd4g8AabrV9/aMTyWWof894Dgn61lD4bXN2Qmq+Ib67tx1jMnB/SgDa8L6X4YhkmutBghBB8t3jXHSuoqhpGjWOh2CWenwLDCg6KOtX6ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>VERSION PUBLIQUE</b></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          240.37890624999997,
+          67.8369140625
+        ],
+        [
+          332.33984375,
+          67.8369140625
+        ],
+        [
+          332.33984375,
+          80.12005615234375
+        ],
+        [
+          240.37890624999997,
+          80.12005615234375
+        ]
+      ],
+      "bbox": [
+        240.37890624999997,
+        67.8369140625,
+        332.33984375,
+        80.12005615234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>AUTORITÉ BELGE DE LA CONCURRENCE</b></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          172.28125,
+          97.02734375
+        ],
+        [
+          400.6778259277344,
+          97.02734375
+        ],
+        [
+          400.6778259277344,
+          113.4100341796875
+        ],
+        [
+          172.28125,
+          113.4100341796875
+        ]
+      ],
+      "bbox": [
+        172.28125,
+        97.02734375,
+        400.6778259277344,
+        113.4100341796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Auditorat</b></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          258.421875,
+          128.2734375
+        ],
+        [
+          315.0717468261719,
+          128.2734375
+        ],
+        [
+          315.0717468261719,
+          142.57000732421875
+        ],
+        [
+          258.421875,
+          142.57000732421875
+        ]
+      ],
+      "bbox": [
+        258.421875,
+        128.2734375,
+        315.0717468261719,
+        142.57000732421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Procédure simplifiée -</b> <b>Décision n° ABC-2016-C/C-08-AUD du 29 février 2016.</b> <b>Affaire CONC-C/C-16/0004</b> <b>: Crédit Mutuel Arkéa / Keytrade Bank SA</b> <b>Livre IV -</b> <b>Code de droit économique </b><b>–</b> <b>Loi du 3 avril 2013</b><sup>1</sup> <b>, article IV. 63, §3</b></p>",
+      "page": 150,
+      "polygon": [
+        [
+          84.9765625,
+          171.82000732421875
+        ],
+        [
+          463.864013671875,
+          171.82000732421875
+        ],
+        [
+          463.864013671875,
+          213.0999755859375
+        ],
+        [
+          84.9765625,
+          213.0999755859375
+        ]
+      ],
+      "bbox": [
+        84.9765625,
+        171.82000732421875,
+        463.864013671875,
+        213.0999755859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Le 11 février 2016, l'Auditeur général de l'Autorité belge de la concurrence a reçu  notification, conformément à l'article IV.10§1er du code de droit économique, d'une  opération de concentration, par laquelle la société Crédit Mutuel Arkéa (« CMA ») acquière,  au sens de l'article IV.6, §1er, 2° du code de droit économique, le contrôle exclusif de la  société Keytrade Bank SA (« Keytrade »).</li><li block-type=\"ListItem\">2. La partie notifiante a demandé l'application de la procédure simplifiée visée à l'article IV.63  du code de droit économique.</li><li block-type=\"ListItem\">3. CMA est une société anonyme coopérative de crédit de droit français ayant son siège social  Rue Louis Lichou 1, 29480 Le Relecq-Kerhuon, France.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">CMA est un groupe bancaire mutualiste regroupant les fédérations de Crédit Mutuel de  Bretagne, Crédit Mutuel du Sud-Ouest et Crédit Mutuel du Massif Central ainsi qu'une  vingtaine de filiales. Il est actif dans les métiers des secteurs bancaire, financier et de  l'assurance, ainsi que l'immobilier. Il offre des produits et services de banque et d'assurance  aux particuliers et aux professionnels.</li></ul></li><li block-type=\"ListItem\">4. Keytrade est une société anonyme de droit belge ayant son siège social à Boulevard du  Souverain 100 à 1170 Bruxelles. Keytrade est une plateforme internet offrant aux  particuliers des services bancaires de détail, de courtage en ligne, d'assurance-vie de tiers  ainsi qu'un service de financement de flotte automobile (RealLease). L'entreprise est active  principalement en Belgique où elle réalise l'essentiel de son chiffre d'affaires.</li><li block-type=\"ListItem\">5. Après examen de la notification et instruction de l'affaire, il apparaît que la concentration  tombe dans le champ d'application du code de droit économique ainsi que de la catégorie c)  de la Communication du Conseil de la concurrence relative aux règles spécifiques d'une  notification simplifiée de concentrations.</li><li block-type=\"ListItem\">6. L'auditeur constate, en vertu de l'article IV.63 §3 du code de droit économique, que les  conditions d'application de la procédure simplifiée sont remplies et que la concentration  notifiée ne soulève pas d'opposition.</li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          66.3515625,
+          245.03515625
+        ],
+        [
+          541.4559326171875,
+          245.03515625
+        ],
+        [
+          541.4559326171875,
+          711.3000030517578
+        ],
+        [
+          66.3515625,
+          711.3000030517578
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        245.03515625,
+        541.4559326171875,
+        711.3000030517578
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 150,
+      "polygon": [
+        [
+          49.68000030517578,
+          775.9414596557617
+        ],
+        [
+          52.68000030517578,
+          775.9414596557617
+        ],
+        [
+          52.68000030517578,
+          787.941463470459
+        ],
+        [
+          49.68000030517578,
+          787.941463470459
+        ]
+      ],
+      "bbox": [
+        49.68000030517578,
+        775.9414596557617,
+        52.68000030517578,
+        787.941463470459
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> M.B. du 26 avril 2013</p>",
+      "page": 150,
+      "polygon": [
+        [
+          48.890625,
+          788.0599975585938
+        ],
+        [
+          134.39401245117188,
+          788.0599975585938
+        ],
+        [
+          134.39401245117188,
+          799.3699989318848
+        ],
+        [
+          48.890625,
+          799.3699989318848
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        788.0599975585938,
+        134.39401245117188,
+        799.3699989318848
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Form/0",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th>7.</th><th>Conformément à l'article IV.63 §4 du code de droit économique, la présente lettre doit être</th></tr><tr><th></th><th>considérée, aux fins de l'application du code de droit économique, comme une décision</th></tr><tr><th></th><th>d'admissibilité du Collège de la concurrence au sens de l'article IV.61§2, 1° du code de droit</th></tr><tr><th></th><th>économique.</th></tr></tbody></table>",
+      "page": 30,
+      "polygon": [
+        [
+          66.3515625,
+          70.3037109375
+        ],
+        [
+          541.2940063476562,
+          70.3037109375
+        ],
+        [
+          541.2940063476562,
+          128.260009765625
+        ],
+        [
+          66.3515625,
+          128.260009765625
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        70.3037109375,
+        541.2940063476562,
+        128.260009765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">L'Auditeur-Benjamin Matagne</p>",
+      "page": 30,
+      "polygon": [
+        [
+          220.58984374999997,
+          160.17999267578125
+        ],
+        [
+          368.42578125,
+          160.17999267578125
+        ],
+        [
+          368.42578125,
+          172.17999267578125
+        ],
+        [
+          220.58984374999997,
+          172.17999267578125
+        ]
+      ],
+      "bbox": [
+        220.58984374999997,
+        160.17999267578125,
+        368.42578125,
+        172.17999267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 30,
+      "polygon": [
+        [
+          532.267578125,
+          817.7431640625
+        ],
+        [
+          538.7372436523438,
+          817.7431640625
+        ],
+        [
+          538.7372436523438,
+          829.1599998474121
+        ],
+        [
+          532.267578125,
+          829.1599998474121
+        ]
+      ],
+      "bbox": [
+        532.267578125,
+        817.7431640625,
+        538.7372436523438,
+        829.1599998474121
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

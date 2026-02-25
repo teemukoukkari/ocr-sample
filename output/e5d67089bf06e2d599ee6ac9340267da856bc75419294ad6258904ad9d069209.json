@@ -1,0 +1,788 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          199.19992065429688,
+          36.1796875
+        ],
+        [
+          533.1791381835938,
+          36.1796875
+        ],
+        [
+          533.1791381835938,
+          52.625
+        ],
+        [
+          199.19992065429688,
+          52.625
+        ]
+      ],
+      "bbox": [
+        199.19992065429688,
+        36.1796875,
+        533.1791381835938,
+        52.625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 149,
+      "polygon": [
+        [
+          54.12524414062501,
+          25.4080078125
+        ],
+        [
+          199.21459960937503,
+          25.4080078125
+        ],
+        [
+          199.21459960937503,
+          81.4865234375
+        ],
+        [
+          54.12524414062501,
+          81.4865234375
+        ]
+      ],
+      "bbox": [
+        54.12524414062501,
+        25.4080078125,
+        199.21459960937503,
+        81.4865234375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"> GAASI 5, 11415 TALLINN TELEFON: +372 605 6801 KMKR EE101650582  FAKS: +372 601 2925 SWEDBANK</p>",
+      "page": 149,
+      "polygon": [
+        [
+          199.20008850097656,
+          38.2353515625
+        ],
+        [
+          532.6766357421875,
+          38.2353515625
+        ],
+        [
+          532.6766357421875,
+          68.6591796875
+        ],
+        [
+          199.20008850097656,
+          68.6591796875
+        ]
+      ],
+      "bbox": [
+        199.20008850097656,
+        38.2353515625,
+        532.6766357421875,
+        68.6591796875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">WWW.GAASIVORGUD.EE EE432200221057359839</p>",
+      "page": 149,
+      "polygon": [
+        [
+          151.07977294921875,
+          36.5908203125
+        ],
+        [
+          534.0239868164062,
+          36.5908203125
+        ],
+        [
+          534.0239868164062,
+          73.80450439453125
+        ],
+        [
+          151.07977294921875,
+          73.80450439453125
+        ]
+      ],
+      "bbox": [
+        151.07977294921875,
+        36.5908203125,
+        534.0239868164062,
+        73.80450439453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet  Auna 6  10317 Tallinn  info@konkurentsiamet.ee  Anna.Mazur@konkurentsiamet.ee</p>",
+      "page": 149,
+      "polygon": [
+        [
+          83.671875,
+          116.51300048828125
+        ],
+        [
+          262.3199157714844,
+          116.51300048828125
+        ],
+        [
+          262.3199157714844,
+          184.785888671875
+        ],
+        [
+          83.671875,
+          184.785888671875
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        116.51300048828125,
+        262.3199157714844,
+        184.785888671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<blockquote><p block-type=\"Text\">Teie 11.10.2018  Meie 12.10.2018 nr GV-K18-124-2/1-V</p></blockquote>",
+      "page": 149,
+      "polygon": [
+        [
+          337.5927734375,
+          199.3994140625
+        ],
+        [
+          541.0122680664062,
+          199.3994140625
+        ],
+        [
+          541.0122680664062,
+          227.02593994140625
+        ],
+        [
+          337.5927734375,
+          227.02593994140625
+        ]
+      ],
+      "bbox": [
+        337.5927734375,
+        199.3994140625,
+        541.0122680664062,
+        227.02593994140625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2>Kohustuse võtmise täiendatud taotlus</h2>",
+      "page": 149,
+      "polygon": [
+        [
+          84.833984375,
+          255.23291015625
+        ],
+        [
+          281.6175537109375,
+          255.23291015625
+        ],
+        [
+          281.6175537109375,
+          267.225830078125
+        ],
+        [
+          84.833984375,
+          267.225830078125
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        255.23291015625,
+        281.6175537109375,
+        267.225830078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Gaasivõrgud (edaspidi GV) on valmis võtma Konkurentsiseaduse § 637 kohase  kohustuse ja esitab käesolevaga Konkurentsiametile vastavasisulise taotluse.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          84.833984375,
+          294.7822265625
+        ],
+        [
+          540.9609375,
+          294.7822265625
+        ],
+        [
+          540.9609375,
+          321.3458251953125
+        ],
+        [
+          84.833984375,
+          321.3458251953125
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        294.7822265625,
+        540.9609375,
+        321.3458251953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">GV on valmis võtma kohustuse alljärgnevatel tingimustel:</p>",
+      "page": 149,
+      "polygon": [
+        [
+          84.2529296875,
+          329.3929443359375
+        ],
+        [
+          381.4804992675781,
+          329.3929443359375
+        ],
+        [
+          381.4804992675781,
+          341.3858947753906
+        ],
+        [
+          84.2529296875,
+          341.3858947753906
+        ]
+      ],
+      "bbox": [
+        84.2529296875,
+        329.3929443359375,
+        381.4804992675781,
+        341.3858947753906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2>Ühisarve võimaldamise põhitingimused</h2>",
+      "page": 149,
+      "polygon": [
+        [
+          84.2529296875,
+          349.462890625
+        ],
+        [
+          291.0235900878906,
+          349.462890625
+        ],
+        [
+          291.0235900878906,
+          361.5458679199219
+        ],
+        [
+          84.2529296875,
+          361.5458679199219
+        ]
+      ],
+      "bbox": [
+        84.2529296875,
+        349.462890625,
+        291.0235900878906,
+        361.5458679199219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/149",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">1. GV töötab välja ühisarve esitamise tehnilise lahenduse ja GV poolt gaasi müüjatele  (edaspidi müüja) rakendatavad tüüptingimused GV võrguga ühendatud  gaasitarbijatele (edaspidi tarbija) ühisarve esitamiseks. GV tagab kõikidele müüjatele  võimaluse hakata tarbijatele ühisarvet esitama GV väljatöötatud tehnilistel- ja  tüüptingimustel.</li><li block-type=\"ListItem\">2. Ühisarve esitamiseks tuleb müüjal eelnevalt sõlmida GV-ga GV kehtestatud  tüüptingimustel leping (edaspidi Leping). Lepingu mittesõlmimisel on GV-l õigus  ühisarve esitamise võimaldamisest keelduda või Lepingu rikkumisel selle  võimaldamine lõpetada.</li><li block-type=\"ListItem\">3. Ühisarve esitamise võimaldamiseks GV koostab ja teeb tarbija valitud müüjale ASi  Elering (edaspidi süsteemihaldur) andmevahetusplatvormi (edaspidi AVP) kaudu  kättesaadavaks digitaalse võrguteenuse arve, mida müüja saab kasutada ühisarve  koostamiseks. Kogu ühisarve esitamisega seonduv infovahetus GV ja müüja vahel  hakkab toimuma AVP kaudu.</li><li block-type=\"ListItem\">4. Digitaalse võrguteenuse arve AVP-st vastuvõtmise, ühisarve koostamise ja tarbijale  edastamise, sh vastava võimekuse väljatöötamise ja olemasolu eest vastutab müüja. GV  ei vastuta GV tegevusest mittesõltuvatest, sh süsteemihaldurist, AVP-st või müüjast  tingitud mistahes tehniliste vm puuduste eest, mis takistab müüjal AVP-st digitaalse  võrguteenuse arve vastuvõtmist või tarbijale ühisarve koostamist.</li><li block-type=\"ListItem\">5. Müüja, kes soovib hakata ühisarvet esitama, võib arve esitamise valiku teha eraldi  kodutarbija ja vabatarbija segmendis. Vastava segmendi kohta valiku tegemise järgselt  peab müüja võrguteenuste eest arve väljastama kõigile selle segmendi klientidele.</li><li block-type=\"ListItem\">6. Nendele tarbijatele, kelle valitud müüja ei soovi ühisarvet esitada, esitab võrguteenuse  arve GV või tema poolt valitud arveldusteenuse osutaja.</li></ul></p>",
+      "page": 149,
+      "polygon": [
+        [
+          84.833984375,
+          368.7861328125
+        ],
+        [
+          540.97412109375,
+          368.7861328125
+        ],
+        [
+          540.97412109375,
+          742.6657028198242
+        ],
+        [
+          84.833984375,
+          742.6657028198242
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        368.7861328125,
+        540.97412109375,
+        742.6657028198242
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/176",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">7. U; hisarve esitamiseks GV annab mü ü jale ü le (st loovutab) vastavatest võ rgulepingutest  tulenevad võ rguteenuse tasunõ uded tarbijate vastu (edaspidi nõ ue). GV ei maksa  mü ü jale nõ ude loovutamise eest tasu. GV loovutab nõ ude Lepingu alusel.</li><li block-type=\"ListItem\">8. Pärast Lepingu sõlmimist ja ühisarvete esitamisega alustamist:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">8.1. GV esitab müüjale arve üks kord kuus eelmisel kuul müüja klientidest tarbijatele  GV poolt osutatud võrguteenuste kogumaksumuse eest. Arve esitamise kuupäev ja  tasumise tähtpäev sätestatakse ühisarve tüüptingimustes. Arve sisaldab kõiki  kohalduvaid makse (s.h. aktsiisi), mida võrguteenuse arve peab sisaldama. Müüja  kohustub arve GV-le tasuma sõltumata sellest, kas tarbijad on müüjale  võrguteenuse ja aktsiisi eest tasunud. Tarbija krediidirisk on müüjal. Müüja  kohustub GV poolt esitatud arve tasuma ühisarve tüüptingimustes sätestatud  tähtpäevaks;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">8.2. tarbijad tasuvad GV poolt tarbijatele osutatud võrguteenuse eest müüjale;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">8.3. müüja haldab ja lahendab tarbijate poolt esitatud pöördumisi, mis puudutavad  võrguteenuse arveid.</li></ul></li><li block-type=\"ListItem\">9. GV rakendab müüja krediidiriski (punktis 8.1 nimetatud arvete tasumine)  maandamiseks ja Lepinguga võetud müüja kohustuste täitmise tagamiseks (st nõuab  müüjalt) ühte järgmistest tagatistest: (i) pangagarantii, (ii) igakuine ettemaks või (iii)  pangagarantii kombineerituna igakuise ettemaksuga. Tagatise andmisega seotud  kulud kannab müüja. Tagatise minimaalne suurus on võrdne punktis 8.1 nimetatud  vastava kuu arve summaga, mille suuruse määrab GV enda prognoosi alusel.</li><li block-type=\"ListItem\">10. GV ei maksa müüjale võrguteenuse või ühisarve esitamise eest tasu ning ei hüvita  müüjale Lepingu täitmisega kaasnevaid mistahes kulusid või kahju. GV ei hüvita  müüjale mistahes kulusid või kahju, mis võivad müüjal tekkida seoses tarbijatelt  nõude sissenõudmisega (sh inkassotasu, menetluskulud, riigilõiv, jne).</li></ul></p>",
+      "page": 200,
+      "polygon": [
+        [
+          84.833984375,
+          58.380859375
+        ],
+        [
+          540.9673461914062,
+          58.380859375
+        ],
+        [
+          540.9673461914062,
+          464.580078125
+        ],
+        [
+          84.833984375,
+          464.580078125
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        58.380859375,
+        540.9673461914062,
+        464.580078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2>Kohustuse täitmise etapid ja planeeritav lõpptähtaeg</h2>",
+      "page": 200,
+      "polygon": [
+        [
+          82.509765625,
+          471.952880859375
+        ],
+        [
+          357.83782958984375,
+          471.952880859375
+        ],
+        [
+          357.83782958984375,
+          483.94580078125
+        ],
+        [
+          82.509765625,
+          483.94580078125
+        ]
+      ],
+      "bbox": [
+        82.509765625,
+        471.952880859375,
+        357.83782958984375,
+        483.94580078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">11. Kohustuse täitmise kavandatavad etapid ja tähtajad:</p>",
+      "page": 200,
+      "polygon": [
+        [
+          84.833984375,
+          491.9928894042969
+        ],
+        [
+          370.71289062500006,
+          491.9928894042969
+        ],
+        [
+          370.71289062500006,
+          503.9858093261719
+        ],
+        [
+          84.833984375,
+          503.9858093261719
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        491.9928894042969,
+        370.71289062500006,
+        503.9858093261719
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Table/9",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Tegevus</th><th>Aeg</th></tr><tr><td>I etapp</td><td></td></tr><tr><td>-<br/>Analüüs<br/>(ühisarve<br/>võimaldamiseks<br/>vajalike<br/>tegevuste kaardistamine)</td><td>2018 IV kvartal</td></tr><tr><td>-<br/>Lepingu<br/>ja<br/>tüüptingimuste<br/>väljatöötamine<br/>ja<br/>turuosalistele tutvustamine</td><td>2019 I kvartal</td></tr><tr><td>II etapp</td><td></td></tr><tr><td>-<br/>Arendustööde teostamine</td><td>2019 I kvartal</td></tr><tr><td>III etapp</td><td></td></tr><tr><td>-<br/>Tehniliste lahenduste testimine GV poolt</td><td>2019 II kvartal</td></tr><tr><td>IV etapp</td><td></td></tr><tr><td>-<br/>Testkeskkonna avamine partneritele</td><td>2019 III kvartal</td></tr><tr><td>V etapp</td><td></td></tr><tr><td>-<br/>Toote avamine (tehniline ja juriidiline valmisolek<br/>ühisarve esitamise võimaldamiseks)</td><td>2019 IV kvartal</td></tr></tbody></table>",
+      "page": 200,
+      "polygon": [
+        [
+          99.08144531250001,
+          505.430234375
+        ],
+        [
+          542.4029296875,
+          505.430234375
+        ],
+        [
+          542.4029296875,
+          783.882265625
+        ],
+        [
+          99.08144531250001,
+          783.882265625
+        ]
+      ],
+      "bbox": [
+        99.08144531250001,
+        505.430234375,
+        542.4029296875,
+        783.882265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 200,
+      "polygon": [
+        [
+          518.59130859375,
+          817.7431640625
+        ],
+        [
+          540.5200805664062,
+          817.7431640625
+        ],
+        [
+          540.5200805664062,
+          827.7998895645142
+        ],
+        [
+          518.59130859375,
+          827.7998895645142
+        ]
+      ],
+      "bbox": [
+        518.59130859375,
+        817.7431640625,
+        540.5200805664062,
+        827.7998895645142
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/46",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">12. Seega seab GV eesmärgiks saavutada ühisarve esitamise võimaluse kõigile müüjatele  pakkumise võimekus hiljemalt 2020. a alguseks.</li><li block-type=\"ListItem\">13. GV teavitab Konkurentsiametit iga etapi lõppemise tähtajale hiljemalt järgneva kuu 15  kuupäevaks antud etapil teostatud tegevustest. Lisaks teavitab GV Konkurentsiametit  viivitamatult mistahes asjaoludest, mis võivad takistada kohustuste tähtaegset  täitmist.</li></ul></p>",
+      "page": 46,
+      "polygon": [
+        [
+          84.833984375,
+          58.55303955078125
+        ],
+        [
+          540.9387817382812,
+          58.55303955078125
+        ],
+        [
+          540.9387817382812,
+          146.98590087890625
+        ],
+        [
+          84.833984375,
+          146.98590087890625
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        58.55303955078125,
+        540.9387817382812,
+        146.98590087890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 46,
+      "polygon": [
+        [
+          84.2529296875,
+          215.0224609375
+        ],
+        [
+          171.84031677246094,
+          215.0224609375
+        ],
+        [
+          171.84031677246094,
+          227.26593017578125
+        ],
+        [
+          84.2529296875,
+          227.26593017578125
+        ]
+      ],
+      "bbox": [
+        84.2529296875,
+        215.0224609375,
+        171.84031677246094,
+        227.26593017578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/allkirjastatud digitaalselt/</p>",
+      "page": 46,
+      "polygon": [
+        [
+          83.38134765625,
+          255.60980224609375
+        ],
+        [
+          225.8488006591797,
+          255.60980224609375
+        ],
+        [
+          225.8488006591797,
+          267.693359375
+        ],
+        [
+          83.38134765625,
+          267.693359375
+        ]
+      ],
+      "bbox": [
+        83.38134765625,
+        255.60980224609375,
+        225.8488006591797,
+        267.693359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Roman Bogdanovitš  juhatuse esimees  AS Gaasivõ rgud</p>",
+      "page": 46,
+      "polygon": [
+        [
+          85.07999420166016,
+          281.6259765625
+        ],
+        [
+          190.19566345214844,
+          281.6259765625
+        ],
+        [
+          190.19566345214844,
+          323.62738037109375
+        ],
+        [
+          85.07999420166016,
+          323.62738037109375
+        ]
+      ],
+      "bbox": [
+        85.07999420166016,
+        281.6259765625,
+        190.19566345214844,
+        323.62738037109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 46,
+      "polygon": [
+        [
+          518.30078125,
+          817.2460098266602
+        ],
+        [
+          540.5200805664062,
+          817.2460098266602
+        ],
+        [
+          540.5200805664062,
+          827.1998910903931
+        ],
+        [
+          518.30078125,
+          827.1998910903931
+        ]
+      ],
+      "bbox": [
+        518.30078125,
+        817.2460098266602,
+        540.5200805664062,
+        827.1998910903931
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

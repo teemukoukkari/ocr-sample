@@ -1,0 +1,668 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 1499,
+      "polygon": [
+        [
+          13.654785156250002,
+          15.623046875
+        ],
+        [
+          75.18832397460938,
+          15.623046875
+        ],
+        [
+          75.18832397460938,
+          40.291015625
+        ],
+        [
+          13.654785156250002,
+          40.291015625
+        ]
+      ],
+      "bbox": [
+        13.654785156250002,
+        15.623046875,
+        75.18832397460938,
+        40.291015625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Publishers</b> <b>must</b> <b>allow</b> <b>equal</b> <b>terms</b> <b>of</b> <b>competition</b> <b>to</b> <b>book</b> <b>retailers</b></h2>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          55.9140625
+        ],
+        [
+          562.8720703125,
+          55.9140625
+        ],
+        [
+          562.8720703125,
+          103.04193115234375
+        ],
+        [
+          12.783203125000002,
+          103.04193115234375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        55.9140625,
+        562.8720703125,
+        103.04193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3/1107-0300-0052/AR/FI The Council meeting 26 May 2004</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          13.364257812500002,
+          120.4619140625
+        ],
+        [
+          269.5777587890625,
+          120.4619140625
+        ],
+        [
+          269.5777587890625,
+          129.872802734375
+        ],
+        [
+          13.364257812500002,
+          129.872802734375
+        ]
+      ],
+      "bbox": [
+        13.364257812500002,
+        120.4619140625,
+        269.5777587890625,
+        129.872802734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Danish Competition Council has decided that the Danish book publisher, \"Gyldendal\" (Gyldendalske Boghandel, Nordisk Forlag A/S), is abusing its dominant position. This occurs when Gyldendal sells low price versions of a publication through its own subsidiary book club, while at the same time demanding that book retailers maintain a higher, fixed price when selling ordinary versions of the same publication. The Council has ordered Gyldendal to cease the use of this business method.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          142.251953125
+        ],
+        [
+          564.6565551757812,
+          142.251953125
+        ],
+        [
+          564.6565551757812,
+          192.11199951171875
+        ],
+        [
+          12.783203125000002,
+          192.11199951171875
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        142.251953125,
+        564.6565551757812,
+        192.11199951171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Competition Council has also decided that the business method, which is only feasible due to a dispensation to maintain fixed retail prices on some books, is not in harmony with the cultural concerns that constituted the grounds for issuing the dispensation in the first place. The Council has accordingly withdrawn a limited part of the dispensation so that it is no longer possible for publishers to employ the business method.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          209.2666015625
+        ],
+        [
+          569.0645751953125,
+          209.2666015625
+        ],
+        [
+          569.0645751953125,
+          258.38519287109375
+        ],
+        [
+          12.783203125000002,
+          258.38519287109375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        209.2666015625,
+        569.0645751953125,
+        258.38519287109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Abuse</b> <b>of</b> <b>a</b> <b>dominant</b> <b>position</b></h2>",
+      "page": 1499,
+      "polygon": [
+        [
+          13.654785156250002,
+          274.63671875
+        ],
+        [
+          155.78684997558594,
+          274.63671875
+        ],
+        [
+          155.78684997558594,
+          284.89447021484375
+        ],
+        [
+          13.654785156250002,
+          284.89447021484375
+        ]
+      ],
+      "bbox": [
+        13.654785156250002,
+        274.63671875,
+        155.78684997558594,
+        284.89447021484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Many publishers issue a special \"book club version\" of their own publications and sell it directly to consumers through a book club. This can be desirable business method, which both publishers and consumers may benefit from.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          288.2041015625
+        ],
+        [
+          570.5103759765625,
+          288.2041015625
+        ],
+        [
+          570.5103759765625,
+          311.40380859375
+        ],
+        [
+          12.783203125000002,
+          311.40380859375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        288.2041015625,
+        570.5103759765625,
+        311.40380859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">A problem arises when a publisher sells low price book club versions of a publication, but at the same time demands that book retailers (booksellers, supermarkets and others) maintain a higher and fixed price on the ordinary version of the same publication. Gyldendal employs such as business method.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          13.945312500000002,
+          326.8505859375
+        ],
+        [
+          573.5718994140625,
+          326.8505859375
+        ],
+        [
+          573.5718994140625,
+          364.42236328125
+        ],
+        [
+          13.945312500000002,
+          364.42236328125
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        326.8505859375,
+        573.5718994140625,
+        364.42236328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This business method is feasible only due to a dispensation from Danish Competition Law. The dispensation allows publishers the choice of setting a fixed retail price on a new publication. All book retailers must subsequently sell the book at this fixed price in the year of publication plus the following year.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          381.7110595703125
+        ],
+        [
+          569.6270141601562,
+          381.7110595703125
+        ],
+        [
+          569.6270141601562,
+          417.4409484863281
+        ],
+        [
+          12.783203125000002,
+          417.4409484863281
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        381.7110595703125,
+        569.6270141601562,
+        417.4409484863281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gyldendals business method has lead to some dissatisfaction among book retailers, who have complained that book club versions of a publication are increasingly often issued only a few months after the ordinary version – as opposed to earlier, when book club versions typically were issued with a delay of up to a year. The Danish Competition Authority's study of the market confirms this.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          11.621093750000002,
+          433.333984375
+        ],
+        [
+          559.87744140625,
+          433.333984375
+        ],
+        [
+          559.87744140625,
+          483.71417236328125
+        ],
+        [
+          11.621093750000002,
+          483.71417236328125
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        433.333984375,
+        559.87744140625,
+        483.71417236328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Danish Competition Council found that Gyldendal's business method discriminates book retailers. Gyldendal employs the book price dispensation to distort competition by favoring its own distribution channel (the book club) at the expense of competing distribution channels. Gyldendal could avoid this distortion by allowing book retailers to freely set the price on an ordinary version of a publication, whenever a book club version of the same publication is issued at a lower price. Book retailers would then be able to compete on price with the low price book club version. By not allowing this, Gyldendal's business method harms book retailers.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          499.5263671875
+        ],
+        [
+          582.0352783203125,
+          499.5263671875
+        ],
+        [
+          582.0352783203125,
+          576.4967041015625
+        ],
+        [
+          12.783203125000002,
+          576.4967041015625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        499.5263671875,
+        582.0352783203125,
+        576.4967041015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Council found that the Danish book market consists a large number of relevant markets delineated according to the types of books that consumers demand. The actual delineation of the relevant markets may vary from markets for individual books (as the narrowest) to markets for specific categories of books, e.g. \"suspense\" or \"poetry\" (as the broadest). Each of these categories constitutes a relevant market in itself.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          13.945312500000002,
+          593.7853698730469
+        ],
+        [
+          579.0394287109375,
+          593.7853698730469
+        ],
+        [
+          579.0394287109375,
+          642.7698974609375
+        ],
+        [
+          13.945312500000002,
+          642.7698974609375
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        593.7853698730469,
+        579.0394287109375,
+        642.7698974609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Council found that Gyldendal holds a dominant position on a number of these markets and that Gyldendal's use of the mentioned business method accordingly constitutes an abuse of a dominant position.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          659.8681640625
+        ],
+        [
+          554.3036499023438,
+          659.8681640625
+        ],
+        [
+          554.3036499023438,
+          682.5338134765625
+        ],
+        [
+          12.783203125000002,
+          682.5338134765625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        659.8681640625,
+        554.3036499023438,
+        682.5338134765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Limited</b> <b>withdrawal</b> <b>of</b> <b>the</b> <b>dispensation</b></h2>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.202148437500002,
+          699.3369140625
+        ],
+        [
+          203.36669921875,
+          699.3369140625
+        ],
+        [
+          203.36669921875,
+          709.0431518554688
+        ],
+        [
+          12.202148437500002,
+          709.0431518554688
+        ]
+      ],
+      "bbox": [
+        12.202148437500002,
+        699.3369140625,
+        203.36669921875,
+        709.0431518554688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Other publishers than Gyldendal have employed the book price dispensation to use a similar business method. The Council has therefore also evaluated whether the publishers' use of such a business method is in harmony with the cultural concerns, which constituted the grounds for issuing the dispensation in the first place.</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          12.783203125000002,
+          712.4931640625
+        ],
+        [
+          580.9091796875,
+          712.4931640625
+        ],
+        [
+          580.9091796875,
+          748.8070678710938
+        ],
+        [
+          12.783203125000002,
+          748.8070678710938
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        712.4931640625,
+        580.9091796875,
+        748.8070678710938
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Council found that the business method does not contribute to maintain the cultural concerns that are the aim of the book price dispensation. When book clubs sell publications at markedly lower prices, fewer copies are sold through booksellers, thus reducing bookseller earnings. This undermines the cultural concern for a broad network of book distribution. The publishers' practice also reduces the earnings of authors, since author royalties (measured in earnings per sold copy) on sales through book clubs typically constitute only one fourth of the royalty on sales through retailers. Thus the business method does not support,</p>",
+      "page": 1499,
+      "polygon": [
+        [
+          13.945312500000002,
+          766.0957260131836
+        ],
+        [
+          579.4608764648438,
+          766.0957260131836
+        ],
+        [
+          579.4608764648438,
+          830.8994140625
+        ],
+        [
+          13.945312500000002,
+          830.8994140625
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        766.0957260131836,
+        579.4608764648438,
+        830.8994140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">and may even undermine, the cultural concerns for a broad selection and supply of different publications.</p>",
+      "page": 165,
+      "polygon": [
+        [
+          12.783203125000002,
+          11.51171875
+        ],
+        [
+          482.3539123535156,
+          11.51171875
+        ],
+        [
+          482.3539123535156,
+          22.10687255859375
+        ],
+        [
+          12.783203125000002,
+          22.10687255859375
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        11.51171875,
+        482.3539123535156,
+        22.10687255859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Danish Competition Council accordingly decided to withdraw a limited part of the dispensation so that it is no longer possible for publishers to employ the business method. From now on, publishers must remove allow retailers to freely set the price on ordinary versions of a publication from the instant the same publication is marketed in a book club version at a lower price.</p>",
+      "page": 165,
+      "polygon": [
+        [
+          13.945312500000002,
+          37.82421875
+        ],
+        [
+          573.5218505859375,
+          37.82421875
+        ],
+        [
+          573.5218505859375,
+          88.380126953125
+        ],
+        [
+          13.945312500000002,
+          88.380126953125
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        37.82421875,
+        573.5218505859375,
+        88.380126953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/13"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

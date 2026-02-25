@@ -1,0 +1,4382 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 113,
+      "polygon": [
+        [
+          30.440234375,
+          29.3548828125
+        ],
+        [
+          167.450390625,
+          29.3548828125
+        ],
+        [
+          167.450390625,
+          89.0513671875
+        ],
+        [
+          30.440234375,
+          89.0513671875
+        ]
+      ],
+      "bbox": [
+        30.440234375,
+        29.3548828125,
+        167.450390625,
+        89.0513671875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADHAckDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACikJAGSQBQGDDIII9qAFooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiue8b+IF8MeENQ1QsBJFGfLBP3mPQUAc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rbywgywW5lcq8X8a7igwAdpHB/Wk1JdJ+JlxaafqunwZfd5dxazsZIsfVAMUAYvgXRvFHga/k0TUtN/tbw1dNlJoSJFXPRgOuPXivaLDTrHToDHY2kVtGx3FYkCgn6VmeFPDj+F9KGnDUZ7yCPiLzx8yD0z3reoAKKKKAPm/9pH/AJD2j/8AXCT+a15X4P8A+Rx0f/r7j/nXqn7SP/Ie0f8A64SfzWvK/B//ACOOj/8AX3H/ADoA+4x90fSlpB90fSloAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOU8baXf6ha239n26ynftlHGSP4SfUBsEjocVleFNMvNB8R3UE9tdNa+XKwuZASuMqQNx68Z/KvQKKAPmP4weJ28Z3b2OhW7yaXowaS4lRcLuJ5P04/nWf8JvEcngm/judYt3Gh6sDF5rLldwOM/mK+n20jTmiuIjZQbLkYmXYMP9fWmRaHpcNlBZx2EC21vjyo9gwmPQUAcj4ws7rXdQsILG2uWtpbcr9oiUhVy8bfeHThTV/wbo9/ptxefbIBHCrFYd2CWOTlx/dBXbkdyCe9deAAMAYAooAKKKKACiiigD53/aJsrm613SGghdwIXyVGe615f4R0q+TxfpLNbSBRdISSvvXufxm/5Cunf9cn/mK4Tw7/AMjHp3/XdP5151XGShVcEj7HA8OUMRgViZTabTfTpc+nx0FLQOgor0T44KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8a+M3/IV07/AK5P/MVwnh3/AJGPTv8Arun867v4zf8AIV07/rk/8xXCeHf+Rj07/run868PEf7w/U/Usn/5E8f8L/U+oB0FFA6CivcPy0KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8a+M3/ACFdO/65P/MVwnh3/kY9O/67p/Ou7+M3/IV07/rk/wDMVwnh3/kY9O/67p/OvDxH+8P1P1LJ/wDkTx/wv9T6gHQUUDoKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDxr4zf8hXTv+uT/AMxXCeHf+Rj07/run867v4zf8hXTv+uT/wAxXCeHf+Rj07/run868PEf7w/U/Usn/wCRPH/C/wBT6gHQUUDoKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDxr4zf8hXTv+uT/wAxXCeHf+Rj07/run869x8X6VY6hdW7XdtHKyqQCy5x0rE0/wAPaTFqFvJHYwq6uCCEHBr5LG5lTp410mne6/Q+8y7N6VLLo0XF3Sf6npQ6CigdKK+tPgwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDnPEf/AB8Q/wC6ay7T/j8h/wB8VqeI/wDj4h/3TWXaf8fkP++K/OM0/wCRpL/Ev0Pcw/8Au69Dt+1FHaiv0c8MKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA5zxH/wAfEP8Aumsu0/4/If8AfFFFfnGaf8jSX+Jfoe5h/wDd16Hb9qKKK/RzwwooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Vergabekammer des Bundes VK 2 – 52/22</p>",
+      "page": 113,
+      "polygon": [
+        [
+          68.09765625,
+          125.3955078125
+        ],
+        [
+          226.42031860351562,
+          125.3955078125
+        ],
+        [
+          226.42031860351562,
+          156.499267578125
+        ],
+        [
+          68.09765625,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        68.09765625,
+        125.3955078125,
+        226.42031860351562,
+        156.499267578125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 113,
+      "polygon": [
+        [
+          274.7300109863281,
+          234.6800537109375
+        ],
+        [
+          334.8860168457031,
+          234.6800537109375
+        ],
+        [
+          334.8860168457031,
+          246.6800537109375
+        ],
+        [
+          274.7300109863281,
+          246.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.7300109863281,
+        234.6800537109375,
+        334.8860168457031,
+        246.6800537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In dem Nachprüfungsverfahren der […] - Antragstellerin - Verfahrensbevollmächtigte: […]  gegen […]</p>",
+      "page": 113,
+      "polygon": [
+        [
+          67.515625,
+          280.8037109375
+        ],
+        [
+          458.64062499999994,
+          280.8037109375
+        ],
+        [
+          458.64062499999994,
+          428.9292907714844
+        ],
+        [
+          67.515625,
+          428.9292907714844
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        280.8037109375,
+        458.64062499999994,
+        428.9292907714844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe […], hat die 2. Vergabekammer des Bundes durch die Vorsitzende Direktorin  beim Bundeskartellamt Dr. Herlemann, den hauptamtlichen Beisitzer Regierungsdirektor Brune  und den ehrenamtlichen Beisitzer Portz auf die mündliche Verhandlung vom 2. Juni 2022 am 13.  Juni 2022 beschlossen:</p>",
+      "page": 113,
+      "polygon": [
+        [
+          70.94400024414062,
+          465.40234375
+        ],
+        [
+          541.635009765625,
+          465.40234375
+        ],
+        [
+          541.635009765625,
+          530.9492797851562
+        ],
+        [
+          70.94400024414062,
+          530.9492797851562
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        465.40234375,
+        541.635009765625,
+        530.9492797851562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Antragsgegnerin -</p>",
+      "page": 113,
+      "polygon": [
+        [
+          368.5899963378906,
+          430.4892883300781
+        ],
+        [
+          462.8663330078125,
+          430.4892883300781
+        ],
+        [
+          462.8663330078125,
+          441.529296875
+        ],
+        [
+          368.5899963378906,
+          441.529296875
+        ]
+      ],
+      "bbox": [
+        368.5899963378906,
+        430.4892883300781,
+        462.8663330078125,
+        441.529296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/113",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag zu 1. wird zurückgewiesen.</li><li block-type=\"ListItem\">2. Auf den Hilfsantrag zu 2. wird festgestellt, dass die Aufhebung des Vergabeverfahrens  […] wirksam ist, aber rechtswidrig war.</li><li block-type=\"ListItem\">3. Die Antragstellerin trägt die Kosten des Verfahrens sowie die zur zweckentsprechenden  Rechtsverteidigung notwendigen Aufwendungen der Antragsgegnerin zu zwei Dritteln.</li><li block-type=\"ListItem\">4. Die Antragsgegnerin trägt die Kosten des Verfahrens sowie die zur  zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der  Antragstellerin zu einem Drittel.</li><li block-type=\"ListItem\">5. Die Hinzuziehung anwaltlicher Bevollmächtigter seitens der Antragstellerin war  notwendig.</li></ul></p>",
+      "page": 113,
+      "polygon": [
+        [
+          97.78125,
+          552.7892761230469
+        ],
+        [
+          541.6458129882812,
+          552.7892761230469
+        ],
+        [
+          541.6458129882812,
+          735.5166015625
+        ],
+        [
+          97.78125,
+          735.5166015625
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        552.7892761230469,
+        541.6458129882812,
+        735.5166015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Gründe:</b></h2>",
+      "page": 113,
+      "polygon": [
+        [
+          283.158203125,
+          761.4952850341797
+        ],
+        [
+          326.810546875,
+          761.4952850341797
+        ],
+        [
+          326.810546875,
+          772.535285949707
+        ],
+        [
+          283.158203125,
+          772.535285949707
+        ]
+      ],
+      "bbox": [
+        283.158203125,
+        761.4952850341797,
+        326.810546875,
+        772.535285949707
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          294.798828125,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          74.00390625
+        ],
+        [
+          315.169921875,
+          85.9193115234375
+        ],
+        [
+          294.798828125,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.00390625,
+        315.169921875,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          301.201171875,
+          141.0185546875
+        ],
+        [
+          308.767578125,
+          141.0185546875
+        ],
+        [
+          308.767578125,
+          153.3792724609375
+        ],
+        [
+          301.201171875,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        301.201171875,
+        141.0185546875,
+        308.767578125,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag) machte am […] gemeinschaftsweit bekannt. Gegenstand des  Auftrags ist die Errichtung […]. Der von der Ag geschätzte Auftragswert übersteigt den  Schwellenwert für die Vergabe von Bauaufträgen deutlich (Ziffer 1.2 des Vergabevermerks  vom 12. Mai 2022).</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.94400024414062,
+          171.853515625
+        ],
+        [
+          541.353515625,
+          171.853515625
+        ],
+        [
+          541.353515625,
+          241.21929931640625
+        ],
+        [
+          70.94400024414062,
+          241.21929931640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        171.853515625,
+        541.353515625,
+        241.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der Bekanntmachung wurde unter Ziffer III.1.2 (\"<i>Wirtschaftliche und finanzielle </i> <i>Leistungsfähigkeit</i>\") gefordert:</p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          267.6474609375
+        ],
+        [
+          541.6174926757812,
+          267.6474609375
+        ],
+        [
+          541.6174926757812,
+          298.249267578125
+        ],
+        [
+          90.796875,
+          298.249267578125
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        267.6474609375,
+        541.6174926757812,
+        298.249267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Umsatz des Unternehmens in den letzten 3 abgeschlossenen Geschäftsjahren gemäß </i> <i>Angaben in der Erklärung zur Eignung (Formular 124),</i></p>",
+      "page": 119,
+      "polygon": [
+        [
+          112.91406249999999,
+          305.060546875
+        ],
+        [
+          541.4614868164062,
+          305.060546875
+        ],
+        [
+          541.4614868164062,
+          336.306640625
+        ],
+        [
+          112.91406249999999,
+          336.306640625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        305.060546875,
+        541.4614868164062,
+        336.306640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/119",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>-</i> <i>Erklärung gemäß Angaben in der Erklärung zur Eignung (Formular 124), dass ein </i> <i>Insolvenzverfahren oder ein vergleichbares gesetzlich geregeltes Verfahren weder </i> <i>beantragt noch eröffnet wurde, ein Antrag auf Eröffnung nicht mangels Masse abgelehnt </i> <i>wurde und sich das Unternehmen nicht in Liquidation befindet bzw. ein Insolvenzplan </i> <i>rechtskräftig bestätigt wurde, </i></li><li block-type=\"ListItem\"><i>-</i> <i>Nachweis zum Abschluss einer Betriebshaftpflichtversicherung vor Ausführung der </i> <i>Leistungen und Aufrechterhaltung bis zur Beendigung der Leistungen auf eigene </i> <i>Kosten. Die Deckungssummen müssen pro Schadensfall mindestens betragen: 5 000 </i> <i>000 EUR für Personenschäden; 3 000 000 EUR für Vermögens-</i> <i>und Sachschäden und </i> <i>müssen jährlich mindestens 2 Mal in voller Höhe ungeschmälert zur Verfügung stehen </i> <i>(2-fach Maximierung). Der Nachweis der Deckungssummen kann nicht durch die </i> <i>Angabe der Nummer des für den öffentlichen Auftraggeber zugänglichen </i> <i>Präqualifikationsregisters geführt werden. Möglicherweise geforderte Mindeststandards: </i> <i>Bestehen einer</i> <i>Betriebshaftpflichtversicherung mit den oben angegebenen </i> <i>Deckungssummen.\"</i></li></ul></p>",
+      "page": 119,
+      "polygon": [
+        [
+          112.91406249999999,
+          344.0732116699219
+        ],
+        [
+          541.7290649414062,
+          344.0732116699219
+        ],
+        [
+          541.7290649414062,
+          621.2216796875
+        ],
+        [
+          112.91406249999999,
+          621.2216796875
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        344.0732116699219,
+        541.7290649414062,
+        621.2216796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der Bekanntmachung heißt es unter Ziffer III.1.3 (\"<i>Technische und berufliche </i> <i>Leistungsfähigkeit</i>\"):</p>",
+      "page": 119,
+      "polygon": [
+        [
+          89.6328125,
+          645.8896484375
+        ],
+        [
+          541.6755981445312,
+          645.8896484375
+        ],
+        [
+          541.6755981445312,
+          677.7392883300781
+        ],
+        [
+          89.6328125,
+          677.7392883300781
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        645.8896484375,
+        541.6755981445312,
+        677.7392883300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Erklärung über in den letzten 5 abgeschlossenen Geschäftsjahren vergleichbare</i> <i>Leistungen gemäß Angaben in der Erklärung zur Eignung (Formular 124). Der Nachweis </i> <i>kann nicht durch die Angabe der Nummer des für den öffentlichen Auftraggeber </i> <i>zugänglichen Präqualifikationsregisters geführt werden. </i></p>",
+      "page": 119,
+      "polygon": [
+        [
+          112.91406249999999,
+          682.8916015625
+        ],
+        [
+          541.5166625976562,
+          682.8916015625
+        ],
+        [
+          541.5166625976562,
+          753.5591812133789
+        ],
+        [
+          112.91406249999999,
+          753.5591812133789
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        682.8916015625,
+        541.5166625976562,
+        753.5591812133789
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9193115234375
+        ],
+        [
+          295.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/124",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>-</i> <i>Erklärung gemäß Angaben in der Erklärung zur Eignung (Formular 124), dass die für </i> <i>die Ausführung der Leistungen erforderlichen Arbeitskräfte zur Verfügung stehen. </i> <i>Möglicherweise geforderte Mindeststandards: </i></li><li block-type=\"ListItem\"><i>-</i> <i>Erfahrung mit vergleichbaren Leistungen in den letzten fünf abgeschlossenen </i> <i>Kalenderjahren im Sinne von § 6a EU Ziffer 3a) VOB/A.\"</i></li></ul></p>",
+      "page": 124,
+      "polygon": [
+        [
+          112.91406249999999,
+          122.9287109375
+        ],
+        [
+          541.546142578125,
+          122.9287109375
+        ],
+        [
+          541.546142578125,
+          210.2431640625
+        ],
+        [
+          112.91406249999999,
+          210.2431640625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        122.9287109375,
+        541.546142578125,
+        210.2431640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Vergabeunterlagen enthielten die Formblätter 212 EU (Teilnahmebedingungen EU) und  124 (Eigenerklärung zur Eignung für nicht präqualifizierte Unternehmen).</p>",
+      "page": 124,
+      "polygon": [
+        [
+          90.796875,
+          237.25927734375
+        ],
+        [
+          541.42236328125,
+          237.25927734375
+        ],
+        [
+          541.42236328125,
+          268.4697265625
+        ],
+        [
+          90.796875,
+          268.4697265625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        237.25927734375,
+        541.42236328125,
+        268.4697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Formblatt 212 EU heißt es unter Ziffer 6 (\"<i>Kapazitäten anderer Unternehmen </i> <i>(Unteraufträge, Eignungsleihe)</i>\"):</p>",
+      "page": 124,
+      "polygon": [
+        [
+          89.6328125,
+          293.548828125
+        ],
+        [
+          541.60791015625,
+          293.548828125
+        ],
+        [
+          541.60791015625,
+          324.794921875
+        ],
+        [
+          89.6328125,
+          324.794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        293.548828125,
+        541.60791015625,
+        324.794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Beabsichtigt der Bieter, Teile der Leistung von anderen Unternehmen ausführen zu </i> <i>lassen oder sich bei der Erfüllung eines Auftrages im Hinblick auf die erforderliche </i> <i>wirtschaftliche, finanzielle, technische oder berufliche Leistungsfähigkeit anderer </i> <i>Unternehmen zu bedienen, so muss er die hierfür vorgesehenen </i> <i>Leistungen/Kapazitäten in seinem Angebot benennen. Der Bieter hat auf gesondertes </i> <i>Verlangen der Vergabestelle zu einem von ihr bestimmten Zeitpunkt nachzuweisen, </i> <i>dass ihm die erforderlichen Kapazitäten der anderen Unternehmen zur Verfügung </i> <i>stehen und diese Unternehmen geeignet sind. Er hat den Namen, den gesetzlichen </i> <i>Vertreter sowie die Kontaktdaten dieser Unternehmen anzugeben und entsprechende </i> <i>Verpflichtungserklärungen dieser Unternehmen vorzulegen.</i></p>",
+      "page": 124,
+      "polygon": [
+        [
+          112.91406249999999,
+          329.3173828125
+        ],
+        [
+          541.7243041992188,
+          329.3173828125
+        ],
+        [
+          541.7243041992188,
+          513.8931579589844
+        ],
+        [
+          112.91406249999999,
+          513.8931579589844
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        329.3173828125,
+        541.7243041992188,
+        513.8931579589844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Nimmt der Bieter in Hinblick auf die Kriterien für die wirtschaftliche und finanzielle </i> <i>Leistungsfähigkeit im Rahmen einer Eignungsleihe die Kapazitäten anderer </i> <i>Unternehmen in Anspruch, müssen diese gemeinsam für die Auftragsausführung haften; </i> <i>die Haftungserklärung ist gleichzeitig mit der \"Verpflichtungserklärung\"</i> <i>abzugeben.</i></p>",
+      "page": 124,
+      "polygon": [
+        [
+          112.91406249999999,
+          520.0830078125
+        ],
+        [
+          541.6162719726562,
+          520.0830078125
+        ],
+        [
+          541.6162719726562,
+          608.8131866455078
+        ],
+        [
+          112.91406249999999,
+          608.8131866455078
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        520.0830078125,
+        541.6162719726562,
+        608.8131866455078
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Der Bieter hat andere Unternehmen, bei denen Ausschlussgründe vorliegen oder die </i> <i>das entsprechende Eignungskriterium nicht erfüllen, innerhalb einer von der </i> <i>Vergabestelle gesetzten Frist zu ersetzen.\"</i></p>",
+      "page": 124,
+      "polygon": [
+        [
+          112.91406249999999,
+          616.2880859375
+        ],
+        [
+          541.6090698242188,
+          616.2880859375
+        ],
+        [
+          541.6090698242188,
+          666.4462890625
+        ],
+        [
+          112.91406249999999,
+          666.4462890625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        616.2880859375,
+        541.6090698242188,
+        666.4462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Ziffer 7.1 (\"<i>Eignung</i>\" – \"<i>Offenes Verfahren</i>\") wird ausgeführt, dass der  Eignungsnachweis für präqualifizierte Unternehmen durch den Eintrag in  Präqualifikationsverzeichnis und ggf. ergänzt durch geforderte auftragsspezifische  Einzelnachweise zu führen ist.</p>",
+      "page": 124,
+      "polygon": [
+        [
+          90.796875,
+          692.6031799316406
+        ],
+        [
+          541.60791015625,
+          692.6031799316406
+        ],
+        [
+          541.60791015625,
+          760.6552886962891
+        ],
+        [
+          90.796875,
+          760.6552886962891
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        692.6031799316406,
+        541.60791015625,
+        760.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Weiter heißt es:</p>",
+      "page": 124,
+      "polygon": [
+        [
+          90.505859375,
+          768.4072265625
+        ],
+        [
+          169.24319458007812,
+          768.4072265625
+        ],
+        [
+          169.24319458007812,
+          779.6152839660645
+        ],
+        [
+          90.505859375,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        768.4072265625,
+        169.24319458007812,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.6463317871094,
+          74.826171875
+        ],
+        [
+          314.6463317871094,
+          85.9193115234375
+        ],
+        [
+          295.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.6463317871094,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Nicht präqualifizierte Unternehmen haben als vorläufigen Nachweis der Eignung für die </i> <i>zu vergebende Leistung mit dem Angebot -</i> <i>Entweder die ausgefüllte \"Eigenerklärung </i> <i>zur Eignung\", ggf. ergänzt durch geforderte auftragsspezifische Einzelnachweise -</i> <i>Oder </i> <i>eine Einheitliche Europäische Eigenerklärung (EEE) vorzulegen.</i></p>",
+      "page": 114,
+      "polygon": [
+        [
+          111.74999999999999,
+          122.1064453125
+        ],
+        [
+          541.721923828125,
+          122.1064453125
+        ],
+        [
+          541.721923828125,
+          191.28314208984375
+        ],
+        [
+          111.74999999999999,
+          191.28314208984375
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        122.1064453125,
+        541.721923828125,
+        191.28314208984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Bei Einsatz von anderen Unternehmen gemäß Nummer 7 sind auf gesondertes </i> <i>Verlangen die Eigenerklärungen auch für diese abzugeben ggf. ergänzt durch geforderte </i> <i>auftragsspezifische Einzelnachweise.\"</i></p>",
+      "page": 114,
+      "polygon": [
+        [
+          112.91406249999999,
+          197.34375
+        ],
+        [
+          541.5436401367188,
+          197.34375
+        ],
+        [
+          541.5436401367188,
+          248.28314208984375
+        ],
+        [
+          112.91406249999999,
+          248.28314208984375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        197.34375,
+        541.5436401367188,
+        248.28314208984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Formblatt 124 beinhaltet eine Eigenerklärung des nicht präqualifizierten Unternehmens.  Unter \"<i>Angaben zu Leistungen, die mit der zu vergebenden Leistung vergleichbar sind</i>\" heißt  es:</p>",
+      "page": 114,
+      "polygon": [
+        [
+          89.6328125,
+          275.20928955078125
+        ],
+        [
+          541.7319946289062,
+          275.20928955078125
+        ],
+        [
+          541.7319946289062,
+          324.16925048828125
+        ],
+        [
+          89.6328125,
+          324.16925048828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        275.20928955078125,
+        541.7319946289062,
+        324.16925048828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Ich/Wir erkläre(n), dass ich/wir in den letzten fünf Kalenderjahren bzw. dem in der </i> <i>Auftragsbekanntmachung angegebenen Zeitraum' vergleichbare Leistungen ausgeführt </i> <i>habe/haben. […]</i></p>",
+      "page": 114,
+      "polygon": [
+        [
+          112.91406249999999,
+          330.55078125
+        ],
+        [
+          541.5608520507812,
+          330.55078125
+        ],
+        [
+          541.5608520507812,
+          381.0331726074219
+        ],
+        [
+          112.91406249999999,
+          381.0331726074219
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        330.55078125,
+        541.5608520507812,
+        381.0331726074219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Falls mein/unser Teilnahmeantrag/Angebot in die engere Wahl kommt, werde </i> <i>ich/werden wir drei Referenznachweise mit mindestens folgenden Angaben vorlegen:</i> <i>Ansprechpartner; Art der ausgeführten Leistung; Auftragssumme; Ausführungszeitraum; </i> <i>stichwortartige Benennung des mit eigenem Personal ausgeführten maßgeblichen </i> <i>Leistungsumfanges einschl. Angabe der ausgeführten Mengen; Zahl der hierfür </i> <i>durchschnittlich eingesetzten Arbeitnehmer; stichwortartige Beschreibung der </i> <i>besonderen technischen und gerätespezifischen Anforderungen bzw. (bei </i> <i>Komplettleistung) Kurzbeschreibung der Baumaßnahme einschließlich eventueller </i> <i>Besonderheiten der Ausführung; Angabe zur Art der Baumaßnahme (Neubau, Umbau, </i> <i>Denkmal); Angabe zur vertraglichen Bindung (Hauptauftragnehmer, ARGE-Partner, </i> <i>Nachunternehmer); ggf. Angabe der Gewerke, die mit eigenem Leitungspersonal </i> <i>koordiniert wurden; Bestätigung des Auftraggebers über die vertragsgemäße </i> <i>Ausführung der Leistung.\"</i></p>",
+      "page": 114,
+      "polygon": [
+        [
+          112.91406249999999,
+          388.95318603515625
+        ],
+        [
+          541.720947265625,
+          388.95318603515625
+        ],
+        [
+          541.720947265625,
+          628.2109375
+        ],
+        [
+          112.91406249999999,
+          628.2109375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        388.95318603515625,
+        541.720947265625,
+        628.2109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alleiniges Zuschlagskriterium war der Preis (Ziffer II.2.5 der Bekanntmachung).</p>",
+      "page": 114,
+      "polygon": [
+        [
+          91.9609375,
+          654.6992797851562
+        ],
+        [
+          476.1097106933594,
+          654.6992797851562
+        ],
+        [
+          476.1097106933594,
+          665.7392883300781
+        ],
+        [
+          91.9609375,
+          665.7392883300781
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        654.6992797851562,
+        476.1097106933594,
+        665.7392883300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Antragstellerin (ASt) sowie weitere Bieter, darunter die […] (nachfolgend Bestbieterin),  gaben jeweils fristgerecht ein Angebot vor dem Schlusstermin zur Angebotsabgabe am 3.  Februar 2022 ab (Ziffer IV.2.2 der Bekanntmachung). Im anschließenden Submissionstermin  ergab sich, dass die Bestbietern das preisgünstigste Angebot abgegeben hatte.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          90.796875,
+          692.6192779541016
+        ],
+        [
+          541.5325927734375,
+          692.6192779541016
+        ],
+        [
+          541.5325927734375,
+          760.6552886962891
+        ],
+        [
+          90.796875,
+          760.6552886962891
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        692.6192779541016,
+        541.5325927734375,
+        760.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          294.798828125,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          85.9193115234375
+        ],
+        [
+          294.798828125,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.826171875,
+        315.169921875,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alternativ zum Formblatt 124 gab die Bestbietern eine gesonderte Eigenerklärung zum  Vorliegen einer Präqualifikation ab. In dieser Eigenerklärung wurde die vorgedruckte  Selbstverpflichtung nur Nachunternehmer einzusetzen, die präqualifiziert sind oder per  Einzelnachweis belegen können, dass alle Präqualifikationskriterien erfüllt sind, gestrichen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          122.517578125
+        ],
+        [
+          541.4860229492188,
+          122.517578125
+        ],
+        [
+          541.4860229492188,
+          191.29925537109375
+        ],
+        [
+          90.796875,
+          191.29925537109375
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        122.517578125,
+        541.4860229492188,
+        191.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 18. Februar 2022 forderte die Ag weitere Unterlagen und Erklärungen von  der Bestbieterin an, weil dieses in der engeren Wahl liege (vgl. Vergabevermerk S. 7). Diese Nachforderung beantwortete die Bestbieterin fristgerecht mit Schreiben vom 23.  Februar 2022. Nach Feststellung der Ag im Vergabevermerk war die Antwort aber insofern  unvollständig, als die angegebene Deckungssumme zur Haftpflichtversicherung unterhalb  der in der Bekanntmachung geforderten Summe lag. Außerdem seien zwar  Eigenerklärungen der eingeplanten Nachunternehmer vorgelegt worden, aber nicht mit allen</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          218.1793212890625
+        ],
+        [
+          541.543701171875,
+          218.1793212890625
+        ],
+        [
+          541.543701171875,
+          348.2294921875
+        ],
+        [
+          90.796875,
+          348.2294921875
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        218.1793212890625,
+        541.543701171875,
+        348.2294921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">im Formblatt 124 aufgeführten Mindestangaben.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          92.30400085449219,
+          351.0492858886719
+        ],
+        [
+          327.14385986328125,
+          351.0492858886719
+        ],
+        [
+          327.14385986328125,
+          362.08929443359375
+        ],
+        [
+          92.30400085449219,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        92.30400085449219,
+        351.0492858886719,
+        327.14385986328125,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Daraufhin forderte die Ag mit Schreiben vom 25. Februar 2022 jeweils für drei  Nachunternehmer drei Nachweise zu Referenzen der letzten fünf Jahre mit den  Mindestangaben aus dem Formblatt 124 unter dem Abschnitt \"<i>Angaben zu Leistungen, die </i> <i>mit der zu vergebenden Leistung vergleichbar sind</i>\".</p>",
+      "page": 109,
+      "polygon": [
+        [
+          91.9609375,
+          386.46484375
+        ],
+        [
+          541.6669311523438,
+          386.46484375
+        ],
+        [
+          541.6669311523438,
+          457.00927734375
+        ],
+        [
+          91.9609375,
+          457.00927734375
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        386.46484375,
+        541.6669311523438,
+        457.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die fristgerecht eingereichten Unterlagen wurden im Vergabevermerk als nicht vollständig  gewertet, da nicht alle Mindestangaben enthalten waren. Auf dieser Grundlage wurde  entschieden, das Angebot der Bestbieterin gem. § 16 EU Abs. 1 Nr. 4 i.V.m. § 16a EU Abs.  4 und 5 VOB/A von der Wertung auszuschließen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          482.669921875
+        ],
+        [
+          541.4443969726562,
+          482.669921875
+        ],
+        [
+          541.4443969726562,
+          551.8292846679688
+        ],
+        [
+          90.796875,
+          551.8292846679688
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        482.669921875,
+        541.4443969726562,
+        551.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 24. März 2022 teilte die Ag dies der Bestbieterin mit. Am selben Tag  benachrichtigte die Ag die ASt, dass sie beabsichtigte, der ASt nach Ablauf der Wartefrist  des § 134 GWB den Zuschlag zu erteilen.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          89.6328125,
+          577.6416015625
+        ],
+        [
+          541.5302734375,
+          577.6416015625
+        ],
+        [
+          541.5302734375,
+          627.7892913818359
+        ],
+        [
+          89.6328125,
+          627.7892913818359
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        577.6416015625,
+        541.5302734375,
+        627.7892913818359
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Bestbieterin rügte die Angebotswertung und den Angebotsausschluss mit Schreiben vom  29. März 2022.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          653.701171875
+        ],
+        [
+          541.5546875,
+          653.701171875
+        ],
+        [
+          541.5546875,
+          684.6992797851562
+        ],
+        [
+          90.796875,
+          684.6992797851562
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        653.701171875,
+        541.5546875,
+        684.6992797851562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach erneuter Überprüfung der Angebotswertung entschied die Ag, dass die Ausschreibung  gem. § 17 EU Abs. 1 Nr. 3 GWB aufzuheben und die Leistung unter Berücksichtigung  neuerer Rechtsprechung neu auszuschreiben sei. Hierzu heißt es im Vergabevermerk (unter  Ziffer 9):</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          709.2041015625
+        ],
+        [
+          541.5877685546875,
+          709.2041015625
+        ],
+        [
+          541.5877685546875,
+          779.6152839660645
+        ],
+        [
+          90.796875,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        709.2041015625,
+        541.5877685546875,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          294.798828125,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          74.826171875
+        ],
+        [
+          315.169921875,
+          85.9193115234375
+        ],
+        [
+          294.798828125,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        74.826171875,
+        315.169921875,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Der Rüge wurde aus den Gründen des Antwortschreibens vom 31. März 2022 </i> <i>abgeholfen. Da Gegenstand der Rüge unter anderem Mängel der Bekanntmachung </i> <i>waren, wurde das Verfahren aufgehoben und es wird kurzfristig eine neue </i> <i>Ausschreibung mit angepasster Bekanntmachung begonnen. So kann auch die </i> <i>Verzögerung der parallel laufenden Bauausführung so kurz wie nach derzeitigem </i> <i>Sachstand möglich gehalten werden.\"</i></p>",
+      "page": 112,
+      "polygon": [
+        [
+          112.91406249999999,
+          121.6953125
+        ],
+        [
+          541.6215209960938,
+          121.6953125
+        ],
+        [
+          541.6215209960938,
+          229.20318603515625
+        ],
+        [
+          112.91406249999999,
+          229.20318603515625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        121.6953125,
+        541.6215209960938,
+        229.20318603515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Antwortschreiben der Ag an die Bestbieterin vom 31. März 2022 wird ausgeführt:</p>",
+      "page": 112,
+      "polygon": [
+        [
+          91.9609375,
+          256.1357421875
+        ],
+        [
+          500.6847839355469,
+          256.1357421875
+        ],
+        [
+          500.6847839355469,
+          267.25927734375
+        ],
+        [
+          91.9609375,
+          267.25927734375
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        256.1357421875,
+        500.6847839355469,
+        267.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Eine umfassende Abhilfe Ihres Rügeschreibens sehen wir nur dadurch gewährleistet, </i> <i>dass die Ausschreibung auf den Stand vor Bekanntmachung zurückversetzt wird. Grund </i> <i>dafür ist die Notwendigkeit, angegriffene Verfahrensfehler in der Bekanntmachung zu </i> <i>korrigieren. Sie haben in ihrer Rüge ausgeführt, dass die Eignungsnachweise, die im</i> <i>Vergabeverfahren vorzulegen sind, in der Bekanntmachung nicht ausreichend benannt </i> <i>worden seien. Dem Mangel an Transparenz, den Sie dadurch erkennen wollen, können </i> <i>wir nur durch eine neue Bekanntmachung entgegenwirken.</i></p>",
+      "page": 112,
+      "polygon": [
+        [
+          112.91406249999999,
+          272.5810546875
+        ],
+        [
+          541.560791015625,
+          272.5810546875
+        ],
+        [
+          541.560791015625,
+          399.9931640625
+        ],
+        [
+          112.91406249999999,
+          399.9931640625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        272.5810546875,
+        541.560791015625,
+        399.9931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Uns hat Ihre Einwendung überrascht, da auch unsere Bauleistungen unter Einbeziehung </i> <i>der VOB/B vergeben werden und darin klar geregelt ist, dass der Bauunternehmer auf </i> <i>Verlangen des Auftraggebers die Eignung seiner Nachunternehmer nachzuweisen hat </i> <i>(§ 4 Abs. 4 Ziffer 3 VOB/B). Wohl daher und weil die Ziffer 6 der Teilnahmebedingungen </i> <i>(Formblatt 212) einen entsprechenden Hinweis enthält, hat bisher in unserem </i> <i>Wirkungsbereich noch kein Bauunternehmer bemängelt, dass er bereits im </i> <i>Vergabeverfahren die Eignung seiner Nachunternehmer nachweisen muss. Der </i> <i>Gesetzgeber (§ 122 Abs. 4 GWB) hat lediglich die Angabe der Eignungskriterien (ohne </i> <i>die Angabe der jeweiligen Nachweise) in der Bekanntmachung vorgeschrieben. Wir </i> <i>haben dazu neuere Rechtsprechung zur Kenntnis zu nehmen, die auf dem Standpunkt </i> <i>steht, dass der Gesetzgeber dabei nicht bewusst von den Vorgaben der </i> <i>Vergaberichtlinie abweichen wollte und daher in richtlinienkonformer Auslegung auch </i> <i>die Form der jeweiligen Eignungsnachweise in der Bekanntmachung zu benennen ist. </i> <i>Dem soll in einer neuen Ausschreibung gefolgt werden. Dies bedeutet materiell die </i> <i>Aufhebung der Ausschreibung und den Beginn einer neuen Ausschreibung (vgl. VK </i> <i>Bund, Beschluss vom 10.03.2020, VK 2-9/20). Als Aufhebungsgrund ist hier die </i> <i>Behebung des aufgezeigten Verfahrensmangels in der Bekanntmachung gegeben.\"</i></p>",
+      "page": 112,
+      "polygon": [
+        [
+          112.91406249999999,
+          408.033203125
+        ],
+        [
+          541.6697998046875,
+          408.033203125
+        ],
+        [
+          541.6697998046875,
+          722.771484375
+        ],
+        [
+          112.91406249999999,
+          722.771484375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        408.033203125,
+        541.6697998046875,
+        722.771484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Mit Schreiben vom 31. März 2022 teilte die Ag der ASt mit, dass die Ausschreibung aufgrund  einer Rüge auf den Stand vor Bekanntmachung zurückversetzt werden müsse. Zur</p>",
+      "page": 112,
+      "polygon": [
+        [
+          92.30400085449219,
+          748.26171875
+        ],
+        [
+          541.7247924804688,
+          748.26171875
+        ],
+        [
+          541.7247924804688,
+          779.6152839660645
+        ],
+        [
+          92.30400085449219,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        92.30400085449219,
+        748.26171875,
+        541.7247924804688,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9193115234375
+        ],
+        [
+          295.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Begründung verwies die Ag auf die bestehende Notwendigkeit, angegriffene  Verfahrensfehler in der Bekanntmachung zu korrigieren und die Vergabe erneut  auszuschreiben.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          89.6328125,
+          122.1064453125
+        ],
+        [
+          541.4775390625,
+          122.1064453125
+        ],
+        [
+          541.4775390625,
+          172.33929443359375
+        ],
+        [
+          89.6328125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        122.1064453125,
+        541.4775390625,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt wandte sich daraufhin mit Schreiben vom 4. April 2022 an die Ag und bat um eine  Aufklärung und Erläuterung der Aufhebungsgründe.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          198.5771484375
+        ],
+        [
+          541.7142333984375,
+          198.5771484375
+        ],
+        [
+          541.7142333984375,
+          229.21929931640625
+        ],
+        [
+          90.796875,
+          229.21929931640625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        198.5771484375,
+        541.7142333984375,
+        229.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag teilte daraufhin mit Schreiben vom 5. April 2022 mit, dass nach Rüge einer nicht  ausreichenden Bekanntgabe der im Vergabeverfahren geforderten Eignungsnachweise, die  Entscheidung getroffen worden sei, im Hinblick auf neuere Rechtsprechung (OLG  Düsseldorf, Beschluss vom 11. Juli 2018 - Verg 24/18) das Vergabeverfahren aufzuheben  und neu auszuschreiben, weil die bisherige Bekanntmachung den Anforderungen dieser  Rechtsprechung nicht ausreichend Rechnung getragen habe.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          89.6328125,
+          255.724609375
+        ],
+        [
+          541.5802001953125,
+          255.724609375
+        ],
+        [
+          541.5802001953125,
+          362.619140625
+        ],
+        [
+          89.6328125,
+          362.619140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        255.724609375,
+        541.5802001953125,
+        362.619140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 8. April 2022, rügte die ASt die Aufhebung des Vergabeverfahrens als  nicht nachvollziehbar. Ein Aufhebungsgrund i.S.d. § 17 EU VOB/A liege nicht vor. Die  Bekanntmachung habe den gesetzlichen Erfordernissen des § 122 Abs. 4 GWB entsprochen  und der zitierten Rechtsprechung des OLG Düsseldorf liege ein nicht vergleichbarer  Sachverhalt zugrunde.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          387.287109375
+        ],
+        [
+          541.648681640625,
+          387.287109375
+        ],
+        [
+          541.648681640625,
+          475.9892883300781
+        ],
+        [
+          90.796875,
+          475.9892883300781
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        387.287109375,
+        541.648681640625,
+        475.9892883300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 20. April 2022 wies die Ag die Rüge der ASt zurück. In der  Bekanntmachung seien zwar die Eignungskriterien aufgeführt worden. Es habe jedoch an  einer abschließenden Angabe der Unterlagen und Nachweise gefehlt, die zum Beleg der  Kriterien erforderlich waren. Die Nichtbenennung der für die Nachunternehmer erforderlichen  Nachweise begründe einen schwerwiegenden Aufhebungsgrund im Sinne des § 17 EU Abs.  1 Nr. 3 VOB/A.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          89.6328125,
+          502.8692626953125
+        ],
+        [
+          541.675537109375,
+          502.8692626953125
+        ],
+        [
+          541.675537109375,
+          608.8292846679688
+        ],
+        [
+          89.6328125,
+          608.8292846679688
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        502.8692626953125,
+        541.675537109375,
+        608.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Am 26. April 2022 machte die Ag die Ausschreibung unter angepasster Angabe der  geforderten Eignungskriterien und Nachweise neu bekannt.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          90.796875,
+          635.7092742919922
+        ],
+        [
+          541.4224243164062,
+          635.7092742919922
+        ],
+        [
+          541.4224243164062,
+          666.4462890625
+        ],
+        [
+          90.796875,
+          666.4462890625
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        635.7092742919922,
+        541.4224243164062,
+        666.4462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/109",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">2. Mit Schreiben ihrer Verfahrensbevollmächtigten vom 5. Mai 2022 beantragte die ASt bei der  Vergabekammer des Bundes die Einleitung eines Nachprüfungsverfahrens. Die  Vergabekammer hat den Nachprüfungsantrag am 6. Mai 2022 an die Ag übermittelt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Mit ihrem Nachprüfungsantrag macht die ASt geltend:</li></ul></li></ul></p>",
+      "page": 109,
+      "polygon": [
+        [
+          70.94400024414062,
+          692.6192779541016
+        ],
+        [
+          541.6592407226562,
+          692.6192779541016
+        ],
+        [
+          541.6592407226562,
+          779.6152839660645
+        ],
+        [
+          70.94400024414062,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        692.6192779541016,
+        541.6592407226562,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9193115234375
+        ],
+        [
+          295.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/134",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Die Aufhebung der Ausschreibung verletze die ASt in ihren Rechten aus § 97 Abs.  6 GWB, weil kein Aufhebungsgrund nach § 17 EU Abs. 1 VOB/A vorgelegen habe.  Tatsächlich habe keine vergaberechtliche Verpflichtung bestanden, die von  Nachunternehmern vorzulegenden Eignungsnachweise in der  Auftragsbekanntmachung ausdrücklich und vollständig anzugeben. Bei dieser  Sachlage habe die Ag bei inhaltlich unveränderter Beschaffungsabsicht, das  Vergabeverfahren fortzuführen. Die gesetzliche Regelung des § 122 Abs. 1 GWB  regele ausschließlich die Eignung der Bewerber bzw. Bieter. Auch § 124 Abs. 4  GWB beziehe sich nur auf die Bekanntgabe der Eignungskriterien, nicht aber der  geforderten Eignungsnachweise. Soweit es sich vorliegend um einen Fall der  Eignungsleihe handele ergäbe sich die Nachweispflicht aus § 6d EU Abs. 1 VOB/A.  Auch in einem solche Fall ebenso wie beim reinen Nachunternehmereinsatz  bestehe keine Pflicht, dahingehend, in der Bekanntmachung ausdrücklich  anzugeben, welche Nachweise vorzulegen sind.</li><li block-type=\"ListItem\"> Die Ag habe in der Auftragsbekanntmachung in den Abschnitten unter Ziffer III 1.1  bis III 1.3 nicht nur die gemäß § 122 Abs. 4 Satz 2 GWB bekannt zu machenden  Eignungsnachweise aufgeführt, sondern auch die Eignungsnachweise, die von den  Bietern mit dem Angebot vorzulegen waren. Auf die Rechtsprechung des OLG  Düsseldorf (Beschluss vom 22.07.2018 – VII Verg 24/18) könne sich die Ag mangels  vergleichbaren Sachverhalts nicht berufen.</li><li block-type=\"ListItem\"> Wenn die Verletzung von Bekanntmachungspflichten unterstellt würde, wäre  zumindest hilfsweise die Rechtswidrigkeit der Aufhebung festzustellen. Die  Korrektur von Fehlern im Vergabeverfahren könne zwar die Aufhebung eines  Vergabeverfahrens sachlich rechtfertigen. Da die Ag aber diesen Vergabefehler  selbst zu vertreten habe, sei eine solche Aufhebung rechtswidrig.</li><li block-type=\"ListItem\"> Die Aufhebungsentscheidung sei auch in der Vergabeakte nur unzureichend  dokumentiert worden.</li><li block-type=\"ListItem\"> Die Rüge der Bestbieterin, mit der ein Verstoß gegen Bekanntmachungspflichten  geltend gemacht wurde, sei gem. § 160 Abs. 3 Satz 1 Nr. 2 GWB präkludiert.</li><li block-type=\"ListItem\"> Der Nachprüfungsantrag sei auch zulässig, denn die Bestbieterin sei zudem aus  einer ganzen Reihe von Gründen zwingend vom Verfahren auszuschließen  gewesen. So habe er offenbar eine Änderung in einer Eigenerklärung zum  Präqualifikationsverfahren vorgenommen, eine Reihe von Unterlagen und  Erklärungen, die mit dem Angebot vorzulegen waren, nicht vorgelegt und den  Nachweis zur Haftpflichtversicherung nicht im geforderten Umfang erbracht. Die</li></ul></p>",
+      "page": 134,
+      "polygon": [
+        [
+          112.91406249999999,
+          123.9730224609375
+        ],
+        [
+          541.6669921875,
+          123.9730224609375
+        ],
+        [
+          541.6669921875,
+          784.0552787780762
+        ],
+        [
+          112.91406249999999,
+          784.0552787780762
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        123.9730224609375,
+        541.6669921875,
+        784.0552787780762
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          295.010009765625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          74.826171875
+        ],
+        [
+          314.87890625,
+          85.9193115234375
+        ],
+        [
+          295.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        74.826171875,
+        314.87890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wiederholten Nachforderungen seitens der Ag seien vergaberechtlich unzulässig  gewesen und die geforderten Unterlagen und Erklärungen seien seitens der ASt nur  unvollständig vorgelegt worden.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          132.703125,
+          122.9287109375
+        ],
+        [
+          541.5401000976562,
+          122.9287109375
+        ],
+        [
+          541.5401000976562,
+          172.33929443359375
+        ],
+        [
+          132.703125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        132.703125,
+        122.9287109375,
+        541.5401000976562,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt:</h2>",
+      "page": 141,
+      "polygon": [
+        [
+          112.33203124999999,
+          198.5771484375
+        ],
+        [
+          203.44976806640625,
+          198.5771484375
+        ],
+        [
+          203.44976806640625,
+          210.25927734375
+        ],
+        [
+          112.33203124999999,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        198.5771484375,
+        203.44976806640625,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/139",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. die Aufhebung der Ausschreibung der Baumaßnahme […] aufzuheben und die Ag  zu verpflichten, das mit Bekanntmachung vom […] veröffentlichte Vergabeverfahren  (Offenes Verfahren) unter Beachtung der Rechtsauffassung der Vergabekammer  fortzusetzen sowie der Ag zu untersagen, das zwischenzeitlich mit EU-Auftragsbekanntmachung vom […] veröffentlichte erneute Offene Verfahren zur  Baumaßnahme […] fortzuführen und in diesem erneuten offenen Verfahren den  Zuschlag zu erteilen;</li><li block-type=\"ListItem\">2. hilfsweise: festzustellen, dass die Aufhebung der Ausschreibung der  Baumaßnahme […] rechtswidrig war und die ASt in ihren Rechten verletzt;</li><li block-type=\"ListItem\">3. der Ag die Kosten des Verfahrens einschließlich der zur zweckentsprechenden Rechtsverfolgung notwendigen Auslagen der ASt aufzuerlegen;</li><li block-type=\"ListItem\">4. festzustellen, dass die Hinzuziehung der Verfahrensbevollmächtigten der ASt  notwendig war;</li><li block-type=\"ListItem\">5. der ASt Akteneinsicht in die Vergabeakten der Ag, insbesondere in die  Dokumentation zur Aufhebung der Ausschreibung, zu gewähren.</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          111.74999999999999,
+          236.4013671875
+        ],
+        [
+          541.7286376953125,
+          236.4013671875
+        ],
+        [
+          541.7286376953125,
+          514.73828125
+        ],
+        [
+          111.74999999999999,
+          514.73828125
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        236.4013671875,
+        541.7286376953125,
+        514.73828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2>b) Die Ag beantragt:</h2>",
+      "page": 141,
+      "polygon": [
+        [
+          91.37890625,
+          540.7892761230469
+        ],
+        [
+          199.12208557128906,
+          540.7892761230469
+        ],
+        [
+          199.12208557128906,
+          551.8292846679688
+        ],
+        [
+          91.37890625,
+          551.8292846679688
+        ]
+      ],
+      "bbox": [
+        91.37890625,
+        540.7892761230469,
+        199.12208557128906,
+        551.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/140",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag wird zurückzuweisen,</li><li block-type=\"ListItem\">2. Die Ag trägt die Kosten des Verfahrens.</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.33203124999999,
+          578.8292846679688
+        ],
+        [
+          362.4166564941406,
+          578.8292846679688
+        ],
+        [
+          362.4166564941406,
+          608.8292846679688
+        ],
+        [
+          112.33203124999999,
+          608.8292846679688
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        578.8292846679688,
+        362.4166564941406,
+        608.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag macht geltend, dass der Nachprüfungsantrag unzulässig und im Übrigen  unbegründet sei:</p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          635.611328125
+        ],
+        [
+          541.70263671875,
+          635.611328125
+        ],
+        [
+          541.70263671875,
+          666.857421875
+        ],
+        [
+          112.91406249999999,
+          666.857421875
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        635.611328125,
+        541.70263671875,
+        666.857421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Der Antrag sei bereits unzulässig, weil eine Schädigung der ASt ausgeschlossen  sei. Im Falle der Aufhebung der Aufhebung und Fortführung des Vergabeverfahrens  wäre das Angebot der Bestbieterin nicht auszuschließen und dieser der Zuschlag  zu erteilen.</li><li block-type=\"ListItem\"> Die Aufhebung der Ausschreibung sei gestützt auf § 17 EU Abs. 1 Nr. 3 VOB/A  rechtmäßig und von der ASt hinzunehmen. Die Eignungsnachweise, die für die</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          112.91406249999999,
+          674.2530212402344
+        ],
+        [
+          541.73388671875,
+          674.2530212402344
+        ],
+        [
+          541.73388671875,
+          781.5634765625
+        ],
+        [
+          112.91406249999999,
+          781.5634765625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        674.2530212402344,
+        541.73388671875,
+        781.5634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nachunternehmer vorzulegen waren, seien in der Bekanntmachung nicht  ausdrücklich und vollständig angegeben worden.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          132.703125,
+          121.2841796875
+        ],
+        [
+          541.5047607421875,
+          121.2841796875
+        ],
+        [
+          541.5047607421875,
+          153.3792724609375
+        ],
+        [
+          132.703125,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        132.703125,
+        121.2841796875,
+        541.5047607421875,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dies gelte insbesondere für die in Ziffer 6 der Teilnahmebedingungen aufgeführten  Eignungsnachweise für Nachunternehmer, die auf Verlangen vorzulegen waren.  Zudem seien die Mindestangaben für Referenzleistungen des Formblatts 124 in der  Bekanntmachung nicht aufgeführt worden, die sowohl für Nachunternehmer als  auch für nicht präqualifizierte Bieter gelten sollten. Es komme nicht darauf an, ob  die Ag diesen Vergabefehler verschuldet habe. Die Aufhebung zur Korrektur des  Fehlers sei erforderlich gewesen. Zwar sei es möglich, die Eignungsprüfung der  Nachunternehmer erst nach VOB/B während des laufenden Vertrages  durchzuführen, aber dies könne zu erheblichen Verzögerungen führen, die  vorliegend vermieden werden sollten.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          134.77999877929688,
+          160.7529296875
+        ],
+        [
+          541.719970703125,
+          160.7529296875
+        ],
+        [
+          541.719970703125,
+          343.1293029785156
+        ],
+        [
+          134.77999877929688,
+          343.1293029785156
+        ]
+      ],
+      "bbox": [
+        134.77999877929688,
+        160.7529296875,
+        541.719970703125,
+        343.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/130",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Der Einschätzung der ASt, dass keine vergaberechtliche Verpflichtung bestünde,  die von Nachunternehmern vorzulegenden Eignungsnachweise ausdrücklich und  vollständig bekannt zu machen, werde widersprochen. Diese Verpflichtung ergebe  sich aus der Entscheidungspraxis der Vergabekammern des Bundes und der  Rechtsprechung des OLG Düsseldorfs (unter Verweis auf VK Bund, Beschluss vom  26. Oktober 2021, VK1-108/21 und OLG Düsseldorf, Beschluss vom 11. Juli 2018,  VII-Verg 24/18). Eine Ausnahme für Nachweise zum Beleg der Eignung von  Nachunternehmern sei nicht erkennbar und eine solche widerspräche der vom OLG  Düsseldorf geforderten Transparenz, die es Bewerbern und Bietern ermöglichen  solle, auf einen Blick erkennen zu können, welche Anforderungen zur erfolgreichen  Teilnahme an der Ausschreibung zu erfüllen sind.</li><li block-type=\"ListItem\"> Die Aufhebungsentscheidung sei auch hinreichend gem. § 20 EU VOB/A i.V.m. § 8  VgV dokumentiert worden.</li><li block-type=\"ListItem\"> Die Rüge der Bestbieterin sei nicht gem. § 160 Abs. 3 Satz 2 Nr. 1 GWB präkludiert  gewesen, da sich der von der Ag im Rahmen der Ausschlussentscheidung geltend  gemachte Vergaberechtsverstoß erst aus der Mitteilung gem. § 134 GWB ergeben  habe. <ul><li block-type=\"ListItem\" class=\"list-indent-1\"> Das Angebot der Bestbieterin sei auch nicht aus anderen Gründen vom  Vergabeverfahren auszuschließen gewesen. Die bemängelte Streichung in einer  Eigenerklärung beziehe sich auf eine Präqualifizierungsunterlage der Bestbieterin  und nicht auf eine Änderung an vorgegebenen Vergabeunterlagen. Die  nachgeforderten Bescheinigungen wurden nachgereicht. Soweit die  Deckungssumme für Personenschäden hinter der geforderten Summe zurückblieb,</li></ul></li></ul></p>",
+      "page": 130,
+      "polygon": [
+        [
+          111.74999999999999,
+          349.0517578125
+        ],
+        [
+          541.7295532226562,
+          349.0517578125
+        ],
+        [
+          541.7295532226562,
+          782.4952774047852
+        ],
+        [
+          111.74999999999999,
+          782.4952774047852
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        349.0517578125,
+        541.7295532226562,
+        782.4952774047852
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ist zu berücksichtigen, dass dieser Nachweis erst für den Zeitpunkt vor Ausführung  der Leistungen (Ziffer III.1.2 der Bekanntmachung) gefordert worden sei und daher  noch für die Bestbieterin noch erbringbar war.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          132.703125,
+          122.9287109375
+        ],
+        [
+          541.41650390625,
+          122.9287109375
+        ],
+        [
+          541.41650390625,
+          172.33929443359375
+        ],
+        [
+          132.703125,
+          172.33929443359375
+        ]
+      ],
+      "bbox": [
+        132.703125,
+        122.9287109375,
+        541.41650390625,
+        172.33929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Die Vergabekammer hat der ASt am 18. Mai 2022 Einsicht in die Vergabeakten gewährt,  soweit keine geheimhaltungsbedürftigen Aktenbestandteile betroffen waren. In der  mündlichen Verhandlung am 2. Juni 2022 hatten die Beteiligten Gelegenheit, ihre  Standpunkte darzulegen und mit der Vergabekammer umfassend zu erörtern. Mit Verfügung  der Vorsitzenden vom 9. Juni 2022 wurde die Entscheidungsfrist bis zum 14. Juni 2022  verlängert<b>. </b>Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die Vergabeakten, soweit sie der Vergabekammer vorgelegt wurden, wird  ergänzend Bezug genommen.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          199.21929931640625
+        ],
+        [
+          541.5548095703125,
+          199.21929931640625
+        ],
+        [
+          541.5548095703125,
+          343.1293029785156
+        ],
+        [
+          69.84375,
+          343.1293029785156
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        199.21929931640625,
+        541.5548095703125,
+        343.1293029785156
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 120,
+      "polygon": [
+        [
+          300.037109375,
+          369.197265625
+        ],
+        [
+          309.931640625,
+          369.197265625
+        ],
+        [
+          309.931640625,
+          381.0492858886719
+        ],
+        [
+          300.037109375,
+          381.0492858886719
+        ]
+      ],
+      "bbox": [
+        300.037109375,
+        369.197265625,
+        309.931640625,
+        381.0492858886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig, aber nur teilweise mit dem hilfsweise gestellten  Feststellungsantrag zu 2. begründet.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.94400024414062,
+          400.8544921875
+        ],
+        [
+          541.4244995117188,
+          400.8544921875
+        ],
+        [
+          541.4244995117188,
+          431.2783203125
+        ],
+        [
+          70.94400024414062,
+          431.2783203125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        400.8544921875,
+        541.4244995117188,
+        431.2783203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/120",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die Zulässigkeitsvoraussetzungen sind gegeben. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Der Nachprüfungsantrag ist statthaft. Die Aufhebungsentscheidung der Ag ist der  Überprüfung durch die Vergabekammer zugänglich (§ 155 GWB), denn gem.§ 168 Abs.  2 S. 1 GWB beendet lediglich der Zuschlag das Vergabeverfahren definitiv und  irreversibel, nicht dagegen die Aufhebung (vgl. hierzu EuGH, Urteil vom 18. Juni 2002,  C-92/00; BGH, Beschluss vom 18. Februar 2003 - X ZB 43/02 sowie OLG Düsseldorf,  Beschluss vom 16. Oktober 2013 – Verg 16/13).</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) Die allgemeinen Zulässigkeitsvoraussetzungen, ein dem Bund zuzurechnender Auftrag  oberhalb des Schwellenwerts, erfüllt. Die Beschaffung erfolgt durch die Ag als dem Bund  zuzuordnender öffentlicher Auftraggeberin im Sinne von § 99 Nr. 2 GWB. Die Ag ist eine  Tochtergesellschaft der BG Kliniken – Klinikverbund der gesetzlichen Unfallversicherung  gGmbH, die als Trägerin der Deutschen gesetzlichen Unfallversicherung fungiert.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">c) Die Antragsbefugnis der ASt ist nach § 160 Abs. 2 GWB zu bejahen. Ihre  Wettbewerbsposition im bisherigen Vergabeverfahren würde diese unwiederbringlich  infolge der beabsichtigten Aufhebungsentscheidung der Ag verlieren. Dem steht</li></ul></li></ul></p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          457.9692687988281
+        ],
+        [
+          541.7367553710938,
+          457.9692687988281
+        ],
+        [
+          541.7367553710938,
+          772.6552886962891
+        ],
+        [
+          69.84375,
+          772.6552886962891
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        457.9692687988281,
+        541.7367553710938,
+        772.6552886962891
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 128,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vorliegend nicht entgegen, dass die ASt in der Submission nur den zweiten Rang hinter  der Bestbieterin belegte. Denn wenn die Aufhebungsentscheidung aufgehoben würde,  würde das Verfahren in den vorherigen Stand zurückversetzt. In diesem hatte die Ag  zunächst eine Ausschlussentscheidung zu Lasten der Bestbieterin gem. § 16 EU Abs. 1  Nr. 4 i.V.m. § 16a EU Abs. 4 und 5 VOB/A wegen unvollständig nachgereichter  Referenzen getroffen und nach Rüge einer unzureichenden Bekanntmachung der  Eignungsanforderungen wieder revidiert.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          112.91406249999999,
+          122.1064453125
+        ],
+        [
+          541.69140625,
+          122.1064453125
+        ],
+        [
+          541.69140625,
+          248.29925537109375
+        ],
+        [
+          112.91406249999999,
+          248.29925537109375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        122.1064453125,
+        541.69140625,
+        248.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch wenn die Ag vorgetragen hat, dass im Fall einer Aufhebung der Aufhebung der  Zuschlag nun auf das Angebot der Bestbieterin erteilt würde, so dass eine drohende  Schädigung der ASt i.S.d. § 160 Abs. 2 Satz 2 GWB ausgeschlossen wäre, so steht die  Vornahme einer entsprechenden Angebotswertung vorliegend aus. Auch wenn diese  Entscheidung hypothetisch so von der Ag getroffen würde, verbliebe der ASt zumindest  die Möglichkeit, die Rechtmäßigkeit der neuen Angebotswertung im Rahmen eines  Nachprüfungsverfahrens zu überprüfen. Aufgrund dieser ungewissen Sachlage ist eine  drohende Verletzung der ASt in eigenen Rechten gem. § 97 Abs. 6 GWB und eine  drohende Schädigung jedenfalls nicht mit der gebotenen Sicherheit auszuschließen.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          112.91406249999999,
+          255.3134765625
+        ],
+        [
+          541.679443359375,
+          255.3134765625
+        ],
+        [
+          541.679443359375,
+          419.08929443359375
+        ],
+        [
+          112.91406249999999,
+          419.08929443359375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        255.3134765625,
+        541.679443359375,
+        419.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/128",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">d) Die ASt hat auch ihrer Rügeobliegenheit fristgerecht gemäß § 160 Abs. 3 Satz 1 Nr. 1  GWB genügt. Die Rechtsbehelfsfrist des § 160 Abs. 3 Satz 1 Nr. 4 GWB wurde gewahrt.</li><li block-type=\"ListItem\">e) Das für den hilfsweise gestellten Feststellungsantrag erforderliche besondere  Feststellungsinteresse (§ 168 Abs. 2 GWB) ergibt sich aus der nicht grundsätzlich  auszuschließenden Möglichkeit eines Schadensersatzanspruchs für nutzlose  Aufwendungen infolge der Verfahrensaufhebung gem. § 241 Abs. 2 BGB und der  Bindungswirkung gemäß § 179 Abs. 1 GWB, die ein festgestellter Vergaberechtsverstoß  für ein solches im Übrigen gesondert zu führendes Verfahren entfalten würde (vgl. BGH,  Urteil vom 8. Dezember 2020, XIII ZR 19/19; OLG Düsseldorf, Beschluss vom 10.  Februar 2021 – Verg 22/20; OLG Celle, Beschluss vom 3. Juli 2018 – 13 Verg 8/17).  Diese Möglichkeit ist vorliegend schon allein deshalb nicht auszuschließen, weil sich die  Ag selbst auf eine Korrektur eigener Vergaberechtsfehler im Wege der Aufhebung und  Neubekanntmachung beruft.</li><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist jedoch nur teilweise begründet.</li></ul></p>",
+      "page": 128,
+      "polygon": [
+        [
+          70.94400024414062,
+          445.66796875
+        ],
+        [
+          541.7293090820312,
+          445.66796875
+        ],
+        [
+          541.7293090820312,
+          741.5792846679688
+        ],
+        [
+          70.94400024414062,
+          741.5792846679688
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        445.66796875,
+        541.7293090820312,
+        741.5792846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          292.010009765625,
+          74.00390625
+        ],
+        [
+          317.7663269042969,
+          74.00390625
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.00390625,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Soweit die ASt mit ihrem Hauptantrag die Fortführung des Vergabeverfahrens und  Zuschlagserteilung auf ihr Angebot begehrt, ist dieser Antrag als unbegründet  zurückzuweisen. Denn die ASt hat keinen Anspruch darauf, dass die Ag das  Vergabeverfahren fortsetzt und mit der zuvor angekündigten Zuschlagserteilung auf ihr  Angebot beendet. Die Aufhebung des Verfahrens ist vielmehr rechtswirksam. Dies gilt  unabhängig davon, dass die Voraussetzungen des § 17 EU Abs. 1 Nr. 3 VOB/A, auf den die  Ag ihre Aufhebungsentscheidung gestützt hat, nicht vorgelegen haben (a). Der hilfsweise  gestellte Feststellungsantrag ist dagegen begründet, weil die Aufhebung wirksam, aber  mangels rechtfertigenden Aufhebungsgrundes i.S.d. § 17 EU Abs. 1 VOB/A rechtswidrig war  (b).</p>",
+      "page": 120,
+      "polygon": [
+        [
+          89.6328125,
+          121.2841796875
+        ],
+        [
+          541.4995727539062,
+          121.2841796875
+        ],
+        [
+          541.4995727539062,
+          305.20928955078125
+        ],
+        [
+          89.6328125,
+          305.20928955078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        121.2841796875,
+        541.4995727539062,
+        305.20928955078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/120",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) Die Aufhebung des offenen Verfahrens ist wirksam.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa) Unabhängig davon, ob ein Aufhebungsgrund i.S.d. § 17 EU VOB/A vorliegt, kann ein  öffentlicher Auftraggeber von einem Vergabeverfahren Abstand nehmen. Dies folgt aus  den Grundsätzen der Vertragsfreiheit und Privatautonomie. Der Auftraggeber unterliegt  keinem Kontrahierungszwang und braucht, wie im Vergaberecht in § 63 Abs. 1 S. 2 VgV  ausdrücklich normiert, eine Vergabe nicht mit einem Zuschlag abzuschließen (vgl. nur  BGH, Beschluss vom 20. März 2014, X ZB 18/13; OLG Düsseldorf, Beschluss vom 10.  Februar 2021 – Verg 22/20; Beschluss vom 16. Oktober 2013, VII-Verg 16/13, jeweils  m.w. N.).</li></ul></li></ul></p>",
+      "page": 120,
+      "polygon": [
+        [
+          91.37890625,
+          331.7841796875
+        ],
+        [
+          541.6553955078125,
+          331.7841796875
+        ],
+        [
+          541.6553955078125,
+          494.94927978515625
+        ],
+        [
+          91.37890625,
+          494.94927978515625
+        ]
+      ],
+      "bbox": [
+        91.37890625,
+        331.7841796875,
+        541.6553955078125,
+        494.94927978515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der Rechtsprechung sind wenige Ausnahmen anerkannt, unter denen eine Aufhebung  aufzuheben und das ursprüngliche Vergabeverfahren fortzuführen ist. Dies ist der Fall,  wenn die Aufhebung der Ausschreibung aufgrund Fehlens eines sachlich  gerechtfertigten Grundes willkürlich ist oder wenn die Aufhebung bei fortbestehender  Beschaffungsabsicht nur zum Schein und tatsächlich zu dem Zweck erfolgt, einen Bieter  gezielt zu diskriminieren (vgl. BGH, Beschluss vom 20. März 2014, X ZB 18/13; OLG  Düsseldorf, Beschluss vom 10. Februar 2021 – Verg 22/20; OLG Celle, Beschluss vom  3. Juli 2018 – 13 Verg 8/17 jeweils m.w.N.).</p>",
+      "page": 120,
+      "polygon": [
+        [
+          108.2578125,
+          521.8292541503906
+        ],
+        [
+          541.6607055664062,
+          521.8292541503906
+        ],
+        [
+          541.6607055664062,
+          667.2685546875
+        ],
+        [
+          108.2578125,
+          667.2685546875
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        521.8292541503906,
+        541.6607055664062,
+        667.2685546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bb) Ein solcher Ausnahmefall, in dem die ASt Anspruch auf Weiterführung des  Vergabeverfahrens hätte, liegt hier nicht vor.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          108.2578125,
+          692.34765625
+        ],
+        [
+          541.5020141601562,
+          692.34765625
+        ],
+        [
+          541.5020141601562,
+          722.6192855834961
+        ],
+        [
+          108.2578125,
+          722.6192855834961
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        692.34765625,
+        541.5020141601562,
+        722.6192855834961
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Aus der Dokumentation der Aufhebungsentscheidung im Vergabevermerk, die zur  Begründung im Wesentlichen auf das an die Bestbieterin gerichtete Schreiben vom 31.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          108.2578125,
+          747.8505859375
+        ],
+        [
+          541.7252807617188,
+          747.8505859375
+        ],
+        [
+          541.7252807617188,
+          779.6152839660645
+        ],
+        [
+          108.2578125,
+          779.6152839660645
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        747.8505859375,
+        541.7252807617188,
+        779.6152839660645
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 116,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">März 2022 verweist, ergibt sich, dass die Ag die Aufhebung vorgenommen hat, um einen  von der Bestbieterin gerügten Vergaberechtsfehler – die unzureichende  Bekanntmachung von Eignungsanforderungen an eingeplante Nachunternehmer – zu  korrigieren. Durch die Aufhebung und Neubekanntmachung der Ausschreibung soll die  Transparenz der Eignungsanforderungen für alle Bieter gleichermaßen erhöht und eine  Verzögerung der Bauausführung möglichst geringgehalten werden. Dabei bewertet die  Ag den Umstand, dass die Eignungsanforderungen an den Nachunternehmereinsatz  nicht in der Bekanntmachung, sondern lediglich in den Vergabeunterlagen aufgeführt  wurden, nicht als Verstoß gegen gesetzliche Vorgaben (§ 122 Abs. 4 GWB). Vielmehr  bezieht sich die Ag darauf, dass neuere Rechtsprechung in richtlinienkonformer  Auslegung der Vorgabevorschriften anhand Art. 58 Abs. 5 RL 2014/24/EU eine  einheitliche Bekanntgabe der Eignungsanforderungen an Bieter und Nachunternehmer  gleichermaßen erfordere.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          108.2578125,
+          122.517578125
+        ],
+        [
+          541.722412109375,
+          122.517578125
+        ],
+        [
+          541.722412109375,
+          362.08929443359375
+        ],
+        [
+          108.2578125,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        122.517578125,
+        541.722412109375,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diese Begründung trägt die Aufhebungsentscheidung. Mit dieser hob die Ag – unter  Abhilfe der Rüge der Bestbieterin – die frühere Ausschlussentscheidung zu deren Lasten  auf, um ein Nachprüfungsverfahren zur Klärung der Rechtsfrage im Interesse an einer  zügigen Bauausführung zu vermeiden und den Wettbewerb unter transparenteren und in  ihren Augen rechtssicheren Bedingungen für alle interessierte Bieter erneut zu öffnen.  Vor diesem Hintergrund ist es ausgeschlossen, dass die Ag mit der Aufhebung den  Zweck verfolgt haben könnte, den Auftrag in diskriminierender Weise einem bestimmten  Bieter zukommen zu lassen. Ebenso wenig kann festgestellt werden, dass die Ag die  Aufhebung des offenen Verfahrens vorschob, um in missbräuchlicher Weise den Auftrag  unter anderen Voraussetzungen vergeben zu können.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          108.2578125,
+          388.9692687988281
+        ],
+        [
+          541.7291259765625,
+          388.9692687988281
+        ],
+        [
+          541.7291259765625,
+          571.0634765625
+        ],
+        [
+          108.2578125,
+          571.0634765625
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        388.9692687988281,
+        541.7291259765625,
+        571.0634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vielmehr ist die Korrektur von Vergaberechtsfehlern ein sachlicher Aufhebungsgrund,  wenn eine Manipulation des Vergabeverfahrens hierdurch ausgeschlossen ist. Es ist  sinnvoll, wenn der öffentliche Auftraggeber erkannte oder jedenfalls in seinen Augen  wahrscheinliche Fehler in seiner Ausschreibung behebt und nicht ein möglicherweise  fehlerbehaftetes Vergabeverfahren ohne Korrektur fortsetzt. Dabei unterliegt dieser  allerdings den vergaberechtlichen Geboten der Transparenz und der Gleichbehandlung  im Wettbewerb (vgl. BGH, Beschluss vom 20. März 2014, X ZB 18/13; OLG Düsseldorf,  Beschluss vom 11. Januar 2015 – VII-Verg 29/14).</p>",
+      "page": 116,
+      "polygon": [
+        [
+          112.91406249999999,
+          597.7892761230469
+        ],
+        [
+          541.7142333984375,
+          597.7892761230469
+        ],
+        [
+          541.7142333984375,
+          742.505859375
+        ],
+        [
+          112.91406249999999,
+          742.505859375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        597.7892761230469,
+        541.7142333984375,
+        742.505859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 107,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dies gilt insbesondere auch für Aufhebungen, die nach unzureichender  Bekanntmachung der Eignungskriterien, eine regelrechte Eignungsprüfung der Bieter  ermöglichen sollen. In solchen Fällen kann die Auftraggeberin auch bei fortbestehender  Beschaffungsabsicht nicht dazu gezwungen werden kann, einen Auftrag zu vergeben,  bei dem aus ihrer Sicht unklar ist, ob die Eignung des Bieters vorliegt (OLG Celle,  Beschluss vom 3. Juli 2018 – 13 Verg 8/17; OLG Düsseldorf, Beschluss vom 16.  Oktober 2013 – VII-Verg 16/13 jeweils m.w.N.).</p>",
+      "page": 107,
+      "polygon": [
+        [
+          112.91406249999999,
+          121.6953125
+        ],
+        [
+          541.6390380859375,
+          121.6953125
+        ],
+        [
+          541.6390380859375,
+          248.29925537109375
+        ],
+        [
+          112.91406249999999,
+          248.29925537109375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        121.6953125,
+        541.6390380859375,
+        248.29925537109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im vorliegenden Fall bedarf es keiner abschließenden Feststellung, ob die fehlende  Bekanntgabe der Eignungsanforderungen an den Nachunternehmereinsatz tatsächlich  einen Vergaberechtsfehler begründet. Denn ein sachlicher, nicht willkürlicher Grund für  eine Aufhebung ist es auch, wenn diese der Vermeidung von Rechtsunsicherheiten  dient, bei denen die Feststellung, ob überhaupt ein Vergaberechtsfehler des  Auftraggebers vorliegt, erst zum Gegenstand eines aufwändigen  Nachprüfungsverfahrens mit ungewissen Erfolgsaussichten zu werden droht. Denn es  wäre mit den Grundsätzen der Wirtschaftlichkeit und Effizienz bei der Verwendung  öffentlicher Haushaltsmittel nicht zu vereinbaren, wenn man einen Auftraggeber dazu  zwingen könnte, zunächst einen Rechtsstreit über das Vorliegen eines  Vergaberechtsfehler durchzuführen, wenn der Auftraggeber im Rahmen seiner  Abwägung der Auswirkungen zu dem Schluss kommt, dass die mit einem Rechtsstreit  verbundene Rechtsunsicherheit, zeitliche Verzögerung des Vorhabens und die  finanziellen Auswirkungen außer Verhältnis zu einer Abhilfeentscheidung unter  Korrektur des geltend gemachten Vergaberechtsfehlers stehen.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          112.91406249999999,
+          274.63671875
+        ],
+        [
+          541.68994140625,
+          274.63671875
+        ],
+        [
+          541.68994140625,
+          551.8292846679688
+        ],
+        [
+          112.91406249999999,
+          551.8292846679688
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        274.63671875,
+        541.68994140625,
+        551.8292846679688
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Anbetracht dieser Unklarheiten in der Bekanntgabe der Eignungsanforderungen an  Bieter und Nachunternehmer war es jedenfalls nicht beurteilungsfehlerhaft, dass die Ag  der Rüge der Bestbieterin abgeholfen hat und anstrebt, diese Unklarkeiten nun im Wege  einer Aufhebung und entsprechend angepasster Neubekanntmachung zu beseitigen.  Diese Entscheidung der Ag begründet daher einen sachlichen Aufhebungsgrund.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          108.2578125,
+          590.8292846679688
+        ],
+        [
+          541.6256713867188,
+          590.8292846679688
+        ],
+        [
+          541.6256713867188,
+          678.369140625
+        ],
+        [
+          108.2578125,
+          678.369140625
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        590.8292846679688,
+        541.6256713867188,
+        678.369140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Der hilfsweise gestellte Feststellungsantrag ist dagegen begründet, da die ASt in ihren  Rechten verletzt ist.</p>",
+      "page": 107,
+      "polygon": [
+        [
+          90.796875,
+          703.037109375
+        ],
+        [
+          541.6748657226562,
+          703.037109375
+        ],
+        [
+          541.6748657226562,
+          734.6192855834961
+        ],
+        [
+          90.796875,
+          734.6192855834961
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        703.037109375,
+        541.6748657226562,
+        734.6192855834961
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 90,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          74.826171875
+        ],
+        [
+          317.7663269042969,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7663269042969,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt begehrt die Feststellung, dass die Aufhebung nicht von einem der in § 17 EU  Abs. 1 VOB/A genannten Gründe, gedeckt und deshalb rechtswidrig war.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          108.2578125,
+          122.1064453125
+        ],
+        [
+          541.7281494140625,
+          122.1064453125
+        ],
+        [
+          541.7281494140625,
+          153.3792724609375
+        ],
+        [
+          108.2578125,
+          153.3792724609375
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        122.1064453125,
+        541.7281494140625,
+        153.3792724609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Für die Frage, ob die Vergabestelle nach dieser Bestimmung berechtigt war, das  Vergabeverfahren aufzuheben oder ob die Aufhebung einen Bieter in seinen Rechten  aus § 97 Abs. 6 GWB verletzt, sind die gesamten Umstände, die für die  Aufhebungsentscheidung erheblich waren, zu berücksichtigen. (BGH, Beschluss vom 20.  März 2014 – X ZB 18/13).</p>",
+      "page": 90,
+      "polygon": [
+        [
+          109.421875,
+          179.6650390625
+        ],
+        [
+          541.6495971679688,
+          179.6650390625
+        ],
+        [
+          541.6495971679688,
+          267.6474609375
+        ],
+        [
+          109.421875,
+          267.6474609375
+        ]
+      ],
+      "bbox": [
+        109.421875,
+        179.6650390625,
+        541.6495971679688,
+        267.6474609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vorliegend macht die Ag selbst geltend, einen Vergaberechtsfehler begangen zu haben,  der der Korrektur im Wege einer Aufhebung und Neuausschreibung mit angepassten  Eignungsanforderungen erfordert habe. Diese Einschätzung ist auch nicht  beurteilungsfehlerhaft.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          109.421875,
+          293.1376953125
+        ],
+        [
+          541.729248046875,
+          293.1376953125
+        ],
+        [
+          541.729248046875,
+          362.08929443359375
+        ],
+        [
+          109.421875,
+          362.08929443359375
+        ]
+      ],
+      "bbox": [
+        109.421875,
+        293.1376953125,
+        541.729248046875,
+        362.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die durch die Ag hervorgerufene, grundsätzlich vermeidbare Rechtsunsicherheit, ob die  Ag vorliegend die Eignungsanforderungen den Bietern – sei es im Rahmen der  Bekanntmachung oder in den Vergabeunterlagen – hinreichend transparent bekannt  gegeben hat, begründet vorliegend eine Verfahrenssituation, in der die Aufhebung  rechtswidrig die Verfahrensrechte der Bieter beeinträchtigt hat.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          108.2578125,
+          387.287109375
+        ],
+        [
+          541.7185668945312,
+          387.287109375
+        ],
+        [
+          541.7185668945312,
+          475.9892883300781
+        ],
+        [
+          108.2578125,
+          475.9892883300781
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        387.287109375,
+        541.7185668945312,
+        475.9892883300781
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bei dieser Sachlage ist ein rechtfertigender Aufhebungsgrund i.S.d. § 17 EU Abs. 1  VOB/A ausgeschlossen, da ein solcher eine verfahrensfehlerhafte Führung des  Vergabeverfahrens voraussetzt (BGH, ebd.).</p>",
+      "page": 90,
+      "polygon": [
+        [
+          108.2578125,
+          482.2587890625
+        ],
+        [
+          541.7293090820312,
+          482.2587890625
+        ],
+        [
+          541.7293090820312,
+          532.8692626953125
+        ],
+        [
+          108.2578125,
+          532.8692626953125
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        482.2587890625,
+        541.7293090820312,
+        532.8692626953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 110,
+      "polygon": [
+        [
+          298.58203125,
+          123.33984375
+        ],
+        [
+          311.38671875,
+          123.33984375
+        ],
+        [
+          311.38671875,
+          134.4193115234375
+        ],
+        [
+          298.58203125,
+          134.4193115234375
+        ]
+      ],
+      "bbox": [
+        298.58203125,
+        123.33984375,
+        311.38671875,
+        134.4193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 3 Satz 1, Abs. 4 Satz 1, Satz 4 GWB, § 80 Abs. 2  VwVfG. ASt und Ag tragen als jeweils teilweise unterliegende Verfahrensbeteiligte die Kosten  (Gebühren und Auslagen) des Nachprüfungsverfahrens (§ 182 Abs. 3 Satz 1 GWB) sowie die zur  zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der jeweiligen  Gegenpartei (§ 182 Abs. 4 Satz 1 GWB).</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          152.119140625
+        ],
+        [
+          541.6121826171875,
+          152.119140625
+        ],
+        [
+          541.6121826171875,
+          241.21929931640625
+        ],
+        [
+          69.84375,
+          241.21929931640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        152.119140625,
+        541.6121826171875,
+        241.21929931640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenverteilung zu Lasten der ASt in Höhe von zwei Dritteln und zu Lasten der Ag in Höhe  von einem Drittel entspricht dem Maß ihres jeweiligen Unterliegens. Dem Hauptantrag wird dabei  entsprechend des wirtschaftlichen Interesses der ASt ein höheres Gewicht beigemessen, als dem  hilfsweise gestellten Feststellungsantrag.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          248.7353515625
+        ],
+        [
+          541.6870727539062,
+          248.7353515625
+        ],
+        [
+          541.6870727539062,
+          317.20928955078125
+        ],
+        [
+          69.84375,
+          317.20928955078125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        248.7353515625,
+        541.6870727539062,
+        317.20928955078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung eines Verfahrensbevollmächtigten seitens der ASt war notwendig. Das  Verfahren betraf Fragen zur Wirksamkeit und Rechtmäßigkeit einer Aufhebung, mit denen ein  durchschnittlich fachkundiger Bieter nicht vertraut zu sein braucht.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.94400024414062,
+          324.3837890625
+        ],
+        [
+          541.4578857421875,
+          324.3837890625
+        ],
+        [
+          541.4578857421875,
+          374.08929443359375
+        ],
+        [
+          70.94400024414062,
+          374.08929443359375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        324.3837890625,
+        541.4578857421875,
+        374.08929443359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 110,
+      "polygon": [
+        [
+          298.0,
+          400.443359375
+        ],
+        [
+          311.96875,
+          400.443359375
+        ],
+        [
+          311.96875,
+          412.00927734375
+        ],
+        [
+          298.0,
+          412.00927734375
+        ]
+      ],
+      "bbox": [
+        298.0,
+        400.443359375,
+        311.96875,
+        412.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  innerhalb einer Notfrist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt,  schriftlich beim Oberlandesgericht Düsseldorf - Vergabesenat - einzulegen.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.94400024414062,
+          432.0492858886719
+        ],
+        [
+          541.70654296875,
+          432.0492858886719
+        ],
+        [
+          541.70654296875,
+          481.84765625
+        ],
+        [
+          70.94400024414062,
+          481.84765625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        432.0492858886719,
+        541.70654296875,
+        481.84765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für  Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.94400024414062,
+          507.9092712402344
+        ],
+        [
+          541.46875,
+          507.9092712402344
+        ],
+        [
+          541.46875,
+          537.9092712402344
+        ],
+        [
+          70.94400024414062,
+          537.9092712402344
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        507.9092712402344,
+        541.46875,
+        537.9092712402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerde ist bei Gericht als elektronisches Dokument einzureichen. Dieses muss mit einer  qualifizierten elektronischen Signatur der verantwortenden Person versehen sein oder von der  verantwortenden Person signiert und auf einem sicheren Übermittlungsweg eingereicht werden.  Dies gilt nicht für Anlagen, die vorbereitenden Schriftsätzen beigefügt sind. Ist die Übermittlung  als elektronisches Dokument aus technischen Gründen vorübergehend nicht möglich, bleibt die  Übermittlung nach den allgemeinen Vorschriften zulässig.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          564.7892761230469
+        ],
+        [
+          541.6539916992188,
+          564.7892761230469
+        ],
+        [
+          541.6539916992188,
+          670.96875
+        ],
+        [
+          69.84375,
+          670.96875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        564.7892761230469,
+        541.6539916992188,
+        670.96875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die  Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der  Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die  Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.94400024414062,
+          696.0478515625
+        ],
+        [
+          541.73486328125,
+          696.0478515625
+        ],
+        [
+          541.73486328125,
+          765.5752868652344
+        ],
+        [
+          70.94400024414062,
+          765.5752868652344
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        696.0478515625,
+        541.73486328125,
+        765.5752868652344
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 29,
+      "polygon": [
+        [
+          292.010009765625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          74.826171875
+        ],
+        [
+          317.7890625,
+          85.9193115234375
+        ],
+        [
+          292.010009765625,
+          85.9193115234375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        74.826171875,
+        317.7890625,
+        85.9193115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der  Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der  Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das  Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur  Entscheidung über die Beschwerde verlängern.</p>",
+      "page": 29,
+      "polygon": [
+        [
+          69.84375,
+          123.37933349609375
+        ],
+        [
+          541.457763671875,
+          123.37933349609375
+        ],
+        [
+          541.457763671875,
+          210.25927734375
+        ],
+        [
+          69.84375,
+          210.25927734375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.37933349609375,
+        541.457763671875,
+        210.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Brune</p>",
+      "page": 29,
+      "polygon": [
+        [
+          153.365234375,
+          256.21929931640625
+        ],
+        [
+          441.6805725097656,
+          256.21929931640625
+        ],
+        [
+          441.6805725097656,
+          267.25927734375
+        ],
+        [
+          153.365234375,
+          267.25927734375
+        ]
+      ],
+      "bbox": [
+        153.365234375,
+        256.21929931640625,
+        441.6805725097656,
+        267.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 29,
+      "polygon": [
+        [
+          410.9140625,
+          257.369140625
+        ],
+        [
+          441.17968749999994,
+          257.369140625
+        ],
+        [
+          441.17968749999994,
+          265.591796875
+        ],
+        [
+          410.9140625,
+          265.591796875
+        ]
+      ],
+      "bbox": [
+        410.9140625,
+        257.369140625,
+        441.17968749999994,
+        265.591796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/8"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

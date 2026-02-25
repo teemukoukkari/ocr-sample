@@ -1,0 +1,4574 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 159,
+      "polygon": [
+        [
+          31.08046875,
+          29.93046875
+        ],
+        [
+          166.81015625,
+          29.93046875
+        ],
+        [
+          166.81015625,
+          95.05390625
+        ],
+        [
+          31.08046875,
+          95.05390625
+        ]
+      ],
+      "bbox": [
+        31.08046875,
+        29.93046875,
+        166.81015625,
+        95.05390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>3. Vergabekammer des Bundes VK 3 - 2/11</h1>",
+      "page": 159,
+      "polygon": [
+        [
+          54.7109375,
+          125.3955078125
+        ],
+        [
+          212.23631286621094,
+          125.3955078125
+        ],
+        [
+          212.23631286621094,
+          156.499267578125
+        ],
+        [
+          54.7109375,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        125.3955078125,
+        212.23631286621094,
+        156.499267578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 159,
+      "polygon": [
+        [
+          274.6100158691406,
+          204.3330078125
+        ],
+        [
+          334.958984375,
+          204.3330078125
+        ],
+        [
+          334.958984375,
+          216.6800537109375
+        ],
+        [
+          274.6100158691406,
+          216.6800537109375
+        ]
+      ],
+      "bbox": [
+        274.6100158691406,
+        204.3330078125,
+        334.958984375,
+        216.6800537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/3",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th></th><th></th></tr><tr><td>In dem Nachprüfungsverfahren<br/>der</td><td></td></tr><tr><td>Bietergemeinschaft, bestehend aus</td><td></td></tr><tr><td>a)<br/>…</td><td></td></tr><tr><td>b)<br/>…<br/>vertreten durch die</td><td></td></tr><tr><td>…</td><td>-<br/>Antragstellerin<br/>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>…</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>…<br/>Verfahrensbevollmächtigte:</td><td>-<br/>Antragsgegnerin<br/>zu<br/>1) -</td></tr><tr><td>…</td><td></td></tr><tr><td></td><td></td></tr><tr><td>handelnd für</td><td></td></tr><tr><td>1) …,<br/>2) …,<br/>3) …,<br/>4) …,<br/>5) …,<br/>6) …,<br/>7) …,<br/>8) …,<br/>9) …,<br/>10) …,<br/>11) …</td><td></td></tr></tbody></table>",
+      "page": 159,
+      "polygon": [
+        [
+          45.3984375,
+          231.87890625
+        ],
+        [
+          536.6328125,
+          231.87890625
+        ],
+        [
+          536.6328125,
+          784.6552772521973
+        ],
+        [
+          45.3984375,
+          784.6552772521973
+        ]
+      ],
+      "bbox": [
+        45.3984375,
+        231.87890625,
+        536.6328125,
+        784.6552772521973
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          288.10546875,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          288.10546875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        288.10546875,
+        62.039306640625,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Antragsgegnerinnen zu 2) -</p>",
+      "page": 171,
+      "polygon": [
+        [
+          396.654296875,
+          135.2626953125
+        ],
+        [
+          540.6563720703125,
+          135.2626953125
+        ],
+        [
+          540.6563720703125,
+          146.8992919921875
+        ],
+        [
+          396.654296875,
+          146.8992919921875
+        ]
+      ],
+      "bbox": [
+        396.654296875,
+        135.2626953125,
+        540.6563720703125,
+        146.8992919921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>Verfahrensbevollmächtigte:</h2>",
+      "page": 171,
+      "polygon": [
+        [
+          55.58398437499999,
+          147.5966796875
+        ],
+        [
+          190.0491180419922,
+          147.5966796875
+        ],
+        [
+          190.0491180419922,
+          159.6192626953125
+        ],
+        [
+          55.58398437499999,
+          159.6192626953125
+        ]
+      ],
+      "bbox": [
+        55.58398437499999,
+        147.5966796875,
+        190.0491180419922,
+        159.6192626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">…,</p>",
+      "page": 171,
+      "polygon": [
+        [
+          56.45703124999999,
+          167.539306640625
+        ],
+        [
+          70.77311706542969,
+          167.539306640625
+        ],
+        [
+          70.77311706542969,
+          179.6650390625
+        ],
+        [
+          56.45703124999999,
+          179.6650390625
+        ]
+      ],
+      "bbox": [
+        56.45703124999999,
+        167.539306640625,
+        70.77311706542969,
+        179.6650390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">…,</p>",
+      "page": 171,
+      "polygon": [
+        [
+          56.63999938964844,
+          205.1552734375
+        ],
+        [
+          71.298828125,
+          205.1552734375
+        ],
+        [
+          71.298828125,
+          216.499267578125
+        ],
+        [
+          56.63999938964844,
+          216.499267578125
+        ]
+      ],
+      "bbox": [
+        56.63999938964844,
+        205.1552734375,
+        71.298828125,
+        216.499267578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">- Beigeladene -</p>",
+      "page": 171,
+      "polygon": [
+        [
+          400.146484375,
+          216.255859375
+        ],
+        [
+          475.2563171386719,
+          216.255859375
+        ],
+        [
+          475.2563171386719,
+          229.0992431640625
+        ],
+        [
+          400.146484375,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        400.146484375,
+        216.255859375,
+        475.2563171386719,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen des Abschlusses von wirkstoffbezogenen Rabattvereinbarungen gem. § 130a Abs. 8 SGB V für den Zeitraum vom …, Gebietslose 1 bis 7, Wirkstoff … (Fachlos Nr....), Bekanntmachung …, hat die 3. Vergabekammer des Bundes durch die Vorsitzende Direktorin beim Bundeskartellamt Dr.  Herlemann, die hauptamtliche Beisitzerin Regierungsdirektorin Brauer und den ehrenamtlichen  Beisitzer Adamczak am 7. Februar 2011 beschlossen:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          53.546875,
+          254.4912109375
+        ],
+        [
+          544.606689453125,
+          254.4912109375
+        ],
+        [
+          544.606689453125,
+          343.00927734375
+        ],
+        [
+          53.546875,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        53.546875,
+        254.4912109375,
+        544.606689453125,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/171",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Das Nachprüfungsverfahren ist im Hinblick auf die Gebietslose 1, 4 und 5 des Fachloses  Nr. ... (…) durch Teilrücknahme beendet.</li><li block-type=\"ListItem\">2. Im Hinblick auf die Gebietslose 2, 3, 6 und 7 des Fachloses Nr. ... (…) wird der  Nachprüfungsantrag zurückgewiesen.</li><li block-type=\"ListItem\">3. Die Antragstellerin trägt die Kosten des Verfahrens sowie die zur zweckentsprechenden  Rechtsverteidigung notwendigen Aufwendungen der Antragsgegnerinnen. Die  Beigeladene trägt ihre zur zweckentsprechenden Rechtsverteidigung notwendigen  Aufwendungen selbst.</li><li block-type=\"ListItem\">4. Die Hinzuziehung eines Verfahrensbevollmächtigten durch die Antragsgegnerinnen war notwendig.</li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          79.15625,
+          369.8892822265625
+        ],
+        [
+          544.623046875,
+          369.8892822265625
+        ],
+        [
+          544.623046875,
+          587.7092895507812
+        ],
+        [
+          79.15625,
+          587.7092895507812
+        ]
+      ],
+      "bbox": [
+        79.15625,
+        369.8892822265625,
+        544.623046875,
+        587.7092895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Gründe:</b></h3>",
+      "page": 171,
+      "polygon": [
+        [
+          277.7300109863281,
+          638.5892791748047
+        ],
+        [
+          321.86328125,
+          638.5892791748047
+        ],
+        [
+          321.86328125,
+          649.6292877197266
+        ],
+        [
+          277.7300109863281,
+          649.6292877197266
+        ]
+      ],
+      "bbox": [
+        277.7300109863281,
+        638.5892791748047,
+        321.86328125,
+        649.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 171,
+      "polygon": [
+        [
+          294.5078125,
+          656.5791015625
+        ],
+        [
+          302.1591491699219,
+          656.5791015625
+        ],
+        [
+          302.1591491699219,
+          668.6192932128906
+        ],
+        [
+          294.5078125,
+          668.6192932128906
+        ]
+      ],
+      "bbox": [
+        294.5078125,
+        656.5791015625,
+        302.1591491699219,
+        668.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin zu 1) machte im Supplement zum Amtsblatt der Europäischen  Gemeinschaften vom … sowohl im eigenen Namen als auch im Namen und im Auftrag der  Antragsgegnerinnen zu 2) (im Folgenden: Ag) den Abschluss wirkstoffbezogener  Rabattvereinbarungen gemäß § 130a Abs. 8 SGB V für den Zeitraum vom … bis zum … im  Rahmen eines offenen Verfahrens gemeinschaftsweit bekannt (Bekanntmachung …)</p>",
+      "page": 171,
+      "polygon": [
+        [
+          54.7109375,
+          695.6192779541016
+        ],
+        [
+          544.6019287109375,
+          695.6192779541016
+        ],
+        [
+          544.6019287109375,
+          783.2080078125
+        ],
+        [
+          54.7109375,
+          783.2080078125
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        695.6192779541016,
+        544.6019287109375,
+        783.2080078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          288.396484375,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          288.396484375,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        288.396484375,
+        61.669921875,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/170",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) Zum Nachweis ihrer wirtschaftlichen und finanziellen Leistungsfähigkeit hatten die Bieter nach  Ziffer III.2.2) der Bekanntmachung folgenden Angaben zu machen: <ul><li block-type=\"ListItem\" class=\"list-indent-1\"><i>\"b) Im Falle des Einsatzes von Unterauftragnehmern (insb. bei Einsatz von </i> <i>Auftragsherstellern i.S.d. § 9 AMWHV) hat der Bieter nach näherer Maßgabe der </i> <i>Vergabeunterlagen dem Auftraggeber zugleich nachzuweisen, dass ihm im Auftragsfall </i> <i>die erforderlichen Mittel zur Verfügung stehen, indem er jeweils eine entsprechende </i> <i>Verpflichtungserklärung des/der benannten Unterauftragnehmer(s) vorlegt (§ 7 Abs. 9 </i> <i>VOL/A-EG). (...)</i></li></ul></li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          54.7109375,
+          141.4296875
+        ],
+        [
+          544.5046997070312,
+          141.4296875
+        ],
+        [
+          544.5046997070312,
+          267.1231689453125
+        ],
+        [
+          54.7109375,
+          267.1231689453125
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        141.4296875,
+        544.5046997070312,
+        267.1231689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die Verpflichtungserklärung(en) des/der Unterauftragnehmer(s) kann/können </i> <i>ausschließlich in schriftlicher Form wahlweise in der deutschen oder englischen </i> <i>Fassung abgegeben werden. Die Verpflichtungserklärung(en) des/der </i> <i>Unterauftragnehmer(s) muss/müssen mit Abgabe (innerhalb der Angebotsfrist) noch </i> <i>nicht zwingend im Original vorliegen. Das/die Original(e) der </i> <i>Verpflichtungserklärung(en) ist/sind aber unverzüglich (vgl. § 121 Abs. 1 Satz 1 BGB; </i> <i>spätestens 14 Tage nach Ablauf der Angebotsfrist) nachzureichen. Der Vorlage von </i> <i>weiteren Eignungsnachweisen in Bezug auf den/die Unterauftragnehmer bedarf es </i> <i>nicht.\"</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          112.91406249999999,
+          268.4697265625
+        ],
+        [
+          544.5416259765625,
+          268.4697265625
+        ],
+        [
+          544.5416259765625,
+          380.9131774902344
+        ],
+        [
+          112.91406249999999,
+          380.9131774902344
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        268.4697265625,
+        544.5416259765625,
+        380.9131774902344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Ziffer A.III.6 der Verdingungsunterlagen (Form und Bestandteile der Angebote) hieß es:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          77.9921875,
+          400.443359375
+        ],
+        [
+          518.166748046875,
+          400.443359375
+        ],
+        [
+          518.166748046875,
+          412.6092834472656
+        ],
+        [
+          77.9921875,
+          412.6092834472656
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        400.443359375,
+        518.166748046875,
+        412.6092834472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"6.2</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          112.33203124999999,
+          419.7666015625
+        ],
+        [
+          132.12319946289062,
+          419.7666015625
+        ],
+        [
+          132.12319946289062,
+          431.55316162109375
+        ],
+        [
+          112.33203124999999,
+          431.55316162109375
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        419.7666015625,
+        132.12319946289062,
+        431.55316162109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          113.30000305175781,
+          439.47320556640625
+        ],
+        [
+          130.375,
+          439.47320556640625
+        ],
+        [
+          130.375,
+          450.51318359375
+        ],
+        [
+          113.30000305175781,
+          450.51318359375
+        ]
+      ],
+      "bbox": [
+        113.30000305175781,
+        439.47320556640625,
+        130.375,
+        450.51318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Im Fall des Einsatzes von </i><i>Unterauftragnehmern</i><i>, denen im Zuschlagsfall Teile der </i> <i>Leistung übertragen werden sollen, (vgl. § 7 Abs. 8 VOL/A-EG, § 4 Nr. 4 VOL/B und </i> <i>unten A.III.11), gehören zum Angebot zusätzlich:</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          112.91406249999999,
+          451.423828125
+        ],
+        [
+          544.4710693359375,
+          451.423828125
+        ],
+        [
+          544.4710693359375,
+          489.248046875
+        ],
+        [
+          112.91406249999999,
+          489.248046875
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        451.423828125,
+        544.4710693359375,
+        489.248046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/171",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>-</i> <i>Die Nennung der Unterauftragnehmer im Rahmen der Eigenerklärung zu eigenen und </i> <i>fremden Produktionskapazitäten (</i><i>Anlage 7</i> <i>–</i> <i>zu generieren aus den</i> <i>Produkt-</i> <i>und </i> <i>Rabattblättern),</i></li><li block-type=\"ListItem\"><i>-</i> <i>entsprechende Verpflichtungserklärung(en) der Unterauftragnehmer, welche in Anlage </i> <i>7 benannt werden, </i><i>ausschließlich in schriftlicher Form (auf Papier)</i> <i>(</i><i>Anlage 8</i><i>; kann </i> <i>in der deutschen (</i><i>Anlage 8a</i><i>) oder der englischen (</i><i>Anlage</i> <i>8b</i><i>) Fassung abgegeben </i> <i>werden).</i></li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          111.74999999999999,
+          502.404296875
+        ],
+        [
+          544.6091918945312,
+          502.404296875
+        ],
+        [
+          544.6091918945312,
+          589.9755859375
+        ],
+        [
+          111.74999999999999,
+          589.9755859375
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        502.404296875,
+        544.6091918945312,
+        589.9755859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die Verpflichtungserklärung(en) des/der Unterauftragnehmer(s) muss/müssen mit dem </i> <i>Angebot vorliegen; eine Kopie (auf Papier ausgedruckt) reicht insoweit aus. Das/die </i> <i>Original(e) der Verpflichtungserklärung(en) ist/sind aber</i> <i>unverzüglich, spätestens 14 </i> <i>Tage nach Ablauf der Angebotsfrist, d.h. bis (...), </i><i>nachzureichen.\"</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          110.58593749999999,
+          603.8931732177734
+        ],
+        [
+          544.521484375,
+          603.8931732177734
+        ],
+        [
+          544.521484375,
+          652.9731903076172
+        ],
+        [
+          110.58593749999999,
+          652.9731903076172
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        603.8931732177734,
+        544.521484375,
+        652.9731903076172
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ziffer B.IV der Bewerbungsbedingungen (Folgen bei Nichtvorlage der geforderten  Eignungsnachweise) besagte:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          76.828125,
+          685.76953125
+        ],
+        [
+          544.3095703125,
+          685.76953125
+        ],
+        [
+          544.3095703125,
+          716.2592849731445
+        ],
+        [
+          76.828125,
+          716.2592849731445
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        685.76953125,
+        544.3095703125,
+        716.2592849731445
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Die unter B.I bis B.III geforderten Eignungsnac</i><i>hweise (vgl. auch die </i> <i>Vergabebekanntmachung) sind innerhalb der Angebotsfrist abzugeben. Jeder </i> <i>geforderte, aber nicht oder nicht fristgerecht erbrachte Nachweis kann zum Ausschluss </i> <i>des Angebots führen. Es wird aber auf § 19 Abs. 2 VOL/A-</i><i>EG verwiesen.\"</i></p>",
+      "page": 171,
+      "polygon": [
+        [
+          110.58593749999999,
+          742.505859375
+        ],
+        [
+          544.5248413085938,
+          742.505859375
+        ],
+        [
+          544.5248413085938,
+          792.079174041748
+        ],
+        [
+          110.58593749999999,
+          792.079174041748
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        742.505859375,
+        544.5248413085938,
+        792.079174041748
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 155,
+      "polygon": [
+        [
+          287.814453125,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          287.814453125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        287.814453125,
+        62.039306640625,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">§ 6 des Rabattvertrags (Unterrichtungspflicht; Datenschutz; Unterauftragnehmer) besagt:</p>",
+      "page": 155,
+      "polygon": [
+        [
+          76.828125,
+          142.21929931640625
+        ],
+        [
+          511.0945739746094,
+          142.21929931640625
+        ],
+        [
+          511.0945739746094,
+          153.3525390625
+        ],
+        [
+          76.828125,
+          153.3525390625
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        142.21929931640625,
+        511.0945739746094,
+        153.3525390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"</i><i>(3) Die Beauftragung eines neuen Unterauftragnehmers nach Zuschlagserteilung ist </i> <i>nur mit vorheriger Zustimmung der </i><i>…</i> <i>zulässig, welche nur aus wichtigem Grund (z.B. </i> <i>wegen fehlenden Nachweises der erforderlichen Produktionskapazitäten oder wegen </i> <i>fehlender Solvenz) verweigert werden darf. Der pharmazeutische Unternehmer hat der </i> <i>…</i> <i>die Beauftragung eines neuen Unterauftragnehmers ebenso wie den Wechsel eines </i> <i>Unterauftragnehmers</i> <i>unverzüglich, spätestens aber zwei Wochen vor ihrer Umsetzung </i> <i>schriftlich oder in Textform unter Vorlage sämtlicher Eignungsnachweise anzuzeigen, </i> <i>welche in dem im Rubrum dieser Vereinbarung genannten Vergabeverfahren im Falle </i> <i>des Unterauftragnehmereinsatz</i><i>es vorzulegen waren.\"</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          110.58593749999999,
+          160.341796875
+        ],
+        [
+          544.5263061523438,
+          160.341796875
+        ],
+        [
+          544.5263061523438,
+          273.3631591796875
+        ],
+        [
+          110.58593749999999,
+          273.3631591796875
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        160.341796875,
+        544.5263061523438,
+        273.3631591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen mehrerer Bieterfragen antworteten die Ag folgendermaßen:</p>",
+      "page": 155,
+      "polygon": [
+        [
+          76.828125,
+          293.9599609375
+        ],
+        [
+          426.5333557128906,
+          293.9599609375
+        ],
+        [
+          426.5333557128906,
+          305.0892333984375
+        ],
+        [
+          76.828125,
+          305.0892333984375
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        293.9599609375,
+        426.5333557128906,
+        305.0892333984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"</i><i>Nr. 17</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          112.62304687499999,
+          325.59320068359375
+        ],
+        [
+          146.962890625,
+          325.59320068359375
+        ],
+        [
+          146.962890625,
+          336.6331787109375
+        ],
+        [
+          112.62304687499999,
+          336.6331787109375
+        ]
+      ],
+      "bbox": [
+        112.62304687499999,
+        325.59320068359375,
+        146.962890625,
+        336.6331787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/1/SectionHeader/2",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Frage:</i></h2>",
+      "page": 155,
+      "polygon": [
+        [
+          112.33203124999999,
+          349.8740234375
+        ],
+        [
+          145.1724853515625,
+          349.8740234375
+        ],
+        [
+          145.1724853515625,
+          361.9531555175781
+        ],
+        [
+          112.33203124999999,
+          361.9531555175781
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        349.8740234375,
+        145.1724853515625,
+        361.9531555175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>a) Gehen wir recht in der Annahme, dass pro Unterauftragnehmer die </i> <i>Verpflichtungserklärung nur einmal unterzeichnet werden muss, und für alle Gebiets</i><i>bzw. Fachlose gültig ist?</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          111.74999999999999,
+          363.0302734375
+        ],
+        [
+          544.3347778320312,
+          363.0302734375
+        ],
+        [
+          544.3347778320312,
+          400.0322265625
+        ],
+        [
+          111.74999999999999,
+          400.0322265625
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        363.0302734375,
+        544.3347778320312,
+        400.0322265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Antwort:</i></h2>",
+      "page": 155,
+      "polygon": [
+        [
+          112.04101562499999,
+          413.1884765625
+        ],
+        [
+          153.66224670410156,
+          413.1884765625
+        ],
+        [
+          153.66224670410156,
+          425.19317626953125
+        ],
+        [
+          112.04101562499999,
+          425.19317626953125
+        ]
+      ],
+      "bbox": [
+        112.04101562499999,
+        413.1884765625,
+        153.66224670410156,
+        425.19317626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>a) Die Verpflichtungserklärung ist für alle Fach-</i> <i>und Gebietslose gültig, die der </i> <i>Auftragnehmer in die dafür ausgewiesenen Felder einträgt. </i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          110.58593749999999,
+          425.5224609375
+        ],
+        [
+          544.5032958984375,
+          425.5224609375
+        ],
+        [
+          544.5032958984375,
+          450.51318359375
+        ],
+        [
+          110.58593749999999,
+          450.51318359375
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        425.5224609375,
+        544.5032958984375,
+        450.51318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Frage:</i></h3>",
+      "page": 155,
+      "polygon": [
+        [
+          112.04101562499999,
+          464.81317138671875
+        ],
+        [
+          145.1724853515625,
+          464.81317138671875
+        ],
+        [
+          145.1724853515625,
+          475.8531494140625
+        ],
+        [
+          112.04101562499999,
+          475.8531494140625
+        ]
+      ],
+      "bbox": [
+        112.04101562499999,
+        464.81317138671875,
+        145.1724853515625,
+        475.8531494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/7",
+        "3": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>b) Wie ist zu verfahren, wenn die Verpflichtungserklärung von einem </i> <i>Unterauftragnehmer für alle 7 Gebietslose abgegeben wurde, bei der Angebotsabgabe </i> <i>die Entscheidung fällt, dass nicht auf alle Gebietslose angeboten wird. Ist es zulässig, </i> <i>auf der Erklärung dann die Lose auf die kein Angebot abgegeben wird, zu streichen?</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          110.58593749999999,
+          475.6806640625
+        ],
+        [
+          544.3348388671875,
+          475.6806640625
+        ],
+        [
+          544.3348388671875,
+          526.3731689453125
+        ],
+        [
+          110.58593749999999,
+          526.3731689453125
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        475.6806640625,
+        544.3348388671875,
+        526.3731689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/7",
+        "3": "/page/3/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Antwort:</i></h2>",
+      "page": 155,
+      "polygon": [
+        [
+          112.33203124999999,
+          538.1728515625
+        ],
+        [
+          153.6627197265625,
+          538.1728515625
+        ],
+        [
+          153.6627197265625,
+          551.6931762695312
+        ],
+        [
+          112.33203124999999,
+          551.6931762695312
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        538.1728515625,
+        153.6627197265625,
+        551.6931762695312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>b) Die Verpflichtungserklärung kann auch mit einem überschießenden Erklärungsinhalt </i> <i>eingereicht werden. Der Nachweis von Produktionskapazitäten des </i> <i>Unterauftragnehmers für Gebietslose, die letztlich nicht (mehr) Angebotsgegenstand </i> <i>sind, führt zu keinem Nachteil für den Bieter. </i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          112.91406249999999,
+          553.3731994628906
+        ],
+        [
+          544.4010009765625,
+          553.3731994628906
+        ],
+        [
+          544.4010009765625,
+          603.1318359375
+        ],
+        [
+          112.91406249999999,
+          603.1318359375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        553.3731994628906,
+        544.4010009765625,
+        603.1318359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          112.62304687499999,
+          616.6131896972656
+        ],
+        [
+          129.80479431152344,
+          616.6131896972656
+        ],
+        [
+          129.80479431152344,
+          627.6531982421875
+        ],
+        [
+          112.62304687499999,
+          627.6531982421875
+        ]
+      ],
+      "bbox": [
+        112.62304687499999,
+        616.6131896972656,
+        129.80479431152344,
+        627.6531982421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Nr. 28</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          112.04101562499999,
+          640.1337890625
+        ],
+        [
+          143.42816162109375,
+          640.1337890625
+        ],
+        [
+          143.42816162109375,
+          652.9731903076172
+        ],
+        [
+          112.04101562499999,
+          652.9731903076172
+        ]
+      ],
+      "bbox": [
+        112.04101562499999,
+        640.1337890625,
+        143.42816162109375,
+        652.9731903076172
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/15",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Frage:</i></h3>",
+      "page": 155,
+      "polygon": [
+        [
+          112.62304687499999,
+          666.4462890625
+        ],
+        [
+          145.1724853515625,
+          666.4462890625
+        ],
+        [
+          145.1724853515625,
+          678.2031860351562
+        ],
+        [
+          112.62304687499999,
+          678.2031860351562
+        ]
+      ],
+      "bbox": [
+        112.62304687499999,
+        666.4462890625,
+        145.1724853515625,
+        678.2031860351562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>d) Wir können innerhalb einer PVG die entsprechenden Produkte durch zwei </i> <i>verschiedene Unterauftragnehmer herstellen lassen. Beide Unterauftragnehmer sind </i> <i>dabei in der Lage 100% der vorgegebenen Mengen je PVG zu bedienen. Wir bitten um </i> <i>Bestätigung, dass wir demnach zwei Unterauftragnehmer resp. Supply Chains in </i> <i>Anlage 7 angeben. Bei beiden Unterauftragnehmern werden wir die 100%ige Menge </i> <i>ausweisen.</i></p>",
+      "page": 155,
+      "polygon": [
+        [
+          111.74999999999999,
+          679.8831787109375
+        ],
+        [
+          544.4384765625,
+          679.8831787109375
+        ],
+        [
+          544.4384765625,
+          754.1591796875
+        ],
+        [
+          111.74999999999999,
+          754.1591796875
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        679.8831787109375,
+        544.4384765625,
+        754.1591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/15"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/17",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Antwort:</i></h3>",
+      "page": 155,
+      "polygon": [
+        [
+          112.33203124999999,
+          768.4072265625
+        ],
+        [
+          153.66224670410156,
+          768.4072265625
+        ],
+        [
+          153.66224670410156,
+          779.4791793823242
+        ],
+        [
+          112.33203124999999,
+          779.4791793823242
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        768.4072265625,
+        153.66224670410156,
+        779.4791793823242
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 160,
+      "polygon": [
+        [
+          287.814453125,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          62.039306640625
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          287.814453125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        287.814453125,
+        62.039306640625,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>d) Die Nennung von zwei Unterauftragnehmern, die beide in der Lage sind, jeweils die </i> <i>gesamten geforderten Lieferkapazitäten nachzuweisen, ist unschädlich. Bitte beachten </i> <i>sie auch unsere Antwort auf Frage Nr. 17 b).</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          110.58593749999999,
+          123.2431640625
+        ],
+        [
+          544.46435546875,
+          123.2431640625
+        ],
+        [
+          544.46435546875,
+          159.6031494140625
+        ],
+        [
+          110.58593749999999,
+          159.6031494140625
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        123.2431640625,
+        544.46435546875,
+        159.6031494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          112.33203124999999,
+          173.76318359375
+        ],
+        [
+          129.80479431152344,
+          173.76318359375
+        ],
+        [
+          129.80479431152344,
+          184.80316162109375
+        ],
+        [
+          112.33203124999999,
+          184.80316162109375
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        173.76318359375,
+        129.80479431152344,
+        184.80316162109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Nr. 30</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          112.91406249999999,
+          199.08319091796875
+        ],
+        [
+          144.34375,
+          199.08319091796875
+        ],
+        [
+          144.34375,
+          210.1231689453125
+        ],
+        [
+          112.91406249999999,
+          210.1231689453125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        199.08319091796875,
+        144.34375,
+        210.1231689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Frage:</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          112.91406249999999,
+          210.0888671875
+        ],
+        [
+          145.1724853515625,
+          210.0888671875
+        ],
+        [
+          145.1724853515625,
+          222.8431396484375
+        ],
+        [
+          112.91406249999999,
+          222.8431396484375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        210.0888671875,
+        145.1724853515625,
+        222.8431396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>d) Aufgrund der begrenzten Zeit werden wir bereits frühzeitig die </i> <i>Verpflichtungserklärungen von unseren Unterauftragnehmern einholen. Da es möglich </i> <i>ist, dass ein erst angestrebtes Angebot letztlich doch nicht angeboten werden soll, </i> <i>bitten wir um Bestätigung, dass es unschädlich ist, wenn auf Anlage 8a/b mehr </i> <i>Angaben zu Gebietslosen/Fachlosen/Zeitraum angegeben sind als tatsächlich </i> <i>angeboten werden.</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          111.74999999999999,
+          224.4031982421875
+        ],
+        [
+          544.4869995117188,
+          224.4031982421875
+        ],
+        [
+          544.4869995117188,
+          298.71319580078125
+        ],
+        [
+          111.74999999999999,
+          298.71319580078125
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        224.4031982421875,
+        544.4869995117188,
+        298.71319580078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/3/SectionHeader/17"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Antwort:</i></h3>",
+      "page": 160,
+      "polygon": [
+        [
+          112.33203124999999,
+          312.9931640625
+        ],
+        [
+          153.66224670410156,
+          312.9931640625
+        ],
+        [
+          153.66224670410156,
+          324.03314208984375
+        ],
+        [
+          112.33203124999999,
+          324.03314208984375
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        312.9931640625,
+        153.66224670410156,
+        324.03314208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>d) Ja, es ist unschädlich, wenn sich ein Unterauftragnehmer zu einer Leistung </i> <i>verpflichtet, die über seinen letztlich vom Bieter mit dem Angebot benannten </i> <i>Einsatzbereich hinausgeht. Bitte beachten Sie auch unsere Antwort auf Frage Nr. 17 b).</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          110.58593749999999,
+          325.59320068359375
+        ],
+        [
+          544.3237915039062,
+          325.59320068359375
+        ],
+        [
+          544.3237915039062,
+          361.9531555175781
+        ],
+        [
+          110.58593749999999,
+          361.9531555175781
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        325.59320068359375,
+        544.3237915039062,
+        361.9531555175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(...)</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          113.20507812499999,
+          376.1865234375
+        ],
+        [
+          129.80479431152344,
+          376.1865234375
+        ],
+        [
+          129.80479431152344,
+          387.2731628417969
+        ],
+        [
+          113.20507812499999,
+          387.2731628417969
+        ]
+      ],
+      "bbox": [
+        113.20507812499999,
+        376.1865234375,
+        129.80479431152344,
+        387.2731628417969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Nr. 56 </i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          111.74999999999999,
+          401.265625
+        ],
+        [
+          146.3427276611328,
+          401.265625
+        ],
+        [
+          146.3427276611328,
+          412.5931701660156
+        ],
+        [
+          111.74999999999999,
+          412.5931701660156
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        401.265625,
+        146.3427276611328,
+        412.5931701660156
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Frage:</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          112.91406249999999,
+          414.1531982421875
+        ],
+        [
+          145.1724853515625,
+          414.1531982421875
+        ],
+        [
+          145.1724853515625,
+          425.19317626953125
+        ],
+        [
+          112.91406249999999,
+          425.19317626953125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        414.1531982421875,
+        145.1724853515625,
+        425.19317626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>c) Wenn ein Unterauftragnehmer mehrere Fachlose bedient, ist es dann ausreichend, </i> <i>eine Verpflichtungserklärung (Anlage 8) zu erstellen oder muss für jedes Fachlos eine </i> <i>eigene Verpflichtungserklärung (Anlage 8) erstellt werden.</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          110.58593749999999,
+          426.3447265625
+        ],
+        [
+          544.5971069335938,
+          426.3447265625
+        ],
+        [
+          544.5971069335938,
+          463.1131896972656
+        ],
+        [
+          110.58593749999999,
+          463.1131896972656
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        426.3447265625,
+        544.5971069335938,
+        463.1131896972656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Sollte es möglich sein, eine Verpflichtungserklärung pro Unterauftragnehmer zu </i> <i>erstellen, dürfen dann hinterher handschriftliche Streichungen vorgenommen werden, </i> <i>falls wir uns doch entscheiden, nicht auf alle Fachlose zu bieten?</i></p>",
+      "page": 160,
+      "polygon": [
+        [
+          111.74999999999999,
+          464.81317138671875
+        ],
+        [
+          544.367919921875,
+          464.81317138671875
+        ],
+        [
+          544.367919921875,
+          501.1731872558594
+        ],
+        [
+          111.74999999999999,
+          501.1731872558594
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        464.81317138671875,
+        544.367919921875,
+        501.1731872558594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Antwort:</i></h3>",
+      "page": 160,
+      "polygon": [
+        [
+          112.04101562499999,
+          515.1494140625
+        ],
+        [
+          153.66224670410156,
+          515.1494140625
+        ],
+        [
+          153.66224670410156,
+          526.3731689453125
+        ],
+        [
+          112.04101562499999,
+          526.3731689453125
+        ]
+      ],
+      "bbox": [
+        112.04101562499999,
+        515.1494140625,
+        153.66224670410156,
+        526.3731689453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/160",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>c) Bitte beachten Sie hier zunächst die Antworten auf die Fragen 17</i> <i>a)</i> <i>und 18</i> <i>e). </i> <i>Handschriftliche Änderungen sind zulässig, wenn sie vom Unterauftragnehmer selbst </i> <i>vorgenommen werden; sie müssen jedoch zweifelsfrei sein (vgl. Gliederungspunkt </i> <i>A.III.7.1 der Bewerbungsbedingungen). Wir weisen überdies darauf hin, dass vorab </i> <i>eingereichte Kopien der Verpflichtungserklärungen gemäß den Ausführungen in Ziff. </i> <i>A.III.6.2 der Bewerbungsbedingungen mit den nachgereichten Originalen </i> <i>übereinstimmen müssen. In dem von Ihnen geschilderten Fall bedarf es indes keiner </i> <i>nachträglichen Änderung der Anlage 8. Vielmehr kann in diesem Fall ohnehin auch </i> <i>eine \"überschießende\", d.h. über den endgültigen Inhalt und Umfang des Angebo</i><i>tes </i> <i>hinausgehende, Verpflichtungserklärung eingereicht werden, so dass eine </i> <i>nachträgliche Streichung oder Änderung durch den Unterauftragnehmer nicht </i> <i>erforderlich ist; bitte beachten Sie dazu auch unsere Antworten auf die Fragen 17 b), 28 </i> <i>d) und 30 d).\"</i></li><li block-type=\"ListItem\">b) Die Antragstellerin (ASt) gab fristgerecht ein Angebot zu dem streitgegenständlichen Fachlos  Nr. ... \"…\" ab. In Anlage 7 der Bewerbungsbedingungen gab die ASt an, dass sie in mehreren</li></ul></p>",
+      "page": 160,
+      "polygon": [
+        [
+          56.63999938964844,
+          526.6611328125
+        ],
+        [
+          544.6336059570312,
+          526.6611328125
+        ],
+        [
+          544.6336059570312,
+          761.8291015625
+        ],
+        [
+          56.63999938964844,
+          761.8291015625
+        ]
+      ],
+      "bbox": [
+        56.63999938964844,
+        526.6611328125,
+        544.6336059570312,
+        761.8291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          288.10546875,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          288.10546875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        288.10546875,
+        61.669921875,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Preisvergleichsgruppen die Subunternehmer A. und B. einsetzen werde. Gleichzeitig gab sie in  der Rubrik \"Erläuterungen\" jeweils an:</p>",
+      "page": 175,
+      "polygon": [
+        [
+          76.828125,
+          121.6953125
+        ],
+        [
+          544.4965209960938,
+          121.6953125
+        ],
+        [
+          544.4965209960938,
+          153.25927734375
+        ],
+        [
+          76.828125,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        121.6953125,
+        544.4965209960938,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Produktionskapazitäten bei beiden durchführenden Unternehmen: jeweils 100% der </i> <i>nachzuweisenden Wirkstoffmenge über die gesamte Vertragslaufzeit\"</i></p>",
+      "page": 175,
+      "polygon": [
+        [
+          110.58593749999999,
+          173.498046875
+        ],
+        [
+          544.3568725585938,
+          173.498046875
+        ],
+        [
+          544.3568725585938,
+          197.523193359375
+        ],
+        [
+          110.58593749999999,
+          197.523193359375
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        173.498046875,
+        544.3568725585938,
+        197.523193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sie fügte dem Angebot allerdings nur eine Kopie der Verpflichtungserklärung des  Nachunternehmers A. bei. Eine Kopie der Verpflichtungserklärung des Nachunternehmers B.  fand sich hingegen in dem Angebot der … für andere Wirkstoffe der Ausschreibung. Dort trat  diese als Alleinbieter auf. Die dort eingereichte Verpflichtungserklärung des Nachunternehmers  B. enthielt mehrere Wirkstoffe, darunter auch den hier streitgegenständlichen Wirkstoff …, der  nicht Teil des Angebots der … war. Mit Schreiben vom 1. Dezember 2010 – nach  Angebotsabgabefrist – wies die ASt darauf hin:</p>",
+      "page": 175,
+      "polygon": [
+        [
+          76.828125,
+          216.255859375
+        ],
+        [
+          544.607177734375,
+          216.255859375
+        ],
+        [
+          544.607177734375,
+          343.00927734375
+        ],
+        [
+          76.828125,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        216.255859375,
+        544.607177734375,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Bitte beachten Sie bei der Prüfung auf formale Korrektheit und Vollständigkeit der </i> <i>Ihnen vorliegenden Unterlagen folgendes:</i></p>",
+      "page": 175,
+      "polygon": [
+        [
+          111.74999999999999,
+          369.8731994628906
+        ],
+        [
+          544.279541015625,
+          369.8731994628906
+        ],
+        [
+          544.279541015625,
+          393.6331787109375
+        ],
+        [
+          111.74999999999999,
+          393.6331787109375
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        369.8731994628906,
+        544.279541015625,
+        393.6331787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>In Anlage 7 haben wir für die von der </i><i>…</i><i>, im Rahmen der Bietergemeinschaft, </i> <i>angebotenen Preisvergleichsgruppen für den Wirkstoff </i><i>…</i> <i>zwei Unterauftragnehmer B. </i> <i>und A. benannt, die </i><i>jeweils in der Lage sind 100% der Ausschreibungsmenge</i> <i>zu </i> <i>liefern. </i></p>",
+      "page": 175,
+      "polygon": [
+        [
+          111.74999999999999,
+          394.2763671875
+        ],
+        [
+          544.5927734375,
+          394.2763671875
+        ],
+        [
+          544.5927734375,
+          444.1531677246094
+        ],
+        [
+          111.74999999999999,
+          444.1531677246094
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        394.2763671875,
+        544.5927734375,
+        444.1531677246094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Die Verpflichtungserklärung (Anlage 8) von A. liegt Ihnen im Original bereits vor, so </i> <i>dass wir unserer Nachweispflicht zur Lieferfähigkeit vollumfänglich nachgekommen </i> <i>sind. </i></p>",
+      "page": 175,
+      "polygon": [
+        [
+          110.58593749999999,
+          445.83319091796875
+        ],
+        [
+          544.491455078125,
+          445.83319091796875
+        ],
+        [
+          544.491455078125,
+          482.21319580078125
+        ],
+        [
+          110.58593749999999,
+          482.21319580078125
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        445.83319091796875,
+        544.491455078125,
+        482.21319580078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Sofern Sie in den Unterlagen dieser Bietergemeinschaft nun zusätzlich die Original </i> <i>Verpflichtungserklärung (Anlage 8) von B. suchen, beachten Sie bitte, dass diese von </i> <i>B. über mehrere Wirkstoffe ausgestellt</i> <i>wurde, und wir somit das Original dieser </i> <i>Verpflichtungserklärung den Angebotsunterlagen der </i><i>…</i> <i>beigefügt haben und Ihnen </i> <i>diese bereits vorliegt.\"</i></p>",
+      "page": 175,
+      "polygon": [
+        [
+          111.74999999999999,
+          481.84765625
+        ],
+        [
+          544.55078125,
+          481.84765625
+        ],
+        [
+          544.55078125,
+          545.4531555175781
+        ],
+        [
+          111.74999999999999,
+          545.4531555175781
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        481.84765625,
+        544.55078125,
+        545.4531555175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/175",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">c) Durch Telefax-Schreiben vom 23. Dezember 2010 unterrichteten die Ag die ASt  nach § 101a GWB darüber, dass auf ihr Angebot ein Zuschlag nicht erfolgen könne. Vielmehr  habe ein Wertungsausschluss zu erfolgen. Mangels ordnungsgemäßer Eignungsnachweise  habe es nicht berücksichtigt werden können, da bezüglich eines von der ASt benannten  Unterauftragnehmers keine Verpflichtungserklärung vorgelegt worden sei. Es sei beabsichtigt,  den Zuschlag auf das Angebot der Beigeladenen (Bg) zu erteilen.</li><li block-type=\"ListItem\">d) Die ASt rügte mit Schreiben ihres Verfahrensbevollmächtigten mit Schreiben vom 3. Januar  2011 gegenüber den Ag. Das Rügeschreiben ging den Ag um 19.41 Uhr sowie nochmals um  19.50 Uhr zu.</li></ul></p>",
+      "page": 175,
+      "polygon": [
+        [
+          55.87499999999999,
+          565.3076171875
+        ],
+        [
+          544.552734375,
+          565.3076171875
+        ],
+        [
+          544.552734375,
+          747.8152923583984
+        ],
+        [
+          55.87499999999999,
+          747.8152923583984
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        565.3076171875,
+        544.552734375,
+        747.8152923583984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 146,
+      "polygon": [
+        [
+          287.814453125,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          287.814453125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        287.814453125,
+        61.669921875,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/146",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Die ASt stellte mit einem am 3. Januar 2011, 19.45 Uhr, eingegangenen Schreiben ihrer  Verfahrensbevollmächtigten bei der Vergabekammer des Bundes einen Antrag auf Nachprüfung.  Diesen Antrag übermittelte die Vergabekammer den Ag am 4. Januar 2011.</li><li block-type=\"ListItem\">a) Die ASt trägt vor, der Nachprüfungsantrag sei in Ansehung des § 107 Abs. 3 GWB zulässig.  Die ASt habe durch ihren Verfahrensbevollmächtigten am selben Tag gerügt und den  Nachprüfungsantrag eingereicht. Infolge der Versendung der Information nach § 101a Abs. 1  GWB erst am 23. Dezember 2010 und der danach folgenden Weihnachtstage und der damit  verbundenen Urlaubsabwesenheit sei es der ASt nicht möglich gewesen, die Sache zu einem  früheren Zeitpunkt hinreichend intern abzustimmen und externen rechtlichen Rat einzuholen.  In diesem Zusammenhang liege der Verdacht nahe, die Ag zu 1) habe möglicherweise  bewusst die Information nach § 101a Abs. 1 GWB am 23. Dezember 2010 versandt und  hiermit Beeinträchtigungen der Rechtsschutzmöglichkeiten der ausgeschlossenen Bieter  jedenfalls billigend in Kauf genommen.</li></ul></p>",
+      "page": 146,
+      "polygon": [
+        [
+          55.87499999999999,
+          122.9287109375
+        ],
+        [
+          544.5123291015625,
+          122.9287109375
+        ],
+        [
+          544.5123291015625,
+          381.1201171875
+        ],
+        [
+          55.87499999999999,
+          381.1201171875
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        122.9287109375,
+        544.5123291015625,
+        381.1201171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Begründetheit des Nachprüfungsantrags trägt die ASt vor, ihr Angebot sei zu Unrecht aus  formalistischen Gründen von der Wertung für das Fachlos … ausgeschlossen worden. Die ASt  habe ordnungsgemäße Eignungsnachweise erbracht und insbesondere die notwendigen  Produktionskapazitäten nachgewiesen. Sinn und Zweck der Pflicht zur Vorlage von  Verpflichtungserklärungen sei es, dass ein Bieter nicht nur einseitig behaupte, dass er durch  den Einsatz Dritter ausreichend leistungsfähig sei, um im Falle der Zuschlagserteilung die  Versicherten ausreichend versorgen zu können. Diesem Zweck sei jedoch ausreichend  Rechnung getragen, wenn ein Bieter insgesamt darlege und nachweise, dass er zu 100% zur  Versorgung der betroffenen Versicherten in der Lage sei. Die ASt habe in ihrem Schreiben  vom 1. Dezember 2010 proaktiv offen gelegt, dass sie allein schon durch eine mögliche  Unterbeauftragung des Unternehmens A. über ausreichende Produktionskapazitäten verfüge. Sie sei deshalb nicht auf eine Beauftragung des Unternehmens B. angewiesen. Die Vorlage  einer zusätzlichen Verpflichtungserklärung sei deshalb sinnlose Förmelei. Dies insbesondere  auch deshalb, weil den Ag durch das Angebot der …, eines Mitglieds der ASt, bereits eine  auch auf den Wirkstoff … bezogene Verpflichtungserklärung übermittelt worden sei. Die ASt  verweist insoweit auch auf die Fragen/Antworten Nr. 17 lit. a und 18 lit. e.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          76.828125,
+          407.92926025390625
+        ],
+        [
+          544.6302490234375,
+          407.92926025390625
+        ],
+        [
+          544.6302490234375,
+          703.5392913818359
+        ],
+        [
+          76.828125,
+          703.5392913818359
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        407.92926025390625,
+        544.6302490234375,
+        703.5392913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Auch aus § 6 Abs. 3 des Rabattvertrags ergebe sich, dass ein \"Tausch\" des  Unterauftragnehmers nach Zuschlagserteilung möglich sei. In einem solchen Fall wären die  entsprechenden Unterlagen, unter anderem eine Verpflichtungserklärung, vorzulegen</p>",
+      "page": 146,
+      "polygon": [
+        [
+          77.9921875,
+          728.9384765625
+        ],
+        [
+          544.4241943359375,
+          728.9384765625
+        ],
+        [
+          544.4241943359375,
+          779.4952812194824
+        ],
+        [
+          77.9921875,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        728.9384765625,
+        544.4241943359375,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          288.10546875,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          288.10546875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        288.10546875,
+        61.669921875,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gewesen. Aus Sicht der ASt sei dann, wenn im Vergabeverfahren letztlich klargestellt werde,  auf welche Lieferkette (zunächst) tatsächlich zurückgegriffen werden solle, eine vergleichbare  Situation gegeben. Der Vorlage einer Verpflichtungserklärung der B. durch die ASt habe es  daher innerhalb der hier im Raum stehenden Fristen (noch) nicht bedurft.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          77.9921875,
+          122.1064453125
+        ],
+        [
+          544.41748046875,
+          122.1064453125
+        ],
+        [
+          544.41748046875,
+          191.17926025390625
+        ],
+        [
+          77.9921875,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        122.1064453125,
+        544.41748046875,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/3/SectionHeader/11",
+        "3": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt:</h2>",
+      "page": 135,
+      "polygon": [
+        [
+          76.537109375,
+          216.6669921875
+        ],
+        [
+          167.9337615966797,
+          216.6669921875
+        ],
+        [
+          167.9337615966797,
+          229.0992431640625
+        ],
+        [
+          76.537109375,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        76.537109375,
+        216.6669921875,
+        167.9337615966797,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/134",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die Ag werden verpflichtet, in der mit EU-Bekanntmachung vom … (ABl. …)  eingeleiteten Ausschreibung von Rabattverträgen keinen Zuschlag bezüglich des  Wirkstoffs/Fachloses … betreffend die Gebietslose 2, 3, 6 und 7 zu erteilen und den  Ausschluss der ASt gemäß § 19 Abs. 3 lit. a, Abs. 5 VOL/A-EG rückgängig zu machen  und das Angebot der ASt betreffend dieses Wirkstoffes und der Gebietslose 2, 3, 6 und  7 in die Wertung einzubeziehen.</li><li block-type=\"ListItem\">2. Den Ag werden die Kosten des Verfahrens sowie die Kosten einer  zweckentsprechenden Rechtsverfolgung auferlegt.</li><li block-type=\"ListItem\">3. Die Hinzuziehung der anwaltlichen Bevollmächtigten der ASt wird für notwendig  erklärt.</li></ul></p>",
+      "page": 135,
+      "polygon": [
+        [
+          110.58593749999999,
+          236.4013671875
+        ],
+        [
+          544.609130859375,
+          236.4013671875
+        ],
+        [
+          544.609130859375,
+          418.9692687988281
+        ],
+        [
+          110.58593749999999,
+          418.9692687988281
+        ]
+      ],
+      "bbox": [
+        110.58593749999999,
+        236.4013671875,
+        544.609130859375,
+        418.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3>b) Die Ag beantragen,</h3>",
+      "page": 135,
+      "polygon": [
+        [
+          55.58398437499999,
+          445.8492736816406
+        ],
+        [
+          175.83839416503906,
+          445.8492736816406
+        ],
+        [
+          175.83839416503906,
+          456.8892822265625
+        ],
+        [
+          55.58398437499999,
+          456.8892822265625
+        ]
+      ],
+      "bbox": [
+        55.58398437499999,
+        445.8492736816406,
+        175.83839416503906,
+        456.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/135",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. den Nachprüfungsantrag zurückzuweisen,</li><li block-type=\"ListItem\">2. der ASt die Kosten des Verfahrens einschließlich der zur zweckentsprechenden  Rechtsverfolgung notwendigen Auslagen der Ag aufzuerlegen,</li><li block-type=\"ListItem\">3. festzustellen, dass die Hinzuziehung anwaltlicher Verfahrensbevollmächtigter durch die  Ag notwendig war.</li></ul></p>",
+      "page": 135,
+      "polygon": [
+        [
+          97.78125,
+          464.8292541503906
+        ],
+        [
+          544.367919921875,
+          464.8292541503906
+        ],
+        [
+          544.367919921875,
+          551.7092895507812
+        ],
+        [
+          97.78125,
+          551.7092895507812
+        ]
+      ],
+      "bbox": [
+        97.78125,
+        464.8292541503906,
+        544.367919921875,
+        551.7092895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist nach Auffassung der Ag sowohl unzulässig, als auch unbegründet.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          75.6640625,
+          578.7092895507812
+        ],
+        [
+          543.3158569335938,
+          578.7092895507812
+        ],
+        [
+          543.3158569335938,
+          590.38671875
+        ],
+        [
+          75.6640625,
+          590.38671875
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        578.7092895507812,
+        543.3158569335938,
+        590.38671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Er sei unzulässig, weil es an einer unverzüglichen Rüge fehle. Das Tatbestandsmerkmal der  Unverzüglichkeit sei in durchschnittlich gelagerten Fällen nur durch eine Rüge innerhalb von  ein bis drei Tagen, längstens einer Woche gewahrt. Hier sei der Zugang der Rüge am 4.  Januar 2011 erst am achten Werktag und am zwölften Kalendertag nach dem Versand der  Vorabinformation erfolgt. Der Nachprüfungsantrag sei zudem auch deshalb unzulässig, weil er  entgegen § 107 Abs. 3 S. 1 Nr. 1 GWB vor Zugang der Rüge bei den Ag eingereicht worden  sei. Nach Versendung der Rüge am 3. Januar 2011, um 19.41 h – außerhalb der üblichen  Dienstzeiten der Ag –, sei Kenntnisnahme erst am nächsten Morgen möglich gewesen. Daher  sei die Rüge erst am 4. Januar 2011 zugegangen, der Nachprüfungsantrag bei der</p>",
+      "page": 135,
+      "polygon": [
+        [
+          76.828125,
+          616.2880859375
+        ],
+        [
+          544.5570068359375,
+          616.2880859375
+        ],
+        [
+          544.5570068359375,
+          779.4952812194824
+        ],
+        [
+          76.828125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        616.2880859375,
+        544.5570068359375,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          288.10546875,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          61.669921875
+        ],
+        [
+          308.8863525390625,
+          73.07928466796875
+        ],
+        [
+          288.10546875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        288.10546875,
+        61.669921875,
+        308.8863525390625,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergabekammer aber schon am 3. Januar. Selbst wenn man aber auf die Absendung  abstellte, lägen nur wenige Minuten zwischen den Schreiben. Eine Rüge könne dann aber  ihren Zweck nicht erfüllen.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          77.9921875,
+          122.1064453125
+        ],
+        [
+          544.5022583007812,
+          122.1064453125
+        ],
+        [
+          544.5022583007812,
+          172.21929931640625
+        ],
+        [
+          77.9921875,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        122.1064453125,
+        544.5022583007812,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Antrag sei zudem unbegründet. Der Ausschluss des Angebots sei vergaberechtlich nicht  zu beanstanden. Die Beibringung der Verpflichtungserklärungen nach Anlage 8a/b sei wirksam  in der Bekanntmachung und den Bewerbungsbedingungen als Eignungsanforderung  aufgestellt worden. Das Angebot habe keine Verpflichtungserklärung des in Anlage 7 der  Bewerbungsbedingungen benannten Unterauftragnehmers B. enthalten. Die Eignung der ASt  sei damit nicht nachgewiesen. Der Fehler sei auch nicht dadurch geheilt worden, dass die ASt  für den weiteren Unterauftragnehmer A. eine vollständige Verpflichtungserklärung eingereicht  habe, durch welche die geforderten Produktionskapazitäten abgedeckt würden. Die ASt habe  zwar mehrere nebeneinander stehende Lieferketten angegeben und die nicht hinreichenden  Nachweise bezögen sich lediglich auf eine dieser Lieferketten. Dennoch könne dieser  Umstand nicht dazu führen, dass der geforderte Nachweis der Eignung insoweit als erbracht  anzusehen sei. Denn auch \"überschießende\" Angaben zu den Produktionskapazitäten  müssten richtig und vollständig und durch entsprechende Verpflichtungserklärungen belegt  sein. Dies folge bereits daraus, dass es die ASt offen gelassen habe, welcher dieser  \"überschießenden\" Kapazitäten sie sich im Zuschlagsfalle bedienen wolle. Die Ag könnten  daher nicht erkennen, auf welche der Lieferketten tatsächlich zurückgegriffen werde und damit  nicht ausschließen, dass sich die ASt im Zuschlagsfalle gerade der nicht hinreichend  nachgewiesenen Kapazitäten des Unterauftragnehmers B. bedienten. Dies gelte umso mehr,  als aus einem Umkehrschluss aus § 6 Abs. 3 des Rabattvertrags folge, dass der Einsatz von  Unterauftragnehmern, welche bereits mit dem Angebot benannt worden waren, nicht der  gesonderten Zustimmung der Ag bedürften. Es wäre der ASt daher jederzeit während der  Vertragslaufzeit möglich, auf eine nur lückenhaft nachgewiesene Lieferkette zurückzugreifen,  ohne dass dies von der Zustimmung der Ag abhängig wäre. Den Ag sei es daher nicht  möglich, bei unzureichend nachgewiesenen Lieferkapazitäten von der Eignung der ASt  auszugehen. Auch ergebe sich nichts anderes aus den Antworten auf Bieterfragen zu  \"überschießenden\" Kapazitäten. In diesen sei keineswegs zum Ausdruck gebracht worden,  dass bei der Benennung überschießender Kapazitäten in der Eigenerklärung die Vorlage  entsprechender Verpflichtungserklärungen der benannten Unterauftragnehmer entbehrlich  wäre.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          76.828125,
+          197.34375
+        ],
+        [
+          544.6182250976562,
+          197.34375
+        ],
+        [
+          544.6182250976562,
+          741.4592895507812
+        ],
+        [
+          76.828125,
+          741.4592895507812
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        197.34375,
+        544.6182250976562,
+        741.4592895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 113,
+      "polygon": [
+        [
+          285.486328125,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          285.486328125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        285.486328125,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner sei keine Heilung eingetreten durch die Hinweise der ASt im Schreiben vom 1.  Dezember 2010. Unabhängig von der Frage, ob eine Bezugnahme auf Eignungsnachweise  anderer Bieter (Verpflichtungserklärung des Nachunternehmers B. im Angebot der ...)  überhaupt zulässig sei, sei diese Erklärung jedenfalls nicht innerhalb der Angebotsfrist  abgegeben worden. Eignungsnachweise, die erst nachträglich erbracht worden seien, hätten  die Ag schon aus Gründen der Gleichbehandlung nicht berücksichtigen dürfen.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          76.828125,
+          122.517578125
+        ],
+        [
+          544.609130859375,
+          122.517578125
+        ],
+        [
+          544.609130859375,
+          229.0992431640625
+        ],
+        [
+          76.828125,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        122.517578125,
+        544.609130859375,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt verweise ohne Erfolg auf § 6 Abs. 3 des Rabattvertrages. Die Regelung zeige vielmehr  anschaulich, dass die Auffassung der ASt nicht richtig sein könne. Denn der nachträgliche  Austausch von Unterauftragnehmern sei zwar grundsätzlich zulässig, bedürfe aber der  vorherigen Anzeige und der Zustimmung der Ag. Dieses Zustimmungs- und  Anzeigeerfordernis gelte aber nur bei Beauftragung eines neuen (zusätzlichen)  Unterauftragnehmers oder beim Auswechseln eines Unterauftragnehmers durch einen  anderen. Setze ein Bieter hingegen einen Unterauftragnehmer ein, den er bereits mit seinem  Angebot benannt habe, seien eine vorherige Anzeige und eine Zustimmung der Ag nicht  erforderlich. Dies sei unmittelbare Folge der Tatsache, dass die Eignung bereits geprüft und  bejaht worden sei. Auch müssten Eignungsnachweise nicht mehr eingereicht werden. Wäre  die Auffassung der ASt richtig, so könne sie während des Rabattvertrags jederzeit auf den  Unterauftragnehmer B. zurückgreifen, ohne die genannten Zustimmungs- und  Anzeigeerfordernisse erfüllen zu müssen.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          76.828125,
+          255.724609375
+        ],
+        [
+          544.6143798828125,
+          255.724609375
+        ],
+        [
+          544.6143798828125,
+          494.82928466796875
+        ],
+        [
+          76.828125,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        255.724609375,
+        544.6143798828125,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) Die Bg ist mit Beschluss vom 14. Januar 2011 zu dem Verfahren hinzugezogen worden.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          55.87499999999999,
+          521.7092895507812
+        ],
+        [
+          509.7817687988281,
+          521.7092895507812
+        ],
+        [
+          509.7817687988281,
+          532.7492980957031
+        ],
+        [
+          55.87499999999999,
+          532.7492980957031
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        521.7092895507812,
+        509.7817687988281,
+        532.7492980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sie vertritt die Auffassung, dass formale Anforderungen an die Angebote keinen Selbstzweck  darstellten und einen Ausschluss nicht rechtfertigten, wenn alle rechtserheblichen Erklärungen  in der gebotenen Form vorgelegt worden seien. Dies sei aber hier nicht der Fall. Die ASt habe  in ihrem Schreiben vom 1. Dezember 2010 von der Beauftragung eines der beiden  Lohnhersteller nicht Abstand genommen. Sie habe vielmehr hinsichtlich der  Verpflichtungserklärung eines der beiden Hersteller auf das Angebot ihres Bietergemeinschaftsmitglieds ... (und damit eines anderen Bieters) verwiesen. Dann komme  die Überlegung der Ag zum Tragen, dass die ASt die Leistungsbereitschaft beider  Nachunternehmer fristgemäß in der gebotenen Form hätte nachweisen müssen.</p>",
+      "page": 113,
+      "polygon": [
+        [
+          76.828125,
+          559.6292724609375
+        ],
+        [
+          544.5042114257812,
+          559.6292724609375
+        ],
+        [
+          544.5042114257812,
+          722.4992828369141
+        ],
+        [
+          76.828125,
+          722.4992828369141
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        559.6292724609375,
+        544.5042114257812,
+        722.4992828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          285.486328125,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          285.486328125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        285.486328125,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der ASt ist antragsgemäß Akteneinsicht gewährt worden, soweit nicht Geschäftsgeheimnisse  betroffen waren. Die Entscheidung ergeht gemäß § 112 Abs. 1 S. 3, 1. Alt. GWB ohne mündliche  Verhandlung, weil alle Beteiligten auf deren Durchführung verzichtet haben.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          54.7109375,
+          123.25927734375
+        ],
+        [
+          544.341064453125,
+          123.25927734375
+        ],
+        [
+          544.341064453125,
+          172.2646484375
+        ],
+        [
+          54.7109375,
+          172.2646484375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        123.25927734375,
+        544.341064453125,
+        172.2646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf die ausgetauschten Schriftsätze, die Verfahrensakte der Vergabekammer sowie auf die  Vergabeakte, soweit sie der Vergabekammer vorgelegen hat, wird ergänzend Bezug genommen.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          55.87499999999999,
+          198.98828125
+        ],
+        [
+          544.2106323242188,
+          198.98828125
+        ],
+        [
+          544.2106323242188,
+          229.0992431640625
+        ],
+        [
+          55.87499999999999,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        198.98828125,
+        544.2106323242188,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach Mitteilung der Ag vom 25. Januar 2011, dass die ASt in den Gebietslosen 1, 4 und 5 das  Fachloses … aus Gründen der Wirtschaftlichkeit (niedrigere Gesamtwirtschaftlichkeitszahl) nicht für  einen Zuschlag in Betracht kommt, hat die ASt den Nachprüfungsantrag mit Schriftsatz vom 28.  Januar 2011 vor der Entscheidung der Vergabekammer teilweise zurückgenommen.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          55.87499999999999,
+          255.724609375
+        ],
+        [
+          544.4437255859375,
+          255.724609375
+        ],
+        [
+          544.4437255859375,
+          324.04925537109375
+        ],
+        [
+          55.87499999999999,
+          324.04925537109375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        255.724609375,
+        544.4437255859375,
+        324.04925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 151,
+      "polygon": [
+        [
+          293.34375,
+          350.80926513671875
+        ],
+        [
+          303.71527099609375,
+          350.80926513671875
+        ],
+        [
+          303.71527099609375,
+          361.8492736816406
+        ],
+        [
+          293.34375,
+          361.8492736816406
+        ]
+      ],
+      "bbox": [
+        293.34375,
+        350.80926513671875,
+        303.71527099609375,
+        361.8492736816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist – soweit er noch anhängig ist – unbegründet.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          55.87499999999999,
+          387.6982421875
+        ],
+        [
+          417.0018310546875,
+          387.6982421875
+        ],
+        [
+          417.0018310546875,
+          399.8892822265625
+        ],
+        [
+          55.87499999999999,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        387.6982421875,
+        417.0018310546875,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          55.29296874999999,
+          419.7666015625
+        ],
+        [
+          68.9164810180664,
+          419.7666015625
+        ],
+        [
+          68.9164810180664,
+          430.9692687988281
+        ],
+        [
+          55.29296874999999,
+          430.9692687988281
+        ]
+      ],
+      "bbox": [
+        55.29296874999999,
+        419.7666015625,
+        68.9164810180664,
+        430.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">a) Die ASt ist antragsbefugt gemäß § 107 Abs. 2 GWB. Sie hat durch die Abgabe eines Angebots  ihr Interesse am Auftrag hinreichend belegt. Der ASt droht auch ein Schaden i.S.v. § 107  Abs. 2 GWB.</li><li block-type=\"ListItem\">b) Ob die ASt ferner rechtzeitig gerügt hat, kann offen bleiben, denn der Nachprüfungsantrag ist  jedenfalls unbegründet. Die ASt hat auf die Mitteilung nach § 101a GWB vom 23. Dezember  2010 abends mit Rügeschreiben ihres Verfahrensbevollmächtigten vom 3. Januar 2011 reagiert. Ob dies angesichts der hier gegebenen Umstände noch als unverzüglich i.S.d. § 107  Abs. 3 Nr. 1 GWB anzusehen ist, muss vorliegend nicht geklärt werden. Aus Sicht der  Vergabekammer ist allerdings angesichts der Besonderheiten dieses Falles – Absendung der  Mitteilung am 23. Dezember 2010 abends sowie aufgrund der Weihnachtsfeiertage auftretende  Abwesenheiten und mögliche Verzögerungen bei der Einholung rechtlichen Beistandes durch  einen Rechtsanwalt – die Rüge durch den Verfahrensbevollmächtigten der ASt am Montag,  den 3. Januar 2011, nicht von vornherein als verspätet anzusehen.</li><li block-type=\"ListItem\">2. Der Nachprüfungsantrag ist jedenfalls unbegründet. Das Angebot der ASt war nach § 19 Abs. 3  lit. a), Abs. 5 VOL/A-EG zwingend von der Wertung auszuschließen, weil es im Hinblick auf die  fehlende Verpflichtungserklärung des Nachunternehmers B. nicht alle nach §§ 16 Abs. 3, 7 Abs. 9,  Abs. 12 VOL/A-EG in den Verdingungsunterlagen geforderten Angaben und Erklärungen enthielt.</li></ul></p>",
+      "page": 151,
+      "polygon": [
+        [
+          54.7109375,
+          449.779296875
+        ],
+        [
+          544.5985107421875,
+          449.779296875
+        ],
+        [
+          544.5985107421875,
+          789.4552803039551
+        ],
+        [
+          54.7109375,
+          789.4552803039551
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        449.779296875,
+        544.5985107421875,
+        789.4552803039551
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          285.1953125,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          285.1953125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        285.1953125,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">a) Die ASt hatte in der Eigenerklärung zu eigenen und fremden Produktionskapazitäten (Anlage  7) für bestimmte Preisvergleichsgruppen des Fachloses … zwei Nachunternehmer, nämlich A.  und B., benannt. Sie reichte mit dem Angebot allerdings nur die Kopie einer Verpflichtungserklärung des Nachunternehmers A. ein, in Bezug auf den Nachunternehmer B.  fehlt ein entsprechender Nachweis. Nach der Bekanntmachung (Ziffer III.2.2) und den  Verdingungsunterlagen (A.III.6, Ziffer 6.2) hatten die Bieter im Falle des Einsatzes von  Unterauftragnehmern dem Auftraggeber aber mit Angebotsabgabe durch Vorlage  entsprechender Verpflichtungserklärungen zumindest in Kopie nachzuweisen, dass ihnen im  Auftragsfall die erforderlichen Mittel zur Verfügung stehen. Demzufolge hat die ASt die  Produktionskapazitäten des von ihr ebenfalls benannten Nachunternehmers B. nicht wie in den Verdingungsunterlagen gefordert nachgewiesen.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">aa) Keine Rolle spielt insoweit die Tatsache, dass die ASt in ihrer Eigenerklärung zu eigenen  und fremden Produktionskapazitäten angegeben hatte, dass die <i>\"Produktionskapazitäten bei </i> <i>beiden durchführenden Unternehmen: jeweils 100% der nachzuweisenden Wirkstoffmenge </i> <i>über die gesamte Vertragslaufzeit\"</i> betragen würden. Zwar hat die ASt letztendlich einen  kompletten Lieferstrang durch den Nachunternehmer A. nachgewiesen. Es hätte auch eine  einzige, auf 100 % der Wirkstoffmenge bezogene Lieferkette genügt, um ihre  Leistungsfähigkeit im Rahmen der Eignungsprüfung nachzuweisen. Allerdings hat die ASt hier  darüber hinausgehend nun mal eine zweite sog. \"supply chain\" benannt. Auch wenn nach der  Erklärung der ASt in Anlage 7 beide Nachunternehmer jeweils die volle Menge liefern könnten,  ist jedoch zu beachten, dass die ASt durch die Benennung beider Unternehmen offen gelassen  hat, auf welchen Nachunternehmer sie zurückgreifen wird. Dies ist für sich genommen erst  einmal nicht problematisch, sondern war, wie insbesondere die Antwort auf Frage 28 d) zeigt,  zulässig. Allerdings kann der Antwort nicht entnommen werden, dass dann der Verfügbarkeitsnachweis nur einer \"supply chain\" ausreiche; hierzu trifft die Antwort gar keine  Aussage. In diesem Fall hat der Bieter vielmehr auch beide Lieferketten durch die  entsprechenden Verpflichtungserklärungen parallel nachzuweisen. Für die Ag ist nicht  erkennbar, aus welchem Grund zwei alternative \"supply chains\" benannt wurden; sie müssen  aufgrund der zweifachen Nennung davon ausgehen, dass möglicherweise auch beide  Subunternehmen zum Einsatz kommen sollen, z.B. kumulativ, jeweils für Teile des Auftrags.  Die Prüfung, ob auch wirklich beide genannten Subunternehmer zur Verfügung stehen, ist  erforderlich, da der Bieter ggfs. auf beide Subunternehmer zurückgreifen darf. Im Falle eines  Rückgriffs auf den zweiten Nachunternehmer hätten die Ag im Gegensatz zum Austausch des  Nachunternehmers nach § 6 Abs. 3 des Rabattvertrags auch gerade nicht die Möglichkeit, den</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          56.63999938964844,
+          121.2841796875
+        ],
+        [
+          544.6090698242188,
+          121.2841796875
+        ],
+        [
+          544.6090698242188,
+          779.5078125
+        ],
+        [
+          56.63999938964844,
+          779.5078125
+        ]
+      ],
+      "bbox": [
+        56.63999938964844,
+        121.2841796875,
+        544.6090698242188,
+        779.5078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 146,
+      "polygon": [
+        [
+          284.904296875,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          284.904296875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        284.904296875,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"neuen\" Nachunternehmer zu überprüfen und die Zustimmung zur \"Auswechslung\" z.B. bei  fehlendem Nachweis der erforderlichen Produktionskapazitäten zu verweigern. Die ASt hat  sich hier durch die Benennung zweier Lieferketten die endgültige Auswahl des Lieferanten  offen gelassen und bedürfte dementsprechend bei der Auswahl des Lieferanten nicht mehr der  Zustimmung der Ag. Die ASt war daher umgekehrt aber auch verpflichtet, beide Lieferketten  formell ordnungsgemäß nachzuweisen. Eine vollständige Prüfung, ob der ASt auch die  Ressourcen der offen gelassenen Lieferkette tatsächlich zur Verfügung stehen, ist den Ag aber  ohne den Verpflichtungsnachweis nicht möglich. Würde die ASt im Falle des Auftragserhalts  diesen unter Einschaltung des Subunternehmers B. abwickeln, so wäre der Zuschlag auf ein  Angebot ergangen, dem im Zeitpunkt der Angebotsabgabe entgegen den  Bewerbungsbedingungen keine Verpflichtungserklärung dieses Nachunternehmers bzw. keine  Kopie derselben beilag.</p>",
+      "page": 146,
+      "polygon": [
+        [
+          76.828125,
+          121.6953125
+        ],
+        [
+          544.607666015625,
+          121.6953125
+        ],
+        [
+          544.607666015625,
+          343.00927734375
+        ],
+        [
+          76.828125,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        121.6953125,
+        544.607666015625,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/146",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">bb) Dies macht auch gleichzeitig deutlich, dass der Ausschluss des Angebots der ASt keine  reine \"Förmelei\" darstellt. Abgesehen davon, dass es auf die Wettbewerbsrelevanz der  fehlenden Unterlagen nach §§ 19, 16 VOL/A-EG für den Ausschluss grundsätzlich nicht  ankommt (vgl. ausführlich Dittmann in Kulartz/Marx/Portz/Prieß, VOL/A, § 19 EG Rn. 43; BGH,  Urteil vom 20. Januar 2009, X ZR 113/07; Urteil vom 18. Februar 2003, X ZB 43/02), wäre eine  Zulassung des Angebots der ASt gleichheitswidrig: Im Zuschlagsfall könnte die ASt jeden der  beiden Nachunternehmer einsetzen, obwohl nur für den Nachunternehmer A. fristgemäß eine  Verpflichtungserklärung nachgewiesen wurde. Schon aus Gründen der Gleichbehandlung  gemäß § 97 Abs. 2 GWB sind die Ag verpflichtet, nur die Angebote in der Wertung zu  behalten, die alle geforderten Erklärungen und Unterlagen fristgerecht enthalten haben. Dass  die Verpflichtungserklärung von B. für … bei dem Angebot auf ein anderes Los tatsächlich  vorlag und materiell gegeben war, ändert hier ebenfalls nichts, da den Ag bei formeller Prüfung  der Angebote unmöglich ein Quervergleich zwischen allen Angeboten zugemutet werden kann,  um sich die erforderlichen Verpflichtungserklärungen zusammenzusuchen. Es ist Obliegenheit  des Bieters, die klaren Vorgaben der Ag umzusetzen und sein Angebot zu jedem Wirkstoff  vollständig auszugestalten.</li><li block-type=\"ListItem\">cc) Es wäre der ASt auch in der Sache jedenfalls zunächst einmal möglich gewesen, den  Vorgaben der Bewerbungsbedingungen zu entsprechen, obwohl sie nur ein Original einer  Verpflichtungserklärung des Subunternehmers B. hatte, in welchem mehrere Wirkstoffe  benannt waren. Dieses Original ist zwar nur einmal verfügbar und wurde von der … als einem  Mitglied der hier antragstellenden Bietergemeinschaft einem anderen Angebot zu einem</li></ul></p>",
+      "page": 146,
+      "polygon": [
+        [
+          76.828125,
+          369.8892822265625
+        ],
+        [
+          544.6110229492188,
+          369.8892822265625
+        ],
+        [
+          544.6110229492188,
+          779.4952812194824
+        ],
+        [
+          76.828125,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        369.8892822265625,
+        544.6110229492188,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          285.486328125,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          285.486328125,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        285.486328125,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">anderen Wirkstoff beigefügt. Es wäre aber jedenfalls möglich gewesen, eine Kopie dieses  einen Originals dem vorliegenden Angebot der ASt beizufügen. Allerdings hätte sich dann das  Problem hinsichtlich der nach den Bewerbungsbedingungen ebenfalls geforderten  Nachreichung des Originals binnen zweier Wochen nach Angebotsabgabefrist ergeben, da  dieses Original eben nur einmal vorhanden ist und bereits für ein anderes Los \"verbraucht\"  wurde. Dies wäre aber eine andere Problemstellung gewesen, welche die ASt explizit hätte  erklären können und wozu die Ag sich eine Meinung hätten bilden können. Wie mit diesem  Problem umzugehen wäre, ist vorliegend nicht zu entscheiden, da dieser Sachverhalt hier nicht  gegeben ist; es hätte dann aber jedenfalls nicht schon bei Angebotsabgabe ein notwendiger  Nachweis gefehlt. Diese weiterführenden Überlegungen zeigen aber, dass ein Bieter, hier die  ASt, sinnvollerweise von vornherein derartige Probleme vermeidet, indem er solche  Zweifelsfragen gar nicht erst entstehen lässt und seiner Obliegenheit, losbezogen  Verpflichtungserklärungen bei seinen Unterauftragnehmern zu beschaffen, diese (zumindest)  in Kopie mit dem Angebot einzureichen und das Original fristgerecht nachzureichen,  nachkommt. Er bringt dann weder sich in die Ausschlussgefahr noch die Ag in die Situation,  über derartige Fragestellungen entscheiden zu müssen und möglicherweise Gefahr zu laufen,  gleichheitswidrig vorzugehen.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          76.828125,
+          122.517578125
+        ],
+        [
+          544.609130859375,
+          122.517578125
+        ],
+        [
+          544.609130859375,
+          437.9292907714844
+        ],
+        [
+          76.828125,
+          437.9292907714844
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        122.517578125,
+        544.609130859375,
+        437.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Eine Heilung konnte durch die Hinweise der ASt auf das Vorliegen einer  Verpflichtungserklärung des Nachunternehmers B. auch für … im Rahmen des Angebots der  … zu einem anderen Los im Schreiben vom 1. Dezember 2010 schon deswegen nicht  eintreten, weil dieser Hinweis nach Ablauf der Angebotsfrist am 22. November 2010 einging  und damit verspätet war. Es bleibt dabei: Die ASt hätte bereits mit Angebotsabgabe eine  Verpflichtungserklärung des Nachunternehmers B. in Kopie einreichen können und müssen.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          56.63999938964844,
+          463.7578125
+        ],
+        [
+          544.5889282226562,
+          463.7578125
+        ],
+        [
+          544.5889282226562,
+          570.6692810058594
+        ],
+        [
+          56.63999938964844,
+          570.6692810058594
+        ]
+      ],
+      "bbox": [
+        56.63999938964844,
+        463.7578125,
+        544.5889282226562,
+        570.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 141,
+      "polygon": [
+        [
+          291.888671875,
+          597.3759765625
+        ],
+        [
+          305.2685546875,
+          597.3759765625
+        ],
+        [
+          305.2685546875,
+          608.5892944335938
+        ],
+        [
+          291.888671875,
+          608.5892944335938
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        597.3759765625,
+        305.2685546875,
+        608.5892944335938
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">1. Soweit der Nachprüfungsantrag teilweise – hinsichtlich der Gebietslose 1, 4 und 5 des  Fachloses Nr. … – zurückgenommen wurde, sind die Kosten des Verfahrens von der ASt zu  tragen. Für Amtshandlungen der Vergabekammern werden Kosten (Gebühren und Auslagen) zur  Deckung des Verwaltungsaufwandes erhoben (§ 128 Abs. 1 GWB). Gebührenschuldnerin ist nach  § 128 Abs. 3 S. 3 GWB die ASt. Gründe, die dafür sprechen könnten, die Kosten nach billigem  Ermessen einem anderen Beteiligten aufzuerlegen (§ 128 Abs. 3 Satz 5 GWB), sind nicht</p>",
+      "page": 141,
+      "polygon": [
+        [
+          54.7109375,
+          654.5234375
+        ],
+        [
+          544.603759765625,
+          654.5234375
+        ],
+        [
+          544.603759765625,
+          760.535285949707
+        ],
+        [
+          54.7109375,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        654.5234375,
+        544.603759765625,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 125,
+      "polygon": [
+        [
+          284.904296875,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          61.669921875
+        ],
+        [
+          312.0063171386719,
+          73.07928466796875
+        ],
+        [
+          284.904296875,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        284.904296875,
+        61.669921875,
+        312.0063171386719,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ersichtlich. Wegen der Rücknahme des Antrags ist nach § 128 Abs. 3 Satz 4 GWB von der  ermittelten Gebühr nur die Hälfte zu erheben.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          54.7109375,
+          122.1064453125
+        ],
+        [
+          544.5730590820312,
+          122.1064453125
+        ],
+        [
+          544.5730590820312,
+          153.25927734375
+        ],
+        [
+          54.7109375,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        122.1064453125,
+        544.5730590820312,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt hat die zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der Ag  zu tragen (§ 128 Abs. 4 Satz 3 GWB). Die Hinzuziehung eines anwaltlichen Bevollmächtigten durch  die Ag war notwendig, schon um die erforderliche \"Waffengleichheit\" gegenüber der anwaltlich  vertretenen ASt herzustellen (vgl. OLG Düsseldorf, Beschluss vom 17. Mai 2004, VII-Verg 12/03).</p>",
+      "page": 125,
+      "polygon": [
+        [
+          54.7109375,
+          178.8427734375
+        ],
+        [
+          544.562255859375,
+          178.8427734375
+        ],
+        [
+          544.562255859375,
+          248.17926025390625
+        ],
+        [
+          54.7109375,
+          248.17926025390625
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        178.8427734375,
+        544.562255859375,
+        248.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die ASt hat hingegen nicht die zur zweckentsprechenden Rechtsverteidigung notwendigen  Aufwendungen der Bg zu tragen. Ihre eigenen Aufwendungen hat die Bg vielmehr selbst zu tragen.  § 128 Abs. 4 Satz 3 GWB sieht zwar vor, dass im Falle der Rücknahme eines Nachprüfungsantrags der Antragsteller auch der Beigeladenen die zur zweckentsprechenden Rechtsverfolgung  notwendigen Aufwendungen zu erstatten hat. Diese Regelung führt jedoch in Fällen wie dem  Vorliegenden zu unbilligen Ergebnissen: Unterliegt ein Antragsteller in der Hauptsache, hat er nach  § 128 Abs. 4 Satz 2 GWB die zur Rechtsverteidigung notwendigen Aufwendungen der  Beigeladenen nur dann zu erstatten, wenn diese ihm aus Billigkeitsgründen von der erkennenden Vergabekammer auferlegt werden. Die \"Billigkeit\" richtet sich einerseits danach, ob der  Antragsteller sich mit seinem Nachprüfungsantrag bewusst und gewollt in einen  Interessengegensatz zum Beigeladenen gestellt hat; andererseits kommt es entscheidend darauf  an, ob der Beigeladene sich aktiv am Verfahren beteiligt hat. Hat im Falle einer  Hauptsacheentscheidung somit der Antragsteller die Aufwendungen des Beigeladenen nur dann zu  tragen, wenn diese ihm aufgrund einer Billigkeitsentscheidung auferlegt werden, führt die Vorschrift  des § 128 Abs. 4 Satz 3 GWB ihrem Wortlaut nach dazu, dass dem Antragsteller im Falle der  Rücknahme seines Nachprüfungsverfahrens stets und ohne jede Ausnahme die Aufwendungen  des Beigeladenen für seine Rechtsverfolgung aufzuerlegen wären. Dies kann dazu führen, dass  ein Antragsteller, der seinen Antrag vor einer Entscheidung der Vergabekammer in der Hauptsache  zurücknimmt, schlechter gestellt wird, als ein Antragsteller, der in der Hauptsacheentscheidung  unterliegt. Um diesen Wertungswiderspruch aufzulösen, erscheint es als sachgerecht, die  grundsätzliche Wertentscheidung des Gesetzgebers in § 128 Abs. 4 Satz 2 GWB auch auf die  Fälle der Rücknahme des Antrags zu übertragen. Somit kommt es entscheidend darauf an, ob es  der Billigkeit entspricht, dem Antragsteller die Aufwendungen der Beigeladenen aufzuerlegen.  Dabei ist – wie vorstehend erläutert – auf die von der Rechtsprechung entwickelten  Billigkeitserwägungen bei der Erstattungsfähigkeit von Aufwendungen einer Beigeladenen  zurückzugreifen (OLG Düsseldorf, Beschlüsse vom 17. Mai 2004, VII-Verg 12/03, und vom 8.  Februar 2006, VII-Verg 61/05 unter Verweis auf die analoge Anwendung der § 154 Abs. 3, § 162</p>",
+      "page": 125,
+      "polygon": [
+        [
+          54.7109375,
+          275.08929443359375
+        ],
+        [
+          544.5918579101562,
+          275.08929443359375
+        ],
+        [
+          544.5918579101562,
+          781.15234375
+        ],
+        [
+          54.7109375,
+          781.15234375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        275.08929443359375,
+        544.5918579101562,
+        781.15234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 54,
+      "polygon": [
+        [
+          286.25,
+          61.669921875
+        ],
+        [
+          313.1328125,
+          61.669921875
+        ],
+        [
+          313.1328125,
+          73.07928466796875
+        ],
+        [
+          286.25,
+          73.07928466796875
+        ]
+      ],
+      "bbox": [
+        286.25,
+        61.669921875,
+        313.1328125,
+        73.07928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Abs. 3 VwGO). Im vorliegenden Fall wäre es unbillig, der ASt die Aufwendungen der Bg  aufzuerlegen, denn die ASt hat sich schon nicht in einen Interessengegensatz zu der Bg gestellt.</p>",
+      "page": 54,
+      "polygon": [
+        [
+          54.7109375,
+          122.517578125
+        ],
+        [
+          544.6093139648438,
+          122.517578125
+        ],
+        [
+          544.6093139648438,
+          153.25927734375
+        ],
+        [
+          54.7109375,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        122.517578125,
+        544.6093139648438,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Die Kostenentscheidung für die Entscheidung des noch anhängigen Nachprüfungsverfahrens  beruht auf § 128 Abs. 3 Satz 1, Abs. 4 Satz 1 und 4 GWB i.V.m. § 80 Abs. 3 Satz 2 VwVfG.</p>",
+      "page": 54,
+      "polygon": [
+        [
+          54.7109375,
+          178.8427734375
+        ],
+        [
+          544.376953125,
+          178.8427734375
+        ],
+        [
+          544.376953125,
+          210.1392822265625
+        ],
+        [
+          54.7109375,
+          210.1392822265625
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        178.8427734375,
+        544.376953125,
+        210.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus den bereits unter III.1. genannten Gründen wäre es unbillig, der ASt die Aufwendungen  aufzuerlegen, die der Bg zum Zwecke ihrer zweckentsprechenden Rechtsverteidigung entstanden  sind.</p>",
+      "page": 54,
+      "polygon": [
+        [
+          54.7109375,
+          235.990234375
+        ],
+        [
+          544.535888671875,
+          235.990234375
+        ],
+        [
+          544.535888671875,
+          286.1292724609375
+        ],
+        [
+          54.7109375,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        235.990234375,
+        544.535888671875,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung eines anwaltlichen Bevollmächtigten durch die Ag war notwendig, schon um die  erforderliche \"Waffengleichheit\" gegenüber der anwaltlich vertretenen ASt herzustellen (vgl. OLG  Düsseldorf, Beschluss vom 17. Mai 2004, VII-Verg 12/03).</p>",
+      "page": 54,
+      "polygon": [
+        [
+          54.7109375,
+          313.00927734375
+        ],
+        [
+          544.4415283203125,
+          313.00927734375
+        ],
+        [
+          544.4415283203125,
+          361.9692687988281
+        ],
+        [
+          54.7109375,
+          361.9692687988281
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        313.00927734375,
+        544.4415283203125,
+        361.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Brauer</p>",
+      "page": 54,
+      "polygon": [
+        [
+          132.12109375,
+          449.20928955078125
+        ],
+        [
+          425.7969055175781,
+          449.20928955078125
+        ],
+        [
+          425.7969055175781,
+          460.2492980957031
+        ],
+        [
+          132.12109375,
+          460.2492980957031
+        ]
+      ],
+      "bbox": [
+        132.12109375,
+        449.20928955078125,
+        425.7969055175781,
+        460.2492980957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/2",
+        "3": "/page/7/SectionHeader/6"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

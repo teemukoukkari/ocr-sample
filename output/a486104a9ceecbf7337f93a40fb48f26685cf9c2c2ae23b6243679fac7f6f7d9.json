@@ -1,0 +1,2820 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          472.90039062499994,
+          43.9912109375
+        ],
+        [
+          524.511962890625,
+          43.9912109375
+        ],
+        [
+          524.511962890625,
+          58.34149169921875
+        ],
+        [
+          472.90039062499994,
+          58.34149169921875
+        ]
+      ],
+      "bbox": [
+        472.90039062499994,
+        43.9912109375,
+        524.511962890625,
+        58.34149169921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 110,
+      "polygon": [
+        [
+          8.206640625,
+          43.62119140625
+        ],
+        [
+          186.191796875,
+          43.62119140625
+        ],
+        [
+          186.191796875,
+          106.03115234375
+        ],
+        [
+          8.206640625,
+          106.03115234375
+        ]
+      ],
+      "bbox": [
+        8.206640625,
+        43.62119140625,
+        186.191796875,
+        106.03115234375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Target Master OÜ</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          149.2412109375
+        ],
+        [
+          158.66400146484375,
+          149.2412109375
+        ],
+        [
+          158.66400146484375,
+          162.521484375
+        ],
+        [
+          69.84375,
+          162.521484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        149.2412109375,
+        158.66400146484375,
+        162.521484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Eesti Post</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.716796875,
+          178.1214599609375
+        ],
+        [
+          137.650390625,
+          178.1214599609375
+        ],
+        [
+          137.650390625,
+          190.1214599609375
+        ],
+        [
+          70.716796875,
+          190.1214599609375
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        178.1214599609375,
+        137.650390625,
+        190.1214599609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">19.02.2021 nr 5-5/2021-015</p>",
+      "page": 110,
+      "polygon": [
+        [
+          385.3046875,
+          205.72149658203125
+        ],
+        [
+          524.52001953125,
+          205.72149658203125
+        ],
+        [
+          524.52001953125,
+          217.72149658203125
+        ],
+        [
+          385.3046875,
+          217.72149658203125
+        ]
+      ],
+      "bbox": [
+        385.3046875,
+        205.72149658203125,
+        524.52001953125,
+        217.72149658203125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Teade menetluse lõpetamise kohta </b></h2>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          261.2587890625
+        ],
+        [
+          264.2001647949219,
+          261.2587890625
+        ],
+        [
+          264.2001647949219,
+          274.2255859375
+        ],
+        [
+          69.84375,
+          274.2255859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        261.2587890625,
+        264.2001647949219,
+        274.2255859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>1.</b> <b>Target Master OÜ kaebus</b></h2>",
+      "page": 110,
+      "polygon": [
+        [
+          87.88671875,
+          316.1611328125
+        ],
+        [
+          241.135986328125,
+          316.1611328125
+        ],
+        [
+          241.135986328125,
+          329.3514404296875
+        ],
+        [
+          87.88671875,
+          329.3514404296875
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        316.1611328125,
+        241.135986328125,
+        329.3514404296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Target Master OÜ (edaspidi Target Master) esitas Konkurentsiametile kaebuse, milles palus  hinnata AS-i Eesti Post (edaspidi EP) poolt Jysk Linnen´n Furniture OÜ-le (edaspidi Jysk)  aadressita reklaami kojukande teenuse osutamise tingimuste vastavust konkurentsiseadusele.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          351.9296875
+        ],
+        [
+          527.4639892578125,
+          351.9296875
+        ],
+        [
+          527.4639892578125,
+          392.4714660644531
+        ],
+        [
+          69.84375,
+          392.4714660644531
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        351.9296875,
+        527.4639892578125,
+        392.4714660644531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Target Master osutab aadressita reklaami kojukannet vajavatele klientidele teenust selliselt, et  koondab kokku kõikide oma klientide kannet vajavad saadetised ning ostab siis kandeteenuse  sisse vastava teenuse pakkujalt. Selliselt mahte konsolideerides on Target Masteril võimalik  kandeteenuse ostul saada võimalikult suur allahindlus. […].</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          407.84375
+        ],
+        [
+          527.3739624023438,
+          407.84375
+        ],
+        [
+          527.3739624023438,
+          461.4914855957031
+        ],
+        [
+          69.84375,
+          461.4914855957031
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        407.84375,
+        527.3739624023438,
+        461.4914855957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Target Master osutas Jyskile kuni 2020. a märtsini aadressita reklaami kojukannet, ostes ise  selle teenuse sisse EP-lt.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          477.0914611816406
+        ],
+        [
+          527.4100341796875,
+          477.0914611816406
+        ],
+        [
+          527.4100341796875,
+          502.8914794921875
+        ],
+        [
+          69.84375,
+          502.8914794921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        477.0914611816406,
+        527.4100341796875,
+        502.8914794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alates 2020. a märtsist osutab Jyskile aadressita reklaami kojukande teenust EP. Target  Masterile teadaolevalt rakendab EP Jyskile avalikust hinnakirjast suuremat allahindlust, kui  tema poolaasta tellimuse maht võimaldada võiks. Target Masterile rakendab EP  hinnakirjajärgset allahindlust.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          68.6796875,
+          518.4914855957031
+        ],
+        [
+          527.1919555664062,
+          518.4914855957031
+        ],
+        [
+          527.1919555664062,
+          572.296875
+        ],
+        [
+          68.6796875,
+          572.296875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        518.4914855957031,
+        527.1919555664062,
+        572.296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaebuse kohaselt on EP aadressita reklaami kojukande teenuse turul turgu valitsevas  seisundis ning tema hinnakujundus on KonkS § 16 p-i 3 tähenduses diskrimineeriv, kuna  ühele kliendile rakendatakse soodsamat hinda kui teisele. EP tegevus on Target Masterit turult  tõrjuv, sest tal pole võimalik kasumlikult Jyskile EP-st soodsamat hinda pakkuda.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          587.491455078125
+        ],
+        [
+          527.488037109375,
+          587.491455078125
+        ],
+        [
+          527.488037109375,
+          641.3671875
+        ],
+        [
+          69.84375,
+          641.3671875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        587.491455078125,
+        527.488037109375,
+        641.3671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ebavõrdsel hinnakujundusel ei saa olla majanduslikult objektiivset põhjendust olukorras, kus  EP reklaamiteenuste hinnakiri on äärmiselt detailne saadetise kaalu, ühekordse ja  poolaastapõhise mahu, tsoonide, lisateenuste jms põhjal. Jyski kandemaht ja muud kannet  puudutavad tingimused vastavad EP hinnakirja loogikale.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          68.6796875,
+          656.5214538574219
+        ],
+        [
+          527.4639892578125,
+          656.5214538574219
+        ],
+        [
+          527.4639892578125,
+          710.4375
+        ],
+        [
+          68.6796875,
+          710.4375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        656.5214538574219,
+        527.4639892578125,
+        710.4375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Niivõrd suure allahindluse rakendamist Jyskile ei saa põhjendada hinnapäringu hankeks  nimetamisega. KonkS § 16 ei tee turgu valitseva seisundit omava ettevõtja hinnakujunduse  nõuetele erisust selle alusel, kuidas kokkuleppe sõlmimise protsessi nimetatakse.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          725.5214614868164
+        ],
+        [
+          527.1840209960938,
+          725.5214614868164
+        ],
+        [
+          527.1840209960938,
+          765.9404296875
+        ],
+        [
+          69.84375,
+          765.9404296875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        725.5214614868164,
+        527.1840209960938,
+        765.9404296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          794.7197265625
+        ],
+        [
+          428.375,
+          794.7197265625
+        ],
+        [
+          428.375,
+          805.5434112548828
+        ],
+        [
+          69.84375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        794.7197265625,
+        428.375,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks leiab Target Master, et EP poolt Jyskile rakendatav hind olla ka alla keskmise  muutuvkulu ja seega vastuolus KonkS § 16 p-ga 1.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          85.9267578125
+        ],
+        [
+          527.135986328125,
+          85.9267578125
+        ],
+        [
+          527.135986328125,
+          112.00152587890625
+        ],
+        [
+          69.84375,
+          112.00152587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        85.9267578125,
+        527.135986328125,
+        112.00152587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>2.</b> <b>AS-i Eesti Post seisukoht</b></h3>",
+      "page": 119,
+      "polygon": [
+        [
+          88.177734375,
+          141.0185546875
+        ],
+        [
+          233.87600708007812,
+          141.0185546875
+        ],
+        [
+          233.87600708007812,
+          153.4014892578125
+        ],
+        [
+          88.177734375,
+          153.4014892578125
+        ]
+      ],
+      "bbox": [
+        88.177734375,
+        141.0185546875,
+        233.87600708007812,
+        153.4014892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EP esitas vastuseks kaebusele asjakohased dokumendid ja selgitused.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          177.04150390625
+        ],
+        [
+          403.1520080566406,
+          177.04150390625
+        ],
+        [
+          403.1520080566406,
+          189.04150390625
+        ],
+        [
+          69.84375,
+          189.04150390625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        177.04150390625,
+        403.1520080566406,
+        189.04150390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Selgituste kohaselt kutsus Jysk EP-d osalema kojukandeteenuse osutaja leidmiseks  korraldatud hankel ja EP võitis selle. EP kirjeldas ametile Jyskile osutatava teenuse  põhitingimusi ja hinna majanduslike põhjendusi.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          204.3330078125
+        ],
+        [
+          527.3740234375,
+          204.3330078125
+        ],
+        [
+          527.3740234375,
+          244.24151611328125
+        ],
+        [
+          69.84375,
+          244.24151611328125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        204.3330078125,
+        527.3740234375,
+        244.24151611328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EP on seisukohal, et isegi, kui ta oleks aadressita reklaami kojukande osas turgu valitsev  ettevõtja (millega EP ei nõustu), ei ole ta rikkunud KonkS § 16 p-i 3. Viidatud sättest ei tulene  otseselt ega kaudselt, et turgu valitsev ettevõtja peab igal juhul ja alati järgima enda poolt  avalikustatud hinnakirja.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          259.8714599609375
+        ],
+        [
+          527.4400024414062,
+          259.8714599609375
+        ],
+        [
+          527.4400024414062,
+          313.271484375
+        ],
+        [
+          69.84375,
+          313.271484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        259.8714599609375,
+        527.4400024414062,
+        313.271484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EP sai pakkuda hinnakirjast soodsamat hinda, […].</p>",
+      "page": 119,
+      "polygon": [
+        [
+          70.42578125,
+          328.4951171875
+        ],
+        [
+          319.8699951171875,
+          328.4951171875
+        ],
+        [
+          319.8699951171875,
+          340.8714599609375
+        ],
+        [
+          70.42578125,
+          340.8714599609375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        328.4951171875,
+        319.8699951171875,
+        340.8714599609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EP arvestas hanke pakkumust tehes, et Target Masterile jääks võimalus EP-ga konkureerida.  Lähtudes varasemate aastate tellimuste mahtudest ületab Target Masteri aadressita reklaami  tellimuste maht ka ilma Jyski tellimusteta […] allahindluse saamise lävendi, mistõttu ei  mõjuta Jyski tellimuste kaotamine võimet ülejäänud kliente jätkuvalt seniste hinnatingimuste  ja ärimudeli alusel teenindada.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          356.4521484375
+        ],
+        [
+          527.4519653320312,
+          356.4521484375
+        ],
+        [
+          527.4519653320312,
+          423.67144775390625
+        ],
+        [
+          69.84375,
+          423.67144775390625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        356.4521484375,
+        527.4519653320312,
+        423.67144775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>Jysk Linnen´n Furniture OÜ seisukoht</b></h1>",
+      "page": 119,
+      "polygon": [
+        [
+          87.88671875,
+          450.1904296875
+        ],
+        [
+          306.1759948730469,
+          450.1904296875
+        ],
+        [
+          306.1759948730469,
+          465.0914611816406
+        ],
+        [
+          87.88671875,
+          465.0914611816406
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        450.1904296875,
+        306.1759948730469,
+        465.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Jysk esitas vastuseks kaebusele asjakohased dokumendid ja selgitused.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          68.6796875,
+          488.6114501953125
+        ],
+        [
+          410.5680236816406,
+          488.6114501953125
+        ],
+        [
+          410.5680236816406,
+          500.6114501953125
+        ],
+        [
+          68.6796875,
+          500.6114501953125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        488.6114501953125,
+        410.5680236816406,
+        500.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Selgituste kohaselt ei soovinud Jysk jätkata Target Masteriga koostööd, sest pakutav  aadressita reklaami kandeteenuse hind oli liiga kõrge. Samuti ei pakkunud Target Master  lisavõimalusena kande kvaliteedi kontrollimist, mida Jysk soovis.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          516.2114562988281
+        ],
+        [
+          527.4100341796875,
+          516.2114562988281
+        ],
+        [
+          527.4100341796875,
+          555.8114624023438
+        ],
+        [
+          69.84375,
+          555.8114624023438
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        516.2114562988281,
+        527.4100341796875,
+        555.8114624023438
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Jysk korraldas uue kandeteenuse pakkuja leidmiseks hanke. EP pakkumine vastas kõige  täpsemini Jyski nõudmisele ja hind oli odavam, kui Target Masteril.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          571.4114685058594
+        ],
+        [
+          527.1719970703125,
+          571.4114685058594
+        ],
+        [
+          527.1719970703125,
+          598.1982421875
+        ],
+        [
+          69.84375,
+          598.1982421875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        571.4114685058594,
+        527.1719970703125,
+        598.1982421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>4.</b> <b>Konkurentsiameti hinnang</b></h3>",
+      "page": 119,
+      "polygon": [
+        [
+          86.72265625,
+          626.6414642333984
+        ],
+        [
+          245.09597778320312,
+          626.6414642333984
+        ],
+        [
+          245.09597778320312,
+          638.6414642333984
+        ],
+        [
+          86.72265625,
+          638.6414642333984
+        ]
+      ],
+      "bbox": [
+        86.72265625,
+        626.6414642333984,
+        245.09597778320312,
+        638.6414642333984
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet analüüsis kaebust, EP ja Jyski selgitusi, dokumente jm ametile teadaolevaid  andmeid ning leiab, et EP ei ole rikkunud KonkS § 16 p-i 1 ja p-i 3, kui pakkus Jyskile  avalikus hinnakirjas ettenähtust suuremat allahindlust (täpsemad selgitused on punktis 4.1 ja  4.2).</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          661.923828125
+        ],
+        [
+          527.416015625,
+          661.923828125
+        ],
+        [
+          527.416015625,
+          715.6814575195312
+        ],
+        [
+          69.84375,
+          715.6814575195312
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        661.923828125,
+        527.416015625,
+        715.6814575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Seetõttu ei ole käesolevas dokumendis vajalik käsitleda asjaomase kaubaturu ja EP turuosa  suurusega seonduvat. Menetluste puhul, kus ettevõtja tegevuses konkurentsiseaduse rikkumist</p>",
+      "page": 119,
+      "polygon": [
+        [
+          69.84375,
+          730.5830078125
+        ],
+        [
+          527.2319946289062,
+          730.5830078125
+        ],
+        [
+          527.2319946289062,
+          757.0774688720703
+        ],
+        [
+          69.84375,
+          757.0774688720703
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        730.5830078125,
+        527.2319946289062,
+        757.0774688720703
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          504.91210937499994,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          793.8974609375
+        ],
+        [
+          504.91210937499994,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        504.91210937499994,
+        783.5594100952148,
+        524.5966796875,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ei tuvastata, seda üldjuhul tulenevalt menetlusökonoomia põhimõttest ei tehta, kuid selleks  puudub ka sisuline vajadus.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          71.9482421875
+        ],
+        [
+          527.281982421875,
+          71.9482421875
+        ],
+        [
+          527.281982421875,
+          98.2015380859375
+        ],
+        [
+          69.84375,
+          98.2015380859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.9482421875,
+        527.281982421875,
+        98.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Käesolevas menetluses puudub sisuline vajadus kujunda seisukoht ka selles, kas Jyskile  teenuse pakkumine toimub hanke alusel või mitte. Samuti ei vabasta hanke korraldamine  iseenesest ei konkurentsireeglite järgimisest. Seetõttu ei käsitle amet sellega seonduvat.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          113.801513671875
+        ],
+        [
+          527.5120239257812,
+          113.801513671875
+        ],
+        [
+          527.5120239257812,
+          153.4014892578125
+        ],
+        [
+          68.6796875,
+          153.4014892578125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        113.801513671875,
+        527.5120239257812,
+        153.4014892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>4.1</b> Kaebuse kohaselt on EP tegevus diskrimineeriv ja vastuolus KonkS § 16 p-ga 3, kui ta  pakkus Jyskile suuremat allahindlust võrreldes Target Masteriga.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          168.9755859375
+        ],
+        [
+          527.4520263671875,
+          168.9755859375
+        ],
+        [
+          527.4520263671875,
+          194.801513671875
+        ],
+        [
+          68.6796875,
+          194.801513671875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        168.9755859375,
+        527.4520263671875,
+        194.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p 3 näeb ette, et keelatud on ühe või mitme ettevõtja poolt turgu valitseva  seisundi otsene või kaudne kuritarvitamine kaubaturul, sealhulgas võrdväärsete kokkulepete  korral erinevate tingimuste pakkumine või rakendamine erinevatele äripartneritele, pannes  mõne neist sellega ebasoodsasse konkurentsiolukorda. Viidatud sätte kohaldamiseks peavad  küll samaaegselt esinema mitmed eeltingimused (mh nt teenuse samaväärsus), kuid  Konkurentsiamet analüüsib käesoleva vaidluse asjaoludest lähtuvalt põhjalikumalt üksnes  selle paikapidavust, kas ühele ettevõtjale parema hinna pakkumine paneb teise ettevõtja  ebasoodsasse konkurentsiolukorda. Selleks, et Jyskile kohaldatud suurem allahindlus tooks  Target Masterile kaasa ebasoodsa konkurentsiolukorra, peaks juba selle väite sõnastusest  tulenevalt tegemist olema konkurentidega. Target Master ja Jysk on küll EP kliendid, kes  ostavad temalt aadressita reklaami kojukande teenust, kuid tegemist ei ole ettevõtjatega, kes  omavahel konkureeriksid. Target Masteri põhitegevuseks on klientidele kojukande  vahendamine. Jysk on tegev kaubanduses. Asjaoluga, et oma põhitegevuse raames vajavad  mõlemad ettevõtjad sama sisendit, ei kaasne nende omavaheline konkurentsiolukord. Nõue, et  KonkS § 16 p-i 3 kohaldamiseks peab tegemist olema konkurentidest äripartneritega, nähtub  ka Euroopa Kohtu praktikast (vt nt British Airways vs. komisjon<a href=\"http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=62288&amp;pageIndex=0&amp;doclang=ET&amp;mode=lst&amp;dir=&amp;occ=first&amp;part=1&amp;cid=406230\"> C-95/04 P,</a> p-d 143-145;  MEO vs Autoridade da Concorrência<a href=\"http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=201264&amp;pageIndex=0&amp;doclang=ET&amp;mode=lst&amp;dir=&amp;occ=first&amp;part=1&amp;cid=403372\"> C‑525/16,</a> p-d 24-25).</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          209.677734375
+        ],
+        [
+          527.52001953125,
+          209.677734375
+        ],
+        [
+          527.52001953125,
+          443.25146484375
+        ],
+        [
+          69.84375,
+          443.25146484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        209.677734375,
+        527.52001953125,
+        443.25146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuigi Target Masteri ja Jyski konkurentideks mitte olemine välistab Konkurentsiamet  hinnangul juba iseenesest KonkS § 16 p-i 3 kohaldamise, analüüsib amet selguse huvides, kas  Jyskile pakutud erinev hind saaks põhimõtteliselt panna Target Masteri ebasoodsasse  konkurentsiolukorda. Vastavalt Euroopa Kohtu praktikale ei tekita ebasoodsat  konkurentsiolukorda pelgalt erineva allahindluse rakendamine erinevatele klientidele, vaid  esinema peab ka konkurentsi kahjustamine. Üksnes tuntava ebasoodsa olukorra esinemine,  mis mõjutab ettevõtjaid, kelle suhtes kohaldati kõrgemat hinda, võrreldes hinnaga, mida  samaväärse teenuse eest kohaldati nende konkurentidele, ei tähenda, et konkurentsi  kahjustatakse või seda võidakse kahjustada (vt nt MEO vs Autoridade da Concorrência  <a href=\"http://curia.europa.eu/juris/document/document.jsf?text=&amp;docid=201264&amp;pageIndex=0&amp;doclang=ET&amp;mode=lst&amp;dir=&amp;occ=first&amp;part=1&amp;cid=403372\">C‑525/16,</a> p-d 25-27).</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          458.4130859375
+        ],
+        [
+          527.4759521484375,
+          458.4130859375
+        ],
+        [
+          527.4759521484375,
+          595.0514678955078
+        ],
+        [
+          68.6796875,
+          595.0514678955078
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        458.4130859375,
+        527.4759521484375,
+        595.0514678955078
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Menetluses esitatud tõendite kohaselt sai Target Master varasemalt Jyskile teenust osutades  ise EP-lt aadressita reklaami kojukandelt avalikus hinnakirjas ettenähtud suurusega  allahindlust. Jyskile pakkus EP aga suuremat allahindlust, kui tema tellimuse maht avaliku  hinnakirja kohaselt oleks võimaldanud. Selle tulemusel loobus Jysk Target Masterilt teenust  ostmast. Target Master kinnitas, et 2020 I poolaastal rakendus talle […]% allahindlus.<sup>1</sup> Target  Masterile on rakendunud […] vahemikus 2013-2019 14-st poolaastast 12-l.<sup>2</sup> Seega hoolimata  sellest, et Target Master kaotas 2020 I poolaastal ühe oma klientidest oli ta ikkagi võimeline  EP-le üle andma […] saamiseks vajaliku kandemahu. […].</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          610.12109375
+        ],
+        [
+          527.4839477539062,
+          610.12109375
+        ],
+        [
+          527.4839477539062,
+          719.2814636230469
+        ],
+        [
+          69.84375,
+          719.2814636230469
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        610.12109375,
+        527.4839477539062,
+        719.2814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.42578125,
+          735.9574584960938
+        ],
+        [
+          73.91796875,
+          735.9574584960938
+        ],
+        [
+          73.91796875,
+          748.26171875
+        ],
+        [
+          70.42578125,
+          748.26171875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        735.9574584960938,
+        73.91796875,
+        748.26171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          505.20312499999994,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          793.8974609375
+        ],
+        [
+          505.20312499999994,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        505.20312499999994,
+        783.5594100952148,
+        524.5966796875,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> 17.08.2020 Target Masteri vastus.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          748.6728515625
+        ],
+        [
+          212.9762725830078,
+          748.6728515625
+        ],
+        [
+          212.9762725830078,
+          759.5594100952148
+        ],
+        [
+          69.84375,
+          759.5594100952148
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        748.6728515625,
+        212.9762725830078,
+        759.5594100952148
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> 25.05.2020 EP vastus.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.42578125,
+          758.5400390625
+        ],
+        [
+          165.62001037597656,
+          758.5400390625
+        ],
+        [
+          165.62001037597656,
+          770.9594116210938
+        ],
+        [
+          70.42578125,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        758.5400390625,
+        165.62001037597656,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kliendist ilma jäämist võib üldiselt alati pidada ebasoovitavaks asjaoluks. Samas ei  mõjutanud see isegi 2020 I poolaastal Target Masteri võimalust saada EP-lt […], mis  Konkurentsiameti hinnangul on kaalukaks viiteks, et konkurentsi kahjustamist erineva hinna  kohaldamine käesoleval juhul kaasa ei toonud. Ebasoodsa konkurentsiolukorra kohta ei ole ka  Target Master ise mingeid andmeid esitanud. Näiteks puuduvad kaebuses täpsemad  põhjendused, miks Target Masteril ei oleks olnud võimalik Jyskile EP-ga konkureerivat hinda  pakkuda või kuidas ühele kliendile täiendavalt […]<sup>3</sup> allahindluse pakkumine halvendaks tema  majandusnäitajaid ja tooks kaasa konkurentsiolukorra kahjustumise. Seda enam, et EP  rakendas Jyskile väiksemat allahindlust, kui Target Masterile ja see asjaolu oli ka kaebajale  teada. Teavet oma majandusnäitajate halvenemise kohta omab Target Master ise ja  Konkurentsiameti ei saaks avalike andmete põhjal seda välja arvutada. Nagu eelnevalt välja  toodud, siis Euroopa Kohtu praktikast tulenevalt ei too ainuüksi erinevate hindade  rakendamine kaasa KonkS § 16 p-i 3 rikkumist, ilma et sel oleks mõju ettevõtja  konkurentsivõimele.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          72.3814697265625
+        ],
+        [
+          527.5079956054688,
+          72.3814697265625
+        ],
+        [
+          527.5079956054688,
+          263.801513671875
+        ],
+        [
+          69.84375,
+          263.801513671875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        72.3814697265625,
+        527.5079956054688,
+        263.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaebuses on läbivalt leitud, et EP poolt Jyskile pakutud hind ei lähtu avalikest hinnakirjadest,  kuid EP-d tuleb selleks kohustada. Konkurentsiamet soovib selgitada, et arvestades menetluse  asjaolusid ja seda, et esitatud ei ole infot konkurentsi kahjustustava mõju osas, siis käesoleval  juhul sellist kohustust EP-le seada ei saa. Turgu valitseval ettevõtjal ei ole kohustust  avalikustatud hinnakirjade puhul neist alati rangelt kinni pidada. Hinnakirjast lahknemine ja  klientidele erineva hinna rakendamine võib teatud juhtudel olla konkurentsi soodustav. Ka EP  on sarnasele mõjule viidanud, millega Konkurentsiamet vaidluse konteksti arvestades  nõustub. EP leiab, et kui turgu valitsevad ettevõtjad peaks lähtuma alati ainult kõigile  kättesaadavatest hinnakirjadest, moonutaks selline olukord toimivat konkurentsi. See välistaks  teiste turuosaliste jaoks toimivale konkurentsile omase ebakindluse turgu valitseva ettevõtja  hindade osas ning muudaks hinnad etteaimatavaks. Samuti annaks see selge eelise turgu  valitseva ettevõtja konkurentidele, kes, teades tema hindu, saaksid alati teha veidi odavama  pakkumuse.<sup>4</sup> Lisaks ei tulene Euroopa Kohtu praktikast turgu valitsevas seisundis  ettevõtjatele kohustust kohaldada alati oma kaubanduspartneritele ühetaolisi hindu.  Hinnakonkurents on üldiselt kasulik ning ka turuvalitsejal peab olema võimalik turul  konkureerida (vt nt kohtujuristi P. Mengozzi<a href=\"https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX%3A62010CC0209#t-ECR_62010CC0209_ET_01-E0019\"> ettepanek</a> kohtuasjas Post Danmark A/S C-209/10, p 57; kohtujuristi N. Wahli<a href=\"https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:62016CC0525&amp;from=ET\"> ettepanek</a> kohtuasjas C-525/16, p 61-62;<a href=\"https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=CELEX%3A52009XC0224%2801%29#ntc17-C_2009045ET.01000701-E0017\"> Komisjoni teatis</a> 2009/C 45/02, p 23). Eelnev ei tähenda seda, et turgu valitsevad ettevõtjad oleksid oma  hinnakujunduses täiesti vabad. Vastupidi, konkurentsiseadusest tuleneb neile mitmeid  piiranguid, mida peab järgima ning mille üle saab Konkurentsiamet kontrolli teostada.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          278.748046875
+        ],
+        [
+          527.5079956054688,
+          278.748046875
+        ],
+        [
+          527.5079956054688,
+          553.6514587402344
+        ],
+        [
+          68.6796875,
+          553.6514587402344
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        278.748046875,
+        527.5079956054688,
+        553.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kõike eelnevat arvestades leiab Konkurentsiamet, et käesoleval juhul on KonkS § 16 p-i 3  rikkumine välistatud juba üksnes seetõttu, et Jysk ja Target Master ei ole konkurendid. Kuid  seda kinnitab veelgi asjaolu, et kaebuses etteheidetud tegevusega ei ole ebasoodsa  konkurentsiolukorra kaasnemine Target Masterile tuvastatav.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          568.5966796875
+        ],
+        [
+          527.5079956054688,
+          568.5966796875
+        ],
+        [
+          527.5079956054688,
+          622.6814575195312
+        ],
+        [
+          69.84375,
+          622.6814575195312
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        568.5966796875,
+        527.5079956054688,
+        622.6814575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>4.2</b> Kaebuses on EP poolt Jyskile hinnakirjast oluliselt suurema allahindluse pakkumine  seotud valdavalt KonkS § 16 p-i 3 rikkumisega, kuid ära on markeeritud ka KonkS § 16 p-i 1  rikkumise võimalus. Nimetatud põhjusel analüüsib Konkurentsiamet järgnevalt KonkS § 16  p-i 1 võimaliku rikkumisega seonduvat.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          638.078125
+        ],
+        [
+          527.4959716796875,
+          638.078125
+        ],
+        [
+          527.4959716796875,
+          691.6814575195312
+        ],
+        [
+          69.84375,
+          691.6814575195312
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        638.078125,
+        527.4959716796875,
+        691.6814575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 16 p-i 1 kohaselt on keelatud ühe või mitme ettevõtja poolt turgu valitseva seisundi  otsene või kaudne kuritarvitamine kaubaturul, sealhulgas otsene või kaudne ebaõiglaste ostu-</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          707.2814636230469
+        ],
+        [
+          527.4039916992188,
+          707.2814636230469
+        ],
+        [
+          527.4039916992188,
+          733.0814666748047
+        ],
+        [
+          69.84375,
+          733.0814666748047
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        707.2814636230469,
+        527.4039916992188,
+        733.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.134765625,
+          735.9574584960938
+        ],
+        [
+          75.373046875,
+          735.9574584960938
+        ],
+        [
+          75.373046875,
+          747.9574584960938
+        ],
+        [
+          70.134765625,
+          747.9574584960938
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        735.9574584960938,
+        75.373046875,
+        747.9574584960938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 188,
+      "polygon": [
+        [
+          505.20312499999994,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          794.30859375
+        ],
+        [
+          505.20312499999994,
+          794.30859375
+        ]
+      ],
+      "bbox": [
+        505.20312499999994,
+        783.5594100952148,
+        524.5966796875,
+        794.30859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Target Masteri allahindlus Jyskile oli […]% EP hinnakirjast. EP allahindlus Jyskile oli […]%.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          748.6728515625
+        ],
+        [
+          453.18994140625,
+          748.6728515625
+        ],
+        [
+          453.18994140625,
+          759.5594100952148
+        ],
+        [
+          68.6796875,
+          759.5594100952148
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        748.6728515625,
+        453.18994140625,
+        759.5594100952148
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> 25.05.2020 EP vastuse alapunkt 9.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.134765625,
+          758.5400390625
+        ],
+        [
+          214.39060974121094,
+          758.5400390625
+        ],
+        [
+          214.39060974121094,
+          770.9594116210938
+        ],
+        [
+          70.134765625,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        758.5400390625,
+        214.39060974121094,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">või müügihindade või muude ebaõiglaste äritingimuste kehtestamine või rakendamine.  Kaebuses on EP-le ette heidetud ebaõiglaselt madala (röövelliku) hinna rakendamist. Euroopa  konkurentsiõiguses levinud kirjelduse kohaselt on röövellikku hinnakujundusega tegemist  siis, kui turgu valitsev ettevõtja tegeleb turu vallutamisega, kannatades tahtlikult kahjumit või  keeldudes lühiajalisest kasumist, nii et ühe või mitme tema tegeliku või potentsiaalse  konkurendi jaoks turg suletakse või võidakse sulgeda eesmärgiga tugevdada või säilitada oma  turuvõimu, põhjustades sellega tarbijatele kahju (vt nt Komisjoni teatis <a href=\"https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=CELEX%3A52009XC0224%2801%29#ntc17-C_2009045ET.01000701-E0017\">2009/C 45/02,</a> p 63).</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.84375,
+          71.9482421875
+        ],
+        [
+          527.385986328125,
+          71.9482421875
+        ],
+        [
+          527.385986328125,
+          168.1533203125
+        ],
+        [
+          69.84375,
+          168.1533203125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.9482421875,
+        527.385986328125,
+        168.1533203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaebuse esitamise hetkel kehtinud hinnakirja<sup>5</sup> kohaselt oleks Jysk pidanud saama […]%  mahuallahindlust, nii et teenuse kogumaksumuseks oleks kujunenud […] eurot.  Konkurentsiametile esitatud andmete kohaselt leppisid EP ja Jysk tegelikult kokku […]%  allahindluses, nii et teenuse kogumaksumuseks kujunes […] eurot.<sup>6</sup> Seega kehtis Jyski suhtes  tavahinnakirjast […]%<sup>7</sup> võrra odavam hind.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.84375,
+          181.4288330078125
+        ],
+        [
+          527.531982421875,
+          181.4288330078125
+        ],
+        [
+          527.531982421875,
+          250.00152587890625
+        ],
+        [
+          69.84375,
+          250.00152587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        181.4288330078125,
+        527.531982421875,
+        250.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ehkki EP pakkus Jyskile oma standardhinnakirjast täiendavat […]% allahindlust, siis seeläbi  ta tegelikult hoopis suurendas, mitte ei vähendanud oma tulusid.<sup>8</sup> Nimelt, Target Masteri  kaudu Jyski teenindades oleks EP tasu olnud veelgi oluliselt madalam. Arvestades Target  Masterile rakenduvat […]%-list allahindlust, oleks EP tasu Jyski teenindamise eest olnud […] eurot ehk tavahinnakirjast juba […]%<sup>9</sup> odavam ning Jyskiga reaalselt kokku lepitud […]%  allahindlusel põhinevast tasust […]%<sup>10</sup> odavam.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.84375,
+          265.1806640625
+        ],
+        [
+          527.52001953125,
+          265.1806640625
+        ],
+        [
+          527.52001953125,
+          346.6314392089844
+        ],
+        [
+          69.84375,
+          346.6314392089844
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        265.1806640625,
+        527.52001953125,
+        346.6314392089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Euroopa Komisjon on selgitatud, et turuvallutamise strateegia tõendamiseks võib komisjon  uurida ka seda, kas väidetav turgu vallutav tegevus tõi lühiajaliselt kaasa väiksema puhastulu,  kui oleks võinud mõistlikust alternatiivsest tegevusest eeldata. Komisjon ei võrdle tegelikku  tegevust hüpoteetiliste või teoreetiliste alternatiividega, mis oleks võinud olla kasumlikumad.  Arvesse võetakse üksnes majanduslikult ratsionaalseid ja teostatavaid alternatiive (Komisjoni  teatis<a href=\"https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=CELEX%3A52009XC0224%2801%29#ntc17-C_2009045ET.01000701-E0017\"> 2009/C 45/02,</a> p 65). Antud juhul tulebki majanduslikult ratsionaalseks ja teostatavaks  alternatiiviks pidada võimalust, et EP müünuks Jyskile teenust läbi Target Masteri, mitte ise  baashinnakirja […]% allahindlusega. Target Master müüs Jyskile teenust edasi EP  baashinnakirjast […]% allahindlusega<sup>11</sup>, millest järeldub, et EP poleks Jyskile täiendavat  allahindlust pakkumata konkurentsivõimeline olnud ehk sellise alternatiivi teostumist ei saa  mõistlikult eeldada.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          68.6796875,
+          362.2314453125
+        ],
+        [
+          527.5079956054688,
+          362.2314453125
+        ],
+        [
+          527.5079956054688,
+          512.25146484375
+        ],
+        [
+          68.6796875,
+          512.25146484375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        362.2314453125,
+        527.5079956054688,
+        512.25146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seega, kui eeldada, et Jyskiga sõlmitud erikokkuleppe puudumisel ei oleks EP Jyski mitte ise  […]% allahindlusega teenindanud, vaid seda oleks tehtud läbi Target Masteri […]%  allahindlusega, siis hakkas EP tegelikkuses Jyski pealt […]% mahuallahindluse erikokkuleppe  tulemusena […]% võrra rohkem teenima. Eeltoodu läheb aga ebaõiglaselt madalate hindade  kehtestamise olemusega vastuollu, niipalju kui seda tehes kehtestavad turgu valitsevad  ettevõtjad üldjuhul senisest odavamaid hindu. Teatise kohaselt sekkub Komisjon üldjuhul siis,  kui on tõendeid selle kohta, et turgu valitsev ettevõtja tegeleb turu vallutamisega, kannatades  tahtlikult kahjumit või keeldub lühiajalisest kasumist (edaspidi \"loobumine\"), nii et ühe või  mitme tema tegeliku või potentsiaalse konkurendi jaoks turg suletakse või võidakse sulgeda  eesmärgiga tugevdada või säilitada oma turuvõimu, põhjustades sellega tarbijatele kahju.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          68.6796875,
+          527.8514709472656
+        ],
+        [
+          527.52001953125,
+          527.8514709472656
+        ],
+        [
+          527.52001953125,
+          664.0814666748047
+        ],
+        [
+          68.6796875,
+          664.0814666748047
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        527.8514709472656,
+        527.52001953125,
+        664.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><sup>8</sup> 25.05.2020 EP vastuse alapunkt 10.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.552734375,
+          725.23828125
+        ],
+        [
+          219.4770965576172,
+          725.23828125
+        ],
+        [
+          219.4770965576172,
+          736.5234146118164
+        ],
+        [
+          69.552734375,
+          736.5234146118164
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        725.23828125,
+        219.4770965576172,
+        736.5234146118164
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 205,
+      "polygon": [
+        [
+          504.62109374999994,
+          781.5634765625
+        ],
+        [
+          524.5966796875,
+          781.5634765625
+        ],
+        [
+          524.5966796875,
+          793.5194091796875
+        ],
+        [
+          504.62109374999994,
+          793.5194091796875
+        ]
+      ],
+      "bbox": [
+        504.62109374999994,
+        781.5634765625,
+        524.5966796875,
+        793.5194091796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup> </sup> <sup>5</sup> Alates 01.01.2020 kehtinud reklaamiteenuste hinnakiri.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          68.09765625,
+          678.4814605712891
+        ],
+        [
+          298.223876953125,
+          678.4814605712891
+        ],
+        [
+          298.223876953125,
+          701.9634246826172
+        ],
+        [
+          68.09765625,
+          701.9634246826172
+        ]
+      ],
+      "bbox": [
+        68.09765625,
+        678.4814605712891,
+        298.223876953125,
+        701.9634246826172
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> 25.05.2020 EP vastuse alapunkt 10.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.26171875,
+          702.6259765625
+        ],
+        [
+          219.57020568847656,
+          702.6259765625
+        ],
+        [
+          219.57020568847656,
+          713.4834289550781
+        ],
+        [
+          69.26171875,
+          713.4834289550781
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        702.6259765625,
+        219.57020568847656,
+        713.4834289550781
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> […]%</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.84375,
+          714.3643951416016
+        ],
+        [
+          101.5606689453125,
+          714.3643951416016
+        ],
+        [
+          101.5606689453125,
+          725.0034103393555
+        ],
+        [
+          69.84375,
+          725.0034103393555
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        714.3643951416016,
+        101.5606689453125,
+        725.0034103393555
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>9</sup> […]%</p>",
+      "page": 205,
+      "polygon": [
+        [
+          70.42578125,
+          735.5166015625
+        ],
+        [
+          101.5606689453125,
+          735.5166015625
+        ],
+        [
+          101.5606689453125,
+          748.0394134521484
+        ],
+        [
+          70.42578125,
+          748.0394134521484
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        735.5166015625,
+        101.5606689453125,
+        748.0394134521484
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>10</sup> […]%</p>",
+      "page": 205,
+      "polygon": [
+        [
+          69.84375,
+          748.6728515625
+        ],
+        [
+          104.80067443847656,
+          748.6728515625
+        ],
+        [
+          104.80067443847656,
+          759.5594100952148
+        ],
+        [
+          69.84375,
+          759.5594100952148
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        748.6728515625,
+        104.80067443847656,
+        759.5594100952148
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup>11</sup> 10.07.2020 Target Masteri vastus.</p>",
+      "page": 205,
+      "polygon": [
+        [
+          68.6796875,
+          760.3203964233398
+        ],
+        [
+          216.515625,
+          760.3203964233398
+        ],
+        [
+          216.515625,
+          770.9594116210938
+        ],
+        [
+          68.6796875,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        760.3203964233398,
+        216.515625,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Komisjon käsitleb tegevust loobumisena, kui turgu valitsev ettevõtja kehtestab madalama  hinna kogu oma toodangule või teatavale osale sellest teatava ajavahemiku jooksul ja see tõi  või toob talle kaasa kahjumi, mida oleks saanud vältida (Komisjoni teatise 2009/C 45/02, p-d  63-64). Antud juhul ei ole EP tegevus eeltoodud põhjustel käsitletav loobumisena teatise  tähenduses.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          69.84375,
+          71.1259765625
+        ],
+        [
+          527.5199584960938,
+          71.1259765625
+        ],
+        [
+          527.5199584960938,
+          139.60150146484375
+        ],
+        [
+          69.84375,
+          139.60150146484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.1259765625,
+        527.5199584960938,
+        139.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">EP kinnitusel ei ole erisust kojukande teenuse osutamisel vahendajale või lõpp-kliendile.<sup>12</sup> Ka  Target Masteri selgitusest ei nähtu, et tema poolt EP kojukande vahendamisel esineks sisulisi  erisusi, mis võiks anda EP-le kulude kokkuhoiu.<sup>13</sup> Seda silmas pidades märgib  Konkurentsiamet, et kui EP saab Jyski läbi Target Masteri teenindades väiksemat tasu, siis  teiselt poolt ei kaasne sellega EP-le nähtavat ja olulist kulude kokkuhoidu, v.a võimalik  mõningane kokkuhoid tehingukuludes. Konkurentsiamet on varasema aadressiga reklaami ja  aadressita reklaami kojukande teenuseid puudutava järelevalvemenetluse nr 17-0135 raames  analüüsinud põhjalikult EP kulustruktuuri. Viidatud menetluse raames aadressita reklaami  osas saadud teadmise põhjal (mis on relevantne ka käesoleval juhul) on võimalikeks  tehingukuludeks, […]<sup>14</sup> […]. Konkurentsiamet tuvastas menetluses nr 17-0135, et kui EP-l  üldse kulude kokkuhoid tekib, siis üksikute tellimuste pinnalt ning ka EP ise on kinnitanud, et  mahuprognoosil põhineva allahindlusega (mille suuruse üle antud juhul küsimus on) ei kaasne  tellimuspõhise allahindlusega võrreldavat selget kulupõhist kokkuhoidu. Konkurentsiamet  mõistis EP selgituste põhjal, et […]. Eeltoodu kinnitab, et EP kasum Jyski teenindamisest läbi  Target Masteri on väiksem, kui Jyski ise teenindades ja seda ka tavahinnakirjast suurema  […]% allahindluse korral. See aga viitab selgelt, et EP tegevust ei saa pidada ebaõiglaselt  madalaks hinnakujunduseks, kuna EP antud juhul maksimeerib oma kasumit, mitte ei ohverda  lühiajaliselt osa kasumist teise ettevõtja turult välja tõrjumiseks.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          68.6796875,
+          153.82879638671875
+        ],
+        [
+          527.52001953125,
+          153.82879638671875
+        ],
+        [
+          527.52001953125,
+          401.8314514160156
+        ],
+        [
+          68.6796875,
+          401.8314514160156
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        153.82879638671875,
+        527.52001953125,
+        401.8314514160156
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Isegi kui eeltoodu tähelepanuta jätta ja kõrvutada siiski Jyskile antud […]% allahindlust  üksnes standardhinnakirja […]% allahindlusega, ei täidaks see Konkurentsiameti hinnangul  turuvallutuslikult odavate hindade kriteeriume ka veel muudel põhjustel. Esiteks, kui eeldada,  et EP ratsionaalselt käituva ettevõtjana ei ole müünud teenust Target Masterile […]%  allahindlusega kahjumlikult, siis ei tohiks ka Jyskile rakendatud […]% allahindlus olla  kahjumlik. Teiseks, ebaõiglaselt odavate hindade puhul peab hind üldjuhul olema mitte  üksnes kahjumlik, vaid ka pikaajalisest keskmisest täiendkulust madalamal tasemel  (Komisjoni teatis 2009/C 45/02, p 67). Teisisõnu, EP ei tohiks sel juhul müüa Jyskile teenust  alla nende kulude, mis pikas perspektiivis lisanduvad otseselt seoses just Jyski  teenindamisega. EP poolt järelevalvemenetluses nr 17-0135 esitatud selgitustest ilmneb, et  aadressita reklaami teenus hõlmab endas arvestataval hulgal selliseid tegevusi, mis ei saa olla  otseselt seotud ainult Jyskile teenuse osutamisega ehk mida ei saa pidada asjaomasteks  pikaajalisteks täiendkuludeks. […]<sup>15</sup>. Viimati nimetatud kulusid ei saa aga tüüpiliselt pidada  pikaajalisteks täiendkuludeks. Kuna EP pakkus Jyskile standardhinnakirjast üksnes […]%  võrra madalamaid hindu, siis on Konkurentsiamet ka ilma täiendava analüüsita veendunud, et  need ei saa mitte kuidagi olla väiksemad EP aadressita reklaami pikaajalistest täiendkuludest.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          68.6796875,
+          416.888671875
+        ],
+        [
+          527.52001953125,
+          416.888671875
+        ],
+        [
+          527.52001953125,
+          636.4814605712891
+        ],
+        [
+          68.6796875,
+          636.4814605712891
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        416.888671875,
+        527.52001953125,
+        636.4814605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eelnevast puudub kahtlus, et EP poolt Jyskile pakutud hind oleks KonkS § 16 p-ga 1  vastuolus.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          69.84375,
+          652.0814666748047
+        ],
+        [
+          527.4959716796875,
+          652.0814666748047
+        ],
+        [
+          527.4959716796875,
+          677.8814697265625
+        ],
+        [
+          69.84375,
+          677.8814697265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        652.0814666748047,
+        527.4959716796875,
+        677.8814697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 173,
+      "polygon": [
+        [
+          505.20312499999994,
+          781.5634765625
+        ],
+        [
+          524.5966796875,
+          781.5634765625
+        ],
+        [
+          524.5966796875,
+          793.5194091796875
+        ],
+        [
+          505.20312499999994,
+          793.5194091796875
+        ]
+      ],
+      "bbox": [
+        505.20312499999994,
+        781.5634765625,
+        524.5966796875,
+        793.5194091796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><sup> </sup> <sup>12</sup> 25.05.2020 EP vastuse alapunkt 12.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          69.26171875,
+          712.9214630126953
+        ],
+        [
+          222.66041564941406,
+          712.9214630126953
+        ],
+        [
+          222.66041564941406,
+          736.5234146118164
+        ],
+        [
+          69.26171875,
+          736.5234146118164
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        712.9214630126953,
+        222.66041564941406,
+        736.5234146118164
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup>13</sup> 10.07.2020 Target Masteri vastus.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.42578125,
+          737.400390625
+        ],
+        [
+          216.2162628173828,
+          737.400390625
+        ],
+        [
+          216.2162628173828,
+          748.0394134521484
+        ],
+        [
+          70.42578125,
+          748.0394134521484
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        737.400390625,
+        216.2162628173828,
+        748.0394134521484
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>14</sup> […]%.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.8239974975586,
+          748.6728515625
+        ],
+        [
+          107.27397918701172,
+          748.6728515625
+        ],
+        [
+          107.27397918701172,
+          759.5594100952148
+        ],
+        [
+          70.8239974975586,
+          759.5594100952148
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        748.6728515625,
+        107.27397918701172,
+        759.5594100952148
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>15</sup> […]%</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.8239974975586,
+          758.5400390625
+        ],
+        [
+          105.056640625,
+          758.5400390625
+        ],
+        [
+          105.056640625,
+          770.9594116210938
+        ],
+        [
+          70.8239974975586,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        758.5400390625,
+        105.056640625,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>5. Menetluse lõpetamine</b></h3>",
+      "page": 30,
+      "polygon": [
+        [
+          70.134765625,
+          72.3814697265625
+        ],
+        [
+          195.13198852539062,
+          72.3814697265625
+        ],
+        [
+          195.13198852539062,
+          84.3814697265625
+        ],
+        [
+          70.134765625,
+          84.3814697265625
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        72.3814697265625,
+        195.13198852539062,
+        84.3814697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodud põhjendustel lõpetab Konkurentsiamet Target Master OÜ kaebuse alusel alustatud  järelevalvemenetluse AS-i Eesti Post tegevuse suhtes KonkS § 63<sup>4</sup> lg 1 p-i 1 järgi.</p>",
+      "page": 30,
+      "polygon": [
+        [
+          69.84375,
+          99.494140625
+        ],
+        [
+          527.2439575195312,
+          99.494140625
+        ],
+        [
+          527.2439575195312,
+          125.806640625
+        ],
+        [
+          69.84375,
+          125.806640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        99.494140625,
+        527.2439575195312,
+        125.806640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 30,
+      "polygon": [
+        [
+          70.42578125,
+          168.564453125
+        ],
+        [
+          189.16015625,
+          168.564453125
+        ],
+        [
+          189.16015625,
+          179.85418701171875
+        ],
+        [
+          70.42578125,
+          179.85418701171875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        168.564453125,
+        189.16015625,
+        179.85418701171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar konkurentsiteenistuse juhataja –peadirektori asetäitja</p>",
+      "page": 30,
+      "polygon": [
+        [
+          69.26171875,
+          195.521484375
+        ],
+        [
+          325.1300048828125,
+          195.521484375
+        ],
+        [
+          325.1300048828125,
+          221.6005859375
+        ],
+        [
+          69.26171875,
+          221.6005859375
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        195.521484375,
+        325.1300048828125,
+        221.6005859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 30,
+      "polygon": [
+        [
+          505.20312499999994,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          783.5594100952148
+        ],
+        [
+          524.5966796875,
+          793.8974609375
+        ],
+        [
+          505.20312499999994,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        505.20312499999994,
+        783.5594100952148,
+        524.5966796875,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/7",
+        "3": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

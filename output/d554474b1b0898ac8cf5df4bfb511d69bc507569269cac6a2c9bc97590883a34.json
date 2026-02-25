@@ -1,0 +1,5387 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Figure/0",
+      "block_type": "Figure",
+      "html": "<p><img src='/page/0/Figure/0'></p>",
+      "page": 147,
+      "polygon": [
+        [
+          32.24453125,
+          29.06708984375
+        ],
+        [
+          167.97421875,
+          29.06708984375
+        ],
+        [
+          167.97421875,
+          86.05009765625
+        ],
+        [
+          32.24453125,
+          86.05009765625
+        ]
+      ],
+      "bbox": [
+        32.24453125,
+        29.06708984375,
+        167.97421875,
+        86.05009765625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Figure/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC+AcQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACsTX/F2heGFU6vqEVsXGUVzy30FbTMEUsxwAMk18ueKdbn8d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"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>2. Vergabekammer des Bundes VK 2 – 59/16</h1>",
+      "page": 147,
+      "polygon": [
+        [
+          69.26171875,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          125.806640625
+        ],
+        [
+          226.42031860351562,
+          156.499267578125
+        ],
+        [
+          69.26171875,
+          156.499267578125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        125.806640625,
+        226.42031860351562,
+        156.499267578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 147,
+      "polygon": [
+        [
+          272.97265625,
+          233.5234375
+        ],
+        [
+          334.8860168457031,
+          233.5234375
+        ],
+        [
+          334.8860168457031,
+          246.6800537109375
+        ],
+        [
+          272.97265625,
+          246.6800537109375
+        ]
+      ],
+      "bbox": [
+        272.97265625,
+        233.5234375,
+        334.8860168457031,
+        246.6800537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/3",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th></th><th></th></tr><tr><td>In dem Nachprüfungsverfahren</td><td></td></tr><tr><td>[…],</td><td>-<br/>Antragstellerin<br/>-</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>[…],</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 1)<br/>-</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 2) -</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 3) -</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 4)<br/>-</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 5) -</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 6) -</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegnerin<br/>zu 7) -</td></tr><tr><td>[…],</td><td>-<br/>Antragsgegner<br/>zu 8) -</td></tr></tbody></table>",
+      "page": 147,
+      "polygon": [
+        [
+          67.515625,
+          307.52734375
+        ],
+        [
+          495.89062499999994,
+          307.52734375
+        ],
+        [
+          495.89062499999994,
+          780.8152770996094
+        ],
+        [
+          67.515625,
+          780.8152770996094
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        307.52734375,
+        495.89062499999994,
+        780.8152770996094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          294.798828125,
+          80.75927734375
+        ],
+        [
+          315.169921875,
+          80.75927734375
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        80.75927734375,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…], - Antragsgegner zu 9) - […], - Antragsgegnerin zu 10) - […], - Antragsgegnerin zu 11) - […], - Antragsgegnerin zu 12) -</p>",
+      "page": 156,
+      "polygon": [
+        [
+          71.0078125,
+          132.384765625
+        ],
+        [
+          497.05468749999994,
+          132.384765625
+        ],
+        [
+          497.05468749999994,
+          273.3792724609375
+        ],
+        [
+          71.0078125,
+          273.3792724609375
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        132.384765625,
+        497.05468749999994,
+        273.3792724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">die Antragsgegnerinnen zu 2) bis zu 12) vertreten durch die Antragsgegnerin zu 1), diese wiederum vertreten durch die</p>",
+      "page": 156,
+      "polygon": [
+        [
+          69.84375,
+          298.8935546875
+        ],
+        [
+          477.26562499999994,
+          298.8935546875
+        ],
+        [
+          477.26562499999994,
+          336.6492919921875
+        ],
+        [
+          69.84375,
+          336.6492919921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        298.8935546875,
+        477.26562499999994,
+        336.6492919921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…],</p>",
+      "page": 156,
+      "polygon": [
+        [
+          70.134765625,
+          350.92926025390625
+        ],
+        [
+          91.1731185913086,
+          350.92926025390625
+        ],
+        [
+          91.1731185913086,
+          361.9692687988281
+        ],
+        [
+          70.134765625,
+          361.9692687988281
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        350.92926025390625,
+        91.1731185913086,
+        361.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>Verfahrensbevollmächtigte:</h3>",
+      "page": 156,
+      "polygon": [
+        [
+          71.880859375,
+          387.6982421875
+        ],
+        [
+          207.7540740966797,
+          387.6982421875
+        ],
+        [
+          207.7540740966797,
+          399.8892822265625
+        ],
+        [
+          71.880859375,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        71.880859375,
+        387.6982421875,
+        207.7540740966797,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…],</p>",
+      "page": 156,
+      "polygon": [
+        [
+          73.044921875,
+          414.1692810058594
+        ],
+        [
+          94.65312194824219,
+          414.1692810058594
+        ],
+        [
+          94.65312194824219,
+          425.20928955078125
+        ],
+        [
+          73.044921875,
+          425.20928955078125
+        ]
+      ],
+      "bbox": [
+        73.044921875,
+        414.1692810058594,
+        94.65312194824219,
+        425.20928955078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe \"Abschluss von Rahmenverträgen […] hat die 2. Vergabekammer des  Bundes durch die Vorsitzende Direktorin beim Bundeskartellamt Dr. Herlemann, den hauptamtlichen Beisitzer Regierungsdirektor Zeise und den ehrenamtlichen Beisitzer Freitag auf  die mündliche Verhandlung vom 18. Juli 2016 am 25. Juli 2016 beschlossen:</p>",
+      "page": 156,
+      "polygon": [
+        [
+          70.94400024414062,
+          451.423828125
+        ],
+        [
+          541.7117919921875,
+          451.423828125
+        ],
+        [
+          541.7117919921875,
+          522.138671875
+        ],
+        [
+          70.94400024414062,
+          522.138671875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        451.423828125,
+        541.7117919921875,
+        522.138671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Den Antragsgegnern und Antragsgegnerinnen wird untersagt, in Teillos 1, Fachlos K,  den Zuschlag zu erteilen. Ihnen wird aufgegeben, bei fortbestehender  Beschaffungsabsicht die Vergabeunterlagen des Teilloses 1, Fachlos K, unter  Beachtung der Rechtsauffassung der Vergabekammer abzuändern und insoweit das  Verfahren in den Stand vor Versendung der Vergabeunterlagen zurückzuversetzen und  denjenigen Unternehmen, die die Vergabeunterlagen abgerufen haben, erneut  Gelegenheit zur Angebotsabgabe zu geben.</p>",
+      "page": 156,
+      "polygon": [
+        [
+          98.9453125,
+          565.71875
+        ],
+        [
+          541.5147705078125,
+          565.71875
+        ],
+        [
+          541.5147705078125,
+          690.9392852783203
+        ],
+        [
+          98.9453125,
+          690.9392852783203
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        565.71875,
+        541.5147705078125,
+        690.9392852783203
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Übrigen wird der Nachprüfungsantrag zurückgewiesen.</p>",
+      "page": 156,
+      "polygon": [
+        [
+          115.82421874999999,
+          709.2041015625
+        ],
+        [
+          400.9093322753906,
+          709.2041015625
+        ],
+        [
+          400.9093322753906,
+          721.899284362793
+        ],
+        [
+          115.82421874999999,
+          721.899284362793
+        ]
+      ],
+      "bbox": [
+        115.82421874999999,
+        709.2041015625,
+        400.9093322753906,
+        721.899284362793
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">2. Die Antragstellerin trägt die Kosten (Gebühren und Auslagen) des Verfahrens sowie die  zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der</p>",
+      "page": 156,
+      "polygon": [
+        [
+          98.9453125,
+          741.68359375
+        ],
+        [
+          541.52587890625,
+          741.68359375
+        ],
+        [
+          541.52587890625,
+          771.8152923583984
+        ],
+        [
+          98.9453125,
+          771.8152923583984
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        741.68359375,
+        541.52587890625,
+        771.8152923583984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 101,
+      "polygon": [
+        [
+          294.798828125,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        80.58203125,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Antragsgegner und Antragsgegnerinnen zu 3/4; die Antragsgegner und  Antragsgegnerinnen tragen die Kosten (Gebühren und Auslagen) des Verfahrens sowie  die zur zweckentsprechenden Rechtsverfolgung notwendigen Aufwendungen der  Antragstellerin zu 1/4.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          114.07812499999999,
+          122.517578125
+        ],
+        [
+          541.5147705078125,
+          122.517578125
+        ],
+        [
+          541.5147705078125,
+          191.17926025390625
+        ],
+        [
+          114.07812499999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        114.07812499999999,
+        122.517578125,
+        541.5147705078125,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Die Hinzuziehung von Verfahrensbevollmächtigten durch die Antragstellerin sowie  durch die Antragsgegner und die Antragsgegnerinnen war notwendig.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          218.05926513671875
+        ],
+        [
+          541.5931396484375,
+          218.05926513671875
+        ],
+        [
+          541.5931396484375,
+          248.7353515625
+        ],
+        [
+          98.9453125,
+          248.7353515625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        218.05926513671875,
+        541.5931396484375,
+        248.7353515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>Gründe:</b></h4>",
+      "page": 101,
+      "polygon": [
+        [
+          281.703125,
+          286.96929931640625
+        ],
+        [
+          326.1499938964844,
+          286.96929931640625
+        ],
+        [
+          326.1499938964844,
+          298.0712890625
+        ],
+        [
+          281.703125,
+          298.0712890625
+        ]
+      ],
+      "bbox": [
+        281.703125,
+        286.96929931640625,
+        326.1499938964844,
+        298.0712890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I.</b></p>",
+      "page": 101,
+      "polygon": [
+        [
+          298.58203125,
+          317.8056640625
+        ],
+        [
+          307.9191589355469,
+          317.8056640625
+        ],
+        [
+          307.9191589355469,
+          328.96929931640625
+        ],
+        [
+          298.58203125,
+          328.96929931640625
+        ]
+      ],
+      "bbox": [
+        298.58203125,
+        317.8056640625,
+        307.9191589355469,
+        328.96929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegner und Antragsgegnerinnen (Ag) leiteten mit EU-Vergabebekanntmachung  vom […] ein offenes Vergabeverfahren zur Versorgung der radiologisch tätigen Vertragsarztpraxen […] Kontrastmitteln ein. Die Ausschreibung umfasst zwei Teillose, wovon allein  das Teillos 1 streitgegenständlich ist. Teillos 1 ist wiederum in 13 Fachlose unterteilt  (Fachlose A-O, Anm. d. Kammer: D und L sind als Losnamen nicht vergeben); hiervon sind die Fachlose C und K streitgegenständlich. Die Einteilung der Fachlose erfolgte wirkstoffübergreifend unter Berücksichtigung der jeweiligen Indikation und der therapeutischen  Vergleichbarkeit.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          79.46399688720703,
+          365.908203125
+        ],
+        [
+          541.7252807617188,
+          365.908203125
+        ],
+        [
+          541.7252807617188,
+          511.8692626953125
+        ],
+        [
+          79.46399688720703,
+          511.8692626953125
+        ]
+      ],
+      "bbox": [
+        79.46399688720703,
+        365.908203125,
+        541.7252807617188,
+        511.8692626953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ebenfalls am 18. Mai 2016 erhielt die Antragstellerin (ASt) die streitgegenständlichen  Vergabeunterlagen per Download.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          538.749267578125
+        ],
+        [
+          541.4212646484375,
+          538.749267578125
+        ],
+        [
+          541.4212646484375,
+          570.65234375
+        ],
+        [
+          98.9453125,
+          570.65234375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        538.749267578125,
+        541.4212646484375,
+        570.65234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Fachloseinteilung der Röntgenkontrastmittel und der zu erfüllenden Anforderungen  heißt es in Anlage 11, soweit vorliegend streitbefangen:</p>",
+      "page": 101,
+      "polygon": [
+        [
+          98.9453125,
+          595.6292877197266
+        ],
+        [
+          541.6160888671875,
+          595.6292877197266
+        ],
+        [
+          541.6160888671875,
+          626.9775390625
+        ],
+        [
+          98.9453125,
+          626.9775390625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        595.6292877197266,
+        541.6160888671875,
+        626.9775390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 328,
+      "polygon": [
+        [
+          295.010009765625,
+          80.1708984375
+        ],
+        [
+          314.6463317871094,
+          80.1708984375
+        ],
+        [
+          314.6463317871094,
+          91.79925537109375
+        ],
+        [
+          295.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        295.010009765625,
+        80.1708984375,
+        314.6463317871094,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>\"Anlage 11 –</i> <i>Fachloseinteilung Teillos 1</i></h4>",
+      "page": 328,
+      "polygon": [
+        [
+          112.33203124999999,
+          123.25927734375
+        ],
+        [
+          323.9964904785156,
+          123.25927734375
+        ],
+        [
+          323.9964904785156,
+          134.4404296875
+        ],
+        [
+          112.33203124999999,
+          134.4404296875
+        ]
+      ],
+      "bbox": [
+        112.33203124999999,
+        123.25927734375,
+        323.9964904785156,
+        134.4404296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Table/2",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Fachlos</th><th>C</th></tr><tr><td>Bezeichnung</td><td>Nicht ionische iodhaltige monomere niederosmolare</td></tr><tr><td></td><td>wasserlösliche nephrotrope Röntgenkontrastmittel</td></tr><tr><td>Anwendung</td><td>intraarteriell und intravenös und intrakavitär. Weitere</td></tr><tr><td></td><td>möglich</td></tr><tr><td>Anwendungsgebiete</td><td>-<br/>Urographie,</td></tr><tr><td></td><td>-<br/>Phlebographie, Arteriographie, Angiographie,</td></tr><tr><td></td><td>-<br/>Angiokardiographie,</td></tr><tr><td></td><td>-<br/>Digitale Substraktionsangiographie,</td></tr><tr><td></td><td>-<br/>CT-Kontrastverstärkung,</td></tr><tr><td></td><td>-<br/>Darstellung von Körperhöhlen</td></tr><tr><td>Wirkstoffe/</td><td>z.B. Iohexol (V08AB02)<br/>und/oder Iopamidol (V08AB04)</td></tr><tr><td>-kombinationen</td><td>und/oder Iopromid (V08AB05) und/oder Iomeprol</td></tr><tr><td>(ATC)</td><td>(V08AB10) und/oder weitere möglich</td></tr><tr><td>Darreichungsform</td><td>Injektionslösung<br/>oder vergleichbare Darreichungsformen</td></tr><tr><td>Konzentrationen</td><td>1. 300mg/ml-320mg/ml</td></tr><tr><td>müssen kumulativ</td><td>2. >320mg/ml-370mg/ml (es müssen zumindest</td></tr><tr><td>angeboten werden</td><td>gemeinsam alle Anwendungsgebiete abgedeckt sein)</td></tr><tr><td>Gebiet S-H /</td><td>zu Konzentration 1. Mindestanforderung: 50 ml oder<br/>75 ml,</td></tr><tr><td>Packungsgröße</td><td>und 100 ml und 200 ml und 500<br/>ml</td></tr><tr><td></td><td>100ml und 200<br/>zu Konzentration 2. Mindestanforderung:</td></tr><tr><td></td><td>ml und 500ml</td></tr><tr><td></td><td></td></tr><tr><td>(…)</td><td></td></tr><tr><th>Fachlos</th><th>K</th></tr><tr><td>Bezeichnung</td><td>Paramagnetische extrazelluläre makrozyklische</td></tr><tr><td></td><td>Kontrastmittel für MRT</td></tr><tr><td>Anwendung</td><td>Intravenös. Weitere möglich</td></tr><tr><td>NSF Risiko</td><td>Niedriges NSF Risiko</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>Anwendungsgebiete</td><td>-<br/>Kraniale und spinale magnetische Resonanztomographie,</td></tr><tr><td></td><td>-<br/>MRT anderer Organe (Leber, Niere, Pankreas, Becken,</td></tr><tr><td></td><td>Lunge, Herz, Brust, muskuloskelettales System, weitere</td></tr><tr><td></td><td>möglich)</td></tr><tr><td></td><td>-<br/>Angiographie</td></tr><tr><td>Wirkstoffe/</td><td>z.B. […]<br/>(V08CA02) und/oder […]<br/>(V08CA04) und/oder […]</td></tr><tr><td>-kombinationen</td><td>(V08CA09) und/oder weitere möglich</td></tr><tr><td>(ATC)</td><td></td></tr><tr><td>Darreichungsform</td><td>Injektionslösung<br/>oder vergleichbare Darreichungsformen</td></tr><tr><td>Konzentration</td><td>alle Konzentrationen möglich</td></tr><tr><td>Packungsgröße</td><td>Mindestanforderung: 10 ml oder<br/>15 ml, und 20 ml oder<br/>30</td></tr><tr><td></td><td>ml, und 60 ml oder<br/>65 ml oder<br/>100 ml</td></tr><tr><td></td><td></td></tr></tbody></table>",
+      "page": 328,
+      "polygon": [
+        [
+          114.54374999999999,
+          155.69460571289062
+        ],
+        [
+          541.9875,
+          155.69460571289062
+        ],
+        [
+          541.9875,
+          764.0936022949219
+        ],
+        [
+          114.54374999999999,
+          764.0936022949219
+        ]
+      ],
+      "bbox": [
+        114.54374999999999,
+        155.69460571289062,
+        541.9875,
+        764.0936022949219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          294.798828125,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        80.58203125,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Zuschlag sollte gemäß Ziffer II.2.5) der Bekanntmachung und Ziffer 17 der  Bewerbungsbedingungen auf das wirtschaftlich günstigste Angebot (Preis pro Milliliter  Wirkstoff) erteilt werden.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          122.517578125
+        ],
+        [
+          541.6505737304688,
+          122.517578125
+        ],
+        [
+          541.6505737304688,
+          172.21929931640625
+        ],
+        [
+          98.9453125,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.517578125,
+        541.6505737304688,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag haben in Anlage 4a zu den Bewerbungsbedingungen die im Jahr 2015 bestellten  Gesamtmilliliter-Volumina für jedes einzelne Fachlos ausgewiesen. In denjenigen Losen, in  denen als Mindestanforderungen zwei unterschiedlich konzentrierte Röntgenkontrastmittel (wie hier bei Fachlos C) verlangt worden waren, sind die Volumina bezogen auf die  jeweiligen Konzentrationen angegeben worden (Gesamt: 4.348.625 ml, davon 1.803.625  ml für die Konzentration 300-320 mg/ml und 2.545.000 ml für die Konzentration &gt;320-370  mg/ml). Nach Hinweis Nr. 2 zu Anlage 8a – Preisblätter ist pro Fachlos ein produktunabhängiger einheitlicher Preis pro ml anzubieten.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          199.09930419921875
+        ],
+        [
+          541.7297973632812,
+          199.09930419921875
+        ],
+        [
+          541.7297973632812,
+          343.00927734375
+        ],
+        [
+          98.9453125,
+          343.00927734375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        199.09930419921875,
+        541.7297973632812,
+        343.00927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Verlauf des Vergabeverfahrens wurden verschiedene Bieterfragen gestellt und von der  Vergabestelle beantwortet. Die ASt stellte am 25. Mai 2016 folgende Frage:</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          369.8892822265625
+        ],
+        [
+          541.3939819335938,
+          369.8892822265625
+        ],
+        [
+          541.3939819335938,
+          399.8892822265625
+        ],
+        [
+          98.9453125,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        369.8892822265625,
+        541.3939819335938,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"<i>Uns ist nicht klar, ob und inwieweit die Fachlose auf bestimmte Anwendungsgebiete beschränkt </i> <i>sind. Die Anwendungsgebiete werden in der Anlage 11 nur durch ein Aufzählungszeichen </i> <i>getrennt. Es stellt sich die Frage, ob die Arzneimittel in allen aufgeführten Anwendungsgebieten </i> <i>zugelassen sein müssen oder ob es ausreicht, dass das Produkt nur in einem bzw. einem Teil </i> <i>der Anwendungsgebiete zugelassen ist. Bitte nehmen Sie dazu Stellung, wie die Auflistungen der </i> <i>Anwendungsgebiete und deren Trennung durch ein Aufzählungszeichen zu verstehen ist.</i></p>",
+      "page": 135,
+      "polygon": [
+        [
+          112.91406249999999,
+          426.3447265625
+        ],
+        [
+          541.4288330078125,
+          426.3447265625
+        ],
+        [
+          541.4288330078125,
+          494.5927734375
+        ],
+        [
+          112.91406249999999,
+          494.5927734375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        426.3447265625,
+        541.4288330078125,
+        494.5927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diese Frage beantworteten die Ag mit Schreiben an die Bieter vom 2. Juni 2016 wie folgt:</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          508.50927734375
+        ],
+        [
+          534.637451171875,
+          508.50927734375
+        ],
+        [
+          534.637451171875,
+          519.5492858886719
+        ],
+        [
+          98.9453125,
+          519.5492858886719
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        508.50927734375,
+        534.637451171875,
+        519.5492858886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Die in Anlage 11 unter Anwendungsgebiete aufgeführten Indikationen für die entsprechenden </i> <i>Kontrastmittel sind kumulativ zu erfüllen. Sie beziehen sich auf die in den jeweiligen </i> <i>Fachinformationen aufgeführten zugelassenen Anwendungsgebiete, wobei sie im Wortlaut nicht </i> <i>genau übereinstimmen müssen, jedoch im medizinischen Sinne für die</i> <i>entsprechenden </i> <i>Anwendungsgebiete verwendet werden können und von der Zulassung umfasst sind. Bei den </i> <i>aufgezählten Anwendungsgebieten handelt es sich um Mindestanforderungen, die das </i> <i>Kontrastmittel erfüllen muss. Ist ein Kontrastmittel für zusätzliche Anwendungsgebiete </i> <i>zugelassen, ist dies unschädlich. Umfasst das Kontrastmittel nicht alle als Mindestanforderungen </i> <i>genannten Anwendungsgebiete, kann es in dem betreffenden Fachlos nicht angeboten werden.\"</i></p>",
+      "page": 135,
+      "polygon": [
+        [
+          112.91406249999999,
+          544.6513366699219
+        ],
+        [
+          541.38720703125,
+          544.6513366699219
+        ],
+        [
+          541.38720703125,
+          664.390625
+        ],
+        [
+          112.91406249999999,
+          664.390625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        544.6513366699219,
+        541.38720703125,
+        664.390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 27. Mai 2016 rügte die ASt gegenüber der Ag, dass in Teillos 1,  Fachlos C Kontrastmittel zusammengefasst worden seien, die sich wegen  unterschiedlicher Verbrauchsmengen in Bezug auf die Zielbeladung mit Iod wirtschaftlich  nicht miteinander vergleichen ließen. Mit Schreiben vom 10. Juni 2016 teilten die Ag mit,  dass sie dieser Rüge der ASt nicht abhelfen werden.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          683.302734375
+        ],
+        [
+          541.7290649414062,
+          683.302734375
+        ],
+        [
+          541.7290649414062,
+          772.6552886962891
+        ],
+        [
+          98.9453125,
+          772.6552886962891
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        683.302734375,
+        541.7290649414062,
+        772.6552886962891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 138,
+      "polygon": [
+        [
+          294.798828125,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        80.58203125,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt rügte am 10. Juni 2016 gegenüber den Ag weiterhin, dass die  Leistungsbeschreibung in Bezug auf das Fachlos K, welches nach Anlage 11 auch den  Wirkstoff […] umfasse, widersprüchlich sei. Denn die Ag hätten als abzudeckendes  Anwendungsgebiet (u.a.) in Fachlos K auch die Angiographie genannt, für das das einzig  für den Wirkstoff […] in Betracht kommende Präparat […] des Herstellers […] jedoch keine  Zulassung besitze. Diese Unklarheit wirke sich auch auf die Angebotskalkulation der ASt  aus, da unklar sei, ob […] in den Vertragsarztpraxen ausgetauscht werde oder nicht. Auch  dieser Rüge halfen die Ag nicht ab und teilten dies der ASt mit Schreiben vom 16. Juni 2016  mit.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          98.9453125,
+          122.9287109375
+        ],
+        [
+          541.73388671875,
+          122.9287109375
+        ],
+        [
+          541.73388671875,
+          286.1292724609375
+        ],
+        [
+          98.9453125,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.9287109375,
+        541.73388671875,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/138",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit Schreiben ihrer Verfahrensbevollmächtigten vom 27. Juni 2016 beantragte die ASt bei  der Vergabekammer des Bundes die Einleitung eines Nachprüfungsverfahrens hinsichtlich  des Teilloses 1 und dort hinsichtlich der Fachlose C und K. Die Vergabekammer hat den  Nachprüfungsantrag am gleichen Tag an die Ag übermittelt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt trägt vor, dass die Ausschreibungskonzeption in Bezug auf das Fachlos C  (iodhaltige Kontrastmittel) vergaberechtswidrig sei, weil die Ag die bei den  unterschiedlich konzentrierten Röntgenkontrastmitteln die in der Realität zum Tragen  kommenden Verbrauchsmengen nicht berücksichtige. Damit drohe die fehlende  wirtschaftliche Vergleichbarkeit der Angebote.</li></ul></li></ul></p>",
+      "page": 138,
+      "polygon": [
+        [
+          79.46399688720703,
+          312.8720703125
+        ],
+        [
+          541.732421875,
+          312.8720703125
+        ],
+        [
+          541.732421875,
+          494.82928466796875
+        ],
+        [
+          79.46399688720703,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        79.46399688720703,
+        312.8720703125,
+        541.732421875,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Radiologen würden zur bei der Anwendung der Kontrastmittel zunächst die für  eine optimale Gewebekontrastierung erforderliche Iod-Beladung des Patienten  ermitteln. Diese hänge ab von patientenindividuellen Faktoren, wie etwa dem  Gewicht, Alter, eingeschränkte Nierenfunktion etc. Daneben seien technische  Faktoren wie Untersuchungstechnik, technische Möglichkeiten des CT, Kochsalz-Nachinjektion, Art der Bildrekonstruktion etc. maßgeblich. In den Fachinformationen  befänden sich daher keine exakten ml-Angaben, sondern Spannen bei den jeweiligen  Anwendungsgebieten.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          520.494140625
+        ],
+        [
+          541.69189453125,
+          520.494140625
+        ],
+        [
+          541.69189453125,
+          665.6192932128906
+        ],
+        [
+          126.88281249999999,
+          665.6192932128906
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        520.494140625,
+        541.69189453125,
+        665.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Habe der Radiologe unter Berücksichtigung dieser Faktoren seine Ziel-Iod-Beladung  ermittelt, ermittle er die zu applizierende Kontrastmittelmenge in einem rein  mathematischen Verfahren. Je höher die Iod-Konzentration, desto niedriger die  Verbrauchsmenge. Diese werde in der radiologischen Praxis durch Protokolle des  Kontrastmittel-Injektors als Vorschlag vorgegeben, an welchen sich die Radiologen</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          692.4992828369141
+        ],
+        [
+          541.7564697265625,
+          692.4992828369141
+        ],
+        [
+          541.7564697265625,
+          779.9189453125
+        ],
+        [
+          126.88281249999999,
+          779.9189453125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        692.4992828369141,
+        541.7564697265625,
+        779.9189453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          294.798828125,
+          79.759765625
+        ],
+        [
+          315.169921875,
+          79.759765625
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        79.759765625,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">jedoch in aller Regel hielten. Zum Beleg für diese Vorgehensweise lege sie eine  Stellungnahme der […] vor.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          127.58000183105469,
+          121.2841796875
+        ],
+        [
+          541.663818359375,
+          121.2841796875
+        ],
+        [
+          541.663818359375,
+          153.25927734375
+        ],
+        [
+          127.58000183105469,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        127.58000183105469,
+        121.2841796875,
+        541.663818359375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Den Ag sei es daher verwehrt, den Wirtschaftlichkeitsvergleich der Angebote allein  auf der Grundlage eines ml-Preises durchzuführen. Denn dieser vernachlässige die  zu applizierende Verbrauchsmenge. Kontrastmittel mit einer höheren Iod-Konzentration, wie sie auch die ASt vertreibe, würden dadurch gegenüber niedriger  konzentrierten Kontrastmitteln benachteiligt.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          179.6650390625
+        ],
+        [
+          541.5571899414062,
+          179.6650390625
+        ],
+        [
+          541.5571899414062,
+          267.6474609375
+        ],
+        [
+          126.88281249999999,
+          267.6474609375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        179.6650390625,
+        541.5571899414062,
+        267.6474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dass nach den Fachinformationen für […], dem Produkt der ASt, bei der  \"Computertomographie Kopf, Erwachsene\" sowohl für die 300 mg- wie auch für die  370 mg-Variante die Verabreichung eines fixen Volumens von jeweils 100 ml  vorgesehen sei, liege – so der Vortrag der ASt in der mündlichen Verhandlung – wohl  daran, dass die Größe des Kopfes beim erwachsenen Menschen sich nicht sonderlich  unterscheide. Im Übrigen würden die Radiologen sich ohnehin nicht an den Angaben  in den Fachinformationen orientieren, so dass es auf die darin enthaltenen Daten nicht entscheidend bei der Anwendung der Kontrastmittel ankomme.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          293.1376953125
+        ],
+        [
+          541.7334594726562,
+          293.1376953125
+        ],
+        [
+          541.7334594726562,
+          437.9292907714844
+        ],
+        [
+          126.88281249999999,
+          437.9292907714844
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        293.1376953125,
+        541.7334594726562,
+        437.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Dieser Sichtweise stehe auch nicht der Beschluss des OLG Düsseldorf vom 29. Juli  2015 (VII-Verg 13/15) entgegen. Zwar habe sich der Senat zu den auch in der  Pilotausschreibung verwendeten Konzentrationsspannen geäußert. Der Senat habe  jedoch lediglich ausgeführt, dass sich die Konzentrationsschwankungen in der Praxis  nicht auswirken würden und dass sich die Angaben in den Fachinformationen auf  grob festgelegte Spannen beschränkten, welche dann durch den Arzt ausgefüllt  würden. Diese Ausfüllung der Konzentrationsspanne resultiere aber in der Festlegung  der Iod-Beladung auf einer ersten Stufe, so dass sich die Konzentrationsunterschiede  in der Praxis bei der Berechnung der von dem jeweiligen Kontrastmittel benötigten  Menge sehr wohl auswirkten. Die Unterschiedlichkeit dieser Dosierung bei  Betrachtung eines einzelnen Patienten führe auch zu entsprechenden  Preisunterschieden der in Fachlos C zusammengefassten Wirkstoffe. So weise das  Präparat der ASt […] etwa gegenüber dem Konkurrenzprodukt […] einen  Kostenvorteil von […] € auf. Die Ag erteilten auf der Grundlage der angelegten  Wertungssystematik daher im Ergebnis nicht den Zuschlag auf das Produkt mit dem  besten Preis-Leistungs-Verhältnis. Sie müssten daher – entgegen der Aussagen des  OLG Düsseldorf – einen Korrekturfaktor zugunsten höher konzentrierter</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          464.8292541503906
+        ],
+        [
+          541.7535400390625,
+          464.8292541503906
+        ],
+        [
+          541.7535400390625,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        464.8292541503906,
+        541.7535400390625,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 138,
+      "polygon": [
+        [
+          294.798828125,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          80.58203125
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        80.58203125,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kontrastmittel einführen, welcher den geringeren Verbrauch abbilde. Nach den  Berechnungen der ASt liege dieser bei ca. 5 %.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          120.873046875
+        ],
+        [
+          541.4697265625,
+          120.873046875
+        ],
+        [
+          541.4697265625,
+          153.25927734375
+        ],
+        [
+          126.88281249999999,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        120.873046875,
+        541.4697265625,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Bezug auf die Einbeziehung des Wirkstoffes […] in das Fachlos K erweise sich die  Leistungsbeschreibung als widersprüchlich. Die Ag führten den Wirkstoff beispielhaft  in Anlage 11 für das Fachlos K auf, obwohl […] nicht für die von den Kontrastmitteln  auch abzudeckende Angiographie als einem von drei Anwendungsgebieten  zugelassen sei. Die von den Ag vorgenommene Auslegung der Fachinformation des  Herstellers […] verbiete sich schon im Ansatz. Vielmehr hätte der Hersteller, wenn  sein Produkt für Angiographie zugelassen wäre, ausdrücklich diesen Begriff in der  Fachinformation verwenden müssen. Dies verlange das Gebot der Eindeutigkeit für  die Fachinformationen. Das Bundesamt für Arzneimittel und Medizinprodukte  bestätige in einem Schreiben vom 29. Januar 2016 (Anlage C 8 zum  Nachprüfungsantrag vom 27. Juni 2016), dass […] für die kontrastverstärkende MR-Angiographie nicht zugelassen sei.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          179.25390625
+        ],
+        [
+          541.7300415039062,
+          179.25390625
+        ],
+        [
+          541.7300415039062,
+          399.8892822265625
+        ],
+        [
+          126.88281249999999,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        179.25390625,
+        541.7300415039062,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…] habe selbst gegenüber der ASt ausdrücklich mit Schreiben vom 29. Juni 2016  (Anlage C11 zum Schriftsatz der ASt vom 12. Juli 2016) erklärt, dass</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          425.5224609375
+        ],
+        [
+          541.537109375,
+          425.5224609375
+        ],
+        [
+          541.537109375,
+          456.8892822265625
+        ],
+        [
+          126.88281249999999,
+          456.8892822265625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        425.5224609375,
+        541.537109375,
+        456.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"</i><i>[…]</i>\"</p>",
+      "page": 138,
+      "polygon": [
+        [
+          124.84570312499999,
+          482.09320068359375
+        ],
+        [
+          151.65631103515625,
+          482.09320068359375
+        ],
+        [
+          151.65631103515625,
+          493.1492919921875
+        ],
+        [
+          124.84570312499999,
+          493.1492919921875
+        ]
+      ],
+      "bbox": [
+        124.84570312499999,
+        482.09320068359375,
+        151.65631103515625,
+        493.1492919921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Da somit unstreitig sein dürfte, dass […] nicht zum Umfang des Fachloses K zählen  könne, liege der Widerspruch in Anlage 11 auf der Hand. Es sei darüber hinaus für  die Bieter bei Erstellung des Angebots nicht klar gewesen, welcher Bieterkreis  vorliegend in Betracht komme, namentlich ob sich der Hersteller […] mit seinem  Kontrastmittel […] werde beteiligen können oder nicht.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          125.71874999999999,
+          518.849609375
+        ],
+        [
+          541.70703125,
+          518.849609375
+        ],
+        [
+          541.70703125,
+          606.9092712402344
+        ],
+        [
+          125.71874999999999,
+          606.9092712402344
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        518.849609375,
+        541.70703125,
+        606.9092712402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus der falschen Verortung von […] in Fachlos K folge auch, dass die  Abgabevolumina in Anlage 4a unzutreffend bekannt gegeben worden seien, da sie  Präparate umfassten, die nicht ausschreibungsgegenständlich seien. Eine fehlerfreie  Preisermittlung sei den Bietern somit nicht möglich gewesen. Den Bieter sei unklar  gewesen, wie groß das Abgabevolumen sei; werde […] von der Ausschreibung nicht  umfasst, käme diesem Kontrastmittel ein <i>\"Solitärstatus\"</i> zu. Die Radiologen könnten  es weiterhin einsetzen, ohne dass es von der streitgegenständlichen Ausschreibung  umfasst wäre.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          632.7333984375
+        ],
+        [
+          541.717041015625,
+          632.7333984375
+        ],
+        [
+          541.717041015625,
+          777.6952819824219
+        ],
+        [
+          126.88281249999999,
+          777.6952819824219
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        632.7333984375,
+        541.717041015625,
+        777.6952819824219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 122,
+      "polygon": [
+        [
+          294.798828125,
+          79.759765625
+        ],
+        [
+          315.169921875,
+          79.759765625
+        ],
+        [
+          315.169921875,
+          91.79925537109375
+        ],
+        [
+          294.798828125,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        294.798828125,
+        79.759765625,
+        315.169921875,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entgegen dem Vortrag der Ag sei die ASt mit ihrem Vortrag in Bezug auf den  Vergaberechtsverstoß in Fachlos K nicht präkludiert. Denn die ASt habe erst durch  die Antwort auf die Bieterfrage 3 vom 2. Juni 2016 erkennen können, dass die Ag die  in Anlage 11 genannten Anwendungsgebiete kumulativ verlange. Bis dahin habe eine  begründete Unklarheit bestanden, wie die Anforderung zu verstehen sei. Dem  könnten die Ag auch nicht die Vergabeunterlagen von Kontrastmittel-Ausschreibungen anderer […] entgegenhalten. Daraus folge keine positive Kenntnis  der ASt, dass auch bei der streitgegenständlichen Ausschreibung die  Anwendungsgebiete kumulativ durch das jeweilige Kontrastmittel abzudecken seien.  Die von den Ag angeführte Ausschreibung der […] sei im Übrigen auch keineswegs  identisch mit der hiesigen Ausschreibung. In der Anlage 11 der Ausschreibung der  […] hätte sich noch die Zeile <i>\"Eigenschaften\"</i> befunden, welche vorliegend durch  <i>\"NSF-Risiko\"</i> ersetzt worden sei. Die Darreichungsform \"Infusionsflasche\" sei durch  \"Injektionslösung\" ersetzt worden. Als zusätzliche Mindestanforderung sei die  Packungsgröße <i>\"60 ml\"</i> neu aufgenommen worden. Diese minimalen Abweichungen  hätten von der ASt daher besonders sorgfältig geprüft werden müssen. Außerdem  habe die ASt schon bei der Ausschreibung der […] den Widerspruch (kumulative  Abdeckung der Anwendungsgebiete vs. Einbeziehung des Wirkstoffes […]) geltend  gemacht, so dass sie davon habe ausgehen dürfen, dass die Ag diesen Widerspruch  im Rahmen der hiesigen Ausschreibung beseitigt habe. Auch die Bewerbungsbedingungen träfen keine eindeutigen Aussagen in Bezug auf die Überschneidungen  der Indikationen und den hierfür erforderlichen Zulassungen der jeweiligen Wirkstoffe.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          126.88281249999999,
+          140.607421875
+        ],
+        [
+          541.7266845703125,
+          140.607421875
+        ],
+        [
+          541.7266845703125,
+          551.7092895507812
+        ],
+        [
+          126.88281249999999,
+          551.7092895507812
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        140.607421875,
+        541.7266845703125,
+        551.7092895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h4>Die ASt beantragt zuletzt,</h4>",
+      "page": 122,
+      "polygon": [
+        [
+          126.30078124999999,
+          578.7092895507812
+        ],
+        [
+          252.35911560058594,
+          578.7092895507812
+        ],
+        [
+          252.35911560058594,
+          589.9755859375
+        ],
+        [
+          126.30078124999999,
+          589.9755859375
+        ]
+      ],
+      "bbox": [
+        126.30078124999999,
+        578.7092895507812,
+        252.35911560058594,
+        589.9755859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. die Vergabestelle anzuweisen, das Vergabeverfahren für das Teillos 1,  Fachlose C und K, aufzuheben,</p>",
+      "page": 122,
+      "polygon": [
+        [
+          155.984375,
+          616.6292877197266
+        ],
+        [
+          541.6376953125,
+          616.6292877197266
+        ],
+        [
+          541.6376953125,
+          646.6292877197266
+        ],
+        [
+          155.984375,
+          646.6292877197266
+        ]
+      ],
+      "bbox": [
+        155.984375,
+        616.6292877197266,
+        541.6376953125,
+        646.6292877197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>hilfsweise:</h4>",
+      "page": 122,
+      "polygon": [
+        [
+          183.33984375,
+          666.4462890625
+        ],
+        [
+          235.05776977539062,
+          666.4462890625
+        ],
+        [
+          235.05776977539062,
+          677.6192932128906
+        ],
+        [
+          183.33984375,
+          677.6192932128906
+        ]
+      ],
+      "bbox": [
+        183.33984375,
+        666.4462890625,
+        235.05776977539062,
+        677.6192932128906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">das Vergabeverfahren für das Teillos 1, Fachlose C und K, in das Stadium  vor Versendung der Vergabeunterlagen an die Bieter zurückzuversetzen  und der Vergabestelle aufzugeben, die EU-Vergabebekanntmachung</p>",
+      "page": 122,
+      "polygon": [
+        [
+          183.921875,
+          695.63671875
+        ],
+        [
+          541.7137451171875,
+          695.63671875
+        ],
+        [
+          541.7137451171875,
+          746.4952850341797
+        ],
+        [
+          183.921875,
+          746.4952850341797
+        ]
+      ],
+      "bbox": [
+        183.921875,
+        695.63671875,
+        541.7137451171875,
+        746.4952850341797
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          292.010009765625,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        80.58203125,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">sowie die Vergabeunterlagen unter Berücksichtigung der Rechtsauffassung der Vergabekammer zu überarbeiten und sodann im EU-Amtsblatt zu korrigieren bzw. an die Bieter zu versenden,</p>",
+      "page": 114,
+      "polygon": [
+        [
+          182.7578125,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          122.517578125
+        ],
+        [
+          538.9609375,
+          172.21929931640625
+        ],
+        [
+          182.7578125,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        182.7578125,
+        122.517578125,
+        538.9609375,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/113",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Akteneinsicht gemäß § 165 GWB zu gewähren,</li><li block-type=\"ListItem\">3. auszusprechen, dass die Hinzuziehung eines Verfahrensbevollmächtigten für die ASt notwendig gewesen ist,</li></ul></p>",
+      "page": 114,
+      "polygon": [
+        [
+          154.8203125,
+          191.1767578125
+        ],
+        [
+          538.9609375,
+          191.1767578125
+        ],
+        [
+          538.9609375,
+          253.2578125
+        ],
+        [
+          154.8203125,
+          253.2578125
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        191.1767578125,
+        538.9609375,
+        253.2578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>b) Die Ag beantragen,</h4>",
+      "page": 114,
+      "polygon": [
+        [
+          98.9453125,
+          292.1292724609375
+        ],
+        [
+          222.47911071777344,
+          292.1292724609375
+        ],
+        [
+          222.47911071777344,
+          303.16925048828125
+        ],
+        [
+          98.9453125,
+          303.16925048828125
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        292.1292724609375,
+        222.47911071777344,
+        303.16925048828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/114",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. den Nachprüfungsantrag zurückzuweisen,</li><li block-type=\"ListItem\">2. die Kosten des Verfahrens einschließlich der zur zweckentsprechenden  Rechtsverteidigung notwendigen Aufwendungen der Ag der ASt  aufzuerlegen,</li><li block-type=\"ListItem\">3. die Hinzuziehung eines anwaltlichen Bevollmächtigten durch die Ag für  notwendig zu erklären.</li></ul></p>",
+      "page": 114,
+      "polygon": [
+        [
+          154.8203125,
+          323.08929443359375
+        ],
+        [
+          541.6860961914062,
+          323.08929443359375
+        ],
+        [
+          541.6860961914062,
+          452.9292907714844
+        ],
+        [
+          154.8203125,
+          452.9292907714844
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        323.08929443359375,
+        541.6860961914062,
+        452.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag tragen vor, der Nachprüfungsantrag sei bereits teilweise unzulässig.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          125.71874999999999,
+          510.9092712402344
+        ],
+        [
+          497.6039123535156,
+          510.9092712402344
+        ],
+        [
+          497.6039123535156,
+          521.9492797851562
+        ],
+        [
+          125.71874999999999,
+          521.9492797851562
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        510.9092712402344,
+        497.6039123535156,
+        521.9492797851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Soweit sich die ASt gegen den […] als Antragsgegner richte, sei der  Nachprüfungsantrag mangels Auftraggebereigenschaft unzulässig; der […] handle  als bloße Vergabestelle.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          126.88281249999999,
+          548.451171875
+        ],
+        [
+          541.7261962890625,
+          548.451171875
+        ],
+        [
+          541.7261962890625,
+          597.7892913818359
+        ],
+        [
+          126.88281249999999,
+          597.7892913818359
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        548.451171875,
+        541.7261962890625,
+        597.7892913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die ASt sei mit ihrem Vortrag zudem präkludiert, soweit sie einen Vergaberechtsverstoß durch die Einbeziehung des Wirkstoffes […] in das Fachlos K behaupte. Denn  sie habe die Rüge – nach Durchsicht der Vergabeunterlagen am 18. Mai 2016 – nicht  innerhalb der 10-Tages-Frist des § 160 Abs. 3 S. 1 Nr. 1 GWB erhoben. Die  vorliegende Problematik sei deckungsgleich mit der – ebenfalls von der ASt – angegriffenen Pilotausschreibung der […], so dass die ASt bereits bei Durchsicht der  Anlage 11 von der kumulativen Anforderung sämtlicher Anwendungsgebiete habe</p>",
+      "page": 114,
+      "polygon": [
+        [
+          126.88281249999999,
+          624.6692657470703
+        ],
+        [
+          541.7310180664062,
+          624.6692657470703
+        ],
+        [
+          541.7310180664062,
+          749.6152877807617
+        ],
+        [
+          126.88281249999999,
+          749.6152877807617
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        624.6692657470703,
+        541.7310180664062,
+        749.6152877807617
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7890625,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ausgehen müssen. Eine <i>\"begründete Unklarheit\"</i> aufgrund der Verwendung von Aufzählungszeichen in der Tabelle, wie es die ASt vortrage, bis zur Antwort auf die von  der ASt selbst am 25. Mai 2016 <i>\"vorsorglich\"</i> gestellten Bieterfrage am 2. Juni 2016  habe daher schon im Ansatz nicht bestanden. Die ASt habe schon bei der  Pilotausschreibung der […] den Ausschluss des Bieters […] mit der Argumentation  verfolgt, dass das von ihm vertriebene Kontrastmittel nicht für Angiographie  zugelassen sei. Grundlage des damals behaupteten Verstoßes seien dieselben  Informationen, über welche die ASt im vorliegenden Verfahren bis zur Antwort der Ag  am 2. Juni 2016 im Unklaren gewesen sein wolle. Dies sei unplausibel.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.517578125
+        ],
+        [
+          541.7291870117188,
+          122.517578125
+        ],
+        [
+          541.7291870117188,
+          286.1292724609375
+        ],
+        [
+          126.88281249999999,
+          286.1292724609375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.517578125,
+        541.7291870117188,
+        286.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag sei auch in der Sache unbegründet, soweit die ASt die  fehlende Berücksichtigung der unterschiedlichen Konzentrationsspannen iodhaltiger  Kontrastmittel in Fachlos C angreife. Die Simplizität des Vortrags der ASt, welcher  sich allein an der Iod-Konzentration orientiere, sei so nicht haltbar. Die zu  applizierende Menge orientiere sich auch an den übrigen pharmakologischen  Eigenschaften der Kontrastmittel, wie etwa der Viskosität und der Osmolalität. Die Ag  hätten sich zudem an den Fachinformationen der Kontrastmittel orientiert, welche für  bestimmte Untersuchungen Verbrauchsspannen vorsähen. Welche Menge der Arzt  konkret einsetze, hänge von den Daten des Patienten und den Erfahrungen des  Arztes ab. Anschließend lege er Protokolle an den Injektor an, der eine konkrete  Menge vorschlage. Auf das Ergebnis könne der Arzt aber Einfluss nehmen und in  Abhängigkeit etwa von der Qualität seiner Gerät nochmals modifizieren. Für die  Ausschreibung sei daher nicht die Untersuchung eines einzelnen Patienten, sondern  vielmehr die Gesamtheit maßgeblich.</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          311.638671875
+        ],
+        [
+          541.7396240234375,
+          311.638671875
+        ],
+        [
+          541.7396240234375,
+          570.6692810058594
+        ],
+        [
+          126.88281249999999,
+          570.6692810058594
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        311.638671875,
+        541.7396240234375,
+        570.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Studien belegten, dass es bei der Bildgebung keinerlei Unterschied mache, ob – bei  gleicher Menge – Kontrastmittel mit einer Konzentration von 350 mg/ml Iod bzw. 370  mg/ml Iod eingesetzt würden (vgl. Anlage AG 5). Die geringen Unterschiede bei der  Gesamtiodmenge seien für die Bildqualität ohne Bedeutung. Größeren Einfluss auf  das Protokoll des Radiologen hätten Art und Alter des Injektors und des CT Geräts  sowie die Schnelligkeit der Injektion. Dies sei auch der Grund für die Nennung von  Verbrauchsspannen in den Fachinformationen. Daher könne der gleiche Patient in  zwei unterschiedlichen radiologischen Praxen zwei unterschiedliche Mengen des  gleichen Kontrastmittels für die gleiche Untersuchung bekommen. Er könne aber immer Kontrastmittel mit einer Konzentration von 350 mg/ml Iod bzw. 370 mg/ml Iod</p>",
+      "page": 141,
+      "polygon": [
+        [
+          126.88281249999999,
+          596.96484375
+        ],
+        [
+          541.7281494140625,
+          596.96484375
+        ],
+        [
+          541.7281494140625,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        596.96484375,
+        541.7281494140625,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 140,
+      "polygon": [
+        [
+          292.010009765625,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        80.58203125,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bekommen, ohne dass dies tatsächlich einen Unterschied in der Bildgebung machte  oder vergaberechtlich angreifbar wäre. Dies hätten auch die erkennende Kammer  und das OLG Düsseldorf in der Pilotausschreibung der […] so gesehen. Dagegen  bringe die ASt keinen neuen Gesichtspunkte vor.</p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.517578125
+        ],
+        [
+          541.7017211914062,
+          122.517578125
+        ],
+        [
+          541.7017211914062,
+          191.17926025390625
+        ],
+        [
+          126.88281249999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.517578125,
+        541.7017211914062,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Jedenfalls seien die Ag nicht gezwungen, einen \"ca. 5 %\"-Faktor einzuführen. Es sei  unmöglich, eine mathematisch exakte Größe festzulegen, zumal die  Fachinformationen der ASt selbst teilweise von fixen zu verabreichenden Mengen  (100 ml bei Computertomographie des Kopfes beim Erwachsenen) trotz  unterschiedlicher Iod-Konzentration (300 bzw. 370 mg/ml Iod) ausgingen. Da die Ag  nicht über Daten in Bezug auf die tatsächlich vorgenommenen Untersuchungen  verfügten, könnten sie auch nicht errechnen, in wie vielen Fällen der Radiologe u.U.  diese Fixmenge appliziert haben könnte, um einen exakten Umrechnungsfaktor zu  erhalten. Im Ergebnis verlange die ASt etwas Unmögliches.</p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          217.900390625
+        ],
+        [
+          541.7266235351562,
+          217.900390625
+        ],
+        [
+          541.7266235351562,
+          380.9292907714844
+        ],
+        [
+          126.88281249999999,
+          380.9292907714844
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        217.900390625,
+        541.7266235351562,
+        380.9292907714844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wirtschaftlich stelle eine geringere Verbrauchsmenge höher konzentrierter  Kontrastmittel auch deshalb keinen Vorteil dar, weil bei den kleineren  Packungsgrößen die gegenüber den niedriger konzentrierten Kontrastmitteln – nach  dem Vortrag der ASt anfallende – Restmenge ohnehin verworfen werde. Diese müssten die Ag mitbezahlen, so dass auch insofern der von der ASt vorgebrachte  Vorteil der höher konzentrierten Mittel relativiert werde.</p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          407.92926025390625
+        ],
+        [
+          541.7271728515625,
+          407.92926025390625
+        ],
+        [
+          541.7271728515625,
+          513.7892761230469
+        ],
+        [
+          126.88281249999999,
+          513.7892761230469
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        407.92926025390625,
+        541.7271728515625,
+        513.7892761230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Bezug auf die Einbeziehung des Wirkstoffes […] in Fachlos K erklärten die Ag  Folgendes:</p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          520.9052734375
+        ],
+        [
+          541.7329711914062,
+          520.9052734375
+        ],
+        [
+          541.7329711914062,
+          551.7092895507812
+        ],
+        [
+          126.88281249999999,
+          551.7092895507812
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        520.9052734375,
+        541.7329711914062,
+        551.7092895507812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>\"Soweit die </i>[…] <i>im Rahmen der Ausschreibung mit dem Produkt </i>[…] <i>geboten hat, </i> <i>wird die </i>[…] <i>ausgeschlossen.\"</i></p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          577.6416015625
+        ],
+        [
+          541.7243041992188,
+          577.6416015625
+        ],
+        [
+          541.7243041992188,
+          608.7092742919922
+        ],
+        [
+          126.88281249999999,
+          608.7092742919922
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        577.6416015625,
+        541.7243041992188,
+        608.7092742919922
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Da […] selbst erklärt habe, über keine Zulassung für Angiographie zu verfügen, ein  Off-Label-Use von den Ag auch nicht geduldet werden könne, sei das Angebot  zwingend auszuschließen. Eine weitergehende Zurückversetzung des Verfahrens sei  allerdings nicht geboten. Die in Anlage 4a genannten historischen Abgabevolumina  seien weiterhin richtig. Denn der Zuschlagsempfänger des Fachloses K werde das  Volumen, das auf das […] in der Vergangenheit entfallen sei, für sich vereinnahmen.  Dies entspreche auch den Darstellungen in den anderen Fachlosen. So könne sich  in Fachlos C der Hersteller […] mit dem Produkt […] nicht beteiligen, die in der</p>",
+      "page": 140,
+      "polygon": [
+        [
+          126.88281249999999,
+          635.5892791748047
+        ],
+        [
+          541.6664428710938,
+          635.5892791748047
+        ],
+        [
+          541.6664428710938,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        635.5892791748047,
+        541.6664428710938,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 151,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergangenheit abgegebenen Mengen an […] seien selbstverständlich in die Anlage  4a eingeflossen. Gleiches gelte für […] in Bezug auf das Fachlos G sowie […] in  Fachlos A. Die ASt hätte daher auf dieser Grundlage ein Angebot kalkulieren können und abgeben müssen.</p>",
+      "page": 151,
+      "polygon": [
+        [
+          126.88281249999999,
+          121.2841796875
+        ],
+        [
+          541.719482421875,
+          121.2841796875
+        ],
+        [
+          541.719482421875,
+          191.17926025390625
+        ],
+        [
+          126.88281249999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        121.2841796875,
+        541.719482421875,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. In der mündlichen Verhandlung am 18. Juli 2016 hatten die Beteiligten Gelegenheit, ihre  Standpunkte darzulegen und mit der Vergabekammer umfassend zu erörtern.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt trägt in der mündlichen Verhandlung vor, dass die \"Abhilfe\" der Ag, den Bieter  […] bei Fachlos K mangels Zulassung des Wirkstoffes […] für die geforderte  Angiographie auszuschließen, zu spät komme. Sie habe bei der Durchsicht der  Vergabeunterlagen die Beteiligungsmöglichkeit […] aufgrund der widersprüchlichen  Angaben in Anlage 11 nicht abschließend einschätzen können. Da […] als  Preisbrecher im Markt bekannt sei, habe aus Sicht der ASt eine eigene Beteiligung  an der Ausschreibung in Fachlos K kaufmännisch keinen Sinn gemacht. Auch wenn  es faktisch möglich gewesen wäre, ein Angebot zu kalkulieren, sei die Ast nicht  gezwungen, auf der Grundlage widersprüchlicher Angaben ein Angebot zu  kalkulieren, was sich – wie die Entwicklung belege – als nutzlos erweise. Die ASt  gedenke auch, im Fall der Zurückversetzung ein Angebot abzugeben. Sie verfolge  deshalb ihre gegen die Ungenauigkeit der Mengenangaben in Anlage 4a gerichteten  Angriffe nicht weiter.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) Die Ag tragen insoweit vor, dass die ASt durchaus ein Angebot hätte abgeben können  und auch müssen, um dann gegebenenfalls den Ausschluss von […] – im Fall der  angekündigten Zuschlagserteilung – in einem Nachprüfungsverfahren geltend zu  machen. Die vorgenommene Abhilfe der Ag sei ausreichend. Eine Zurückversetzung des Vergabeverfahrens, um der ASt eine zweite Chance einzuräumen, weil sie durch  die fehlerhafte Nennung des Wirkstoffes […] im Vorfeld der Angebotsabgabe keine  abschließende Sicherheit über die potentiellen Bieter gehabt habe, sei  vergaberechtlich nicht geboten. Dass sie allein aufgrund der potentiellen Teilnahme  […] am Vergabeverfahren kein Angebot habe abgegeben wollen, sei zum Beleg der  Kausalität für den Schadenseintritt unzureichend.</li></ul></li><li block-type=\"ListItem\">4. Die Vergabekammer hat der ASt antragsgemäß in Abstimmung mit den Ag Einsicht in die  Vergabeakten gewährt, soweit keine geheimhaltungsbedürftigen Aktenbestandteile</li></ul></p>",
+      "page": 151,
+      "polygon": [
+        [
+          70.94400024414062,
+          216.6669921875
+        ],
+        [
+          541.7319946289062,
+          216.6669921875
+        ],
+        [
+          541.7319946289062,
+          779.4952812194824
+        ],
+        [
+          70.94400024414062,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        216.6669921875,
+        541.7319946289062,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          291.888671875,
+          79.759765625
+        ],
+        [
+          318.080078125,
+          79.759765625
+        ],
+        [
+          318.080078125,
+          91.79925537109375
+        ],
+        [
+          291.888671875,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        79.759765625,
+        318.080078125,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">betroffen waren. Auf die ausgetauschten Schriftsätze, die Verfahrensakte der  Vergabekammer sowie auf die Vergabeakten, soweit sie der Vergabekammer vorgelegt  wurden, wird ergänzend Bezug genommen.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          98.9453125,
+          122.1064453125
+        ],
+        [
+          541.594970703125,
+          122.1064453125
+        ],
+        [
+          541.594970703125,
+          172.2646484375
+        ],
+        [
+          98.9453125,
+          172.2646484375
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        122.1064453125,
+        541.594970703125,
+        172.2646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II.</b></p>",
+      "page": 120,
+      "polygon": [
+        [
+          300.1700134277344,
+          217.900390625
+        ],
+        [
+          309.640625,
+          217.900390625
+        ],
+        [
+          309.640625,
+          228.97930908203125
+        ],
+        [
+          300.1700134277344,
+          228.97930908203125
+        ]
+      ],
+      "bbox": [
+        300.1700134277344,
+        217.900390625,
+        309.640625,
+        228.97930908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag ist zulässig und im Hilfsantrag in Bezug auf das Fachlos K auch  begründet. Hinsichtlich des Hauptantrags und des Hilfsantrags in Bezug auf Fachlos C ist der  Nachprüfungsantrag zurückzuweisen.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          248.32421875
+        ],
+        [
+          541.6549682617188,
+          248.32421875
+        ],
+        [
+          541.6549682617188,
+          298.1292724609375
+        ],
+        [
+          69.84375,
+          298.1292724609375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        248.32421875,
+        541.6549682617188,
+        298.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/120",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Die Zulässigkeitsvoraussetzungen sind erfüllt. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Unstreitig handelt es sich vorliegend bei den einzelnen Losen um Rahmenverträge,  bei denen der addierte Wert der Einzelaufträge oberhalb der für Lieferung  einschlägigen Schwellenwerte für die europaweite Vergabe liegt, § 106 Abs. 1 S. 1  GWB. Da gemäß § 103 Abs. 5 S. 2 GWB für Rahmenverträge dieselben Vorschriften  gelten wie für öffentliche Aufträge, ist das Nachprüfungsverfahren als solches  statthaft. Die Zuständigkeit der Vergabekammer des Bundes ist eröffnet, da sich der  Nachprüfungsantrag auf einen Rahmenvertrag bezieht, der dem Bund zuzurechnen  ist. Insbesondere handelt es sich bei den Ag als gesetzliche Krankenkassen um  öffentliche Auftraggeber gemäß § 98 Nr. 2 GWB, da diese zu dem besonderen Zweck  gegründet wurden, im Allgemeininteresse liegende Aufgaben nicht gewerblicher Art  zu erfüllen (§§ 1, 2 SGB V) und über die gesetzlich geregelte Pflichtversicherung der  Krankenkassenmitglieder bzw. den Gesundheitsfonds vom Staat, nämlich durch den  Bund finanziert werden (vgl. EuGH, Urteil vom 11. Juni 2009, Rs. C-300/07; LSG  Nordrhein-Westfalen, Beschluss vom 3. September 2009, L 21 KR 51/09 SFB; VK  Bund, Beschluss vom 15. Januar 2010, VK 1 – 227/09 m.w.N.).</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) Soweit sich die ASt in ihrem Nachprüfungsantrag ursprünglich auch gegen […] als  Antragsgegnerin gerichtet hat, hat sie in der mündlichen Verhandlung diese  Angriffsrichtung fallen gelassen und klargestellt, dass die […] als Vergabestelle /  zentrale Beschaffungsstelle für die Krankenkassen nicht als Antragsgegnerin im</li></ul></li></ul></p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          361.3857421875
+        ],
+        [
+          541.7319946289062,
+          361.3857421875
+        ],
+        [
+          541.7319946289062,
+          774.1630859375
+        ],
+        [
+          69.84375,
+          774.1630859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        361.3857421875,
+        541.7319946289062,
+        774.1630859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          292.010009765625,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        80.58203125,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nachprüfungsverfahren angegangen werden solle und daher das Rubrum  entsprechend von der Kammer zu berichtigen sei.</p>",
+      "page": 150,
+      "polygon": [
+        [
+          126.88281249999999,
+          121.2841796875
+        ],
+        [
+          541.4697265625,
+          121.2841796875
+        ],
+        [
+          541.4697265625,
+          153.25927734375
+        ],
+        [
+          126.88281249999999,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        121.2841796875,
+        541.4697265625,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">c) Die ASt ist antragsbefugt, § 160 Abs. 2 GWB. Ihr Interesse am Auftrag hat sie durch die erhobenen Rügen und den eingereichten Nachprüfungsantrag hinreichend belegt. Sie trägt vor, durch die unterlassene Einführung eines Korrekturfaktors bei der  Wirtschaftlichkeitsbewertung der Röntgenkontrastmittel mit ihrem Produkt […] diskriminiert zu werden (Fachlos C). Darüber hinaus verletze sie die Konzeption der  Ausschreibungsbedingungen in ihrem Recht auf widerspruchsfreie  Vergabeunterlagen nach § 31 Abs. 1 VgV (Fachlos K). Sie führt des Weiteren aus,  dass ihr durch diesen Rechtsverstoß die Beteiligungsmöglichkeit am  Vergabeverfahren verwehrt wurde, weil aus ökonomischer Sicht eine  Angebotsabgabe auf der Grundlage rechtswidriger Vergabeunterlagen unzumutbar  sei und ihr demzufolge auch ein Schaden in Form einer Verschlechterung ihrer  Zuschlagschancen entstanden sei. Dies ist zum Beleg der Antragsbefugnis  ausreichend. <ul><li block-type=\"ListItem\" class=\"list-indent-1\">d) Die ASt ist mit ihrem Nachprüfungsantrag im Hinblick auf Fachlos K auch nicht  präkludiert, § 160 Abs. 3 S. 1 Nr. 1 GWB. Soweit die Ag diesbezüglich vortragen,  dass die ASt bereits unmittelbar nach Durchsicht der Vergabeunterlagen, die  unstreitig bereits am 18. Mai 2016 erfolgte, positive Kenntnis dahingehend erlangt  habe, dass die Anwendungsbereiche des Fachloses K kumulativ zu erfüllen seien  und daher die Nennung des Wirkstoffes […] mangels Zulassung für Angiographie aus  Sicht der ASt objektiv unzutreffend sei, hat sich dieser Vortrag prozessual überholt.  Denn die Ag haben von sich aus die objektive Widersprüchlichkeit der Angaben zum  Fachlos K in Anlage 11 anerkannt und das auf dieser Grundlage abgegebene  Angebot […] vom weiteren Verfahren ausgeschlossen. Streitgegenständlich verbleibt  die Frage, ob dieser Ausschluss ausreichend ist, um die Widersprüchlichkeit der  Anlage 11 vergaberechtlich zu bereinigen und einen Schadenseintritt zu Lasten der  ASt verneinen zu können (dazu sub 2. b)).</li></ul></li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          92.30400085449219,
+          179.25390625
+        ],
+        [
+          541.7353515625,
+          179.25390625
+        ],
+        [
+          541.7353515625,
+          684.947265625
+        ],
+        [
+          92.30400085449219,
+          684.947265625
+        ]
+      ],
+      "bbox": [
+        92.30400085449219,
+        179.25390625,
+        541.7353515625,
+        684.947265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Im Übrigen ist anzumerken, dass – unbeschadet etwaiger Kenntnis aus der  Pilotausschreibung der […] – die ASt endgültige Klarheit in Bezug auf die  Anforderungen der Ag für Fachlos K in der hiesigen Ausschreibung erst durch die</p>",
+      "page": 150,
+      "polygon": [
+        [
+          126.88281249999999,
+          711.259765625
+        ],
+        [
+          541.6383056640625,
+          711.259765625
+        ],
+        [
+          541.6383056640625,
+          762.240234375
+        ],
+        [
+          126.88281249999999,
+          762.240234375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        711.259765625,
+        541.6383056640625,
+        762.240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 148,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Antwort auf die entsprechende Bieterfrage am 2. Juni 2016 erhalten hatte, so dass  die Rüge vom 10. Juni 2016 fristwahrend i.S.d. § 160 Abs. 3 S. 1 Nr. 1 GWB war.</p>",
+      "page": 148,
+      "polygon": [
+        [
+          126.88281249999999,
+          122.1064453125
+        ],
+        [
+          541.7007446289062,
+          122.1064453125
+        ],
+        [
+          541.7007446289062,
+          153.25927734375
+        ],
+        [
+          126.88281249999999,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        122.1064453125,
+        541.7007446289062,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/ListGroup/148",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">e) Auch die Frist des § 160 Abs. 3 Satz 1 Nr. 4 GWB ist durch die Stellung des  Nachprüfungsantrags am 27. Juni 2016 – auch unter Berücksichtigung des § 193 BGB  in Bezug auf die erste Nichtabhilfemitteilung der Ag vom 10. Juni 2016 – gewahrt.</li><li block-type=\"ListItem\">2. Soweit die ASt mit ihrem Hilfsantrag die Notwendigkeit der Einführung eines zusätzlichen  Korrekturfaktors in Fachlos C geltend macht (dazu sub a)), ist der Nachprüfungsantrag  zurückzuweisen, da eine diesbezügliche Verpflichtung der Ag nicht besteht.  Demgegenüber ist der Hilfsantrag in Bezug auf Fachlos K begründet, weil die Angaben in  Anlage 11 widersprüchlich sind und der bloße Ausschluss des Bieters […] von der Wertung  im Ergebnis unzureichend ist, um eine Rechtsverletzung der ASt und einen Schaden zu  ihren Lasten zu beseitigen (dazu sub b)). Nicht begründet ist der Hauptantrag der ASt, mit  welchem sie eine gänzliche Aufhebung des Vergabeverfahrens in den  streitgegenständlichen Losen beantragt; auch im Fachlos K, bei dem die ASt mit ihrem  Hilfsantrag durchdringt, ist eine gänzliche Aufhebung nicht erforderlich, um eine  Rechtsverletzung der ASt auszuräumen (dazu sub c)). <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Der Nachprüfungsantrag ist insoweit unbegründet, als die ASt fordert, beim  Wirtschaftlichkeitsvergleich die unterschiedlichen Iod-Konzentrationen der für das  Fachlos K in der 2. Konzentration in Betracht kommenden Röntgenkontrastmittel (350 mg/ml bzw. 370 mg/ml) einen Korrekturfaktor von ca. 5 % zugunsten höher  konzentrierter Mittel einzustellen (so auch schon 2. VK Bund, Beschl. v. 30. Januar  2015, VK2-115/14 und nachfolgend OLG Düsseldorf, Beschl. v. 17. Juni 2015, VII-Verg 13/15; ebenso im damaligen Parallelverfahren 2. VK Bund, Beschl. v. 29. Januar  2015, VK2-117/14; nachfolgend OLG Düsseldorf, Beschl. v. 29. Juli 2015, VII-Verg  12/15). Die Wahl allein des Zuschlagskriteriums <i>\"niedrigster Preis\" </i>begegnet keinen  durchgreifenden vergaberechtlichen Bedenken:</li></ul></li></ul></p>",
+      "page": 148,
+      "polygon": [
+        [
+          79.15625,
+          180.076171875
+        ],
+        [
+          541.73681640625,
+          180.076171875
+        ],
+        [
+          541.73681640625,
+          666.4462890625
+        ],
+        [
+          79.15625,
+          666.4462890625
+        ]
+      ],
+      "bbox": [
+        79.15625,
+        180.076171875,
+        541.73681640625,
+        666.4462890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/15/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die Ag haben die Ausschreibung so ausgestaltet, dass miteinander vergleichbare  Angebote zu erwarten waren. Sie haben durch die Vorgaben zweier  Konzentrationspannen in Fachlos C (300-320 mg/ml und &gt;320-370mg/ml)  Mindestanforderungen aufgestellt, welche die durchschnittlich anfallenden  Versorgungsfälle qualitativ abbilden und insoweit einen Wirtschaftlichkeitsvergleich</p>",
+      "page": 148,
+      "polygon": [
+        [
+          126.88281249999999,
+          689.880859375
+        ],
+        [
+          541.7108154296875,
+          689.880859375
+        ],
+        [
+          541.7108154296875,
+          779.4952812194824
+        ],
+        [
+          126.88281249999999,
+          779.4952812194824
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        689.880859375,
+        541.7108154296875,
+        779.4952812194824
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">allein auf der Grundlage des Preises eröffnet. Die Bieter konnten sich bei ihrer  Angebotserstellung auf diesen Umstand einstellen; so dass die Vergleichbarkeit der  Angebote sichergestellt ist. Ein Verstoß gegen § 127 Abs. 1, 4 GWB liegt somit nicht  vor.</p>",
+      "page": 156,
+      "polygon": [
+        [
+          125.71874999999999,
+          121.2841796875
+        ],
+        [
+          541.7295532226562,
+          121.2841796875
+        ],
+        [
+          541.7295532226562,
+          191.17926025390625
+        ],
+        [
+          125.71874999999999,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        125.71874999999999,
+        121.2841796875,
+        541.7295532226562,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/16/ListGroup/156",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(1) Soweit die ASt gegen die Wirtschaftlichkeitsbetrachtung der unterschiedlich  dosierten Wirkstoffe auch im hiesigen Nachprüfungsverfahren vorbringt, die  konkrete Verabreichungsmenge sei bei Kontrastmitteln mit unterschiedlichen  Iod-Konzentrationsspannen schon deshalb nicht vergleichbar, weil der  behandelnde Arzt in einer ersten Stufe im konkreten Einzelfall die jeweils zu  verabreichende Menge Kontrastmittel patientenindividuell anhand von Faktoren  wie Alter, Geschlecht, Gewicht und geplanter Diagnose bestimme und in einer  zweiten Stufe mithilfe des Injektor-Protokolls die konkrete Iod-Beladung  errechne, führt dieser Umstand nicht dazu, dass die Ag unwirtschaftliche  Ergebnisse erhalten werden. Auch wenn – bezogen auf einen einzelnen  Patienten – die Iod-Beladung des Injektor-Protokolls eine geringere Menge Iod  bei einem höher konzentrierten Kontrastmittel ausweist und somit im Ergebnis  eine geringere Verbrauchsmenge benötigt wird (so auch die Stellungnahme der  […], Anlage C 9), sind die Ag jedenfalls nicht gezwungen, diesen Faktor  zwingend bei der Wirtschaftlichkeitsbetrachtung zu berücksichtigen.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">(a) Schon dem Ausgangspunkt der ASt, wonach bei isolierter Betrachtung  allein der Iod-Konzentration die Verbrauchsmenge niedriger  konzentrierter Röntgenkontrastmitteln per se höher sei als diejenige  höher konzentrierter Röntgenkontrastmittel, kann nur bedingt zugestimmt  werden. Ausweislich der eigenen Fachinformation der ASt für (u.a.) […] ist für die Untersuchung <i>\"Computertomographie Kopf, Erwachsene</i>\"  sowohl für die 300 mg- wie auch für die 370 mg-Variante die  Verabreichung eines jeweils fixen Volumens von exakt 100 ml  Kontrastmittel vorgesehen. Auf die Iod-Konzentration kommt es daher  nach der Fachinformation nicht an. Die diesbezügliche Einlassung der  ASt, dies möge daran liegen, dass die Kopfgröße bei Erwachsenen nicht  sehr unterschiedlich sei, vermag schon deshalb nicht zu überzeugen, weil  das Kontrastmittel nicht direkt in den Kopf appliziert wird, sondern  zunächst durch den Körper transportiert werden muss. Dessen Größe,</li></ul></li></ul></p>",
+      "page": 156,
+      "polygon": [
+        [
+          126.88281249999999,
+          218.05926513671875
+        ],
+        [
+          541.7425537109375,
+          218.05926513671875
+        ],
+        [
+          541.7425537109375,
+          780.330078125
+        ],
+        [
+          126.88281249999999,
+          780.330078125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        218.05926513671875,
+        541.7425537109375,
+        780.330078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          292.010009765625,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          80.58203125
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        80.58203125,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gewicht und Blutmenge divergieren bei Erwachsenen indes sehr stark.  Ebenso wenig kann die ASt damit Gehör finden, dass die diesbezügliche  Angabe in der Fachinformation nicht präzise sei, weil sie sämtliche […] umfasse und sich die Ärzte ohnehin nicht an die Fachinformationen  hielten, so dass es auf die darin enthaltenen Angaben nicht ankomme. Die ASt selbst weist (in Bezug auf die von den Ag vorgenommene  Auslegung der Fachinformation von […] hinsichtlich der Zulassung von  […] für Angiographie) auf die bei Fachinformationen erforderliche  Genauigkeit hin. Die Kammer hat keinen Anlass davon auszugehen, dass  die von der ASt in ihrer eigenen Fachinformation gemachten Angaben  falsch sind.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          182.7578125,
+          122.517578125
+        ],
+        [
+          541.7290649414062,
+          122.517578125
+        ],
+        [
+          541.7290649414062,
+          324.04925537109375
+        ],
+        [
+          182.7578125,
+          324.04925537109375
+        ]
+      ],
+      "bbox": [
+        182.7578125,
+        122.517578125,
+        541.7290649414062,
+        324.04925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/17/ListGroup/149",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(b) Ebenso sind die in der Fachinformation der ASt zu den […]-Produkten bei  der Ganzkörper-CT genannten Verbrauchsspannen identisch (100-150  ml), unabhängig davon, welche Iod-Konzentration die verschiedenen  Produkte aufweisen. Gleiches gilt für Körperhöhlen-Untersuchungen (z.B.  Speiseröhre-Magen-Darm, empfohlene Iod-Konzentrationen: 300 mg/ml  und 370 mg/ml; jeweilige Menge: 10-100 ml). Auch hier wäre jeweils bei  einer alleinigen Abhängigkeit der Verbrauchsmenge von der zu  applizierenden Iodmenge zu erwarten, dass – nach Feststellung der  patientenindividuellen Gegebenheiten – unterschiedliche Spannen für  das höhere und das niedriger konzentrierte Kontrastmittel ausgewiesen  werden müssten. Die Iod-Konzentration scheint auch bei diesen Untersuchungen keine maßgebliche Rolle zu spielen und nicht im Sinne  der von der ASt geltend gemachten mathematischen Genauigkeit zu  geringeren Verbrauchsmengen bei den höherkonzentrierten  Kontrastmitteln zu führen.</li><li block-type=\"ListItem\">(c) Auch der Quervergleich von […] 370 zu iodhaltigen  Röntgenkontrastmitteln anderer Hersteller mit einer Iod-Konzentration  von 350 mg/ml ergibt keine eindeutig geringere Verbrauchsmenge höher  konzentrierter Kontrastmittel, welcher durch einen mathematisch  eindeutig zu berechnenden Korrekturfaktor ausgeglichen werden könnte.  Ausweislich der von den Ag erstellten und von der ASt mit Anlage C4  eingereichten Tabelle weisen die Fachinformationen von […] und z.B. […]</li></ul></p>",
+      "page": 149,
+      "polygon": [
+        [
+          153.65625,
+          350.92926025390625
+        ],
+        [
+          541.7376708984375,
+          350.92926025390625
+        ],
+        [
+          541.7376708984375,
+          773.1352844238281
+        ],
+        [
+          153.65625,
+          773.1352844238281
+        ]
+      ],
+      "bbox": [
+        153.65625,
+        350.92926025390625,
+        541.7376708984375,
+        773.1352844238281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 142,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          79.759765625
+        ],
+        [
+          317.7663269042969,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7663269042969,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">bei Arteriographie und Angiokardiographie identische Spannen von  jeweils 40-60ml für beide – unterschiedlich konzentrierte – Kontrastmittel aus. Wäre die Iod-Beladung tatsächlich monokausal für die  Verbrauchsmenge, müsste die Spanne bei […] jedoch bei 42-63 ml liegen oder umgekehrt die Spanne von […] bei 38-57,5 ml.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          182.7578125,
+          122.517578125
+        ],
+        [
+          541.7333984375,
+          122.517578125
+        ],
+        [
+          541.7333984375,
+          210.1392822265625
+        ],
+        [
+          182.7578125,
+          210.1392822265625
+        ]
+      ],
+      "bbox": [
+        182.7578125,
+        122.517578125,
+        541.7333984375,
+        210.1392822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(d) Hinzu kommt, dass nach den Vorgaben (2. Hinweis zu Anlage 8a) pro  Fachlos ein einheitlicher Angebotspreis pro ml anzubieten ist, unabhängig  davon, welche Produkte angeboten werden und somit auch unabhängig  davon, ob mehrere Konzentrationsspannen erfüllt werden müssen. Die  Anwendung eines Korrekturfaktors von ca. 5 % für 370 mg/ml  konzentrierte Kontrastmittel im Fachlos C aufgrund des von der ASt  angenommenen Verbrauchsmengenvorteils würde folglich auch auf die  300 mg/ml konzentrierten Produkte durchschlagen: Dies würde angesichts des Anteils der 300 mg/ml konzentrierten Kontrastmittel am  Gesamtvolumen in Fachlos C von über 40 % die 370 mg/ml-Produkte  über Gebühr privilegieren und die geforderte Mischkalkulation verzerren.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          154.8203125,
+          230.779296875
+        ],
+        [
+          541.7439575195312,
+          230.779296875
+        ],
+        [
+          541.7439575195312,
+          431.56927490234375
+        ],
+        [
+          154.8203125,
+          431.56927490234375
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        230.779296875,
+        541.7439575195312,
+        431.56927490234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus dem Vorstehenden kann im Ergebnis jedenfalls keine Verpflichtung der Ag,  einen Korrekturfaktor unterschiedlicher Iod-Konzentrationen zur Abbildung  unterschiedlicher Verbrauchsmengen einzuführen, abgeleitet werden. Denn  dass sich die Einführung eines Korrekturfaktors insgesamt kostengünstig auf  die Beschaffung der Ag auswirken würde, ist nach den Fachinformationen nicht  sicher. Die Ag durften sich jedoch an den Fachinformationen orientieren und  angesichts der jedenfalls nicht eindeutig belegbaren Abhängigkeit des  Volumens von der Iod-Konzentration von einem Korrekturfaktor absehen.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          154.8203125,
+          458.44927978515625
+        ],
+        [
+          541.732421875,
+          458.44927978515625
+        ],
+        [
+          541.732421875,
+          602.3492889404297
+        ],
+        [
+          154.8203125,
+          602.3492889404297
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        458.44927978515625,
+        541.732421875,
+        602.3492889404297
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/18/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">(2) Dies Sichtweise entspricht der bereits zitierten obergerichtlichen  Entscheidungspraxis, welche für die – insoweit identische – Pilotausschreibung  der […] die Verpflichtung zur Einführung eines Korrekturfaktors für  unterschiedliche Iod-Konzentrationen ebenfalls verneint hat (OLG Düsseldorf,  Beschl. v. 17. Juni 2015, VII-Verg 13/15; BA S. 23). Soweit die ASt diese  Entscheidung angreift, weil der Senat die tatsächlich in der Praxis gegebenen  Auswirkungen der Konzentrationsschwankungen verkannt habe, ist dem  entgegen zu halten, dass der Senat selbst bei einer möglichen Auswirkung auf</p>",
+      "page": 142,
+      "polygon": [
+        [
+          126.88281249999999,
+          628.2109375
+        ],
+        [
+          541.6971435546875,
+          628.2109375
+        ],
+        [
+          541.6971435546875,
+          773.1352844238281
+        ],
+        [
+          126.88281249999999,
+          773.1352844238281
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        628.2109375,
+        541.6971435546875,
+        773.1352844238281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7890625,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">die Preisbildung keine Verpflichtung der Ag zur Berücksichtigung der  unterschiedlichen Iod-Konzentrationen erkannt hat (BA S. 24), so dass auch bei  unterstellter Praxisrelevanz ein Korrekturfaktor nicht zwingend einzuführen ist.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          153.65625,
+          122.9287109375
+        ],
+        [
+          541.7077026367188,
+          122.9287109375
+        ],
+        [
+          541.7077026367188,
+          172.21929931640625
+        ],
+        [
+          153.65625,
+          172.21929931640625
+        ]
+      ],
+      "bbox": [
+        153.65625,
+        122.9287109375,
+        541.7077026367188,
+        172.21929931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konsequenterweise hat der Senat – wenn auch in Bezug auf die  unterschiedlichen Relexivitäten der Kontrastmittel in anderen Fachlosen (je  höher der Relaxivitätswert, desto niedriger der Verbrauch, BA S. 23) – trotz der  eindeutig auch von ihm diesbezüglich festgestellten Verbrauchsrelevanz einen  Korrekturfaktor zugunsten der ASt abgelehnt und die Entscheidungsfreiheit der  […] betont, welchem Umstand sie Wertungsrelevanz einräumen möchte und  welchem nicht. Eine Verpflichtung zur Einräumung eines Wettbewerbsvorteils  besteht nach den Ausführungen des Senats mithin selbst dann nicht, wenn der  Verbrauchsvorteil bzw. -nachteil tatsächlich festgestellt wurde. Nichts anderes  gilt für den hier streitigen Korrekturfaktor hinsichtlich der unterschiedlichen Iod-Konzentrationen.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          154.8203125,
+          198.166015625
+        ],
+        [
+          541.7377319335938,
+          198.166015625
+        ],
+        [
+          541.7377319335938,
+          399.8892822265625
+        ],
+        [
+          154.8203125,
+          399.8892822265625
+        ]
+      ],
+      "bbox": [
+        154.8203125,
+        198.166015625,
+        541.7377319335938,
+        399.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(3) Dass nicht jeder qualitative / wirtschaftliche Unterschied letztendlich zwingend  in die Wertung einfließen muss, folgt auch aus dem Rechtsgedanken des § 35  Abs. 2 S. 3 VgV. Danach können Nebenangebote auch dann zugelassen  werden, wenn – bei eindeutig vorgegebenen Mindestbedingungen – der Preis  das alleinige Zuschlagskriterium ist. Daraus, dass ein Nebenangebot immer  eine Abweichung zu dem Hauptangebot darstellt und dennoch – die Erfüllung  der Mindestanforderungen vorausgesetzt – keine Aufstellung zusätzlicher  Kriterien neben dem Preis für den Wirtschaftlichkeitsvergleich erforderlich ist,  folgt auch, dass nicht jeder Unterschied zwischen Angeboten zwingend  Eingang in die Wertung finden muss.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          126.88281249999999,
+          426.8892822265625
+        ],
+        [
+          541.7305297851562,
+          426.8892822265625
+        ],
+        [
+          541.7305297851562,
+          610.12109375
+        ],
+        [
+          126.88281249999999,
+          610.12109375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        426.8892822265625,
+        541.7305297851562,
+        610.12109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/19/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ag haben durch die Vorgaben der Konzentrationspannen in Fachlos C (300- 320 mg/ml und &gt;320-370mg/ml), die kumulativ zu erfüllen waren, die aus ihrer  Sicht maßgeblichen Anforderungen aufgestellt, welche die durchschnittlich  anfallenden Versorgungsfälle qualitativ abbilden und einen Wirtschaftlichkeitsvergleich durch das Abfragen eines Preises für diese Spannen eröffnet.  Weitergehender Kriterien für einen Wirtschaftlichkeitsvergleich bedurfte es  nicht.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          155.984375,
+          635.5892791748047
+        ],
+        [
+          541.7290649414062,
+          635.5892791748047
+        ],
+        [
+          541.7290649414062,
+          760.535285949707
+        ],
+        [
+          155.984375,
+          760.535285949707
+        ]
+      ],
+      "bbox": [
+        155.984375,
+        635.5892791748047,
+        541.7290649414062,
+        760.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 138,
+      "polygon": [
+        [
+          292.010009765625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          79.759765625
+        ],
+        [
+          317.7890625,
+          91.79925537109375
+        ],
+        [
+          292.010009765625,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        292.010009765625,
+        79.759765625,
+        317.7890625,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) Soweit die ASt in Bezug auf das Fachlos K die Widersprüchlichkeit der  Leistungsbeschreibung (dort Anlage 11) durch die beispielhafte Einbeziehung des  Wirkstoffes […] und die daraus folgende Zurückversetzungsbedürftigkeit geltend  gemacht hat, ist ihr Hilfsantrag begründet.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          98.9453125,
+          121.6953125
+        ],
+        [
+          541.7098999023438,
+          121.6953125
+        ],
+        [
+          541.7098999023438,
+          191.17926025390625
+        ],
+        [
+          98.9453125,
+          191.17926025390625
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        121.6953125,
+        541.7098999023438,
+        191.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Denn diese Angabe ist nach den im Laufe des Nachprüfungsverfahrens gewonnenen  Erkenntnissen widersprüchlich und somit, wie auch von den Ag anerkannt, objektiv  falsch. Der Wirkstoff besitzt – wie sich schon aus dem Schreiben des Bundesinstituts  für Arzneimittel und Medizinprodukte (BfArM) vom 20. Januar 2016, spätestens  jedoch aus der Erklärung des Herstellers […] selbst vom 29. Juni 2016 ergibt – tatsächlich nicht die Zulassung für die geforderte kontrastverstärkende MR-Angiographie. Die Nennung von […] in Anlage 11 als Beispiel-Wirkstoff für das  Fachlos K steht daher in Widerspruch zu diesem geforderten Anwendungsbereich.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          217.4892578125
+        ],
+        [
+          541.7276611328125,
+          217.4892578125
+        ],
+        [
+          541.7276611328125,
+          361.9692687988281
+        ],
+        [
+          126.88281249999999,
+          361.9692687988281
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        217.4892578125,
+        541.7276611328125,
+        361.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus diesem Grund ist die Zurückversetzung des Vergabeverfahrens anzuordnen. Die  Ag sind – bei Fortbestehen der Vergabeabsicht – gehalten, die Vergabeunterlagen in  Bezug auf das Fachlos K zu überarbeiten, namentlich durch die Streichung des  Wirkstoffes […] in Anlage 11, die modifizierten Unterlagen anschließend denjenigen  Unternehmen, die die Vergabeunterlagen abgerufen haben, erneut zu übermitteln  und ihnen Gelegenheit zu geben, neue Angebote auf dieser Basis abzugeben.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          387.6982421875
+        ],
+        [
+          541.7429809570312,
+          387.6982421875
+        ],
+        [
+          541.7429809570312,
+          494.82928466796875
+        ],
+        [
+          126.88281249999999,
+          494.82928466796875
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        387.6982421875,
+        541.7429809570312,
+        494.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die von der Ag mit Schriftsatz vom 14. Juli 2016 erklärte Abhilfe in Form des  Ausschlusses des Bieters […] in Bezug auf Fachlos K ist letztendlich nicht  ausreichend, die Rechtsverletzung zu beseitigen und den Schadenseintritt zu Lasten  der ASt zu vermeiden. Denn mangels Angebotsabgabe kann der Erhalt der Rechte  der ASt im Sinne einer Beteiligungsmöglichkeit nicht allein durch den Ausschluss  eines anderen Bieters gewahrt werden.</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          521.7092895507812
+        ],
+        [
+          541.724365234375,
+          521.7092895507812
+        ],
+        [
+          541.724365234375,
+          628.6220703125
+        ],
+        [
+          126.88281249999999,
+          628.6220703125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        521.7092895507812,
+        541.724365234375,
+        628.6220703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/20/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Dem steht auch nicht entgegen, dass der ASt vorgeworfen werden könnte, ihrerseits  eine Angebotsabgabe unterlassen zu haben, so dass die Vergaberechtswidrigkeit der  Anlage 11 nicht (mehr) kausal für einen möglichen Schadenseintritt war. Denn die  ASt war nicht gezwungen, auf der Grundlage der von ihr zutreffend als falsch erkannten Vergabeunterlagen ein Angebot abzugeben, was sich angesichts der Zurückversetzungsbedürftigkeit des Vergabeverfahrens nach den obigen Ausführungen</p>",
+      "page": 138,
+      "polygon": [
+        [
+          126.88281249999999,
+          653.701171875
+        ],
+        [
+          541.720947265625,
+          653.701171875
+        ],
+        [
+          541.720947265625,
+          760.595703125
+        ],
+        [
+          126.88281249999999,
+          760.595703125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        653.701171875,
+        541.720947265625,
+        760.595703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 135,
+      "polygon": [
+        [
+          291.888671875,
+          80.58203125
+        ],
+        [
+          318.080078125,
+          80.58203125
+        ],
+        [
+          318.080078125,
+          91.79925537109375
+        ],
+        [
+          291.888671875,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        80.58203125,
+        318.080078125,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">auch als nutzlos erwiesen hätte (OLG Düsseldorf, Beschl. v. 14. November 2012,  VII-Verg 28/12).</p>",
+      "page": 135,
+      "polygon": [
+        [
+          126.88281249999999,
+          120.873046875
+        ],
+        [
+          541.577880859375,
+          120.873046875
+        ],
+        [
+          541.577880859375,
+          153.25927734375
+        ],
+        [
+          126.88281249999999,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        120.873046875,
+        541.577880859375,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Es kann im Übrigen seitens der Kammer jedenfalls nicht ausgeschlossen werden,  dass sich – so der Vortrag der ASt – das durch die Einbeziehung eines ungeeigneten  Wirkstoffes unzulässig auf den Bieter […] erweiterte Bieterumfeld auf die  Angebotsabgabe(-möglichkeit) negativ ausgewirkt hat (zur notwendigen Feststellung  einer Beeinträchtigung der Auftragschancen des Antragstellers durch die  Rechtsverletzung, vgl. OLG Düsseldorf, Beschl. v. 14. April 2010, VII-Verg 60/09;  Beschl. v. 15. Juni 2010, VII-Verg 10/10, Beschl. v. 10. Juni 2015, VII-Verg 39/14).  Die insofern von der ASt angestellten kaufmännischen Überlegungen, preislich nicht  mit [...] konkurrieren zu können, sind seitens der Kammer nicht zu widerlegen.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          126.88281249999999,
+          179.25390625
+        ],
+        [
+          541.7290649414062,
+          179.25390625
+        ],
+        [
+          541.7290649414062,
+          343.70703125
+        ],
+        [
+          126.88281249999999,
+          343.70703125
+        ]
+      ],
+      "bbox": [
+        126.88281249999999,
+        179.25390625,
+        541.7290649414062,
+        343.70703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">c) Der auf Aufhebung der Ausschreibung gerichtete Hauptantrag der ASt ist  unbegründet. Sie macht keine Vergaberechtsverstöße geltend, die es rechtfertigen  könnten, über die partielle Zurückversetzung hinaus die Aufhebung auszusprechen.  Da vorliegend lediglich die Wirkstoffbezeichnung in Anlage 11 für das Fachlos K  unzutreffend war, ist auch nur diese zu korrigieren. Der Vergaberechtsverstoß ist  somit durch eine erneute Angebotsabgabemöglichkeit auf der Basis korrigierter  Vergabeunterlagen für das Fachlos K zu heilen. Ein darüber hinaus gehender Eingriff  in die Beschaffungsautonomie der Ag durch die beantragte Aufhebung wäre unverhältnismäßig, § 168 Abs. 1 S. 1 GWB. Auf die nach der Zurückversetzung neue  Angebotsabgabefrist haben die Ag zusätzlich im Sinne eines ordnungsgemäßen  Wettbewerbs in einer Berichtigungsbekanntmachung hinzuweisen, um auch anderen  Unternehmen, die wie die ASt durch die Widersprüchlichkeit bei Los K von der  Angebotsabgabe abgehalten wurden, eine Chance auf Teilnahme zu geben.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          98.9453125,
+          388.109375
+        ],
+        [
+          541.7276611328125,
+          388.109375
+        ],
+        [
+          541.7276611328125,
+          627.6692962646484
+        ],
+        [
+          98.9453125,
+          627.6692962646484
+        ]
+      ],
+      "bbox": [
+        98.9453125,
+        388.109375,
+        541.7276611328125,
+        627.6692962646484
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III.</b></p>",
+      "page": 135,
+      "polygon": [
+        [
+          298.6100158691406,
+          653.2900390625
+        ],
+        [
+          310.9085693359375,
+          653.2900390625
+        ],
+        [
+          310.9085693359375,
+          665.4992828369141
+        ],
+        [
+          298.6100158691406,
+          665.4992828369141
+        ]
+      ],
+      "bbox": [
+        298.6100158691406,
+        653.2900390625,
+        310.9085693359375,
+        665.4992828369141
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 182 Abs. 3 Satz 1, Abs. 4 GWB, § 80 Abs. 3 Satz 2 VwVfG.</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.94400024414062,
+          685.5392761230469
+        ],
+        [
+          538.7290649414062,
+          685.5392761230469
+        ],
+        [
+          538.7290649414062,
+          696.5792846679688
+        ],
+        [
+          70.94400024414062,
+          696.5792846679688
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        685.5392761230469,
+        538.7290649414062,
+        696.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/21/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Soweit die ASt mit ihrem Hauptantrag, gerichtet auf Aufhebung der Fachlose C und K, unterlegen  ist, hat sie die Kosten des Nachprüfungsverfahrens zu tragen, die Kammer geht insoweit von  einer hälftigen Kostentragungspflicht der ASt aus. Die ASt ist mit ihrem Hilfsantrag bezüglich</p>",
+      "page": 135,
+      "polygon": [
+        [
+          70.94400024414062,
+          722.771484375
+        ],
+        [
+          541.7295532226562,
+          722.771484375
+        ],
+        [
+          541.7295532226562,
+          772.535285949707
+        ],
+        [
+          70.94400024414062,
+          772.535285949707
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        722.771484375,
+        541.7295532226562,
+        772.535285949707
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 116,
+      "polygon": [
+        [
+          291.888671875,
+          80.58203125
+        ],
+        [
+          318.080078125,
+          80.58203125
+        ],
+        [
+          318.080078125,
+          91.79925537109375
+        ],
+        [
+          291.888671875,
+          91.79925537109375
+        ]
+      ],
+      "bbox": [
+        291.888671875,
+        80.58203125,
+        318.080078125,
+        91.79925537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Fachlos K durchgedrungen, in Bezug auf Fachlos C ist sie unterlegen. Die wirtschaftliche  Bedeutung der beiden Fachlose ist unter Berücksichtigung des durchschnittlichen  Angebotspreises derjenigen Bieter, die sich am Vergabeverfahren beteiligt haben, und der  Referenzmenge annähernd gleich, so dass von einem hälftigen Obsiegen bzw. Unterliegen der  ASt im Hilfsantrag auszugehen ist. Die Kosten des Verfahrens sind daher im Ergebnis von den  beiden Verfahrensbeteiligten im Verhältnis 3/4 (ASt) zu 1/4 (Ag) zu tragen.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          70.94400024414062,
+          122.517578125
+        ],
+        [
+          541.7300415039062,
+          122.517578125
+        ],
+        [
+          541.7300415039062,
+          229.0992431640625
+        ],
+        [
+          70.94400024414062,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        122.517578125,
+        541.7300415039062,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Hinzuziehung jeweils eines Verfahrensbevollmächtigten durch die ASt und die Ag war  notwendig. In dem Nachprüfungsverfahren stellten sich Rechtsfragen im  sozialversicherungsrechtlichen Kontext, deren Komplexität und Schwierigkeiten eine anwaltliche  Vertretung notwendig gemacht haben.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          70.94400024414062,
+          256.09930419921875
+        ],
+        [
+          541.7333984375,
+          256.09930419921875
+        ],
+        [
+          541.7333984375,
+          324.794921875
+        ],
+        [
+          70.94400024414062,
+          324.794921875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        256.09930419921875,
+        541.7333984375,
+        324.794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV.</b></p>",
+      "page": 116,
+      "polygon": [
+        [
+          298.010009765625,
+          331.373046875
+        ],
+        [
+          311.677734375,
+          331.373046875
+        ],
+        [
+          311.677734375,
+          342.8892822265625
+        ],
+        [
+          298.010009765625,
+          342.8892822265625
+        ]
+      ],
+      "bbox": [
+        298.010009765625,
+        331.373046875,
+        311.677734375,
+        342.8892822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist  schriftlich innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt,  beim Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf,  einzulegen.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          68.6796875,
+          362.2080078125
+        ],
+        [
+          541.7084350585938,
+          362.2080078125
+        ],
+        [
+          541.7084350585938,
+          430.9692687988281
+        ],
+        [
+          68.6796875,
+          430.9692687988281
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        362.2080078125,
+        541.7084350585938,
+        430.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die  Beschwerdebegründung muss die Erklärung enthalten, inwieweit die Entscheidung der  Vergabekammer angefochten und eine abweichende Entscheidung beantragt wird, und die  Tatsachen und Beweismittel angeben, auf die sich die Beschwerde stützt.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          69.84375,
+          457.8492736816406
+        ],
+        [
+          541.720458984375,
+          457.8492736816406
+        ],
+        [
+          541.720458984375,
+          527.072265625
+        ],
+        [
+          69.84375,
+          527.072265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        457.8492736816406,
+        541.720458984375,
+        527.072265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterzeichnet sein. Dies gilt nicht für  Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          69.84375,
+          550.5068359375
+        ],
+        [
+          541.6170043945312,
+          550.5068359375
+        ],
+        [
+          541.6170043945312,
+          582.6692810058594
+        ],
+        [
+          69.84375,
+          582.6692810058594
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        550.5068359375,
+        541.6170043945312,
+        582.6692810058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der  Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der  Beschwerdefrist. Hat die Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das  Beschwerdegericht auf Antrag des Beschwerdeführers die aufschiebende Wirkung bis zur  Entscheidung über die Beschwerde verlängern.</p>",
+      "page": 116,
+      "polygon": [
+        [
+          69.84375,
+          609.6692657470703
+        ],
+        [
+          541.70751953125,
+          609.6692657470703
+        ],
+        [
+          541.70751953125,
+          697.6923828125
+        ],
+        [
+          69.84375,
+          697.6923828125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        609.6692657470703,
+        541.70751953125,
+        697.6923828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 116,
+      "polygon": [
+        [
+          152.4921875,
+          742.0947265625
+        ],
+        [
+          440.4834289550781,
+          742.0947265625
+        ],
+        [
+          440.4834289550781,
+          753.4552917480469
+        ],
+        [
+          152.4921875,
+          753.4552917480469
+        ]
+      ],
+      "bbox": [
+        152.4921875,
+        742.0947265625,
+        440.4834289550781,
+        753.4552917480469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/22/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 116,
+      "polygon": [
+        [
+          412.66015625,
+          742.0947265625
+        ],
+        [
+          439.43359375,
+          742.0947265625
+        ],
+        [
+          439.43359375,
+          751.1396484375
+        ],
+        [
+          412.66015625,
+          751.1396484375
+        ]
+      ],
+      "bbox": [
+        412.66015625,
+        742.0947265625,
+        439.43359375,
+        751.1396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/4",
+        "4": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "15": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "16": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "17": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "18": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "19": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "20": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "21": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "22": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

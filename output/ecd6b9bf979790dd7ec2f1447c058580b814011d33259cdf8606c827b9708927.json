@@ -1,0 +1,4989 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.84296874999999,
+          51.658447265625
+        ],
+        [
+          211.74296875,
+          51.658447265625
+        ],
+        [
+          211.74296875,
+          101.464599609375
+        ],
+        [
+          47.84296874999999,
+          101.464599609375
+        ]
+      ],
+      "bbox": [
+        47.84296874999999,
+        51.658447265625,
+        211.74296875,
+        101.464599609375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Brussels,</b> <b>12</b> <b>February</b> <b>2026</b> <b>(OR. en)</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          339.90625,
+          102.49365234375
+        ],
+        [
+          489.3851318359375,
+          102.49365234375
+        ],
+        [
+          489.3851318359375,
+          126.74969482421875
+        ],
+        [
+          339.90625,
+          126.74969482421875
+        ]
+      ],
+      "bbox": [
+        339.90625,
+        102.49365234375,
+        489.3851318359375,
+        126.74969482421875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>6313/26</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          340.197265625,
+          150.6533203125
+        ],
+        [
+          381.83514404296875,
+          150.6533203125
+        ],
+        [
+          381.83514404296875,
+          162.3896484375
+        ],
+        [
+          340.197265625,
+          162.3896484375
+        ]
+      ],
+      "bbox": [
+        340.197265625,
+        150.6533203125,
+        381.83514404296875,
+        162.3896484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Interinstitutional File:</b> <b>2026/0044 (COD)</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          90.796875,
+          167.94140625
+        ],
+        [
+          214.1875,
+          167.94140625
+        ],
+        [
+          214.1875,
+          196.58966064453125
+        ],
+        [
+          90.796875,
+          196.58966064453125
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        167.94140625,
+        214.1875,
+        196.58966064453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<blockquote><p block-type=\"Text\"><b>PI 20</b> <b>AGRI 115</b> <b>CODEC 226</b></p></blockquote>",
+      "page": 119,
+      "polygon": [
+        [
+          340.3899841308594,
+          211.16162109375
+        ],
+        [
+          404.2453308105469,
+          211.16162109375
+        ],
+        [
+          404.2453308105469,
+          249.509765625
+        ],
+        [
+          340.3899841308594,
+          249.509765625
+        ]
+      ],
+      "bbox": [
+        340.3899841308594,
+        211.16162109375,
+        404.2453308105469,
+        249.509765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>COVER NOTE</b></h1>",
+      "page": 119,
+      "polygon": [
+        [
+          55.58398437499999,
+          267.14208984375
+        ],
+        [
+          132.994140625,
+          267.14208984375
+        ],
+        [
+          132.994140625,
+          280.37969970703125
+        ],
+        [
+          55.58398437499999,
+          280.37969970703125
+        ]
+      ],
+      "bbox": [
+        55.58398437499999,
+        267.14208984375,
+        132.994140625,
+        280.37969970703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/6",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>From:</th><th>Secretary-General of the European Commission, signed by Ms Martine<br/>DEPREZ, Director</th></tr><tr><td>date of receipt:</td><td>12<br/>February<br/>2026</td></tr><tr><td>To:</td><td>Ms Thérèse BLANCHET, Secretary-General of the Council of the<br/>European Union</td></tr><tr><td>No. Cion doc.:</td><td>COM(2026) 69 final</td></tr><tr><td>Subject:</td><td>Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND<br/>OF THE COUNCIL amending Regulation (EU) 2019/1753 as regards<br/>amendments adopted by the Assembly of the Lisbon Union on 14 July<br/>2025 to the Common Regulations under the Lisbon Agreement on<br/>Appellations of Origin and Geographical Indications</td></tr></tbody></table>",
+      "page": 119,
+      "polygon": [
+        [
+          49.859988403320315,
+          282.35560546875
+        ],
+        [
+          544.6567962646484,
+          282.35560546875
+        ],
+        [
+          544.6567962646484,
+          451.97642578125
+        ],
+        [
+          49.859988403320315,
+          451.97642578125
+        ]
+      ],
+      "bbox": [
+        49.859988403320315,
+        282.35560546875,
+        544.6567962646484,
+        451.97642578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Delegations will find attached document COM(2026) 69 final.</p>",
+      "page": 119,
+      "polygon": [
+        [
+          56.63999557495117,
+          477.6114501953125
+        ],
+        [
+          357.3671875,
+          477.6114501953125
+        ],
+        [
+          357.3671875,
+          489.6114501953125
+        ],
+        [
+          56.63999557495117,
+          489.6114501953125
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        477.6114501953125,
+        357.3671875,
+        489.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 119,
+      "polygon": [
+        [
+          65.1875,
+          518.642578125
+        ],
+        [
+          365.515625,
+          518.642578125
+        ],
+        [
+          365.515625,
+          535.107421875
+        ],
+        [
+          65.1875,
+          535.107421875
+        ]
+      ],
+      "bbox": [
+        65.1875,
+        518.642578125,
+        365.515625,
+        535.107421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Encl.: COM(2026) 69 final</p>",
+      "page": 119,
+      "polygon": [
+        [
+          55.58398437499999,
+          536.6514587402344
+        ],
+        [
+          187.705078125,
+          536.6514587402344
+        ],
+        [
+          187.705078125,
+          548.6514587402344
+        ],
+        [
+          55.58398437499999,
+          548.6514587402344
+        ]
+      ],
+      "bbox": [
+        55.58398437499999,
+        536.6514587402344,
+        187.705078125,
+        548.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6313/26 COMPET.1 <b>EN</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          539.7759399414062,
+          780.3014602661133
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          56.63999557495117,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/0'></p>",
+      "page": 39,
+      "polygon": [
+        [
+          56.68984375,
+          71.24931640625
+        ],
+        [
+          294.85703125,
+          71.24931640625
+        ],
+        [
+          294.85703125,
+          140.89521484375
+        ],
+        [
+          56.68984375,
+          140.89521484375
+        ]
+      ],
+      "bbox": [
+        56.68984375,
+        71.24931640625,
+        294.85703125,
+        140.89521484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {
+        "/page/1/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADoAxkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKSloAKKCapS3DNeJbwknBDOfQelAF2ikzS0AFFFFABRRSUALRRRQAUUUmeaAFoqrfztb2rSr1Ug1JbTrcwJKh4IoAmooooAKKKKACikooAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoopKAFooooAKKKKACiiigAoopKAFopKKAFooooAKKKKAENJnmlqC6uY7WAyP+A9TQBHe3XkptXmRuFApbG28iL5+ZH+Zj71WsbeSaU3lwCGP3FPYVZkuibpIIhuPVz6CgC1gUtN5xS0ALRSCloAKKKKACiiigBKCOaU0meaAKWrAnTpce1ZGjXvkS+S5+Rv0NbWoSeVaO+0N0BB7iuauYlhcSRco/Kn0oA63kgU+s7Sr37Vb7WP7xOCP61o0AFFJmigBaKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACikzRmgBaKTNLSAKKKKYBRRRQAUUUUABpM0Zyap3uoRWaHc2X7KKAJrm5S1iLyH6DuazYIpdRnFzMMRLyi+tRQW0+pyie64jB+VK1Lm4isoM98fKo70ANvLr7PGEQAyvwi0tla/Z4yXOZH5Zveq1jbPJIby55dvur/dFW5bkLcJAg3Mx5x2FAFkCik6UtABRRRQAUUUUgCiiimAUmOaWjNAFDVwx0+XaCSMHArAs5FdPs0p+VvuH+61dNeSiC2aQjIXqPWubv7URN58PMT8gjtQIZb3D6fe8g8HDD1FdZFIssSyIcqwyK5Z/wDTLYMP9fGMN/tCrui3u0m3c8fw0Ab1Ao9KWgYUUlLmgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooozQAUmaKKAFopBS5oAMUmKWkzQAUtJkUZFAC0Um4DqQKYZIx1dR+NAElFVJL+1i+9MBVOXXbdP8AVh2oEa5qGa4ihQtI4A96w31W9uztt4yo9h/WnQaRPcPvuZSB3HWgB9xq8kriKzUknjdin2eknzfOvG3Oeduc1owWkFmn7tQB3J61TvdWjjGy3HmS9BjtQMtXl5DZR8kbv4VqnZ2kt1MLq6zjqiH+GksdOd3+03Z3SHkKegq5e3qWcYA5kbhVFABe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E/gjUvAnhy707VJ7Saaa6MytauzKBtA53KvPFU/Afw91bwv468Ra5e3FlJa6kzmFIHcuuZN3zAqAOPQmvSqKAOF+Ivw1tPHdvBcR3LWOr2n/AB73aDPGc7WxzjPII5FcnBp/xx0qIWcWoaVqEaDas8rKWx7lgCfxzXs1FAHk3h34Xa5f+J4PE/j7WI9Svbchre1h/wBXGRyM8AcHnAHXua7rxj4R07xroEuk6iGVSd8UyfeicdGH+HcVv0UAeJ2PhT4v+D4RYaHrWn6npsfEKXBGUXsMMMj6BiKe3w38deOL23fx9rkEemQuHFhZY+Y/gAB9SWNe00UAYmv6Eb/wXf6DpywwebZtbQBshE+XaM4BOPwrH+F/hG/8E+Dl0jUpraW4Fw8u62ZmTDYxyyg549K7OigDgfiD8L7LxrJDqNtdPput24Hk3kY+9jkBsYPB6Ecj3rmI7H45WEYso9Q0i8RflW6faWx6nKgn8Qa9looA8l8N/CK9m8Qp4l8dauNY1NCGjgXJiQjpnIGQOygAfWvS9csZdT0DUbCFkWW5tpIULkhQWUgZx25q/RQBxHwr8Hah4H8JPpWpzWss7XLzbrZmZcEADllBzx6V1GtaRZ6/o91pd/EJLa5jKOv9R7g8ir9FAHkPwv8AhNq/gPxbfajd3tjcWUkDQw+Uz+ZywILAqAOB2Jr16iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k="
+      }
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Brussels, 12.2.2026  COM(2026) 69 final 2026/0044 (COD)</p>",
+      "page": 39,
+      "polygon": [
+        [
+          324.7734375,
+          189.12109375
+        ],
+        [
+          425.8199157714844,
+          189.12109375
+        ],
+        [
+          425.8199157714844,
+          242.73760986328125
+        ],
+        [
+          324.7734375,
+          242.73760986328125
+        ]
+      ],
+      "bbox": [
+        324.7734375,
+        189.12109375,
+        425.8199157714844,
+        242.73760986328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h4>Proposal for a</h4>",
+      "page": 39,
+      "polygon": [
+        [
+          264.533203125,
+          292.96966552734375
+        ],
+        [
+          331.8485107421875,
+          292.96966552734375
+        ],
+        [
+          331.8485107421875,
+          304.965087890625
+        ],
+        [
+          264.533203125,
+          304.965087890625
+        ]
+      ],
+      "bbox": [
+        264.533203125,
+        292.96966552734375,
+        331.8485107421875,
+        304.965087890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/1/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</b></h4>",
+      "page": 39,
+      "polygon": [
+        [
+          86.140625,
+          325.06109619140625
+        ],
+        [
+          508.99591064453125,
+          325.06109619140625
+        ],
+        [
+          508.99591064453125,
+          337.0565490722656
+        ],
+        [
+          86.140625,
+          337.0565490722656
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        325.06109619140625,
+        508.99591064453125,
+        337.0565490722656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly </b> <b>of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon </b> <b>Agreement on Appellations of Origin and Geographical Indications</b></p>",
+      "page": 39,
+      "polygon": [
+        [
+          73.3359375,
+          356.8853759765625
+        ],
+        [
+          524.5521850585938,
+          356.8853759765625
+        ],
+        [
+          524.5521850585938,
+          396.52587890625
+        ],
+        [
+          73.3359375,
+          396.52587890625
+        ]
+      ],
+      "bbox": [
+        73.3359375,
+        356.8853759765625,
+        524.5521850585938,
+        396.52587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>EN</b> <b>EN</b></p>",
+      "page": 39,
+      "polygon": [
+        [
+          28.31999969482422,
+          781.5634765625
+        ],
+        [
+          566.907958984375,
+          781.5634765625
+        ],
+        [
+          566.907958984375,
+          806.0561752319336
+        ],
+        [
+          28.31999969482422,
+          806.0561752319336
+        ]
+      ],
+      "bbox": [
+        28.31999969482422,
+        781.5634765625,
+        566.907958984375,
+        806.0561752319336
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>EXPLANATORY MEMORANDUM</b></h4>",
+      "page": 190,
+      "polygon": [
+        [
+          201.3828125,
+          57.9697265625
+        ],
+        [
+          392.666015625,
+          57.9697265625
+        ],
+        [
+          392.666015625,
+          70.2215576171875
+        ],
+        [
+          201.3828125,
+          70.2215576171875
+        ]
+      ],
+      "bbox": [
+        201.3828125,
+        57.9697265625,
+        392.666015625,
+        70.2215576171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>1.</b> <b>CONTEXT</b> <b>OF</b> <b>THE</b> <b>PROPOSAL</b></h4>",
+      "page": 190,
+      "polygon": [
+        [
+          70.8239974975586,
+          90.0380859375
+        ],
+        [
+          287.0660095214844,
+          90.0380859375
+        ],
+        [
+          287.0660095214844,
+          102.04150390625
+        ],
+        [
+          70.8239974975586,
+          102.04150390625
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        90.0380859375,
+        287.0660095214844,
+        102.04150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "4": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>•</b> <b>Reasons for and objectives of the proposal</b></h3>",
+      "page": 190,
+      "polygon": [
+        [
+          69.84375,
+          109.361328125
+        ],
+        [
+          329.3000183105469,
+          109.361328125
+        ],
+        [
+          329.3000183105469,
+          121.84149169921875
+        ],
+        [
+          69.84375,
+          121.84149169921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        109.361328125,
+        329.3000183105469,
+        121.84149169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The aim of this Commission proposal is to ensure the alignment of the relevant EU legislation  to the amended Common Regulations for the WIPO Lisbon System of Geographical  Indications in the World Intellectual Property Organization (WIPO).</p>",
+      "page": 190,
+      "polygon": [
+        [
+          69.84375,
+          129.4014892578125
+        ],
+        [
+          527.3740234375,
+          129.4014892578125
+        ],
+        [
+          527.3740234375,
+          169.00152587890625
+        ],
+        [
+          69.84375,
+          169.00152587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        129.4014892578125,
+        527.3740234375,
+        169.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">On 14 July 2025, in the Sixty-Sixth Series of Meetings of the Assemblies of the Member  States of WIPO the Assembly of the Lisbon Union adopted the amendments to the Common  Regulations under the Lisbon Agreement for the Protection of Appellations of Origin and  their International Registration and the Geneva Act of the Lisbon Agreement on Appellations  of Origin and Geographical Indications (hereinafter \"the Common Regulations\"), as  recommended by the Working Group on the Development of the Lisbon System in its sixth  session on 20 March 2025 for adoption by the Assembly of the Lisbon Union, and as set out  in the Annex to document LI/A/42/2, with 1 July 2026, as their date of entry into force.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          182.54296875
+        ],
+        [
+          527.4760131835938,
+          182.54296875
+        ],
+        [
+          527.4760131835938,
+          291.4315185546875
+        ],
+        [
+          68.6796875,
+          291.4315185546875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        182.54296875,
+        527.4760131835938,
+        291.4315185546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Union is a Contracting Party to the Geneva Act of the Lisbon Agreement on Appellations  of Origin and Geographical Indications. Regulation (EU) 2019/1753 of the European  Parliament and of the Council of 23 October 2019 on the action of the Union following its  accession to the Geneva Act of the Lisbon Agreement on Appellations of Origin and  Geographical Indications establishes the rules and procedures concerning actions of the Union  following its accession to the Geneva Act. As a consequence of the adoption of the  amendments to the Common Regulations by the Assembly of the Lisbon Union on 14 July  2025, several provisions of Regulation (EU) 2019/1753 will have to be amended by the date  of entry into force of the amendments to the Common Regulations to ensure the consistency  and coherence of Regulation (EU) 2019/1753 with the updated Common Regulations, and  thus to enable the Union to continue to be fully operational as a Contracting Party to the  Geneva Act.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          304.6494140625
+        ],
+        [
+          527.4219970703125,
+          304.6494140625
+        ],
+        [
+          527.4219970703125,
+          469.05145263671875
+        ],
+        [
+          68.6796875,
+          469.05145263671875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        304.6494140625,
+        527.4219970703125,
+        469.05145263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Union supported those amendments on the basis of Council Decision (EU) 2025/1415 of  8 July 2025 on the position to be taken on behalf of the Union within the Assembly of the  Special Union established by the Lisbon Agreement for the Protection of Appellations of  Origin and their International Registration with regard to the proposed amendments to the  Common Regulations under the Lisbon Agreement and the Geneva Act of that Agreement. 1</p>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          482.85150146484375
+        ],
+        [
+          527.4219970703125,
+          482.85150146484375
+        ],
+        [
+          527.4219970703125,
+          550.0514526367188
+        ],
+        [
+          68.6796875,
+          550.0514526367188
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        482.85150146484375,
+        527.4219970703125,
+        550.0514526367188
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Consistency with other Union policies</b></h4>",
+      "page": 190,
+      "polygon": [
+        [
+          69.26171875,
+          564.0914611816406
+        ],
+        [
+          305.9239807128906,
+          564.0914611816406
+        ],
+        [
+          305.9239807128906,
+          576.0914611816406
+        ],
+        [
+          69.26171875,
+          576.0914611816406
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        564.0914611816406,
+        305.9239807128906,
+        576.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The proposal is consistent with the general policy of the Union to promote and enhance the  protection of geographical indications through bilateral, regional and multilateral agreements.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          583.6514587402344
+        ],
+        [
+          527.43408203125,
+          583.6514587402344
+        ],
+        [
+          527.43408203125,
+          611.3544921875
+        ],
+        [
+          68.6796875,
+          611.3544921875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        583.6514587402344,
+        527.43408203125,
+        611.3544921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>2.</b> <b>LEGAL</b> <b>BASIS,</b> <b>SUBSIDIARITY</b> <b>AND</b> <b>PROPORTIONALITY</b></h4>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          629.5214538574219
+        ],
+        [
+          434.6979675292969,
+          629.5214538574219
+        ],
+        [
+          434.6979675292969,
+          641.5214538574219
+        ],
+        [
+          68.6796875,
+          641.5214538574219
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        629.5214538574219,
+        434.6979675292969,
+        641.5214538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Legal</b> <b>basis</b></h4>",
+      "page": 190,
+      "polygon": [
+        [
+          70.134765625,
+          649.3214569091797
+        ],
+        [
+          170.826171875,
+          649.3214569091797
+        ],
+        [
+          170.826171875,
+          661.3214569091797
+        ],
+        [
+          70.134765625,
+          661.3214569091797
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        649.3214569091797,
+        170.826171875,
+        661.3214569091797
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Considering the subject matter of the Regulation, the Regulation should be based on Article  207 of the Treaty on the Functioning of the European Union.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          68.6796875,
+          668.501953125
+        ],
+        [
+          527.4219970703125,
+          668.501953125
+        ],
+        [
+          527.4219970703125,
+          694.6814575195312
+        ],
+        [
+          68.6796875,
+          694.6814575195312
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        668.501953125,
+        527.4219970703125,
+        694.6814575195312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 190,
+      "polygon": [
+        [
+          70.42578125,
+          721.5380859375
+        ],
+        [
+          73.91796875,
+          721.5380859375
+        ],
+        [
+          73.91796875,
+          735.2414627075195
+        ],
+        [
+          70.42578125,
+          735.2414627075195
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        721.5380859375,
+        73.91796875,
+        735.2414627075195
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 190,
+      "polygon": [
+        [
+          28.31999969482422,
+          781.974609375
+        ],
+        [
+          566.907958984375,
+          781.974609375
+        ],
+        [
+          566.907958984375,
+          806.0561752319336
+        ],
+        [
+          28.31999969482422,
+          806.0561752319336
+        ]
+      ],
+      "bbox": [
+        28.31999969482422,
+        781.974609375,
+        566.907958984375,
+        806.0561752319336
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> OJ L, 2025/1415, 15.7.2025, ELI:<a href=\"http://data.europa.eu/eli/dec/2025/1415/oj\"> http://data.europa.eu/eli/dec/2025/1415/oj</a></p>",
+      "page": 190,
+      "polygon": [
+        [
+          69.84375,
+          735.10546875
+        ],
+        [
+          414.40625,
+          735.10546875
+        ],
+        [
+          414.40625,
+          746.8394165039062
+        ],
+        [
+          69.84375,
+          746.8394165039062
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        735.10546875,
+        414.40625,
+        746.8394165039062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5",
+        "3": "/page/2/SectionHeader/2",
+        "4": "/page/2/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>•</b> <b>Subsidiarity</b> <b>(for</b> <b>non-exclusive</b> <b>competence)</b></h1>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          57.55859375
+        ],
+        [
+          337.578125,
+          57.55859375
+        ],
+        [
+          337.578125,
+          70.2215576171875
+        ],
+        [
+          69.84375,
+          70.2215576171875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        57.55859375,
+        337.578125,
+        70.2215576171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Union has exclusive competence for the Geneva Act of the Lisbon Agreement. This  follows from the ruling of the European Court of Justice of 25 October 2017 in case C-389/15, Commission vs. Council, which clarified that the draft revised Lisbon Agreement,  i.e. the Geneva Act, is essentially intended to facilitate and govern trade between the Union  and third States and, secondly, that it is such as to have direct and immediate effects on such  trade, so that its negotiation fell within the exclusive competence which Article 3(1) TFEU  confers on the Union in the field of the common commercial policy envisaged in  Article 207(1) TFEU. <sup>2</sup></p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          77.78155517578125
+        ],
+        [
+          527.4760131835938,
+          77.78155517578125
+        ],
+        [
+          527.4760131835938,
+          186.4014892578125
+        ],
+        [
+          69.84375,
+          186.4014892578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        77.78155517578125,
+        527.4760131835938,
+        186.4014892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">According to Article 5(3) of the Treaty of the European Union (TEU), the subsidiarity  principle does not apply to areas of exclusive competence of the Union.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          200.2015380859375
+        ],
+        [
+          527.196044921875,
+          200.2015380859375
+        ],
+        [
+          527.196044921875,
+          226.5341796875
+        ],
+        [
+          69.84375,
+          226.5341796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        200.2015380859375,
+        527.196044921875,
+        226.5341796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>•</b> <b>Proportionality</b></h1>",
+      "page": 226,
+      "polygon": [
+        [
+          69.552734375,
+          239.279296875
+        ],
+        [
+          192.60800170898438,
+          239.279296875
+        ],
+        [
+          192.60800170898438,
+          252.04150390625
+        ],
+        [
+          69.552734375,
+          252.04150390625
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        239.279296875,
+        192.60800170898438,
+        252.04150390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The proposed measures do not go beyond what is necessary to achieve the objective of  enabling the Union to continue to participate in the Lisbon Union in a way which will ensure  efficient protection of EU geographical indications.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          259.6314697265625
+        ],
+        [
+          527.4999389648438,
+          259.6314697265625
+        ],
+        [
+          527.4999389648438,
+          299.3046875
+        ],
+        [
+          69.84375,
+          299.3046875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        259.6314697265625,
+        527.4999389648438,
+        299.3046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Choice</b> <b>of</b> <b>the</b> <b>instrument</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.26171875,
+          312.8720703125
+        ],
+        [
+          240.37890624999997,
+          312.8720703125
+        ],
+        [
+          240.37890624999997,
+          325.271484375
+        ],
+        [
+          69.26171875,
+          325.271484375
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        312.8720703125,
+        240.37890624999997,
+        325.271484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/3",
+        "4": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">A Regulation of the European Parliament and of the Council is the appropriate legal  instrument for the amendment of Regulation (EU) 2019/1753 as it ensures the legislative  prerogatives of both institutions in the same way as for the original Regulation.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          332.1953125
+        ],
+        [
+          527.4099731445312,
+          332.1953125
+        ],
+        [
+          527.4099731445312,
+          372.43145751953125
+        ],
+        [
+          69.84375,
+          372.43145751953125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        332.1953125,
+        527.4099731445312,
+        372.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/3",
+        "4": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>RESULTS</b> <b>OF</b> <b>EX-POST</b> <b>EVALUATIONS,</b> <b>STAKEHOLDER</b> <b>CONSULTATIONS</b> <b>AND</b> <b>IMPACT</b> <b>ASSESSMENTS</b></h1>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          391.8095703125
+        ],
+        [
+          524.5540161132812,
+          391.8095703125
+        ],
+        [
+          524.5540161132812,
+          418.2714538574219
+        ],
+        [
+          69.84375,
+          418.2714538574219
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        391.8095703125,
+        524.5540161132812,
+        418.2714538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Ex-post</b> <b>evaluations/fitness</b> <b>checks</b> <b>of</b> <b>existing</b> <b>legislation</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          425.93359375
+        ],
+        [
+          397.10198974609375,
+          425.93359375
+        ],
+        [
+          397.10198974609375,
+          438.07147216796875
+        ],
+        [
+          69.84375,
+          438.07147216796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        425.93359375,
+        397.10198974609375,
+        438.07147216796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable</p>",
+      "page": 226,
+      "polygon": [
+        [
+          70.42578125,
+          445.6514587402344
+        ],
+        [
+          144.03599548339844,
+          445.6514587402344
+        ],
+        [
+          144.03599548339844,
+          457.6514587402344
+        ],
+        [
+          70.42578125,
+          457.6514587402344
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        445.6514587402344,
+        144.03599548339844,
+        457.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Stakeholder</b> <b>consultations</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.26171875,
+          471.69146728515625
+        ],
+        [
+          245.6119842529297,
+          471.69146728515625
+        ],
+        [
+          245.6119842529297,
+          483.69146728515625
+        ],
+        [
+          69.26171875,
+          483.69146728515625
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        471.69146728515625,
+        245.6119842529297,
+        483.69146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          491.2514953613281
+        ],
+        [
+          144.03599548339844,
+          491.2514953613281
+        ],
+        [
+          144.03599548339844,
+          503.2514953613281
+        ],
+        [
+          69.84375,
+          503.2514953613281
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        491.2514953613281,
+        144.03599548339844,
+        503.2514953613281
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/12",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Collection</b> <b>and</b> <b>use</b> <b>of</b> <b>expertise</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.26171875,
+          517.2914733886719
+        ],
+        [
+          269.2459716796875,
+          517.2914733886719
+        ],
+        [
+          269.2459716796875,
+          529.2914733886719
+        ],
+        [
+          69.26171875,
+          529.2914733886719
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        517.2914733886719,
+        269.2459716796875,
+        529.2914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          536.8515014648438
+        ],
+        [
+          144.03599548339844,
+          536.8515014648438
+        ],
+        [
+          144.03599548339844,
+          548.8515014648438
+        ],
+        [
+          69.84375,
+          548.8515014648438
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        536.8515014648438,
+        144.03599548339844,
+        548.8515014648438
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/12"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/14",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Impact</b> <b>assessment</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          68.388671875,
+          562.8914794921875
+        ],
+        [
+          208.83200073242188,
+          562.8914794921875
+        ],
+        [
+          208.83200073242188,
+          574.8914794921875
+        ],
+        [
+          68.388671875,
+          574.8914794921875
+        ]
+      ],
+      "bbox": [
+        68.388671875,
+        562.8914794921875,
+        208.83200073242188,
+        574.8914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The amendments to Regulation (EU) 2019/1753 are technical in nature; they do not go  beyond making reference to the EU legislation on geographical indications adopted in 2024,  and implementing the amendments to the Common Regulations adopted in 2025.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          582.4514465332031
+        ],
+        [
+          527.2340087890625,
+          582.4514465332031
+        ],
+        [
+          527.2340087890625,
+          622.0514678955078
+        ],
+        [
+          69.84375,
+          622.0514678955078
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        582.4514465332031,
+        527.2340087890625,
+        622.0514678955078
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Guidelines on Better Regulation clarify that an impact assessment should be carried out  only when it is useful, to be assessed on a case-by-case basis. In principle, no impact  assessment is needed, when there is little or no choice available for the Commission. This is  the case here as the proposed amendments are necessary as part of the legal obligations of the  Union under the Geneva Act in order to reflect amendments to the Common Regulations</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          634.7890625
+        ],
+        [
+          527.4759521484375,
+          634.7890625
+        ],
+        [
+          527.4759521484375,
+          703.0814666748047
+        ],
+        [
+          69.84375,
+          703.0814666748047
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        634.7890625,
+        527.4759521484375,
+        703.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.26171875,
+          710.8486328125
+        ],
+        [
+          73.8239974975586,
+          710.8486328125
+        ],
+        [
+          73.8239974975586,
+          723.7214660644531
+        ],
+        [
+          69.26171875,
+          723.7214660644531
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        710.8486328125,
+        73.8239974975586,
+        723.7214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/19",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 226,
+      "polygon": [
+        [
+          27.937499999999996,
+          781.15234375
+        ],
+        [
+          568.0625,
+          781.15234375
+        ],
+        [
+          568.0625,
+          806.0561752319336
+        ],
+        [
+          27.937499999999996,
+          806.0561752319336
+        ]
+      ],
+      "bbox": [
+        27.937499999999996,
+        781.15234375,
+        568.0625,
+        806.0561752319336
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/17",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> Judgment of 25 October 2017, <i>European Commission v Council of the European Union</i>, C-389/15,  ECLI:EU:C:2017:798, paragraph 74.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          724.6843948364258
+        ],
+        [
+          526.94873046875,
+          724.6843948364258
+        ],
+        [
+          526.94873046875,
+          747.8505859375
+        ],
+        [
+          69.84375,
+          747.8505859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        724.6843948364258,
+        526.94873046875,
+        747.8505859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">which will enter into force by 1 July 2026. Political validation was given having regard to this  context.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          70.8239974975586,
+          57.9697265625
+        ],
+        [
+          527.3380126953125,
+          57.9697265625
+        ],
+        [
+          527.3380126953125,
+          83.78155517578125
+        ],
+        [
+          70.8239974975586,
+          83.78155517578125
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        57.9697265625,
+        527.3380126953125,
+        83.78155517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/3/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Regulatory</b> <b>fitness</b> <b>and</b> <b>simplification</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          70.42578125,
+          97.84149169921875
+        ],
+        [
+          302.07421875,
+          97.84149169921875
+        ],
+        [
+          302.07421875,
+          109.84149169921875
+        ],
+        [
+          70.42578125,
+          109.84149169921875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        97.84149169921875,
+        302.07421875,
+        109.84149169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/4/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">According to the digital assessment carried out, the current proposal has no digital dimensions  as there is no digital relevance. The proposal aims at aligning EU legislation to the amended  Common Regulations for the WIPO Lisbon System of Geographical Indications.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          68.6796875,
+          117.1728515625
+        ],
+        [
+          527.5,
+          117.1728515625
+        ],
+        [
+          527.5,
+          157.00152587890625
+        ],
+        [
+          68.6796875,
+          157.00152587890625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        117.1728515625,
+        527.5,
+        157.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/4/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Digital means or data exchange are not under the scope of the proposal. The proposal does not involve the collection, processing, generation, exchange or sharing of data; the automation or  digitalisation of stakeholders' processes; the use of new or existing digital solutions; or  concern digital public services.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          170.208984375
+        ],
+        [
+          527.4999389648438,
+          170.208984375
+        ],
+        [
+          527.4999389648438,
+          224.2015380859375
+        ],
+        [
+          69.84375,
+          224.2015380859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        170.208984375,
+        527.4999389648438,
+        224.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/4/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Fundamental</b> <b>rights</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          70.134765625,
+          238.24151611328125
+        ],
+        [
+          215.060546875,
+          238.24151611328125
+        ],
+        [
+          215.060546875,
+          250.3798828125
+        ],
+        [
+          70.134765625,
+          250.3798828125
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        238.24151611328125,
+        215.060546875,
+        250.3798828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ensuring the continued full participation of the Union in the Lisbon Union as a Contracting  Party to the Geneva Act is in accordance with Article 17 (2) of the Charter of Fundamental  Right of the Union, which provides that intellectual property shall be protected.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          257.83148193359375
+        ],
+        [
+          527.2699584960938,
+          257.83148193359375
+        ],
+        [
+          527.2699584960938,
+          297.4315185546875
+        ],
+        [
+          69.84375,
+          297.4315185546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        257.83148193359375,
+        527.2699584960938,
+        297.4315185546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/7",
+        "4": "/page/4/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.</b> <b>BUDGETARY</b> <b>IMPLICATIONS</b></h1>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          316.1611328125
+        ],
+        [
+          283.0220031738281,
+          316.1611328125
+        ],
+        [
+          283.0220031738281,
+          329.4715576171875
+        ],
+        [
+          69.84375,
+          329.4715576171875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        316.1611328125,
+        283.0220031738281,
+        329.4715576171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The proposed legislative initiative has no budgetary implications.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          68.6796875,
+          337.031494140625
+        ],
+        [
+          387.5760192871094,
+          337.031494140625
+        ],
+        [
+          387.5760192871094,
+          349.0517578125
+        ],
+        [
+          68.6796875,
+          349.0517578125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        337.031494140625,
+        387.5760192871094,
+        349.0517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>5.</b> <b>OTHER</b> <b>ELEMENTS</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          368.7861328125
+        ],
+        [
+          225.82812499999997,
+          368.7861328125
+        ],
+        [
+          225.82812499999997,
+          381.07147216796875
+        ],
+        [
+          69.84375,
+          381.07147216796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        368.7861328125,
+        225.82812499999997,
+        381.07147216796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/6",
+        "4": "/page/4/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>•</b> <b>Implementation</b> <b>plans</b> <b>and</b> <b>monitoring,</b> <b>evaluation</b> <b>and</b> <b>reporting</b> <b>arrangements</b></h1>",
+      "page": 226,
+      "polygon": [
+        [
+          68.6796875,
+          388.8714599609375
+        ],
+        [
+          515.968017578125,
+          388.8714599609375
+        ],
+        [
+          515.968017578125,
+          402.91015625
+        ],
+        [
+          68.6796875,
+          402.91015625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        388.8714599609375,
+        515.968017578125,
+        402.91015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable</p>",
+      "page": 226,
+      "polygon": [
+        [
+          70.42578125,
+          408.43145751953125
+        ],
+        [
+          144.03599548339844,
+          408.43145751953125
+        ],
+        [
+          144.03599548339844,
+          420.43145751953125
+        ],
+        [
+          70.42578125,
+          420.43145751953125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        408.43145751953125,
+        144.03599548339844,
+        420.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Explanatory</b> <b>documents</b> <b>(for</b> <b>directives)</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.26171875,
+          434.47149658203125
+        ],
+        [
+          314.22198486328125,
+          434.47149658203125
+        ],
+        [
+          314.22198486328125,
+          446.47149658203125
+        ],
+        [
+          69.26171875,
+          446.47149658203125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        434.47149658203125,
+        314.22198486328125,
+        446.47149658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Not applicable</p>",
+      "page": 226,
+      "polygon": [
+        [
+          70.42578125,
+          454.05145263671875
+        ],
+        [
+          144.03599548339844,
+          454.05145263671875
+        ],
+        [
+          144.03599548339844,
+          466.05145263671875
+        ],
+        [
+          70.42578125,
+          466.05145263671875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        454.05145263671875,
+        144.03599548339844,
+        466.05145263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>•</b> <b>Detailed</b> <b>explanation</b> <b>of</b> <b>the</b> <b>specific</b> <b>provisions</b> <b>of</b> <b>the</b> <b>proposal</b></h4>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          480.0914611816406
+        ],
+        [
+          427.45001220703125,
+          480.0914611816406
+        ],
+        [
+          427.45001220703125,
+          492.0914611816406
+        ],
+        [
+          69.84375,
+          492.0914611816406
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        480.0914611816406,
+        427.45001220703125,
+        492.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">As of 1 July 2026, following the new Rule 15 of the Common Regulations, Contracting  Parties shall be allowed to submit requests to encode new types of modifications:  modification of the name of an Appellation of Origin or Geographical Indication registered  under the Geneva Act, modification of the type of good or product and modification of the  description of the particulars concerning the quality, reputation or characteristics of the  Appellation of Origin or Geographical Indication concerned as laid down in Rule 5(3) of the  Common Regulations.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          68.6796875,
+          498.7041015625
+        ],
+        [
+          527.3499755859375,
+          498.7041015625
+        ],
+        [
+          527.3499755859375,
+          594.4514465332031
+        ],
+        [
+          68.6796875,
+          594.4514465332031
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        498.7041015625,
+        527.3499755859375,
+        594.4514465332031
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">At present, the procedures set out in Regulation (EU) 2019/1753 apply only to the  submissions of applications for registration of Appellations of Origin or Geographical  Indications of the Union (Article 2 of Regulation (EU) 2019/1753), to the decisions to protect  or refuse the protection to the Appellations of Origin or Geographical Indications registered  by the other Contracting Parties (Articles 4 to 7 of that same Regulation) and to the  authorisation to Member States, members of the Lisbon Agreement and joining the Geneva, Act to notify to the International Bureau their Appellations of Origin.</p>",
+      "page": 226,
+      "polygon": [
+        [
+          69.84375,
+          607.2431640625
+        ],
+        [
+          527.385986328125,
+          607.2431640625
+        ],
+        [
+          527.385986328125,
+          703.0814666748047
+        ],
+        [
+          69.84375,
+          703.0814666748047
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        607.2431640625,
+        527.385986328125,
+        703.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">It is therefore essential to define the procedures to facilitate the submission by the Union of modifications to Appellations of Origin or Geographical Indications, of the Union and of its  Member States, which are relevant for the protection in the Geneva Act of such Appellations</p>",
+      "page": 226,
+      "polygon": [
+        [
+          68.6796875,
+          716.8814544677734
+        ],
+        [
+          527.4639892578125,
+          716.8814544677734
+        ],
+        [
+          527.4639892578125,
+          756.4774627685547
+        ],
+        [
+          68.6796875,
+          756.4774627685547
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        716.8814544677734,
+        527.4639892578125,
+        756.4774627685547
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 226,
+      "polygon": [
+        [
+          28.31999969482422,
+          781.15234375
+        ],
+        [
+          566.907958984375,
+          781.15234375
+        ],
+        [
+          566.907958984375,
+          806.0561752319336
+        ],
+        [
+          28.31999969482422,
+          806.0561752319336
+        ]
+      ],
+      "bbox": [
+        28.31999969482422,
+        781.15234375,
+        566.907958984375,
+        806.0561752319336
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">of Origin or Geographical Indications. On the other hand, procedures should also be set out to  allow the Union to assess whether to protect appellations of origin or geographical indications  originating in the territory of contracting parties other than Member States for which a  modification has been encoded in the International Register.</p>",
+      "page": 91,
+      "polygon": [
+        [
+          69.84375,
+          57.9697265625
+        ],
+        [
+          527.4639892578125,
+          57.9697265625
+        ],
+        [
+          527.4639892578125,
+          111.4169921875
+        ],
+        [
+          69.84375,
+          111.4169921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        57.9697265625,
+        527.4639892578125,
+        111.4169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In the light of the above, it is necessary to set out the appropriate procedures under Regulation  (EU) 2019/1753 to adapt it to the new rules of the Geneva Act.</p>",
+      "page": 91,
+      "polygon": [
+        [
+          69.84375,
+          124.5732421875
+        ],
+        [
+          527.1239624023438,
+          124.5732421875
+        ],
+        [
+          527.1239624023438,
+          151.00152587890625
+        ],
+        [
+          69.84375,
+          151.00152587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        124.5732421875,
+        527.1239624023438,
+        151.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">These amendments are necessary to allow the Union to meet its obligations under the Geneva  Act.</p>",
+      "page": 91,
+      "polygon": [
+        [
+          69.84375,
+          164.453125
+        ],
+        [
+          527.1600952148438,
+          164.453125
+        ],
+        [
+          527.1600952148438,
+          190.60150146484375
+        ],
+        [
+          69.84375,
+          190.60150146484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        164.453125,
+        527.1600952148438,
+        190.60150146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In addition, in view of simplification and economy of the procedures, the obligation for  Member States which were party of the Lisbon Agreement before the accession of the Union  to the Geneva Act to transmit to the Commission any notification made by the International  Bureau under the Lisbon Agreement and the obligation for the Commission to transmit those  notifications to all other Member States should be deleted.</p>",
+      "page": 91,
+      "polygon": [
+        [
+          70.8239974975586,
+          204.3330078125
+        ],
+        [
+          527.39794921875,
+          204.3330078125
+        ],
+        [
+          527.39794921875,
+          271.6314697265625
+        ],
+        [
+          70.8239974975586,
+          271.6314697265625
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        204.3330078125,
+        527.39794921875,
+        271.6314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Moreover, the amendment should also take into account the recent reform of the EU's  legislation on geographical indications resulting in the adoption of Regulation (EU) 2024/1143, which has established a unified framework for geographical indications in the  Union, enhancing the protection and recognition of products like wine, spirit drinks, and  agricultural products as well as craft and industrial products. The development of the  applicable legislation should be reflected in the text of Regulation (EU) 2019/1753. In  particular, the references to the relevant Committees of the repealed Regulations on  geographical indications should be replaced with the reference to the unique Committee for  geographical indications set out by Regulation (EU) 2024/1143.</p>",
+      "page": 91,
+      "polygon": [
+        [
+          69.84375,
+          285.326171875
+        ],
+        [
+          527.4879150390625,
+          285.326171875
+        ],
+        [
+          527.4879150390625,
+          408.666015625
+        ],
+        [
+          69.84375,
+          408.666015625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        285.326171875,
+        527.4879150390625,
+        408.666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 91,
+      "polygon": [
+        [
+          28.31999969482422,
+          781.15234375
+        ],
+        [
+          566.907958984375,
+          781.15234375
+        ],
+        [
+          566.907958984375,
+          806.0561752319336
+        ],
+        [
+          28.31999969482422,
+          806.0561752319336
+        ]
+      ],
+      "bbox": [
+        28.31999969482422,
+        781.15234375,
+        566.907958984375,
+        806.0561752319336
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 191,
+      "polygon": [
+        [
+          325.646484375,
+          58.03857421875
+        ],
+        [
+          414.697265625,
+          58.03857421875
+        ],
+        [
+          414.697265625,
+          70.86151123046875
+        ],
+        [
+          325.646484375,
+          70.86151123046875
+        ]
+      ],
+      "bbox": [
+        325.646484375,
+        58.03857421875,
+        414.697265625,
+        70.86151123046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/4/SectionHeader/9",
+        "4": "/page/4/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>Proposal for a</h1>",
+      "page": 191,
+      "polygon": [
+        [
+          264.04998779296875,
+          88.91015625
+        ],
+        [
+          331.466796875,
+          88.91015625
+        ],
+        [
+          331.466796875,
+          102.68157958984375
+        ],
+        [
+          264.04998779296875,
+          102.68157958984375
+        ]
+      ],
+      "bbox": [
+        264.04998779296875,
+        88.91015625,
+        331.466796875,
+        102.68157958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</b></h3>",
+      "page": 191,
+      "polygon": [
+        [
+          86.66399383544922,
+          122.25146484375
+        ],
+        [
+          508.69531249999994,
+          122.25146484375
+        ],
+        [
+          508.69531249999994,
+          134.7215576171875
+        ],
+        [
+          86.66399383544922,
+          134.7215576171875
+        ]
+      ],
+      "bbox": [
+        86.66399383544922,
+        122.25146484375,
+        508.69531249999994,
+        134.7215576171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>amending Regulation (EU) 2019/1753 as regards amendments adopted by the Assembly </b> <b>of the Lisbon Union on 14 July 2025 to the Common Regulations under the Lisbon </b> <b>Agreement on Appellations of Origin and Geographical Indications</b></p>",
+      "page": 191,
+      "polygon": [
+        [
+          73.3359375,
+          154.35791015625
+        ],
+        [
+          524.14404296875,
+          154.35791015625
+        ],
+        [
+          524.14404296875,
+          194.12152099609375
+        ],
+        [
+          73.3359375,
+          194.12152099609375
+        ]
+      ],
+      "bbox": [
+        73.3359375,
+        154.35791015625,
+        524.14404296875,
+        194.12152099609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h4>THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</h4>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          225.568359375
+        ],
+        [
+          509.85937499999994,
+          225.568359375
+        ],
+        [
+          509.85937499999994,
+          237.68157958984375
+        ],
+        [
+          69.84375,
+          237.68157958984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        225.568359375,
+        509.85937499999994,
+        237.68157958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Having regard to the Treaty on the Functioning of the European Union, and in particular  Article 207 thereof,</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          244.91455078125
+        ],
+        [
+          527.2320556640625,
+          244.91455078125
+        ],
+        [
+          527.2320556640625,
+          271.31146240234375
+        ],
+        [
+          70.94400024414062,
+          271.31146240234375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        244.91455078125,
+        527.2320556640625,
+        271.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Having regard to the proposal from the European Commission,</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          279.0791015625
+        ],
+        [
+          373.9200134277344,
+          279.0791015625
+        ],
+        [
+          373.9200134277344,
+          291.11151123046875
+        ],
+        [
+          69.84375,
+          291.11151123046875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        279.0791015625,
+        373.9200134277344,
+        291.11151123046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">After transmission of the draft legislative act to the national parliaments,</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          297.60205078125
+        ],
+        [
+          419.1099853515625,
+          297.60205078125
+        ],
+        [
+          419.1099853515625,
+          310.9114990234375
+        ],
+        [
+          70.94400024414062,
+          310.9114990234375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        297.60205078125,
+        419.1099853515625,
+        310.9114990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Having regard to the opinion of the European Economic and Social Committee<sup>1</sup> ,</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          316.53662109375
+        ],
+        [
+          460.6600036621094,
+          316.53662109375
+        ],
+        [
+          460.6600036621094,
+          330.71148681640625
+        ],
+        [
+          70.94400024414062,
+          330.71148681640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        316.53662109375,
+        460.6600036621094,
+        330.71148681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Acting in accordance with the ordinary legislative procedure,</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.42578125,
+          338.5115051269531
+        ],
+        [
+          363.6200256347656,
+          338.5115051269531
+        ],
+        [
+          363.6200256347656,
+          350.5115051269531
+        ],
+        [
+          70.42578125,
+          350.5115051269531
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        338.5115051269531,
+        363.6200256347656,
+        350.5115051269531
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2",
+        "4": "/page/6/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1>Whereas:</h1>",
+      "page": 191,
+      "polygon": [
+        [
+          70.716796875,
+          357.69873046875
+        ],
+        [
+          116.13600158691406,
+          357.69873046875
+        ],
+        [
+          116.13600158691406,
+          370.3114929199219
+        ],
+        [
+          70.716796875,
+          370.3114929199219
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        357.69873046875,
+        116.13600158691406,
+        370.3114929199219
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(1) The Union is a Contracting Party to the Geneva Act of the Lisbon Agreement on  Appellations of Origin and Geographical Indications. Regulation (EU) 2019/1753 of  the European Parliament and of the Council<sup>2</sup> establishes the rules and procedures  concerning actions of the Union following its accession to the Geneva Act.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          377.044921875
+        ],
+        [
+          527.6558837890625,
+          377.044921875
+        ],
+        [
+          527.6558837890625,
+          431.531494140625
+        ],
+        [
+          70.94400024414062,
+          431.531494140625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        377.044921875,
+        527.6558837890625,
+        431.531494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(2) On 14 July 2025, in the Sixty-Sixth Series of Meetings of the Assemblies of the  Member States of WIPO (World Intellectual Property Organization), the Assembly of  the Lisbon Union adopted amendments to the Common Regulations under the Lisbon  Agreement for the Protection of Appellations of Origin and their International  Registration and the Geneva Act<sup>3</sup> of the Lisbon Agreement on Appellations of Origin  and Geographical Indications (hereinafter \"the Common Regulations\") 4 . Those new  rules will enter into force on 1 July 2026.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          439.3314514160156
+        ],
+        [
+          527.6320190429688,
+          439.3314514160156
+        ],
+        [
+          527.6320190429688,
+          534.2841796875
+        ],
+        [
+          69.84375,
+          534.2841796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        439.3314514160156,
+        527.6320190429688,
+        534.2841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><sup>2</sup> Regulation (EU) 2019/1753 of the European Parliament and of the Council of 23 October 2019 on the  action of the Union following its accession to the Geneva Act of the Lisbon Agreement on Appellations  of Origin and Geographical Indications (OJ L 271, 24.10.2019, p. 1, ELI:  http://data.europa.eu/eli/reg/2019/1753/oj )</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.94400024414062,
+          591.8843994140625
+        ],
+        [
+          527.0867919921875,
+          591.8843994140625
+        ],
+        [
+          527.0867919921875,
+          639.6591796875
+        ],
+        [
+          70.94400024414062,
+          639.6591796875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        591.8843994140625,
+        527.0867919921875,
+        639.6591796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 191,
+      "polygon": [
+        [
+          68.970703125,
+          565.5673828125
+        ],
+        [
+          73.94400024414062,
+          565.5673828125
+        ],
+        [
+          73.94400024414062,
+          580.3857421875
+        ],
+        [
+          68.970703125,
+          580.3857421875
+        ]
+      ],
+      "bbox": [
+        68.970703125,
+        565.5673828125,
+        73.94400024414062,
+        580.3857421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 191,
+      "polygon": [
+        [
+          28.440000534057617,
+          782.9601783752441
+        ],
+        [
+          567.0280151367188,
+          782.9601783752441
+        ],
+        [
+          567.0280151367188,
+          808.01220703125
+        ],
+        [
+          28.440000534057617,
+          808.01220703125
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        782.9601783752441,
+        567.0280151367188,
+        808.01220703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/13",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> OJ C , , p. .</p>",
+      "page": 191,
+      "polygon": [
+        [
+          70.42578125,
+          580.3344116210938
+        ],
+        [
+          152.17832946777344,
+          580.3344116210938
+        ],
+        [
+          152.17832946777344,
+          590.9734191894531
+        ],
+        [
+          70.42578125,
+          590.9734191894531
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        580.3344116210938,
+        152.17832946777344,
+        590.9734191894531
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/15",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Geneva Act of the Lisbon Agreement on Appellations of Origin and Geographical Indications, (OJ L 271, 24.10.2019, p. 15, ELI: <a href=\"http://data.europa.eu/eli/agree_internation/2019/1754/oj\">http://data.europa.eu/eli/agree_internation/2019/1754/oj</a> ;Common  Regulations under the Lisbon Agreement and the Geneva Act of the Lisbon Agreement (as in force on  July 14, 2023), ELI: https://www.wipo.int/wipolex/en/treaties/textdetails/19813)</p>",
+      "page": 191,
+      "polygon": [
+        [
+          69.84375,
+          637.8444061279297
+        ],
+        [
+          527.0806884765625,
+          637.8444061279297
+        ],
+        [
+          527.0806884765625,
+          684.1142578125
+        ],
+        [
+          69.84375,
+          684.1142578125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        637.8444061279297,
+        527.0806884765625,
+        684.1142578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/16",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Text of the amendment: LI/A/42/2 <a href=\"https://www.wipo.int/edocs/mdocs/govbody/en/li_a_42/li_a_42_2.pdf\">; Summary report of the meeting of the Lisbon Assembly of 14 July</a> <a href=\"https://www.wipo.int/edocs/mdocs/govbody/en/li_a_42/li_a_42_2.pdf\">2025 including the decision of approval of the amendment </a><a href=\"https://www.wipo.int/edocs/mdocs/govbody/en/a_66/a_66_10.pdf\">A/66/10</a></p>",
+      "page": 191,
+      "polygon": [
+        [
+          68.6796875,
+          697.3087768554688
+        ],
+        [
+          520.3359375,
+          697.3087768554688
+        ],
+        [
+          520.3359375,
+          723.6298828125
+        ],
+        [
+          68.6796875,
+          723.6298828125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        697.3087768554688,
+        520.3359375,
+        723.6298828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/217",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(3) As a consequence of the adoption of the amendments to the Common Regulations by  the Assembly of the Lisbon Union on 14 July 2025, several provisions of Regulation  (EU) 2019/1753 should be amended by the date of entry into force of the amendments  to the Common Regulations to ensure the consistency and coherence of Regulation  (EU) 2019/1753 with the updated Common Regulations, and thus to enable the Union  to continue to be fully operational as a Contracting Party to the Geneva Act.</li><li block-type=\"ListItem\">(4) In particular, following the new Rule 15 of the Common Regulations, Contracting  Parties will be able to submit requests for entry in the International Register of the  following new types of modifications: modification of the name of an appellation of  origin or geographical indication registered under the Geneva Act, modification of the  type of good or product and modification of the description of the particulars  concerning the quality, reputation or characteristics of the appellation of origin or  geographical indication concerned as laid down in Rule 5(3) of the Common  Regulations.</li><li block-type=\"ListItem\">(5) Currently, the procedures set out in Regulation (EU) 2019/1753 do not apply to  requests for modification.</li><li block-type=\"ListItem\">(6) It is therefore necessary to define the procedures to enable the implementation by the  Union of the related requests. The requests for modification made by the Union should concern its own appellations of origin or geographical indications, the appellations of  origin or geographical indications of the Member States which have been allowed to  be Members of the Geneva Act, for which the Commission, or the European Union  Intellectual Property Office (hereinafter \"the Office\"), is Competent Authority.</li><li block-type=\"ListItem\">(7) It is appropriate to make a distinction between two types of modifications. Concerning modifications of the name, the type of product or the geographical area of a protected  designation of origin or protected geographical indication or geographical indication,  protected under Regulation (EU) 2024/1143 or Regulation (EU) 2023/2411, as these  elements are constitutive elements of the appellations of origin and geographical  indications in the Geneva Act system, the Commission should be obliged to request  the modification of the corresponding appellation of origin or geographical indication  registered in the International Register, after the approval of the amendment in the  Union system.</li><li block-type=\"ListItem\">(8) By contrast, the particulars concerning the quality, reputation or characteristics [of the  appellation of origin or geographical indication] are an optional element of  appellations of origin and geographical indications in the system of the Geneva Act.  The request for modification of such elements of the appellation of origin or  geographical indication registered in the International Register should be possible, at  the initiative of the Member State of origin of the appellation of origin or geographical  indication, and after the approval of the amendment in the Union system.</li><li block-type=\"ListItem\">(9) In the light of the above, it is necessary to set out the appropriate procedures under  Regulation (EU) 2019/1753 to adapt it to the new rules of the Geneva Act.</li><li block-type=\"ListItem\">(10) These amendments are necessary to allow the Union to meet its obligations under the  Geneva Act.</li><li block-type=\"ListItem\">(11) In addition, in view of simplification and economy of the procedures, the obligation  for Member States which were party of the Lisbon Agreement before the accession of  the Union to the Geneva Act to transmit to the Commission any notification made by  the International Bureau under the Lisbon Agreement and the obligation for the</li></ul></p>",
+      "page": 217,
+      "polygon": [
+        [
+          69.84375,
+          58.86151123046875
+        ],
+        [
+          527.5960083007812,
+          58.86151123046875
+        ],
+        [
+          527.5960083007812,
+          741.32958984375
+        ],
+        [
+          69.84375,
+          741.32958984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        58.86151123046875,
+        527.5960083007812,
+        741.32958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 217,
+      "polygon": [
+        [
+          28.440000534057617,
+          781.66845703125
+        ],
+        [
+          567.0280151367188,
+          781.66845703125
+        ],
+        [
+          567.0280151367188,
+          806.9601783752441
+        ],
+        [
+          28.440000534057617,
+          806.9601783752441
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        781.66845703125,
+        567.0280151367188,
+        806.9601783752441
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Commission to transmit those notifications to all other Member States should be  deleted.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          104.765625,
+          57.626953125
+        ],
+        [
+          527.2640380859375,
+          57.626953125
+        ],
+        [
+          527.2640380859375,
+          84.66156005859375
+        ],
+        [
+          104.765625,
+          84.66156005859375
+        ]
+      ],
+      "bbox": [
+        104.765625,
+        57.626953125,
+        527.2640380859375,
+        84.66156005859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/200",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(12) In respect of geographical indications for craft and industrial products, the  Commission should, in the specific cases identified in Article 30 of Regulation (EU) 2023/2411, be able to take over from the Office the power to decide on registration, modification and cancellation of appellations of origin and geographical indications of  the European Union or of its Member States and on protection, refusal of protection,  modification and invalidation of appellations of origin and geographical indications of  a third country. This is in particular because the registration of the proposed  geographical indication might be contrary to public policy, or such registration or the  rejection of the application might jeopardise the Union's trade or external relations.</li><li block-type=\"ListItem\">(13) Recently, Union legislation on geographical indications was reformed by Regulation  (EU) 2024/1143<sup>5</sup> of the European Parliament and of the Council, which establishes a  unified framework for geographical indications in the Union, enhancing the protection  and recognition of products like wine, spirit drinks, and agricultural products. That  Regulation amended Regulations (EU) No 1308/2013, (EU) 2019/787and repealed  Regulation (EU) No 1151/2012. References to Regulations (EU) No 1151/2012, (EU)  No 1308/2013 and (EU) 2019/787 should therefore be replaced by references to  Regulation (EU) 2024/1143.</li><li block-type=\"ListItem\">(14) Regulation (EU) 2019/1753 should, therefore, be amended accordingly,</li></ul></p>",
+      "page": 201,
+      "polygon": [
+        [
+          69.84375,
+          92.4815673828125
+        ],
+        [
+          527.6199951171875,
+          92.4815673828125
+        ],
+        [
+          527.6199951171875,
+          351.93603515625
+        ],
+        [
+          69.84375,
+          351.93603515625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        92.4815673828125,
+        527.6199951171875,
+        351.93603515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">HAVE ADOPTED THIS REGULATION:</p>",
+      "page": 201,
+      "polygon": [
+        [
+          70.42578125,
+          357.69873046875
+        ],
+        [
+          276.46484375,
+          357.69873046875
+        ],
+        [
+          276.46484375,
+          370.9114990234375
+        ],
+        [
+          70.42578125,
+          370.9114990234375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        357.69873046875,
+        276.46484375,
+        370.9114990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">______________</p>",
+      "page": 201,
+      "polygon": [
+        [
+          113.42000579833984,
+          584.5614624023438
+        ],
+        [
+          197.42001342773438,
+          584.5614624023438
+        ],
+        [
+          197.42001342773438,
+          596.5614471435547
+        ],
+        [
+          113.42000579833984,
+          596.5614471435547
+        ]
+      ],
+      "bbox": [
+        113.42000579833984,
+        584.5614624023438,
+        197.42001342773438,
+        596.5614471435547
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4><i>Article 1</i></h4>",
+      "page": 201,
+      "polygon": [
+        [
+          274.427734375,
+          390.7114562988281
+        ],
+        [
+          318.5419921875,
+          390.7114562988281
+        ],
+        [
+          318.5419921875,
+          402.7114562988281
+        ],
+        [
+          274.427734375,
+          402.7114562988281
+        ]
+      ],
+      "bbox": [
+        274.427734375,
+        390.7114562988281,
+        318.5419921875,
+        402.7114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/6/SectionHeader/10",
+        "4": "/page/8/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Amendments to Regulation (EU) No 2019/1753</b></h1>",
+      "page": 201,
+      "polygon": [
+        [
+          177.86000061035156,
+          409.56298828125
+        ],
+        [
+          417.8984375,
+          409.56298828125
+        ],
+        [
+          417.8984375,
+          422.7514953613281
+        ],
+        [
+          177.86000061035156,
+          422.7514953613281
+        ]
+      ],
+      "bbox": [
+        177.86000061035156,
+        409.56298828125,
+        417.8984375,
+        422.7514953613281
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Regulation (EU) No 2019/1753 is amended as follows:</p>",
+      "page": 201,
+      "polygon": [
+        [
+          70.42578125,
+          429.732421875
+        ],
+        [
+          338.2319641113281,
+          429.732421875
+        ],
+        [
+          338.2319641113281,
+          442.3314514160156
+        ],
+        [
+          70.42578125,
+          442.3314514160156
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        429.732421875,
+        338.2319641113281,
+        442.3314514160156
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/201",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(1) in Article 1, paragraph 2 is replaced by the following: <ul><li block-type=\"ListItem\" class=\"list-indent-1\">'2. For the purposes of this Regulation, the term \"geographical indications\" covers:</li></ul></li></ul></p>",
+      "page": 201,
+      "polygon": [
+        [
+          70.94400024414062,
+          449.490234375
+        ],
+        [
+          512.8359985351562,
+          449.490234375
+        ],
+        [
+          512.8359985351562,
+          481.93145751953125
+        ],
+        [
+          70.94400024414062,
+          481.93145751953125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        449.490234375,
+        512.8359985351562,
+        481.93145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">appellations of origin within the meaning of the Geneva Act, including designations  of origin and geographical indications for wine, spirit drinks and agricultural  products within the meaning of Regulation (EU) 2024/1143 of the European  Parliament and of the Council*; and</p>",
+      "page": 201,
+      "polygon": [
+        [
+          111.74999999999999,
+          487.359375
+        ],
+        [
+          527.572021484375,
+          487.359375
+        ],
+        [
+          527.572021484375,
+          543.1314697265625
+        ],
+        [
+          111.74999999999999,
+          543.1314697265625
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        487.359375,
+        527.572021484375,
+        543.1314697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">geographical indications for craft and industrial products within the meaning of  Regulation (EU) 2023/2411.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          111.74999999999999,
+          550.33740234375
+        ],
+        [
+          527.5059814453125,
+          550.33740234375
+        ],
+        [
+          527.5059814453125,
+          576.7314758300781
+        ],
+        [
+          111.74999999999999,
+          576.7314758300781
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        550.33740234375,
+        527.5059814453125,
+        576.7314758300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          69.84375,
+          674.2353515625
+        ],
+        [
+          73.94400024414062,
+          674.2353515625
+        ],
+        [
+          73.94400024414062,
+          690.1614532470703
+        ],
+        [
+          69.84375,
+          690.1614532470703
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        674.2353515625,
+        73.94400024414062,
+        690.1614532470703
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          28.440000534057617,
+          782.9601783752441
+        ],
+        [
+          570.390625,
+          782.9601783752441
+        ],
+        [
+          570.390625,
+          808.83544921875
+        ],
+        [
+          28.440000534057617,
+          808.83544921875
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        782.9601783752441,
+        570.390625,
+        808.83544921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><sup>*</sup> Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on  geographical indications for wine, spirit drinks and agricultural products, as well as traditional  specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU)  No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L,  23.04.2024, p. 75, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).';</p>",
+      "page": 201,
+      "polygon": [
+        [
+          112.91406249999999,
+          599.3203125
+        ],
+        [
+          526.72900390625,
+          599.3203125
+        ],
+        [
+          526.72900390625,
+          661.241455078125
+        ],
+        [
+          112.91406249999999,
+          661.241455078125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        599.3203125,
+        526.72900390625,
+        661.241455078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/13",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on  geographical indications for wine, spirit drinks and agricultural products, as well as traditional  specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU)  No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ  L, 23.04.2024, p. 75, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).</p>",
+      "page": 201,
+      "polygon": [
+        [
+          68.6796875,
+          691.11181640625
+        ],
+        [
+          527.1221313476562,
+          691.11181640625
+        ],
+        [
+          527.1221313476562,
+          751.20849609375
+        ],
+        [
+          68.6796875,
+          751.20849609375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        691.11181640625,
+        527.1221313476562,
+        751.20849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(2) the following Article 2a is added:</p>",
+      "page": 195,
+      "polygon": [
+        [
+          70.94400024414062,
+          77.79638671875
+        ],
+        [
+          248.7239990234375,
+          77.79638671875
+        ],
+        [
+          248.7239990234375,
+          90.68157958984375
+        ],
+        [
+          70.94400024414062,
+          90.68157958984375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        77.79638671875,
+        248.7239990234375,
+        90.68157958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>'<i>Article 2a</i></h1>",
+      "page": 195,
+      "polygon": [
+        [
+          293.2099914550781,
+          97.55419921875
+        ],
+        [
+          344.8299560546875,
+          97.55419921875
+        ],
+        [
+          344.8299560546875,
+          110.4815673828125
+        ],
+        [
+          293.2099914550781,
+          110.4815673828125
+        ]
+      ],
+      "bbox": [
+        293.2099914550781,
+        97.55419921875,
+        344.8299560546875,
+        110.4815673828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Modifications</b> <b>of geographical indications</b> <b>in the</b> <b>International Register </b></h1>",
+      "page": 195,
+      "polygon": [
+        [
+          140.3000030517578,
+          117.7236328125
+        ],
+        [
+          503.6199645996094,
+          117.7236328125
+        ],
+        [
+          503.6199645996094,
+          130.521484375
+        ],
+        [
+          140.3000030517578,
+          130.521484375
+        ]
+      ],
+      "bbox": [
+        140.3000030517578,
+        117.7236328125,
+        503.6199645996094,
+        130.521484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/195",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Following the adoption, in accordance with Union law, of an amendment of the  name, of the classification of the product or of the geographical area of protected  designations of origin, protected geographical indications or geographical indications  originating in the Union and protected in accordance with Regulation (EU)  2024/1143 or Regulation (EU) 2023/2411, the Commission or, in respect of  geographical indications for craft and industrial products, the Office, shall present to  the International Bureau requests for modifications of the name, of the type of  product or of the geographical area of :</li><li block-type=\"ListItem\">(a) the corresponding appellation of origin or geographical indication which has been  registered in the International Register upon request of the Commission or the  Office;</li><li block-type=\"ListItem\">(b) the corresponding appellation of origin or geographical indication which has been  registered in the International Register upon request of a Member State.</li><li block-type=\"ListItem\">2. Upon request of a Member State, following the adoption, in accordance with  Union law, of an amendment of protected designations of origin, protected  geographical indications or geographical indications originating in the Union and  protected in accordance with Regulation (EU) 2024/1143 or Regulation (EU)  2023/2411, the Commission or, in respect of geographical indications for craft and  industrial products, the Office, may present to the International Bureau requests for  modifications of the particulars concerning the quality, reputation or characteristics,  as laid down in Rule 5(3) of the Common Regulations, of the corresponding  appellation of origin or geographical indication registered in the International  Register and referred to in points a) and b) of paragraph 1.';</li><li block-type=\"ListItem\">(3) in Article 7, paragraph 2 is replaced by the following:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">'2. Where, based on the assessment carried out pursuant to Article 5, the conditions  laid down in that Article are not fulfilled or an admissible opposition as set out in  Article 6(2) has been received, the Commission shall, by means of an implementing  act, decide whether to grant protection of a geographical indication registered in the  International Register. That implementing act shall be adopted in accordance with  the examination procedure referred to in Article 15(2). In respect of geographical  indications for craft and industrial products, the decision whether to grant protection  shall be adopted by the Office.'</li></ul></li><li block-type=\"ListItem\">(4) the following Article 7a is added:</li></ul></p>",
+      "page": 195,
+      "polygon": [
+        [
+          69.84375,
+          136.24658203125
+        ],
+        [
+          527.6199340820312,
+          136.24658203125
+        ],
+        [
+          527.6199340820312,
+          647.5614471435547
+        ],
+        [
+          69.84375,
+          647.5614471435547
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        136.24658203125,
+        527.6199340820312,
+        647.5614471435547
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h1>'<i>Article 7a</i></h1>",
+      "page": 195,
+      "polygon": [
+        [
+          293.052734375,
+          654.06591796875
+        ],
+        [
+          344.853515625,
+          654.06591796875
+        ],
+        [
+          344.853515625,
+          667.3614654541016
+        ],
+        [
+          293.052734375,
+          667.3614654541016
+        ]
+      ],
+      "bbox": [
+        293.052734375,
+        654.06591796875,
+        344.853515625,
+        667.3614654541016
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Modifications of third country geographical indications registered in the </b> <b>International Register</b></h1>",
+      "page": 195,
+      "polygon": [
+        [
+          133.8671875,
+          675.4014739990234
+        ],
+        [
+          506.70794677734375,
+          675.4014739990234
+        ],
+        [
+          506.70794677734375,
+          701.2014465332031
+        ],
+        [
+          133.8671875,
+          701.2014465332031
+        ]
+      ],
+      "bbox": [
+        133.8671875,
+        675.4014739990234,
+        506.70794677734375,
+        701.2014465332031
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">'1. Articles 4 to 7 shall apply, mutatis mutandis, to a modification of the name or a  modification of the type of product or a modification of the geographical area of  appellations of origin or geographical indications registered in the International</p>",
+      "page": 195,
+      "polygon": [
+        [
+          111.74999999999999,
+          708.39990234375
+        ],
+        [
+          527.5960083007812,
+          708.39990234375
+        ],
+        [
+          527.5960083007812,
+          748.3574600219727
+        ],
+        [
+          111.74999999999999,
+          748.3574600219727
+        ]
+      ],
+      "bbox": [
+        111.74999999999999,
+        708.39990234375,
+        527.5960083007812,
+        748.3574600219727
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 195,
+      "polygon": [
+        [
+          28.440000534057617,
+          782.49169921875
+        ],
+        [
+          567.0280151367188,
+          782.49169921875
+        ],
+        [
+          567.0280151367188,
+          806.9601783752441
+        ],
+        [
+          28.440000534057617,
+          806.9601783752441
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        782.49169921875,
+        567.0280151367188,
+        806.9601783752441
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Register in respect of which the Contracting Party of Origin, as defined in point (xv)  of Article 1 of the Geneva Act, is not a Member State, notified to the Commission or,  in respect of geographical indications for craft and industrial products, to the Office, pursuant to Rule 15(3) of the Common Regulations.';</p>",
+      "page": 161,
+      "polygon": [
+        [
+          112.91406249999999,
+          58.03857421875
+        ],
+        [
+          527.3359985351562,
+          58.03857421875
+        ],
+        [
+          527.3359985351562,
+          112.28155517578125
+        ],
+        [
+          112.91406249999999,
+          112.28155517578125
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        58.03857421875,
+        527.3359985351562,
+        112.28155517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/159",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(5) in Article 8, paragraph 1 is replaced by the following:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">'1. The implementing acts adopted by the Commission pursuant to Article 7 and 7a  shall apply without prejudice to other specific Union provisions relating to the  placing of products on the market and, in particular, to the common organisation of  agricultural markets, sanitary and phytosanitary standards, and food labelling.</li></ul></li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          70.94400024414062,
+          139.1279296875
+        ],
+        [
+          527.583984375,
+          139.1279296875
+        ],
+        [
+          527.583984375,
+          213.08148193359375
+        ],
+        [
+          70.94400024414062,
+          213.08148193359375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        139.1279296875,
+        527.583984375,
+        213.08148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In respect of geographical indications for craft and industrial products, the first  subparagraph shall apply mutatis mutandis to the decisions of the Office.';</p>",
+      "page": 161,
+      "polygon": [
+        [
+          113.42000579833984,
+          220.8814697265625
+        ],
+        [
+          527.530029296875,
+          220.8814697265625
+        ],
+        [
+          527.530029296875,
+          246.68157958984375
+        ],
+        [
+          113.42000579833984,
+          246.68157958984375
+        ]
+      ],
+      "bbox": [
+        113.42000579833984,
+        220.8814697265625,
+        527.530029296875,
+        246.68157958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/160",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(6) paragraph 5 of Article 12 is deleted;</li><li block-type=\"ListItem\">(7) the following Article 12a is added:</li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          69.26171875,
+          274.1396484375
+        ],
+        [
+          261.1459655761719,
+          274.1396484375
+        ],
+        [
+          261.1459655761719,
+          325.9114990234375
+        ],
+        [
+          69.26171875,
+          325.9114990234375
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        274.1396484375,
+        261.1459655761719,
+        325.9114990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1>'<i>Article 12a</i></h1>",
+      "page": 161,
+      "polygon": [
+        [
+          267.734375,
+          333.00146484375
+        ],
+        [
+          326.58197021484375,
+          333.00146484375
+        ],
+        [
+          326.58197021484375,
+          345.7114562988281
+        ],
+        [
+          267.734375,
+          345.7114562988281
+        ]
+      ],
+      "bbox": [
+        267.734375,
+        333.00146484375,
+        326.58197021484375,
+        345.7114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Application of Article 30 of Regulation (EU) 2023/2411</b></h2>",
+      "page": 161,
+      "polygon": [
+        [
+          178.1015625,
+          353.1708984375
+        ],
+        [
+          459.80468749999994,
+          353.1708984375
+        ],
+        [
+          459.80468749999994,
+          365.7514953613281
+        ],
+        [
+          178.1015625,
+          365.7514953613281
+        ]
+      ],
+      "bbox": [
+        178.1015625,
+        353.1708984375,
+        459.80468749999994,
+        365.7514953613281
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/6",
+        "2": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Paragraphs 1 to 5 of Article 30 of Regulation (EU) 2023/2411 shall apply <i>mutatis </i> <i>mutandis</i> to the procedures set out in this Regulation in respect of geographical  indications for craft and industrial products.';</p>",
+      "page": 161,
+      "polygon": [
+        [
+          112.91406249999999,
+          373.3114929199219
+        ],
+        [
+          527.5960083007812,
+          373.3114929199219
+        ],
+        [
+          527.5960083007812,
+          412.9114990234375
+        ],
+        [
+          112.91406249999999,
+          412.9114990234375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        373.3114929199219,
+        527.5960083007812,
+        412.9114990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/6",
+        "2": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(8) in Article 15, paragraph 1 is replaced by the following: <ul><li block-type=\"ListItem\" class=\"list-indent-1\">'1. The Commission shall be assisted by the following committees within the  meaning of Regulation (EU) No 182/2011, in respect of the following products:</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">(a) for wine, spirit drinks and agricultural products, falling within the scope of  Article 5(1) of Regulation (EU) 2024/1143, by the Quality Policy Committee for  agricultural products, wine and spirit drinks established by Article 88 of that  Regulation;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">(b) for craft and industrial products falling within the scope of Regulation (EU)  2023/2411, by the Committee for Craft and Industrial Geographical Indications  established by Article 68 of that Regulation.'.</li></ul></li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          70.42578125,
+          440.02294921875
+        ],
+        [
+          527.583984375,
+          440.02294921875
+        ],
+        [
+          527.583984375,
+          594.7614593505859
+        ],
+        [
+          70.42578125,
+          594.7614593505859
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        440.02294921875,
+        527.583984375,
+        594.7614593505859
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/6",
+        "2": "/page/10/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Article 2</i></h1>",
+      "page": 161,
+      "polygon": [
+        [
+          268.025390625,
+          620.724609375
+        ],
+        [
+          320.990234375,
+          620.724609375
+        ],
+        [
+          320.990234375,
+          637.189453125
+        ],
+        [
+          268.025390625,
+          637.189453125
+        ]
+      ],
+      "bbox": [
+        268.025390625,
+        620.724609375,
+        320.990234375,
+        637.189453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/14",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>Entry into force</b></h4>",
+      "page": 161,
+      "polygon": [
+        [
+          256.384765625,
+          636.4014739990234
+        ],
+        [
+          338.6900329589844,
+          636.4014739990234
+        ],
+        [
+          338.6900329589844,
+          648.4014739990234
+        ],
+        [
+          256.384765625,
+          648.4014739990234
+        ]
+      ],
+      "bbox": [
+        256.384765625,
+        636.4014739990234,
+        338.6900329589844,
+        648.4014739990234
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This Regulation shall enter into force on the twentieth day following that of its publication in  the <i>Official Journal of the European Union</i>.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          69.84375,
+          656.0258483886719
+        ],
+        [
+          527.4819946289062,
+          656.0258483886719
+        ],
+        [
+          527.4819946289062,
+          684.52587890625
+        ],
+        [
+          69.84375,
+          684.52587890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        656.0258483886719,
+        527.4819946289062,
+        684.52587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          28.440000534057617,
+          782.49169921875
+        ],
+        [
+          567.0280151367188,
+          782.49169921875
+        ],
+        [
+          567.0280151367188,
+          806.9601783752441
+        ],
+        [
+          28.440000534057617,
+          806.9601783752441
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        782.49169921875,
+        567.0280151367188,
+        806.9601783752441
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels,</p>",
+      "page": 25,
+      "polygon": [
+        [
+          69.84375,
+          57.21533203125
+        ],
+        [
+          511.63201904296875,
+          57.21533203125
+        ],
+        [
+          511.63201904296875,
+          90.68157958984375
+        ],
+        [
+          69.84375,
+          90.68157958984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        57.21533203125,
+        511.63201904296875,
+        90.68157958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>For the European Parliament</i> <i>For the Council</i></p>",
+      "page": 25,
+      "polygon": [
+        [
+          69.84375,
+          128.01416015625
+        ],
+        [
+          360.859375,
+          128.01416015625
+        ],
+        [
+          360.859375,
+          140.4815673828125
+        ],
+        [
+          69.84375,
+          140.4815673828125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        128.01416015625,
+        360.859375,
+        140.4815673828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>The President</i> <i>The President</i></p>",
+      "page": 25,
+      "polygon": [
+        [
+          69.84375,
+          191.40380859375
+        ],
+        [
+          353.875,
+          191.40380859375
+        ],
+        [
+          353.875,
+          204.08148193359375
+        ],
+        [
+          69.84375,
+          204.08148193359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        191.40380859375,
+        353.875,
+        204.08148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 25,
+      "polygon": [
+        [
+          28.440000534057617,
+          782.080078125
+        ],
+        [
+          567.0280151367188,
+          782.080078125
+        ],
+        [
+          567.0280151367188,
+          806.9601783752441
+        ],
+        [
+          28.440000534057617,
+          806.9601783752441
+        ]
+      ],
+      "bbox": [
+        28.440000534057617,
+        782.080078125,
+        567.0280151367188,
+        806.9601783752441
+      ],
+      "section_hierarchy": {
+        "1": "/page/10/SectionHeader/13",
+        "4": "/page/10/SectionHeader/14"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    }
+  }
+}

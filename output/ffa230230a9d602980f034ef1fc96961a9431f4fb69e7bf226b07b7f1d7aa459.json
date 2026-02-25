@@ -1,0 +1,1754 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          379.775390625,
+          55.9140625
+        ],
+        [
+          421.3210144042969,
+          55.9140625
+        ],
+        [
+          421.3210144042969,
+          65.9161376953125
+        ],
+        [
+          379.775390625,
+          65.9161376953125
+        ]
+      ],
+      "bbox": [
+        379.775390625,
+        55.9140625,
+        421.3210144042969,
+        65.9161376953125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 149,
+      "polygon": [
+        [
+          19.672656249999996,
+          37.04306640625
+        ],
+        [
+          201.49921875,
+          37.04306640625
+        ],
+        [
+          201.49921875,
+          99.45302734375
+        ],
+        [
+          19.672656249999996,
+          99.45302734375
+        ]
+      ],
+      "bbox": [
+        19.672656249999996,
+        37.04306640625,
+        201.49921875,
+        99.45302734375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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3fLk/nWuAFACgADoBQBhaV4aW2vf7T1O4N/qZGBM44iB6hB/CPpW9RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSEBlKsAQeCDS0UAc1feFRFcG/wBBmOnXo5KJ/qZfZk6fiMH3qBPHFvZxyW+swPaanFgfZgMmcnoY/wC8DXWVBLZ209xFPLBG80WfLdlyVz6GgDmY9G1LxLIt1r7vbWXWPTYnK59PMYck+3T2rp7W0t7KBYLWCOGJeiRqFA/KpqKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">aktsiaselts Valga Haigla Peetri 2 68206 Valga</p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          139.24151611328125
+        ],
+        [
+          206.55601501464844,
+          139.24151611328125
+        ],
+        [
+          206.55601501464844,
+          178.8427734375
+        ],
+        [
+          89.6328125,
+          178.8427734375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        139.24151611328125,
+        206.55601501464844,
+        178.8427734375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Matusebüroo MT Memoris OÜ Männiku tee 123 11216 Tallinn</p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.05078125,
+          192.8212890625
+        ],
+        [
+          241.70401000976562,
+          192.8212890625
+        ],
+        [
+          241.70401000976562,
+          234.04150390625
+        ],
+        [
+          89.05078125,
+          234.04150390625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        192.8212890625,
+        241.70401000976562,
+        234.04150390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">31.08.2023 nr 5-5/2023-031</p>",
+      "page": 149,
+      "polygon": [
+        [
+          381.4599914550781,
+          249.6715087890625
+        ],
+        [
+          531.7200317382812,
+          249.6715087890625
+        ],
+        [
+          531.7200317382812,
+          261.6715087890625
+        ],
+        [
+          381.4599914550781,
+          261.6715087890625
+        ]
+      ],
+      "bbox": [
+        381.4599914550781,
+        249.6715087890625,
+        531.7200317382812,
+        261.6715087890625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud e-posti aadressidele </i><i><a href=\"mailto:info@valgahaigla.ee\">info@valgahaigla.ee;</a></i><i> </i><i><a href=\"mailto:info@memoris.ee\">info@memoris.ee;</a></i><i> </i><i><a href=\"mailto:Risto.Ruutel@eversheds-sutherland.ee\">Risto.Ruutel@eversheds</a></i><i><a href=\"mailto:Risto.Ruutel@eversheds-sutherland.ee\">sutherland.ee</a></i></p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          304.6494140625
+        ],
+        [
+          538.9609375,
+          304.6494140625
+        ],
+        [
+          538.9609375,
+          329.044189453125
+        ],
+        [
+          89.6328125,
+          329.044189453125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        304.6494140625,
+        538.9609375,
+        329.044189453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Teade järelevalvemenetluse lõpetamisest</b> <b>ja soovitus Valga Haiglale</b></h3>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          354.67144775390625
+        ],
+        [
+          434.93798828125,
+          354.67144775390625
+        ],
+        [
+          434.93798828125,
+          366.67144775390625
+        ],
+        [
+          89.6328125,
+          366.67144775390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        354.67144775390625,
+        434.93798828125,
+        366.67144775390625
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>1.</b> <b>Järelevalvemenetluse alustamine</b></h3>",
+      "page": 149,
+      "polygon": [
+        [
+          90.21484375,
+          396.0914611816406
+        ],
+        [
+          294.302001953125,
+          396.0914611816406
+        ],
+        [
+          294.302001953125,
+          408.0914611816406
+        ],
+        [
+          90.21484375,
+          408.0914611816406
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        396.0914611816406,
+        294.302001953125,
+        408.0914611816406
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet alustas Sinilill Grupp OÜ 11.04.2022 esitatud kaebuse ja 13.04.2022 esitatud  täiendava pöördumise alusel järelevalvemenetluse nr 5-1/22-0005, eesmärgiga hinnata  Matusebüroo MT Memoris OÜ (edaspidi Memoris) tegevust seoses võimaliku turgu valitseva  seisundi kuritarvitamisega konkurentsiseaduse (edaspidi KonkS) § 16 lg 1 tähenduses.  Pöördumise kohaselt on Memorise poolt küsitav lahkunu väljastamise tasu oluliselt kõrgem, võrreldes mujal Eestis sarnast teenust pakkuvate ettevõtjate hinnakirjas olevate tasudega ning  sellise tasu nõudmine võtab lahkunu lähedastelt sobivaima teenusepakkuja valimisel  valikuvabaduse.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          423.69146728515625
+        ],
+        [
+          547.4280395507812,
+          423.69146728515625
+        ],
+        [
+          547.4280395507812,
+          532.2914733886719
+        ],
+        [
+          89.6328125,
+          532.2914733886719
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        423.69146728515625,
+        547.4280395507812,
+        532.2914733886719
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Järelevalvemenetluse jooksul esitatud andmete põhjal uuris Konkurentsiamet lisaks, kas  Memorise ja aktsiaseltsi Valga Haigla (edaspidi Valga Haigla) vahel sõlmitud lepingupunkti  4.3.4. puhul võib esineda KonkS § 4 lg 1 punkti 3 rikkumist, kuna pooled jagavad kaubaturgu,  leppides omavahel kokku, et kõik Valga Haiglas surnud patsiendid tuleb toimetada Memorise  poolt hallatavasse Valga Haigla morgi.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          547.9214782714844
+        ],
+        [
+          547.427978515625,
+          547.9214782714844
+        ],
+        [
+          547.427978515625,
+          615.876953125
+        ],
+        [
+          89.6328125,
+          615.876953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        547.9214782714844,
+        547.427978515625,
+        615.876953125
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>2.</b> <b>Faktilised asjaolud</b></h3>",
+      "page": 149,
+      "polygon": [
+        [
+          90.505859375,
+          630.6014709472656
+        ],
+        [
+          223.79101562499997,
+          630.6014709472656
+        ],
+        [
+          223.79101562499997,
+          642.6014709472656
+        ],
+        [
+          90.505859375,
+          642.6014709472656
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        630.6014709472656,
+        223.79101562499997,
+        642.6014709472656
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Valga Haigla selgitas järelevalvemenetluse käigus, et haigla viis läbi hanke  morgiteenuseosutaja leidmiseks ning hindamise kriteeriumiks oli parim rendihind. Valga  Haiglale majanduslikult soodsaima pakkumise tegi Memoris. Lisaks selgitas Valga Haigla  hankes osalenutele, et juhul kui lahkunu väljastatakse 24 tunni jooksul alates morgi toomisest,  siis väljastamise tasu on morgiteenuse pakkujal õigus võtta, kuid Valga Haigla eeldab, et  lahkunu hoiutasu esimese 24 tunni puhul ei rakendata. Valga Haigla möönab, et Valga Haigla  jaoks on saanud probleemiks asjaolu, et varasem teenusepakkuja, ehk Sinilill Grupp OÜ  rakendas lahkunu väljastamise tasu suuruses 25 eurot, kuid Memoris rakendab väljastamise tasu  suuruses 100 eurot.</p>",
+      "page": 149,
+      "polygon": [
+        [
+          89.6328125,
+          657.4013671875
+        ],
+        [
+          547.4639892578125,
+          657.4013671875
+        ],
+        [
+          547.4639892578125,
+          780.6214637756348
+        ],
+        [
+          89.6328125,
+          780.6214637756348
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        657.4013671875,
+        547.4639892578125,
+        780.6214637756348
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 149,
+      "polygon": [
+        [
+          90.7439956665039,
+          794.7197265625
+        ],
+        [
+          447.8603515625,
+          794.7197265625
+        ],
+        [
+          447.8603515625,
+          805.5434112548828
+        ],
+        [
+          90.7439956665039,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        794.7197265625,
+        447.8603515625,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Memorise ja Valga Haigla vahel on 31.03.2022 sõlmitud rendileping. Rendilepingu punktis  4.3.4. […].</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          59.6142578125
+        ],
+        [
+          547.1400146484375,
+          59.6142578125
+        ],
+        [
+          547.1400146484375,
+          86.56146240234375
+        ],
+        [
+          89.6328125,
+          86.56146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        59.6142578125,
+        547.1400146484375,
+        86.56146240234375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Memoris selgitas, et sõlmis Valga Haiglaga rendilepingu Valga Haigla poolt läbiviidud hanke  tulemusena. Tegemist on Memorise poolt Valga turule sisenemise katsega ning eelnevalt ei ole  Memoris Valgas ega Valgamaal tegutsenud. Memoris ei osuta Valga Haiglale matuseteenuseid  ning ruumide rendileping on ainus leping, mis on sõlmitud Valga Haiglaga. Vastavalt lepingule  võttis Memoris surnute hoiustamise külmkambri koos abiruumidega tasu eest rendile ja  kohustub võimaldama haiglas surnud patsientide surnukehade paigutamise külmkambrisse.  Memoris osutab Valga Haiglas üksnes morgiteenuseid. Põhilised kulud, mis Memorisel Valga  Haiglale teenuse osutamisega kaasnevad on […]. Memoris selgitas ametile, et […]. Seega ei  ole Memorise hinnangul 100 eurone lahkunu väljastamise tasu kuidagi ülemäärane, arvestades  teenuse osutamisel tekkivaid kulusid. Turgu valitseva seisundi osas leiab Memoris, et see  puudub, kuna lisaks Memorise poolt hallatavale morgile Valga Haiglas on Valgas lisaks ka  Sinilill Grupp OÜ-le kuuluv morg, mis kuulub monopoolset seisundit omavale matuseteenuse  osutajale Valgas.</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          101.138671875
+        ],
+        [
+          547.4039916992188,
+          101.138671875
+        ],
+        [
+          547.4039916992188,
+          279.79150390625
+        ],
+        [
+          89.6328125,
+          279.79150390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        101.138671875,
+        547.4039916992188,
+        279.79150390625
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Järelevalvemenetluse tulemusena saavutasid pooled kokkuleppe, mille kohaselt muudeti 31.03.2022 sõlmitud rendilepingut nii, et see ei sisalda enam eksklusiivsust. Lepingu punkt  4.3.4. viidi vastavusse konkurentsiseadusega ning […]. Valga Haigla vähendas rendilepingu  tasu 10%, sest tulenevalt riigihangete seadusest on võimalik lepingu täitmise ajal hinda muuta  kuni 10%. Seda tehes lõi Valga Haigla Memorisele eelduse lahkunu väljastustasu  langetamiseks. Memoris edastas Konkurentsiametile e-kirja teel enda poolse kinnituse uue  hinnakirja rakendamise kohta, mille kohaselt on Valgas uus lahkunu väljastamise tasu senisest  10% madalam, ehk 90 eurot.</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          293.9599609375
+        ],
+        [
+          547.4039916992188,
+          293.9599609375
+        ],
+        [
+          547.4039916992188,
+          404.011474609375
+        ],
+        [
+          89.6328125,
+          404.011474609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        293.9599609375,
+        547.4039916992188,
+        404.011474609375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>Konkurentsiameti hinnang</b></h1>",
+      "page": 194,
+      "polygon": [
+        [
+          90.21484375,
+          418.9443359375
+        ],
+        [
+          264.3739929199219,
+          418.9443359375
+        ],
+        [
+          264.3739929199219,
+          431.6114501953125
+        ],
+        [
+          90.21484375,
+          431.6114501953125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        418.9443359375,
+        264.3739929199219,
+        431.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>Kaubaturg ja Memorise seisund kaubaturul</h3>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          447.2114562988281
+        ],
+        [
+          297.75799560546875,
+          447.2114562988281
+        ],
+        [
+          297.75799560546875,
+          459.2114562988281
+        ],
+        [
+          89.6328125,
+          459.2114562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        447.2114562988281,
+        297.75799560546875,
+        459.2114562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konks § 3 lg 1 kohaselt on kaubaturg hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja  kasutustingimuste ning tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel  vahetatavate või asendatavate (edaspidi asendatavate) kaupade käibimise ala, mis hõlmab muu  hulgas kogu Eesti territooriumi või selle osa. KonkS § 13 lg 1 kohaselt omab turgu valitsevat  seisundit ettevõtja, kelle positsioon võimaldab tal sellel kaubaturul tegutseda arvestataval  määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu valitseva seisundi omamist  eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale ettevõtjale kuulub  kaubaturul vähemalt 40 protsenti käibest.</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          474.447265625
+        ],
+        [
+          547.427978515625,
+          474.447265625
+        ],
+        [
+          547.427978515625,
+          584.630859375
+        ],
+        [
+          89.6328125,
+          584.630859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        474.447265625,
+        547.427978515625,
+        584.630859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Käesolevas menetluses on vaatluse all morgiteenus. Tegemist on selgelt eraldiseisva teenusega,  millele puudub asenduskaup, ehk mis käibib tootena eraldiseisval kaubaturul.</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          599.0205078125
+        ],
+        [
+          547.2119750976562,
+          599.0205078125
+        ],
+        [
+          547.2119750976562,
+          624.8414611816406
+        ],
+        [
+          89.6328125,
+          624.8414611816406
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        599.0205078125,
+        547.2119750976562,
+        624.8414611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Kaubaturu geograafilist ulatust analüüsides tuleb lähtuda sellest, et morgiteenused on  piirkondliku iseloomuga, kuna üldjuhul inimesed surevad ja neid maetakse enda elukoha  lähedal. Valga linnas osutab morgiteenuseid Memoris Valga Haiglas ning Sinilill Grupp OÜ  väljaspool Valga Haiglat. Kuna Memorise ja Valga Haigla vahel sõlmitud lepingupunkt 4.3.4  […], siis omas Memoris kuni selle sätte kehtivuse lõpuni igal juhul turgu valitsevat seisundit.  Peale selle eksklusiivsätte kehtetuks muutumist on morgiteenuse ostjatel põhimõtteliselt  võimalik Memorise asemel ka teiste morgiteenuse osutajate teenuseid kasutada.  Konkurentsiamet peab siiski kaheldavaks, kas sel viisil tekkiv mõningane konkurentsisurve on  piisav vähendamaks otsustavalt Memorise turujõudu, ehk kaubaturg piirneb geograafiliselt  ostjate põhiosa vaates tõenäoliselt jätkuvalt Valga Haiglaga. On mõistetav, et lahkunu viimine  mujale, kui haigla juures asuvasse morgi, nõuab morgiteenuse ostjalt lisapingutusi. Seda silmas</p>",
+      "page": 194,
+      "polygon": [
+        [
+          89.6328125,
+          639.3115234375
+        ],
+        [
+          547.43994140625,
+          639.3115234375
+        ],
+        [
+          547.43994140625,
+          790.3414649963379
+        ],
+        [
+          89.6328125,
+          790.3414649963379
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        639.3115234375,
+        547.43994140625,
+        790.3414649963379
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 194,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.828125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">pidades peab Konkurentsiamet äärmiselt tõenäoliseks, et Memoris säilitab turgu valitseva  seisundi ka peale lepingulise eksklusiivsuse lõppemist.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          46.94146728515625
+        ],
+        [
+          547.1399536132812,
+          46.94146728515625
+        ],
+        [
+          547.1399536132812,
+          72.7705078125
+        ],
+        [
+          89.6328125,
+          72.7705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.94146728515625,
+        547.1399536132812,
+        72.7705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3>Valga Haigla ja Memorise vahel sõlmitud rendilepingu punkt 4.3.4</h3>",
+      "page": 180,
+      "polygon": [
+        [
+          88.46875,
+          88.3614501953125
+        ],
+        [
+          412.078125,
+          88.3614501953125
+        ],
+        [
+          412.078125,
+          100.3614501953125
+        ],
+        [
+          88.46875,
+          100.3614501953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        88.3614501953125,
+        412.078125,
+        100.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Rendilepingu osapooled on muutnud rendilepingu vaidlusalust punkti selliselt, et see ei anna  Memorisele enam eksklusiivõigust. Pooled ei jaga enam kaubaturgu ning teistel  teenusepakkujatel on vähemalt teoreetiliselt võimalik morgiteenuseid Valga Haiglas lahkunud  inimeste lähedastele pakkuda.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          115.939453125
+        ],
+        [
+          547.427978515625,
+          115.939453125
+        ],
+        [
+          547.427978515625,
+          169.3614501953125
+        ],
+        [
+          89.6328125,
+          169.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        115.939453125,
+        547.427978515625,
+        169.3614501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelpool on selgitatud, et sellisel viisil tekkiv konkurentsisurve ei ole tõenäoliselt eriti suur, kuid  turgu valitsevate ettevõtjate puhul tuleb erilise hoolega jälgida, et konkurentide pääsu turule ka  kõige minimaalsemas ulatuses ei takistataks. Seda silmas pidades tuleb vaidlusalust  rendilepingu punkti 4.3.4 pidada konkurentsiõiguslikult etteheidetavaks vaatamata sellele, kui  paljud tarbijad valiksid haiglasisese morgiteenuse ka otsese eksklusiivsuse puudumisel. Samas,  kuna järelevalvemenetluse raames on selgunud, et Memorise poolt Valga Haiglas rakendatav  lahkunu väljastamise tasu on üks kõrgemaid Eestis, siis on ameti hinnangul võimalik, et  lahkunu lähedastel võib lisapingutusest hoolimata tekkida soov lahkunu mujale morgi  transportida, kus hilisem lahkunu väljastamise tasu on oluliselt madalam. Seega avardab järelevalvemenetluse tulemusel aset leidnud eksklusiivsuse lõppemine lahkunud inimeste  lähedaste valikuvõimalusi morgiteenuse ostmisel.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          88.46875,
+          183.7763671875
+        ],
+        [
+          547.4280395507812,
+          183.7763671875
+        ],
+        [
+          547.4280395507812,
+          334.9914855957031
+        ],
+        [
+          88.46875,
+          334.9914855957031
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        183.7763671875,
+        547.4280395507812,
+        334.9914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3>Memorise hinnakujundus</h3>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          350.5914611816406
+        ],
+        [
+          213.0234375,
+          350.5914611816406
+        ],
+        [
+          213.0234375,
+          362.5914611816406
+        ],
+        [
+          89.6328125,
+          362.5914611816406
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        350.5914611816406,
+        213.0234375,
+        362.5914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti poolt läbi viidud hinnavõrdlusest selgus, et Memorise poolt Valga Haiglas  rakendatav lahkunu väljastamise tasu on üks kõrgemaid Eestis. KonkS § 16 p 1 kohaselt on  turgu valitseval ettevõtjal keelatud kehtestada ebaõiglaseid hindu.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          378.19146728515625
+        ],
+        [
+          547.2699584960938,
+          378.19146728515625
+        ],
+        [
+          547.2699584960938,
+          417.81146240234375
+        ],
+        [
+          89.6328125,
+          417.81146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        378.19146728515625,
+        547.2699584960938,
+        417.81146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ebaõiglase hinnakujunduse analüüs on üldjuhul tihedalt seotud teenuse osutamiseks tehtavate  kuludega. Riigikohus on 18.12.02 lahendis nr 3-3-1-66-02 leidnud, et \"turgu valitseva ettevõtja  poolt kehtestatud hind, mis ei ole mõistlikus vahekorras teenuse majandusliku väärtusega, on  ebaõiglane. Teenuse majanduslik väärtus on omakorda seotud teenuse osutamiseks vajalike  kuludega. /…/ Teenuse hind võib olla ebaõiglaselt kõrge ka juhul, kui kasumit ei teenitagi.  Turgu valitseva ettevõtja tarbijatelt ei ole õiglane nõuda ka ebaefektiivse majandamisega  kaasnevate lisakulude kandmist. Kulutus on põhjendatud, kui ta on tegelikult kantud ja vajalik  teenuse osutamiseks.\" Põhimõtet, et hinna ebaõigluse määramisel tuleb muuhulgas lähtuda  kuludest, on rõhutanud ka Euroopa Kohus enda 14.07.78 otsuses 27/76 United Brands p-s 251,  sedastades nn. kaheastmelist testi, mis on kujunenud EL konkurentsiõiguses ebaõiglase  hinnakujunduse käsitluse aluseks.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          433.4114685058594
+        ],
+        [
+          547.4400024414062,
+          433.4114685058594
+        ],
+        [
+          547.4400024414062,
+          585.0419921875
+        ],
+        [
+          89.6328125,
+          585.0419921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        433.4114685058594,
+        547.4400024414062,
+        585.0419921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Memorise poolt esitatud kuluandmete alusel ei ole Konkurentsiameti hinnangul võimalik  iseenesest välistada, et 100 euro suurune lahkunu väljastamise tasu ei ole kulupõhine. Memorise  kulud on võrdlemisi kõrged ning selle on tinginud […].</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          599.0205078125
+        ],
+        [
+          547.416015625,
+          599.0205078125
+        ],
+        [
+          547.416015625,
+          638.5214538574219
+        ],
+        [
+          89.6328125,
+          638.5214538574219
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        599.0205078125,
+        547.416015625,
+        638.5214538574219
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Riigikohtu 18.12.02 lahendist tuleneb teisalt, et turgu valitsev ettevõtja peab jälgima, et tal ei  tekiks ebaefektiivse majandamisega tekkivaid lisakulusid. Teisisõnu, turgu valitsev ettevõtja ei  tohiks […]. Antud juhul tuleb siiski arvestada, et Memoris tegi kõrge tasuga rendipakkumise  avatud konkurentsiolukorras, ehk turgu valitsevat seisundit veel omamata. Veelgi enam,  Memoris sel hetkel isegi veel ei tegutsenud Valga linnas, olles sisuliselt uus turule sisenev  konkurent. Eeltoodut silmas pidades leiab Konkurentsiamet, et Memorise poolt rakendatav  kõrge lahkunu väljastamise tasu, mille on põhjustanud […], ei ole põhjuslikult seotud mitte  Memorise turujõuga, vaid hoopis Valga Haigla poolt läbi viidud hanke korralduslike  eripäradega.</p>",
+      "page": 180,
+      "polygon": [
+        [
+          89.6328125,
+          652.4677734375
+        ],
+        [
+          547.416015625,
+          652.4677734375
+        ],
+        [
+          547.416015625,
+          776.5414581298828
+        ],
+        [
+          89.6328125,
+          776.5414581298828
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        652.4677734375,
+        547.416015625,
+        776.5414581298828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 180,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.828125,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet arvestab ka, et rendilepingu lisa allkirjastamisega 25.07.2023 on pooled […]. Amet möönab, et Valga Haigla juures tegutsev morg rakendab endiselt Eestis ühte kõrgeimat  lahkunu väljastamise tasu, kuid […] ei võimalda hinda suuremas määras langetada.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          46.4580078125
+        ],
+        [
+          547.1160278320312,
+          46.4580078125
+        ],
+        [
+          547.1160278320312,
+          86.56146240234375
+        ],
+        [
+          89.6328125,
+          86.56146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.4580078125,
+        547.1160278320312,
+        86.56146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/2/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>4.</b> <b>Menetluse lõpetamine</b></h3>",
+      "page": 191,
+      "polygon": [
+        [
+          88.759765625,
+          102.1614990234375
+        ],
+        [
+          238.33999633789062,
+          102.1614990234375
+        ],
+        [
+          238.33999633789062,
+          114.1614990234375
+        ],
+        [
+          88.759765625,
+          114.1614990234375
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        102.1614990234375,
+        238.33999633789062,
+        114.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnimetatud põhjustel leiab amet, et järelevalvemenetlust pole otstarbekas jätkata, kuna Valga  Haigla ja Memoris on järelevalvemenetluse tulemusel rendilepingu muutmisega oluliselt  parandanud konkurentsiolukorda kaubaturul. Mis puudutab Memorise poolt rakendatavat  hinnakirja lahkunu väljastamisel morgist, siis puuduvad Memorise tegevuses  konkurentsiseaduse rikkumise tunnused kuna tegemist on hanke korraldusliku eripäraga.  Seetõttu lõpetab Konkurentsiamet järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punktide 1 ja 3 alusel.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          129.761474609375
+        ],
+        [
+          547.427978515625,
+          129.761474609375
+        ],
+        [
+          547.427978515625,
+          210.761474609375
+        ],
+        [
+          89.6328125,
+          210.761474609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        129.761474609375,
+        547.427978515625,
+        210.761474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "3": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>5.</b> <b>Soovituse andmine Valga Haiglale</b></h2>",
+      "page": 191,
+      "polygon": [
+        [
+          90.21484375,
+          226.3914794921875
+        ],
+        [
+          299.864013671875,
+          226.3914794921875
+        ],
+        [
+          299.864013671875,
+          238.8681640625
+        ],
+        [
+          90.21484375,
+          238.8681640625
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        226.3914794921875,
+        299.864013671875,
+        238.8681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet leiab eeltoodut kokku võttes, et Valga Haiglas tekkinud probleemi  algpõhjuseks on morgiteenuse osutaja leidmiseks läbi viidud hanke korralduslikud eripärad. Seetõttu on tulevikus mõistlik hanketingimustes ette näha mehhanismid, mis sellised  hinnakujunduslikud probleemid välistaksid. Seda silmas pidades teeb Konkurentsiamet  KonkS § 61 alusel Valga Haiglale alljärgnevad soovitused:</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          253.99151611328125
+        ],
+        [
+          547.3060302734375,
+          253.99151611328125
+        ],
+        [
+          547.3060302734375,
+          321.1915283203125
+        ],
+        [
+          89.6328125,
+          321.1915283203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        253.99151611328125,
+        547.3060302734375,
+        321.1915283203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet peab kõige mõistlikumaks lahenduseks, kui hanke tingimustes määratakse  maksimaalne võimalik rendihind ning hanke võitmiseks tuleb pakkuda võimalikult madalaid  tarbijatelt võetavaid teenustasusid. Valga Haigla poolt välja saadetud külmkambri ja abiruumide  kasutusele andmise avalikus kirjalikus enampakkumises oli enampakkumise eesmärgiks  sõlmida 3-aastane kasutusleping vähemalt turupõhise kasutustasu eest. Sealjuures oli märgitud  alghinnana Valga Haigla poolt arvutatud turupõhine kasutustasu 490 eurot kalendrikuu eest. See näitab, et hanke võidupakkumises sisaldunud […] rendihind ületas tunduvalt ka Valga  Haigla enda ootusi. Sätestades turuhinnale vastaval tasemel maksimaalse rendihinna on Valga  Haigla majanduslikud huvid ühelt poolt mõistlikult kaitstud ning teiselt poolt kujunevad ka  tarbijatelt võetud teenustasud tegelikus konkurentsiolukorras.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          336.306640625
+        ],
+        [
+          547.427978515625,
+          336.306640625
+        ],
+        [
+          547.427978515625,
+          473.011474609375
+        ],
+        [
+          89.6328125,
+          473.011474609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        336.306640625,
+        547.427978515625,
+        473.011474609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet peab konkurentsiõiguslikult ebasoovitavamaks ja võimalik, et ka keelatuks  lahendust, kus haigla kirjutaks hanke tingimustes ette maksimaalsed tarbijatelt võetavad  teenustasud ning hanke võidaks kõrgeimat rendihinda pakkuv ettevõtja. Sellise teenustasude  ettekirjutamisega kaasneb sisuliselt jaehindades kokku leppimine haigla ja morgiteenuse  osutaja vahel, mis võib aga olla KonkS § 4 lg 1 p-i 1 kohaselt keelatud.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          488.6114501953125
+        ],
+        [
+          547.3839721679688,
+          488.6114501953125
+        ],
+        [
+          547.3839721679688,
+          556.673828125
+        ],
+        [
+          89.6328125,
+          556.673828125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        488.6114501953125,
+        547.3839721679688,
+        556.673828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks, ameti hinnangul oleks mõistlik hanketingimustes ette näha, et lisaks tasuta hoiutasule  esimese 24 tunni jooksul oleks ka lahkunu väljastamine tasuta esimese 24 tunni jooksul. Hetkel  kehtiva rendilepingu kohaselt on Memorisel võimalik morgi paigutatud lahkunu väljastamise  tasu igal juhul rakendada, olenemata sellest, et lahkunu lähedane korraldab lahkunu transpordi  mujale morgi. Kõrge lahkunu väljastamise tasu nullib seeläbi 24 tunnise hoiustamistasu  puudumise mõtte. Konkurentsiamet leiab, et 24 tundi on küll lühike aeg selleks, et lahkunu  lähedane jõuaks reageerida lähedase lahkumisele ning teha valiku erinevate teenusepakkujate  vahel, kuid teenustasude puudumine selle aja vältel avardab siiski võimalusi valida  konkureerivate pakkumiste vahel.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          571.4414672851562
+        ],
+        [
+          547.4280395507812,
+          571.4414672851562
+        ],
+        [
+          547.4280395507812,
+          696.0478515625
+        ],
+        [
+          89.6328125,
+          696.0478515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        571.4414672851562,
+        547.4280395507812,
+        696.0478515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Valga Haiglal on soovitav tutvustada lahkunu lähedastele kõiki Valgas tegutsevaid  morgiteenuse pakkujaid, sh millistel tingimustel ja kuidas oleks võimalik kasutada väljaspool  haiglat tegutsevaid teenusepakkujaid. Lahkunu lähedasel on selliselt võimalik langetada parim  võimalik otsus, pidades silmas teenuse hinda ning muid olulisi argumente.</p>",
+      "page": 191,
+      "polygon": [
+        [
+          89.6328125,
+          709.3414611816406
+        ],
+        [
+          547.4400024414062,
+          709.3414611816406
+        ],
+        [
+          547.4400024414062,
+          763.0625
+        ],
+        [
+          89.6328125,
+          763.0625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        709.3414611816406,
+        547.4400024414062,
+        763.0625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 191,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          523.24609375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevale lisaks märgib Konkurentsiamet, et Eesti suurim tervishoiuteenuse osutaja (Sihtasutus Põhja-Eesti Regionaalhaigla) on ametile selgitanud, et nemad käsitlevad lahkunu haiglamorgist väljastamist tervishoiuteenuse osana ja väljastamise eest morgi operaatoril tasu küsida ei luba. Konkurentsiamet möönab, et küsimus sellest, kus lõpeb tervishoiuteenuse osutamine ja kus algab matuseteenuse osutamine, pole üheselt selge ja võib tuua kaasa erinevad praktikad. Küll aga on see oluline antud valdkondades tegutsevate ettevõtjate jaoks välja selgitada. Konkurentsiameti esialgse hinnangu kohaselt, eriti arvestades asjaolu, et haiglas lahkunud inimese surma ametlik registreerimine on tervishoiuteenuse osa, peaks ka surnu viibimine haigla morgis seni kuni lähedased otsustavad matuseteenuse osutaja, olema tervishoiuteenuse osa. Tulenevalt eeltoodust ei tohiks lahkunu morgist väljastamise eest eraldi tasu küsida.</p>",
+      "page": 36,
+      "polygon": [
+        [
+          88.82980866062437,
+          46.77777777777778
+        ],
+        [
+          548.5840886203424,
+          46.77777777777778
+        ],
+        [
+          548.5840886203424,
+          182.9541015625
+        ],
+        [
+          88.82980866062437,
+          182.9541015625
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        46.77777777777778,
+        548.5840886203424,
+        182.9541015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/allkirjastatud digitaalselt/</p>",
+      "page": 36,
+      "polygon": [
+        [
+          88.82980866062437,
+          208.7008547008547
+        ],
+        [
+          212.47129909365557,
+          208.7008547008547
+        ],
+        [
+          212.47129909365557,
+          219.4957264957265
+        ],
+        [
+          88.82980866062437,
+          219.4957264957265
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        208.7008547008547,
+        212.47129909365557,
+        219.4957264957265
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 36,
+      "polygon": [
+        [
+          88.82980866062437,
+          244.212890625
+        ],
+        [
+          351.1178247734139,
+          244.212890625
+        ],
+        [
+          351.1178247734139,
+          268.880859375
+        ],
+        [
+          88.82980866062437,
+          268.880859375
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        244.212890625,
+        351.1178247734139,
+        268.880859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ÄRAKIRI Dokument ei sisalda Matusebüroo MT Memoris OÜ ärisaladusi. /Kristiina Arnus/ 13.09.2023</p>",
+      "page": 36,
+      "polygon": [
+        [
+          88.82980866062437,
+          290.26210826210826
+        ],
+        [
+          402.73514602215505,
+          290.26210826210826
+        ],
+        [
+          402.73514602215505,
+          326.84472934472933
+        ],
+        [
+          88.82980866062437,
+          326.84472934472933
+        ]
+      ],
+      "bbox": [
+        88.82980866062437,
+        290.26210826210826,
+        402.73514602215505,
+        326.84472934472933
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 36,
+      "polygon": [
+        [
+          523.828125,
+          794.7197265625
+        ],
+        [
+          546.7834843907351,
+          794.7197265625
+        ],
+        [
+          546.7834843907351,
+          805.417378917379
+        ],
+        [
+          523.828125,
+          805.417378917379
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.7197265625,
+        546.7834843907351,
+        805.417378917379
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/3",
+        "2": "/page/3/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

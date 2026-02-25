@@ -1,0 +1,2689 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 233,
+      "polygon": [
+        [
+          485.3799743652344,
+          51.3916015625
+        ],
+        [
+          534.7479858398438,
+          51.3916015625
+        ],
+        [
+          534.7479858398438,
+          65.42144775390625
+        ],
+        [
+          485.3799743652344,
+          65.42144775390625
+        ]
+      ],
+      "bbox": [
+        485.3799743652344,
+        51.3916015625,
+        534.7479858398438,
+        65.42144775390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 233,
+      "polygon": [
+        [
+          408.5859375,
+          77.29296875
+        ],
+        [
+          536.6328125,
+          77.29296875
+        ],
+        [
+          536.6328125,
+          91.24151611328125
+        ],
+        [
+          408.5859375,
+          91.24151611328125
+        ]
+      ],
+      "bbox": [
+        408.5859375,
+        77.29296875,
+        536.6328125,
+        91.24151611328125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/2",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/2'></p>",
+      "page": 233,
+      "polygon": [
+        [
+          27.762890624999997,
+          31.20498046875
+        ],
+        [
+          210.869921875,
+          31.20498046875
+        ],
+        [
+          210.869921875,
+          95.42392578125
+        ],
+        [
+          27.762890624999997,
+          95.42392578125
+        ]
+      ],
+      "bbox": [
+        27.762890624999997,
+        31.20498046875,
+        210.869921875,
+        95.42392578125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/2": "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KqAWZupJ9aNK0mx0TT47HTrdILePOFUdSTkk+pJJOaw/7C8SaaANJ8R/aIwMeTq1uJsegDRlG/Ft1POteJLQp9t8MrMnRnsLwSMffYyrj6bjQB01Fc5F420nzxb3y3Wm3GQPLvICuPqwyo/Ot63ure7iEttPFNGejxuGH5igCWs5tB0l2gZtOtSYC5izEPkLfeI9zz+daNFADIoYoI1jijVEUYCqMAU+iori6t7SIy3M8UMY6vI4UfmaAJap6jpNhq1v9nv7SK4i3q5SRQQSpyM/iKx5fHGj+ebey+06jcbtojs4C+T7McL+tNGt+I7tn+xeGBEnZ7+8ETfXaqt/OgDZl0fTpryC7ksoGuIARFIUGVB64qHVde0zQ4lN3Oqsx2xwxjc7k9AqjkmskaJ4m1IY1XxGttGRjytJthFn1BaQuf8AvnbWnpXhnSdHlM9ra5umXa11O7SzMPTe5LY9s49qAMY6Tf8Ai9oZ9dha00pH8xNMzzMQcqZvUd9vT1rrgAAABgDoKWigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBk0MVxGY5okkjPVXUMD+BrAu/BunSSGfT3n0u66iWzfb+anK4/AV0VFAHKHXdV8OPs8SRJNY9F1S1Q7Fyf8AlrHyU+oyvqRXTC5gNr9pE0Zt9m/zd42bcZznpjHenuiSIyOoZGGCpGQRXKSeBLWS5aA3k/8AYjsJX0rP7ouDn67c8lemQDQA/wDt3U/EMrReG4kjshjdql0h8tvXyk6v9eF9CaltfBOnCRbjVJbjVrsYJlvHyAcdkGFA+ua6OONIo1jjUKijAUDAAp1AEcNvDbRiOCKOKMdFjUKB+AqSiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/2Q=="
+      }
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">07.10.2024 nr 5-1/24-0002-227-7</p>",
+      "page": 233,
+      "polygon": [
+        [
+          382.989990234375,
+          156.6414794921875
+        ],
+        [
+          545.9453125,
+          156.6414794921875
+        ],
+        [
+          545.9453125,
+          168.6414794921875
+        ],
+        [
+          382.989990234375,
+          168.6414794921875
+        ]
+      ],
+      "bbox": [
+        382.989990234375,
+        156.6414794921875,
+        545.9453125,
+        168.6414794921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>ETTEKIRJUTUS</b></h3>",
+      "page": 233,
+      "polygon": [
+        [
+          90.21484375,
+          182.1318359375
+        ],
+        [
+          183.52798461914062,
+          182.1318359375
+        ],
+        [
+          183.52798461914062,
+          194.44146728515625
+        ],
+        [
+          90.21484375,
+          194.44146728515625
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        182.1318359375,
+        183.52798461914062,
+        194.44146728515625
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Eesti Keskkonnateenused AS-ile turgu valitseva seisundi kuritarvitamise lõpetamiseks </b></p>",
+      "page": 233,
+      "polygon": [
+        [
+          89.6328125,
+          208.24151611328125
+        ],
+        [
+          534.77001953125,
+          208.24151611328125
+        ],
+        [
+          534.77001953125,
+          221.189453125
+        ],
+        [
+          89.6328125,
+          221.189453125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        208.24151611328125,
+        534.77001953125,
+        221.189453125
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Ettekirjutuse adressaat</b>: Eesti Keskkonnateenused AS, registrikood 10277820, aadress Artelli  tn 15, Tallinn, Harju maakond 10621, e-posti aadress<a href=\"mailto:info@keskkonnateenused.ee\"> info@keskkonnateenused.ee.</a></p>",
+      "page": 233,
+      "polygon": [
+        [
+          89.6328125,
+          247.84149169921875
+        ],
+        [
+          547.3060302734375,
+          247.84149169921875
+        ],
+        [
+          547.3060302734375,
+          274.2255859375
+        ],
+        [
+          89.6328125,
+          274.2255859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        247.84149169921875,
+        547.3060302734375,
+        274.2255859375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Ettekirjutuse tegemise aeg ja koht</b>: 07.10.2024, Tallinn</p>",
+      "page": 233,
+      "polygon": [
+        [
+          89.6328125,
+          289.0263671875
+        ],
+        [
+          366.6796875,
+          289.0263671875
+        ],
+        [
+          366.6796875,
+          301.271484375
+        ],
+        [
+          89.6328125,
+          301.271484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        289.0263671875,
+        366.6796875,
+        301.271484375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet (edaspidi ka Amet) teeb konkurentsiseaduse (edaspidi KonkS) § 61<sup>1</sup> ja  korrakaitseseaduse (edaspidi KorS) § 28 lõike 1 alusel ettekirjutuse alljärgneva resolutsiooni ja  põhjendustega.</p>",
+      "page": 233,
+      "polygon": [
+        [
+          89.6328125,
+          315.498779296875
+        ],
+        [
+          547.4440307617188,
+          315.498779296875
+        ],
+        [
+          547.4440307617188,
+          356.4714660644531
+        ],
+        [
+          89.6328125,
+          356.4714660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        315.498779296875,
+        547.4440307617188,
+        356.4714660644531
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>RESOLUTSIOON</b></h3>",
+      "page": 233,
+      "polygon": [
+        [
+          89.341796875,
+          383.998046875
+        ],
+        [
+          186.83998107910156,
+          383.998046875
+        ],
+        [
+          186.83998107910156,
+          396.0714416503906
+        ],
+        [
+          89.341796875,
+          396.0714416503906
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        383.998046875,
+        186.83998107910156,
+        396.0714416503906
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/233",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><b>1.</b> <b>Eesti Keskkonnateenused AS on rikkunud (registrikood 10277820, aadress Artelli tn </b> <b>15, Tallinn, Harju maakond 10621) KonkS § 16 punkti 1 ning turgu valitsevatseisundit</b> <b>kuritarvitanud, mis seisneb lisateenusele jäätmekoti, kogumismahuti ja konteineri </b> <b>käsitransport alates 10 meetrist, kuid mitte kaugemalt kui 30</b> <b>meetrit,</b> <b>ebaõiglaselt </b> <b>kõrge tasu kehtestamises Antsla ja Rõuge valla (9,50</b> <b>eurot kord ilma käibemaksuta), </b> <b>Elva</b> <b>valla</b> <b>(10</b> <b>eurot kord ilma käibemaksuta), Haljala</b> <b>valla (9,59</b> <b>eurot kord ilma </b> <b>käibemaksuta), Häädemeeste</b> <b>valla (9,56</b> <b>eurot kord ilma käibemaksuta), Kastre</b> <b>valla </b> <b>(10</b> <b>eurot kord ilma käibemaksuta), Kehtna</b> <b>valla (10</b> <b>eurot kord ilma käibemaksuta), </b> <b>Kiili</b> <b>valla (9,56</b> <b>eurot kord ilma käibemaksuta), Kuusalu</b> <b>valla (20</b> <b>eurot kord ilma </b> <b>käibemaksuta), Muhu</b> <b>valla (9,56-10</b> <b>eurot kord ilma käibemaksuta), Nõo</b> <b>valla (8,33</b> <b>eurot kord ilma käibemaksuta), Põhja-Pärnumaa</b> <b>valla (9,56</b> <b>eurot kord ilma </b> <b>käibemaksuta), Põhja-Sakala</b> <b>valla (9,56</b> <b>eurot kord ilma käibemaksuta), Raasiku</b> <b>valla (9,59</b> <b>eurot kord ilma käibemaksuta), Saarde</b> <b>valla (9,56</b> <b>eurot kord ilma </b> <b>käibemaksuta)</b> <b>ning Loksa</b> <b>linna (9,59</b> <b>eurot kord ilma käibemaksuta)</b> <b>ja Maardu linna</b> <b>(9,59</b> <b>eurot kord ilma käibemaksuta)</b> <b>hinnakirjades.</b></li><li block-type=\"ListItem\"><b>2.</b> <b>Konkurentsiamet kohustab</b> <b>Eesti Keskkonnateenused AS-i 31. oktoobriks</b> <b>2024. a </b> <b>alandama Antsla ja Rõuge valla, Elva valla, Haljala valla, Häädemeeste valla, Kastre </b> <b>valla, Kehtna valla, Kiili valla, Kuusalu valla, Muhu valla, Nõo valla, Põhja-Pärnumaa </b> <b>valla, Põhja-Sakala valla, Raasiku valla, Saarde valla</b> <b>ning Loksa linna ja Maardu </b> <b>linna hinnakirjades lisateenusele jäätmekoti, kogumismahuti ja konteineri </b> <b>käsitransport alates 10 meetrist, kuid mitte kaugemalt kui 30</b> <b>meetrit,</b> <b>kehtestatud </b> <b>hinda, mis on praegu vahemikus 8,33-20,00</b> <b>eurot kord ilma</b> <b>käibemaksuta, selliselt, et </b> <b>lisateenuse hind vastaks tegelikele kuludele ja sisaldaks mõistlikku kasumit. </b> <b>Konkurentsiamet on</b> <b>menetluses</b> <b>tuvastanud, et EKT vastava lisateenuse kulupõhine </b> <b>hind on […]</b> <b>eurot ning koos mõistliku kasumiga […]</b> <b>eurot ilma käibemaksuta.</b></li></ul></p>",
+      "page": 233,
+      "polygon": [
+        [
+          88.46875,
+          409.8714599609375
+        ],
+        [
+          547.4559936523438,
+          409.8714599609375
+        ],
+        [
+          547.4559936523438,
+          766.9174652099609
+        ],
+        [
+          88.46875,
+          766.9174652099609
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        409.8714599609375,
+        547.4559936523438,
+        766.9174652099609
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ettekirjutuse täitmisest tuleb teavitada <b>hiljemalt 31.10.2024</b> kirjalikult e-posti  <a href=\"mailto:info@konkurentsiamet.ee\">(info@konkurentsiamet.ee)</a> teel.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          51.3916015625
+        ],
+        [
+          547.407958984375,
+          51.3916015625
+        ],
+        [
+          547.407958984375,
+          78.1414794921875
+        ],
+        [
+          89.6328125,
+          78.1414794921875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        51.3916015625,
+        547.407958984375,
+        78.1414794921875
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>MENETLUSE KÄIK </b></h2>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          104.0166015625
+        ],
+        [
+          204.2480010986328,
+          104.0166015625
+        ],
+        [
+          204.2480010986328,
+          117.761474609375
+        ],
+        [
+          89.6328125,
+          117.761474609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        104.0166015625,
+        204.2480010986328,
+        117.761474609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/217",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. 2023. aasta detsembris kaardistas Konkurentsiamet (edaspidi ka <b>amet</b>) Eesti  Keskkonnateenused AS-i (edaspidi ka <b>EKT</b>) poolt hallatavates jäätmeveo piirkondades  kehtestatud hindasid korraldatud jäätmeveoga seotud lisateenustele, täpsemalt jäätmekoti,  kogumismahuti ja konteineri (edaspidi koosnimetatuna <b>konteiner</b>) käsitranspordile alates  10 meetrist, kuid mitte kaugemalt kui 30 meetrit (edaspidi ka <b>lisateenus</b>). Kaardistuse  ajendiks oli 26.06.2023.a algatatud järelevalvemenetlus veoettevõtja Ragn-Sells AS-i  tegevuse suhtes, mis seisnes konteineri käsitranspordile ebaõiglaselt kõrge müügihinna  kehtestamises ja rakendamises Pärnu jäätmeveo piirkonnas. Hinnakirja kaardistusest  selgus, et ka EKT on osades jäätmeveo piirkondades hinnastanud lisateenuse hinnad  Konkurentsiameti esialgsel hinnangul ebamõistlikult kõrgelt.</li><li block-type=\"ListItem\">2. 08.12.2023 pöördus amet e-kirjaga EKT poole, milles juhtis tähelepanu lisateenuste  hindadele ning selgitas, et kui ettevõtja ei vii teenuse hindasid kooskõlla selle teenuse  majandusliku väärtusega, siis peab amet võimalikuks järelevalvemenetluse alustamist.</li><li block-type=\"ListItem\">3. 22.01.2024.a seisuga ei olnud ettevõtja oma hinnakirjades nõuetekohaseid muudatusi  teinud, mistõttu Konkurentsiamet alustas EKT suhtes järelevalvemenetluse, selgitamaks  välja, kas ettevõtja tegevus lisateenuse hinnastamisel on kooskõlas KonkS § 16 punktiga 1.</li><li block-type=\"ListItem\">4. Menetluse käigus küsis Konkurentsiamet lisateenuse hinnakujundusest ülevaate saamiseks  EKT-lt teavet neljal korral (22.01.2024 nr 5-1/24-0002-009-1, 26.03.2024 nr 5-1/24-0002- 105-1, 26.04.2024 nr 5-1/24-0002-175-1 ja 27.08.2024 nr 5-1/24-0002-227-5).</li><li block-type=\"ListItem\">5. EKT vastas Konkurentsiameti teabetaotlustele 02.02.2024 (5-1/24-0002-009-2),  12.04.2024 (5-1/24-0002-105-2), 08.05.2024 (5-1/24-0002-175-2) ja 30.08.2024 (5-1/24- 0002-227-6).</li><li block-type=\"ListItem\">6. 17.07.2024 edastas Konkurentsiamet EKT-le ettekirjutuse hoiatuse, sest pidas võimalikuks  ettekirjutuse tegemist KonkS § 16 p 1 nõuetele mittevastava hinnakujunduse lõpetamise  nõudes. Menetlusdokumendiga andis amet EKT-le võimaluse esitada asja kohta oma  arvamus ja vastuväited.</li><li block-type=\"ListItem\">7. Pärast EKT 29.07.2024 taotluse alusel vastamise tähtaja pikendamist, esitas 19.08.2024  EKT oma vastuväited ettekirjutuse hoiatusele.</li></ul></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          131.56146240234375
+        ],
+        [
+          547.4199829101562,
+          131.56146240234375
+        ],
+        [
+          547.4199829101562,
+          589.5314636230469
+        ],
+        [
+          89.6328125,
+          589.5314636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        131.56146240234375,
+        547.4199829101562,
+        589.5314636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>FAKTILISED ASJAOLUD</b></h3>",
+      "page": 218,
+      "polygon": [
+        [
+          89.341796875,
+          617.1103515625
+        ],
+        [
+          232.44000244140625,
+          617.1103515625
+        ],
+        [
+          232.44000244140625,
+          629.1614532470703
+        ],
+        [
+          89.341796875,
+          629.1614532470703
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        617.1103515625,
+        232.44000244140625,
+        629.1614532470703
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/218",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">8. EKT-l on mitmetes Eesti piirkondades korraldatud jäätmeveo teenuste osutamise kontsessioon (ainuõigus), mille alusel teostab veoettevõtja kindlaksmääratud  haldusterritooriumil olmejäätmete kogumist ja vedu määratud piirkonnast määratud  jäätmekäitluskohta või -kohtadesse. Lisaks olmejäätmete kogumisele ja veole kui nn  põhiteenusele osutab EKT ka erinevaid korraldatud jäätmeveoga seotud lisateenuseid.</li><li block-type=\"ListItem\">9. Järelevalvemenetluses on vaatluse all konteineri käsitransport jäätmeveokini. Enamasti on  konteineri käsitransport veokini kuni 10 meetri ulatuses käsitletud jäätmete vedamise  teenuse osana. Kui aga konteiner asub jäätmeveoki peatumiskohast kaugemal kui 10</li></ul></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          642.9614562988281
+        ],
+        [
+          547.4080200195312,
+          642.9614562988281
+        ],
+        [
+          547.4080200195312,
+          763.5574645996094
+        ],
+        [
+          89.6328125,
+          763.5574645996094
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        642.9614562988281,
+        547.4080200195312,
+        763.5574645996094
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/254",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">meetrit, on tegemist lisateenusega, mille eest veoettevõtja võib küsida lisatasu.  Järelevalvemenetluses on vaatluse all need piirkonnad, kus EKT kehtestatud tasu on  kõrgem kui 10 eurot koos käibemaksuga. Need piirkonnad on järgimised<a href=\"#page-2-0\">1</a> :</li><li block-type=\"ListItem\">9.1. <b>Antsla ja Rõuge vald</b>  Jäätmekoti või kuni 1100L ratastel kogumismahuti käsitransport  veokini (al 11-20m), tk – 9,50 eurot kord ilma käibemaksuta – hind käibemaksuga 11,59  eurot. Lisateenuse osutamise kohustus tuleneb Sihtasutus Võrumaa Arenduskeskus  (90013972) korraldatud riigihanke \"Korraldatud jäätmevedu 2024-2029\" (viitenumber:  270514) tehnilise kirjelduse punktist 4.9.4.</li><li block-type=\"ListItem\">9.2. <b>Elva vald</b>  Jäätmekoti või kuni 1,10m3 ratastel kogumismahuti käsitransport veokini (al  11-20m), tk – 10 eurot kord ilma käibemaksuta – hind käibemaksuga 12,20 eurot.  Lisateenuse osutamise kohustus tuleneb Elva Vallavalitsuse korraldatud riigihanke  \"Kontsessiooni andmine korraldatud jäätmeveo teenuse osutamiseks Elva vallas 2023- 2028\" (viitenumber: 266334) tehnilise kirjelduse punktist 5.9.3.</li><li block-type=\"ListItem\">9.3. <b>Haljala vald</b>  Jäätmekoti või ratastel kuni 0,8m3 kogumismahuti käsitransport  jäätmeveokini rohkem kui 10m/kord – 9,59 eurot kord ilma käibemaksuta – hind  käibemaksuga 11,70 eurot. Lisateenuse osutamise kohustus tuleneb Haljala Vallavalitsuse  korraldatud riigihanke \"Korraldatud jäätmeveo kontsessiooni andmine Haljala vallas\"  (viitenumber: 249410) tehnilise kirjelduse punktist 13.2.5 ja 13.2.6.</li><li block-type=\"ListItem\">9.4. <b>Häädemeeste vald</b>  0,24 m3 kuni 0,80m3 ratastel kogumismahuti käsitransport veokini  (alates 11 m) kord – 9,56 eurot kord ilma käibemaksuta – hind käibemaksuga 11,66 eurot.  Lisateenuse osutamise kohustus tuleneb Mittetulundusühing Eesti Jäätmehoolduskeskus  (80195414) korraldatud riigihanke \"Häädemeeste valla korraldatud jäätmeveo teenuste  hange\" (viitenumber: 267684) tehnilise kirjelduse punktist 20.5.7.</li><li block-type=\"ListItem\">9.5. <b>Kastre vald</b>  370-800L ratastel kogumismahuti käsitransport veokini (alates 10m) tk  10 eurot kord ilma käibemaksuta – hind käibemaksuga 12,20 eurot. Lisateenuse osutamise  kohustus tuleneb Kastre Vallavalitsuse korraldatud riigihanke \"Korraldatud jäätmeveo  veoteenuse osutamine perioodil 01.01.2023 – 31.12.2025\" (viitenumber: 255534) tehnilise  kirjelduse punktist 15.4.5.</li><li block-type=\"ListItem\">9.6. <b>Kehtna vald</b>  Ratastel konteineri käsitransport jäätmeveokini 11-30m, kord  10 eurot  kord ilma käibemaksuta – hind käibemaksuga 12,20 eurot. Lisateenuse osutamise kohustus  tuleneb Kehtna Vallavalitsuse korraldatud riigihanke \"Korraldatud jäätmeveo  kontsessiooni andmine Kehtna vallas ja jäätmejaamade opereerimine 2023-2026\"  (viitenumber: 258608) tehnilise kirjelduse punktist 11.2.6.</li><li block-type=\"ListItem\">9.7. <b>Kiili vald</b>  Jäätmekoti või ratastel kogumismahuti käsitransport veokini (11-20 m) tk  9,56 eurot kord ilma käibemaksuta – hind käibemaksuga 11,66 eurot. Lisateenuse  osutamise kohustus tuleneb Kiili Vallavalitsuse korraldatud riigihanke \"Korraldatud  jäätmeveo teenuse kontsessiooni andmine Kiili vallas\" (viitenumber: 258765) tehnilise  kirjelduse punktist 7.2.2.9.</li><li block-type=\"ListItem\">9.8. <b>Kuusalu vald</b>  241-800L ratastel kogumismahuti käsitransport veokini (kehtib alates  10m) tk – 20 eurot kord ilma käibemaksuta – hind käibemaksuga 24,40 eurot. Lisateenuse  osutamise kohustus tuleneb Mittetulundusühing Eesti Jäätmehoolduskeskus (80195414)</li></ul></p>",
+      "page": 255,
+      "polygon": [
+        [
+          89.6328125,
+          52.2138671875
+        ],
+        [
+          547.4200439453125,
+          52.2138671875
+        ],
+        [
+          547.4200439453125,
+          712.4414672851562
+        ],
+        [
+          89.6328125,
+          712.4414672851562
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        52.2138671875,
+        547.4200439453125,
+        712.4414672851562
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 255,
+      "polygon": [
+        [
+          90.505859375,
+          721.5380859375
+        ],
+        [
+          94.580078125,
+          721.5380859375
+        ],
+        [
+          94.580078125,
+          732.2275390625
+        ],
+        [
+          90.505859375,
+          732.2275390625
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        721.5380859375,
+        94.580078125,
+        732.2275390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 255,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-2-0\"></span><sup>1</sup> Eesti Keskkonnateenused AS-i hinnakiri <a href=\"https://www.keskkonnateenused.ee/kodukliendile/korraldatud-j%C3%A4%C3%A4tmevedu/hinnakiri/\">https://www.keskkonnateenused.ee/kodukliendile/korraldatud</a><a href=\"https://www.keskkonnateenused.ee/kodukliendile/korraldatud-j%C3%A4%C3%A4tmevedu/hinnakiri/\">j%C3%A4%C3%A4tmevedu/hinnakiri/</a> (07.10.2024). Seoses EKT hinnakirja muudatusega seisuga 01.09.2024.a on vaatluse alt välja arvatud Harku vald. Vaatluse alla on lisatud Antsla ja Rõuge vald.</p>",
+      "page": 255,
+      "polygon": [
+        [
+          88.46875,
+          736.3388671875
+        ],
+        [
+          544.78125,
+          736.3388671875
+        ],
+        [
+          544.78125,
+          770.9594116210938
+        ],
+        [
+          88.46875,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        736.3388671875,
+        544.78125,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/249",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\" class=\"has-continuation\"><ul><li block-type=\"ListItem\">korraldatud riigihanke \"Riigihanke korraldamine Kuusalu vallas korraldatud jäätmeveo  kontsessiooni andmiseks.\" (viitenumber: 260267) tehnilise kirjelduse punktist 16.5.1.8.</li><li block-type=\"ListItem\">9.9. <b>Loksa linn</b>  Mahuti käsitransport jäätmeveokini 11-25m jäätmeveoki võimalikust  peatumiskohast) tk – 9,59 eurot kord ilma käibemaksuta – hind käibemaksuga 11,70 eurot.  Lisateenuste osutamise õigus tuleneb muuhulgas Loksa Linnavalitsuse korraldatud  riigihanke \"Korraldatud jäätmeveo teenuste kontsessiooni andmine Loksa linna  haldusterritooriumil\" (viitenumber: 75013457) alusdokumentidest. Lisateenuste  osutamises lepitakse kokku jäätmevaldajaga jäätmekäitluslepingus, vastavalt kehtivale  hinnakirjale.</li><li block-type=\"ListItem\">9.10. <b>Maardu linn</b>  Mahuti käsitransport üle 10m, kord  9,59 eurot kord ilma käibemaksuta  – hind käibemaksuga 11,70 eurot. Lisateenuse osutamise kohustus tuleneb  Mittetulundusühing Eesti Jäätmehoolduskeskus (80195414) korraldatud riigihanke  \"Maardu linna korraldatud jäätmeveo teenuste riigihange\" (viitenumber: 257505) tehnilise  kirjelduse punktist 13.5.1.6.</li><li block-type=\"ListItem\">9.11. <b>Muhu vald</b>  Mahuti käsitransport jäätmeveokini kuni 1,10 m3 ratastel konteiner, 11- 20 m jäätmeveoki võimalikust peatumiskohast tk – 9,56 eurot kord ilma käibemaksuta – hind käibemaksuga 11,66 eurot. Lisateenuste osutamise õigus tuleneb muuhulgas Muhu  Vallavalitsuse korraldatud riigihanke \"Korraldatud jäätmeveo kontsessiooni andmine  Muhu vallas\" (viitenumber: 260424) tehnilise kirjelduse punktist 1.9 ja 1.10. Lisateenuste  osutamises lepitakse kokku jäätmevaldajaga jäätmeveolepingus, vastavalt kehtivale  hinnakirjale.</li><li block-type=\"ListItem\">9.12. <b>Muhu vald</b>  Ratastel kuni 0,24 m3 jäätmemahuti käsitransport juurdepääsutee poolsest  kinnistu piirist 11-25m tk – 10 eurot kord ilma käibemaksuta – hind käibemaksuga 12,20  eurot. Lisateenuste osutamise õigus tuleneb muuhulgas Muhu Vallavalitsuse korraldatud  riigihanke \"Korraldatud jäätmeveo kontsessiooni andmine Muhu vallas\" (viitenumber:  260424) alusdokumentidest. Lisateenuste osutamises lepitakse kokku jäätmevaldajaga  jäätmeveolepingus, vastavalt kehtivale hinnakirjale.</li><li block-type=\"ListItem\">9.13. <b>Nõo vald</b>  Jäätmekoti või kuni 1100L ratastel kogumismahuti käsitransport veokini (al  10m) tk – 8,33 eurot kord ilma käibemaksuta – hind käibemaksuga 10,16 eurot. Lisateenuse  osutamise kohustus tuleneb Mittetulundusühing Eesti Jäätmehoolduskeskus (80195414)  korraldatud riigihanke \"Nõo valla korraldatud jäätmeveo teenuste riigihange\" (viitenumber:  267567) tehnilise kirjelduse punktist 7.6 ja 12.10.1.6.</li><li block-type=\"ListItem\">9.14. <b>Põhja-Pärnumaa vald (sh Halinga piirkond)</b>  Mahuti käsitransport jäätmeveokini  kuni 1,10 m3 ratastel konteiner, 11-20 m jäätmeveoki võimalikust peatumiskohast tk – hind  käibemaksuga 11,66 eurot. Lisateenuse osutamise kohustus tuleneb Mittetulundusühing  Eesti Jäätmehoolduskeskus (80195414) korraldatud riigihanke \"Põhja-Pärnumaa valla  korraldatud jäätmeveo teenuste hange\" (viitenumber: 247395) tehnilise kirjelduse punktist  5.9.5.8.</li><li block-type=\"ListItem\">9.15. <b>Põhja-Sakala vald</b>  \"Ratastel üle 0,24 ja kuni 0,80 m3 kogumismahuti käsitransport  veokini (alates 11 m) kord – 9,569 eurot kord ilma käibemaksuta – hind käibemaksuga  11,66 eurot. Lisateenuse osutamise kohustus tuleneb Mittetulundusühing Eesti  Jäätmehoolduskeskus (80195414) korraldatud riigihanke \"Põhja-Sakala valla korraldatud  jäätmeveo teenuste hange\" (viitenumber: 258792) tehnilise kirjelduse punktist 17.5.1.8.</li><li block-type=\"ListItem\">9.16. <b>Raasiku vald</b>  \"kuni 0,37m3 ratastel konteineri käsitransport jäätmeveokini 11-30m  /kord – 9,59 eurot kord ilma käibemaksuta – hind käibemaksuga 11,70 eurot. Lisateenuse</li></ul></p>",
+      "page": 249,
+      "polygon": [
+        [
+          88.46875,
+          52.34149169921875
+        ],
+        [
+          547.4200439453125,
+          52.34149169921875
+        ],
+        [
+          547.4200439453125,
+          767.6374664306641
+        ],
+        [
+          88.46875,
+          767.6374664306641
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        52.34149169921875,
+        547.4200439453125,
+        767.6374664306641
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 249,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/195",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">osutamise kohustus tuleneb Mittetulundusühing Eesti Jäätmehoolduskeskus (80195414)  korraldatud riigihanke \"Raasiku valla korraldatud jäätmeveo teenuste riigihange\"  (viitenumber: 247232) tehnilise kirjelduse punktist 5.10.5.7.</li><li block-type=\"ListItem\">9.17. <b>Saarde vald</b>  \"0,24 m3 kuni 0,80m3 ratastel kogumismahuti käsitransport veokini  (alates 11 m) kord – 9,56 eurot kord ilma käibemaksuta – hind käibemaksuga 11,66 eurot. Lisateenuse osutamise kohustus tuleneb Mittetulundusühing Eesti Jäätmehoolduskeskus  (80195414) korraldatud riigihanke \"Saarde valla korraldatud jäätmeveo teenuste  riigihange\" (viitenumber: 255955) tehnilise kirjelduse punktist 19.5.1.8.</li></ul></p>",
+      "page": 196,
+      "polygon": [
+        [
+          90.7439956665039,
+          52.2138671875
+        ],
+        [
+          547.2379760742188,
+          52.2138671875
+        ],
+        [
+          547.2379760742188,
+          173.498046875
+        ],
+        [
+          90.7439956665039,
+          173.498046875
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        52.2138671875,
+        547.2379760742188,
+        173.498046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>EESTI KESKKONNATEENUSED AS</b> <b>ESITATUD SELGITUSED JA ANDMED</b></h3>",
+      "page": 196,
+      "polygon": [
+        [
+          88.46875,
+          200.2216796875
+        ],
+        [
+          508.75396728515625,
+          200.2216796875
+        ],
+        [
+          508.75396728515625,
+          212.56146240234375
+        ],
+        [
+          88.46875,
+          212.56146240234375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        200.2216796875,
+        508.75396728515625,
+        212.56146240234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/196",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">10. Konkurentsiamet esitas Eesti Keskkonnateenused AS-ile mitu teabetaotlust, milles palus  ettevõtja poolt kehtestatud konteineri käsitranspordi lisateenuse hinna kohta selgitusi ja  kuluarvestuse esitamist. Järgnevalt on toodud EKT esitatud seisukohad (kokkuvõtlikult).</li><li block-type=\"ListItem\">11. EKT leiab, et ta ei ole turgu valitsev ettevõtja KonkS § 13 lg 1 tähenduses ning tema tegevus  ei oleks kuritarvitav ka siis, kui ta oleks turgu valitsev ettevõtja. EKT rõhutas, et kohalike  omavalitsuste jaoks on vastavad teenused lisateenused, mille tasusid saab kehtestada ja  muuta vaid hankija nõusolekul. Samas ei ole olukord ühtne ning tasu määramine ja  muutmine sõltuvad konkreetsest jäätmehoolduseeskirjast, hankedokumentidest ja  jäätmeveolepingust.</li><li block-type=\"ListItem\">12. 12.04.2024 vastuses selgitas EKT, et jääb ametiga eriarvamusele jäätmekonteineri  käsitranspordi ja teiste lisateenuste õigusliku kvalifikatsiooni osas. EKT viitas, et konteineri  käsitransport on vajalik jäätmevaldaja reeglite rikkumise tõttu ning ei kvalifitseeru  teenuseks majanduslikus ega juriidilises mõttes. EKT lisas, et käsitranspordi hinna  arvutamisel tuleks arvestada kõigi vastavate teenusepakkujate keskmist, viidates näidetena  jaemüüjate avalikele hinnakirjadele, kus raske eseme käsiveo hind on tavaliselt üle 10 euro.</li><li block-type=\"ListItem\">13. 08.05.2024 vastuses lisas EKT, et ebaõiglase hinna kindlakstegemine on kaheastmeline, kus  hinna liigne suurus pole võrreldav ainult kuludega, vaid ka teenuse majandusliku  väärtusega. EKT rõhutas, et konteineri käsitranspordi tasu võib kasvada nõudluse  suurenedes, kuna sagedasem käsitransport takistab jäätmeveo teenust. Näitena tõi EKT, et  […].</li></ul></p>",
+      "page": 196,
+      "polygon": [
+        [
+          90.7439956665039,
+          226.3614501953125
+        ],
+        [
+          547.39599609375,
+          226.3614501953125
+        ],
+        [
+          547.39599609375,
+          543.517578125
+        ],
+        [
+          90.7439956665039,
+          543.517578125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        226.3614501953125,
+        547.39599609375,
+        543.517578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">14. […]</p>",
+      "page": 196,
+      "polygon": [
+        [
+          90.7439956665039,
+          557.6114501953125
+        ],
+        [
+          128.73199462890625,
+          557.6114501953125
+        ],
+        [
+          128.73199462890625,
+          569.6114501953125
+        ],
+        [
+          90.7439956665039,
+          569.6114501953125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        557.6114501953125,
+        128.73199462890625,
+        569.6114501953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">15. EKT esitatud kuluarvestus sisaldas […]. EKT esitatud andmetel on konteineri  käsitranspordi kulupõhine hind koos mõistliku kasumiga […] eurot ilma käibemaksuta.  Seejuures märkis EKT, et konteineri käsitranspordi osutamise ajal jääb […]. Samuti on  olemas sarnase suuruse ja kaaluga esemete käsitransporditurg, kus turuhinnad on üle 10  euro kord. EKT märkis, et on saanud hinnapakkumise, kus teenuse sisseostu korral oleks  teenuse hind vähemalt […] eurot kord. Eelnevaga leidis EKT, et kehtestatud lisateenuse  hinnad on turuhinnast oluliselt madalamad ning täiesti mõistliku suurusega.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          585.2114562988281
+        ],
+        [
+          547.3839721679688,
+          585.2114562988281
+        ],
+        [
+          547.3839721679688,
+          680.8359375
+        ],
+        [
+          89.6328125,
+          680.8359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        585.2114562988281,
+        547.3839721679688,
+        680.8359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/4/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Ettekirjutuse-hoiatusele esitatud vastuväited</b></h2>",
+      "page": 196,
+      "polygon": [
+        [
+          90.7439956665039,
+          692.7587890625
+        ],
+        [
+          319.2440185546875,
+          692.7587890625
+        ],
+        [
+          319.2440185546875,
+          705.8414611816406
+        ],
+        [
+          90.7439956665039,
+          705.8414611816406
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        692.7587890625,
+        319.2440185546875,
+        705.8414611816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">16. Konkurentsiamet 17.07.2024 EKT-le esialgse seisukoha ja ettekirjutuse hoiatuse, milles  kokkuvõtlikult leidis, et EKT kehtestatud lisateenuse tasu kulud on suures osas põhjendamata. Pärast vastamistähtaja pikendamist esitas EKT 19.08.2024 oma vastuväited.</p>",
+      "page": 196,
+      "polygon": [
+        [
+          89.6328125,
+          717.837890625
+        ],
+        [
+          547.3839721679688,
+          717.837890625
+        ],
+        [
+          547.3839721679688,
+          759.2374649047852
+        ],
+        [
+          89.6328125,
+          759.2374649047852
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        717.837890625,
+        547.3839721679688,
+        759.2374649047852
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 196,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/185",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">Vastuskirja kohaselt jääb EKT oma varasemate seisukohtade juurde ning palub menetlus  lõpetada ettekirjutust tegemata, kuna vaidlusalune lisateenuse tasud ei ole ebaõiglased.</li><li block-type=\"ListItem\">17. EKT jäi varasemata seisukohtade juurde, et jäätmemahuti käsitranspordi näol ei ole  tegemist mitte teenusega, vaid toiminguga, mille abil hoitakse ära jäätmehoolduseeskirjaga  vastuolus olev olukord, kus jäätmemahuti asub kaugemal kui 10 meetrit jäätmete pealevõtu  kohast. EKT hinnangul on tegemist leppetrahvi funktsiooni täitva tasuga. Kõnealuse tasu  eesmärk on eelkõige tagada kulude hüvitamine jäätmemahuti käsitranspordiga seotud  täiendava ajakulu eest. EKT viitas, et kõnealune tasu kaob varsti sootuks ära, kuna lähimate  aastate jooksul […]. Eelnevaga leidis EKT, et Konkurentsiamet tegeleb praegu kaduva  nähtusega ja olematu probleemiga.</li><li block-type=\"ListItem\">18. EKT hinnangul on amet valesti määratlenud kaubaturu, piiritledes selle kitsalt  jäätmemahutite käsitranspordiga, kuigi turgu tuleks käsitleda üldise suuremahulise eseme  käsitransporditeenusena. Ostja on igaüks, kes tellib jäätmemahuti transpordi, olgu selleks  jäätmetekitaja ise või muu isik, kes tegutseb otseselt või kaudselt jäätmetekitaja eest.  Jäätmemahutite vedu ei tohiks seostada jäätmeveoga ning kaubaturu määramisel on oluline  vaid nõudluse ja pakkumise suhe, mitte toimingu vajaduse põhjus. Geograafiliselt on  tegemist terve Eesti territooriumiga, kuna kõnealusel turul on nõudluse ja pakkumise  tingimused on üle-Eestiliselt ühesugused. Eelnevaga leidis EKT, et ameti poolne turu  kitsendamine on majanduslikult ebaloogiline ja kunstlik.</li><li block-type=\"ListItem\">19. EKT leidis, et jäätmekonteineri käsitsi liigutamine ei ole õigusaktide kohaselt jäätmete  vedamine kui jäätmekäitlustoiming ega jäätmete kokkukorjamine, mistõttu ei saa seda  pidada jäätmekäitlusteenuseks. Tegemist ei saa põhimõtteliselt olla seega  jäätmekäitlusteenusega, vaid käitlemise välise toiminguga. Jäätmehoolduseeskirjad  määravad mahuti asukoha kinnistu piires, kuid jäätmetekitaja saab seda ise igal ajal muuta.  Seda toimingut võib jäätmetekitaja teha ise, kasutada naabri või abilise abi või osta  teenusena mõnelt transporditeenuse osutajalt. Raskete esemete käsitransport, sealhulgas  jäätmemahutite liigutamine, on turul kättesaadav ja levinud ning selleks piisab füüsilisest  võimekusest jäätmemahuti liigutamiseks.</li><li block-type=\"ListItem\">20. EKT märkis, et on saanud sõltumatult ettevõtjalt hinnapakkumise jäätmemahutite  transpordiks, mis lükkab ümber ameti väited, et teiste teenusepakkujate olemasolu olevat  vähe tõenäoline. Transpordi- ja logistikavaldkonnas on tavapärane, et teenuse osutaja peab  kohanduma kliendi vajadustega, näiteks veoringidega. EKT sõnul on käsitranspordi turul  Eestis märkimisväärne asendatavus ning paljud ettevõtjad, sealhulgas teised  jäätmeveoteenuse osutajad, osutavad sarnaseid teenuseid. Transporditurule sisenemine on  lihtne, kuna teenuse osutamiseks on vaja vaid töövõimelist inimest. EKT esitas ameti palvel  ettevõtjalt saadud hinnapakkumise, millest nähtus, et perioodil 01.04-01.10 jäätmetega  täidetud konteineri transport kliendi esmasest asukohalt jäätmeveoki teeninduspiirkonda on  […].</li><li block-type=\"ListItem\">21. Kokkuvõtvalt EKT leidis, et jäätmemahutite käsitransportimisel esineb Eestis nii nõudlusekui pakkumisepoolne asendatavus, kus mitmed ettevõtjad on valmis seda teenust osutama.  Ükski seadus ei keela jäätmemahutite käsitsi transportimist, mis ei ole jäätmekäitlustoiming  ja ei vaja tegevusluba. Teenust võivad pakkuda paljud ettevõtjad, sealhulgas kolimisfirmad  ja teised jäätmeveoteenuse pakkujad. Transporditurule sisenemise barjäär on üldiselt  äärmiselt madal, kuna teenuse osutamine eeldab üksnes täiskasvanud inimese olemasolu,  kellel tervislik seisund ei keela raskete kandamite tõstmist. […] Jäätmetekitajad kasutavad  tõenäoliselt alternatiive, näiteks liigutavad ise jäätmemahuteid, ostavad teenuse sisse mujalt  või muudavad mahuti asukohta püsivalt selliseks, et see oleks pealevõtukohale lähemal kui</li></ul></p>",
+      "page": 185,
+      "polygon": [
+        [
+          89.6328125,
+          52.2138671875
+        ],
+        [
+          547.4319458007812,
+          52.2138671875
+        ],
+        [
+          547.4319458007812,
+          768.4072265625
+        ],
+        [
+          89.6328125,
+          768.4072265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        52.2138671875,
+        547.4319458007812,
+        768.4072265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 185,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">10 meetrit (sellises olukorras kaob üldse vajadus käitranspordi \"teenuse\" järele). Eelnev  demonstreerib EKT hinnangul asjaolu, et EKT ei ole sõltumatu klientidest ega  konkurentidest.</p>",
+      "page": 195,
+      "polygon": [
+        [
+          108.2578125,
+          52.34149169921875
+        ],
+        [
+          547.1599731445312,
+          52.34149169921875
+        ],
+        [
+          547.1599731445312,
+          91.96148681640625
+        ],
+        [
+          108.2578125,
+          91.96148681640625
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        52.34149169921875,
+        547.1599731445312,
+        91.96148681640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/4/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>ÕIGUSLIK HINNANG</b></h2>",
+      "page": 195,
+      "polygon": [
+        [
+          90.7439956665039,
+          129.91796875
+        ],
+        [
+          212.37600708007812,
+          129.91796875
+        ],
+        [
+          212.37600708007812,
+          143.56146240234375
+        ],
+        [
+          90.7439956665039,
+          143.56146240234375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        129.91796875,
+        212.37600708007812,
+        143.56146240234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Kaubaturg ja Eesti Keskkonnateenused AS turgu valitsev seisund</b></h3>",
+      "page": 195,
+      "polygon": [
+        [
+          89.6328125,
+          157.3614501953125
+        ],
+        [
+          427.2109375,
+          157.3614501953125
+        ],
+        [
+          427.2109375,
+          169.3614501953125
+        ],
+        [
+          89.6328125,
+          169.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        157.3614501953125,
+        427.2109375,
+        169.3614501953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/193",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">22. KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit ettevõtja või mitu samal  kaubaturul tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul  tegutseda arvestataval määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu  valitseva seisundi omamist eeldatakse, kui ettevõtjale või mitmele samal kaubaturul  tegutsevale ettevõtjale kuulub kaubaturul vähemalt 40 protsenti käibest.</li><li block-type=\"ListItem\">23. Korraldatud jäätmevedu on olmejäätmete kogumine ja vedamine määratud piirkonnast  määratud jäätmekäitluskohta või -kohtadesse kohaliku omavalitsuse üksuse (edaspidi  KOV) valitud ettevõtja poolt (jäätmeseaduse § 66 lg 1). Korraldatud jäätmeveoga seotud  lisateenused on teenused, mida kontsessionäär on jäätmevaldaja tellimusel kohustatud  osutama ja mille eest kontsessionääril on õigus küsida tasu. Lisateenustel on toetav  funktsioon põhiteenuse (jäätmevedu) osutamisele ning need ei ole viimasest otseselt  lahutatavad. On ilmne, et lisateenust ei vajaks jäätmevaldaja millekski muuks kui üksnes  selleks, et talle saaks osutada kvaliteetset jäätmeveoteenust. Konteineri käsitransporti  käsitletakse riigihanke alusdokumentides üldjuhul korraldatud jäätmeveoga seotud  lisateenusena. Sellised lisateenused ei kuulu korraldatud jäätmeveo koosseisu ning on  hinnastatud põhiteenusest eraldi. Lisateenuste, mille osutamise kohustust ei ole riigihanke  alusdokumentides ette nähtud, on veoettevõtjal õigus osutada ka hankeväliselt mugavusteenusena.</li><li block-type=\"ListItem\">24. Kaubaturg hõlmab nii geograafilist turgu kui ka tooteturgu, mis määratakse kindlaks ostja  seisukohalt. Hetkel on küsimuse all konteineri käsitranspordi lisateenuse tasu ja seetõttu  tuleb analüüsida, kas konteineri käsitranspordi teenus moodustab eraldiseisva tooteturu või  on see teenus nõudluse ja pakkumise poolelt asendatav.</li><li block-type=\"ListItem\">25. Tugev nõudlusepoolne asendatavus esineb juhul, kui kliendid nõustuvad hüpoteetilisele  väikesele, aga märkimisväärsele ja mitteajutisele suhtelisele hinnatõusule, lihtsasti asendama teenuse või toote muude alternatiivsete teenuste või toodetega. Nõudluse  asendatavuse olemasolu kindlaksmääramisel peaksid riigi reguleerivad asutused kasutama  kõiki tõendeid klientide varasema käitumise kohta ning hindama klientide ja tarnijate  tõenäolist reaktsiooni kõnealuse teenuse sellisele hinnatõusule.<a href=\"#page-6-0\">2</a> Konkurentsiamet on  konteineri käsiveo teenuse kontekstis varasemalt hinnanud, kas märkimisväärse hinnatõusu  korral on jäätmevedajad hakanud kasutama mõnda teist teenust. Varasemas menetluses läbi  viidud <i>SSNIP-test</i> näitas, et enamik (60%) teenusekasutajatest jäid lisateenust kasutamata  hoolimata pea kolmekordsele hinnatõususule. <a href=\"#page-6-1\">3</a> Teisalt näitab jäätmevaldajate reaktsioon  seda, et konteineri paigutamine kuni 10 meetri kaugusele (millega loobutakse lisateenusest)  ei ole suurele osale teenust kasutavale jäätmevaldajale sobivaks alternatiiviks. Seega võib</li></ul></p>",
+      "page": 195,
+      "polygon": [
+        [
+          89.6328125,
+          182.54296875
+        ],
+        [
+          547.4199829101562,
+          182.54296875
+        ],
+        [
+          547.4199829101562,
+          690.1214599609375
+        ],
+        [
+          89.6328125,
+          690.1214599609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        182.54296875,
+        547.4199829101562,
+        690.1214599609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-6-0\"></span><sup>2</sup> Euroopa Komisjoni suunised turuanalüüsi ja märkimisväärse turujõu hindamise kohta vastavalt ELi  elektrooniliste sidevõrkude ja -teenuste reguleerivale raamistikule ((2018/C 159/01), p 38.</p>",
+      "page": 195,
+      "polygon": [
+        [
+          90.7439956665039,
+          712.4931640625
+        ],
+        [
+          546.405517578125,
+          712.4931640625
+        ],
+        [
+          546.405517578125,
+          736.5234146118164
+        ],
+        [
+          90.7439956665039,
+          736.5234146118164
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        712.4931640625,
+        546.405517578125,
+        736.5234146118164
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">7/12</p>",
+      "page": 195,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-6-1\"></span><sup>3</sup> Teade järelevalvemenetluse lõpetamisest 13.11.2023 nr 5-5/2023-038. Kättesaadav:  <a href=\"https://www.konkurentsiamet.ee/sites/default/files/old/konkurentsiameti_teade_menetluse_lopetamisest_arisaladused_valjas.pdf\">https://www.konkurentsiamet.ee/sites/default/files/old/konkurentsiameti_teade_menetluse_lopetamisest_arisalad</a> <a href=\"https://www.konkurentsiamet.ee/sites/default/files/old/konkurentsiameti_teade_menetluse_lopetamisest_arisaladused_valjas.pdf\">used_valjas.pdf</a></p>",
+      "page": 195,
+      "polygon": [
+        [
+          89.6328125,
+          736.75
+        ],
+        [
+          546.8875732421875,
+          736.75
+        ],
+        [
+          546.8875732421875,
+          770.9594116210938
+        ],
+        [
+          89.6328125,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        736.75,
+        546.8875732421875,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">järeldada, et enamik jäätmevaldajad analoogseid teenuseid ei kasuta. Asendusteenuseks  oleksid antud kontekstis näiteks konteineri käsitransportimine jäätmevaldaja enda poolt või  teenuse tellimine mõnelt teiselt teenusepakkujalt. EKT tõi menetluse käigus välja, et  konteineri käsiveo puhul on tegemist ebameeldiva ja raske füüsilise tööga, mis eeldab 1-2  inimese koostööd, ning et alati ei ole jäätmekonteineri lükkamine aga üldse võimalik. Ameti  hinnangul ei saa eeldada, et kõik jäätmevaldajad omavad vajalikku füüsilist ettevalmistust,  et konteinerit käsitsi liigutada. Lisaks peaksid nii jäätmevaldaja kui ka teine teenusepakkuja  tundma EKT veograafikut, et konteiner õigeks ajaks veoki peatumiskohta transportida,  mida ei saa pidada praktiliseks lahenduseks. Kuigi mõned lõpptarbijad võivad pidada  ettevõtja teenust asendatavaks, ei lähtuta konkurentsiõiguses kaubaturu määratlemisel  üksikute ostjate soovidest või eelistustest. Selle asemel hinnatakse, kas märkimisväärne osa  ostjaid peab erinevaid tooteid ja teenuseid tõenäoliselt asendatavateks, vastavalt KonkS § 3  lõike 1 nõuetele. Kõnealusel juhul ei esine tugevat nõudlusepoolset asendatavust konteineri  käsitranspordi teenusele.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          107.09375,
+          52.2138671875
+        ],
+        [
+          547.4199829101562,
+          52.2138671875
+        ],
+        [
+          547.4199829101562,
+          245.4462890625
+        ],
+        [
+          107.09375,
+          245.4462890625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        52.2138671875,
+        547.4199829101562,
+        245.4462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/217",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">26. Pakkumisepoolne asendatavus esineb, kui ettevõtjad, kes parajasti asjaomasel tooteturul ei  tegutse, on suutelised pärast väikest, aga märkimisväärset ja mitteajutist suhtelist  hinnatõusu ilma märkimisväärsete lisakulutuste või olulise riskita turule siseneda (mis  väljendub kas teenuse pakkumise kasvus või uute pakkujate turuletulekus).<a href=\"#page-7-0\">4</a> Konkurentsiameti hinnangul on ebatõenäoline, et mõni teine ettevõtja suudaks pakkuda  sõltumatut konkureerivat teenust, mis hõlmaks ainult konteinerite käsitransporti.  Konkreetses jäätmeveopiirkonnas ainuõiguse alusel tegutsev veoettevõtja omab konteineri  käsitranspordi teenuse osutamisel teiste ettevõtjate ees teatavat eelisseisundit. Nii EKT-l  kui ka teistel jäätmevedajatel on võimalik seada oma hallatavas jäätmeveo piirkonnas  jäätmete vedamise kui põhiteenuse osutamise tingimused (veoringid ja -ajad, logistika, jm)  ning transportida konteinereid põhiteenust osutades. Samas uutel pakkujatel ei ole õigust  korraldatud jäätmeveo teenust konkreetsel territooriumil pakkuda. Potentsiaalsetele turule  sisenejatele oleks konteineri käsitransport eraldiseisva teenusena majanduslikult keeruline,  kuna see nõuaks mitte ainult EKT veoringide ja ajakava tundmist, vaid ka täiendava tööjõu  ja transpordi rakendamist. Sellest tulenevad lisakulud muudaksid teenuse oluliselt kallimaks võrreldes ettevõtjaga, kes osutab konteinerite teisaldamist juba jäätmeveoteenuse  raames. Seega ei pea Konkurentsiamet tõenäoliseks, et teised ettevõtjad oleksid suutelised  ilma märkimisväärsete lisakulutuste pakkuma EKT veopiirkonnas konkurentsivõimelist  teenust. Ametile teadaolevalt puuduvad näited, kus mõni ettevõtja oleks üritanud  jäätmevedajale sellistes tingimustes konkurentsi pakkuda. Seega ei kajasta ka EKT esitatud  hinnapakkumine pakkumisepoolset asendatavust, sest asjaomastes jäätmeveopiirkondades  konkurentsitingimuste puudumise tõttu ei saa olla tegemist konkurentsivõimelise  pakkumisega.</li><li block-type=\"ListItem\">27. Geograafiline turg on piiritletud ainuõiguse territooriumiga ehk Antsla, Rõuge, Elva,  Haljala, Häädemeeste, Kastre, Kehtna, Kiili, Kuusalu, Loksa, Muhu, Nõo, Põhja-Pärnumaa  vald (sh Halinga piirkond), Põhja-Sakala, Raasiku ja Saarde vallaga ning Loksa ja Maardu  linnaga.</li><li block-type=\"ListItem\">28. Kokkuvõtlikult võib märkida, et konteineri käsitransport moodustab eraldiseisva tooteturu,  sest <i>SSNIP-testi</i> põhjal jäi enamik kliente lisateenust kasutama hoolimata märkimisväärsele  hinnatõususel, viidates vähesele nõudlusepoolsele asendatavusele. Konkurentsiameti  hinnangul on ebatõenäoline, et teised ettevõtjat saaksid, ilma märkimisväärsete  lisakulutusteta, konkureerida ainuüksi konteineri käsitranspordi pakkumises. Kuna</li></ul></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          259.013671875
+        ],
+        [
+          547.4319458007812,
+          259.013671875
+        ],
+        [
+          547.4319458007812,
+          724.9214630126953
+        ],
+        [
+          89.6328125,
+          724.9214630126953
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        259.013671875,
+        547.4319458007812,
+        724.9214630126953
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.341796875,
+          737.9833984375
+        ],
+        [
+          93.416015625,
+          737.9833984375
+        ],
+        [
+          93.416015625,
+          748.6728515625
+        ],
+        [
+          89.341796875,
+          748.6728515625
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        737.9833984375,
+        93.416015625,
+        748.6728515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-7-0\"></span><sup>4</sup> Euroopa Komisjoni suunised turuanalüüsi ja märkimisväärse turujõu hindamise kohta vastavalt ELi  elektrooniliste sidevõrkude ja -teenuste reguleerivale raamistikule ((2018/C 159/01), p-d 28 ja 41.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          87.3046875,
+          748.6728515625
+        ],
+        [
+          546.3414306640625,
+          748.6728515625
+        ],
+        [
+          546.3414306640625,
+          770.9594116210938
+        ],
+        [
+          87.3046875,
+          770.9594116210938
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        748.6728515625,
+        546.3414306640625,
+        770.9594116210938
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">konkurents kaubaturul on hetkel puudulik, siis on EKT-l võimalik tegutseda konteineri  käsitranspordi teenust osutades sõltumatuna konkurentidest ja tarbijatest. Seega tuleb asuda  seisukohale, et EKT on tema hallatavates jäätmeveo piirkondades konteineri käsitranspordi  teenust osutades turgu valitsev ettevõtja KonkS § 13 lg 1 tähenduses.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          107.09375,
+          52.2138671875
+        ],
+        [
+          547.39599609375,
+          52.2138671875
+        ],
+        [
+          547.39599609375,
+          105.761474609375
+        ],
+        [
+          107.09375,
+          105.761474609375
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        52.2138671875,
+        547.39599609375,
+        105.761474609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/6/SectionHeader/1",
+        "3": "/page/6/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Turgu</b> <b>valitseva seisundi</b> <b>kuritarvitamine ebaõiglaste hinnatingimuste rakendamisega</b></h2>",
+      "page": 218,
+      "polygon": [
+        [
+          90.7439956665039,
+          132.384765625
+        ],
+        [
+          527.4140014648438,
+          132.384765625
+        ],
+        [
+          527.4140014648438,
+          145.3614501953125
+        ],
+        [
+          90.7439956665039,
+          145.3614501953125
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        132.384765625,
+        527.4140014648438,
+        145.3614501953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/216",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">29. KonkS § 16 kohaselt on turgu valitseval ettevõtjal keelatud oma seisundi otsene või kaudne  kuritarvitamine kaubaturul. KonkS § 16 p 1 keelab ebaõiglaste ostu- või müügihindade või  muude ebaõiglaste äritingimuste kehtestamise või rakendamise. Ebaõiglaseks tuleb pidada  turgu valitseva ettevõtja kehtestatud hinda, mis ei ole mõistlikus vahekorras teenuse  majandusliku väärtusega. Teenuse majanduslik väärtus on omakorda seotud teenuse  osutamiseks vajalike kuludega.<a href=\"#page-8-0\">5</a></li><li block-type=\"ListItem\">30. Eelnevat arvestades tuleb leida vastus küsimusele, kas EKT poolt punktides 9.1-9.17  nimetatud piirkondades kehtestatud jäätmeveo lisateenuse hind konteineri käsitranspordi eest on mõistlikus vahekorras selle teenuse majandusliku väärtusega teenuse tarbijate jaoks.  Selleks tuleb uurida tasus sisalduvaid kulusid ja võrrelda neid kuludega, mis on sama  teenuse osutamiseks vajalikud. Seejärel saab hinnata, kas EKT tasu teenuse eest on  kulupõhine ning kas teenuse hinda pole lülitatud ülemäärast tulukust.</li><li block-type=\"ListItem\">31. Hinna põhjendatuse üle otsustamisel saab Konkurentsiamet eelkõige lähtuda EKT poolt  esitatud andmetest ja põhjendustest. Turgu valitseva ettevõtjana on EKT-l kohustus  tõendada, et tema teenuse osutamiseks tehtud kulutused on asjakohased ning et ta ei teeni  tarbijate arvel ülemäärast tulu<a href=\"#page-8-1\">.</a><sup>6</sup></li><li block-type=\"ListItem\">32. EKT esitas Konkurentsiametile oma hinnakujundust kajastavaid andmeid, selgitusi ja  materjale 02.02.2024, 12.04.2024, 08.05.2024 ja 30.08.2024 kirjades. Esitatud andmetel  võtab EKT-l ühe konteineri käsitransport kokku aega […]. See ajakulu peaks katma  konteineri käsitranspordi 100 meetrise vahemaa tagant, sh üldjuhul veoki peatumiskohast konteinerini ja tagasi ning peatumiskohast konteineri asukohta ja tagasi. Konkurentsiamet  ei kontrolli käesolevas menetluses ajakulu põhjendatust. Konkurentsiamet lähtub  kulupõhisuse hindamisel maksimaalselt kuluva aja arvestusest, kuid peab vajalikuks juhtida  tähelepanu, et igasugused kulud peavad põhinema kontrollitavatel andmetel. EKT ei  esitanud ametile tõendeid, millest saaks järeldada, et ettevõtja on teostanud konteinerite  käsitranspordiga seotud kulude mõõdistusi, sh et kui kaua konteineri igakordne  käsitransport aega võtab, kui palju lisandub sellega tööjõukulu, kütusekulu jne. EKT  esitatud andmed viitavad, et EKT töötaja keskmine kiirus konteineri käsitsi transportimisel  on 1,7km/h, mis ei ole eluliselt usutav. Normaaloludes, sealhulgas töötajate kogemuste  kasvades, võtaksid asjaomased tegevused vähem aega.</li><li block-type=\"ListItem\">33. Turgu valitseva ettevõtjana lasub EKT-l kohustus tagada oma hinnakujunduse läbipaistvus  ja põhjendatus. Järelevalvemenetluses on Konkurentsiamet andnud EKT-le korduvalt  võimaluse vaidlusaluse lisatasu kulupõhisuse tõendamiseks. Vastuseks saadud andmete  puhul tuleb seetõttu eeldada, et EKT on esitanud kõik olulisemad tõendid oma väidete  kinnituseks.</li></ul></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          159.1083984375
+        ],
+        [
+          547.4200439453125,
+          159.1083984375
+        ],
+        [
+          547.4200439453125,
+          695.6414642333984
+        ],
+        [
+          89.6328125,
+          695.6414642333984
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        159.1083984375,
+        547.4200439453125,
+        695.6414642333984
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 218,
+      "polygon": [
+        [
+          88.177734375,
+          705.50390625
+        ],
+        [
+          92.251953125,
+          705.50390625
+        ],
+        [
+          92.251953125,
+          715.37109375
+        ],
+        [
+          88.177734375,
+          715.37109375
+        ]
+      ],
+      "bbox": [
+        88.177734375,
+        705.50390625,
+        92.251953125,
+        715.37109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          526.447265625,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          804.5869140625
+        ],
+        [
+          544.490234375,
+          814.7834148406982
+        ],
+        [
+          526.447265625,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        526.447265625,
+        804.5869140625,
+        544.490234375,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-8-0\"></span><sup>5</sup> RKHKo 18.12.2002 nr <a href=\"https://www.riigikohus.ee/lahendid?asjaNr=3-3-1-66-02\">3-3-1-66-02,</a> p 26.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          90.21484375,
+          714.3643951416016
+        ],
+        [
+          264.089599609375,
+          714.3643951416016
+        ],
+        [
+          264.089599609375,
+          725.23828125
+        ],
+        [
+          90.21484375,
+          725.23828125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        714.3643951416016,
+        264.089599609375,
+        725.23828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-8-1\"></span><sup>6</sup> Viidatud Riigikohtu 18.12.2002 otsuse p 27: [---] \"<i>Turgu valitsev ettevõtja peab suutma õigustada oma tegevust, </i> <i>millel on vastupidine mõju konkurentsinormide eesmärgiga võrreldes.Õigustatud kahtluse korral, et hind ei ole </i> <i>vastavuses teenuse osutamiseks vajalike kuludega, peab hinna kuludele vastavust põhjendama turgu valitsev </i> <i>ettevõtja\"</i>. [---].</p>",
+      "page": 218,
+      "polygon": [
+        [
+          90.7439956665039,
+          725.884391784668
+        ],
+        [
+          546.80859375,
+          725.884391784668
+        ],
+        [
+          546.80859375,
+          772.107421875
+        ],
+        [
+          90.7439956665039,
+          772.107421875
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        725.884391784668,
+        546.80859375,
+        772.107421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          90.21484375,
+          66.1414794921875
+        ],
+        [
+          128.73199462890625,
+          66.1414794921875
+        ],
+        [
+          128.73199462890625,
+          78.1414794921875
+        ],
+        [
+          90.21484375,
+          78.1414794921875
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        66.1414794921875,
+        128.73199462890625,
+        78.1414794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/201",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">35. Konkurentsiseaduse järgi peab turgu valitseva ettevõtja hind olema õiglane, mis tähendab  üldiselt kulupõhisust koos mõistliku kasumiga. Isegi kui mõnda turgu valitsevas seisundis  pakutavat teenust saab pidada n-ö mugavusteenuseks, mille eest osad tarbijad on valmis  enam maksma, siis sellest ei tulene turgu valitsevale ettevõtjale õigust hinnastada teenus kallimalt, kui tegelik kulu koos mõistliku kasumiga. Seejuures ei tähenda see, et kasumi  teenimine oleks piiratud või keelatud, vaid et hind peab olema üleni kontrollitav ning tohib  sisaldada üksnes põhjendatud kulusid ja põhjendatud tulukust. Mida suurem on turgu  valitseva ettevõtja kasum, seda enam tuleb kahelda, kas seda oleks võimalik teenida ka vaba  konkurentsi tingimustes. EKT lisateenuse põhjendatud […] ja tegelikult kehtestatud hinna  ([…] ilma käibemaksuta) vahe on […]. Seda tuleb pidada ettevõtja kasumiks. Neid andmeid  aluseks võttes teenib EKT ühe konteineri käsitransportimise eest […] lisateenuse hinnast.  Samas on EKT ise viidanud, et kasum moodustab teenuse hinnast hinnanguliselt […], mis  teeb teenuse maksumuseks […] ilma käibemaksuta. Ülejäänud hinnast moodustab EKT  väitel saamata jäänud tulu.</li><li block-type=\"ListItem\">36. Konkurentsiamet märgib, et kulutus on põhjendatud, kui ta on tegelikult kantud ja vajalik  teenuse osutamiseks. Saamata jäänud tulu ei vasta oma olemuselt kummalegi eeltoodud  kriteeriumitele. Turgu valitseva ettevõtja hinnakujundus ei tohi põhineda oletuslikel  kulutustel, sealhulgas, et millist tulu võinuks jäätmevedaja saada konteineri tühjendamise  eest, kui tal ei lasuks kohustust osutada ka konteineri käsitransporti. EKT-l on võimalik  rakendada kulupõhist hinda nii põhiteenuse kui ka lisateenuse osutamise eest. Konteineri  käsitranspordi lisateenuse puhul on seega EKT-l võimalik hinnata selle osutamisega  kaasnevaid tegelikke ja asjaomaseid kulusid ning vastavalt nendele kujundada teenuse  lõplik hind. Seejuures ei saa pidada õigeks seda, et EKT arvestab konteineri käsitranspordi  teenuse hinda üheaegselt nii mõistliku kasumi kui ka väidetava saamatajäänud tulu. Juba  ainuüksi selline EKT poolne arutlus viitab võimalikule ülemäärasele hinnastamisele.</li><li block-type=\"ListItem\">37. Teisalt peab Konkurentsiamet vajalikuks märkida, et ei nõustu ka EKT poolt menetluses  esitatud seisukohaga, mille kohaselt lisateenuse tasu eesmärk peaks olema mitte katta  sellega seotud otseseid kulusid, vaid hoopis hoida ära jäätmekonteinerite käsitransporti (nn  leppetrahvi funktsioon). Jäätmevedajal lasub üldjuhul kohustus osutada hankelepingus väljatoodud korraldatud jäätmeveoga seotud lisateenuseid, mille hulka kuulub ka konteineri  käsitransport. Mitmetes hankedokumentides on välja toodud, et jäätmevedaja ei tohi seada  jäätmevaldajale piiranguid teenuse tarbimisele. See hõlmab ka KonkS § 16 punktis 1  sätestatud ebaõiglase hinna keelu järgimist lisateenuse hinnastamisel. Seega on  hankelepingu tingimustega otseselt vastuolus EKT esitatud seisukoht, et lisateenuse tasu on  kehtestatud eesmärgiga ära hoida teenuse osutamist. Lisaks, jäätmeveoettevõtjatel ei ole  õigus kehtestada karistusliku iseloomuga hindu või leppetrahve selleks, et sundida  jäätmevaldajaid oma kohustusi täitma. Ka viitab EKT selline seisukoht üheselt sellele, et  konteineri käsitranspordi teenuse hinnastamise aluseks ei pruugi olla tegelikud kulud koos  mõistliku kasumiga, vaid muud kriteeriumid.</li><li block-type=\"ListItem\">38. Konkurentsiamet ei nõustu EKT seisukohaga, mille kohaselt tuleks jäätmeveoettevõtjate  keskmise hinna arvutamisel lähtuda kõigi vastavate transporditeenuse pakkujate  keskmisest, näiteks käsitranspordi puhul, kus sarnase suuruse ja kaaluga esemete  turuhinnad ületavad 10 eurot korra kohta. Amet rõhutab, et kõnealuse lisateenuse osutamine  on seotud ettevõtja turgu valitsevast seisundist osutatava põhiteenusega, milleks on  korraldatud olmejäätmevedu. Kaubaturg on piiritletud konteineri käsitranspordi  lisateenusega, mida ei saa asendada mõne teise teenusepakkujaga ega eraldiseisvalt</li></ul></p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          93.3271484375
+        ],
+        [
+          547.407958984375,
+          93.3271484375
+        ],
+        [
+          547.407958984375,
+          768.2374649047852
+        ],
+        [
+          89.6328125,
+          768.2374649047852
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        93.3271484375,
+        547.407958984375,
+        768.2374649047852
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          521.5,
+          804.5869140625
+        ],
+        [
+          544.78125,
+          804.5869140625
+        ],
+        [
+          544.78125,
+          814.7834148406982
+        ],
+        [
+          521.5,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        521.5,
+        804.5869140625,
+        544.78125,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">jäätmeveost konkurentsivõimeliseks pidada. Sellise teenuse eest küsitav hind peab olema  mõistlikus vahekorras teenuse majandusliku väärtusega, mis tuleneb teenuse osutamiseks  vajalikest kuludest. Seetõttu ei pea ka Konkurentsiamet põhjendatuks analüüsida hindu, mis  ei kuulu konteineri käsitranspordi kaubaturule. Samuti ei ole asjakohane arvestada EKT  saadud hinnapakkumist teenuse kulude hindamisel, kuna menetluses puuduvad tõendid, mis  kinnitaksid, et tegemist on teenuse osutamiseks vajalike ja tegelikult kantud kuludega. Ka  juhul kui teenus oleks asendatav, siis võib eeldada, et potentsiaalsed konkurendid ei suudaks  pakkuda lisateenusele konkurentsivõimelisi alternatiive ega teenida sellega EKT-ga  võrdväärset kasumit.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          107.09375,
+          51.802734375
+        ],
+        [
+          547.39599609375,
+          51.802734375
+        ],
+        [
+          547.39599609375,
+          174.761474609375
+        ],
+        [
+          107.09375,
+          174.761474609375
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        51.802734375,
+        547.39599609375,
+        174.761474609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/222",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">39. Konkurentsimet ei pea põhjendatuks väidet, et EKT-l puudub turujõud seetõttu, et nende  turuosa raske eseme käsitsi transpordis […]. […] ei ole määrav turgu valitseva seisundi  kahtluse kontrollimisel. KonkS § 16 punkti 1 järgi on keelatud nii ebaõiglaste hindade  kehtestamine kui ka nende tegelik rakendamine. Menetluse käigus on tuvastatud, et  ettevõtja on oma avalikes hinnakirjades määranud konteineri käsitranspordi hinnad, mida  Konkurentsiamet peab ebaõiglaselt kõrgeteks. […].</li><li block-type=\"ListItem\">40. Vaadanud läbi EKT 19.08.2024 esitatud vastuväited, jääb Konkurentsiamet oma  seisukohtade juurde. Konkurentsiamet on käesolevas ettekirjutuses ja menetluse käigus  vastuväidetele vastanud ning esitatud vastuväited ei too kaasa ameti seisukoha  ümbervaatamist.</li><li block-type=\"ListItem\">41. Kokkuvõttes on EKT poolt kehtestatud konteineri käsitranspordi tasu, mis jääb vahemikku  8,33-20,00 eurot ilma käibemaksuta oluliselt kõrgem vastava lisateenuse põhjendatud  kulusid ning mõistlikku kasumit sisaldavast hinnast, mis EKT esitatud andmete alusel on  […]. Turgu valitsevat seisundit omava ettevõtja poolt osutatava teenuse hinda saamata  jäänud tulu ja muude põhjendamatute kriteeriumite lülitamine on konkurentsiõiguslikult  lubamatu. Sellist hinnakujundust tuleb pidada KonkS § 16 punkti 1 tähenduses  ebaõiglaseks.</li><li block-type=\"ListItem\">42. Lähtudes eelnimetatud põhjendustest, on Konkurentsiameti hinnangul Eesti  Keskkonnateenused AS-i tegevus konteineri käsitranspordi tasu kehtestamisel Antsla,  Rõuge, Elva, Haljala, Häädemeeste, Kastre, Kehtna, Kiili, Kuusalu, Loksa, Muhu, Nõo,  Põhja-Pärnumaa vald (sh Halinga piirkond), Põhja-Sakala, Raasiku ja Saarde valla ning  Loksa ja Maardu linna hinnakirjades vastuolus KonkS § 16 punktiga 1. Konkurentsiseaduse  rikkumise kõrvaldamiseks peab Konkurentsiamet vajalikuks teha EKT-le ettekirjutus,  millega kohustatakse ettevõtjat korrarikkumise kõrvaldamiseks ja õiglase hinnakujunduse  tagamiseks.</li><li block-type=\"ListItem\">43. Vastavalt korrakaitseseaduse § 28 lõikele 1 on pädeval korrakaitseorganil korrarikkumise  korral õigus panna avaliku korra eest vastutavale isikule ettekirjutusega korrarikkumise  kõrvaldamise kohustus ning hoiatada teda sunniraha kohaldamise eest, kui isik ei täida  kohustust hoiatuses määratud tähtaja jooksul.</li></ul></p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          189.5322265625
+        ],
+        [
+          547.4440307617188,
+          189.5322265625
+        ],
+        [
+          547.4440307617188,
+          642.189453125
+        ],
+        [
+          89.6328125,
+          642.189453125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        189.5322265625,
+        547.4440307617188,
+        642.189453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>SUNNIRAHA HOIATUS</b></h3>",
+      "page": 222,
+      "polygon": [
+        [
+          89.923828125,
+          653.2900390625
+        ],
+        [
+          220.13999938964844,
+          653.2900390625
+        ],
+        [
+          220.13999938964844,
+          665.8814697265625
+        ],
+        [
+          89.923828125,
+          665.8814697265625
+        ]
+      ],
+      "bbox": [
+        89.923828125,
+        653.2900390625,
+        220.13999938964844,
+        665.8814697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">44. Kui Eesti Keskkonnateenused AS jätab käesoleva ettekirjutuse tähtaegselt (<b>31.10.2024</b>)  täitmata, määrab Konkurentsiamet Eesti Keskkonnateenused AS-ile asendustäitmise ja  sunniraha seaduse § 2 lõike 2 ning konkurentsiseaduse § 57<sup>1</sup> alusel sunniraha 9600 (üheksa  tuhat kuussada) eurot. Sunniraha võib määrata korduvalt – kuni ettekirjutus on täidetud.</p>",
+      "page": 222,
+      "polygon": [
+        [
+          89.6328125,
+          679.6814575195312
+        ],
+        [
+          547.4200439453125,
+          679.6814575195312
+        ],
+        [
+          547.4200439453125,
+          733.4609375
+        ],
+        [
+          89.6328125,
+          733.4609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        679.6814575195312,
+        547.4200439453125,
+        733.4609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 222,
+      "polygon": [
+        [
+          521.9800415039062,
+          804.5869140625
+        ],
+        [
+          544.3599243164062,
+          804.5869140625
+        ],
+        [
+          544.3599243164062,
+          814.7834148406982
+        ],
+        [
+          521.9800415039062,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        521.9800415039062,
+        804.5869140625,
+        544.3599243164062,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">45. Ettekirjutuse tähtaegselt täitmata jätmise korral edastatakse see täitemenetluse alustamiseks  ja sunniraha sissenõudmiseks kohtutäiturile. Sellisel juhul lisanduvad määratud sunnirahale  kohtutäituri kulud ja muud seadusest tulenevad täitekulud.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          89.6328125,
+          52.2138671875
+        ],
+        [
+          547.1959838867188,
+          52.2138671875
+        ],
+        [
+          547.1959838867188,
+          91.96148681640625
+        ],
+        [
+          89.6328125,
+          91.96148681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        52.2138671875,
+        547.1959838867188,
+        91.96148681640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>VAIDLUSTAMISVIIDE</b></h3>",
+      "page": 87,
+      "polygon": [
+        [
+          89.341796875,
+          105.6611328125
+        ],
+        [
+          216.31198120117188,
+          105.6611328125
+        ],
+        [
+          216.31198120117188,
+          117.761474609375
+        ],
+        [
+          89.341796875,
+          117.761474609375
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        105.6611328125,
+        216.31198120117188,
+        117.761474609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/11/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">46. Käesoleva ettekirjutuse peale võib esitada vaide Konkurentsiameti peadirektorile (Tatari 39,  10134 Tallinn,<a href=\"mailto:info@konkurentsiamet.ee\"> info@konkurentsiamet.ee)</a> haldusmenetluse seaduses sätestatud korras või  kaebuse Tallinna Halduskohtule (Tallinna Kohtumaja, Pärnu mnt 7, 15082 Tallinn,  <a href=\"mailto:talhk.menetlus@kohus.ee\">talhk.menetlus@kohus.ee)</a> halduskohtumenetluse seadustikus sätestatud korras 30 päeva  jooksul otsuse teatavaks tegemisest arvates. Vaide või kaebuse esitamine ei peata  ettekirjutuse täitmist ega sunnivahendi rakendamist, kui Konkurentsiamet või kohus ei  otsusta teisiti.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          89.6328125,
+          131.56146240234375
+        ],
+        [
+          547.4080200195312,
+          131.56146240234375
+        ],
+        [
+          547.4080200195312,
+          226.3614501953125
+        ],
+        [
+          89.6328125,
+          226.3614501953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        131.56146240234375,
+        547.4080200195312,
+        226.3614501953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/8/SectionHeader/1",
+        "3": "/page/11/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>ETTEKIRJUTUSE KÄTTETOIMETAMINE</b></h1>",
+      "page": 87,
+      "polygon": [
+        [
+          89.6328125,
+          238.0458984375
+        ],
+        [
+          327.1015625,
+          238.0458984375
+        ],
+        [
+          327.1015625,
+          252.1614990234375
+        ],
+        [
+          89.6328125,
+          252.1614990234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        238.0458984375,
+        327.1015625,
+        252.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">47. Ettekirjutus saadetakse ettekirjutuse adressaadi äriregistris märgitud elektronposti  aadressile<a href=\"mailto:info@keskkonnateenused.ee\"> info@keskkonnateenused.ee</a> ning loetakse sellega haldusmenetluse seaduse § 27  lõike 2 punkti 3 alusel kätte toimetatuks.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          88.46875,
+          265.99151611328125
+        ],
+        [
+          547.322021484375,
+          265.99151611328125
+        ],
+        [
+          547.322021484375,
+          305.59149169921875
+        ],
+        [
+          88.46875,
+          305.59149169921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        265.99151611328125,
+        547.322021484375,
+        305.59149169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(allkirjastatud digitaalselt)</p>",
+      "page": 87,
+      "polygon": [
+        [
+          89.05078125,
+          333.19146728515625
+        ],
+        [
+          216.947998046875,
+          333.19146728515625
+        ],
+        [
+          216.947998046875,
+          345.19146728515625
+        ],
+        [
+          89.05078125,
+          345.19146728515625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        333.19146728515625,
+        216.947998046875,
+        345.19146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Evelin Pärn-Lee Peadirektor</p>",
+      "page": 87,
+      "polygon": [
+        [
+          89.05078125,
+          358.9914855957031
+        ],
+        [
+          169.0159912109375,
+          358.9914855957031
+        ],
+        [
+          169.0159912109375,
+          384.7914733886719
+        ],
+        [
+          89.05078125,
+          384.7914733886719
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        358.9914855957031,
+        169.0159912109375,
+        384.7914733886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ettekirjutuse koostanud ametnik: Kristin Truus, konkurentsi haldusmenetluse valdkonna jurist,  6672457,<a href=\"mailto:Kristin.Truus@konkurentsiamet.ee\"> Kristin.Truus@konkurentsiamet.ee</a></p>",
+      "page": 87,
+      "polygon": [
+        [
+          89.6328125,
+          414.19146728515625
+        ],
+        [
+          547.3839721679688,
+          414.19146728515625
+        ],
+        [
+          547.3839721679688,
+          440.3232421875
+        ],
+        [
+          89.6328125,
+          440.3232421875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        414.19146728515625,
+        547.3839721679688,
+        440.3232421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 87,
+      "polygon": [
+        [
+          521.6199951171875,
+          804.5869140625
+        ],
+        [
+          544.47998046875,
+          804.5869140625
+        ],
+        [
+          544.47998046875,
+          814.7834148406982
+        ],
+        [
+          521.6199951171875,
+          814.7834148406982
+        ]
+      ],
+      "bbox": [
+        521.6199951171875,
+        804.5869140625,
+        544.47998046875,
+        814.7834148406982
+      ],
+      "section_hierarchy": {
+        "1": "/page/11/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

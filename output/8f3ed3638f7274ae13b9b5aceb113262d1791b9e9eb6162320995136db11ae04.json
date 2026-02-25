@@ -1,0 +1,934 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 182,
+      "polygon": [
+        [
+          414.0279296875,
+          26.7236328125
+        ],
+        [
+          531.1908203125,
+          26.7236328125
+        ],
+        [
+          531.1908203125,
+          53.8583984375
+        ],
+        [
+          414.0279296875,
+          53.8583984375
+        ]
+      ],
+      "bbox": [
+        414.0279296875,
+        26.7236328125,
+        531.1908203125,
+        53.8583984375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lp. Märt Ots  Konkurentsiamet, peadirektor  Tatari 39  10134 Tallinn</p>",
+      "page": 182,
+      "polygon": [
+        [
+          68.970703125,
+          86.20269775390625
+        ],
+        [
+          205.6282958984375,
+          86.20269775390625
+        ],
+        [
+          205.6282958984375,
+          130.72308349609375
+        ],
+        [
+          68.970703125,
+          130.72308349609375
+        ]
+      ],
+      "bbox": [
+        68.970703125,
+        86.20269775390625,
+        205.6282958984375,
+        130.72308349609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/edastatud e-postiga/</p>",
+      "page": 182,
+      "polygon": [
+        [
+          69.552734375,
+          143.07421875
+        ],
+        [
+          168.19052124023438,
+          143.07421875
+        ],
+        [
+          168.19052124023438,
+          153.64306640625
+        ],
+        [
+          69.552734375,
+          153.64306640625
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        143.07421875,
+        168.19052124023438,
+        153.64306640625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>AS Piletilevi ettepanek kohustuste võtmiseks KonkS § 63<sup>7</sup> alusel</h2>",
+      "page": 182,
+      "polygon": [
+        [
+          142.015625,
+          166.0648193359375
+        ],
+        [
+          453.9343566894531,
+          166.0648193359375
+        ],
+        [
+          453.9343566894531,
+          176.68310546875
+        ],
+        [
+          142.015625,
+          176.68310546875
+        ]
+      ],
+      "bbox": [
+        142.015625,
+        166.0648193359375,
+        453.9343566894531,
+        176.68310546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/181",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(a) KonkS § 63<sup>7</sup>  alusel kohustuse võtmise taotluse esitamisega ei tunnista ega  mööna AS Piletilevi (\"Piletilevi\"), et tema tegevus oleks käesoleval hetkel või  olnud minevikus konkurentsiõigusega vastuolus. Tuginedes  Konkurentsiametis aset leidnud järelevalvemenetluses kogutud andmetele ja  tõenditele (ulatuses, milles need on teatavad Piletilevile) on Piletilevi  veendunud, et tema tegevus on kooskõlas konkurentsõiguse nõuetega.</li><li block-type=\"ListItem\">(b) KonkS § 63<sup>7</sup>  tingimustele vastav taotlus on esitatud ainult lähtuvalt soovist  lõpetada pikaajaline järelevalvemenetlus KonkS § 63<sup>4</sup>  lg 1 p 8 alusel, mistahes  õigusrikkumist tuvastamata ning vältimaks võimalikku pikaajalist  kohtumenetlust.</li></ul></p>",
+      "page": 182,
+      "polygon": [
+        [
+          89.27999877929688,
+          188.7099609375
+        ],
+        [
+          518.8809814453125,
+          188.7099609375
+        ],
+        [
+          518.8809814453125,
+          323.6473388671875
+        ],
+        [
+          89.27999877929688,
+          323.6473388671875
+        ]
+      ],
+      "bbox": [
+        89.27999877929688,
+        188.7099609375,
+        518.8809814453125,
+        323.6473388671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sellest tulenevalt esitab Piletilevi KonkS § 63<sup>7</sup> lg 1 alusel taotluse kohustuste võtmiseks alljärgnevalt.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          71.0078125,
+          333.4287109375
+        ],
+        [
+          520.25830078125,
+          333.4287109375
+        ],
+        [
+          520.25830078125,
+          344.20306396484375
+        ],
+        [
+          71.0078125,
+          344.20306396484375
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        333.4287109375,
+        520.25830078125,
+        344.20306396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2>1. Tüüplepingute uuendamine</h2>",
+      "page": 182,
+      "polygon": [
+        [
+          70.42578125,
+          356.4521484375
+        ],
+        [
+          240.3668212890625,
+          356.4521484375
+        ],
+        [
+          240.3668212890625,
+          368.28729248046875
+        ],
+        [
+          70.42578125,
+          368.28729248046875
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        356.4521484375,
+        240.3668212890625,
+        368.28729248046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/182",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1.1. Piletilevi teeb igale kliendile, kellega on sõlmitud käesolevate kohustustega mittekooskõlas olevad lepingud, uue ürituse korraldamise soovist teada andmisel pakkumuse  lepingu muutmiseks selliselt, et kohaldus uued tüüptingimused. Selguse huvides,  muudetud lepingud ei sisalda ürituse spetsiifilist allahindlust piletite müügi teenuse  ostmisel ainult või peamiselt Piletilevilt. Piletilevi ei sea lepingu muutmist sõltuvusse  muude tingimuste aktsepteerimisest.</li><li block-type=\"ListItem\">1.2. Kui mõni Piletilevi klient, kellele on eelnevas punktis viidatud pakkumus tehtud,  pakkumust ei aktsepteeri, siis teavitab Piletilevi antud ettevõtjat eraldi, et Piletilevi ei  kohalda selle ettevõtja suhtes enam lepingus sisalduvat ürituse spetsiifilist allahindlust  piletite müügi teenuse ostmisel ainult Piletilevilt (kui antud tingimus on sätestatud  kehtivas lepingus).</li><li block-type=\"ListItem\">2. \"Ürituste haldusteenuste, administreerimisteenuste tasu Ürituse müügiperioodil\",  piletimüügi teenuste osutamise tüüplepingu eritingimuste punkt 3.8</li><li block-type=\"ListItem\">2.1. Piletilevi täpsustab tüüplepingu eritingimuste punkti 3.8 sõnastust ning sätestab, et  kliendi poolt ühe ürituse mitme vahendaja poolt müügi korral:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.1.1. ei võta Piletilevi administreerimisteenuste eest tasu esimesel korral Piletilevile  esitatud tellimuse muutmisel, kui selline muutmine seondub piletite müügiga  mitme vahendaja kaudu; ja</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.1.2. iga järgnev mitme piletivahendaja kasutamisest tingitud muudatus  tasustatakse korrapõhiselt.</li></ul></li></ul></p>",
+      "page": 182,
+      "polygon": [
+        [
+          69.84375,
+          371.04681396484375
+        ],
+        [
+          526.584716796875,
+          371.04681396484375
+        ],
+        [
+          526.584716796875,
+          655.0872192382812
+        ],
+        [
+          69.84375,
+          655.0872192382812
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        371.04681396484375,
+        526.584716796875,
+        655.0872192382812
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi rakendatav punktis 2.1.2 nimetatud tasu on kulupõhine ning Piletilevi arvutab tasu  suuruse tulenevalt varasemast kogemusest piletimüügi teenuste pakkumisel.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          91.9609375,
+          665.5627136230469
+        ],
+        [
+          497.1129150390625,
+          665.5627136230469
+        ],
+        [
+          497.1129150390625,
+          688.236328125
+        ],
+        [
+          91.9609375,
+          688.236328125
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        665.5627136230469,
+        497.1129150390625,
+        688.236328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2.2. Piletilevi sõlmib kliendi soovil lisa piletimüügilepingule, mis võimaldab kliendil piletite  müüki iseseisvalt administreerida.</p>",
+      "page": 182,
+      "polygon": [
+        [
+          71.0078125,
+          699.748046875
+        ],
+        [
+          504.42803955078125,
+          699.748046875
+        ],
+        [
+          504.42803955078125,
+          724.8073043823242
+        ],
+        [
+          71.0078125,
+          724.8073043823242
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        699.748046875,
+        504.42803955078125,
+        724.8073043823242
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 182,
+      "polygon": [
+        [
+          69.84375,
+          773.3408203125
+        ],
+        [
+          209.9702606201172,
+          773.3408203125
+        ],
+        [
+          209.9702606201172,
+          798.8310546875
+        ],
+        [
+          69.84375,
+          798.8310546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        773.3408203125,
+        209.9702606201172,
+        798.8310546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 182,
+      "polygon": [
+        [
+          71.27999877929688,
+          771.28515625
+        ],
+        [
+          522.5698852539062,
+          771.28515625
+        ],
+        [
+          522.5698852539062,
+          789.1982078552246
+        ],
+        [
+          71.27999877929688,
+          789.1982078552246
+        ]
+      ],
+      "bbox": [
+        71.27999877929688,
+        771.28515625,
+        522.5698852539062,
+        789.1982078552246
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/0'></p>",
+      "page": 176,
+      "polygon": [
+        [
+          414.0279296875,
+          26.27138671875
+        ],
+        [
+          531.1908203125,
+          26.27138671875
+        ],
+        [
+          531.1908203125,
+          54.31064453125
+        ],
+        [
+          414.0279296875,
+          54.31064453125
+        ]
+      ],
+      "bbox": [
+        414.0279296875,
+        26.27138671875,
+        531.1908203125,
+        54.31064453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {
+        "/page/1/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/1/ListGroup/176",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2.2.1. Piletite müügi ise-administreerimisel tüüplepingu eritingimuste punkti 3.8  kohast tasu klientidelt ei võeta.</li><li block-type=\"ListItem\">2.2.2. Piletite ise-administreerimist võimaldatakse klientidele järgmistel tingimustel:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.2.2.1. Kliendi töötaja, kes administreerib piletite müüki, on Piletilevis läbinud  administreerimise koolituse, mille raames tutvustatakse töötajale  piletimüügi süsteemi ja kohalduvaid reegleid. Piletilevi võtab sellise  koolituse läbi viimise eest ühekordse kulupõhise tasu.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.2.2.2. Kliendiga sõlmitavas lepingu lisas sätestatakse kliendi vastutus  igasuguste Piletilevile tekkivate kahjude eest, mis seonduvad vigadega  piletite müügi administreerimisel. Samuti kohustub klient maksma  Piletilevile suurusega leppetrahvi iga piletite ise-administreerimisele  laienevate kohustuste tahtliku või raksest hooletusest tingitud rikkumise  eest.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.2.2.3. Piletilevil on õigus tühistada kliendi ise-administreerimise õigus, kui  klient rikub korduvalt või vähemalt raske hooletuse tulemusena vähemalt  ühel korral ise-administreerimisele kohalduvaid reegleid või iseadministreerimise õiguse kasutamise ajal on täidetud mõni järgmises  punktis viidatud tingimustest.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2.2.2.4. Piletilevil on õigus mitte-anda ise-administreerimise õigust (või antud  õigus tühistada) järgmistel juhtudel:  <ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.1. Klienti või mõnda temaga samasse kontserni kuuluvat ettevõtjat  on karistatud kriminaal- või väärteokaristusega või on asjakohast  järelevalvet teostavad asutused tuvastanud olulisi rikkumisi või  kohaldanud haldussundi kolme eelneva kolme kalendriaasta jooksul.  Selguse huvides, oluliseks rikkumiseks loetakse vähemalt  Tarbijakaitse ja Tehnilise Järelevalve Ameti tuvastatud  õigusrikkumised ürituste korraldamisel;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.2. Klient või mõnda temaga samasse kontserni kuuluv ettevõtja  omab maksuvõlga või on teiste avalik-õiguslike kohustuste täitmisega  viivituses;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.3. Klient või mõnda temaga samasse kontserni kuuluv ettevõtja  on olnud Piletilevi ees rahaliste kohustuste täitmisega olulises  viivituses ise-administreerimise õiguse andmisele eelneva kahe  kalendriaasta jooksul;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.4. Kliendi või mõne temaga samasse kontserni kuuluva ettevõtja  finantsolukord ei vasta kehtiva õiguse nõuetele;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.5. Kliendi või mõne temaga samasse kontserni kuuluva ettevõtja  varasem tegevus või kavandatud üritus tekitab objektiivseid kahtlusi,  et ise-administreerimise õiguse andmine võiks tuua kaasa Piletilevi  maine või kaubamärgi/ kaubamärkide kahjustamise;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">2.2.2.4.6. Punktis 2.2.2.1 koolituse läbinud töötaja annab talle Piletilevi  poolt antud piletite ise-administreerimise süsteemi kasutamiseks  vajalikud kasutaja-andmed (kasutajanimi ja parool) edasi mõnele  teisele isikule.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">Punktis 2.2.2 sätestatud tingimused täpsustatakse kliendiga sõlmitavas lepingu lisas.</li></ul></li></ul></li><li block-type=\"ListItem\">3. \"Piletite kontrollimise tasu\", piletimüügi teenuste osutamise tüüplepingu  eritingimuste punkt 3.5</li></ul></p>",
+      "page": 176,
+      "polygon": [
+        [
+          69.84375,
+          85.9267578125
+        ],
+        [
+          527.0130615234375,
+          85.9267578125
+        ],
+        [
+          527.0130615234375,
+          745.3837890625
+        ],
+        [
+          69.84375,
+          745.3837890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        85.9267578125,
+        527.0130615234375,
+        745.3837890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 176,
+      "polygon": [
+        [
+          70.716796875,
+          773.7177963256836
+        ],
+        [
+          522.5698852539062,
+          773.7177963256836
+        ],
+        [
+          522.5698852539062,
+          798.419921875
+        ],
+        [
+          70.716796875,
+          798.419921875
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        773.7177963256836,
+        522.5698852539062,
+        798.419921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/16",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 176,
+      "polygon": [
+        [
+          257.2578125,
+          774.57421875
+        ],
+        [
+          334.0859375,
+          774.57421875
+        ],
+        [
+          334.0859375,
+          791.01953125
+        ],
+        [
+          257.2578125,
+          791.01953125
+        ]
+      ],
+      "bbox": [
+        257.2578125,
+        774.57421875,
+        334.0859375,
+        791.01953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 176,
+      "polygon": [
+        [
+          458.05859374999994,
+          771.6962890625
+        ],
+        [
+          519.75390625,
+          771.6962890625
+        ],
+        [
+          519.75390625,
+          787.3193359375
+        ],
+        [
+          458.05859374999994,
+          787.3193359375
+        ]
+      ],
+      "bbox": [
+        458.05859374999994,
+        771.6962890625,
+        519.75390625,
+        787.3193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/2/Picture/0'></p>",
+      "page": 115,
+      "polygon": [
+        [
+          414.0279296875,
+          26.7236328125
+        ],
+        [
+          531.1908203125,
+          26.7236328125
+        ],
+        [
+          531.1908203125,
+          53.8583984375
+        ],
+        [
+          414.0279296875,
+          53.8583984375
+        ]
+      ],
+      "bbox": [
+        414.0279296875,
+        26.7236328125,
+        531.1908203125,
+        53.8583984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {
+        "/page/2/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/2/ListGroup/114",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3.1. Piletilevi avaldab igale ettevõtjale, kes soovib müüa pileteid mitme vahendaja kaudu  ning avaldab selleks soovi, infotehnoloogilise standardi, millele peavad piletifailid  vastama.</li><li block-type=\"ListItem\">3.2. Olukorras, kus Piletilevile edastatavad piletifailid vastavad punktis 3.1. toodud  standardile, ei võta Piletilevi tasu piletite oma süsteemi kontrollimise eesmärgil  sisestamise eest.</li><li block-type=\"ListItem\">3.3. Piletilevi rakendab tunni-põhist tasu ainult juhtudel, kui:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">3.3.1. Piletilevile edastatakse piletifailid kujul, mis ei vasta punktis 3.1 kirjeldatud  standardile, edastatud piletifailis on vead või puudused, mis tekitavad  objektiivseid takistusi failide Piletilevi müügisüsteemi sisestamiseks.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3.3.2. Piletilevile edastatakse piletifaile enam kui üks kord konkreetse ürituse kohta.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3.3.3. Piletilevi osutab piletite kontrollimise teenust ürituse toimumise kohas ning  ilmnevad vead teise piletimüüja poolt edastatud andmetes.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3.4. Käesolevas sätestatud punktis toodut rakendatakse muudatuste tegemise kaudu  piletimüügi teenuste osutamise tüüplepingu eritingimuste punkti 3.5.</li></ul></li></ul></p>",
+      "page": 115,
+      "polygon": [
+        [
+          69.84375,
+          85.9267578125
+        ],
+        [
+          521.5966796875,
+          85.9267578125
+        ],
+        [
+          521.5966796875,
+          288.4873046875
+        ],
+        [
+          69.84375,
+          288.4873046875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        85.9267578125,
+        521.5966796875,
+        288.4873046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2>4. Rakenduslikud sätted</h2>",
+      "page": 115,
+      "polygon": [
+        [
+          69.26171875,
+          304.68682861328125
+        ],
+        [
+          210.49273681640625,
+          304.68682861328125
+        ],
+        [
+          210.49273681640625,
+          315.727294921875
+        ],
+        [
+          69.26171875,
+          315.727294921875
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        304.68682861328125,
+        210.49273681640625,
+        315.727294921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/115",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">4.1. Piletilevi rakendab eelnevalt toodud kohustusi alates järelevalve menetlust lõpetava  otsuse jõustumisest. Selguse huvides, muudatused Piletilevi lepingute punktides 3.5 ja  3.8 tehakse konkreetse kliendiga enne järgmist üritust, millele Piletilevi pileteid  vahendab. Ise-administreerimise leping sõlmitakse klientidega, kes selleks soovi  avaldavad.</li><li block-type=\"ListItem\">4.2. Kohustused kehtivad kuni 31. detsembrini 2021.</li></ul></p>",
+      "page": 115,
+      "polygon": [
+        [
+          69.84375,
+          318.48681640625
+        ],
+        [
+          518.1607666015625,
+          318.48681640625
+        ],
+        [
+          518.1607666015625,
+          397.687255859375
+        ],
+        [
+          69.84375,
+          397.687255859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        318.48681640625,
+        518.1607666015625,
+        397.687255859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 115,
+      "polygon": [
+        [
+          70.716796875,
+          419.7666015625
+        ],
+        [
+          148.27464294433594,
+          419.7666015625
+        ],
+        [
+          148.27464294433594,
+          429.7630920410156
+        ],
+        [
+          70.716796875,
+          429.7630920410156
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        419.7666015625,
+        148.27464294433594,
+        429.7630920410156
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/allkirjastatud digitaalselt/  Jaanus Beilmann  juahtuse liige  AS Piletilevi</p>",
+      "page": 115,
+      "polygon": [
+        [
+          69.84375,
+          442.6026916503906
+        ],
+        [
+          185.9799041748047,
+          442.6026916503906
+        ],
+        [
+          185.9799041748047,
+          487.2430419921875
+        ],
+        [
+          69.84375,
+          487.2430419921875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        442.6026916503906,
+        185.9799041748047,
+        487.2430419921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 115,
+      "polygon": [
+        [
+          69.552734375,
+          773.3408203125
+        ],
+        [
+          209.9702606201172,
+          773.3408203125
+        ],
+        [
+          209.9702606201172,
+          798.8310546875
+        ],
+        [
+          69.552734375,
+          798.8310546875
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        773.3408203125,
+        209.9702606201172,
+        798.8310546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 115,
+      "polygon": [
+        [
+          71.27999877929688,
+          771.28515625
+        ],
+        [
+          522.5698852539062,
+          771.28515625
+        ],
+        [
+          522.5698852539062,
+          789.1982078552246
+        ],
+        [
+          71.27999877929688,
+          789.1982078552246
+        ]
+      ],
+      "bbox": [
+        71.27999877929688,
+        771.28515625,
+        522.5698852539062,
+        789.1982078552246
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/8"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

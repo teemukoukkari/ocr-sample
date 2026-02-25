@@ -1,0 +1,788 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 52,
+      "polygon": [
+        [
+          56.68984375,
+          69.52255859375
+        ],
+        [
+          294.85703125,
+          69.52255859375
+        ],
+        [
+          294.85703125,
+          140.97744140625
+        ],
+        [
+          56.68984375,
+          140.97744140625
+        ]
+      ],
+      "bbox": [
+        56.68984375,
+        69.52255859375,
+        294.85703125,
+        140.97744140625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADuAxkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiikJA6nFAC0UUUAFFFFABRRRQAUUUUAFFFFABRQSB1OKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArPEjXt8Ah/cQnJI/iai+uWdxZ25/ev94j+EVbt4EtoFjToB19TQBLRRRQAUUUUAFFFFABRRRQAUUUUAUtVYpp7spwQQQadp92Lu2Dfxjhh70mpxtLp8qoMnGcVz+nXhs7oEn5G4YUAdZRSKwZQwOQeRS0AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVSv777MojjG6Z+FUfzpL/UUtV2J88zdFHamafZMp+03J3TN6/w0ASWFn9mQySHdM/LNTfNa8vQsZxDEcs394+lNvblpZRZ2x+dvvsP4RVy3gS2hWNBwP1oAlooooAKKKKACiiigAooooAKKKKAKeqO0dg7ocMpBBrnrpFljF1GOGOHUfwmuj1GF57GSNBliOBXM203kSFJBmNvlcGgRr6Jfb0+zSH5l+6T3FbNcg6vZXQZD0+ZW9RXUWlyt1brKvccj0NAyeiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACikZlQZZgB7ms+51m3gyEPmP6DpQBoEhQSTgDuayLzV8t5FoN7njcP6VVzf6s+OUi/Staz06GzXIG5+7GgCDT9M8pvtFwd0x555xT7+/MTC3gG6d+OO1R32pHf9ntPnlPGR2qawsBbL5kh3zN95jQA+xshaRksd0rcu1NM73N4IoT+7jOXb1PpUd3dPNN9jtvvn779lFXLe3S2hEaDgdT60AS0UUUAFFFFABRRRQAUUUUAFFFFAFTU5GhsXkQ4ZSCKw7uJbuD7ZCMH/AJaqOx9a3dRhe4sZI05YjgVzVpcvZznI+U/K6nuKBEkDfa4Psrn515iJ/lUulXhtLkxSZCMcEHsaivbbyJFnhOYX5Ujt7Utw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0yGb+1bWzvNg861uZRGyN3xuxuHuK5P4z+OvDU/gq60O1vrbUdRu2RY4rZxL5ZDA7iRkA8Yx15rZ1P4F+BtSuGnSxuLJmOStrOVXPsDkD8MVo+HPhJ4O8MXaXlnppnu0OUmunMhQ+oH3QffGaAKOkaXd6N8BGsb5WS5j0iYujdU3KzBT9AQKy/2d/wDkm8//AGEZf/QI69TvbODULGezuo/Mt542jkTJG5SMEZHI49KoeHfDOj+E9NbT9Es/stq0hlMfmu/zEAE5Yk9AKAPD7iS4+C3xXub+a3kfw1rDHLxjO0E7sD/aU547g17VY+M/DOpWS3drr2nPCRncbhVK/UEgj6GtDU9KsNasJLHUrSG7tZPvRSqGB9/Y+9ed3HwC8DT3BlSC+gUnPlR3J2/+PAn9aAOZ+K3xBg8VQx+CfB7HUrq9lVZ5bf5kwDnap78jJPQAda7628Np4S+D11oysGeDTJzK46NIUYsfzNa/hnwN4c8IRsNF0yK3kYYeYkvIw92bJx7Ditu7tIL6zntLlN8E8bRyJkjcpGCMjkcUAeXfs9f8k2f/AK/pf5LU3xk8Cy6/pMfiDSFZNb0seYjR8NJGDkge46j8R3ru/D3hrSPCmmnTtFtPstoZDJ5fmO/zHGTliT2Fa1AHzb8GdbufEXxhv9Wu1UXNxYsZdvQsNgJ/HGa+kq5zSPAXhjQddn1rS9LW2v5wwkkSWQghjk4UttHI7CujoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Brussels, 16.2.2026  SWD(2026) 65 final</p>",
+      "page": 52,
+      "polygon": [
+        [
+          325.35546875,
+          190.3544921875
+        ],
+        [
+          425.32476806640625,
+          190.3544921875
+        ],
+        [
+          425.32476806640625,
+          216.18359375
+        ],
+        [
+          325.35546875,
+          216.18359375
+        ]
+      ],
+      "bbox": [
+        325.35546875,
+        190.3544921875,
+        425.32476806640625,
+        216.18359375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>COMMISSION STAFF WORKING DOCUMENT</b></h2>",
+      "page": 52,
+      "polygon": [
+        [
+          166.4609375,
+          266.8251953125
+        ],
+        [
+          429.5390625,
+          266.8251953125
+        ],
+        [
+          429.5390625,
+          276.5892333984375
+        ],
+        [
+          166.4609375,
+          276.5892333984375
+        ]
+      ],
+      "bbox": [
+        166.4609375,
+        266.8251953125,
+        429.5390625,
+        276.5892333984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Updated climate tracking and digital tagging of the Recovery and Resilience plan of </b> <b>Estonia</b></p>",
+      "page": 52,
+      "polygon": [
+        [
+          83.8125,
+          299.7158203125
+        ],
+        [
+          515.1863403320312,
+          299.7158203125
+        ],
+        [
+          515.1863403320312,
+          322.04022216796875
+        ],
+        [
+          83.8125,
+          322.04022216796875
+        ]
+      ],
+      "bbox": [
+        83.8125,
+        299.7158203125,
+        515.1863403320312,
+        322.04022216796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Accompanying the document</i></p>",
+      "page": 52,
+      "polygon": [
+        [
+          223.79101562499997,
+          344.9404296875
+        ],
+        [
+          370.4212646484375,
+          344.9404296875
+        ],
+        [
+          370.4212646484375,
+          356.06549072265625
+        ],
+        [
+          223.79101562499997,
+          356.06549072265625
+        ]
+      ],
+      "bbox": [
+        223.79101562499997,
+        344.9404296875,
+        370.4212646484375,
+        356.06549072265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Proposal for a COUNCIL IMPLEMENTING DECISION</b></h2>",
+      "page": 52,
+      "polygon": [
+        [
+          149.58203125,
+          369.6083984375
+        ],
+        [
+          446.41796874999994,
+          369.6083984375
+        ],
+        [
+          446.41796874999994,
+          381.8180236816406
+        ],
+        [
+          149.58203125,
+          381.8180236816406
+        ]
+      ],
+      "bbox": [
+        149.58203125,
+        369.6083984375,
+        446.41796874999994,
+        381.8180236816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>amending the Implementing Decision of 29 October 2021 on the approval of the </b> <b>assessment of the recovery and resilience plan for Estonia </b></p>",
+      "page": 52,
+      "polygon": [
+        [
+          95.27880096435547,
+          395.0986328125
+        ],
+        [
+          504.4828796386719,
+          395.0986328125
+        ],
+        [
+          504.4828796386719,
+          421.36456298828125
+        ],
+        [
+          95.27880096435547,
+          421.36456298828125
+        ]
+      ],
+      "bbox": [
+        95.27880096435547,
+        395.0986328125,
+        504.4828796386719,
+        421.36456298828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">{COM(2026) 90 final}</p>",
+      "page": 52,
+      "polygon": [
+        [
+          244.1514892578125,
+          455.53515625
+        ],
+        [
+          352.5121765136719,
+          455.53515625
+        ],
+        [
+          352.5121765136719,
+          466.3485107421875
+        ],
+        [
+          244.1514892578125,
+          466.3485107421875
+        ]
+      ],
+      "bbox": [
+        244.1514892578125,
+        455.53515625,
+        352.5121765136719,
+        466.3485107421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>EN</b> <b>EN</b></p>",
+      "page": 52,
+      "polygon": [
+        [
+          28.31999969482422,
+          781.5634765625
+        ],
+        [
+          566.927978515625,
+          781.5634765625
+        ],
+        [
+          566.927978515625,
+          806.0801773071289
+        ],
+        [
+          28.31999969482422,
+          806.0801773071289
+        ]
+      ],
+      "bbox": [
+        28.31999969482422,
+        781.5634765625,
+        566.927978515625,
+        806.0801773071289
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Updated</b> <b>climate tracking and digital tagging of the Recovery and Resilience Plan of</b> <b>Estonia</b></h2>",
+      "page": 361,
+      "polygon": [
+        [
+          70.5234375,
+          83.14453125
+        ],
+        [
+          500.8359375,
+          83.14453125
+        ],
+        [
+          500.8359375,
+          110.24151611328125
+        ],
+        [
+          70.5234375,
+          110.24151611328125
+        ]
+      ],
+      "bbox": [
+        70.5234375,
+        83.14453125,
+        500.8359375,
+        110.24151611328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>The table below presents the detailed application of the climate tracking and digital tagging </i> <i>methodologies set out respectively in Annexes</i> <i>VI and VII to Regulation (EU) 2021/241 in the </i> <i>modified Estonian</i> <i>recovery and resilience plan.*</i></p>",
+      "page": 361,
+      "polygon": [
+        [
+          69.328125,
+          139.521484375
+        ],
+        [
+          522.2739868164062,
+          139.521484375
+        ],
+        [
+          522.2739868164062,
+          181.4014892578125
+        ],
+        [
+          69.328125,
+          181.4014892578125
+        ]
+      ],
+      "bbox": [
+        69.328125,
+        139.521484375,
+        522.2739868164062,
+        181.4014892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Int. Field = intervention field.</i></p>",
+      "page": 361,
+      "polygon": [
+        [
+          71.419921875,
+          191.8125
+        ],
+        [
+          216.07199096679688,
+          191.8125
+        ],
+        [
+          216.07199096679688,
+          204.2015380859375
+        ],
+        [
+          71.419921875,
+          204.2015380859375
+        ]
+      ],
+      "bbox": [
+        71.419921875,
+        191.8125,
+        216.07199096679688,
+        204.2015380859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Coeff. = Coefficient for the calculation of support to climate change objectives and to digital </i> <i>transition, on the basis of Annex VI and Annex VII of the RRF Regulation.</i></p>",
+      "page": 361,
+      "polygon": [
+        [
+          70.5234375,
+          215.1214599609375
+        ],
+        [
+          521.4519653320312,
+          215.1214599609375
+        ],
+        [
+          521.4519653320312,
+          242.00152587890625
+        ],
+        [
+          70.5234375,
+          242.00152587890625
+        ]
+      ],
+      "bbox": [
+        70.5234375,
+        215.1214599609375,
+        521.4519653320312,
+        242.00152587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Revised measures are marked in yellow</i> <i>to distinguish them from the unchanged measures in the </i> <i>RRP.</i></p>",
+      "page": 361,
+      "polygon": [
+        [
+          70.5234375,
+          252.52734375
+        ],
+        [
+          536.8580322265625,
+          252.52734375
+        ],
+        [
+          536.8580322265625,
+          279.83148193359375
+        ],
+        [
+          70.5234375,
+          279.83148193359375
+        ]
+      ],
+      "bbox": [
+        70.5234375,
+        252.52734375,
+        536.8580322265625,
+        279.83148193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Table/5",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Measure/</th><th rowspan=\"2\">Measure/Sub-Measure Name</th><th rowspan=\"2\">Budget<br/>(EUR<br/>m)</th><th colspan=\"2\">Climate</th><th colspan=\"2\">Digital</th></tr><tr><th>Sub<br/>Measure<br/>Name ID</th><th>Int.<br/>Field</th><th>Coeff.<br/>%</th><th>Int.<br/>Field</th><th>Coeff.<br/>%</th></tr><tr><td>1.1</td><td>Digital transformation in<br/>enterprises</td><td>58</td><td></td><td></td><td>010</td><td>100%</td></tr><tr><td>1.2</td><td>Development of e-construction</td><td>9</td><td></td><td></td><td>010</td><td>100%</td></tr><tr><td>1.3</td><td>Development of digital waybills<br/>services</td><td>6</td><td></td><td></td><td>010</td><td>100%</td></tr><tr><td>1.4</td><td>Skills reform for the digital<br/>transformation of businesses</td><td>10</td><td></td><td></td><td>108</td><td>100%</td></tr><tr><td>1.5</td><td>Supporting the competitiveness of<br/>enterprises in foreign markets</td><td>8.17</td><td></td><td></td><td>015</td><td>40%</td></tr><tr><td>2.2</td><td>Green skills to support the green<br/>transition of enterprises</td><td>15</td><td>01</td><td>100%</td><td></td><td></td></tr><tr><td>2.3</td><td>Green technologies development<br/>programme</td><td>8.38</td><td>047</td><td>40%</td><td></td><td></td></tr><tr><td>2.4</td><td>Modernisation of the business<br/>models in manufacturing<br/>companies</td><td>9</td><td>022</td><td>100%</td><td></td><td></td></tr><tr><td>2.5</td><td>Resource-efficient green<br/>technologies</td><td>52.80</td><td>022</td><td>100%</td><td></td><td></td></tr><tr><td>2.6</td><td>Green fund</td><td>100</td><td></td><td></td><td></td><td></td></tr><tr><td>2.7</td><td>Creating opportunities for the<br/>uptake of renewables-based green<br/>hydrogen technologies</td><td>11.55</td><td>032</td><td>100%</td><td></td><td></td></tr><tr><td>2.8</td><td>Supply security investment<br/>support</td><td>20</td><td>034</td><td>40%</td><td></td><td></td></tr></tbody></table>",
+      "page": 361,
+      "polygon": [
+        [
+          65.86171875,
+          297.7115625
+        ],
+        [
+          541.35703125,
+          297.7115625
+        ],
+        [
+          541.35703125,
+          698.4759375
+        ],
+        [
+          65.86171875,
+          698.4759375
+        ]
+      ],
+      "bbox": [
+        65.86171875,
+        297.7115625,
+        541.35703125,
+        698.4759375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 361,
+      "polygon": [
+        [
+          302.4140625,
+          730.381462097168
+        ],
+        [
+          309.07000732421875,
+          730.381462097168
+        ],
+        [
+          309.07000732421875,
+          742.381462097168
+        ],
+        [
+          302.4140625,
+          742.381462097168
+        ]
+      ],
+      "bbox": [
+        302.4140625,
+        730.381462097168,
+        309.07000732421875,
+        742.381462097168
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Table/0",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>Measure/</th><th></th><th>Budget</th><th colspan=\"2\">Climate</th><th colspan=\"2\">Digital</th></tr><tr><th>Sub<br/>Measure<br/>Name ID</th><th>Measure/Sub-Measure Name</th><th>(EUR<br/>m)</th><th>Int.<br/>Field</th><th>Coeff.<br/>%</th><th>Int.<br/>Field</th><th>Coeff.<br/>%</th></tr><tr><td>3.1</td><td>Creation and development of a<br/>centre of excellence for data<br/>management and open data</td><td>7.14</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.2</td><td>Development of event services for<br/>individuals</td><td>12.28</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.3</td><td>Development of event services<br/>and digital gateway for<br/>entrepreneurs</td><td>20.80</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.4</td><td>#Bürokratt programme (national<br/>virtual assistant)</td><td>10.8</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.5</td><td>Reconfiguration of basic digital<br/>services and safe transition to<br/>cloud infrastructure</td><td>42.83</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.6</td><td>The strategic analysis of money<br/>laundering and terrorist financing<br/>in Estonia</td><td>0.40</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.7</td><td>Information system for strategic<br/>analysis of money laundering and<br/>terrorist financing</td><td>3.50</td><td></td><td></td><td>011</td><td>100%</td></tr><tr><td>3.8</td><td>Construction of very high<br/>capacity broadband networks</td><td>24.29</td><td></td><td></td><td>053</td><td>100%</td></tr><tr><td>4.2</td><td>Support for the renovation of<br/>multi-apartment buildings</td><td>44.67</td><td>025bis</td><td>100%</td><td></td><td></td></tr><tr><td>4.3</td><td>Support for the renovation of<br/>small residential buildings</td><td>31.30</td><td>025</td><td>40%</td><td></td><td></td></tr><tr><td>4.5</td><td>Programme to increase the<br/>capacity of the electricity<br/>transmission network</td><td>36.20</td><td>033</td><td>100%</td><td></td><td></td></tr><tr><td>4.6</td><td>Programme to boost energy<br/>production in industrial areas</td><td>9.10</td><td>033</td><td>100%</td><td></td><td></td></tr><tr><td>4.7</td><td>Pilot Energy Storage Programme</td><td>8.73</td><td>033</td><td>100%</td><td></td><td></td></tr><tr><td>4.8</td><td>Boosting offshore wind parks<br/>development</td><td>66.80</td><td>028</td><td>100%</td><td></td><td></td></tr><tr><td>5.2.a</td><td>Multifunctional working vessel</td><td>18</td><td>050</td><td>40%</td><td></td><td></td></tr><tr><td>5.3.a</td><td>Construction of the Rail Baltic<br/>viaducts<br/>and terminal</td><td>39.90</td><td>065</td><td>100%</td><td></td><td></td></tr><tr><td>5.3.b</td><td>Renovation of a section of the<br/>railway from Rapla to Lelle</td><td>30.52</td><td>065</td><td>100%</td><td></td><td></td></tr><tr><td>5.4</td><td>Construction of the Tallinn Old<br/>Port tram line</td><td>36.50</td><td>073</td><td>100%</td><td></td><td></td></tr><tr><td>5.5</td><td>Municipalities' investments in<br/>bike-and walkways</td><td>5</td><td>075</td><td>100%</td><td></td><td></td></tr></tbody></table>",
+      "page": 493,
+      "polygon": [
+        [
+          67.05703125,
+          63.174375
+        ],
+        [
+          542.55234375,
+          63.174375
+        ],
+        [
+          542.55234375,
+          719.544375
+        ],
+        [
+          67.05703125,
+          719.544375
+        ]
+      ],
+      "bbox": [
+        67.05703125,
+        63.174375,
+        542.55234375,
+        719.544375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/1",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 493,
+      "polygon": [
+        [
+          302.115234375,
+          728.96484375
+        ],
+        [
+          309.07000732421875,
+          728.96484375
+        ],
+        [
+          309.07000732421875,
+          742.381462097168
+        ],
+        [
+          302.115234375,
+          742.381462097168
+        ]
+      ],
+      "bbox": [
+        302.115234375,
+        728.96484375,
+        309.07000732421875,
+        742.381462097168
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/TableGroup/113",
+      "block_type": "TableGroup",
+      "html": "<table><tbody><tr><th rowspan=\"2\">Measure/<br/>Sub<br/>Measure<br/>Name ID</th><th rowspan=\"2\">Measure/Sub-Measure Name</th><th rowspan=\"2\">Budget<br/>(EUR<br/>m)</th><th colspan=\"2\">Climate</th><th colspan=\"2\">Digital</th></tr><tr><th>Int.<br/>Field</th><th>Coeff.<br/>%</th><th>Int.<br/>Field</th><th>Coeff.<br/>%</th></tr><tr><td>8.1</td><td>Facilitating the deployment of<br/>renewable energy sources and the<br/>decarbonization of selected<br/>economic sectors</td><td>31.84</td><td>028</td><td>100%</td><td></td><td></td></tr><tr><td>8.2</td><td>Programme to increase the access<br/>of renewable energy production to<br/>the electricity distribution system</td><td>38</td><td>029</td><td>100%</td><td></td><td></td></tr><tr><td>8.3</td><td>Increasing production and uptake<br/>of biomethane</td><td>20.2</td><td></td><td></td><td></td><td></td></tr></tbody></table><p><sup>*</sup>Reforms and investments in the REPowerEU chapter are not taken into account when calculating  the plan's contribution to the digital target requirement set by Regulation (EU) 2021/241.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          70.5234375,
+          71.9296875
+        ],
+        [
+          542.9041137695312,
+          71.9296875
+        ],
+        [
+          542.9041137695312,
+          300.2314453125
+        ],
+        [
+          70.5234375,
+          300.2314453125
+        ]
+      ],
+      "bbox": [
+        70.5234375,
+        71.9296875,
+        542.9041137695312,
+        300.2314453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          302.115234375,
+          730.381462097168
+        ],
+        [
+          309.07000732421875,
+          730.381462097168
+        ],
+        [
+          309.07000732421875,
+          742.381462097168
+        ],
+        [
+          302.115234375,
+          742.381462097168
+        ]
+      ],
+      "bbox": [
+        302.115234375,
+        730.381462097168,
+        309.07000732421875,
+        742.381462097168
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          612.0,
+          0.0
+        ],
+        [
+          612.0,
+          792.0
+        ],
+        [
+          0.0,
+          792.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          612.0,
+          0.0
+        ],
+        [
+          612.0,
+          792.0
+        ],
+        [
+          0.0,
+          792.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          612.0,
+          0.0
+        ],
+        [
+          612.0,
+          792.0
+        ],
+        [
+          0.0,
+          792.0
+        ]
+      ]
+    }
+  }
+}

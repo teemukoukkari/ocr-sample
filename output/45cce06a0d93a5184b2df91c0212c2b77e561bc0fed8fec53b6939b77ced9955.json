@@ -1,0 +1,924 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 109,
+      "polygon": [
+        [
+          41.1205078125,
+          85.351171875
+        ],
+        [
+          167.2466796875,
+          85.351171875
+        ],
+        [
+          167.2466796875,
+          143.238671875
+        ],
+        [
+          41.1205078125,
+          143.238671875
+        ]
+      ],
+      "bbox": [
+        41.1205078125,
+        85.351171875,
+        167.2466796875,
+        143.238671875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> <b>06. Januar</b> <b>2021</b></p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          222.833984375
+        ],
+        [
+          507.53124999999994,
+          222.833984375
+        ],
+        [
+          507.53124999999994,
+          234.8592529296875
+        ],
+        [
+          69.84375,
+          234.8592529296875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        222.833984375,
+        507.53124999999994,
+        234.8592529296875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Erwerbs von A.T.U durch Carglass </b></h2>",
+      "page": 109,
+      "polygon": [
+        [
+          75.08203125,
+          270.525390625
+        ],
+        [
+          331.0934143066406,
+          270.525390625
+        ],
+        [
+          331.0934143066406,
+          282.73931884765625
+        ],
+        [
+          75.08203125,
+          282.73931884765625
+        ]
+      ],
+      "bbox": [
+        75.08203125,
+        270.525390625,
+        331.0934143066406,
+        282.73931884765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Reparatur und Austausch von Fahrzeugglas</p>",
+      "page": 109,
+      "polygon": [
+        [
+          75.6640625,
+          307.72930908203125
+        ],
+        [
+          428.0583190917969,
+          307.72930908203125
+        ],
+        [
+          428.0583190917969,
+          320.68927001953125
+        ],
+        [
+          75.6640625,
+          320.68927001953125
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        307.72930908203125,
+        428.0583190917969,
+        320.68927001953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B4-60/20</p>",
+      "page": 109,
+      "polygon": [
+        [
+          74.5,
+          338.3623046875
+        ],
+        [
+          258.421875,
+          338.3623046875
+        ],
+        [
+          258.421875,
+          351.4092712402344
+        ],
+        [
+          74.5,
+          351.4092712402344
+        ]
+      ],
+      "bbox": [
+        74.5,
+        338.3623046875,
+        258.421875,
+        351.4092712402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 17. Dezember 2020</p>",
+      "page": 109,
+      "polygon": [
+        [
+          75.6640625,
+          369.0492858886719
+        ],
+        [
+          309.4224853515625,
+          369.0492858886719
+        ],
+        [
+          309.4224853515625,
+          382.00927734375
+        ],
+        [
+          75.6640625,
+          382.00927734375
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        369.0492858886719,
+        309.4224853515625,
+        382.00927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat die Übernahme des Glasgeschäfts der A.T.U Auto-Teile Unger GmbH  ('ATU') durch die Belron GmbH ('Belron'), der Muttergesellschaft der Carglass GmbH  ('Carglass') nach vertiefter Prüfung im Hauptprüfverfahren freigegeben; der Erwerb umfasst  insbesondere das Versicherungs- und Großkundengeschäft.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          419.7666015625
+        ],
+        [
+          527.2119750976562,
+          419.7666015625
+        ],
+        [
+          527.2119750976562,
+          484.5899963378906
+        ],
+        [
+          69.84375,
+          484.5899963378906
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        419.7666015625,
+        527.2119750976562,
+        484.5899963378906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Zusammenschlussvorhaben betrifft den Bereich \"Reparatur und Austausch von  Fahrzeugglas für Pkw und leichte Nutzfahrzeuge\". Die Beteiligten sind auf dem betroffenen  Markt aktuelle Wettbewerber. Carglass ist mit rund 350 eigenen Service Centern mit teils  hieran angegliederten mobilen Einheiten der größte Fahrzeugglasspezialist Deutschlands. Zu  Carglass gehört seit der Übernahme im Jahr 2015 zudem das Junited Autoglas Netzwerk, das  rund 300 Franchisebetriebe umfasst. Für ATU, welches ebenfalls über ein flächendeckendes  Filialnetz mit rund 500 Filialen verfügt, stellt das Glasgeschäft eine von vielen angebotenen  Service- und Wartungsdienstleistungen für Kfz dar.</p>",
+      "page": 109,
+      "polygon": [
+        [
+          69.84375,
+          496.6484375
+        ],
+        [
+          526.9580688476562,
+          496.6484375
+        ],
+        [
+          526.9580688476562,
+          628.2109375
+        ],
+        [
+          69.84375,
+          628.2109375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        496.6484375,
+        526.9580688476562,
+        628.2109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Ziel des Vorhabens zwischen den Beteiligten ist die vollständige Übertragung der  Marktposition von ATU auf Carglass. ATU zieht sich nach Vollzug des Zusammenschlusses aus  dem Geschäft für die Reparatur und den Austausch von Fahrzeugglas zurück. Zum  Glasgeschäft von ATU gehören sowohl sog. gesteuerte Kunden als auch sog. ungesteuerte  Kunden. Bei den gesteuerten Kunden handelt es sich zum einen um gewerbliche Großkunden  aus dem Leasing-, Flotten- und Mietwagengeschäft ('LFR-Kunden'), die mit ATU in der Regel  bundesweite bzw. überregionale Rahmenverträge geschlossen haben. Zum anderen handelt  es sich um Versicherungsnehmer, die von ihren Kasko-Versicherungen insbesondere im</p>",
+      "page": 109,
+      "polygon": [
+        [
+          68.6796875,
+          642.189453125
+        ],
+        [
+          527.0619506835938,
+          642.189453125
+        ],
+        [
+          527.0619506835938,
+          774.1760025024414
+        ],
+        [
+          68.6796875,
+          774.1760025024414
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        642.189453125,
+        527.0619506835938,
+        774.1760025024414
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 109,
+      "polygon": [
+        [
+          518.58984375,
+          781.5634765625
+        ],
+        [
+          524.5773315429688,
+          781.5634765625
+        ],
+        [
+          524.5773315429688,
+          793.0159950256348
+        ],
+        [
+          518.58984375,
+          793.0159950256348
+        ]
+      ],
+      "bbox": [
+        518.58984375,
+        781.5634765625,
+        524.5773315429688,
+        793.0159950256348
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Rahmen von Werkstattbindungspolicen aktiv zu ATU gelenkt werden. Im Gegensatz zu den  gesteuerten Kunden können die ungesteuerten Kunden im Falle eines Glasschadens  unabhängig von ihrem Versicherungsstatus den Reparaturbetrieb frei wählen. Für ATU spielt  hinsichtlich dieser ungesteuerten Kunden insbesondere das Drive-in-Geschäft, d.h. die  regelmäßig wiederkehrenden Kunden für Reifen-, Wartungs- oder Inspektionsleistungen eine  besondere Rolle, denn im Rahmen dieser Werkstattbesuche werden bei ATU Glasschäden  häufig erst entdeckt.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          69.84375,
+          72.7705078125
+        ],
+        [
+          527.0979614257812,
+          72.7705078125
+        ],
+        [
+          527.0979614257812,
+          186.46002197265625
+        ],
+        [
+          69.84375,
+          186.46002197265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        72.7705078125,
+        527.0979614257812,
+        186.46002197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Zusammenschlussvorhaben besteht in einem Kaufvertrag, der den Übergang des  gesteuerten Geschäfts durch den Eintritt von Carglass in bestehende Verträge mit LFR-Kunden und Versicherungen regelt. In den Nebenbestimmungen ist u.a. ein dreijähriges  Wettbewerbsverbot vorgesehen. Zusätzlich beabsichtigten die Parteien, einen langfristig  angelegten Kooperationsvertrag abzuschließen, der die weitere Zusammenarbeit im Hinblick  auf das ungesteuerte Geschäft, insbesondere das Drive-in Geschäft, regelt.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          69.84375,
+          198.5771484375
+        ],
+        [
+          527.199951171875,
+          198.5771484375
+        ],
+        [
+          527.199951171875,
+          295.5699462890625
+        ],
+        [
+          69.84375,
+          295.5699462890625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        198.5771484375,
+        527.199951171875,
+        295.5699462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Gesamtvorhaben der Beteiligten wies daher zum Zeitpunkt der Anmeldung bezüglich des  gesteuerten Glasgeschäfts konzentrative, bezüglich des ungesteuerten Glasgeschäfts  allerdings vornehmlich kooperative Bezüge auf und war daher sowohl fusionsrechtlich als  auch kartellrechtlich zu prüfen.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          70.8239974975586,
+          308.349609375
+        ],
+        [
+          527.2119750976562,
+          308.349609375
+        ],
+        [
+          527.2119750976562,
+          370.92999267578125
+        ],
+        [
+          70.8239974975586,
+          370.92999267578125
+        ]
+      ],
+      "bbox": [
+        70.8239974975586,
+        308.349609375,
+        527.2119750976562,
+        370.92999267578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Ergebnis ist das ungesteuerte Glasgeschäft von ATU, dessen Potential insbesondere an das  Kerngeschäft von ATU in den Bereichen Reifen, Wartung und Inspektion gekoppelt ist, im  Gegensatz zu dem gesteuerten Glasgeschäft weder als Vermögenswert noch als Teil eines  abtrennbaren Geschäftsbereichs übertragbar und somit auch nicht von der  Zusammenschlusskontrolle erfasst. Es hängt weder an einem übertragbaren materiellen  Vermögenswert noch an einem übertragbaren immateriellen Gut (insbesondere gehen keine  Kundendaten an den Erwerber über). ATU bleibt zudem nach dem Vollzug des  Zusammenschlusses als aus dem Markt austretender Veräußerer aktiv beim Auffinden von  Glasschäden tätig und führt die Kunden dem Erwerber Carglass zu. Es handelt sich hier somit  nicht nur um eine strukturelle Veränderung des Marktes, die mit dem Vollzug des  Zusammenschlussvorhabens abgeschlossen wäre, sondern vor allem auch um eine  Marktveränderung, die auf einer anhaltenden Verhaltenskoordination der Beteiligten beruht  - diese ist aber nicht Gegenstand der Zusammenschlusskontrolle.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          69.84375,
+          383.7699890136719
+        ],
+        [
+          527.0299682617188,
+          383.7699890136719
+        ],
+        [
+          527.0299682617188,
+          597.8699951171875
+        ],
+        [
+          69.84375,
+          597.8699951171875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        383.7699890136719,
+        527.0299682617188,
+        597.8699951171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Zuge der Marktermittlungen erhob das Bundeskartellamt umfängliche Informationen von  Wettbewerbern, Kfz-Herstellern, Glasherstellern, Großkunden und sämtlichen Kfz-Versicherern, die Mitglieder des Gesamtverbands der deutschen Versicherungswirtschaft  (GDV) sind. Die Informationen und Daten zu Glasschadensfällen, Kooperationspartnern und  weiteren Marktgegebenheiten wurden für die Analyse der Marktstellung der Beteiligten  herangezogen.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          68.6796875,
+          610.5322265625
+        ],
+        [
+          527.199951171875,
+          610.5322265625
+        ],
+        [
+          527.199951171875,
+          706.9799957275391
+        ],
+        [
+          68.6796875,
+          706.9799957275391
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        610.5322265625,
+        527.199951171875,
+        706.9799957275391
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In Bezug auf die sachliche Marktabgrenzung geht das Bundeskartellamt von einem Markt für  die Reparatur und den Austausch von Fahrzeugglas für Pkw und Fahrzeuge bis 3,5 t aus.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          68.6796875,
+          719.482421875
+        ],
+        [
+          527.1759643554688,
+          719.482421875
+        ],
+        [
+          527.1759643554688,
+          748.7360076904297
+        ],
+        [
+          68.6796875,
+          748.7360076904297
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        719.482421875,
+        527.1759643554688,
+        748.7360076904297
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 128,
+      "polygon": [
+        [
+          518.298828125,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          793.0159950256348
+        ],
+        [
+          518.298828125,
+          793.0159950256348
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        781.5634765625,
+        524.701171875,
+        793.0159950256348
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Reparatur und der Austausch von Fahrzeugglas stellen hierbei einen einheitlichen Markt  dar, da es für den Kunden in der Regel nicht ersichtlich ist, ob ein Glasschaden reparabel ist  oder ob der Austausch der Scheibe erforderlich ist. Zudem bieten sämtliche größeren Anbieter  sowohl die Reparatur als auch den Austausch einer Fahrzeugscheibe an, weshalb aus  Endkundensicht bei der Wahl des Reparaturunternehmens keine Differenzierung zwischen  den beiden Bereichen erfolgt (siehe hierzu auch den Fallbericht vom 30.09.2015 zur  Übernahme von Junited AUTOGLAS durch Carglass). Für die Reparatur und den Austausch von  Fahrzeugglas bei LKW über 3,5 t und Bussen stellen sich die Wettbewerbsverhältnisse jedoch  anders dar als bei Fahrzeugen bis 3,5 t. Bei der Glasreparatur von Bussen, aber auch von  großen LKW, wird eine zeitkritische Reparatur vor Ort in der Fläche nachgefragt, hier sind  einige wenige spezialisierte \"freie\" Anbieter als \"Nischenanbieter\" mit mobilen Einheiten  bundesweit tätig, die ansonsten nicht mit den Beteiligten oder den Hauptwettbewerbern  konkurrieren. Zudem verfügen die Hersteller dieser Fahrzeuge, d.h. die markengebundenen  Werkstätten der LKW- und Bushersteller, in diesem Markt über einen wesentlich höheren  Marktanteil als die wenigen freien Werkstätten. Hinzu kommt, dass das Handling bei  Fahrzeugen über 3,5 t deutlich komplizierter ist und daher auch bei dem Abschluss vieler Rahmenvereinbarungen mit Versicherungen zwischen Fahrzeugen bis 3,5 t und über 3,5 t  unterschieden wird.</p>",
+      "page": 147,
+      "polygon": [
+        [
+          69.84375,
+          73.181640625
+        ],
+        [
+          526.9580688476562,
+          73.181640625
+        ],
+        [
+          526.9580688476562,
+          371.7699890136719
+        ],
+        [
+          69.84375,
+          371.7699890136719
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        73.181640625,
+        526.9580688476562,
+        371.7699890136719
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In räumlicher Hinsicht hat sich das Bundeskartellamt insbesondere aufgrund der großen  Bedeutung bundesweiter Rahmenvereinbarungen, die etwa 90 Prozent des Marktes  abdecken, auf die Beurteilung der bundesweiten Marktverhältnisse beschränkt. Die  Ermittlungen haben gezeigt, dass die über Kaskoversicherungen abgewickelten Glasschäden  etwa 76 Prozent des hier relevanten Marktes abdecken und dass etwa 88 Prozent der  Versicherungen (in der Regel bundesweite) Rahmenvereinbarungen mit Anbietern für die  Reparatur und den Austausch von Fahrzeugglas treffen. Da der versicherte Endverbraucher  nur wenig preissensibel ist, haben viele Versicherungen ein Interesse daran, zur Reduzierung  ihrer Schadenssummen, aber auch zur Reduzierung der Schadensabwicklungskosten, mit  einem oder mehreren Anbietern von Glasreparaturleistungen Rahmenverträge  abzuschließen. In diesen Vereinbarungen werden verschiedene Konditionen  (Stundenverrechnungssätze, Ersatzteilpreise, Volumina, Qualitätsvorgaben) sowie Service-Leistungen vorgegeben und zum Teil auch eine direkte Steuerung von Kunden durch die  Versicherung vereinbart. Regionale Unterschiede, etwa bei den zu verwendenden  Stundenverrechnungssätzen, bestehen nicht. Weitere von den Anmeldern geschätzte ca. 14 Prozent der bundesweiten Schäden fallen bei den LFR-Kunden an, die unabhängig von den  Versicherungen in Eigenregie für die Behebung von Glasschäden an ihren Fahrzeugen mit  einem oder mehreren Anbietern von Glasreparaturleistungen ebenfalls überregionale oder  bundesweite Verträge abschließen. Des Weiteren erscheint auch eine bundesweite  Marktabgrenzung vor dem Hintergrund naheliegend, dass im vorliegenden Fall praktisch nur  die bundesweit operierenden Wettbewerber von Carglass und ATU in der Lage sein könnten,  mögliche Verhaltensspielräume der Beteiligten nach dem Zusammenschluss wirksam zu  beschränken.</p>",
+      "page": 147,
+      "polygon": [
+        [
+          69.84375,
+          381.53125
+        ],
+        [
+          527.2000122070312,
+          381.53125
+        ],
+        [
+          527.2000122070312,
+          767.2160034179688
+        ],
+        [
+          69.84375,
+          767.2160034179688
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        381.53125,
+        527.2000122070312,
+        767.2160034179688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 147,
+      "polygon": [
+        [
+          518.298828125,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          793.0159950256348
+        ],
+        [
+          518.298828125,
+          793.0159950256348
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        781.5634765625,
+        524.701171875,
+        793.0159950256348
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Prüfung der in den Anwendungsbereich der Fusionskontrolle fallende Übertragung des  gesteuerten Glasgeschäfts von ATU auf Carglass lässt nicht erwarten, dass durch diesen  Zusammenschluss wirksamer Wettbewerb erheblich behindert bzw. eine  marktbeherrschende Stellung von Carglass begründet oder verstärkt würde. Mögliche  Verhaltensspielräume von Carglass werden hier insbesondere durch den Wettbewerb der  Glasspezialisten im Bereich des gesteuerten Geschäfts hinreichend kontrolliert. Mit einem  gemeinsamen Marktanteil von [25-30] Prozent erreichen die Beteiligten nicht die  Vermutungsschwelle der Einzelmarktbeherrschung des § 18 Abs. 4 GWB, der  Marktanteilszuwachs ist im Übrigen nur gering.</p>",
+      "page": 84,
+      "polygon": [
+        [
+          69.84375,
+          71.9482421875
+        ],
+        [
+          527.053955078125,
+          71.9482421875
+        ],
+        [
+          527.053955078125,
+          220.05999755859375
+        ],
+        [
+          69.84375,
+          220.05999755859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.9482421875,
+        527.053955078125,
+        220.05999755859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Parteien haben den Inhalt des Kooperationsvertrages im Hinblick auf die Zusammenarbeit  im Rahmen des ungesteuerten Geschäfts im Laufe des Verfahrens und nach Gesprächen mit  der Beschlussabteilung sowohl inhaltlich als auch die Laufzeit betreffend erheblich  eingeschränkt. Die Dauer der Zusammenarbeit, die ursprünglich für fünf bis zehn Jahre  geplant war, wurde insgesamt auf drei Jahre beschränkt. Zudem wurde die zunächst  vorgesehene Schulung von ATU-Mitarbeitern durch Carglass, das gegenseitige Empfehlen und  \"Einbuchen\" von Kunden bei der anderen Partei mittels eines gemeinsamen IT-Interfaces,  sowie bundesweite gemeinsame Werbemaßnahmen aus dem Vertragsentwurf gestrichen.  Weiterhin wurde die zunächst für [100-150] ATU-Filialen vorgesehene Stationierung von  Carglass-Mitarbeitern als mobile Einheiten vor Ort oder mit einem Arbeitsplatz direkt in der  Filiale auf maximal [30] Filialen beschränkt.</p>",
+      "page": 84,
+      "polygon": [
+        [
+          69.84375,
+          231.056640625
+        ],
+        [
+          527.18798828125,
+          231.056640625
+        ],
+        [
+          527.18798828125,
+          413.4100036621094
+        ],
+        [
+          69.84375,
+          413.4100036621094
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        231.056640625,
+        527.18798828125,
+        413.4100036621094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Prüfung der im Kooperationsvertrag nunmehr nur noch für drei Jahre vereinbarten  Zusammenarbeit von Carglass und ATU zur Überleitung der ungesteuerten Glaskunden nach  Art. 101 Abs. 1 AEUV bzw. § 1 GWB konnte letztendlich aufgrund der beschriebenen zeitlichen  und inhaltlichen Einschränkungen durch die Parteien eingestellt werden.</p>",
+      "page": 84,
+      "polygon": [
+        [
+          69.84375,
+          426.25
+        ],
+        [
+          526.9220581054688,
+          426.25
+        ],
+        [
+          526.9220581054688,
+          488.9100036621094
+        ],
+        [
+          69.84375,
+          488.9100036621094
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        426.25,
+        526.9220581054688,
+        488.9100036621094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 84,
+      "polygon": [
+        [
+          518.298828125,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          781.5634765625
+        ],
+        [
+          524.701171875,
+          793.0159950256348
+        ],
+        [
+          518.298828125,
+          793.0159950256348
+        ]
+      ],
+      "bbox": [
+        518.298828125,
+        781.5634765625,
+        524.701171875,
+        793.0159950256348
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

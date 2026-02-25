@@ -1,0 +1,3883 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          391.34033203125006,
+          67.42578125
+        ],
+        [
+          515.12939453125,
+          67.42578125
+        ],
+        [
+          515.12939453125,
+          95.3828125
+        ],
+        [
+          391.34033203125006,
+          95.3828125
+        ]
+      ],
+      "bbox": [
+        391.34033203125006,
+        67.42578125,
+        515.12939453125,
+        95.3828125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 124,
+      "polygon": [
+        [
+          20.3369140625,
+          37.4130859375
+        ],
+        [
+          199.30175781250003,
+          37.4130859375
+        ],
+        [
+          199.30175781250003,
+          100.7275390625
+        ],
+        [
+          20.3369140625,
+          100.7275390625
+        ]
+      ],
+      "bbox": [
+        20.3369140625,
+        37.4130859375,
+        199.30175781250003,
+        100.7275390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADTAlUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAopCQBkkAe9Ymp+LdF0p/KlvFluOn2e3Hmyf98rkigDcorlhr/iK9Yf2f4aaOPGd99OI8/QDJpkg8cztvjfSLQf88yrS/rxQB1lFcpJrfiXTMNqOgpdW4HzS2Eu5hjuUOOPoTUknj7Q/skclpM95cSnalnAhM270KdV/HFAHT0VyhvfGOoRE22mWOnK33WuZTI4Huo4/WljfxxbD95DpN9/uu0OP50AdVRXKf8ACVanYZ/tnw7dQxqcNPakTIB64HzfpWxpniDSdYj3WN9DK2MtHuAdf95TyPxoA06KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACmu6RRtI7BUUZZicACh3SKNpJGCooyzMcACuIuJ5vH9y1lZs0fhqNsXFyuQbwjqiH+56nvQAlpa6j4xvLrV01W+06xVhFYLAwCyKp5kYEc5OcewFan9i+JwMf8JYMe+nx5/nXRQQRWtvHBAipFGoVFUYAA7Vy3xC8YP4J0BNVW3juEEyo8bvtLA/3fegBy+CYbk79T1nUr8FsvG0+2Jvbavb8a29N0PTNITZYWUMHuq/Mfx618uH4q6lFd366bNcLbXd1Hc28DNkwuHBK59COK+pYb6VtCW+ktnWb7P5pgP3s7c7frQBepqyIxIV1JHUA182+LPijr15PZwJq6wafchmlWxTbcQDOMODnGPbrXKwavLpELX+j+KtQ/tLktG2WDsDzkehHIz9KAPr6qkWmWMF9LexWkKXUoAklVAGYD1NedfDTxzqeuyJbaxe2lzMbQXDC2QjyRnGXbpk+nauf8U/tBw2F7PZaDpi3TQybPtM7ERn1wBzQB7hRXh1j8f7t5YrC58KTzai2AUtZMhiemBzXr2kX15PpEd3q0EdjM4LNEX/1a9gxPf1oA06x9S8LaLqziS70+JpRnEija35iqt5468OWd21odVt5bpV3eTE244+o4H51554P+N0GteJr621uey0yxTK227OZDuxy3SgDu08H3VkwfTPEmpwsBgLcMJ0/I4p0mgeI50Mc3i1/LbhvKsURvwOeK6SCeG5iEsEqSxt0dGDA/iKkoA42xmufCviOLSr69ubvT9QA+y3Ny25kmH3kZvccj6Guyqjq+lW2tabJZXQbY/IdThkYdGB7EGsHRNdvNOvl0DxGyreAf6NeYxHdqPfs/qKAOsooooAKKKKACiiigAooooAKKKKACiii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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Ekspress Grupp AS Piletilevi Group Eesti Korvpalliliit MTÜ Rapla Korvpallikool MTÜ Korvpalliklubi Paulus MTÜ Tallinna Tehnikaülikooli Spordiklubi MTÜ Tartu Ülikooli Akadeemiline Spordiklubi MTÜ Rafter Spordiklubi MTÜ Korvpalliklubi Viimsi 21.02.2022 nr 5-5/2022-007</p>",
+      "page": 124,
+      "polygon": [
+        [
+          89.48242187500001,
+          139.6439208984375
+        ],
+        [
+          544.679443359375,
+          139.6439208984375
+        ],
+        [
+          544.679443359375,
+          278.11676025390625
+        ],
+        [
+          89.48242187500001,
+          278.11676025390625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        139.6439208984375,
+        544.679443359375,
+        278.11676025390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 124,
+      "polygon": [
+        [
+          409.06250000000006,
+          265.591796875
+        ],
+        [
+          543.8671875,
+          265.591796875
+        ],
+        [
+          543.8671875,
+          273.814453125
+        ],
+        [
+          409.06250000000006,
+          273.814453125
+        ]
+      ],
+      "bbox": [
+        409.06250000000006,
+        265.591796875,
+        543.8671875,
+        273.814453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teade järelevalvemenetluse lõpetamisest </b></h1>",
+      "page": 124,
+      "polygon": [
+        [
+          90.06347656250001,
+          313.283203125
+        ],
+        [
+          319.3199462890625,
+          313.283203125
+        ],
+        [
+          319.3199462890625,
+          326.85479736328125
+        ],
+        [
+          90.06347656250001,
+          326.85479736328125
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        313.283203125,
+        319.3199462890625,
+        326.85479736328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>1.</b> <b>Järelevalvemenetluse alustamine</b></h1>",
+      "page": 124,
+      "polygon": [
+        [
+          88.90136718750001,
+          362.5215148925781
+        ],
+        [
+          276.7679443359375,
+          362.5215148925781
+        ],
+        [
+          276.7679443359375,
+          374.65081787109375
+        ],
+        [
+          88.90136718750001,
+          374.65081787109375
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        362.5215148925781,
+        276.7679443359375,
+        374.65081787109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Piletilevi Group (Piletilevi) pöördus 16.12.2021 Konkurentsiameti poole seoses kahtlusega  AS Ekspress Grupi (Ekspress Grupp) poolt turgu valitseva seisundi kuritarvitamisega läbi  piletite vahendamise teenuse osutamise kaubaturu piiramise ning Ekspress Grupi, Eesti  Korvpalliliidu (Korvpalliliit) ning PAF Korvpalli Meistriliiga klubide (edaspidi ka  Korvpalliklubid) võimaliku konkurentsi kahjustava kokkuleppega kolmandate isikute  kaubaturult välja tõrjumisega. 27.12.2021 alustas Konkurentsiamet järelevalvemenetlust  Ekspress Grupi, Korvpalliliidu ning Korvpalliklubide tegevuse kontrollimiseks  konkurentsiseaduse (KonkS) § 4 lg 1 punktide 2 ja 3 tähenduses ning Ekspress Grupi tegevuse  kontrollimiseks võimaliku turgu valitseva seisundi kuritarvitamise osas KonkS § 16 punktide 2  ja 4 tähenduses.</p>",
+      "page": 124,
+      "polygon": [
+        [
+          89.48242187500001,
+          392.6318359375
+        ],
+        [
+          547.3212280273438,
+          392.6318359375
+        ],
+        [
+          547.3212280273438,
+          548.8429565429688
+        ],
+        [
+          89.48242187500001,
+          548.8429565429688
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        392.6318359375,
+        547.3212280273438,
+        548.8429565429688
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>2.</b> <b>Piletilevi taotlus menetluse algatamiseks </b></h1>",
+      "page": 124,
+      "polygon": [
+        [
+          88.90136718750001,
+          568.9214172363281
+        ],
+        [
+          317.27996826171875,
+          568.9214172363281
+        ],
+        [
+          317.27996826171875,
+          581.0507507324219
+        ],
+        [
+          88.90136718750001,
+          581.0507507324219
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        568.9214172363281,
+        317.27996826171875,
+        581.0507507324219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi tõi oma 16.12.2021 taotluses välja, et alates 2021. aasta teisest poolest on kõik (v.a  TLÜ/Tallinna Kalev) PAF Korvpalli Meistriliigas osalevad korvpalliklubid ning ka Eesti  korvpallikoondis (läbi Korvpalliliidu) hakanud pileteid müüma Piletitasku keskkonna kaudu.</p>",
+      "page": 124,
+      "polygon": [
+        [
+          88.32031250000001,
+          600.25390625
+        ],
+        [
+          547.319580078125,
+          600.25390625
+        ],
+        [
+          547.319580078125,
+          644.1229400634766
+        ],
+        [
+          88.32031250000001,
+          644.1229400634766
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        600.25390625,
+        547.319580078125,
+        644.1229400634766
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi taotluses esitatu kohaselt on Piletilevi pakkunud piletite vahendamise teenuseid  erinevatele Meistriliiga klubidele, kes kõik on aga keeldunud ostmast teenust Piletilevi käest,  viidates Liidu otsusele osta teenust ainult Piletitaskust ning seonduvale keelule pileteid teistele  platvormidele müügiks anda. See viitab Piletilevi hinnangul asjaosaliste keelatud kokkuleppele  boikoteerida teisi piletite vahendamise teenuse pakkujaid. Meistriliigas osalevad ja Piletitasku  teenust kasutavad korvpalliklubid on: (i) AVIS UTILITAS RAPLA (MTÜ Rapla  Korvpallikool); (ii) BC Kalev/Cramo (MTÜ Rafter Spordiklubi); (iii) Pärnu Sadam (MTÜ  Korvpalliklubi Paulus); (iv) TalTech/OPTIBET (MTÜ Tallinna Tehnikaülikooli Spordiklubi);</p>",
+      "page": 124,
+      "polygon": [
+        [
+          88.32031250000001,
+          663.8100128173828
+        ],
+        [
+          547.3199462890625,
+          663.8100128173828
+        ],
+        [
+          547.3199462890625,
+          788.9638671875
+        ],
+        [
+          88.32031250000001,
+          788.9638671875
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        663.8100128173828,
+        547.3199462890625,
+        788.9638671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tatari 39 / 10134 Tallinn / 667 2400 / info@konkurentsiamet.ee / Registrikood 70000303</p>",
+      "page": 124,
+      "polygon": [
+        [
+          90.64453125000001,
+          794.7197265625
+        ],
+        [
+          455.13079833984375,
+          794.7197265625
+        ],
+        [
+          455.13079833984375,
+          804.7464027404785
+        ],
+        [
+          90.64453125000001,
+          804.7464027404785
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        794.7197265625,
+        455.13079833984375,
+        804.7464027404785
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(v) Tartu Ülikool Maks &amp; Moorits (MTÜ Tartu Ülikooli Akadeemiline Spordiklubi); ja (vi)  KK Viimsi/Sportland (MTÜ Korvpalliklubi Viimsi).</p>",
+      "page": 132,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.046875
+        ],
+        [
+          547.3192749023438,
+          46.046875
+        ],
+        [
+          547.3192749023438,
+          74.8431396484375
+        ],
+        [
+          89.48242187500001,
+          74.8431396484375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.046875,
+        547.3192749023438,
+        74.8431396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi hinnangul on keelatud kokkuleppe taga Ekspress Grupi vastav pakkumine (või  survestamine) Korvpalliliidu suunal, milles Ekspress Grupp on, kasutades ära Ekspress Meedia  turujõudu meediaväljaannetes reklaami müügi kaubaturul, sidunud omavahel Piletitasku  teenused ja Ekspress Meedia reklaami-/turundusteenused. Teisisõnu, Ekspress Grupp pakub  vastutasuks eksklusiivsusele piletite vahendamisel tasuta Ekspress Grupi poolt pakutavaid  reklaami- /turundusteenuseid. Korvpalliliit alaliiduna ja Meistriliiga korraldajana omakorda  omab võimalust vastavat keelatud kokkulepet korvpalliklubide vahel vahendada.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          89.48242187500001,
+          94.1494140625
+        ],
+        [
+          547.320068359375,
+          94.1494140625
+        ],
+        [
+          547.320068359375,
+          201.8662109375
+        ],
+        [
+          89.48242187500001,
+          201.8662109375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        94.1494140625,
+        547.320068359375,
+        201.8662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi hinnangul on Ekspress Grupp sidunud Ekspress Meedia poolt veebis avaldatavates  meediaväljaannetes reklaami müügi (siduv turg) teiste Ekspress Grupi ettevõtjate poolt  osutatavate teenustega (seotud turud), sealhulgas Piletitasku poolt piletimüügi vahendamise  teenuse osutamisega. Piletilevi hinnangul on viidatud tegevuse selgeks eesmärgiks sulgeda  konkurentidele seotud turge, kasutades selleks ära Ekspress Meedia turgu valitsevat seisundit  siduval turul. Selliselt kahjustab Ekspress Grupp konkurentsi eelkõige seotud turgudel.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          88.32031250000001,
+          221.61016845703125
+        ],
+        [
+          547.3199462890625,
+          221.61016845703125
+        ],
+        [
+          547.3199462890625,
+          313.6943359375
+        ],
+        [
+          88.32031250000001,
+          313.6943359375
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        221.61016845703125,
+        547.3199462890625,
+        313.6943359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi hinnangul moodustab kaubaturu veebis avaldatavates meediaväljaannetes reklaami  müük Eestis. Sealjuures ei ole asjakohaseks kaubaturuks laiem internetis avaldatava reklaami  müük, kus tegutsevad mh Facebook ja Google. Piletilevi leiab digitellimuste arvu ja  meediaväljaannete veebilehtede külastatavust arvestades, et Ekspress Meedia omab turgu  valitsevat seisundit.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          89.48242187500001,
+          332.1953125
+        ],
+        [
+          547.3199462890625,
+          332.1953125
+        ],
+        [
+          547.3199462890625,
+          408.08294677734375
+        ],
+        [
+          89.48242187500001,
+          408.08294677734375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        332.1953125,
+        547.3199462890625,
+        408.08294677734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi hinnangul on Piletitasku teenustasus sisalduvate panga- ja kaardimaksete tasude,  saaliplaani loomise-, sündmuse sisestamise- ja arveldamise kulude kõrval just Piletitasku  reklaampindadel turundus, ehk nähtavus delfi.ee kanalis ja Ekspress Meedia paberväljaannetes,  see mis omab turgu sulgevat mõju, kuivõrd üldjuhul on reklaamteenus oluliselt kallim piletite  vahendusteenuselt teenitavast tulust. See toob Piletilevi hinnangul kaasa olukorra, mil  väiksemad teenusepakkujad ei suuda Piletitaskuga konkureerida ning sulgeb antud ettevõtjate  võimalused sellisel turul tegevust jätkata/laiendada, vähendades ka uute teenusepakkujate  lisandumise tõenäosust.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          88.32031250000001,
+          427.8900451660156
+        ],
+        [
+          547.3197021484375,
+          427.8900451660156
+        ],
+        [
+          547.3197021484375,
+          550.8828430175781
+        ],
+        [
+          88.32031250000001,
+          550.8828430175781
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        427.8900451660156,
+        547.3197021484375,
+        550.8828430175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Järelevalvemenetluse alustamise taotluses on välja toodud Ekspress Meedia avalik hinnakiri,  mille kohaselt algavad Delfi kanalites reklaamide hinnad 1400 eurost, aga võrdlusena toodud  Piletikeskuse vahendustasu 1000 osalejaga ürituse puhul algab 400 eurost. Piletilevi hinnangul  pole Piletitasku konkurendid võimelised pakkuma piletite vahendamise teenuse osas sellises  mahus allahindlust või sarnase väärtusega komplekti, millega neil oleks võimalik konkureerida  Ekspress Meedia segakomplektmüügiga.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          88.32031250000001,
+          569.4189453125
+        ],
+        [
+          547.320068359375,
+          569.4189453125
+        ],
+        [
+          547.320068359375,
+          662.0029449462891
+        ],
+        [
+          88.32031250000001,
+          662.0029449462891
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        569.4189453125,
+        547.320068359375,
+        662.0029449462891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi hinnangul kahjustatakse sellise tegevuse tagajärjel konkurentsi piletimüügi  vahendamise kaubaturul, elimineerides korvpallimängudele piletite vahendamise võimaluse  kõikidelt teistelt turuosalistelt peale Piletitasku. Lisaks kahjustab Piletilevi hinnangul selline  tegevus konkurentsi korvpalliklubide vahel, kuivõrd korraga mitme piletimüügi vahendaja  kasutamise korral oleks piletite müügilt teenitav tulu suurem. Kaebuse kohaselt kahjustatakse  ka tarbijate huve, kuivõrd piletite müügikanalite piiramise läbi ei pruugi osad isikud Meistriliiga  võistlustele jõuda.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          88.32031250000001,
+          681.6900787353516
+        ],
+        [
+          547.3199462890625,
+          681.6900787353516
+        ],
+        [
+          547.3199462890625,
+          789.375
+        ],
+        [
+          88.32031250000001,
+          789.375
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        681.6900787353516,
+        547.3199462890625,
+        789.375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 132,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.</b> <b>Korvpalliklubide vastused ja selgitused </b></h1>",
+      "page": 127,
+      "polygon": [
+        [
+          88.32031250000001,
+          62.9033203125
+        ],
+        [
+          312.719970703125,
+          62.9033203125
+        ],
+        [
+          312.719970703125,
+          75.114501953125
+        ],
+        [
+          88.32031250000001,
+          75.114501953125
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        62.9033203125,
+        312.719970703125,
+        75.114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Rapla Korvpallikool selgitas oma vastuses, et neil on puudunud igasugune side  Piletileviga, mistõttu ei ole saanud Piletilevi teenuse ostmisest keelduda ning ei ole koostöö  ettepanekut isegi saanud. Kindlasti ei ole Korvpalliliit keelanud klubidel pileteid teistele  müügiplatvormidele müügiks anda ning ei ole andnud ka mittesiduvaid soovitusi ega suuniseid.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          94.560546875
+        ],
+        [
+          547.3201904296875,
+          94.560546875
+        ],
+        [
+          547.3201904296875,
+          155.408203125
+        ],
+        [
+          89.48242187500001,
+          155.408203125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        94.560546875,
+        547.3201904296875,
+        155.408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Rafter Spordiklubi teavitas, et neile pakkus 2020/21 teenust Piletikeskus, kuid 2021/22  otsustasid proovida uut turule tulnud ettevõtjat Piletitasku, lisaks kannab VTB Ühisliiga  korvpallimänge üle Delfi TV ning klubi jaoks oli turunduslikult kõige lihtsam koondada kõik  võimalikud teenused ühte keskkonda, mis teeks ka kliendi teekonna selgemaks ja lihtsamaks.  Eesti Korvpalliliidult ei ole klubile tulnud ühtegi soovitust ega suunist, kuidas klubi oma  piletimüüki korraldama peaks.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          172.67578125
+        ],
+        [
+          547.3199462890625,
+          172.67578125
+        ],
+        [
+          547.3199462890625,
+          265.282958984375
+        ],
+        [
+          89.48242187500001,
+          265.282958984375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        172.67578125,
+        547.3199462890625,
+        265.282958984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Korvpalliklubi Paulus on valinud piletite müügiks Piletitasku oma parema nägemuse  kohaselt ja Piletitasku valimisel koostööpartneriks ei ole neid keegi mõjutanud.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          283.681640625
+        ],
+        [
+          547.3197021484375,
+          283.681640625
+        ],
+        [
+          547.3197021484375,
+          312.44305419921875
+        ],
+        [
+          89.48242187500001,
+          312.44305419921875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        283.681640625,
+        547.3197021484375,
+        312.44305419921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Tallinna Tehnikaülikooli Spordiklubi korvpallimeeskond kasutab käimasoleval  käesoleval hooajal Piletitasku teenust ja nende klubi võrkpallimeeskond kasutab Piletilevi  teenust. Sel moel saab klubi võrrelda teenusepakkujaid ja langetada otsuse tuleviku osas.  Teenusepakkuja valiku otsus on täielikult klubi otsus ning klubi kasutab mõlemat  teenusepakkujat.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          332.1953125
+        ],
+        [
+          547.3199462890625,
+          332.1953125
+        ],
+        [
+          547.3199462890625,
+          407.84375
+        ],
+        [
+          89.48242187500001,
+          407.84375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        332.1953125,
+        547.3199462890625,
+        407.84375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Tartu Ülikooli Akadeemilises spordiklubis on korvpallimängude piletimüüki korraldatud  erinevates piletikeskkondades alates 2013. aasta sügisest (Piletilevi aastatel 2013-2017,  Piletikeskus aastatel 2017-2021 ja alates käesolevast hooajast Piletitasku). Seega on klubis  aastate jooksul tekkinud märkimisväärne kogemus ja võrdlus erinevate  piletimüügikeskkondade võimaluste vahel. Teenusepakkuja valimisel arvestatakse  teenustasusid, nii üksik- kui hooajapiletimüügi korraldust, ürituste piletimüügi süsteemi  ülespaneku korraldust, piletimüügikeskkonna lisavõimalusi (näiteks täiendav reklaam või  veebilehe külastajate arv) ning teenusepakkuja aktiivsust enese tutvustamisel, piletimüügi  korralduse arendamisel, infotehnoloogiste lahendust arendamisel jne. Klubidel on  teenusepakkuja valimisel vaba voli.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          425.5224609375
+        ],
+        [
+          547.3201904296875,
+          425.5224609375
+        ],
+        [
+          547.3201904296875,
+          581.8429260253906
+        ],
+        [
+          89.48242187500001,
+          581.8429260253906
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        425.5224609375,
+        547.3201904296875,
+        581.8429260253906
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Korvpalliklubi Viimsi esindaja tõi oma vastuses välja, et nad alustasid Piletilevi  kliendina, kuid kasutajamugavuse ning muude tegurite tõttu otsustasid operaatorit vahetada.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          600.6650390625
+        ],
+        [
+          547.31982421875,
+          600.6650390625
+        ],
+        [
+          547.31982421875,
+          629.4443359375
+        ],
+        [
+          89.48242187500001,
+          629.4443359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        600.6650390625,
+        547.31982421875,
+        629.4443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Viru Bull teavitas ametit, et neil Piletitaskuga teenuse vahetamise lepingut sõlmitud ei  ole. Samuti ei kasuta Piletitasku teenust MTÜ Tallinna Spordiselts KALEV selgitades, et on  oma otsustes vaba ja pole saanud ka ühtegi suunist sõlmida lepingut Piletitaskuga.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          648.6900024414062
+        ],
+        [
+          547.31982421875,
+          648.6900024414062
+        ],
+        [
+          547.31982421875,
+          693.169921875
+        ],
+        [
+          89.48242187500001,
+          693.169921875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        648.6900024414062,
+        547.31982421875,
+        693.169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Amet küsis Korvpalliklubidelt ka mitme erineva piletite vahendamise teenuse pakkuja  samaaegse kasutamise kohta. Selles osas olid klubid seisukohal, et see tähendaks klubide jaoks  lisatööd ja -kulutusi, mis oleksid ebaproportsionaalsed, arvestades piletite müügilt teenitavat  tulu. Nt MTÜ Rafter Spordiklubi on oma vastuses toonud välja, et nende klubi mängib  käimasoleval hooajal kolmes liigas + karikamängudel ning mitme teenusepakkuja kasutamine</p>",
+      "page": 127,
+      "polygon": [
+        [
+          89.48242187500001,
+          712.1699829101562
+        ],
+        [
+          547.3197021484375,
+          712.1699829101562
+        ],
+        [
+          547.3197021484375,
+          787.6428718566895
+        ],
+        [
+          89.48242187500001,
+          787.6428718566895
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        712.1699829101562,
+        547.3197021484375,
+        787.6428718566895
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 127,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tähendaks neile mängude rohkuse tõttu niivõrd suurt lisatööd, et oleks vaja palgata eraldi  inimene, kes tegeleks ainult piletimüügiga. Sama kinnitas ka MTÜ Rapla Korvpallikool, et selle  piletite arvu juures ei oleks mitte mingil moel põhjendatud lisakohustused, mis kaasnevad  klubile mitme teenusepakkujaga. Vastupidi, sellised kulutused oleksid täielikult proportsioonist  väljas ja klubile kahjulikud. MTÜ Korvpalliklubi Paulus esindaja lisas veel, et piletimüük läbi  piletimüügi keskkonna on ülimalt marginaalne ja enamus piletitest müüakse kohapeal enne  mängu algust.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.869140625
+        ],
+        [
+          547.319580078125,
+          46.869140625
+        ],
+        [
+          547.319580078125,
+          155.408203125
+        ],
+        [
+          89.48242187500001,
+          155.408203125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.869140625,
+        547.319580078125,
+        155.408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>4.</b> <b>Eesti Korvpalliliidu vastused ja selgitused </b></h1>",
+      "page": 134,
+      "polygon": [
+        [
+          88.32031250000001,
+          173.498046875
+        ],
+        [
+          325.7999267578125,
+          173.498046875
+        ],
+        [
+          325.7999267578125,
+          186.23443603515625
+        ],
+        [
+          88.32031250000001,
+          186.23443603515625
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        173.498046875,
+        325.7999267578125,
+        186.23443603515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eesti Korvpalliliit leidis enda vastuses, et Piletilevi kaebusel puudub igasugune alus ning  käesolev järelevalvemenetlus tuleb seetõttu lõpetada.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          205.650146484375
+        ],
+        [
+          547.3192749023438,
+          205.650146484375
+        ],
+        [
+          547.3192749023438,
+          233.9345703125
+        ],
+        [
+          89.48242187500001,
+          233.9345703125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        205.650146484375,
+        547.3192749023438,
+        233.9345703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliidu kinnitusel vastutab iga mängu praktilise korralduse, sh piletimüügi eest vastava  mängu koduklubi. Seega on mängu korraldava klubi otsustada, kas üldse ja kuidas korraldada  piletite eelmüük. Korvpalliliidu kinnitusel ei korralda kaks korvpalliklubi (Rakvere Tarvas ja  TLÜ/Tallinna Kalev) üldse piletite eelmüüki, vaid müüvad pileteid ainult kohapeal. Samuti jääb  Korvpalliliidu kinnitusel ka kogu piletite müügilt teenitud tulu mängu korraldavale  koduklubile, mistõttu on piletite müümisega seonduv iga klubi äriline otsus, millesse  Korvpalliliit ei sekku.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          88.32031250000001,
+          252.0244140625
+        ],
+        [
+          547.320068359375,
+          252.0244140625
+        ],
+        [
+          547.320068359375,
+          360.4429931640625
+        ],
+        [
+          88.32031250000001,
+          360.4429931640625
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        252.0244140625,
+        547.320068359375,
+        360.4429931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliit omab õigusi müüa pileteid rahvuskoondiste mängudele ja Karikamängude  finaalturniiridele, mille piletitulu jääb Korvpalliliidule. Üksnes nende mängude puhul, mida  korraldab Korvpalliliit, toimub piletimüük liidu korraldatuna. Mis puudutab Korvpalliliidu  poolt piletite eelmüüki, siis selleks kasutab liit spetsialiseeritud piletimüügi elektroonilisi  keskkondi (viimase kolme aasta jooksul on Korvpalliliit kasutanud Piletilevi, Piletitasku ja  Piletikeskuse teenuseid).</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          378.6533203125
+        ],
+        [
+          547.3197021484375,
+          378.6533203125
+        ],
+        [
+          547.3197021484375,
+          471.5628967285156
+        ],
+        [
+          89.48242187500001,
+          471.5628967285156
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        378.6533203125,
+        547.3197021484375,
+        471.5628967285156
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Teenusepakkuja valikul võtab Korvpalliliit üldiselt aluseks järgmised kriteeriumid: a)  teenusdisain, st teenuste kasutamise lihtsus ja operatiivsus Korvpalliliidu kui kliendi jaoks, b)  küsitava teenustasu suurus ja muud kommertstingimused, c) piletimüügikeskkonna nähtavus  (turundus).</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          490.0703125
+        ],
+        [
+          547.31982421875,
+          490.0703125
+        ],
+        [
+          547.31982421875,
+          550.8828430175781
+        ],
+        [
+          89.48242187500001,
+          550.8828430175781
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        490.0703125,
+        547.31982421875,
+        550.8828430175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliit selgitas oma vastuses, et kui Piletitasku käis oma teenuseid tutvustamas, siis  Korvpalliliidule meeldis nii nende kontseptsioon, ärilised tingimused kui suhtumine klienti ning  seetõttu leping mitmete mängude korraldamiseks Piletitaskuga ka sõlmiti. Kahtlemata aitas  kaasa ka asjaolu, et tegemist oli uue turule sisenejaga, kellest võib eeldada, et ta muudab  konkurentsi tihedamaks. Eeltoodust ei saa kuidagi järeldada, et Korvpalliliit oleks ennast aga  lõplikult Piletitaskuga ära sidunud.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          569.4189453125
+        ],
+        [
+          547.320068359375,
+          569.4189453125
+        ],
+        [
+          547.320068359375,
+          662.0029449462891
+        ],
+        [
+          89.48242187500001,
+          662.0029449462891
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        569.4189453125,
+        547.320068359375,
+        662.0029449462891
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Piletilevi teenuse kohta on Korvpalliliit enda vastuses öelnud, et aastaid liidu põhiline  müügipartner olnud Piletilevi on klientidega suhtlemisel olnud äärmiselt jäik ning  läbirääkimiste pidamine Piletileviga on praktiliselt võimatu. Seetõttu on Korvpalliliit olnud  alati avatud uutele pakkumistele ning andnud võimaluse uutele turule tulijatele. Korvpalliliit  leiab, et usaldusväärse taustaga ja arengupotentsiaaliga alternatiivsete teenusepakkujate  katsetamine aitab elavdada ja toetada konkurentsi tekkimise võimalust antud turul, mis muudab  teenuse Korvpalliliidu jaoks pikemas perspektiivis soodsamaks ja paremaks.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          89.48242187500001,
+          681.6900787353516
+        ],
+        [
+          547.3196411132812,
+          681.6900787353516
+        ],
+        [
+          547.3196411132812,
+          789.375
+        ],
+        [
+          89.48242187500001,
+          789.375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        681.6900787353516,
+        547.3196411132812,
+        789.375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliit on oma vastuses välja toonud, et ei välista tulevikus Piletilevi teenuste kasutamist,  kuid kuna turule on tekkinud alternatiivid, mis varem puudusid, siis on tekkinud  valikuvõimalused ja vastavaid valikuvõimalusi kavatseb Korvpalliliit ka kasutada.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          62.8502197265625
+        ],
+        [
+          547.3200073242188,
+          62.8502197265625
+        ],
+        [
+          547.3200073242188,
+          106.64306640625
+        ],
+        [
+          89.48242187500001,
+          106.64306640625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        62.8502197265625,
+        547.3200073242188,
+        106.64306640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ehkki vastavat kokkulepet Korvpalliliidu ega korvpalliklubide vahel pole, leiab Korvpalliliit,  et selline kokkulepe oleks lubatav nii ühisostukokkuleppena, kuna kokkuleppeosaliste turuvõim  on väike, kui ka vertikaalkoostöö grupierandi alusel, kuna kokkuleppe osapoolte turuosad on  alla 30%.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          126.33013916015625
+        ],
+        [
+          547.3201293945312,
+          126.33013916015625
+        ],
+        [
+          547.3201293945312,
+          185.96307373046875
+        ],
+        [
+          89.48242187500001,
+          185.96307373046875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        126.33013916015625,
+        547.3201293945312,
+        185.96307373046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Taotluses esitatud vertikaalse grupierandi mittekohaldumise kohta on Liit öelnud, et isegi kui  mõni Korvpalliklubi või Korvpalliliit ise näiteks sõlmikski Piletitaskuga eksklusiivkokkuleppe,  siis liidu hinnangul oleks see vertikaalse grupierandi (Vabariigi Valitsuse 27.05.2010 määrus  nr 60 \"<i>Konkurentsi kahjustavate või kahjustada võivate vertikaalsete kokkulepete sõlmimiseks </i> <i>loa andmine (grupierand)</i>\") alusel täiesti lubatav, kuna nii Piletitasku turuosa piletimüügi  vahendamise teenuse osutajana ühelt poolt kui Korvapalliliidu ja Korvpalliklubide  individuaalsed turuosad ürituste piletite vahendamise teenuse osas ostja poolel teiselt poolt, on  igal üksikjuhtumil selgelt alla 30% (grupierandi § 2 lg 1).</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          205.650146484375
+        ],
+        [
+          547.3198852539062,
+          205.650146484375
+        ],
+        [
+          547.3198852539062,
+          329.3173828125
+        ],
+        [
+          89.48242187500001,
+          329.3173828125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        205.650146484375,
+        547.3198852539062,
+        329.3173828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kokkuvõtvalt leiab Korvpalliliit, et kaebuses esitatud väited KonkS § 4 lg 1 p-de 2 ja 3  väidetava rikkumise kohta ei vasta tõele ja kaebuses nimetatud kooskõlastatud tegevust pole  kunagi toimunud. Korvpalliliidu hinnangul ei tugine Piletilevi kaebus ühelegi asjakohasele  tõendile, vaid kaebus tervikuna on oletuslik.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          348.4501037597656
+        ],
+        [
+          547.3197021484375,
+          348.4501037597656
+        ],
+        [
+          547.3197021484375,
+          408.08294677734375
+        ],
+        [
+          89.48242187500001,
+          408.08294677734375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        348.4501037597656,
+        547.3197021484375,
+        408.08294677734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Oma vastuses palub Korvpalliliit omakorda Konkurentsiametil anda hinnang Piletilevi tegevuse  osas seoses alusetu kaebuse esitamisega. Korvpalliliidu hinnangul kuritarvitab Piletilevi turgu  valitsevat seisundit, esitades konkurendi (Piletitasku) suhtes põhjendamatu menetluse  algatamise taotluse, mille eesmärgiks on turuosaliste kiusamine ja konkurentsi elimineerimine.  Sellise tegevuse tulemusena takistab Piletilevi Korvpalliliidu hinnangul Piletitasku turule  sisenemist, mida võib vaadelda kui turgu valitseva seisundi kuritarvitamist KonkS § 16 p 2  kohaselt, s.o kaubaturu piiramisena.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          88.32031250000001,
+          426.755859375
+        ],
+        [
+          547.3201293945312,
+          426.755859375
+        ],
+        [
+          547.3201293945312,
+          535.0428771972656
+        ],
+        [
+          88.32031250000001,
+          535.0428771972656
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        426.755859375,
+        547.3201293945312,
+        535.0428771972656
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>5.</b> <b>Ekspress Grupi vastused ja selgitused </b></h3>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          555.1213073730469
+        ],
+        [
+          305.159912109375,
+          555.1213073730469
+        ],
+        [
+          305.159912109375,
+          567.1141967773438
+        ],
+        [
+          89.48242187500001,
+          567.1141967773438
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        555.1213073730469,
+        305.159912109375,
+        567.1141967773438
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupi hinnangul on taotluses esitatud etteheited alusetud ega tugine ühelegi  asjakohasele tõendile, mistõttu menetlus tuleks lõpetada.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          586.5299530029297
+        ],
+        [
+          547.3200073242188,
+          586.5299530029297
+        ],
+        [
+          547.3200073242188,
+          615.0546875
+        ],
+        [
+          89.48242187500001,
+          615.0546875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        586.5299530029297,
+        547.3200073242188,
+        615.0546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupi sõnul ei vasta tõele Piletilevi spekulatiivne hinnang, et Ekspress Grupp on  Korvpalliliitu või korvpalliklubisid mingilgi moel survestanud. Ekspress Grupi sõnul valivad  ürituste korraldajad endale piletite vahendamise teenust pakkuva koostööpartneri ise ning  Ekspress Grupp ega Piletitasku pole ega ka saa võimalikke ürituste korraldajaid survestada.  Piletitasku saab vaid tuua välja oma teenuse eelised ning kui ürituste korraldajad on Piletitasku  teenustest huvitatud, siis nad ostavad teenuseid. Kui Piletitasku teenus ei ole ürituse korraldaja  arvates kvaliteetne või konkurentsivõimeline, siis ei ole ka võimalik kliente survestada ostma  teenust, mida nad ei soovi.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          88.32031250000001,
+          633.5556640625
+        ],
+        [
+          547.320068359375,
+          633.5556640625
+        ],
+        [
+          547.320068359375,
+          757.1630706787109
+        ],
+        [
+          88.32031250000001,
+          757.1630706787109
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        633.5556640625,
+        547.320068359375,
+        757.1630706787109
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupi sõnul on alusetu süüdistus, mille kohaselt on Piletitasku sõlminud</p>",
+      "page": 129,
+      "polygon": [
+        [
+          89.48242187500001,
+          776.9701919555664
+        ],
+        [
+          547.3182983398438,
+          776.9701919555664
+        ],
+        [
+          547.3182983398438,
+          788.9631080627441
+        ],
+        [
+          89.48242187500001,
+          788.9631080627441
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        776.9701919555664,
+        547.3182983398438,
+        788.9631080627441
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 129,
+      "polygon": [
+        [
+          520.33447265625,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.33447265625,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.33447265625,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliidu ja korvpalliklubidega eksklusiivsuskokkuleppe. Samas on Ekspress Grupp  toonud välja ka asjaolu, et isegi kui vastav kokkulepe oleks osapoolte vahel sõlmitud, oleks  selline kokkulepe lubatav vertikaalsete kokkulepete grupierandi alusel. Seda seetõttu, et alles  2021. a aprillis tegevust alustanud Piletitasku turuosa piletite vahendamise teenuse kaubaturul  on alla 30% ja ka Korvpalliliidu ning korvpalliklubide osa piletivahendusteenuse ostuturust on  alla 30%.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.48242187500001,
+          47.01019287109375
+        ],
+        [
+          547.3199462890625,
+          47.01019287109375
+        ],
+        [
+          547.3199462890625,
+          138.32305908203125
+        ],
+        [
+          89.48242187500001,
+          138.32305908203125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        47.01019287109375,
+        547.3199462890625,
+        138.32305908203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupp ei nõustu Piletilevi etteheitega, mille kohaselt omab Ekspress Gruppi kuuluv  Ekspress Meedia turgu valitsevat seisundit veebis avaldavates meediaväljaannetes reklaami  müügi kaubaturul, ning sidudes Piletitasku teenuse teiste Ekspress Meedia poolt osutatavate  reklaami- ja turundusteenustega, sulgetakse seeläbi konkurentide ees seotud turge.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          88.32031250000001,
+          157.875
+        ],
+        [
+          547.3198852539062,
+          157.875
+        ],
+        [
+          547.3198852539062,
+          217.64306640625
+        ],
+        [
+          88.32031250000001,
+          217.64306640625
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        157.875,
+        547.3198852539062,
+        217.64306640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupi hinnangul on taotleja kaubaturgu ebaõigesti määratlenud. Ekspress Grupp leiab,  et asjakohane ei ole eristada veebis avaldatavates meediaväljaannetes reklaami müügi  kaubaturgu Eestis, vaid asjakohane laiem võimalik kaubaturg on internetis reklaamipinna  müügi kaubaturg. Järelikult kuuluvad sellele kaubaturule kõik internetileheküljed, kuhu Eesti  turule orienteeritud reklaami müüakse (sh ka Google ja Facebook) ja sellise käsitluse kohaselt  on Ekspress Grupi hinnangul nende turuosa vaid [0-5] %. Seega ei oma Ekspress Grupp  internetis reklaamipinna müügi kaubaturul Eestis turgu valitsevat seisundit.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          88.32031250000001,
+          237.4500732421875
+        ],
+        [
+          547.3199462890625,
+          237.4500732421875
+        ],
+        [
+          547.3199462890625,
+          344.6029968261719
+        ],
+        [
+          88.32031250000001,
+          344.6029968261719
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        237.4500732421875,
+        547.3199462890625,
+        344.6029968261719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekspress Grupp on veendunud, et kõik eelnimetatud kliendid on valinud Piletitasku oma  piletivahenduspartneriks seetõttu, et nad pidasid Piletitasku teenust Piletilevi omast paremaks  ning soovisid teha koostööd uue turule sisenenud teenusepakkujaga. Uue turule tulijana on  Piletitaskul vajalik enam pingutada, et iga klienti oma teenuste paremuses veenda. Piletitasku  peab nägema palju vaeva, et enda olemasolu tutvustada ning oma teenuseid reklaamida.  Seetõttu on Piletitasku üheks äristrateegia osaks […].</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.48242187500001,
+          363.8525390625
+        ],
+        [
+          547.3199462890625,
+          363.8525390625
+        ],
+        [
+          547.3199462890625,
+          455.7229309082031
+        ],
+        [
+          89.48242187500001,
+          455.7229309082031
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        363.8525390625,
+        547.3199462890625,
+        455.7229309082031
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kokkuvõtvalt leiab Ekspress Grupp, et nad ei ole Piletitasku teenusega seonduvalt teinud  midagi lubamatut, vaid vastupidi, turule on sisenetud uue, klientidele meelepärase teenusega.  Seetõttu paistab kogu taotluse eesmärk olevat Piletilevi soov hoida oma monopoolset seisundit  piletimüügi vahenduse kaubaturul ning vältida uute konkurentide (s.o Piletitasku) sisenemist  turule.</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.48242187500001,
+          473.625
+        ],
+        [
+          547.320068359375,
+          473.625
+        ],
+        [
+          547.320068359375,
+          550.8828430175781
+        ],
+        [
+          89.48242187500001,
+          550.8828430175781
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        473.625,
+        547.320068359375,
+        550.8828430175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>6.</b> <b>Konkurentsiameti hinnang </b></h3>",
+      "page": 130,
+      "polygon": [
+        [
+          90.06347656250001,
+          570.9613037109375
+        ],
+        [
+          250.0799560546875,
+          570.9613037109375
+        ],
+        [
+          250.0799560546875,
+          582.9541931152344
+        ],
+        [
+          90.06347656250001,
+          582.9541931152344
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        570.9613037109375,
+        250.0799560546875,
+        582.9541931152344
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile esitatud taotluses esitati kahtlustus sisuliselt kahes konkurentsiseaduse  alusel keelatud teos – esiteks konkurentsi kahjustavas kokkuleppes ja teiseks turgu valitseva  seisundi kuritarvitamises. Esmalt annab Konkurentsiamet hinnangu Ekspress Grupi,  Korvpalliliidu ning PAF Korvpalli Meistriliiga klubide tegevuse osas konkurentsiseaduse  (KonkS) § 4 lg 1 tähenduses (6.1) ja teiseks Ekspress Grupi tegevuse osas turgu valitseva  seisundi kuritarvitamises KonkS § 16 tähenduses (6.2).</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.48242187500001,
+          602.3095703125
+        ],
+        [
+          547.3198852539062,
+          602.3095703125
+        ],
+        [
+          547.3198852539062,
+          693.6829986572266
+        ],
+        [
+          89.48242187500001,
+          693.6829986572266
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        602.3095703125,
+        547.3198852539062,
+        693.6829986572266
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>6.1 Hinnang korvpalliklubide ja Korvpalliliidu tegevusele </b></h3>",
+      "page": 130,
+      "polygon": [
+        [
+          90.06347656250001,
+          713.761474609375
+        ],
+        [
+          388.43951416015625,
+          713.761474609375
+        ],
+        [
+          388.43951416015625,
+          725.75439453125
+        ],
+        [
+          90.06347656250001,
+          725.75439453125
+        ]
+      ],
+      "bbox": [
+        90.06347656250001,
+        713.761474609375,
+        388.43951416015625,
+        725.75439453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Alates 2021. aasta teisest poolest on kõik (v.a Rakvere Tarvas ja TLÜ/Tallinna Kalev) PAF  Korvpalli Meistriliigas osalevad korvpalliklubid ning ka Eesti korvpallikoondis (läbi Eesti  Korvpalliliidu) hakanud pileteid müüma Piletitasku keskkonna kaudu. Taotluse kohaselt võib</p>",
+      "page": 130,
+      "polygon": [
+        [
+          89.48242187500001,
+          744.150390625
+        ],
+        [
+          547.3189697265625,
+          744.150390625
+        ],
+        [
+          547.3189697265625,
+          788.9631080627441
+        ],
+        [
+          89.48242187500001,
+          788.9631080627441
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        744.150390625,
+        547.3189697265625,
+        788.9631080627441
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 130,
+      "polygon": [
+        [
+          520.33447265625,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.33447265625,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.33447265625,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">selle taga olla osapoolte vaheline keelatud kokkulepe, mis tuleneb Ekspress Grupi  survestamisest Korvpalliliidu suunal, kes omakorda omab võimalust mõjutada  korvpalliklubisid.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.869140625
+        ],
+        [
+          547.3196411132812,
+          46.869140625
+        ],
+        [
+          547.3196411132812,
+          90.68304443359375
+        ],
+        [
+          89.48242187500001,
+          90.68304443359375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.869140625,
+        547.3196411132812,
+        90.68304443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 4 lg 1 p 3 keelab konkurentsi kahjustava eesmärgi või tagajärjega ettevõtjatevahelise  kokkulepe, kooskõlastatud tegevuse ja ettevõtjate ühenduse otsuse, sealhulgas kaubaturu  jagamise, sealhulgas kolmandale isikule kaubaturule pääsu piiramise või püüdluse teda sealt  välja tõrjuda.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          89.48242187500001,
+          110.4901123046875
+        ],
+        [
+          547.320068359375,
+          110.4901123046875
+        ],
+        [
+          547.320068359375,
+          170.208984375
+        ],
+        [
+          89.48242187500001,
+          170.208984375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        110.4901123046875,
+        547.320068359375,
+        170.208984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ehkki Piletilevi leidis taotluses, et sõlmitud on konkurentsi kahjustav kokkulepe, ei esitanud ta  sellise kahtluse kinnituseks mitte ühtegi otsest tõendit. Tegelikult möönis ka Piletilevi taotluses  ise, et tal selliseid otseseid tõendeid ei ole. Selliseid tõendeid ei ilmnenud ka Konkurentsiameti  menetluse käigus. Pelgast asjaolust, et paljud klubid alustasid samaaegselt Piletitasku teenuste  kasutamist, ei saa mitte kuidagi tuletada, et need klubid oleksid selles osas sõlminud  konkurentsi kahjustava kokkuleppe. Veelgi enam, klubid on esitanud sellisele samaaegselt  toimunud teenusepakkuja vahetusele Konkurentsiameti hinnangul ka seletuse, milles pole  otseselt põhjust kahelda – tegemist oli uue turule lisandunud konkurendiga, kelle pakkumine  oli neile atraktiivne. Ka ei sisalda klubide ja Piletitasku vahel sõlmitud lepingud mingeid  tingimusi, mis piiraksid klubide tegutsemisvabadusi taotluses silmas peetud viisil.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          88.32031250000001,
+          189.5322265625
+        ],
+        [
+          547.3199462890625,
+          189.5322265625
+        ],
+        [
+          547.3199462890625,
+          344.6029968261719
+        ],
+        [
+          88.32031250000001,
+          344.6029968261719
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        189.5322265625,
+        547.3199462890625,
+        344.6029968261719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eranditult kõik Korvpalliklubid olid esitatud süüdistuste osas seisukohal, et need on alusetud.  Korvpalliklubid kinnitasid, et neil on täielik otsustusõigus endale sobiva koostööpartneri  valimiseks ning keegi ei ole neid survestanud. Korvpalliklubide vastustest nähtub, et endale  sobiv teenusepakkuja valitakse klubi huvidest lähtuvalt, kas põhjaliku või vähem põhjaliku  kaalutluse tulemusena. Üldiselt hinnatakse pakutava teenuse kasutusmugavust, innovaatilisust,  vahendustasu suurust, piletimüügisüsteemi ülespaneku korraldust ja paljusid muid olulisi  aspekte. Mõned korvpalliklubid küll möönsid, et omavahel on vahetatud informatsiooni  erinevate teenusepakkujate teenuste kohta, kuid need on olnud seotud kogemuste vahetamisena,  kuna osad klubid on kasutanud erinevate teenusepakkujate (Piletilevi, Piletitasku, Piletikeskus)  teenuseid. Puuduvad tõendid, et kogemuste vahetamisel oleks mindud kaugemale, kui  konkurentsiõigusega lubatud. Esitatud vastuste põhjal puudub ametil põhjus kahelda, et kõik  klubid on piletivahenduse teenusepakkuja valiku teinud iseseisvalt.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          88.32031250000001,
+          364.4100646972656
+        ],
+        [
+          547.320068359375,
+          364.4100646972656
+        ],
+        [
+          547.320068359375,
+          550.8828430175781
+        ],
+        [
+          88.32031250000001,
+          550.8828430175781
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        364.4100646972656,
+        547.320068359375,
+        550.8828430175781
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Eesti Korvpalliliit on ettevõtjate ühendus konkurentsiseaduse mõttes ning tema otsused peavad  olema vastavuses konkurentsiõigusega. Vastupidiselt taotleja väitele, et klubid on keeldunud  ostmast Piletilevi teenust, viidates Korvpalliliidu otsusele osta teenust ainult Piletitaskust, on  nii korvpalliklubid kui liit kinnitanud ametile, et Korvpalliliit ei ole kuidagi mõjutanud  korvpalliklubide otsuseid piletivahendusteenuse pakkuja valikul. Iga korvpalliklubi on vaba  otsustama, kas üldse müüa pileteid eelmüügis ja kui, siis kuidas korraldada piletite eelmüüki.  Kuna kogu piletimüügitulu jääb vastavalt Korvpalli Meistriliiga Võistlusjuhendile  koduvõistkonnale, siis on klubi otsustada, kuidas piletimüüki kõige paremini korraldada.  Korvpalliklubide selgitused teenusepakkuja valiku kriteeriumide osas lisavad kindlust, et  Korvpalliliit ei ole antud otsust korvpalliklubidele peale surunud. Korvpalliliit selgitas, et  veebilehel olev Piletitasku bänner peegeldab hetkel kehtivat olukorda, kus eelmüüki teostavad  klubid on otsustanud teha piletite eelmüüki läbi Piletitasku ja Korvpalliliit aitab seeläbi klubisid  piletite turundamisel. Korvpalliliit kinnitas, et kui klubid hakkaksid kasutama teisi  veebikeskkondi, siis Korvpalliliit lihtsalt peaks muutma seda veebibännerit vastavalt.</p>",
+      "page": 136,
+      "polygon": [
+        [
+          88.32031250000001,
+          570.68994140625
+        ],
+        [
+          547.3199462890625,
+          570.68994140625
+        ],
+        [
+          547.3199462890625,
+          788.9631080627441
+        ],
+        [
+          88.32031250000001,
+          788.9631080627441
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        570.68994140625,
+        547.3199462890625,
+        788.9631080627441
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 136,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Menetluse käigus kogutud infot analüüsides, ei leidnud tõendamist taotleja poolt esitatud väited  Korvpalliliidu võimaliku konkurentsi kahjustava tegevuse osas.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.4580078125
+        ],
+        [
+          547.319580078125,
+          46.4580078125
+        ],
+        [
+          547.319580078125,
+          74.8431396484375
+        ],
+        [
+          89.48242187500001,
+          74.8431396484375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.4580078125,
+        547.319580078125,
+        74.8431396484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Korvpalliliit ja Ekspress Grupp on oma vastustes maininud, et võimalikud eksklusiivsed  kokkulepped klubide ja/või Korvpalliliidu ning Piletitasku vahel oleksid lubatud, kuna ei  klubide/Korvpalliliidu ega ka Piletitasku turuosa vastavatel kaubaturgudel ei ületaks  vertikaalsete kokkulepete grupierandis kehtestatud 30%. Konkurentsiamet peab võimalikuks,  et taolised eksklusiivsuskokkulepped võiksid tõepoolest olla grupierandi kohaselt lubatavad. Ainuõiguslikud kokkulepped saavad eelkõige kahjustada konkurentsi, kui neid sõlmib turgu  valitsevas seisundis olev ettevõtja. Samas ei pea amet vajalikuks käesolevas asjas võimalike  ainuõiguslike kokkulepete osas täpsemat hinnangut anda, kuna selliseid kokkuleppeid  tegelikkuses sõlmitud ei ole. Samal põhjusel ei pea amet vajalikuks anda seisukohta  Korvpalliliidu poolt võimalusena pakutud ühisostukokkulepete osas.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          94.560546875
+        ],
+        [
+          547.320068359375,
+          94.560546875
+        ],
+        [
+          547.320068359375,
+          249.4429931640625
+        ],
+        [
+          89.48242187500001,
+          249.4429931640625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        94.560546875,
+        547.320068359375,
+        249.4429931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul ei leidnud seega kinnitust, et asjaosalised oleksid omavahel  keelatult Piletitasku eelistamises kokku leppinud ja seeläbi konkurentsiõigust rikkunud.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          269.130126953125
+        ],
+        [
+          547.3200073242188,
+          269.130126953125
+        ],
+        [
+          547.3200073242188,
+          296.9630126953125
+        ],
+        [
+          89.48242187500001,
+          296.9630126953125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        269.130126953125,
+        547.3200073242188,
+        296.9630126953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>6.2 Hinnang Ekspress Grupp tegevusele </b></h2>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          316.9833984375
+        ],
+        [
+          297.9599914550781,
+          316.9833984375
+        ],
+        [
+          297.9599914550781,
+          329.03436279296875
+        ],
+        [
+          89.48242187500001,
+          329.03436279296875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        316.9833984375,
+        297.9599914550781,
+        329.03436279296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 145,
+      "polygon": [
+        [
+          90.71996307373047,
+          733.1911239624023
+        ],
+        [
+          93.21500396728516,
+          733.1911239624023
+        ],
+        [
+          93.21500396728516,
+          744.2245178222656
+        ],
+        [
+          90.71996307373047,
+          744.2245178222656
+        ]
+      ],
+      "bbox": [
+        90.71996307373047,
+        733.1911239624023,
+        93.21500396728516,
+        744.2245178222656
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Taotluse kohaselt Ekspress Grupp, omades turgu valitsevat seisundit meediaväljaannetes  reklaami müügi kaubaturul, kuritarvitab oma seisundit sidudes piletite vahendamise teenust  (milles tal ei ole turgu valitsevat seisundit) ja meediaväljaannetes reklaamide avalikustamise  teenust. Selleks et hinnata, kas Ekspress Grupp omab turgu valitsevat seisundit KonkS § 13 lg  1 tähenduses, tuleb esmalt määratleda asjakohane kaubaturg. KonkS § 3 lg 1 kohaselt on  kaubaturg hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja kasutustingimuste ning  tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel vahetatavate või asendatavate  kaupade käibimise ala, mis hõlmab muu hulgas kogu Eesti territooriumi või selle osa.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          347.818359375
+        ],
+        [
+          547.3201904296875,
+          347.818359375
+        ],
+        [
+          547.3201904296875,
+          471.5629577636719
+        ],
+        [
+          89.48242187500001,
+          471.5629577636719
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        347.818359375,
+        547.3201904296875,
+        471.5629577636719
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaubaturg koosneb seega kahest elemendist: tooteturust ja geograafilisest turust. Tooteturg  hõlmab kõiki neid tooteid ja/või teenuseid, mis on ostjate seisukohast oma iseloomulike  tunnuste, omaduste, hinna ja eeldatava kasutusotstarbe põhjal omavahel vahetatavad ja  asendatavad. Ostjaks, kelle seisukohalt toodete või teenuste asendatavust hinnatakse, on antud  kontekstis reklaami ostvad ettevõtted.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          490.0703125
+        ],
+        [
+          547.31982421875,
+          490.0703125
+        ],
+        [
+          547.31982421875,
+          566.8428955078125
+        ],
+        [
+          89.48242187500001,
+          566.8428955078125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        490.0703125,
+        547.31982421875,
+        566.8428955078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuigi taotleja leidis, et reklaamide müük veebis avaldatavates meediaväljaannetes ei konkureeri laiema internetis avaldatava reklaami müügiga (Facebook, Google Ads), põhjendades seda  erinevustega reklaami avaldamise eesmärgis, sisus ja sihtgrupi osas, leiab Konkurentsiamet, et  käesolevas asjas pole põhjust eristada reklaami müüki meediaväljaannetes ja muudel  internetilehekülgedel. Konkurentsiamet on varasemas internetis reklaami müügiga seotud  koondumise kontrolli puudutavas otsuses<sup>1</sup>  leidnud, et reklaami ostjate peamiseks eelduseks on  nende reklaamitava informatsiooni võimalikult suur nähtavus ning sealjuures pole ostja  seisukohalt vahet, millisel veebileheküljel (uudisteportaalis, otsingumootoris või muul  internetileheküljel) reklaam asub. Ostjate seisukohalt on oluline info jõudmine nende jaoks n.ö</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          586.5299835205078
+        ],
+        [
+          547.3207397460938,
+          586.5299835205078
+        ],
+        [
+          547.3207397460938,
+          726.060546875
+        ],
+        [
+          89.48242187500001,
+          726.060546875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        586.5299835205078,
+        547.3207397460938,
+        726.060546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">https://www.konkurentsiamet.ee/sites/default/files/varasem/public/Koondumised/2018/5- 2018_ARAKIRI_21.03.2018_otsus_nr_5-5-2018-021.pdf</p>",
+      "page": 145,
+      "polygon": [
+        [
+          90.64453125000001,
+          771.0325317382812
+        ],
+        [
+          467.16796875000006,
+          771.0325317382812
+        ],
+        [
+          467.16796875000006,
+          793.2264099121094
+        ],
+        [
+          90.64453125000001,
+          793.2264099121094
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        771.0325317382812,
+        467.16796875000006,
+        793.2264099121094
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup>Konkurentsiameti 21.03.2018.a otsus nr 5-5/2018-021 \"Koondumisele nr 05/2018 AS Ekspress Meedia /  Aktsiaselts Ajakirjade Kirjastus ettevõtja osa loa andmine\":</p>",
+      "page": 145,
+      "polygon": [
+        [
+          89.48242187500001,
+          744.5615234375
+        ],
+        [
+          517.2905883789062,
+          744.5615234375
+        ],
+        [
+          517.2905883789062,
+          768.7464218139648
+        ],
+        [
+          89.48242187500001,
+          768.7464218139648
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        744.5615234375,
+        517.2905883789062,
+        768.7464218139648
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kasuliku (potentsiaalsete klientide) sihtgrupini, olgu see uudisteportaalide, Google, Facebooki  või muude internetilehekülgede kaudu. Nii reklaami müügil meediaväljaannetes kui muudel  internetilehekülgedel on võimalik jõuda reklaamiga konkreetse sihtrühmani, millega on  nõustunud ka taotleja ning isegi kui muudel internetilehekülgedel täpselt sellist laiapõhjalist  reklaami kui meediaväljaannetes teha ei saa, ei muuda see asjaolu, nagu ka erinevused reklaami  kuvamise ja teatud sihtgrupi erisused, neid reklaamikanaleid niivõrd erinevaks, et oleks  põhjendatud neid asetada erinevatele kaubaturgudele. On paratamatu, et igal leheküljel, kus  reklaami kuvada, on mõnevõrra erinev auditoorium. Samas ei ole delfi.ee jt. sarnaste  meediaväljaannete auditoorium kindlasti niivõrd spetsiifiliselt eristuv, et see omaks  piletimüügiga tegelevate ettevõtjate seisukohalt vaadatuna erilist turujõudu. Seda tõendab  kasvõi asjaolu, et ka taotleja ise kasutab reklaamikanalitena Facebooki, Google't kui ka  Youtube'i. Taotluses on küll kirjeldatud erinevate interneti reklaamikanalite erinevusi (s.o  meediaväljaannete leheküljed vs muud reklaamivad leheküljed), kuid ei ole põhjendatud, miks  mitte-meediaväljaannete leheküljed on piletimüüja seisukohalt niivõrd sobimatud, et neist ei  tõusetuks arvestatavat konkurentsisurvet.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.046875
+        ],
+        [
+          547.319580078125,
+          46.046875
+        ],
+        [
+          547.319580078125,
+          281.12298583984375
+        ],
+        [
+          89.48242187500001,
+          281.12298583984375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.046875,
+        547.319580078125,
+        281.12298583984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kantar Emor uuringust tuleneb, et väga suur osa reklaamiraha, mis on suunatud Eesti turule,  liigub ka läbi välismaiste internetikanalite<sup>2</sup> . Kui vaadata isegi ainult Facebook ja Google  reklaami osatähtsust, siis ei jää see väga palju alla Eesti kohalikule reklaamimahule, millest  võib järeldada, et reklaami ostjad ostavad reklaami nii meediaväljaannetes kui muudel  internetilehekülgedel, sh suures mahus läbi välismaiste internetikanalite, mis on suunatud Eesti  turule. Lisaks reklaamib ka taotleja enda kodulehel võimalike koostööpartneritena reklaami  osas nii Facebooki, Google't kui ka Youtube'i<sup>3</sup> , mistõttu reklaami müügi kanalite eristamine  pole samade ürituste korraldamise korral aga kuidagi loogiliselt põhjendatav.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          300.126953125
+        ],
+        [
+          547.3197631835938,
+          300.126953125
+        ],
+        [
+          547.3197631835938,
+          423.9230041503906
+        ],
+        [
+          89.48242187500001,
+          423.9230041503906
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        300.126953125,
+        547.3197631835938,
+        423.9230041503906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodust tulenevalt võib järeldada, et kõik internetileheküljed, kuhu Eesti turule orienteeritud  reklaami müüakse, asuvad ühel kaubaturul, milleks on internetireklaami müügi kaubaturg  Eestis.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          443.201171875
+        ],
+        [
+          547.3197021484375,
+          443.201171875
+        ],
+        [
+          547.3197021484375,
+          487.4029846191406
+        ],
+        [
+          89.48242187500001,
+          487.4029846191406
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        443.201171875,
+        547.3197021484375,
+        487.4029846191406
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit konkurentsiseaduse tähenduses  ettevõtja või mitu samal kaubaturul tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil  sellel kaubaturul tegutseda arvestataval määral sõltumatult konkurentidest, varustajatest ja  ostjatest. Turgu valitseva seisundi omamist eeldatakse, kui ettevõtjale või mitmele samal  kaubaturul tegutsevale ettevõtjale kuulub kaubaturul vähemalt 40 protsenti käibest.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          507.2100830078125
+        ],
+        [
+          547.3193969726562,
+          507.2100830078125
+        ],
+        [
+          547.3193969726562,
+          583.3974609375
+        ],
+        [
+          89.48242187500001,
+          583.3974609375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        507.2100830078125,
+        547.3193969726562,
+        583.3974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Turul tegutsevate ettevõtjate seisundi kindlaks määramiseks annab esimese indikatsiooni  ettevõtja turuosa. Turgu valitseva seisundi olemasolu ei ole tõenäoline, kui ettevõtja turuosa  jääb alla 40%. Samuti on komisjon oma teatises<sup>4</sup>  selgitanud, et väike turuosa on üldjoontes hea  tõend olulise turuvõimu puudumise kohta.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          88.32031250000001,
+          602.3700103759766
+        ],
+        [
+          547.319580078125,
+          602.3700103759766
+        ],
+        [
+          547.319580078125,
+          664.390625
+        ],
+        [
+          88.32031250000001,
+          664.390625
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        602.3700103759766,
+        547.319580078125,
+        664.390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Internetireklaami müügi kaubaturu üldmahu hindamine on keeruline, sest see eeldab kõigi  interneti teel Eesti turule orienteeritud reklaami pakkuvate ettevõtjate müügimahtude</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          680.4248046875
+        ],
+        [
+          547.3204345703125,
+          680.4248046875
+        ],
+        [
+          547.3204345703125,
+          709.6428985595703
+        ],
+        [
+          89.48242187500001,
+          709.6428985595703
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        680.4248046875,
+        547.3204345703125,
+        709.6428985595703
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 157,
+      "polygon": [
+        [
+          90.71996307373047,
+          733.1911239624023
+        ],
+        [
+          93.21500396728516,
+          733.1911239624023
+        ],
+        [
+          93.21500396728516,
+          744.2245178222656
+        ],
+        [
+          90.71996307373047,
+          744.2245178222656
+        ]
+      ],
+      "bbox": [
+        90.71996307373047,
+        733.1911239624023,
+        93.21500396728516,
+        744.2245178222656
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          520.559814453125,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          520.559814453125,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        520.559814453125,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> 2020. aasta reklaamiturg – paanika, seisukohavõtt, stabiliseerumine - Kantar Emor</p>",
+      "page": 157,
+      "polygon": [
+        [
+          89.48242187500001,
+          745.3837890625
+        ],
+        [
+          432.448486328125,
+          745.3837890625
+        ],
+        [
+          432.448486328125,
+          756.5064239501953
+        ],
+        [
+          89.48242187500001,
+          756.5064239501953
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        745.3837890625,
+        432.448486328125,
+        756.5064239501953
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> https://www.piletilevi.ee/est/uldinfo/korraldajale/reklaamiteenused-korraldajale/</p>",
+      "page": 157,
+      "polygon": [
+        [
+          88.32031250000001,
+          758.151985168457
+        ],
+        [
+          434.0090026855469,
+          758.151985168457
+        ],
+        [
+          434.0090026855469,
+          768.7464218139648
+        ],
+        [
+          88.32031250000001,
+          768.7464218139648
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        758.151985168457,
+        434.0090026855469,
+        768.7464218139648
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup>  Suunised komisjoni täitetegevuse prioriteetide kohta EÜ asutamislepingu artikli 82 kohaldamisel turgu valitsevate ettevõtjate kuritahtliku konkurente tõrjuva tegevuse suhtes, p14.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          85.99609375000001,
+          770.391975402832
+        ],
+        [
+          511.1485595703125,
+          770.391975402832
+        ],
+        [
+          511.1485595703125,
+          794.30859375
+        ],
+        [
+          85.99609375000001,
+          794.30859375
+        ]
+      ],
+      "bbox": [
+        85.99609375000001,
+        770.391975402832,
+        511.1485595703125,
+        794.30859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">arvestamist ja analüüsimist. Konkurentsiamet on varasemates otsustes<sup>5</sup>  internetireklaami müügi  kaubaturu mahtude hindamiseks kasutanud Kantar Emori reklaamituru ülevaadet.<sup>6</sup>  Nimetatud  ülevaate kohaselt oli Eesti kohaliku internetireklaamituru maht 2020. aastal 21,33 mln €, millele  lisandub Google ja Facebooki reklaamimaht 16,24 mln €. Ekspress Grupi internetireklaami  käive 2020. aastal oli […], mis moodustab Kantar Emori andmetele tuginedes [10-20%] Eesti  internetireklaamituru käibest. Kantar Emor toob enda ülevaates välja, et tugineb Google ja  Facebooki internetireklaami käivete osas 14 Eesti suurema meedia- ja digiagentuuri teabele  ning tegemist pole lõpliku summaga, kuna väiksemad reklaamijad ostavad neilt reklaami otse  ilma agentuure kaasamata. Võttes arvesse eelmises lauses väljatoodut, on Google ja Facebooki  ning teiste Eestile suunatud rahvusvaheliste meediaplatvormide käive Eesti  internetireklaamiturul tõenäoliselt suurem kui 16,24 mln €, mis omakorda tähendab, et Ekspress  Grupi turuosa on väiksem kui [10-20%]. Seega on Ekspress Grupi turuosa on tunduvalt alla  eeldusliku KonkS §-s 13 sätestatud turgu valitseva seisundi turuosa piiri, mis näitab turuvõimu  puudumist. Isegi kui piiritleda kaubaturg Eesti kohaliku internetireklaamituruga, mis on  lähemal taotleja määratletud kaubaturule, ei tuleneks turuosa osatähtsusest Ekspress Grupi  turgu valitsevat seisundit.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          44.40234375
+        ],
+        [
+          547.3204956054688,
+          44.40234375
+        ],
+        [
+          547.3204956054688,
+          297.66015625
+        ],
+        [
+          89.48242187500001,
+          297.66015625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        44.40234375,
+        547.3204956054688,
+        297.66015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuna Ekspress Grupil puudub internetireklaamimüügi kaubaturul Eestis turgu valitsev seisund,  siis pole tarvidust analüüsida ettevõtja tegevuse vastavust KonkS §-s 16 sätestatud piirangutele.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          316.572265625
+        ],
+        [
+          547.319580078125,
+          316.572265625
+        ],
+        [
+          547.319580078125,
+          344.6030578613281
+        ],
+        [
+          89.48242187500001,
+          344.6030578613281
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        316.572265625,
+        547.319580078125,
+        344.6030578613281
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks soovis Korvpalliliit Konkurentsiameti seisukohta, kas turgu valitsevat seisundit omava  Piletilevi poolt konkurendi kohta menetluse algatamise taotlust võiks kvalifitseeruda turgu  valitseva seisundi kuritarvitamisena. Amet on seisukohal, et olenemata ettevõtja positsioonist  kaubaturul on taotluste esitamine oluline õigus ettevõtja õiguste kaitsel. Euroopa Kohus on  lahendis ITT Promedia<sup>7</sup>  leidnud, et ettevõtja õigus menetlusi algatada, on turgu valitseva  seisundi kuritarvitamine ainult juhul, kui menetluse alustamise taotlemist ei saa mõistlikult  pidada ettevõtja õiguste kaitseks ja tegemist on seega teise turuosalise kiusamisega ning taotlus  kuuluks plaani, mille eesmärk on elimineerida konkurents. Seega selleks, et turgu valitseva  ettevõtja tegevust saaks kvalifitseerida kuritarvitamisena, on vajalik kahe eelpool nimetatud  tingimuse täitmine. Lisaks on Euroopa Kohus asjas Agria Polska<sup>8</sup>  selgitanud, et neid kahte  tingimust tuleb tõlgendada ja kohaldada kitsalt, et ei kahjustataks kohtusse pöördumise õiguse  üldpõhimõtte kohaldamist.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          363.8525390625
+        ],
+        [
+          547.3201904296875,
+          363.8525390625
+        ],
+        [
+          547.3201904296875,
+          550.8829345703125
+        ],
+        [
+          89.48242187500001,
+          550.8829345703125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        363.8525390625,
+        547.3201904296875,
+        550.8829345703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet ei näe kuritarvitust Piletilevi taotluses, et amet kontrolliks võimalikku  kokkulepet korvpalliklubide vahel, kuna faktilistest asjaoludest tulenevalt on enamus klubisid  ja liit sõlminud piletite müügiks lepingud Piletitaskuga. Selliste ühetaoliste faktiliste asjaolude  ilmnemisel võimalike kokkulepete kontrollimine ongi Konkurentsiameti ülesanne.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          568.185546875
+        ],
+        [
+          547.3194580078125,
+          568.185546875
+        ],
+        [
+          547.3194580078125,
+          630.3229370117188
+        ],
+        [
+          89.48242187500001,
+          630.3229370117188
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        568.185546875,
+        547.3194580078125,
+        630.3229370117188
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mis puutub Piletilevi kaebust Ekspress Grupp kohta, kes opereerib Piletilevi konkurenti  Piletitaskut ning kes on alles piletivahendusteenuse turule sisenenud, siis isegi kui püstitada</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          650.010009765625
+        ],
+        [
+          547.3197021484375,
+          650.010009765625
+        ],
+        [
+          547.3197021484375,
+          677.8429260253906
+        ],
+        [
+          89.48242187500001,
+          677.8429260253906
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        650.010009765625,
+        547.3197021484375,
+        677.8429260253906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">10 (11)</p>",
+      "page": 174,
+      "polygon": [
+        [
+          515.5198364257812,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          515.5198364257812,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        515.5198364257812,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 174,
+      "polygon": [
+        [
+          88.90136718750001,
+          695.63671875
+        ],
+        [
+          93.21500396728516,
+          695.63671875
+        ],
+        [
+          93.21500396728516,
+          707.6247406005859
+        ],
+        [
+          88.90136718750001,
+          707.6247406005859
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        695.63671875,
+        93.21500396728516,
+        707.6247406005859
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup>  Konkurentsiameti 21.03.2018.a otsus nr 5-5/2018-021 \"Koondumisele nr 05/2018 AS Ekspress Meedia /  Aktsiaselts Ajakirjade Kirjastus ettevõtja osa loa andmine\" ; Konkurentsiameti 23.03.2021.a otsus nr 5-5/2021- 024 \"Koondumisele nr 11/2021 AS Postimees Grupp / Telia Eesti AS ettevõtja osa loa andmine\"</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          708.3818359375
+        ],
+        [
+          538.1258544921875,
+          708.3818359375
+        ],
+        [
+          538.1258544921875,
+          745.3837890625
+        ],
+        [
+          89.48242187500001,
+          745.3837890625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        708.3818359375,
+        538.1258544921875,
+        745.3837890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup>  2020. aasta reklaamiturg – paanika, seisukohavõtt, stabiliseerumine. (11.05.2021). Kantar Emor. Kättesaadav:  https://www.kantaremor.ee/blogi/2020-aasta-reklaamiturg-paanika-seisukohavott-stabiliseerumine/</p>",
+      "page": 174,
+      "polygon": [
+        [
+          88.32031250000001,
+          745.3837890625
+        ],
+        [
+          543.2109985351562,
+          745.3837890625
+        ],
+        [
+          543.2109985351562,
+          768.7464218139648
+        ],
+        [
+          88.32031250000001,
+          768.7464218139648
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        745.3837890625,
+        543.2109985351562,
+        768.7464218139648
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> 17. juuli 1998. aasta kohtuotsus ITT Promedia,T-111/96, punkt 72.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          89.48242187500001,
+          770.391975402832
+        ],
+        [
+          366.5710754394531,
+          770.391975402832
+        ],
+        [
+          366.5710754394531,
+          780.9864120483398
+        ],
+        [
+          89.48242187500001,
+          780.9864120483398
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        770.391975402832,
+        366.5710754394531,
+        780.9864120483398
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>8</sup> 16. mai 2017. aasta kohtuotsus T-480/15, punkt 67.</p>",
+      "page": 174,
+      "polygon": [
+        [
+          90.64453125000001,
+          782.6319694519043
+        ],
+        [
+          305.5060119628906,
+          782.6319694519043
+        ],
+        [
+          305.5060119628906,
+          793.8974609375
+        ],
+        [
+          90.64453125000001,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        782.6319694519043,
+        305.5060119628906,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">küsimus, et kui palju selline tegevus on siiski seotud Piletilevi ausa eesmärgiga turul toimuva  tegevuse kontrollimiseks, siis võttes arvesse eeltoodud tingimusi ja nende kitsast kohaldamist,  ei ole tõenäoline, et ametile esitatud taotlus suudaks kurnata Ekspress Grupi tegevust selliselt,  et see tekitaks käesoleval hetkel konkurentsi elimineerimise ohu.</p>",
+      "page": 48,
+      "polygon": [
+        [
+          89.48242187500001,
+          46.869140625
+        ],
+        [
+          547.3200073242188,
+          46.869140625
+        ],
+        [
+          547.3200073242188,
+          106.64306640625
+        ],
+        [
+          89.48242187500001,
+          106.64306640625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        46.869140625,
+        547.3200073242188,
+        106.64306640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eeltoodule tuginedes otsustab Konkurentsiamet menetluse lõpetada KonkS § 63<sup>4</sup> lg 1 p 1 alusel.</p>",
+      "page": 48,
+      "polygon": [
+        [
+          89.48242187500001,
+          124.908447265625
+        ],
+        [
+          547.3195190429688,
+          124.908447265625
+        ],
+        [
+          547.3195190429688,
+          138.5517578125
+        ],
+        [
+          89.48242187500001,
+          138.5517578125
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        124.908447265625,
+        547.3195190429688,
+        138.5517578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/ </i></p>",
+      "page": 48,
+      "polygon": [
+        [
+          88.61083984375001,
+          173.0869140625
+        ],
+        [
+          211.07989501953125,
+          173.0869140625
+        ],
+        [
+          211.07989501953125,
+          185.20648193359375
+        ],
+        [
+          88.61083984375001,
+          185.20648193359375
+        ]
+      ],
+      "bbox": [
+        88.61083984375001,
+        173.0869140625,
+        211.07989501953125,
+        185.20648193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar  konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 48,
+      "polygon": [
+        [
+          88.90136718750001,
+          208.85546875
+        ],
+        [
+          351.0000305175781,
+          208.85546875
+        ],
+        [
+          351.0000305175781,
+          236.123046875
+        ],
+        [
+          88.90136718750001,
+          236.123046875
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        208.85546875,
+        351.0000305175781,
+        236.123046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti 21.02.2022 otsuse nr 5-5/2022-007 ärakiri on samane originaaliga. Ärakirjast  on välja jäetud AS Ekspress Grupp ärisaladused, vastavad kohad on tekstis tähistatud  nurksulgudega.</p>",
+      "page": 48,
+      "polygon": [
+        [
+          88.32031250000001,
+          252.435546875
+        ],
+        [
+          547.3201293945312,
+          252.435546875
+        ],
+        [
+          547.3201293945312,
+          297.4429931640625
+        ],
+        [
+          88.32031250000001,
+          297.4429931640625
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        252.435546875,
+        547.3201293945312,
+        297.4429931640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/Kaspar Lehesmets/ 11.03.2021</p>",
+      "page": 48,
+      "polygon": [
+        [
+          88.90136718750001,
+          317.25006103515625
+        ],
+        [
+          245.63815307617188,
+          317.25006103515625
+        ],
+        [
+          245.63815307617188,
+          329.3173828125
+        ],
+        [
+          88.90136718750001,
+          329.3173828125
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        317.25006103515625,
+        245.63815307617188,
+        329.3173828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 48,
+      "polygon": [
+        [
+          515.8798217773438,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          794.7197265625
+        ],
+        [
+          546.8097534179688,
+          805.4605445861816
+        ],
+        [
+          515.8798217773438,
+          805.4605445861816
+        ]
+      ],
+      "bbox": [
+        515.8798217773438,
+        794.7197265625,
+        546.8097534179688,
+        805.4605445861816
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/1",
+        "2": "/page/7/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

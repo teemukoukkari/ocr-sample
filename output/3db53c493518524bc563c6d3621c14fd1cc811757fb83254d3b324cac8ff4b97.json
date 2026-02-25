@@ -1,0 +1,3702 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 213,
+      "polygon": [
+        [
+          497.05468749999994,
+          55.5029296875
+        ],
+        [
+          537.3779907226562,
+          55.5029296875
+        ],
+        [
+          537.3779907226562,
+          65.9161376953125
+        ],
+        [
+          497.05468749999994,
+          65.9161376953125
+        ]
+      ],
+      "bbox": [
+        497.05468749999994,
+        55.5029296875,
+        537.3779907226562,
+        65.9161376953125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 213,
+      "polygon": [
+        [
+          21.476953124999994,
+          37.12529296875
+        ],
+        [
+          202.023046875,
+          37.12529296875
+        ],
+        [
+          202.023046875,
+          97.72626953125
+        ],
+        [
+          21.476953124999994,
+          97.72626953125
+        ]
+      ],
+      "bbox": [
+        21.476953124999994,
+        37.12529296875,
+        202.023046875,
+        97.72626953125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon Holding OÜ Bremeni käik 1 10123, Tallinn</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.341796875,
+          138.5517578125
+        ],
+        [
+          197.33999633789062,
+          138.5517578125
+        ],
+        [
+          197.33999633789062,
+          178.48150634765625
+        ],
+        [
+          89.341796875,
+          178.48150634765625
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        138.5517578125,
+        197.33999633789062,
+        178.48150634765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Estonian Theatrical Distribution OÜ Põikmäe tn 4 76406, Tänassilma küla</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          192.8212890625
+        ],
+        [
+          265.7040100097656,
+          192.8212890625
+        ],
+        [
+          265.7040100097656,
+          233.6815185546875
+        ],
+        [
+          89.6328125,
+          233.6815185546875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        192.8212890625,
+        265.7040100097656,
+        233.6815185546875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">02.03.2021 nr 5-5/2021-018</p>",
+      "page": 213,
+      "polygon": [
+        [
+          401.97998046875,
+          249.31146240234375
+        ],
+        [
+          537.3599853515625,
+          249.31146240234375
+        ],
+        [
+          537.3599853515625,
+          261.31146240234375
+        ],
+        [
+          401.97998046875,
+          261.31146240234375
+        ]
+      ],
+      "bbox": [
+        401.97998046875,
+        249.31146240234375,
+        537.3599853515625,
+        261.31146240234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud e-posti aadressidele</i><i><a href=\"mailto:martin.maesalu@ellex.ee\"> martin.maesalu@ellex.ee;</a></i> <i>info@heafilm.ee;</i> <i><a href=\"mailto:timo.diener@filmdistribution.ee\">timo.diener@filmdistribution.ee</a></i></p>",
+      "page": 213,
+      "polygon": [
+        [
+          88.46875,
+          284.0927734375
+        ],
+        [
+          564.6092529296875,
+          284.0927734375
+        ],
+        [
+          564.6092529296875,
+          296.044189453125
+        ],
+        [
+          88.46875,
+          296.044189453125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        284.0927734375,
+        564.6092529296875,
+        296.044189453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Teade</b> <b>järelevalvemenetluse lõpetamisest </b></h2>",
+      "page": 213,
+      "polygon": [
+        [
+          90.7439956665039,
+          321.018798828125
+        ],
+        [
+          317.70220947265625,
+          321.018798828125
+        ],
+        [
+          317.70220947265625,
+          333.9787902832031
+        ],
+        [
+          90.7439956665039,
+          333.9787902832031
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        321.018798828125,
+        317.70220947265625,
+        333.9787902832031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon Holding OÜ (edaspidi Cinamon) esitas 23.03.2020 Konkurentsiametile taotluse  järelevalvemenetluse alustamiseks Estonian Theatrical Distributions OÜ (edaspidi Hea Film)  suhtes. Taotluses leiti, et Hea Film on vahetanud konkurentsitundlikku teavet ning Hea Filmi  käitumises esineb turgu valitseva seisundi kuritarvitamise tunnuseid (tooteturu piiramine,  võrdväärsete kokkulepete puhul erinevate tingimuste rakendamine, vertikaalselt integreeritud  tütarettevõtja eelistamine ja põhjendamatu keeldumine toote tarnimiseks).</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          357.2744140625
+        ],
+        [
+          547.4400024414062,
+          357.2744140625
+        ],
+        [
+          547.4400024414062,
+          439.6514587402344
+        ],
+        [
+          89.6328125,
+          439.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        357.2744140625,
+        547.4400024414062,
+        439.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet vaatas esitatud taotluse läbi, kuulas ära vastaspoole ja kogus igakülgset teavet  taotluses toodud asjaolude kohta. Kokkuvõttes on amet seisukohal, et Hea Filmile saab ette  heita konkurentsiseaduse rikkumist vene keelde dubleeritud filmide Eestis linastamisele seatud  takistuste osas, kuid mitte teistes taotluses ja taotluse täiendustes toodud episoodides. Hea Film andis ametile menetluse käigus lubaduse loobuda kahest vene keelde dubleeritud filmide  linastamisele seatud tingimusest. Selles küsimuses jälgib amet järelkontrolli korras, kuidas Hea Film oma praktikat konkurentsiolukorra parandamiseks muudab.</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          455.25146484375
+        ],
+        [
+          547.3480224609375,
+          455.25146484375
+        ],
+        [
+          547.3480224609375,
+          550.5068359375
+        ],
+        [
+          89.6328125,
+          550.5068359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        455.25146484375,
+        547.3480224609375,
+        550.5068359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alljärgnevalt annab Konkurentsiamet ülevaate menetluse peamistest järelmitest. Selleks teeb  amet kokkuvõtte Cinamoni väidetest (I) ja ameti seisukohtadest koos nende kujundamise  aluseks oleva teabega (II) ning esitab Konkurentsiameti poolsed menetluse lõpetamise alused (III).</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          565.6814575195312
+        ],
+        [
+          547.4400024414062,
+          565.6814575195312
+        ],
+        [
+          547.4400024414062,
+          619.0814666748047
+        ],
+        [
+          89.6328125,
+          619.0814666748047
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        565.6814575195312,
+        547.4400024414062,
+        619.0814666748047
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>I Cinamon Holding OÜ poolt esitatud väited</b></h3>",
+      "page": 213,
+      "polygon": [
+        [
+          88.46875,
+          634.9214630126953
+        ],
+        [
+          318.1419982910156,
+          634.9214630126953
+        ],
+        [
+          318.1419982910156,
+          647.5341796875
+        ],
+        [
+          88.46875,
+          647.5341796875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        634.9214630126953,
+        318.1419982910156,
+        647.5341796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film kaubamärgi all tegutsev Estonian Theatrical Distribution OÜ on filmistuudiote  Twentieth Century Fox ja Walt Disney Studios Motion Pictures levitaja Eestis.<sup>1</sup> Alates 2020.  aasta aprillist levitab Hea Film lisaks ka Universal ja Paramount stuudiote poolt toodetud filme.</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          661.5126953125
+        ],
+        [
+          547.4080200195312,
+          661.5126953125
+        ],
+        [
+          547.4080200195312,
+          701.8814697265625
+        ],
+        [
+          89.6328125,
+          701.8814697265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        661.5126953125,
+        547.4080200195312,
+        701.8814697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon on seisukohal, et Hea Film piirab Cinamoni juurdepääsu filmidele, mida oleks  võimalik pakkuda klientidele Cinamoni kinodes. Juurdepääsu piiratakse eelkõige IMAX  formaadis sisule ning filmide venekeelsetele versioonidele.</p>",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          717.4267578125
+        ],
+        [
+          547.2940063476562,
+          717.4267578125
+        ],
+        [
+          547.2940063476562,
+          757.1014633178711
+        ],
+        [
+          89.6328125,
+          757.1014633178711
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        717.4267578125,
+        547.2940063476562,
+        757.1014633178711
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 213,
+      "polygon": [
+        [
+          90.7439956665039,
+          767.99609375
+        ],
+        [
+          94.580078125,
+          767.99609375
+        ],
+        [
+          94.580078125,
+          782.7814636230469
+        ],
+        [
+          90.7439956665039,
+          782.7814636230469
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        767.99609375,
+        94.580078125,
+        782.7814636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/15",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 213,
+      "polygon": [
+        [
+          89.6328125,
+          794.7197265625
+        ],
+        [
+          448.16406249999994,
+          794.7197265625
+        ],
+        [
+          448.16406249999994,
+          805.1834106445312
+        ],
+        [
+          89.6328125,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        794.7197265625,
+        448.16406249999994,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/13",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> <a href=\"http://heafilm.ee/contact\">http://heafilm.ee/contact</a></p>",
+      "page": 213,
+      "polygon": [
+        [
+          90.7439956665039,
+          781.15234375
+        ],
+        [
+          196.7265625,
+          781.15234375
+        ],
+        [
+          196.7265625,
+          793.6634140014648
+        ],
+        [
+          90.7439956665039,
+          793.6634140014648
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        781.15234375,
+        196.7265625,
+        793.6634140014648
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon on korduvalt avastanud juhtumeid, kus Hea Film on rakendanud piiranguid Cinamoni  kinode suhtes, kuid vastavad piirangud on jäänud rakendamata eelkõige konkureerivate ning  Hea Filmiga vertikaalselt integreeritud kinode, ehk Apollo Kino OÜ (edaspidi Apollo Kino)  suhtes.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          89.6328125,
+          60.3814697265625
+        ],
+        [
+          547.342041015625,
+          60.3814697265625
+        ],
+        [
+          547.342041015625,
+          113.801513671875
+        ],
+        [
+          89.6328125,
+          113.801513671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        60.3814697265625,
+        547.342041015625,
+        113.801513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Esiteks on Cinamon korduvalt taotlenud Hea Filmilt võimalusi esitada osa filme vene keelde  dubleerituna, kuid need palved on järjepidevalt tagasi lükatud. Vaatamata korduvatele  keeldumistele, taotles Cinamon 2019. aasta aprillis Hea Filmilt menufilmi \"Tasujad\" vene  keelde dubleeritud versiooni näitamist. Sarnaselt varasemaga sai Cinamon eitava vastuse, kuid  samas andis Hea Film \"Tasujad\" vene keelde dubleeritud näitamise õiguse Apollo Kino Eedeni  ja Mustamäe kinodele. Cinamoni hinnangul on selline vene keelde dubleeritud sisu tarnimisest  keeldumine turgu valitseva seisundi kuritarvitamine Hea Filmi poolt. Cinamon on seisukohal,  et keeldumisega varustada Cinamoni T1 ja TASKU kinosid vene keelde dubleeritud sisuga,  pakkudes samal ajal sellist võimalust Apollo Kinole, on Hea Film üles näidanud Cinamoni  diskrimineerivat kohtlemist ning seotud ettevõtjate eelistamist, rikkudes selliselt  konkurentsiseaduse (edaspidi KonkS) § 16 punkte 2 ja 3.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          88.46875,
+          129.4014892578125
+        ],
+        [
+          547.4400024414062,
+          129.4014892578125
+        ],
+        [
+          547.4400024414062,
+          279.43145751953125
+        ],
+        [
+          88.46875,
+          279.43145751953125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        129.4014892578125,
+        547.4400024414062,
+        279.43145751953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lisaks on Cinamon toonud välja, et Eesti kinomaastikul on küllaltki suur nõudlus vene keelde  dubleeritud filmide järele. Cinamon selgitas ametile, et levitajad pakuvad vene keelde  dubleeritud filme ka inglisekeelsele sisule, mitte üksnes eesti keelde dubleeritud sisule, nagu  senine praktika olnud on. Cinamon on seisukohal, et vene keelde dubleeritud filmide näitamise  puhul on tegemist kliendi eelistusega, millest on Cinamonile selgesõnaliselt teada andnud ka  kino venekeelsed kinokülastajad. Kuna Hea Film võimaldab vene keelde dubleeritud filme  maale tuua üksnes piiratud mahus ning üksnes filmidele, millel on olemas ka eestikeelne  dublaaž, siis on Cinamoni hinnangul selline tegevus vastuolus konkurentsiseadusega. Lisaks on  Cinamon arvamusel, et tegemist on üksnes kino enda äriotsuse ning riskiga otsustada, kas  näidata vene keelde dubleeritud filmi või mitte ja levitaja seisukoht ja vastava nõudluse  olemasolu on sealjuures ebaoluline.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          89.6328125,
+          295.031494140625
+        ],
+        [
+          547.3720092773438,
+          295.031494140625
+        ],
+        [
+          547.3720092773438,
+          445.05145263671875
+        ],
+        [
+          89.6328125,
+          445.05145263671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        295.031494140625,
+        547.3720092773438,
+        445.05145263671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Teiseks on Cinamon toonud välja, et Hea Film keeldub püsivalt Cinamoni varustamisest IMAX  formaadis filmidega. Cinamon leiab, et olukorras, kus stuudiotel on olemas IMAX formaadis  sisu, siis ei tohiks levitaja hakata kinode eest otsustama milliste filmide osas peaksid kinoketid  enda klientidele IMAX formaadis sisu pakkuma. Hea Film on mitmel juhul ning eelkõige  perefilmide puhul keeldunud tellimast filme IMAX formaadis, tuues põhjenduseks, et pered on  hinnatundlikumad, mistõttu eelistavad pered odavamaid võimalusi kinos käimiseks. Hea Film  on enda käitumisega Cinamoni hinnangul tekitanud olukorra, kus Hea Film dikteerib  Cinamonile mida on võimalik kinos näidata, piirates seeläbi ettevõtja konkurentsivõimet.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          88.46875,
+          460.6514587402344
+        ],
+        [
+          547.4280395507812,
+          460.6514587402344
+        ],
+        [
+          547.4280395507812,
+          570.65234375
+        ],
+        [
+          88.46875,
+          570.65234375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        460.6514587402344,
+        547.4280395507812,
+        570.65234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kolmandaks on Cinamon välja toonud \"Frozen 2\" 06.12.2019 eellinastusega toimunu, mille  puhul pidi Cinamon tühistama eellinastuse, kuna Hea Film hilines juurdepääsuvõtmete  tarnimisega. Samas toimusid filmi \"Frozen 2\" eellinastused Apollo Kino saalides ilma  probleemideta.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          89.6328125,
+          584.8814697265625
+        ],
+        [
+          547.4400024414062,
+          584.8814697265625
+        ],
+        [
+          547.4400024414062,
+          638.2814636230469
+        ],
+        [
+          89.6328125,
+          638.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        584.8814697265625,
+        547.4400024414062,
+        638.2814636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Neljandaks leidis Cinamon, et neil on alust arvata, et Hea Film ei tegutse erapooletult sõltumatu  sisu levitajana, vaid jagab Cinamonilt saadud informatsiooni Apollo Kinoga, tegutsedes seeläbi  Apollo Kino huvides. Hea Filmil on levitajana juurdepääs informatsioonile, mis puudutab  kinooperaatorite strateegilist infot.</p>",
+      "page": 190,
+      "polygon": [
+        [
+          89.6328125,
+          653.7614593505859
+        ],
+        [
+          547.3300170898438,
+          653.7614593505859
+        ],
+        [
+          547.3300170898438,
+          707.1614532470703
+        ],
+        [
+          89.6328125,
+          707.1614532470703
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        653.7614593505859,
+        547.3300170898438,
+        707.1614532470703
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Lisaks esitas Cinamon 05.10.2020 täienduse enda varasematele pöördumistele, milles leidis, et  Hea Film kuritarvitab turgu valitsevat seisundit läbi Cinamonile konkurentidega võrreldes  põhjendamatult kõrgemate hindade rakendamise, mis seab Cinamoni ebasoodsasse  konkurentsiolukorda. Kinode ja filmilevitajate koostöö on korraldatud tulude jagamise  põhimõttel ning üldlevinud praktika on nn […] tulude jagamine, ehk filmide linastamise õiguste</p>",
+      "page": 190,
+      "polygon": [
+        [
+          89.6328125,
+          722.7814636230469
+        ],
+        [
+          547.3839721679688,
+          722.7814636230469
+        ],
+        [
+          547.3839721679688,
+          789.9814643859863
+        ],
+        [
+          89.6328125,
+          789.9814643859863
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        722.7814636230469,
+        547.3839721679688,
+        789.9814643859863
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 190,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tasu filmilevitajatele moodustab […] piletimüügitulust. Cinamon tõi välja, et neile ei ole küll  teada levitajate ja tema konkurentide vaheliste kokkulepete sisu, kuid eeldada võib, et üldiselt  kohaldub samuti levinud […] jaotus. 2015. aastast alates on Hea Film nõudnud Cinamonilt […] tulude jaotamise kokkulepet IMAX formaadis filmide linastamisõiguste eest. Kõrgemat hinda  on põhjendatud IMAX formaadis filmide levitamise suuremate kuludega. Cinamon on  seisukohal, et […] tulude jaotamise kokkulepete tulemiks on olukord, kus Cinamon on sunnitud  tasuma […]% kõrgemaid tasusid Hea Filmile, võrreldes konkurentidega. Vastavalt on  kahjustunud Cinamoni võime konkureerida teiste kinodega. Eelkõige kaob Cinamonil  majanduslik otstarbekus ja võimekus investeerida täiendavalt IMAX tehnoloogiasse olukorras,  kus mitte-IMAX sisu linastamine võimaldab saavutada sama või isegi paremat  kasumimarginaali. Cinamonile teadaolevalt võib IMAX Corporation teatud filmide IMAX  formaadis levitamise eest küsida filmilevitajatelt kuni […]% filmilevitaja tulust konkreetse  filmi osas (st kuni […]% kogu piletimüügitulust). Samas isegi, kui IMAX formaadi eest tuleb filmilevitajatel tasuda kuni […]% kogu piletimüügitulust, siis on […] tulude jaotamise  kokkuleppe rakendamine Cinamoni hinnangul ilmselgelt ebaproportsionaalne. Seega on  Cinamon seisukohal, et Hea Film on enda käitumisega rikkunud KonkS § 16 punkti 3.</p>",
+      "page": 207,
+      "polygon": [
+        [
+          88.46875,
+          46.58148193359375
+        ],
+        [
+          547.3919677734375,
+          46.58148193359375
+        ],
+        [
+          547.3919677734375,
+          265.6314697265625
+        ],
+        [
+          88.46875,
+          265.6314697265625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.58148193359375,
+        547.3919677734375,
+        265.6314697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet esitas Cinamonile 10.11.2020 teate pöördumise täiendamiseks, millele  Cinamon esitas 20.11.2020 vastuse, kus leidis, et kui levitajate kulubaasis oleks olulisi erisusi,  siis rakendaks ka teised levitajad IMAX filmidele erinevat hinnakujundust. Cinamon tõi välja,  et viited IMAX-i peakorteri […]% tasule on Cinamoni ja Hea Filmi vahelise tulu jagunemise  aspektist asjassepuutumatud, kuna ka Cinamon tasub IMAX-ile iga pileti pealt […]%  vahendustasu. Muuhulgas tõi Cinamon välja, et IMAX-formaadis sisu seansside piletihinnad  on Cinamoni kinodes vahemikus 1-2 eurot kallimad tavaseansside piletihindadest. See  tähendab, et kõrgem piletihind kompenseerib nii levitaja kui ka kino jaoks IMAX-ile makstava  tasu.</p>",
+      "page": 207,
+      "polygon": [
+        [
+          88.46875,
+          279.9814453125
+        ],
+        [
+          547.4400634765625,
+          279.9814453125
+        ],
+        [
+          547.4400634765625,
+          403.6514587402344
+        ],
+        [
+          88.46875,
+          403.6514587402344
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        279.9814453125,
+        547.4400634765625,
+        403.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>II Konkurentsiameti seisukoht</b></h4>",
+      "page": 207,
+      "polygon": [
+        [
+          90.7439956665039,
+          419.4914855957031
+        ],
+        [
+          247.40599060058594,
+          419.4914855957031
+        ],
+        [
+          247.40599060058594,
+          431.4914855957031
+        ],
+        [
+          90.7439956665039,
+          431.4914855957031
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        419.4914855957031,
+        247.40599060058594,
+        431.4914855957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet käsitleb käesolevas menetluses kaubaturuna laiale vaatajaskonnale suunatud filmide levitamist nende avalikuks esitamiseks Eesti kinodes. Kinofilmide levitamine  <i>(Theatrical Distribution)</i> on selles tähenduses tegutsemine filmistuudio ainuesindajana Eestis,  sh nende filmide turundamine, filmide näitamisõiguste andmine kinodele ning linastamiseks  vajalike tingimuste tagamine. Võib ka öelda, et levitamise näol on tegemist  vahendustegevusega, mis toimub filmide kinos näitamise suhtes hulgitasandil. Järelevalvemenetluses kogutud teabe ning avalikult kättesaadava informatsiooni põhjal on Hea Film Twentieth Century Fox ja Walt Disney Studios Motion Pictures stuudiote ning alates 2020.  aasta aprillist lisaks ka Universal ja Paramount stuudiote poolt toodetud filmide ainulevitaja  Eestis.</p>",
+      "page": 207,
+      "polygon": [
+        [
+          89.6328125,
+          446.490234375
+        ],
+        [
+          547.427978515625,
+          446.490234375
+        ],
+        [
+          547.427978515625,
+          583.0814514160156
+        ],
+        [
+          89.6328125,
+          583.0814514160156
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        446.490234375,
+        547.427978515625,
+        583.0814514160156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtudes eeltoodust ei ole kinodel võimalik muul viisil Hea Filmi poolt esindatavate stuudiote  toodangut enda kinodes näidata, mistõttu on Hea Film laiatarbe filme näitavate kinode jaoks  vältimatu koostööpartner. Eelnevat arvestades on üldjuhul põhjendatud arvata, et Hea Film  omab asjaomasel kaubaturul KonkS § 13 tähenduses turgu valitsevat seisundit.</p>",
+      "page": 207,
+      "polygon": [
+        [
+          89.6328125,
+          598.609375
+        ],
+        [
+          547.3839721679688,
+          598.609375
+        ],
+        [
+          547.3839721679688,
+          651.9614562988281
+        ],
+        [
+          89.6328125,
+          651.9614562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        598.609375,
+        547.3839721679688,
+        651.9614562988281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alljärgnevalt analüüsib Konkurentsiamet eraldi igat võimaliku rikkumise episoodi, millele  Cinamon enda erinevates ametile esitatud menetlusdokumentides viidanud on.</p>",
+      "page": 207,
+      "polygon": [
+        [
+          89.6328125,
+          667.5614624023438
+        ],
+        [
+          547.2940063476562,
+          667.5614624023438
+        ],
+        [
+          547.2940063476562,
+          693.3614654541016
+        ],
+        [
+          89.6328125,
+          693.3614654541016
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        667.5614624023438,
+        547.2940063476562,
+        693.3614654541016
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h4>Kinodes filmide näitamiseks seatud lisatingimused, mis ei tulene keeleseadusest</h4>",
+      "page": 207,
+      "polygon": [
+        [
+          89.6328125,
+          705.9150390625
+        ],
+        [
+          476.10156249999994,
+          705.9150390625
+        ],
+        [
+          476.10156249999994,
+          717.9814605712891
+        ],
+        [
+          89.6328125,
+          717.9814605712891
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        705.9150390625,
+        476.10156249999994,
+        717.9814605712891
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet tuvastas vene keelde dubleeritud filmide levitamisega seonduvat uurides, et  Hea Film on esitanud kinodele venekeelse dublaažiga filmide näitamiseks täiendavaid nõudeid,  võrreldes keeleseadusest tulenevaga. Konkurentsiamet esitas selles osas Hea Filmile oma  esialgse seisukoha koos ettekirjutuse hoiatusega. Amet leidis, et Hea Filmil ei ole õigus</p>",
+      "page": 207,
+      "polygon": [
+        [
+          89.6328125,
+          730.9414596557617
+        ],
+        [
+          547.3359985351562,
+          730.9414596557617
+        ],
+        [
+          547.3359985351562,
+          786.4970703125
+        ],
+        [
+          89.6328125,
+          786.4970703125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        730.9414596557617,
+        547.3359985351562,
+        786.4970703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 207,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        544.78125,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kehtestada järgmisi täiendavaid nõudeid võrreldes keeleseadusest tulenevaga:</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          46.58148193359375
+        ],
+        [
+          465.7439880371094,
+          46.58148193359375
+        ],
+        [
+          465.7439880371094,
+          58.58148193359375
+        ],
+        [
+          89.6328125,
+          58.58148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.58148193359375,
+        465.7439880371094,
+        58.58148193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/193",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> et kino peab näitama võrdväärses osakalus eestikeelse dubleeringuga seansse;</li><li block-type=\"ListItem\"> et vene keelde dubleeritud filmi näitamisel peab olema kinol samas ajaaknas eesti keelde  dubleeritud film.</li></ul></p>",
+      "page": 193,
+      "polygon": [
+        [
+          107.09375,
+          60.3814697265625
+        ],
+        [
+          547.342041015625,
+          60.3814697265625
+        ],
+        [
+          547.342041015625,
+          100.00152587890625
+        ],
+        [
+          107.09375,
+          100.00152587890625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        60.3814697265625,
+        547.342041015625,
+        100.00152587890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film õigustas oma vastuses nimetatud tingimuste väljatöötamist vajadusega tagada  kinokülastajate rahulolu ja soovi vältida konflikte klientide ja kinopersonali vahel olukorras,  kus selgub, et inimene on ostnud kogemata filmi venekeelsele sessioonile ning kinotöötajal ei  ole olukorra lahendamiseks vastu pakkuda piletit samas ajaaknas algavale originaalversiooni  seansile. Hea Filmi väitel ei ole ta kinosid kunagi ähvardanud, et kõnealuseid tingimusi täitmata  keelab ta filmi kinos näidata. Esitatud õigustustest lubas Hea Film oma senist praktikat muuta  ning nimetatud kahest tingimustest loobuda.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          115.60150146484375
+        ],
+        [
+          547.4519653320312,
+          115.60150146484375
+        ],
+        [
+          547.4519653320312,
+          210.4014892578125
+        ],
+        [
+          89.6328125,
+          210.4014892578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        115.60150146484375,
+        547.4519653320312,
+        210.4014892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Täpsemalt teatas Hea Film oma kavatsusest teavitada kinosid uutest tingimustest venekeelsete  dublaažide näitamiseks, kui kinodesse jõuab järgmine film, millest on planeeritud lisaks  originaalversioonile ka venekeelne koopia. Ühtlasi väljendas Hea Film seisukohta, et edaspidi  ei tohiks kinod eespool kirjeldatud juhtudel kaebuse esitajaid levitaja poole suunata ning samuti  peaksid kinod tegelema tarbijate kaebustega Keeleametile, kuna levitaja on enda poolt kinosid  taolisest ohust varasemalt teavitanud.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          212.14453125
+        ],
+        [
+          547.416015625,
+          212.14453125
+        ],
+        [
+          547.416015625,
+          293.23150634765625
+        ],
+        [
+          89.6328125,
+          293.23150634765625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        212.14453125,
+        547.416015625,
+        293.23150634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film on Konkurentsiametile selgitanud, et kavatseb konkurentsiolukorda parandada.  Ametile esitatud selgituse kohaselt teavitab Hea Film kinosid koheselt keeleseadusest  rangemate nõuete loobumisest, kui kinodesse jõuab järjekordne suurfilm, millest on planeeritud  lisaks originaalversioonile ka venekeelse koopia maaletoomine. Konkurentsiametil ei ole senise  suhtluse ning Hea Filmi poolse koostöösoovi põhjal alust kahelda, et Hea Film ei kavatseks  eelnevalt mainitud kahest tingimusest, mis on keeleseadusest karmimad loobuda. Mis puudutab  tarbijapoolsete kaebuste lahendamist, siis on Konkurentsiameti hinnangul mõistlik kui nendega  tegelebki kino, kuna eelnevalt viidatud kahe tingimuse kaotamine Hea Filmi poolt avardab  kinode võimalusi kinokavasid iseseisvalt planeerida.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          306.91143798828125
+        ],
+        [
+          547.39599609375,
+          306.91143798828125
+        ],
+        [
+          547.39599609375,
+          429.3314514160156
+        ],
+        [
+          89.6328125,
+          429.3314514160156
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        306.91143798828125,
+        547.39599609375,
+        429.3314514160156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seega on võimalik vene keelde dubleeritud filmide puhul asuda seisukohale, et tegemist on  konkurentsiolukorra parandamisega Hea Filmi poolt ning olukorras, kus Hea Film loobub  keeleseadusest rangematest tingimustest, siis ei ole alust rääkida ka konkurentsiseaduse  rikkumisest. Küll aga peab amet järgnevalt veenduma, et Hea Film keeleseadusest rangemate  nõuete kasutamisest tõesti ka loobub. Vastasel korral tuleb menetlus selles osas uuendada.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          444.0234375
+        ],
+        [
+          547.4159545898438,
+          444.0234375
+        ],
+        [
+          547.4159545898438,
+          512.1314392089844
+        ],
+        [
+          89.6328125,
+          512.1314392089844
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        444.0234375,
+        547.4159545898438,
+        512.1314392089844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/2/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h4>Apollo Kino eelistamine filmi \"Tasujad\" vene keelde dubleeritud versiooni osas</h4>",
+      "page": 193,
+      "polygon": [
+        [
+          88.46875,
+          527.7314453125
+        ],
+        [
+          474.93749999999994,
+          527.7314453125
+        ],
+        [
+          474.93749999999994,
+          539.7314453125
+        ],
+        [
+          88.46875,
+          539.7314453125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        527.7314453125,
+        474.93749999999994,
+        539.7314453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon on Konkurentsiametile esitatud andmete kohaselt korduvalt taotlenud Hea Filmilt  võimalusi esitada osa filme vene keelde dubleerituna, kuid need palved on järjepidevalt tagasi  lükatud. Sellega seoses on Cinamon välja toonud episoodi, kus Hea Film võimaldas Apollo  Kino Eedeni ja Mustamäe kinodele filmi \"Tasujad\" vene keelde dubleeritud versiooni näitamist,  kuid ei andnud samadel tingimustel luba selle filmi näitamiseks Tartu Cinamoni kinos.  Seejuures tõi Cinamon välja, et Eesti kinomaastikul on küllaltki suur nõudlus vene keelde  dubleeritud filmide järele ning levitajad pakuvad vene keelde dubleeritud filme ka  inglisekeelsele sisule, mitte üksnes eesti keelde dubleeritud sisule, nagu senine praktika olnud  on.</p>",
+      "page": 193,
+      "polygon": [
+        [
+          88.46875,
+          553.4414672851562
+        ],
+        [
+          547.416015625,
+          553.4414672851562
+        ],
+        [
+          547.416015625,
+          675.8414611816406
+        ],
+        [
+          88.46875,
+          675.8414611816406
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        553.4414672851562,
+        547.416015625,
+        675.8414611816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet küsis Hea Filmilt selgitust ning sai vastuse, milles Hea Film tunnistas oma  eksimust ning näitas samas, et on astunud omapoolseid samme olukorra parandamiseks. Nimelt  oli Hea Film rakendanud Cinamoni suhtes hüvitusmeetmeid pärast seda, kui Apollo Eedeni  kinol võimaldati näidata filmi \"Tasujad\" vene keelde dubleeritud versioonis ning Cinamoni  sellisest võimalusest ei teavitatud. Tekkinud ebavõrduse heastamiseks andis Hea Film  järgnevaks nädalaks filmi \"Tasujad\" vene keelde dubleeritud versiooni näitamise ainuõiguse  Cinamoni Tasku Keskuses opereerivale kinole. Ühtlasi selgitas Hea Film Konkurentsiametile,</p>",
+      "page": 193,
+      "polygon": [
+        [
+          89.6328125,
+          691.4414672851562
+        ],
+        [
+          547.4039916992188,
+          691.4414672851562
+        ],
+        [
+          547.4039916992188,
+          786.908203125
+        ],
+        [
+          89.6328125,
+          786.908203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        691.4414672851562,
+        547.4039916992188,
+        786.908203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 193,
+      "polygon": [
+        [
+          518.880859375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          518.880859375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        518.880859375,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">et Apollo Mustamäe Kino puhul Apollo Kino tegelikult Cinamoni ees eelist ei saanud. Koheselt  kui Hea Film vea tuvastas, pakkus ta filmi \"Tasujad\" vene keelde dubleeritud versiooni  näitamist ka teistele Tallinna kinodele. Kuna viga avastati piisavalt varakult, siis Apollo  Mustamäe Kino ja Cinamon näitasid vene keelde dubleeritud versiooni filmist  \"Tasujad\" samadel kuupäevadel. Hea Filmi selgitusel tekkis viga inimlikust eksitusest, kuna  kinokava koostas inimene, kes oli asendamas tavapärast kinokava koostajat.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          88.46875,
+          46.4580078125
+        ],
+        [
+          547.3599853515625,
+          46.4580078125
+        ],
+        [
+          547.3599853515625,
+          127.8623046875
+        ],
+        [
+          88.46875,
+          127.8623046875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.4580078125,
+        547.3599853515625,
+        127.8623046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet möönab, et Hea Filmi tegevuse tulemusena sai Tartus Eedeni Keskuses  tegutsev Apollo Kino ajutise eelise Cinamoni Tasku Keskuses asuva kino ees. Uue filmi  esimestel nädalatel on kino külastatavus filmi uudsuse tõttu kõrgem ja seetõttu võib arvata, et  hilisemaks perioodiks saadud ainuõigus venekeelse dublaažiga filmi Tasku kinos näidata, ei  korvanud Cinamoni jaoks selle võimaluse puudumist esimesel nädalal.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          89.6328125,
+          143.2015380859375
+        ],
+        [
+          547.39599609375,
+          143.2015380859375
+        ],
+        [
+          547.39599609375,
+          210.9111328125
+        ],
+        [
+          89.6328125,
+          210.9111328125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        143.2015380859375,
+        547.39599609375,
+        210.9111328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul ei rakendanud Hea Film kõnealusel juhul KonkS § 16 p 3  tähenduses võrdväärsete kokkulepete korral samasuguseid tingimusi Apollo Kino ja Cinamoni  kinodele, kuid sellega ei kaasnenud turgu valitseva seisundi seesugust kuritarvitamist, mille  kohta tuleks teha ettekirjutus. Järelevalvemenetluses kogutud andmetel tunnistas Hea Film oma  viga koheselt ning pakkus välja hüvitusmeetme, mille piisavuses on küll põhjust kahelda. Siiski  pole võimalik menetluses kogutud tõendite põhjal asuda seisukohale, et tegemist oli sihiliku  tegevusega Cinamoni kinoturult väljatõrjumiseks või tema konkurentsivõime nõrgendamiseks.  Selleks ei anna alust kõnealuse episoodi asjaolud, kus vene keelde dubleeritud versiooni  näitamist ei võimaldatud nimelt Tartu Cinamoni kinos, kus eeldatav nõudlus selleks polnud  kindlasti kõige suurem, võrrelduna mõne muu Cinamoni kinoga. Praegusel juhul ei ole  võimalik välistada, et tegemist oli pigem juhusliku rikkumisega, mille põhjal ei saa Hea Filmile  süüks panna kuritarvituslikku käitumismustrit.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          88.46875,
+          226.031494140625
+        ],
+        [
+          547.427978515625,
+          226.031494140625
+        ],
+        [
+          547.427978515625,
+          389.8314514160156
+        ],
+        [
+          88.46875,
+          389.8314514160156
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        226.031494140625,
+        547.427978515625,
+        389.8314514160156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mis puudutab Mustamäe Keskuses asuvale Apollo Kinole vene keelde dubleeritud filmide  näitamisõiguse võimaldamist, siis ameti hinnangul ei kaasnenud antud episoodi puhul  konkurentsi olulist kahjustumist. Mõlemad kinoketid said võimaluse näidata samal ajal uut  kassahitti ning kumbki kino ei saanud kaubaturul Hea Filmi tegevuse tõttu eelist, mida  kinnitavad ka ametile esitatud müüginumbrid.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          89.6328125,
+          403.732421875
+        ],
+        [
+          547.1900024414062,
+          403.732421875
+        ],
+        [
+          547.1900024414062,
+          472.6514587402344
+        ],
+        [
+          89.6328125,
+          472.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        403.732421875,
+        547.1900024414062,
+        472.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile esitatud selgituste pinnalt ning menetluses kogutud tõendite alusel ei leia  Konkurentsiamet, et Hea Film oleks käitunud kuritarvituslikult ning püüdnud seada Apollo  Kino viimase konkurendiga võrreldes soodsamasse konkurentsiolukorda. Seetõttu ei ole antud  episoodis konkurentsi oluliselt kahjustatud.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          89.6328125,
+          486.3701171875
+        ],
+        [
+          547.31201171875,
+          486.3701171875
+        ],
+        [
+          547.31201171875,
+          541.6514587402344
+        ],
+        [
+          89.6328125,
+          541.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        486.3701171875,
+        547.31201171875,
+        541.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/3/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4>Vene keelde dubleeritud filmide näitamisest keeldumine</h4>",
+      "page": 175,
+      "polygon": [
+        [
+          90.21484375,
+          554.1614685058594
+        ],
+        [
+          360.2159729003906,
+          554.1614685058594
+        ],
+        [
+          360.2159729003906,
+          566.1614685058594
+        ],
+        [
+          90.21484375,
+          566.1614685058594
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        554.1614685058594,
+        360.2159729003906,
+        566.1614685058594
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film on seisukohal, et suuremas mahus vene keelde dubleeritud filmide levitamisel  kaasnevad levitajale põhjendamatud lisakulutused. Vene keelde dubleeritud koopiat oleks  võimalik teoreetiliselt küll varustada juba valminud eestikeelse tõlkega, kuid subtiiter tuleb  siiski ümber toimetada kaherealiseks, mis tähendab terve filmi läbitöötamist nii tõlkija, kui ka  toimetaja poolt, mis toob kaasa täiendavad lisakulutusi. Lisaks, kuna film dubleeritakse teise  keelde ja dubleerides jälgitakse tegelaskujude suu liikumist ning silpide arvu, siis on muuhulgas  oluline tõlkesse tuua ka kohaliku keele varjundeid, mis toob endaga kaasa dublaažitõlke kohati  tuntava erinevuse originaaltekstist, mistõttu eestikeelne tõlge ei haaku dubleeritud tekstiga.  Seepärast on vajalik venekeelse dublaaži tõlkega varustamiseks luua uus tõlge, mis on valminud  venekeelse dublaažitõlke ja mitte originaalteksti põhjal. See tähendab lisakulu levitaja jaoks.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          89.6328125,
+          579.1214599609375
+        ],
+        [
+          547.384033203125,
+          579.1214599609375
+        ],
+        [
+          547.384033203125,
+          715.37109375
+        ],
+        [
+          89.6328125,
+          715.37109375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        579.1214599609375,
+        547.384033203125,
+        715.37109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet selgitab, et tulenevalt keeleseadusest peab Hea Film võõrkeelse filmi Eestisse  tarnimisel tagama sellele eestikeelsete subtiitrite olemasolu. Konkurentsiamet küsis  järelevalvemenetluses venekeelse dublaažiga filmide teemal teavet mitte üksnes Keeleametilt,  vaid ka tõlkebüroodelt. Saadud teabe kohaselt on hea tava, et subtiitrid järgivad filmi heli, mis</p>",
+      "page": 175,
+      "polygon": [
+        [
+          89.6328125,
+          730.171875
+        ],
+        [
+          547.4400024414062,
+          730.171875
+        ],
+        [
+          547.4400024414062,
+          784.3414649963379
+        ],
+        [
+          89.6328125,
+          784.3414649963379
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        730.171875,
+        547.4400024414062,
+        784.3414649963379
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">on inglisekeelse filmi ja vene keelde dubleeritud filmi puhul erinev. Eestis, kus on rohkelt nii  eesti- kui ka vene keelt kõnelevaid kinokülastajaid, on subtiitrite lahknevus võrreldes filmiheli  keelega kinokülastaja jaoks teravalt tajutav. See on põhjus, miks kvaliteetsema tulemuse  saavutamiseks tuleb venekeelse dublaažiga filmile teha eraldi eestikeelsed subtiitrid, mitte  kasutada sama filmi originaalkeelele tehtud eestikeelseid subtiitreid. Eraldi eestikeelse subtiitri  valmistamise hind on samas suurusjärgus nagu originaalkeelest tõlgitud subtiitritel. Sellist  seisukohta on Konkurentsiametile avaldanud tõlkebürood.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          46.58148193359375
+        ],
+        [
+          547.3060302734375,
+          46.58148193359375
+        ],
+        [
+          547.3060302734375,
+          141.4014892578125
+        ],
+        [
+          89.6328125,
+          141.4014892578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.58148193359375,
+        547.3060302734375,
+        141.4014892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet järeldab eelnevast, et kui venekeelse filmiversiooni näitamiseks ei saa  kasutada originaalkeelele valmistatud subtiitrit, siis kaasnevad levitajale venekeelse dublaažiga  filmi maaletoomisel arvestatavad lisakulud.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          156.6416015625
+        ],
+        [
+          547.27001953125,
+          156.6416015625
+        ],
+        [
+          547.27001953125,
+          196.60150146484375
+        ],
+        [
+          89.6328125,
+          196.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        156.6416015625,
+        547.27001953125,
+        196.60150146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet leiab, et turgu valitseva ettevõtjana ei tohi Hea Film põhjendamatult keelduda  vene keelde dubleeritud filmide maaletoomisest, vaid peab iga sellekohase Cinamoni taotluse  sisuliselt läbi vaatama. Kui kinod leiavad, et äriliselt on vene keelde dubleeritud filmide  näitamine kasumlik ning selliselt käitudes on võimalik kinno meelitada rohkem vaatajaid ning  maksimeerida tulu, järgides sealjuures ka keeleseadusest tulenevaid nõudeid, siis ei tohi Hea Film põhjendamatult takistada kinode äritegevust. Keeldumine kahjustab Cinamoni ärihuve  ning sõltuvalt asjaoludest võib see olla käsitletav turgu valitseva seisundi kuritarvitamisena.  Konkurentsiõiguse rikkumise vältimiseks peab Hea Film pidama läbirääkimisi Cinamoni, nagu  ka teiste kinodega ning esitama selgelt oma põhjendatud tingimused venekeelse dublaažiga  filmide maaletoomiseks, lähtudes sellega kaasnevatest põhjendatud kuludest. Teisalt võib  eeldada, et kinod on valmis levitajaga jagama selliseid põhjendatud kulusid, mis vältimatult  kaasnevad vene keelde dubleeritud filmide maaletoomisega (sh selleks eraldi subtiitrite  loomine).</p>",
+      "page": 218,
+      "polygon": [
+        [
+          88.46875,
+          212.14453125
+        ],
+        [
+          547.404052734375,
+          212.14453125
+        ],
+        [
+          547.404052734375,
+          389.8314514160156
+        ],
+        [
+          88.46875,
+          389.8314514160156
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        212.14453125,
+        547.404052734375,
+        389.8314514160156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/4/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4>IMAX formaadis filmide maaletoomise piiramine</h4>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          405.376953125
+        ],
+        [
+          329.9739990234375,
+          405.376953125
+        ],
+        [
+          329.9739990234375,
+          417.45147705078125
+        ],
+        [
+          89.6328125,
+          417.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        405.376953125,
+        329.9739990234375,
+        417.45147705078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamoni hinnangul keeldub Hea Film püsivalt Cinamoni varustamisest IMAX formaadis  filmidega. Muuhulgas tõi Cinamon välja, et IMAX-formaadis kättesaadav filmivalik on  piiratum võrreldes filmidega, mis on kättesaadavad Apollo Kino ja Forum Cinemas poolt  kasutatavas <i>premium</i> formaatides. Lisaks tõi Cinamon välja, et mitte ükski teine levitaja ei ole  IMAX-formaadis filmidele sarnaseid piiranguid kehtestanud, nagu on seda teinud Hea Film.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          433.05145263671875
+        ],
+        [
+          547.3480224609375,
+          433.05145263671875
+        ],
+        [
+          547.3480224609375,
+          500.759765625
+        ],
+        [
+          89.6328125,
+          500.759765625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        433.05145263671875,
+        547.3480224609375,
+        500.759765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film on selgitanud, et IMAX versioonis filmi Eesti turule toomine sõltub mitmetest  asjaoludest. Esmalt tuleb prognoosida, milline saab olema IMAX saali täituvus, kasutades  selleks võrdlusfilmide andmete omavahelist võrdlemist. Teiseks tuleb silmas pidada IMAX  versioonis filmide linastuskalendrit, kuna IMAX versioonis filmide levitamisel kehtib filmile  minimaalselt kahenädalane eksklusiivsus. Kolmandaks selgitas Hea Film, et aja jooksul on  tekkinud arusaam, et perefilmide puhul ei otsi publik IMAX poolt pakutavat <i>premium</i> kontseptsiooni, ega soovi kinopileti eest rohkem maksta. Kuna IMAX formaadis filmi  levitamisega kaasnevad täiendavad lisakulud, milleks on näiteks kõrgendatud koopiakulud,  eritreilerid jms, siis on IMAX versioonis filmi maaletoomine, võrreldes tavaversioonis filmiga  oluliselt kallim ning Hea Filmi hinnangul ei tasu majanduslikult selliste kulutuste tegemine  perefilmide puhul ära. Hea Film on ametile selgitanud, et tema kogemuse järgi jäävad IMAX  filmide külastajanumbrid anima- ja perefilmide puhul madalamaks. Levitaja selgituse järgi ei  otsi pered üldjuhul <i>premium</i> kinokogemust, kuna kogupere kinokülastus on niigi küllaltki  kulukas ettevõtmine.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          515.8514709472656
+        ],
+        [
+          547.4400024414062,
+          515.8514709472656
+        ],
+        [
+          547.4400024414062,
+          707.1614532470703
+        ],
+        [
+          89.6328125,
+          707.1614532470703
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        515.8514709472656,
+        547.4400024414062,
+        707.1614532470703
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet on küsinud selgitusi ka Hea Filmi konkurendilt, et analüüsida levitajate praktikat IMAX versioonis filmide puhul. Hea Filmi konkurent selgitas ametile, et filmi  tavakoopia kõrvale ei võeta IMAX formaadis filmikoopiat, kui prognoositakse, et filmi  madalam kassatulu ootus ei õigusta IMAX formaadis lisakoopia kulu. Seega ka teine levitaja  ei võimalda igat filmi IMAX versioonis, vaid lähtub IMAX versioonis filmide Eestisse</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          722.771484375
+        ],
+        [
+          547.4519653320312,
+          722.771484375
+        ],
+        [
+          547.4519653320312,
+          790.197265625
+        ],
+        [
+          89.6328125,
+          790.197265625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        722.771484375,
+        547.4519653320312,
+        790.197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tarnimisel muuhulgas filmi majanduslikust tasuvusest.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          90.7439956665039,
+          46.58148193359375
+        ],
+        [
+          351.7900085449219,
+          46.58148193359375
+        ],
+        [
+          351.7900085449219,
+          58.58148193359375
+        ],
+        [
+          90.7439956665039,
+          58.58148193359375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        46.58148193359375,
+        351.7900085449219,
+        58.58148193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet peab iseenesest õiguspäraseks Hea Filmi ja temaga konkureeriva filmilevitaja  kaalutlust, et IMAX formaadis filmi Eestisse tarnimine otsustatakse lähtuvalt selle  prognoositavast kassatulust ning arvestades levitajale kaasnevaid kulusid. Filmistuudiotel on  riigiti ainuõiguslikud levitajad, kellel võib olla turgu valitsev seisund asjaomasel kaubaturul. Hea Film levitab muuhulgas Disney filmistuudio anima- ja perefilme. Kui levitaja näeb, et selliste filmide kassatulu IMAX formaadis pole piisavalt suur, võrreldes mõne muu IMAX  formaadis filmiga, siis on tal mõistlik panustada filmidele, mille prognoositav vaadatavus  kinodes on suurem. Selline kaalutlus ei ole iseenesest konkurentsi kahjustav, vaid lähtub levitaja  rollist filmistuudio esindajana ja levitatavate filmide kassatulu maksimeerijana.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          73.5927734375
+        ],
+        [
+          547.3599853515625,
+          73.5927734375
+        ],
+        [
+          547.3599853515625,
+          196.60150146484375
+        ],
+        [
+          89.6328125,
+          196.60150146484375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        73.5927734375,
+        547.3599853515625,
+        196.60150146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">IMAX formaadist lähtuvate lisakulude ja piirangute arvestamine levitaja poolt ei ole iseenesest  diskrimineeriv käitumine. Kuivõrd IMAX versioonis filmidega kaasnevad levitajale lisakulud  ning IMAX saalid on selles mõttes piiratud ressurss, et üldjuhul ei saa seal samal ajal linastuda  muud filmid, siis levitajal on objektiivsete põhjenduste olemasolul õigus teha põhjendatud  valik, milliseid IMAX formaadis filme maale tuua ja milliseid mitte. Omaette küsimus on, kas Hea Film sellise käitumisega piirab kaubaturgu, kuna suurimad kassahitid ning nende stuudiote  poolt levitatavad filmid tehakse Eesti turul kinokülastajatele kättesaadavaks mitte-IMAX ehk tavaformaadis filmide näol.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          211.322265625
+        ],
+        [
+          547.416015625,
+          211.322265625
+        ],
+        [
+          547.416015625,
+          320.83148193359375
+        ],
+        [
+          89.6328125,
+          320.83148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        211.322265625,
+        547.416015625,
+        320.83148193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ka Cinamoniga konkureerivate kinode <i>premium </i>kontseptsiooniga saalides näidatakse tavaformaadis filme, millele IMAXi eripäradest lähtuvad piirangud ei laiene. Seetõttu võib  arvata, et konkureerivad kinoketid on huvitatud sellest, et IMAX formaadis filmide levitamine  oleks võimalikult piiratud. Hea Film on kontsernis Cinamoni konkurendiks oleva kinoketiga  ning seetõttu on põhjendatud kahtlus, et Hea Film võib käituda diskrimineerivalt. Käesolevas  järelevalvemenetluses uuritud asjaolud ja kogutud tõendid sellele aga ei viita.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          336.43145751953125
+        ],
+        [
+          547.4400024414062,
+          336.43145751953125
+        ],
+        [
+          547.4400024414062,
+          417.45147705078125
+        ],
+        [
+          89.6328125,
+          417.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        336.43145751953125,
+        547.4400024414062,
+        417.45147705078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet on seisukohal, et Hea Film ei ole hoolimata turgu valitseva seisundi  olemasolust kohustatud võtma piiramatult enda kanda IMAX formaadis filmide levitamisega  kaasnevaid lisakulutusi. Samuti on Hea Filmil õigus teha põhjendatud valik, millist filmi tarnida  Eestisse IMAX formaadis ja millist mitte. Seejuures peab Hea Film igal üksikjuhul tagama, et  otsus üks või teine film IMAX formaadis levisse võtmata jätta peab olema objektiivselt  põhjendatud. Konkurentsiamet leiab, et lisakulude põhjendusel IMAX formaadis filmide  levitamisest keeldumisele laienevad samad põhimõtted nagu eespool välja toodud vene keelde  dubleeritud filmide näitamisega kaasnevate lisakulude puhul.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          432.1005859375
+        ],
+        [
+          547.3479614257812,
+          432.1005859375
+        ],
+        [
+          547.3479614257812,
+          541.6514587402344
+        ],
+        [
+          89.6328125,
+          541.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        432.1005859375,
+        547.3479614257812,
+        541.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h4>Filmi \"Frozen 2\" eellinastus</h4>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          557.2814636230469
+        ],
+        [
+          226.99218749999997,
+          557.2814636230469
+        ],
+        [
+          226.99218749999997,
+          569.2814636230469
+        ],
+        [
+          89.6328125,
+          569.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        557.2814636230469,
+        226.99218749999997,
+        569.2814636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/6/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon tõi enda pöördumises välja filmi \"Frozen 2\" 06.12.2019 eellinastusega toimunu, mille  puhul pidi Cinamon tühistama eellinastuse, kuna Hea Film hilines juurdepääsuvõtmete  tarnimisega. Samas toimusid filmi \"Frozen 2\" eellinastused Apollo Kinodes ilma  probleemideta.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          584.8814697265625
+        ],
+        [
+          547.3419799804688,
+          584.8814697265625
+        ],
+        [
+          547.3419799804688,
+          638.2814636230469
+        ],
+        [
+          89.6328125,
+          638.2814636230469
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        584.8814697265625,
+        547.3419799804688,
+        638.2814636230469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/6/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film on Konkurentsiametile selgitanud, et 06.12.2019 oli filmi varaseim linastumise  kuupäev Eestis, mis oli võimalik üksnes erilinastuste raames, kuna ametlikult pidi film  kinodesse jõudma alles alates 27.12.2019. Võimalusest näidata filmi \"Frozen 2\" juba alates  06.02.2019 teavitati kõiki kinosid, mistõttu said kõik soovijad selleks soovi avaldada. Hea Film  asus võtmeid eellinastusi soovinud kinodele tellima juba aegsasti ning kõik kinod, sealhulgas  ka Cinamon said enda võtmed kätte õigeaegselt. Ainus saal, millele võtit ei väljastatud oli  Cinamoni Kosmose kino IMAX saal. Cinamoni peamehaanik kinnitas enda e-kirjaga samuti  Hea Filmile, et kõikide kinode ja saalide juurdepääsuvõtmed \"Frozen 2\" filmile on olemas,  välja arvatud IMAX saalile.</p>",
+      "page": 221,
+      "polygon": [
+        [
+          89.6328125,
+          653.701171875
+        ],
+        [
+          547.4280395507812,
+          653.701171875
+        ],
+        [
+          547.4280395507812,
+          776.1814651489258
+        ],
+        [
+          89.6328125,
+          776.1814651489258
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        653.701171875,
+        547.4280395507812,
+        776.1814651489258
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/6/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 221,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        544.78125,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/6/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet on seisukohal, et filmi \"Frozen 2\" eellinastust ning juurdepääsuvõtmete  hilinemist puudutavas episoodis ei ole Hea Film antud asjaoludel kuritarvituslikult käitunud. Konkurentsiamet uuris menetluse käigus Hea Filmi turgu valitseva seisundi kasutamist, kuid ei  tuvastanud Hea Filmile süüks pandavat rikkumist. Nimelt ei nähtu antud asjaoludel, et Hea Film  oleks teadlikult takistanud Cinamoni Kosmose IMAX saalis filmi \"Frozen 2\" eellinastuse  toimumist. Konkurentsiamet kogus menetluses teavet väidetava rikkumise asjaolude kohta ning  sai selgust selles, kuidas toimus filmi näitamiseks vajalike võtmete väljastamine. Amet on  tutvunud kõnealust episoodi puudutava e-kirjavahetusega Hea Filmi ja filmistuudio vahel. Viidatud kirjavahetus näitab, et Hea Film taotles kõik load Eesti kinodele korraga. Teiste hulgas küsiti Cinamoni Kosmose Kino IMAX saali juurdepääsuvõtmed. Koos teiste kinode  juurdepääsuvõtmetega saabusid juurdepääsuvõtmed Cinamoni kino saalidele, välja arvatud  IMAX saalile. Seetõttu said filmi \"Frozen 2\" eellinastused Cinamoni teistes saalides toimuda.  Järelevalvemenetluses kogutud teave ei anna alust süüdistada Hea Filmi selles, et Cinamoni  Kosmose Kino IMAX saalile juurdepääsuvõtit õigeaegselt ei saabunud. […]. Samas puuduvad  tõendid selle kohta, et Hea Film oleks teinud midagi sellist või jätnud midagi tegemata, mida ta  oleks saanud ja pidanud tegema, et tagada võtme õigeaegne saabumine. Seetõttu puuduvad filmi  \"Frozen 2\" IMAX formaadis filmi eellinastusega seonduvalt Hea Filmi tegevuses turgu  valitseva seisundi kuritarvitamise tunnused. Samuti ei ole võimalik antud episoodi põhjal  tuvastada Hea Filmi kuritarvituslikku tegevusmustrit, mis oleks suunatud Cinamoni kaubaturult  välja tõrjumisele.</p>",
+      "page": 280,
+      "polygon": [
+        [
+          89.6328125,
+          46.58148193359375
+        ],
+        [
+          547.4519653320312,
+          46.58148193359375
+        ],
+        [
+          547.4519653320312,
+          320.83148193359375
+        ],
+        [
+          89.6328125,
+          320.83148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.58148193359375,
+        547.4519653320312,
+        320.83148193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/6/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h4>Informatsiooni levitamine ja sõltumatuse küsimus</h4>",
+      "page": 280,
+      "polygon": [
+        [
+          89.05078125,
+          336.43145751953125
+        ],
+        [
+          330.7099914550781,
+          336.43145751953125
+        ],
+        [
+          330.7099914550781,
+          348.43145751953125
+        ],
+        [
+          89.05078125,
+          348.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        336.43145751953125,
+        330.7099914550781,
+        348.43145751953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamoni väitel ei tegutse Hea Film erapooletult sõltumatu sisu levitajana, vaid jagab  Cinamonilt saadud informatsiooni Apollo Kinoga, tegutsedes seeläbi Apollo Kino huvides,  kuna Hea Filmil on levitajana juurdepääs informatsioonile, mis puudutab kinooperaatorite strateegilist infot. Cinamon on toonud ühe näitena filmi \"Star Wars IX\" esilinastusega  seonduva, kus Cinamon soovis näidata ka filmi varasemat osa. Cinamon on Konkurentsiametile  selgitanud, et Star Warsi filmiseeria retrospektiivi näitamise ideed esitleti Hea Filmile ning  selline lahendus, kus enne uue filmi esilinastust näidatakse kinokülastajatele ka filmi varasemat  osa on Cinamoni hinnangul praktikas ebatavaline ning kinoketid tavaliselt vanu filme  ekraanidele tagasi ei too. Kuna Apollo Kino näitas identseid ühiseid seansse ning Apollo Kino  jõudis enne Cinamoni enda kinokava avaldada, siis on Cinamoni hinnangul tõenäoline, et  Cinamoni plaanid edastati Hea Filmi poolt Apollo Kinole. Eeltoodu põhjal on Cinamon  seisukohal, et tegemist on ettevõtjat kahjustava teabe vahetamisega.</p>",
+      "page": 280,
+      "polygon": [
+        [
+          88.46875,
+          364.0314636230469
+        ],
+        [
+          547.3800048828125,
+          364.0314636230469
+        ],
+        [
+          547.3800048828125,
+          528.3056640625
+        ],
+        [
+          88.46875,
+          528.3056640625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        364.0314636230469,
+        547.3800048828125,
+        528.3056640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet selgitab, et Hea Film, Apollo Group OÜ (edaspidi Apollo Group) ning Apollo  Kino kuuluvad kõik samasse kontserni äriseadustiku § 6 lg 1 tähenduses. KonkS § 2 lg 3  kohaselt loetakse üheks ettevõtjaks üksteisega valitseva mõju kaudu seotud ettevõtjad. Sellest  tulenevalt saab lugeda Hea Filmi ning Apollo Groupi Konkurentsiametile teadaolevate andmete  alusel üheks ettevõtjaks, kuna ettevõtjad on valitseva mõju tõttu seotud. Tulenevalt sellest ei  kohaldu Hea Filmile ja Apollo Groupile KonkS § 4 lg 1 punktis 4 sätestatud piirangud, kuna  tegemist ei ole erinevate ettevõtjatega konkurentsiseaduse tähenduses.</p>",
+      "page": 280,
+      "polygon": [
+        [
+          89.6328125,
+          543.4814758300781
+        ],
+        [
+          547.4039916992188,
+          543.4814758300781
+        ],
+        [
+          547.4039916992188,
+          639.3115234375
+        ],
+        [
+          89.6328125,
+          639.3115234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        543.4814758300781,
+        547.4039916992188,
+        639.3115234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet märgib, et põhimõtteliselt tuleneb neil asjaoludel ka KonkS §-st 16 turgu  valitsevale filmilevitajale keeld kõnealusel viisil edastada endaga seotud kinole  konkurentsiõiguslikult tundlikku teavet, mis ta on saanud endaga mitteseotud kinolt. Turgu  valitseva ettevõtjana on Hea Film kohustatud ettevõttesiseselt tagama sellise teabeliikumise- ja  töökorralduse, et temaga samasse kontserni kuuluvate Apollo Kino kinodeni ei jõuaks nendega  konkureerivalt kinoketilt pärinev tundlik teave, mille viimane on filmilevitamise otstarbel Hea Filmile usaldanud. Kuid ka seda asjaolu arvestades ei ole Cinamoni väited konkurentsiõiguslikult tundliku info levitamise kohta järelevalvemenetluse käigus tõendamist  leidnud.</p>",
+      "page": 280,
+      "polygon": [
+        [
+          88.46875,
+          653.7614593505859
+        ],
+        [
+          547.4639892578125,
+          653.7614593505859
+        ],
+        [
+          547.4639892578125,
+          776.1814651489258
+        ],
+        [
+          88.46875,
+          776.1814651489258
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        653.7614593505859,
+        547.4639892578125,
+        776.1814651489258
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 280,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          794.7197265625
+        ],
+        [
+          544.78125,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        544.78125,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hea Film on Konkurentsiametile selgitanud, et võrdse kohtlemise huvides pidi Hea Film  pakkuma retrospektiivi näitamise võimalust ka teistele kinokettidele, isegi kui algselt avaldas  selleks soovi üksnes Cinamon. Ühtlasi tuleb arvestada stuudio huvi, sest mida rohkemates  kinodes on seansse, seda tulutoovam on see stuudio jaoks. Samuti on levitaja huvides, et seansse  näidataks võimalikult mitmes kinos. Konkurentsiamet küsis Hea Filmilt kirjavahetust \"Star  Wars IX\" filmi retrospektiivi näitamise teemal. Esitatud kirjavahetus Hea Filmi ja kinode vahel  näitab, et Hea Film saatis konkureerivatele kinodele samal kuupäeval e-kirja, milles pakkus  retrospektiivi näitamise õigusi ka teistele kinodele.</p>",
+      "page": 269,
+      "polygon": [
+        [
+          88.46875,
+          46.046875
+        ],
+        [
+          547.427978515625,
+          46.046875
+        ],
+        [
+          547.427978515625,
+          155.2015380859375
+        ],
+        [
+          88.46875,
+          155.2015380859375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.046875,
+        547.427978515625,
+        155.2015380859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Järelevalvemenetluses kogutud teave ei anna alust väita, et Hea Film kohtleb Apollo Kino teiste  kinokettidega võrreldes soodsamalt. Kontrollimisel ei leidnud kinnitust väide, et Hea Film  jagab Apollo Kinoga viimase konkurentide tundlikku informatsiooni. Näiteks \"Star Wars  IX\" filmile eelnenud osade retrospektiivi näitamist võimaldas Hea Film lisaks Cinamonile ka  teistele kinokettidele võrdsetel alustel, eelistamata sealjuures ühte kino teisele.  Konkurentsiamet on tutvunud Hea Filmi asjaomase kirjavahetusega ning ei leia, et Hea Filmi  ja Apollo Kino iganädalane suhtlus kinokavade koostamisel erineks suhtlusest Cinamoni või  Forum Cinemas kinode esindajatega. Asjaolu, et Cinamon tuli ideele näidata \"Star Wars  IX\" filmi varasemat osa enne uusima filmi esilinastust ei tähenda, et Hea Film peaks selle filmi  näitamise õigusi võimaldama üksnes Cinamonile.</p>",
+      "page": 269,
+      "polygon": [
+        [
+          89.6328125,
+          170.6201171875
+        ],
+        [
+          547.4400024414062,
+          170.6201171875
+        ],
+        [
+          547.4400024414062,
+          307.031494140625
+        ],
+        [
+          89.6328125,
+          307.031494140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        170.6201171875,
+        547.4400024414062,
+        307.031494140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul oli Hea Filmi tegevus retrospektiivi näitamise võimaluse  tutvustamisel suunatud kõigile kinokettidele ja seetõttu teenis Hea Filmi tegevus stuudio huvi,  milleks on filmide näitamine võimalikult paljudes kinodes, läbi mille on võimalik teenida  rohkem tulu. Asjaolu, et teised kinod peale Apollo Kino ja Cinamoni ei soovinud seda  võimalust kasutada, ei lähtunud Konkurentsiametile teadaolevalt mitte Hea Filmi tegevusest,  vaid oli kinode enda otsus. Konkurentsiamet on eeltoodust tulenevalt seisukohal, et Hea Filmi  poolne konkurentsiseaduse rikkumine ei leidnud järelevalvemenetluse raames kinnitust.</p>",
+      "page": 269,
+      "polygon": [
+        [
+          89.6328125,
+          322.6314697265625
+        ],
+        [
+          547.416015625,
+          322.6314697265625
+        ],
+        [
+          547.416015625,
+          417.45147705078125
+        ],
+        [
+          89.6328125,
+          417.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        322.6314697265625,
+        547.416015625,
+        417.45147705078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seoses keelatud teabevahetuse kahtlusega pööras Konkurentsiamet eraldi tähelepanu asjaolule,  mis ilmnes äriregistrist ettevõtjate andmeid kontrollides. Nimelt selgus, et Apollo Kino ja Hea Filmi kaks juhatuse liiget kattusid omavahel. Amet küsis Hea Filmilt selle kohta selgitusi.  Vastuseks põhjendas Hea Film juhatuse liikmete ajutist kattuvust vajadusega kinnitada  majandusaastaaruanne. Kuna Hea Filmi juhatuse liige Konstantins Maslovs ei saanud Läti  ID-ga äriregistris majandusaasta aruannet allkirjastada, siis oli vaja vormistada lühiajaliselt  juhatuse liikmeteks keegi teine. Pärast majandusaastaaruande esitamist kutsuti kaks kattuvat  juhatuse liiget tagasi. Konkurentsiamet kontrollis esitatud andmeid ning juhatuse liikmete  kattumise periood oli tõesti lühiajaline ning piirdus vahemikuga 20.09.2020-03.12.2020.  Konkurentsiamet ei tuvastanud antud asjaoludel konkurentsiseaduse rikkumist seoses  informatsiooni liikumisega Apollo Group'i sees. Eraldiseisvalt ei kujuta endast  konkurentsiõiguse rikkumist asjaolu, et Hea Filmi ja Apollo Kino juhatuse liikmed lühiajaliselt  kattusid.</p>",
+      "page": 269,
+      "polygon": [
+        [
+          89.6328125,
+          432.1005859375
+        ],
+        [
+          547.427978515625,
+          432.1005859375
+        ],
+        [
+          547.427978515625,
+          610.6814575195312
+        ],
+        [
+          89.6328125,
+          610.6814575195312
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        432.1005859375,
+        547.427978515625,
+        610.6814575195312
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1>Piletitulu jagamine</h1>",
+      "page": 269,
+      "polygon": [
+        [
+          89.923828125,
+          623.6884765625
+        ],
+        [
+          182.466796875,
+          623.6884765625
+        ],
+        [
+          182.466796875,
+          637.0814666748047
+        ],
+        [
+          89.923828125,
+          637.0814666748047
+        ]
+      ],
+      "bbox": [
+        89.923828125,
+        623.6884765625,
+        182.466796875,
+        637.0814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cinamon leiab, et Hea Film kuritarvitab turgu valitsevat seisundit läbi Cinamonile  konkurentidega võrreldes põhjendamatult kõrgemate hindade rakendamise, mis seab Cinamoni  ebasoodsasse konkurentsiolukorda, kuna 2015. aastast alates on Hea Film nõudnud Cinamonilt  […] tulude jaotamise kokkulepet IMAX formaadis filmide linastamisõiguste eest.</p>",
+      "page": 269,
+      "polygon": [
+        [
+          89.6328125,
+          650.0414581298828
+        ],
+        [
+          547.384033203125,
+          650.0414581298828
+        ],
+        [
+          547.384033203125,
+          703.859375
+        ],
+        [
+          89.6328125,
+          703.859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        650.0414581298828,
+        547.384033203125,
+        703.859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Konkurentsiamet on küsinud selgitust tulude jaotamise kohta Hea Filmilt nii 21.04.2020  toimunud seletuse andmisel, kui ka täiendavalt 16.10.2020 esitatud teabenõudega. Hea Film on  ametile selgitanud, et kuna IMAX korporatsiooni peakorter võtab IMAX formaadis filmide  puhul […]% täiendavat tasu iga kinopileti hinnast, mis võetakse stuudio osast, siis kujuneks  tavapärase […] tulujaotuse korral stuudiopoolseks tuluosaks […]% ning kolmandast</p>",
+      "page": 269,
+      "polygon": [
+        [
+          89.6328125,
+          719.0614624023438
+        ],
+        [
+          547.416015625,
+          719.0614624023438
+        ],
+        [
+          547.416015625,
+          786.4970703125
+        ],
+        [
+          89.6328125,
+          786.4970703125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        719.0614624023438,
+        547.416015625,
+        786.4970703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 269,
+      "polygon": [
+        [
+          520.6799926757812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          520.6799926757812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        520.6799926757812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">kinonädalast oleks stuudio osa juba […]%. IMAX formaadis filmide puhul ette nähtud  teistsugune tulujaotus on mõeldud selleks, et tagada stuudio jaoks võimalikult ligilähedane osa  nagu see on mitte-IMAX filmide puhul […] tulujaotuse korral. Cinamoni ja Hea Filmi vahel  sõlmitud kokkuleppe kohaselt kehtib […] tulujaotus filmi esimesel nädalal, teisest nädalast on  tulujaotus […] ja alates kolmandast nädalast on tulujaotus […] kino kasuks. Võttes arvesse  IMAX korporatsiooni täiendavat tasu, kujuneb stuudio osaks esimesel nädalal […]%, teisel  nädalal […]% ja sealt edasi […]% igalt kinopiletilt.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          88.46875,
+          46.58148193359375
+        ],
+        [
+          547.416015625,
+          46.58148193359375
+        ],
+        [
+          547.416015625,
+          141.8408203125
+        ],
+        [
+          88.46875,
+          141.8408203125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.58148193359375,
+        547.416015625,
+        141.8408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet ei pea antud juhul põhjendatuks Cinamoni väidet, et Hea Film on  võrdväärsete kokkulepete puhul temalt võtnud kõrgemat tasu seoses sellega, et erinevalt teistest kinokettidest, kus lähtutakse […] tulujaotusest, on IMAX filmide osas tulujaotus […]. Konkurentsiametile teadaolevalt ei kasuta teised kinoketid sarnast lahendust, nagu seda on  IMAX lahendus, vaid filme näidatakse nö tavaversioonis, mis ei too kaasa täiendavaid kulusid  ega taolisi nõudeid kolmandatelt osapooltelt, nagu seda on IMAX korporatsioon. Nn  tavaversioonis filmide puhul ei teki levitajale täiendavaid kulusid ning levitaja saab rakendada  tavapärast tulujaotuse praktikat sõltumata kinoketist. Seejuures ei ole põhjendatud väita, et Hea Film rakendab Cinamonile konkurentidega võrreldes kõrgemaid hindasid, kuna ametile  teadaolevalt on Hea Filmi hinnastamispraktika tavaversioonis filmide puhul ühtne. Teistsugune  tulujaotus kehtib IMAX versioonis filmide levitamisel, mis laias plaanis tooks ikkagi kaasa  Cinamoni suhtes diskrimineeriva hinnakujunduse, kui erinevus tulujaotuse alustes oleks  põhjendamatu.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          157.00152587890625
+        ],
+        [
+          547.4639892578125,
+          157.00152587890625
+        ],
+        [
+          547.4639892578125,
+          334.6314392089844
+        ],
+        [
+          89.6328125,
+          334.6314392089844
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        157.00152587890625,
+        547.4639892578125,
+        334.6314392089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet leiab aga, et käesoleval juhul ei saa Hea Filmi teistsugust tulujaotust IMAX  filmide puhul põhjendamatuks pidada, kuna levitaja peab maksma IMAX korporatsioonile  täiendavalt […]% tasu, mis tähendab, et levitaja peab kandma suuremaid kulusid võrreldes  tavaversioonis filmide levitamisega. Eriformaadiga kaasnevad täiendavad kulud levitaja jaoks  õigustavad tavapärasest erinevat tulujaotust.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          349.8740234375
+        ],
+        [
+          547.384033203125,
+          349.8740234375
+        ],
+        [
+          547.384033203125,
+          417.45147705078125
+        ],
+        [
+          89.6328125,
+          417.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        349.8740234375,
+        547.384033203125,
+        417.45147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Isegi kui levitaja rakendab […] tulujaotust esimesel nädalal, siis on stuudio osa ikkagi  tavapärase […]% asemel […]%. Seega kaotab Hea Film niigi IMAX versioonis filmi  maaletoomisega tavaversioonis filmide asemel esimesel kinonädalal […]%. Cinamon on enda  20.11.2020 esitatud vastuses välja toonud seisukoha, mille kohaselt on IMAX formaadis  filmide näitamisel piletihinnad 1-2 eurot tavaseansside piletihindadest kõrgemad, mistõttu  kõrgem piletihind kompenseerib nii levitaja kui ka kino jaoks IMAX korporatsioonile makstava  tasu. Konkurentsiamet selle seisukohaga ei nõustu. Amet leiab, et levitaja äriliste kaalutluste  hulka kuulub mõistetavalt kinokülastatavuse prognoosimine. Kuna IMAX formaadi puhul peab  Hea Film kandma […]% suuremaid kulusid võrreldes tavafilmiga, siis sellevõrra kõrgem  piletihind mõjutab nõudlust. Nagu eespool selgitatud, on iseäranis kogupere filmide puhul  täheldatav tarbijaeelistus odavama pileti kasuks. Levitaja seisukohalt tähendab kinosaali  väiksem täituvus kokkuvõttes väiksemat piletitulu. Seejuures kujunevad IMAX versioonis  filmide piletihinnad turutingimustes ning puudub alus eeldada, et IMAX versioonis filmidele  on kestvalt nõudlus 1-2 eurot kallima piletihinnaga. Cinamon ei ole esitanud andmeid ühegi  konkreetse filmi osas, kus teistsugune tulujaotus oleks toonud kaasa ebaõiglase hinnakujunduse  ning avaldanud IMAX filmide osas Cinamoni turult väljatõrjuvat mõju.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          433.05145263671875
+        ],
+        [
+          547.39599609375,
+          433.05145263671875
+        ],
+        [
+          547.39599609375,
+          651.9614562988281
+        ],
+        [
+          89.6328125,
+          651.9614562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        433.05145263671875,
+        547.39599609375,
+        651.9614562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lähtuvalt eeltoodust on Konkurentsiamet seisukohal, et IMAX formaadis filmide puhul […] tulujaotuse rakendamise korral ei ole võimalik rääkida KonkS § 16 punkti 3 rikkumisest, kuna  IMAX formaadis filmide puhul ei ole tegemist võrdväärsete kokkulepete korral erinevate  tingimuste rakendamisega, mis paneks Cinamoni ebasoodsasse konkurentsiolukorda. IMAX  versioonis filmide puhul rakendatakse teistsugust tulujaotust, kuna nende filmide levitamisel  peab Hea Film tasuma IMAX korporatsioonile täiendavalt […]% tasu.</p>",
+      "page": 250,
+      "polygon": [
+        [
+          89.6328125,
+          666.4462890625
+        ],
+        [
+          547.3720092773438,
+          666.4462890625
+        ],
+        [
+          547.3720092773438,
+          748.5814666748047
+        ],
+        [
+          89.6328125,
+          748.5814666748047
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        666.4462890625,
+        547.3720092773438,
+        748.5814666748047
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 250,
+      "polygon": [
+        [
+          88.759765625,
+          778.2214660644531
+        ],
+        [
+          220.0800018310547,
+          778.2214660644531
+        ],
+        [
+          220.0800018310547,
+          790.2214660644531
+        ],
+        [
+          88.759765625,
+          790.2214660644531
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        778.2214660644531,
+        220.0800018310547,
+        790.2214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 250,
+      "polygon": [
+        [
+          515.6399536132812,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          794.7197265625
+        ],
+        [
+          545.072265625,
+          805.1834106445312
+        ],
+        [
+          515.6399536132812,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        515.6399536132812,
+        794.7197265625,
+        545.072265625,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevas peatükis esitatud põhjustel leiab amet, et järelevalvemenetlust pole alust jätkata, kuna  menetluses esitatud etteheited võimaliku turgu valitseva seisundi rikkumise kohta ei leidnud  tõendamist. Hea Filmi tegevus, mis puudutab võimalikku konkurentsiseaduse rikkumist  piletitulu jagamise puhul, informatsiooni levitamist, mittesõltumatuna tegutsemist, Filmi  \"Frozen 2\" eellinastust ja IMAX formaadis filmide maaletoomise piiramist, ei leidnud  Cinamoni poolt viidatud rikkumised järelevalvemenetluses kinnitust ning tõendamist, mistõttu  lõpetab Konkurentsiamet viidatud episoodide puhul menetluse KonkS § 63<sup>4</sup> lg 1 punkti 1 alusel seoses konkurentsiseaduse rikkumise tunnuste puudumisega.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          89.6328125,
+          60.3814697265625
+        ],
+        [
+          547.43994140625,
+          60.3814697265625
+        ],
+        [
+          547.43994140625,
+          169.38671875
+        ],
+        [
+          89.6328125,
+          169.38671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        60.3814697265625,
+        547.43994140625,
+        169.38671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Episood, mis käsitleb filmi \"Tasujad\" vene keelde dubleeritud versiooni puhul eelise andmist Apollo Kinole, jõudis Konkurentsiamet seisukohale, et konkurentsi ei ole oluliselt kahjustatud,  mistõttu lõpetab Konkurentsiamet selles osas järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 2  alusel.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          88.46875,
+          184.5986328125
+        ],
+        [
+          547.3719482421875,
+          184.5986328125
+        ],
+        [
+          547.3719482421875,
+          238.031494140625
+        ],
+        [
+          88.46875,
+          238.031494140625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        184.5986328125,
+        547.3719482421875,
+        238.031494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vene keelde dubleeritud filmidele seatud tingimuste osas leidis Konkurentsiamet, et Hea Filmi  tegevuses võivad olla konkurentsiseaduse rikkumise tunnused, mistõttu esitas amet Hea Filmile  31.08.2020 esialgse seisukoha ja tegi ettekirjutuse hoiatuse. Kuna Hea Film on ametile  kinnitanud, et loobub keeleseadusest rangematest nõuetest, mis olid konkurentsiseadusega  vastuolus, siis ei ole ameti hinnangul põhjendatud selles osas järelevalvemenetlust jätkata. Kuna Hea Film on ametile kinnitanud, et teavitab kinosid koheselt kui linastub mõni suurfilm,  millele on saadaval ka venekeelde dubleeritud versioon, siis kontrollib Konkurentsiamet  täiendavalt, et Hea Film oma lubaduse täidab ning kinoturul filmide linastamistingimusi  lubatud viisil leevendab. Lähtuvalt eeltoodust lõpetab Konkurentsiamet vene keelde  dubleeritud filmide episoodis toodud rikkumise osas menetluse KonkS § 63<sup>4</sup> lg 1 punkti 3  alusel.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          89.6328125,
+          253.6314697265625
+        ],
+        [
+          547.4400024414062,
+          253.6314697265625
+        ],
+        [
+          547.4400024414062,
+          403.6514587402344
+        ],
+        [
+          89.6328125,
+          403.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        253.6314697265625,
+        547.4400024414062,
+        403.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 159,
+      "polygon": [
+        [
+          88.46875,
+          440.6641540527344
+        ],
+        [
+          209.53125,
+          440.6641540527344
+        ],
+        [
+          209.53125,
+          451.8349609375
+        ],
+        [
+          88.46875,
+          451.8349609375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        440.6641540527344,
+        209.53125,
+        451.8349609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Märt Ots peadirektor</p>",
+      "page": 159,
+      "polygon": [
+        [
+          88.759765625,
+          474.8583984375
+        ],
+        [
+          145.23599243164062,
+          474.8583984375
+        ],
+        [
+          145.23599243164062,
+          499.5314636230469
+        ],
+        [
+          88.759765625,
+          499.5314636230469
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        474.8583984375,
+        145.23599243164062,
+        499.5314636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ÄRAKIRI Dokument ei sisalda ettevõtjate ärisaladusi. /Kristiina Šesterikov/ 29.03.2021</p>",
+      "page": 159,
+      "polygon": [
+        [
+          90.21484375,
+          531.5947265625
+        ],
+        [
+          281.7783203125,
+          531.5947265625
+        ],
+        [
+          281.7783203125,
+          570.774169921875
+        ],
+        [
+          90.21484375,
+          570.774169921875
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        531.5947265625,
+        281.7783203125,
+        570.774169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 159,
+      "polygon": [
+        [
+          516.0,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          516.0,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        516.0,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/8/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,951 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          463.87890624999994,
+          45.6357421875
+        ],
+        [
+          504.62109374999994,
+          45.6357421875
+        ],
+        [
+          504.62109374999994,
+          55.59613037109375
+        ],
+        [
+          463.87890624999994,
+          55.59613037109375
+        ]
+      ],
+      "bbox": [
+        463.87890624999994,
+        45.6357421875,
+        504.62109374999994,
+        55.59613037109375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 156,
+      "polygon": [
+        [
+          20.953124999999996,
+          37.86533203125
+        ],
+        [
+          200.21875,
+          37.86533203125
+        ],
+        [
+          200.21875,
+          100.27529296875
+        ],
+        [
+          20.953124999999996,
+          100.27529296875
+        ]
+      ],
+      "bbox": [
+        20.953124999999996,
+        37.86533203125,
+        200.21875,
+        100.27529296875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADQAlUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACioxPEzFRKhYHBAYZFPLqBksAPc0ALRWZf8AiHSdMXdeX8MftuyT+VZf/CS6jqXGh6NLKh6XF03lR/UcHd+lAHT0Vy/9meLLzm61y1tQf4bO2wR+LM38qX/hF9VHzDxfq5f0Kwbfy8vP60AdPRXKm48UaHl7pIdXs16tAhjmUeuMkN+GKaviLVtd+Xw/YCKHo15fKQoPoEGC350AdZRXLjw3rc/z3PizUI5O4tI4lT8mRj+tH9heI7bm08TPMR0F7Arj/wAc20AdRRXMDVPEumf8hLSor6IdZrAkMP8Atmcn9at2Pi7Rb6TyluxDP3hnGx1+ooA3KKYssbjKSKw9jmh5Y4xl5FUe5xQA+ikVgyhlIKkZBHeloAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArH8Raz/AGPYDyk829uD5VtCOruf6Duak1rXbXRoAZN0tzJ8sNvHy8jegHp71n6Hol096db1thJqMgxHCvKWqf3V9T6mgCpYfD/TY7JGvDM2ov8APcXUEzRtJIeWOVIPWpLjwfolpA897f6gLdBljcajJsA98tiurrxT41eONX8M6jBp1sUlsL63YTRPFjHI+62evPpQB6hpei+HLCSNtOtLFZpE8xXjVS7r/ez1I9626+WvhN4g1rUvHukWds7yWttvUh2zsgJyV/DJr3z4i6xLoXgi+v4WdXQopaN9rKrOASD6gE0AdBfajZaZB599dwW0Wcb5pAg/M1Hp+r6bqyM+nX9tdqpwTBKr4/I18mX817qmuajcXZv9asYfuTSOFK4wfmXPTkio1LWU1lqWjR6jpUDzA/aFYEbT6DPJByPoBQB9iUV5boPxATTPhvqWuXMtxexWUzRQvO+ZJju2gn0ycfT3rzf/AIW38QtV1K1NvHDaQ3e42q+SSr47Z7/lQB9NUV4v4U8WfFDxJeLa3Gn2thbI2J7yWErtA64GeTXour+OPDXh6L/iY6zboyjoG3MT9BQB0dU7/StP1SPy7+yt7lPSaMN/OvLPFfxmtv8AhH7k6BFOl064t5Z0A3epUAk49zis34b/ABm02PSksfFWoXY1JpCTcTrlCCeMY5AxjtQB6Y3gXRQf9HF3aD+7a3TxKPwUgU3/AIQPRZARc/bLsEY23N3JKPyYkV0VtcwXlulxbSpLDINyuhyCKloA5Tw3PJot/J4ZvWOI8vYSN/y0h6hR7r0x6CurrM1vRYdZtVRp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Vs16y2y7ZlHqUHX8BQB1FFUdK1ix1q1+0WM6yoDhh0ZD6MOoPsatTTxW0LzTSLHEgyzscAD3NAElISAMk4HvXL/8JLf6yxj8N2QlhBx9uuQVh/4D3b6jIpP+ESutQIfW9cvbn1ht5DBGPb5MEj60AbF74g0jThm71CCP/gWf5VlnxrZz8aZY32oE9DBD8v4k9K0bDw1oumkNaaZaxyd5PKBc/VuprVoA5Zn8XarxHHZ6PAerOTPKR7fdCn65q9pfhex0+f7XK0t7fH71zctub8BwB+ArbooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOd1fw20lwdT0aUWWqKOoHyTD+649PftVO10XVPEMqXXiZVhgjP7vTon3ISP4nPf2FddRQA2ONIo1SNQqKMBQMAU6iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Telia Eesti AS Mustamäe tee 3 15033 Tallinn</p>",
+      "page": 156,
+      "polygon": [
+        [
+          89.923828125,
+          139.24151611328125
+        ],
+        [
+          166.57199096679688,
+          139.24151611328125
+        ],
+        [
+          166.57199096679688,
+          178.84149169921875
+        ],
+        [
+          89.923828125,
+          178.84149169921875
+        ]
+      ],
+      "bbox": [
+        89.923828125,
+        139.24151611328125,
+        166.57199096679688,
+        178.84149169921875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">OÜ SONICTEST Laeva küla, Mukdeni 60608 Tartu vald</p>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          193.232421875
+        ],
+        [
+          192.947998046875,
+          193.232421875
+        ],
+        [
+          192.947998046875,
+          234.04150390625
+        ],
+        [
+          89.6328125,
+          234.04150390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        193.232421875,
+        192.947998046875,
+        234.04150390625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">27.03.2023 nr 5-5/2023-007</p>",
+      "page": 156,
+      "polygon": [
+        [
+          381.4599914550781,
+          249.6715087890625
+        ],
+        [
+          531.7200317382812,
+          249.6715087890625
+        ],
+        [
+          531.7200317382812,
+          261.6715087890625
+        ],
+        [
+          381.4599914550781,
+          261.6715087890625
+        ]
+      ],
+      "bbox": [
+        381.4599914550781,
+        249.6715087890625,
+        531.7200317382812,
+        261.6715087890625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Saadetud e-posti aadressidele</i><i><a href=\"mailto:imre@sonictest.ee\"> imre@sonictest.ee,</a></i><i><a href=\"mailto:anette.soosaar@telia.ee\"> anette.soosaar@telia.ee,</a></i><i><a href=\"mailto:info@telia.ee\"> info@telia.ee</a></i></p>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          306.12408447265625
+        ],
+        [
+          483.18206787109375,
+          306.12408447265625
+        ],
+        [
+          483.18206787109375,
+          317.8056640625
+        ],
+        [
+          89.6328125,
+          317.8056640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        306.12408447265625,
+        483.18206787109375,
+        317.8056640625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Konkurentsiameti</b> <b>teade järelevalvemenetluse lõpetamisest</b></h1>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          341.6513671875
+        ],
+        [
+          390.9620056152344,
+          341.6513671875
+        ],
+        [
+          390.9620056152344,
+          354.67144775390625
+        ],
+        [
+          89.6328125,
+          354.67144775390625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        341.6513671875,
+        390.9620056152344,
+        354.67144775390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>1.</b> <b>Järelevalvemenetluse käigust</b></h3>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          384.0914611816406
+        ],
+        [
+          275.8828125,
+          384.0914611816406
+        ],
+        [
+          275.8828125,
+          396.0914611816406
+        ],
+        [
+          89.6328125,
+          396.0914611816406
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        384.0914611816406,
+        275.8828125,
+        396.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet alustas OÜ SONICTEST (Sonictest) pöördumise alusel järelevalvemenetlust  nr 5-1/22-0013. Pöördumise kohaselt tõstis Telia Eesti AS (Telia) alates 01.12.2022 hüppeliselt  lepingulist tasu mobiilimastide kasutamise eest. Konkurentsiamet uuris järelevalvemenetluse  raames, kas Telia tegevuses võib esineda konkurentsiseaduse (KonkS) § 16 rikkumine.</p>",
+      "page": 156,
+      "polygon": [
+        [
+          88.46875,
+          411.1328125
+        ],
+        [
+          547.2939453125,
+          411.1328125
+        ],
+        [
+          547.2939453125,
+          465.0914611816406
+        ],
+        [
+          88.46875,
+          465.0914611816406
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        411.1328125,
+        547.2939453125,
+        465.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>2.</b> <b>Faktilised asjaolud</b></h3>",
+      "page": 156,
+      "polygon": [
+        [
+          90.7439956665039,
+          480.69146728515625
+        ],
+        [
+          223.49999999999997,
+          480.69146728515625
+        ],
+        [
+          223.49999999999997,
+          492.69146728515625
+        ],
+        [
+          90.7439956665039,
+          492.69146728515625
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        480.69146728515625,
+        223.49999999999997,
+        492.69146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Telia selgitas Konkurentsiametile, et Telia ei ole vähemalt osade mastide piirkonnas ainus  kliendi seisukohalt asendatavat teenust pakkuv ettevõtja. Lisaks Telia mobiilimastidele on  võimalik kasutada ka teiste ettevõtjate sidemaste. Muuhulgas on võimalik teenuse osutamiseks  vajalikke antenne ja levi võimaldamiseks vajalikke sideseadmeid paigalda ka mujale kui  sidemastide otsa (näiteks korstnad, hoonete katused, tänavavalgustused jms).</p>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          508.2914733886719
+        ],
+        [
+          547.2859497070312,
+          508.2914733886719
+        ],
+        [
+          547.2859497070312,
+          576.408203125
+        ],
+        [
+          89.6328125,
+          576.408203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        508.2914733886719,
+        547.2859497070312,
+        576.408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hinnakirja tõusu kohta selgitas Telia, et Telia ei ole antenni paigalduskoha hinda muutnud alates 2002. aastast, ehk sellest hetkest, kui vastav teenus loodi. Uue hinnakirja kohaselt kehtestatud  antennikoha eest küsitav tasu muutus selliselt, et ligikaudu 20 aastat samasugusena püsinud  mastimeetri hind tõusis 0,96 euro pealt 2,00 eurole. Telia selgitas ametile muuhulgas ka seda,  et võrrelduna hinna kehtestamise ajaga on mastide ehitamise, haldamise ja välja rentimisega  seotud keskmised kulud märkimisväärselt tõusnud. Samuti on enam kui 120% osas tõusnud ka  tarbijahinnaindeks.</p>",
+      "page": 156,
+      "polygon": [
+        [
+          88.46875,
+          590.7978515625
+        ],
+        [
+          547.3720092773438,
+          590.7978515625
+        ],
+        [
+          547.3720092773438,
+          685.9214630126953
+        ],
+        [
+          88.46875,
+          685.9214630126953
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        590.7978515625,
+        547.3720092773438,
+        685.9214630126953
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[…]</p>",
+      "page": 156,
+      "polygon": [
+        [
+          90.505859375,
+          701.5414581298828
+        ],
+        [
+          110.73600006103516,
+          701.5414581298828
+        ],
+        [
+          110.73600006103516,
+          713.5414581298828
+        ],
+        [
+          90.505859375,
+          713.5414581298828
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        701.5414581298828,
+        110.73600006103516,
+        713.5414581298828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Sonictest on Konkurentsiametile selgitanud, et planeerib kevadel kolida […] piirkonnas Tele2  Eesti Aktsiaseltsi sidemasti. Sama plaanib Sonictest teha ka […] asuvate klientide osas, isegi  kui see peaks tähendama mõne kliendi kaotust. Mis puudutab […] asuvat sidemasti ning selles  piirkonnas internetiteenuse osutamist, siis alternatiivse lahenduse puudumise tõttu on Sonictest</p>",
+      "page": 156,
+      "polygon": [
+        [
+          89.6328125,
+          729.1414642333984
+        ],
+        [
+          547.416015625,
+          729.1414642333984
+        ],
+        [
+          547.416015625,
+          782.5414657592773
+        ],
+        [
+          89.6328125,
+          782.5414657592773
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        729.1414642333984,
+        547.416015625,
+        782.5414657592773
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          90.7439956665039,
+          794.7197265625
+        ],
+        [
+          447.8603515625,
+          794.7197265625
+        ],
+        [
+          447.8603515625,
+          805.5434112548828
+        ],
+        [
+          90.7439956665039,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        794.7197265625,
+        447.8603515625,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">tõenäoliselt sunnitud viidatud piirkonnas teenuse osutamise lõpetama. Muuhulgas tõi Sonictest  välja, et […] mast ei ole […] sidemastile alternatiiviks, kuna vahemaa kahe masti vahel on 9  km, mistõttu puudub suure tõenäosusega enamike klientide asukohast otsenähtavus.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          89.6328125,
+          46.4580078125
+        ],
+        [
+          547.3720092773438,
+          46.4580078125
+        ],
+        [
+          547.3720092773438,
+          86.56146240234375
+        ],
+        [
+          89.6328125,
+          86.56146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.4580078125,
+        547.3720092773438,
+        86.56146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>3.</b> <b>Konkurentsiameti hinnang</b></h3>",
+      "page": 158,
+      "polygon": [
+        [
+          90.21484375,
+          102.1614990234375
+        ],
+        [
+          264.3739929199219,
+          102.1614990234375
+        ],
+        [
+          264.3739929199219,
+          114.1614990234375
+        ],
+        [
+          90.21484375,
+          114.1614990234375
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        102.1614990234375,
+        264.3739929199219,
+        114.1614990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Järelevalvemenetluse raames selgus, et Sonictest rendib antennikohta kolmes Teliale kuuluvas  sidemastis kolmes erinevas piirkonnas, millest kahe sidemasti osas on Telia poolt pakutavale  teenusele olemas alternatiiv mõne teise teenusepakkuja näol. Sellest tulenevalt ei saa  Konkurentsiameti hinnangul Teliat pidada viidatud piirkondades turgu valitsevat seisundit  omavaks ettevõtjaks KonkS § 13 tähenduses. […] piirkonnas ei ole Sonictest leidnud Teliale  kuuluvale sidemastile alternatiivset lahendust mõne teise ettevõtja sidemasti näol.  Konkurentsiamet jätab alljärgnevatel põhjustel siiski lahtiseks, kas […] piirkond on käsitletav  eraldiseisva turuna ning kas Telia omaks sellel turgu valitsevat seisundit.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          89.6328125,
+          129.5068359375
+        ],
+        [
+          549.9719848632812,
+          129.5068359375
+        ],
+        [
+          549.9719848632812,
+          238.8681640625
+        ],
+        [
+          89.6328125,
+          238.8681640625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        129.5068359375,
+        549.9719848632812,
+        238.8681640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet on läbi vaadanud Sonictesti poolt ametile esitatud arved ning Telialt saadud  selgitused arvete kujunemise ja hinnakirja muutmise kohta. Konkurentsiamet ei pea antud  asjaoludel põhjendatuks täpsemalt uurida, kas ja kui siis mil määral on teenuse hinnatõus  põhjendatud seoses 20 aasta jooksul kasvanud kuludega.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          90.7439956665039,
+          253.99151611328125
+        ],
+        [
+          549.8920288085938,
+          253.99151611328125
+        ],
+        [
+          549.8920288085938,
+          307.52734375
+        ],
+        [
+          90.7439956665039,
+          307.52734375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        253.99151611328125,
+        549.8920288085938,
+        307.52734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnevast lähtuvalt saaks KonkS § 16 p 1 järgi turuvalitsejale keelatud hinnakujundus  teoreetiliselt esineda üksnes […] sidemasti osas, kus antennikoha rentimine moodustab  Sonictesti jaoks kõige väiksema osa Teliale tasutavast arvest. Samas […] masti osas ulatub Telia  hinnatõus mõnekümne euroni kuus, mida ei saa ilmselgelt pidada konkurentsi oluliselt  kahjustavaks isegi eeldusel, et Teliat võiks selle ühe masti osas eraldi turgu valitsevat seisundit  omavaks ettevõtjaks lugeda.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          90.7439956665039,
+          322.7392578125
+        ],
+        [
+          549.947998046875,
+          322.7392578125
+        ],
+        [
+          549.947998046875,
+          404.1435546875
+        ],
+        [
+          90.7439956665039,
+          404.1435546875
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        322.7392578125,
+        549.947998046875,
+        404.1435546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>4.</b> <b>Menetluse lõpetamine</b></h2>",
+      "page": 158,
+      "polygon": [
+        [
+          90.21484375,
+          419.35546875
+        ],
+        [
+          238.33999633789062,
+          419.35546875
+        ],
+        [
+          238.33999633789062,
+          431.6114501953125
+        ],
+        [
+          90.21484375,
+          431.6114501953125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        419.35546875,
+        238.33999633789062,
+        431.6114501953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eelnimetatud põhjustel leiab amet, et järelevalvemenetlust pole otstarbekas jätkata, kuna Telia  ei ole enda tegevusega konkurentsi oluliselt kahjustanud. Seetõttu lõpetab Konkurentsiamet  järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 2 alusel.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          88.46875,
+          447.2114562988281
+        ],
+        [
+          547.416015625,
+          447.2114562988281
+        ],
+        [
+          547.416015625,
+          486.81146240234375
+        ],
+        [
+          88.46875,
+          486.81146240234375
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        447.2114562988281,
+        547.416015625,
+        486.81146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 158,
+      "polygon": [
+        [
+          89.341796875,
+          513.3841247558594
+        ],
+        [
+          208.658203125,
+          513.3841247558594
+        ],
+        [
+          208.658203125,
+          524.4241333007812
+        ],
+        [
+          89.341796875,
+          524.4241333007812
+        ]
+      ],
+      "bbox": [
+        89.341796875,
+        513.3841247558594,
+        208.658203125,
+        524.4241333007812
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 158,
+      "polygon": [
+        [
+          88.46875,
+          547.62890625
+        ],
+        [
+          348.0260009765625,
+          547.62890625
+        ],
+        [
+          348.0260009765625,
+          572.1614685058594
+        ],
+        [
+          88.46875,
+          572.1614685058594
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        547.62890625,
+        348.0260009765625,
+        572.1614685058594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ÄRAKIRI Dokument ei sisalda ettevõtjate ärisaladusi. /Kristiina Arnus/ 20.04.2023</p>",
+      "page": 158,
+      "polygon": [
+        [
+          89.6328125,
+          617.1103515625
+        ],
+        [
+          281.69183349609375,
+          617.1103515625
+        ],
+        [
+          281.69183349609375,
+          655.3741455078125
+        ],
+        [
+          89.6328125,
+          655.3741455078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        617.1103515625,
+        281.69183349609375,
+        655.3741455078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          525.239990234375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.5434112548828
+        ],
+        [
+          525.239990234375,
+          805.5434112548828
+        ]
+      ],
+      "bbox": [
+        525.239990234375,
+        794.7197265625,
+        544.5166625976562,
+        805.5434112548828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6",
+        "2": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1384 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 162,
+      "polygon": [
+        [
+          31.08046875,
+          21.91337890625
+        ],
+        [
+          166.81015625,
+          21.91337890625
+        ],
+        [
+          166.81015625,
+          73.46943359375
+        ],
+        [
+          31.08046875,
+          73.46943359375
+        ]
+      ],
+      "bbox": [
+        31.08046875,
+        21.91337890625,
+        166.81015625,
+        73.46943359375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACsAcQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACijIHWigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACmTSpBC8rnCIMk+1Przb4zeKX0DwmLW2l2XV83kqVPKjr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+tWzpVgbmO5NpCZ4xhJNvKj2NAHnetaHeat4gvRBavHDCdwHRZa7DwjpslhpEbXNskNy4y+AN34nvXQUUAFFFFABRRRQB8j/ABe0+6m+I2pvHESpkODWl8DrG5g8eI8kZVdnWt74jf8AI533++avfCv/AJGxf92vPWMk6vs7dT6+fDlGOX/Wud35b2PeqKKK9A+QCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPnf4jf8AI533++avfCv/AJGxf92qPxG/5HO+/wB81e+Ff/I2L/u14cf95+Z+pVf+RJ/24vyPeqKKK9w/LQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD53+I3/ACOd9/vmr3wr/wCRsX/dqj8Rv+Rzvv8AfNXvhX/yNi/7teHH/efmfqVX/kSf9uL8j3qiiivcPy0KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA+d/iN/wAjnff75q98K/8AkbF/3ao/Eb/kc77/AHzV74V/8jYv+7Xhx/3n5n6lV/5En/bi/I96ooor3D8tCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPnf4jf8AI533++au/Cv/AJGxf92u91/QdNu9YmmntkeRjkkjrU3hnRNPsdVEtvboj46gV8nDMYPH+ys781j72pm1N5X7Dld+W34HcUUUV9YfBBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht </b>11. Dezember 2018</p>",
+      "page": 162,
+      "polygon": [
+        [
+          70.91999816894531,
+          123.33984375
+        ],
+        [
+          538.9609375,
+          123.33984375
+        ],
+        [
+          538.9609375,
+          136.39678955078125
+        ],
+        [
+          70.91999816894531,
+          136.39678955078125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        123.33984375,
+        538.9609375,
+        136.39678955078125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des Zusammenschlusses der</b> <b>CTS Eventim AG &amp; Co. KGaA mit der </b> <b>FKP</b> <b>SCORPIO Konzertproduktionen GmbH</b></h2>",
+      "page": 162,
+      "polygon": [
+        [
+          75.6640625,
+          176.787109375
+        ],
+        [
+          477.45037841796875,
+          176.787109375
+        ],
+        [
+          477.45037841796875,
+          202.13494873046875
+        ],
+        [
+          75.6640625,
+          202.13494873046875
+        ]
+      ],
+      "bbox": [
+        75.6640625,
+        176.787109375,
+        477.45037841796875,
+        202.13494873046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Live Entertainment, Ticketing</p>",
+      "page": 162,
+      "polygon": [
+        [
+          74.5,
+          219.7362060546875
+        ],
+        [
+          358.53125,
+          219.7362060546875
+        ],
+        [
+          358.53125,
+          232.57574462890625
+        ],
+        [
+          74.5,
+          232.57574462890625
+        ]
+      ],
+      "bbox": [
+        74.5,
+        219.7362060546875,
+        358.53125,
+        232.57574462890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B6-53/16</p>",
+      "page": 162,
+      "polygon": [
+        [
+          74.5,
+          249.5576171875
+        ],
+        [
+          261.12518310546875,
+          249.5576171875
+        ],
+        [
+          261.12518310546875,
+          263.300048828125
+        ],
+        [
+          74.5,
+          263.300048828125
+        ]
+      ],
+      "bbox": [
+        74.5,
+        249.5576171875,
+        261.12518310546875,
+        263.300048828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 3. Januar 2017</p>",
+      "page": 162,
+      "polygon": [
+        [
+          76.31997680664062,
+          280.8037109375
+        ],
+        [
+          289.9163818359375,
+          280.8037109375
+        ],
+        [
+          289.9163818359375,
+          293.9029541015625
+        ],
+        [
+          76.31997680664062,
+          293.9029541015625
+        ]
+      ],
+      "bbox": [
+        76.31997680664062,
+        280.8037109375,
+        289.9163818359375,
+        293.9029541015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat die beabsichtigte Erhöhung der Anteile an der FKP SCORPIO Konzertproduktionen GmbH, Hamburg (\"FKP\"), durch CTS EVENTIM AG &amp; Co. KGaA, Bremen (\"CTS\") freigegeben. CTS bezeichnet sich als Europas führendes Ticketing- und Live-Entertainment-Unternehmen. Im Geschäftsfeld Live Entertainment ist CTS in Deutschland über diverse Tochtergesellschaften in der Planung, Organisation und Durchführung von Festivals, Tourneen  und sonstigen Veranstaltungen tätig. Hierzu zählen unter anderem die Musikfestivals \"Rock am  Ring\" und \"Rock im Park\" mit bis zu 90.000 Besuchern. CTS ist außerdem Betreiber der Kölner  Lanxess Arena und anderer Veranstaltungsstätten. Zum Geschäftsfeld Ticketing gehört der Betrieb eines Ticketsystems, bestehend aus einer Datenbank und daran angeschlossenen konzernfremden stationären Vorverkaufsstellen sowie CTS-eigenen Online-Shops und Call-Centern.  CTS bietet Veranstaltern den Vertrieb von Tickets über dieses System an und ist hiermit in  Deutschland Marktführer. Weiterhin ist CTS gegenüber Veranstaltern auch Anbieter diverser Ticket-Software-Produkte.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          70.88689422607422,
+          338.05572509765625
+        ],
+        [
+          541.599365234375,
+          338.05572509765625
+        ],
+        [
+          541.599365234375,
+          576.6852722167969
+        ],
+        [
+          70.88689422607422,
+          576.6852722167969
+        ]
+      ],
+      "bbox": [
+        70.88689422607422,
+        338.05572509765625,
+        541.599365234375,
+        576.6852722167969
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Zielunternehmen FKP ist ebenfalls als Veranstalter von großen Rock/Pop-Festivals (\"Hurricane\", \"Southside\") und -Tourneen tätig. Bereits vor dem aktuellen Zusammenschlussvorhaben  bestand seitens CTS eine Minderheitsbeteiligung an FKP.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          70.89796447753906,
+          596.6014556884766
+        ],
+        [
+          541.5728759765625,
+          596.6014556884766
+        ],
+        [
+          541.5728759765625,
+          645.8896484375
+        ],
+        [
+          70.89796447753906,
+          645.8896484375
+        ]
+      ],
+      "bbox": [
+        70.89796447753906,
+        596.6014556884766,
+        541.5728759765625,
+        645.8896484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Das Vorhaben wurde vertieft geprüft und lässt im Ergebnis keine erhebliche Behinderung wirksamen Wettbewerbs erwarten. Betroffen sind zunächst verschiedene Veranstaltungsmärkte. Die  Veranstaltungsorganisation und -durchführung im Musikbereich erfolgt regelmäßig in mehreren  Stufen unter Mitwirkung diverser Akteure. Typischerweise weist eine Veranstaltung dabei folgende Wertschöpfungskette auf: Der Manager eines Künstlers vertritt dessen wirtschaftliche Belange und beauftragt einen Agenten zur Vermarktung des Künstlers für Live-Auftritte. Der Agent</p>",
+      "page": 162,
+      "polygon": [
+        [
+          69.84375,
+          663.568359375
+        ],
+        [
+          541.6170043945312,
+          663.568359375
+        ],
+        [
+          541.6170043945312,
+          771.4087905883789
+        ],
+        [
+          69.84375,
+          771.4087905883789
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        663.568359375,
+        541.6170043945312,
+        771.4087905883789
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          798.3520050048828
+        ],
+        [
+          300.328125,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.5777587890625,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vermarktet den Künstler bei einem Einzelkonzert an einen Veranstalter, der das Konzert vor Ort organisiert, oder bei mehreren Auftritten an einen Tourneeveranstalter, der in Deutschland üblicherweise örtliche Veranstalter zur Durchführung der einzelnen Tournee-Konzerte einschaltet.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          70.91999816894531,
+          123.7509765625
+        ],
+        [
+          538.9609375,
+          123.7509765625
+        ],
+        [
+          538.9609375,
+          172.80712890625
+        ],
+        [
+          70.91999816894531,
+          172.80712890625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        123.7509765625,
+        538.9609375,
+        172.80712890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die am Zusammenschlussvorhaben beteiligten Unternehmen sind zunächst beide als Tourneeveranstalter auf dem nationalen Markt für Rock/Pop-Tourneekonzerte tätig. CTS war in der Vergangenheit auf diesem Markt insbesondere über die Tochtergesellschaft Marek Lieberberg Konzertagentur stark vertreten. Deren Geschäftsführer Marek Lieberberg ist jedoch zu Beginn des  Jahres 2016 zur neu in den Markt eingetretenen deutschen Tochtergesellschaft des US-Konzerns  Live Nation Entertainment Inc. gewechselt. In der Folge ist die Bedeutung von CTS auf diesem  Markt gesunken. FKP ist zwar ebenfalls auf diesem Markt tätig, besitzt jedoch keine hohen Marktanteile. Der Zusammenschluss lässt insoweit daher keine Entstehung oder Verstärkung einer  marktbeherrschenden Stellung der Beteiligten oder eine erhebliche Behinderung wesentlichen  Wettbewerbs erwarten.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          69.84375,
+          192.72320556640625
+        ],
+        [
+          541.6192626953125,
+          192.72320556640625
+        ],
+        [
+          541.6192626953125,
+          374.4857482910156
+        ],
+        [
+          69.84375,
+          374.4857482910156
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        192.72320556640625,
+        541.6192626953125,
+        374.4857482910156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vom Zusammenschluss betroffen sind darüber hinaus die regionalen Märkte für Musikfestivals.  Sowohl CTS als auch FKP sind in erheblichem Umfang im Bereich der Musikfestivals tätig. Nach  den Ermittlungsergebnissen zu Besucherströmen und Anreisewegen der Festivals waren vier  Markträume abzugrenzen, die im Wesentlichen Norddeutschland, Westdeutschland, Süddeutschland und Ostdeutschland abbilden.</p>",
+      "page": 134,
+      "polygon": [
+        [
+          69.84375,
+          390.9873046875
+        ],
+        [
+          541.637939453125,
+          390.9873046875
+        ],
+        [
+          541.637939453125,
+          481.4441833496094
+        ],
+        [
+          69.84375,
+          481.4441833496094
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        390.9873046875,
+        541.637939453125,
+        481.4441833496094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eine erhebliche Behinderung wesentlichen Wettbewerbs war auch auf diesen Märkten nicht zu  erwarten, weil die tatsächlichen Einzugsgebiete der von den Beteiligten veranstalteten Festivals  sich nur begrenzt überschneiden. Zudem besteht Substitutionswettbewerb durch andere Musikveranstaltungen. Schließlich existieren insgesamt relativ niedrige Marktzutrittsschranken. So sind  in den letzten Jahren mehrere neue Festivals erfolgreich in die verschiedenen räumlichen Märkte  eingetreten (unter anderem die Festivals \"Parookaville\" in Weeze und \"Lollapalooza\" in Berlin).</p>",
+      "page": 134,
+      "polygon": [
+        [
+          69.84375,
+          500.3486328125
+        ],
+        [
+          541.6292724609375,
+          500.3486328125
+        ],
+        [
+          541.6292724609375,
+          607.1787567138672
+        ],
+        [
+          69.84375,
+          607.1787567138672
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        500.3486328125,
+        541.6292724609375,
+        607.1787567138672
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Aufgrund der Tätigkeit von CTS als bedeutender Ticketsystemdienstleister hat das Zusammenschlussvorhaben zudem eine vertikale Dimension, da Tickets für die Veranstaltungen von FKP  über das Ticketsystem von CTS verkauft werden können. Die Beschlussabteilung hat sich in diesem Fall vertieft mit den Eigenschaften eines Ticketsystems beschäftigt, das wesentliche Merkmale eines sogenannten zweiseitigen Marktes aufweist. Hierbei wurden auf der Grundlage des</p>",
+      "page": 134,
+      "polygon": [
+        [
+          70.92227172851562,
+          627.2163543701172
+        ],
+        [
+          541.609375,
+          627.2163543701172
+        ],
+        [
+          541.609375,
+          714.1376953125
+        ],
+        [
+          70.92227172851562,
+          714.1376953125
+        ]
+      ],
+      "bbox": [
+        70.92227172851562,
+        627.2163543701172,
+        541.609375,
+        714.1376953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 134,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.5777587890625,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">mit dem Arbeitspapier zur Marktmacht von Plattformen und Netzwerken<a href=\"#page-2-0\">1</a> entwickelten Prüfkonzepts die in dieser Konstellation auftretenden Fragen der Marktabgrenzung und Marktmacht intensiv geprüft.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          70.91763305664062,
+          122.9287109375
+        ],
+        [
+          538.9609375,
+          122.9287109375
+        ],
+        [
+          538.9609375,
+          172.80712890625
+        ],
+        [
+          70.91763305664062,
+          172.80712890625
+        ]
+      ],
+      "bbox": [
+        70.91763305664062,
+        122.9287109375,
+        538.9609375,
+        172.80712890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Veranstalter im Bereich des Live Entertainment können grundsätzlich verschiedene Dienstleistungen für den Ticketverkauf nutzen. Eine bedeutende Möglichkeit ist dabei die Nutzung eines  Ticketsystems. Dabei handelt es sich um eine Datenbank, in die Veranstaltungen eingestellt werden können. An diese Datenbank sind ein Netz von externen stationären und/oder Online-Vorverkaufsstellen sowie teilweise Call Center angeschlossen, in denen die Buchung der Tickets für  die Endkunden erfolgt. Stationären Vorverkaufsstellen kommt im Ticketverkauf trotz des allgemeinen Trends zum Online-Shopping weiterhin insgesamt eine hohe Bedeutung zu.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          67.515625,
+          189.943359375
+        ],
+        [
+          541.592529296875,
+          189.943359375
+        ],
+        [
+          541.592529296875,
+          317.6187744140625
+        ],
+        [
+          67.515625,
+          317.6187744140625
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        189.943359375,
+        541.592529296875,
+        317.6187744140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ein Ticketsystem, wie das hier maßgebliche von CTS, bedient zwei unterschiedliche Nutzergruppen: Auf der einen Seite stehen Veranstalter, deren Veranstaltungen in die Datenbank eingestellt  werden, und auf der anderen Seite stehen Vorverkaufsstellen, die über die Datenbank auf Tickets  für dort eingestellten Veranstaltungen zugreifen können. Das Ticketsystem ermöglicht damit als  Intermediär die direkte Interaktion bzw. Transaktion zweier Nutzerseiten. Zwischen beiden Seiten  bestehen indirekte Netzwerkeffekte, das heißt der Nutzen einer Gruppe steigt, wenn die jeweils  andere größer wird. Mit diesen Eigenschaften weisen Ticketsysteme typische Merkmale eines  zweiseitigen Marktes bzw. einer Plattform im ökonomischen Sinne auf.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          69.84375,
+          336.306640625
+        ],
+        [
+          541.6311645507812,
+          336.306640625
+        ],
+        [
+          541.6311645507812,
+          481.38604736328125
+        ],
+        [
+          69.84375,
+          481.38604736328125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        336.306640625,
+        541.6311645507812,
+        481.38604736328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Diese Grundkonstruktion einer Transaktionsplattform ließe nach Auffassung der Beschlussabteilung die Möglichkeit zu, die Tätigkeit des Ticketsystems im Rahmen der sachlichen Marktabgrenzung als ein einheitliches Plattformprodukt anzusehen und beide Marktseiten zusammenfassend  als Marktgegenseite zu betrachten. Dies würde somit zur Abgrenzung eines einheitlichen Marktes  für Ticketsystemdienstleistungen sowohl gegenüber Vorverkaufsstellen als auch Veranstaltern  führen.</p>",
+      "page": 159,
+      "polygon": [
+        [
+          69.84375,
+          501.1708984375
+        ],
+        [
+          541.6190185546875,
+          501.1708984375
+        ],
+        [
+          541.6190185546875,
+          607.1205902099609
+        ],
+        [
+          69.84375,
+          607.1205902099609
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        501.1708984375,
+        541.6190185546875,
+        607.1205902099609
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bei Plattformen, die Transaktionen ermöglichen und eine Buchungs- oder Kaufmöglichkeit über  die Plattform anbieten, ist jedoch die Abgrenzung zu einer Handelstätigkeit insbesondere in der  Eigenschaft eines Handelsvertreters erforderlich. Die Einordnung der Plattformtätigkeit als Handelsvertretertätigkeit spräche gegen eine einheitliche Marktabgrenzung, da die Marktseiten der  Plattform dann in einer Vertikalkette stünden und getrennte Marktstufen bildeten. Aus Sicht des  Bundeskartellamts sind dabei die rechtliche und funktionale Beteiligung der Plattform an der</p>",
+      "page": 159,
+      "polygon": [
+        [
+          70.91757202148438,
+          627.1581573486328
+        ],
+        [
+          541.62451171875,
+          627.1581573486328
+        ],
+        [
+          541.62451171875,
+          733.4609375
+        ],
+        [
+          70.91757202148438,
+          733.4609375
+        ]
+      ],
+      "bbox": [
+        70.91757202148438,
+        627.1581573486328,
+        541.62451171875,
+        733.4609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 159,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          788.1416015625
+        ],
+        [
+          307.5777587890625,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.5777587890625,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-2-0\"></span><sup> 1</sup> <a href=\"https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Berichte/Think-Tank-Bericht.pdf\">https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Berichte/Think-Tank-Bericht.pdf</a></p>",
+      "page": 159,
+      "polygon": [
+        [
+          69.84375,
+          762.0101318359375
+        ],
+        [
+          493.56249999999994,
+          762.0101318359375
+        ],
+        [
+          493.56249999999994,
+          785.5120048522949
+        ],
+        [
+          69.84375,
+          785.5120048522949
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        762.0101318359375,
+        493.56249999999994,
+        785.5120048522949
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Transaktion und die Qualifizierung der Tätigkeit als Verkaufstätigkeit für die Anbieter des Transaktionsguts maßgebliche Ausgangspunkte der Prüfung. Entscheidend sind dabei die jeweiligen  Umstände des Einzelfalls. Eine Handelsvertreterfunktion ist danach jedenfalls dann anzunehmen,  wenn die Plattform rechtlich mit Vertretungsmacht oder als Vertragspartner für Rechnung des  Anbieters den Buchungs- oder Kaufvertrag verbindlich schließt und daher eine Vertriebsfunktion  im Interesse der Anbieter übernimmt.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          68.6796875,
+          122.1064453125
+        ],
+        [
+          541.6136474609375,
+          122.1064453125
+        ],
+        [
+          541.6136474609375,
+          229.67413330078125
+        ],
+        [
+          68.6796875,
+          229.67413330078125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        122.1064453125,
+        541.6136474609375,
+        229.67413330078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auf dieser Grundlage ist im Fall des CTS-Ticketsystems sowie bei einigen anderen Ticketsystemen eine Verkaufstätigkeit für Rechnung der Veranstalter anzunehmen, da sie vertraglich mit  dem Vertrieb der Tickets über die ans System angeschlossenen, externen Vorverkaufsstellen  betraut sind. Dies legt nahe, den Markt nicht einheitlich, sondern entlang der Nutzergruppe der Veranstalter einerseits und entlang der Nutzergruppe der Vorverkaufsstellen andererseits abzugrenzen, so dass damit zwei getrennte sachliche Märkte entstehen. Vom Zusammenschlussvorhaben betroffen ist damit zunächst der Markt für Ticketsystemdienstleistungen gegenüber Veranstaltern, sowie weiterhin der diesem nachgelagerte Markt für Ticketsystemdienstleistungen gegenüber Vorverkaufsstellen. Beide Märkte sind deutschlandweit abzugrenzen.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          69.84375,
+          249.146484375
+        ],
+        [
+          541.63134765625,
+          249.146484375
+        ],
+        [
+          541.63134765625,
+          412.3970947265625
+        ],
+        [
+          69.84375,
+          412.3970947265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        249.146484375,
+        541.63134765625,
+        412.3970947265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eine Marktbeherrschung von CTS auf dem nationalen Markt für Ticketsystemdienstleistungen  gegenüber Veranstaltern ist nach den Ermittlungen naheliegend. CTS erzielt nach allen Berechnungsmöglichkeiten, die bei Plattformmärkten in Betracht zu ziehen sind, hohe Marktanteile. Dabei hat das Bundeskartellamt neben dem umsatzbezogenen Marktanteil insbesondere auch den Anteil am wertmäßigen Transaktionsvolumen, d.h. dem Wert der über Ticketsysteme vermittelten  Tickets, maßgeblich berücksichtigt. Dieser Wert bildet insbesondere auch die indirekten Netzwerkeffekte ab und bezieht beide Marktseiten in die Betrachtung ein. Weiterhin relevant, da entscheidend für das Vorliegen der indirekten Netzwerkeffekte ist, dass CTS sowohl vergleichsweise viele  und attraktive stationäre Vorverkaufsstellen an sein System angeschlossen hat, als auch die mit  Abstand meisten buchbaren und überdurchschnittlich teure Veranstaltungen bietet. CTS ist zudem wie oben dargestellt selbst als Veranstalter tätig, was ebenfalls zum Angebot an buchbaren  Veranstaltungen beiträgt und Vorverkaufsstellen an das System bindet.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          68.6796875,
+          429.22265625
+        ],
+        [
+          541.65576171875,
+          429.22265625
+        ],
+        [
+          541.65576171875,
+          652.1085662841797
+        ],
+        [
+          68.6796875,
+          652.1085662841797
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        429.22265625,
+        541.65576171875,
+        652.1085662841797
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">CTS ist darüber hinaus mit dem Online-Shop eventim.de selbst als Verkaufsstelle tätig. Dieser  Online-Shop hat im Vergleich mit anderen Online-Shops die mit Abstand höchsten Nutzerzahlen,  was die Attraktivität des Ticketsystems für die Veranstalterseite weiter erhöht. CTS verfügt durch  den hoch frequentierten Online-Shop gegenüber seinen Wettbewerbern auch über einen wettbewerblich relevanten Vorteil in Form eines umfangreicheren Datenbestandes, der unter anderem</p>",
+      "page": 128,
+      "polygon": [
+        [
+          70.93122100830078,
+          670.146484375
+        ],
+        [
+          541.6458740234375,
+          670.146484375
+        ],
+        [
+          541.6458740234375,
+          758.8873672485352
+        ],
+        [
+          70.93122100830078,
+          758.8873672485352
+        ]
+      ],
+      "bbox": [
+        70.93122100830078,
+        670.146484375,
+        541.6458740234375,
+        758.8873672485352
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 128,
+      "polygon": [
+        [
+          302.0400085449219,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          302.0400085449219,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        302.0400085449219,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">die direkte Ansprache über Mailings wie den sogenannten \"Ticketalarm\" ermöglicht. Veranstalterkunden von CTS sind größtenteils nicht gewillt, auf alternative Systeme zu wechseln, da mit  diesen keine vergleichbare Reichweite und Kundenansprache erzielt werden kann. Auch ein teilweiser Wechsel der Veranstalterkunden zu anderen Ticketsystemen findet nur sehr begrenzt statt, da der Großteil der Veranstalter generell nur jeweils ein Ticketsystem beauftragt (\"single  homing\").</p>",
+      "page": 142,
+      "polygon": [
+        [
+          70.91999816894531,
+          122.1064453125
+        ],
+        [
+          541.6422729492188,
+          122.1064453125
+        ],
+        [
+          541.6422729492188,
+          229.67413330078125
+        ],
+        [
+          70.91999816894531,
+          229.67413330078125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        122.1064453125,
+        541.6422729492188,
+        229.67413330078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch auf dem Markt für Ticketsystemdienstleistungen gegenüber Vorverkaufsstellen ist eine  Marktbeherrschung von CTS naheliegend. Zur Ausübung ihrer Tätigkeit ist für Vorverkaufsstellen  der Anschluss an das CTS-System unerlässlich, da sie dem Endkunden weite Teile des Gesamtangebots an Veranstaltungen nur hierüber anbieten können. Die Nutzung weiterer Ticketsysteme findet zwar statt, ist jedoch eher komplementärer Natur und oftmals nur den deutlich geringeren  Anschlusskosten oder der Unentgeltlichkeit des Anschlusses an Wettbewerbssysteme geschuldet (sog. \"sequentielles multi homing\").</p>",
+      "page": 142,
+      "polygon": [
+        [
+          70.90892028808594,
+          248.32421875
+        ],
+        [
+          541.6135864257812,
+          248.32421875
+        ],
+        [
+          541.6135864257812,
+          374.4857482910156
+        ],
+        [
+          70.90892028808594,
+          374.4857482910156
+        ]
+      ],
+      "bbox": [
+        70.90892028808594,
+        248.32421875,
+        541.6135864257812,
+        374.4857482910156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Zusammenschlussvorhaben führt jedoch nicht zur Verstärkung der marktbeherrschenden  Stellung von CTS auf den Märkten für Ticketsystemdienstleistungen gegenüber Veranstaltern  und Vorverkaufsstellen. Es ist nicht zu erwarten, dass die Möglichkeit von CTS, den Ticketvertrieb  für FKP-Veranstaltungen auf das eigene System zu lenken und Wettbewerbern den Zugang zu  Ticketkontingenten dieser Veranstaltungen abzuschneiden (\"input foreclosure\") zu einer relevanten Abschottung führt.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          68.6796875,
+          393.4541015625
+        ],
+        [
+          541.6004028320312,
+          393.4541015625
+        ],
+        [
+          541.6004028320312,
+          501.1708984375
+        ],
+        [
+          68.6796875,
+          501.1708984375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        393.4541015625,
+        541.6004028320312,
+        501.1708984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">CTS erhält durch den Erwerb der Alleinkontrolle über FKP zwar die alleinige Entscheidungsbefugnis über das Ticketing bei den FKP-Veranstaltungen. Eine Verlagerung des Ticketvertriebs  auf das CTS-Ticketsystem kommt jedoch nur für einen sehr kleinen Anteil dieser Tickets in Betracht, der bislang über dritte Systeme verkauft wurde. Der Großteil der FKP-Tickets wurde bereits bislang über das CTS-System verkauft. Diese bestehende Lieferbeziehung wird durch das  Zusammenschlussvorhaben nicht zusätzlich abgesichert. Aufgrund der bereits bestehenden Minderheitsbeteiligung ist vielmehr anzunehmen, dass dieses Ticketkontingent auch ohne Realisierung des Zusammenschlussvorhabens im CTS-System verbleiben würde, da die diesbezüglichen Interessen von CTS als Minderheitsgesellschafter bereits in der gegenwärtigen Konstellation berücksichtigt werden dürften.</p>",
+      "page": 142,
+      "polygon": [
+        [
+          67.515625,
+          520.2579345703125
+        ],
+        [
+          541.5739135742188,
+          520.2579345703125
+        ],
+        [
+          541.5739135742188,
+          702.6259765625
+        ],
+        [
+          67.515625,
+          702.6259765625
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        520.2579345703125,
+        541.5739135742188,
+        702.6259765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Ein weiterer Teil der FKP-Tickets wird im Eigenvertrieb direkt an den Endkunden verkauft. Es bestünde zwar die Möglichkeit, dass CTS nach dem Zusammenschluss versuchen könnte, auch  diese Ticketmengen über das Ticketsystem zu vertreiben, um zusätzliche Einnahmen zu erzielen</p>",
+      "page": 142,
+      "polygon": [
+        [
+          70.86475372314453,
+          721.9365386962891
+        ],
+        [
+          541.5010986328125,
+          721.9365386962891
+        ],
+        [
+          541.5010986328125,
+          770.8879165649414
+        ],
+        [
+          70.86475372314453,
+          770.8879165649414
+        ]
+      ],
+      "bbox": [
+        70.86475372314453,
+        721.9365386962891,
+        541.5010986328125,
+        770.8879165649414
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 142,
+      "polygon": [
+        [
+          302.0400085449219,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          302.0400085449219,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        302.0400085449219,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">und/oder weitere Kunden für den eigenen Online-Shop zu gewinnen. Von dem Eigenvertrieb sind  jedoch insbesondere Festivaltickets betroffen, die sich aufgrund der Markenbekanntheit auch  über die Festival-eigenen Websites verkaufen lassen, was auch der bisherigen Praxis sowohl  von FKP als auch CTS entspricht. Darüber hinaus ist zu berücksichtigen, dass der Eigenvertriebsanteil der FKP-Veranstaltungen auch bisher den Wettbewerbern von CTS auf dem Markt  für Ticketsystemdienstleistungen nicht zur Verfügung stand.</p>",
+      "page": 30,
+      "polygon": [
+        [
+          69.84375,
+          121.2841796875
+        ],
+        [
+          541.5916748046875,
+          121.2841796875
+        ],
+        [
+          541.5916748046875,
+          229.67413330078125
+        ],
+        [
+          69.84375,
+          229.67413330078125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        121.2841796875,
+        541.5916748046875,
+        229.67413330078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/1",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 30,
+      "polygon": [
+        [
+          302.0400085449219,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          302.0400085449219,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        302.0400085449219,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,1686 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 198,
+      "polygon": [
+        [
+          514.806640625,
+          16.0341796875
+        ],
+        [
+          575.1553955078125,
+          16.0341796875
+        ],
+        [
+          575.1553955078125,
+          26.8114013671875
+        ],
+        [
+          514.806640625,
+          26.8114013671875
+        ]
+      ],
+      "bbox": [
+        514.806640625,
+        16.0341796875,
+        575.1553955078125,
+        26.8114013671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 198,
+      "polygon": [
+        [
+          223.67460937499996,
+          26.68251953125
+        ],
+        [
+          386.294140625,
+          26.68251953125
+        ],
+        [
+          386.294140625,
+          99.94638671875
+        ],
+        [
+          223.67460937499996,
+          99.94638671875
+        ]
+      ],
+      "bbox": [
+        223.67460937499996,
+        26.68251953125,
+        386.294140625,
+        99.94638671875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Frank Elderson</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.91999816894531,
+          120.873046875
+        ],
+        [
+          131.00390625,
+          120.873046875
+        ],
+        [
+          131.00390625,
+          130.38861083984375
+        ],
+        [
+          70.91999816894531,
+          130.38861083984375
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        120.873046875,
+        131.00390625,
+        130.38861083984375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Member of the Executive Board</p>",
+      "page": 198,
+      "polygon": [
+        [
+          69.552734375,
+          134.4404296875
+        ],
+        [
+          191.197265625,
+          134.4404296875
+        ],
+        [
+          191.197265625,
+          145.0260009765625
+        ],
+        [
+          69.552734375,
+          145.0260009765625
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        134.4404296875,
+        191.197265625,
+        145.0260009765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>[COURTESY TRANSLATION]</b></p>",
+      "page": 198,
+      "polygon": [
+        [
+          398.69140625,
+          149.65234375
+        ],
+        [
+          538.5202026367188,
+          149.65234375
+        ],
+        [
+          538.5202026367188,
+          160.61517333984375
+        ],
+        [
+          398.69140625,
+          160.61517333984375
+        ]
+      ],
+      "bbox": [
+        398.69140625,
+        149.65234375,
+        538.5202026367188,
+        160.61517333984375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mr Richard Raši Speaker of the National Council of the Slovak Republic National Council of the Slovak Republic Námestie Alexandra Dubčeka 1 812 80 Bratislava 1  SLOVAKIA</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.42578125,
+          165.6865234375
+        ],
+        [
+          313.8125305175781,
+          165.6865234375
+        ],
+        [
+          313.8125305175781,
+          255.87786865234375
+        ],
+        [
+          70.42578125,
+          255.87786865234375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        165.6865234375,
+        313.8125305175781,
+        255.87786865234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Frankfurt am Main, 10 February 2026</p>",
+      "page": 198,
+      "polygon": [
+        [
+          372.83660888671875,
+          276.6923828125
+        ],
+        [
+          538.4545288085938,
+          276.6923828125
+        ],
+        [
+          538.4545288085938,
+          287.90924072265625
+        ],
+        [
+          372.83660888671875,
+          287.90924072265625
+        ]
+      ],
+      "bbox": [
+        372.83660888671875,
+        276.6923828125,
+        538.4545288085938,
+        287.90924072265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Contact person: <a href=\"mailto:mikulas.prokop@ecb.europa.eu\">mikulas.prokop@ecb.europa.eu</a></p>",
+      "page": 198,
+      "polygon": [
+        [
+          323.88323974609375,
+          293.9051513671875
+        ],
+        [
+          540.125,
+          293.9051513671875
+        ],
+        [
+          540.125,
+          303.8651123046875
+        ],
+        [
+          323.88323974609375,
+          303.8651123046875
+        ]
+      ],
+      "bbox": [
+        323.88323974609375,
+        293.9051513671875,
+        540.125,
+        303.8651123046875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Re: Amendments to the Law on restrictions on cash payments </b></p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.9180908203125,
+          328.90625
+        ],
+        [
+          370.1712341308594,
+          328.90625
+        ],
+        [
+          370.1712341308594,
+          339.29302978515625
+        ],
+        [
+          70.9180908203125,
+          339.29302978515625
+        ]
+      ],
+      "bbox": [
+        70.9180908203125,
+        328.90625,
+        370.1712341308594,
+        339.29302978515625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dear Mr Raši,</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.716796875,
+          365.084716796875
+        ],
+        [
+          135.36917114257812,
+          365.084716796875
+        ],
+        [
+          135.36917114257812,
+          375.0447082519531
+        ],
+        [
+          70.716796875,
+          375.0447082519531
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        365.084716796875,
+        135.36917114257812,
+        375.0447082519531
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">It has come to the attention of the European Central Bank (ECB) that on 3 December 2025 the National  Council of the Slovak Republic adopted a Law on the registration of sales and on amendments to certain  laws<a href=\"#page-0-0\">1</a> (hereinafter the 'Law').</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.91802978515625,
+          383.998046875
+        ],
+        [
+          541.329833984375,
+          383.998046875
+        ],
+        [
+          541.329833984375,
+          428.8114318847656
+        ],
+        [
+          70.91802978515625,
+          428.8114318847656
+        ]
+      ],
+      "bbox": [
+        70.91802978515625,
+        383.998046875,
+        541.329833984375,
+        428.8114318847656
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Law amends, among others, the Law on restrictions on cash payments<a href=\"#page-0-1\">2</a> by introducing a prohibition of  (a) cash payments in excess of EUR 5 000 by or from legal persons or natural persons who are  entrepreneurs; and (b) cash payments in excess of EUR 15 000 between natural persons who are not  entrepreneurs.</p>",
+      "page": 198,
+      "polygon": [
+        [
+          69.84375,
+          436.623046875
+        ],
+        [
+          541.2959594726562,
+          436.623046875
+        ],
+        [
+          541.2959594726562,
+          499.736572265625
+        ],
+        [
+          69.84375,
+          499.736572265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        436.623046875,
+        541.2959594726562,
+        499.736572265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">On 26 September 2025 the ECB adopted an opinion on an earlier draft version of the Law, which concerned  the mandatory acceptance of cashless payments by sellers<a href=\"#page-0-2\">3.</a> The ECB understands that after the adoption  of that opinion, in the legislative process at the National Council of the Slovak Republic and following a  resolution of the Committee of the National Council of the Slovak Republic for Finance and Budget<a href=\"#page-0-3\">4,</a> the  Law was further amended to introduce also the amendments to the Law on restrictions on cash payments described above. Therefore, the ECB was not consulted on these amendments to the law on restrictions  on cash payments.</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.90325927734375,
+          509.81610107421875
+        ],
+        [
+          541.324951171875,
+          509.81610107421875
+        ],
+        [
+          541.324951171875,
+          621.7765808105469
+        ],
+        [
+          70.90325927734375,
+          621.7765808105469
+        ]
+      ],
+      "bbox": [
+        70.90325927734375,
+        509.81610107421875,
+        541.324951171875,
+        621.7765808105469
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/17",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 198,
+      "polygon": [
+        [
+          71.0078125,
+          755.2509765625
+        ],
+        [
+          105.9296875,
+          755.2509765625
+        ],
+        [
+          105.9296875,
+          764.2958984375
+        ],
+        [
+          71.0078125,
+          764.2958984375
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        755.2509765625,
+        105.9296875,
+        764.2958984375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/18",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 198,
+      "polygon": [
+        [
+          70.92851257324219,
+          766.7626953125
+        ],
+        [
+          486.30841064453125,
+          766.7626953125
+        ],
+        [
+          486.30841064453125,
+          806.7073707580566
+        ],
+        [
+          70.92851257324219,
+          806.7073707580566
+        ]
+      ],
+      "bbox": [
+        70.92851257324219,
+        766.7626953125,
+        486.30841064453125,
+        806.7073707580566
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/19",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 198,
+      "polygon": [
+        [
+          70.91999816894531,
+          758.4370956420898
+        ],
+        [
+          324.7734375,
+          758.4370956420898
+        ],
+        [
+          324.7734375,
+          785.263671875
+        ],
+        [
+          70.91999816894531,
+          785.263671875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        758.4370956420898,
+        324.7734375,
+        785.263671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/20",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sonnemannstrasse 20 60640 Frankfurt am Main E-mail: info@ecb.europa.eu</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.93705749511719,
+          773.751953125
+        ],
+        [
+          516.666015625,
+          773.751953125
+        ],
+        [
+          516.666015625,
+          791.841796875
+        ],
+        [
+          70.93705749511719,
+          791.841796875
+        ]
+      ],
+      "bbox": [
+        70.93705749511719,
+        773.751953125,
+        516.666015625,
+        791.841796875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 198,
+      "polygon": [
+        [
+          410.041015625,
+          774.57421875
+        ],
+        [
+          507.24023437499994,
+          774.57421875
+        ],
+        [
+          507.24023437499994,
+          791.01953125
+        ],
+        [
+          410.041015625,
+          791.01953125
+        ]
+      ],
+      "bbox": [
+        410.041015625,
+        774.57421875,
+        507.24023437499994,
+        791.01953125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/22",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 198,
+      "polygon": [
+        [
+          412.078125,
+          788.1416015625
+        ],
+        [
+          486.57812499999994,
+          788.1416015625
+        ],
+        [
+          486.57812499999994,
+          797.1865234375
+        ],
+        [
+          412.078125,
+          797.1865234375
+        ]
+      ],
+      "bbox": [
+        412.078125,
+        788.1416015625,
+        486.57812499999994,
+        797.1865234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/13",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span><sup>1 </sup>Zákon č. <i>384/2025 Z.z.</i> o evidencii tržieb a o zmene a doplnení niektorých zákonov.</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.91999816894531,
+          689.05859375
+        ],
+        [
+          422.96466064453125,
+          689.05859375
+        ],
+        [
+          422.96466064453125,
+          702.6120147705078
+        ],
+        [
+          70.91999816894531,
+          702.6120147705078
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        689.05859375,
+        422.96466064453125,
+        702.6120147705078
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/14",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-1\"></span><sup>2 </sup>Zákon č. <i>394/2012 Z.z.</i> o obmedzení platieb v hotovosti.</p>",
+      "page": 198,
+      "polygon": [
+        [
+          70.42578125,
+          703.8682250976562
+        ],
+        [
+          317.59783935546875,
+          703.8682250976562
+        ],
+        [
+          317.59783935546875,
+          715.45166015625
+        ],
+        [
+          70.42578125,
+          715.45166015625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        703.8682250976562,
+        317.59783935546875,
+        715.45166015625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/15",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-2\"></span><sup>3 </sup>See Opinion CON/2025/30. All ECB opinions are published on EUR-Lex.</p>",
+      "page": 198,
+      "polygon": [
+        [
+          69.84375,
+          716.5885696411133
+        ],
+        [
+          380.0111389160156,
+          716.5885696411133
+        ],
+        [
+          380.0111389160156,
+          728.1162109375
+        ],
+        [
+          69.84375,
+          728.1162109375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        716.5885696411133,
+        380.0111389160156,
+        728.1162109375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/16",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-3\"></span><sup>4 </sup>Uznesenie Výboru Národnej rady Slovenskej republiky pre financie a rozpočet z 19. novembra 2025, <i>Číslo: KNR</i><i>-</i><i>VFR</i><i>-6045/2025-5.</i></p>",
+      "page": 198,
+      "polygon": [
+        [
+          69.84375,
+          727.705078125
+        ],
+        [
+          540.125,
+          727.705078125
+        ],
+        [
+          540.125,
+          750.7329788208008
+        ],
+        [
+          69.84375,
+          750.7329788208008
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        727.705078125,
+        540.125,
+        750.7329788208008
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 256,
+      "polygon": [
+        [
+          515.09765625,
+          16.0341796875
+        ],
+        [
+          575.1553955078125,
+          16.0341796875
+        ],
+        [
+          575.1553955078125,
+          26.8114013671875
+        ],
+        [
+          515.09765625,
+          26.8114013671875
+        ]
+      ],
+      "bbox": [
+        515.09765625,
+        16.0341796875,
+        575.1553955078125,
+        26.8114013671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In accordance with Articles 127(4) and 282(5) of the Treaty on the Functioning of the European Union and  Article 2(1) of Council Decision 98/415/EC<a href=\"#page-1-0\">5</a> national authorities are required to consult the ECB on draft  legislative provisions concerning matters that fall within its fields of competence, including means of  payment.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          69.84375,
+          75.2373046875
+        ],
+        [
+          541.3048706054688,
+          75.2373046875
+        ],
+        [
+          541.3048706054688,
+          138.05450439453125
+        ],
+        [
+          69.84375,
+          138.05450439453125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        75.2373046875,
+        541.3048706054688,
+        138.05450439453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In addition, Article 80(1) of Regulation (EU) 2024/1624 of the European Parliament and of the Council<a href=\"#page-1-1\">6</a> sets  a cash payment and acceptance limit of EUR 10 000 for persons trading in goods or providing services.  Article 80(2) of the same Regulation allows Member States to adopt lower limits following consultation of  the ECB in accordance with Article 2(1) of Decision 98/415/EC<a href=\"#page-1-2\">7</a>.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.90130615234375,
+          145.541015625
+        ],
+        [
+          541.3284301757812,
+          145.541015625
+        ],
+        [
+          541.3284301757812,
+          208.9765625
+        ],
+        [
+          70.90130615234375,
+          208.9765625
+        ]
+      ],
+      "bbox": [
+        70.90130615234375,
+        145.541015625,
+        541.3284301757812,
+        208.9765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">While the ECB adopted an opinion on an earlier version of the Law, this does not release the Slovak  authorities from their duty to reconsult the ECB in accordance with the Treaty and Decision 98/415/EC. As  noted in the ECB Guide to consultation of the European Central Bank by national authorities regarding draft  legislative provisions<a href=\"#page-1-3\">8</a>, the obligation to consult the ECB on amendments to draft legislative provisions  which have already been submitted to the ECB for an opinion applies to substantive amendments which  affect the essence of the draft legislation. Where substantive new provisions are proposed after the ECB  opinion has been adopted, by analogy to the Court's case-law on the requirement to reconsult Union  institutions on amended draft legislation<a href=\"#page-1-4\">9,</a> the ECB should be reconsulted in relation to those amendments  in exceptional cases where the draft legislation has undergone substantial changes of a non-technical  nature as compared to the version on which the ECB has previously been consulted. The ECB considers  that the amendments to the Law on restrictions on cash payments represent substantial changes of a nontechnical nature compared to the version of the Law on which the ECB had previously been consulted,  which concerned the separate topic of the mandatory acceptance of cashless payments.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.91580200195312,
+          216.255859375
+        ],
+        [
+          541.3252563476562,
+          216.255859375
+        ],
+        [
+          541.3252563476562,
+          433.01971435546875
+        ],
+        [
+          70.91580200195312,
+          433.01971435546875
+        ]
+      ],
+      "bbox": [
+        70.91580200195312,
+        216.255859375,
+        541.3252563476562,
+        433.01971435546875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">While the ECB adopted an opinion in 2012 when the Law on restrictions on cash payments was adopted<a href=\"#page-1-5\">10,</a> and while said Law on restrictions on cash payments included the same limits as those re-introduced by  the Law at the time of adoption, this does not release the Slovak authorities from their duty to consult the  ECB in accordance with the Treaty and Decision 98/415/EC, in particular given the substantial development  in the jurisprudence on the restrictions on cash payments following the decision of the Court of Justice of  the European Union in 2021 in the <i>Hessischer Rundfunk</i> case<a href=\"#page-1-6\">11</a>. In this respect, the ECB would like to draw</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.9075927734375,
+          442.62286376953125
+        ],
+        [
+          541.3283081054688,
+          442.62286376953125
+        ],
+        [
+          541.3283081054688,
+          538.0950012207031
+        ],
+        [
+          70.9075927734375,
+          538.0950012207031
+        ]
+      ],
+      "bbox": [
+        70.9075927734375,
+        442.62286376953125,
+        541.3283081054688,
+        538.0950012207031
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 256,
+      "polygon": [
+        [
+          532.267578125,
+          794.7197265625
+        ],
+        [
+          541.4453125,
+          794.7197265625
+        ],
+        [
+          541.4453125,
+          806.6913146972656
+        ],
+        [
+          532.267578125,
+          806.6913146972656
+        ]
+      ],
+      "bbox": [
+        532.267578125,
+        794.7197265625,
+        541.4453125,
+        806.6913146972656
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-0\"></span><sup>5 </sup>Council Decision 98/415/EC of 29 June 1998 on the consultation of the European Central Bank by national  authorities regarding draft legislative provisions (OJ L 189, 3.7.1998, p. 42, ELI:  <a href=\"http://data.europa.eu/eli/dec/1998/415/oj\">http://data.europa.eu/eli/dec/1998/415/oj</a>).</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.91999816894531,
+          570.1885986328125
+        ],
+        [
+          540.9368896484375,
+          570.1885986328125
+        ],
+        [
+          540.9368896484375,
+          601.2695465087891
+        ],
+        [
+          70.91999816894531,
+          601.2695465087891
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        570.1885986328125,
+        540.9368896484375,
+        601.2695465087891
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-1\"></span><sup>6 </sup>Regulation (EU) 2024/1624 of the European Parliament and of the Council of 31 May 2024 on the prevention of the  use of the financial system for the purposes of money laundering or terrorist financing (OJ L 2024/1624, 19.6.2024,  ELI: <a href=\"http://data.europa.eu/eli/reg/2024/1624/oj\">http://data.europa.eu/eli/reg/2024/1624/oj</a>).</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.91999816894531,
+          602.5885772705078
+        ],
+        [
+          540.9087524414062,
+          602.5885772705078
+        ],
+        [
+          540.9087524414062,
+          633.6695251464844
+        ],
+        [
+          70.91999816894531,
+          633.6695251464844
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        602.5885772705078,
+        540.9087524414062,
+        633.6695251464844
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-2\"></span><sup>7 </sup>Article 80(2) of Regulation (EU) 2024/1624: '\"Member States may adopt lower limits following consultation of the  European Central Bank in accordance with Article 2(1) of Council Decision 98/415/EC. Those lower limits shall be  notified to the Commission within 3 months of the measure being introduced at national level.'\"</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.91999816894531,
+          634.8685760498047
+        ],
+        [
+          540.9078979492188,
+          634.8685760498047
+        ],
+        [
+          540.9078979492188,
+          666.4462890625
+        ],
+        [
+          70.91999816894531,
+          666.4462890625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        634.8685760498047,
+        540.9078979492188,
+        666.4462890625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-3\"></span><sup>8 </sup>See European Central Bank, Guide to consultation of the European Central Bank by national authorities regarding  draft legislative provisions (April 2025), p. 12, available a<a href=\"http://www.ecb.europa.eu/\">t www.ecb.europa.eu.</a></p>",
+      "page": 256,
+      "polygon": [
+        [
+          68.6796875,
+          667.1508636474609
+        ],
+        [
+          540.8449096679688,
+          667.1508636474609
+        ],
+        [
+          540.8449096679688,
+          688.510498046875
+        ],
+        [
+          68.6796875,
+          688.510498046875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        667.1508636474609,
+        540.8449096679688,
+        688.510498046875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-4\"></span><sup>9 </sup>See Judgment of the Court of Justice of 15 July 1970, <i>Chemiefarma</i> v <i>Commission</i>, C-41/69, ECLI:EU:C:1970:71,  paragraph 3; judgment of the Court of 4 February 1982, <i>Buyl</i> <i>and Others</i> v <i>Commission</i>, C-817/79,  ECLI:EU:C:1982:36, paragraph 1; judgment of the Court of Justice of 10 June 1997, <i>Parliament</i> v <i>Council</i>, C-392/95,  ECLI:EU:C:1997:289, paragraph 15; judgment of the Court of Justice of 11 November 1997, <i>Eurotunnel and Others</i> v <i>SeaFrance</i>, C-408/95, ECLI:EU:C:1997:532, paragraph 46; judgment of the Court of 25 September 2003, <i>Océ van </i> <i>der Grinten</i>, C-58/01, ECLI:EU:C:2003:495, paragraphs 100 and 102.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          70.91999816894531,
+          689.7085723876953
+        ],
+        [
+          540.9547729492188,
+          689.7085723876953
+        ],
+        [
+          540.9547729492188,
+          750.728515625
+        ],
+        [
+          70.91999816894531,
+          750.728515625
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        689.7085723876953,
+        540.9547729492188,
+        750.728515625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-5\"></span><sup>10 </sup>See Opinion CON/2012/83.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          69.26171875,
+          751.3933639526367
+        ],
+        [
+          209.83779907226562,
+          751.3933639526367
+        ],
+        [
+          209.83779907226562,
+          762.9124145507812
+        ],
+        [
+          69.26171875,
+          762.9124145507812
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        751.3933639526367,
+        209.83779907226562,
+        762.9124145507812
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-6\"></span><sup>11</sup> See judgment of the Court (Grand Chamber) of 26 January 2021, <i>Hessischer Rundfunk</i>, C-422/19 and C-423/19,  ECLI:EU:C:2021:63.</p>",
+      "page": 256,
+      "polygon": [
+        [
+          68.6796875,
+          763.884765625
+        ],
+        [
+          540.90966796875,
+          763.884765625
+        ],
+        [
+          540.90966796875,
+          785.4733734130859
+        ],
+        [
+          68.6796875,
+          785.4733734130859
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        763.884765625,
+        540.90966796875,
+        785.4733734130859
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          514.806640625,
+          15.623046875
+        ],
+        [
+          575.1553955078125,
+          15.623046875
+        ],
+        [
+          575.1553955078125,
+          26.8114013671875
+        ],
+        [
+          514.806640625,
+          26.8114013671875
+        ]
+      ],
+      "bbox": [
+        514.806640625,
+        15.623046875,
+        575.1553955078125,
+        26.8114013671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">the attention of the Slovak authorities to certain opinions adopted by the ECB since 2021 concerning  general cash limitations and cash payments<a href=\"#page-2-0\">12,</a> including, in particular, an opinion adopted by the ECB in  2023 in response to a consultation by the Chairman of the Financial and Budgetary Committee of the  National Council of the Slovak Republic on a draft law amending the Law on restrictions on cash payments,  in particular on increasing the applicable cash payment limits at that time<a href=\"#page-2-1\">13.</a></p>",
+      "page": 114,
+      "polygon": [
+        [
+          69.84375,
+          76.971435546875
+        ],
+        [
+          541.31591796875,
+          76.971435546875
+        ],
+        [
+          541.31591796875,
+          154.9765625
+        ],
+        [
+          69.84375,
+          154.9765625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        76.971435546875,
+        541.31591796875,
+        154.9765625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The ECB would appreciate that the National Council gives due consideration to the above observations by  honouring its obligation to consult the ECB in the future on draft national legislation falling within the ECB's  fields of competence where appropriate.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.92144775390625,
+          164.453125
+        ],
+        [
+          541.2463989257812,
+          164.453125
+        ],
+        [
+          541.2463989257812,
+          208.9744873046875
+        ],
+        [
+          70.92144775390625,
+          208.9744873046875
+        ]
+      ],
+      "bbox": [
+        70.92144775390625,
+        164.453125,
+        541.2463989257812,
+        208.9744873046875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Yours sincerely,</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.42578125,
+          237.2236328125
+        ],
+        [
+          141.95716857910156,
+          237.2236328125
+        ],
+        [
+          141.95716857910156,
+          249.05352783203125
+        ],
+        [
+          70.42578125,
+          249.05352783203125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        237.2236328125,
+        141.95716857910156,
+        249.05352783203125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[signed]</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.716796875,
+          278.3369140625
+        ],
+        [
+          105.84420013427734,
+          278.3369140625
+        ],
+        [
+          105.84420013427734,
+          289.0130615234375
+        ],
+        [
+          70.716796875,
+          289.0130615234375
+        ]
+      ],
+      "bbox": [
+        70.716796875,
+        278.3369140625,
+        105.84420013427734,
+        289.0130615234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Cc: Mr P Kažimír, Governor, Národná banka Slovenska</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.92144775390625,
+          317.8056640625
+        ],
+        [
+          341.3922119140625,
+          317.8056640625
+        ],
+        [
+          341.3922119140625,
+          328.97259521484375
+        ],
+        [
+          70.92144775390625,
+          328.97259521484375
+        ]
+      ],
+      "bbox": [
+        70.92144775390625,
+        317.8056640625,
+        341.3922119140625,
+        328.97259521484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mr L Kamenický, Ministerstvo financií Slovenskej republiky</p>",
+      "page": 114,
+      "polygon": [
+        [
+          112.91406249999999,
+          338.7734375
+        ],
+        [
+          372.2831726074219,
+          338.7734375
+        ],
+        [
+          372.2831726074219,
+          349.01214599609375
+        ],
+        [
+          112.91406249999999,
+          349.01214599609375
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        338.7734375,
+        372.2831726074219,
+        349.01214599609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mr V Dombrovskis, Commissioner for Economy and Productivity; Implementation and  Simplification, European Commission</p>",
+      "page": 114,
+      "polygon": [
+        [
+          113.52035522460938,
+          357.685546875
+        ],
+        [
+          541.2803344726562,
+          357.685546875
+        ],
+        [
+          541.2803344726562,
+          385.9737243652344
+        ],
+        [
+          113.52035522460938,
+          385.9737243652344
+        ]
+      ],
+      "bbox": [
+        113.52035522460938,
+        357.685546875,
+        541.2803344726562,
+        385.9737243652344
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mr A De Gregorio Merino, Director-General Legal Service, European Commission</p>",
+      "page": 114,
+      "polygon": [
+        [
+          112.91406249999999,
+          395.9208984375
+        ],
+        [
+          477.458740234375,
+          395.9208984375
+        ],
+        [
+          477.458740234375,
+          406.6103515625
+        ],
+        [
+          112.91406249999999,
+          406.6103515625
+        ]
+      ],
+      "bbox": [
+        112.91406249999999,
+        395.9208984375,
+        477.458740234375,
+        406.6103515625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Encl. Guide to consultation of the ECB by national authorities regarding draft legislative provisions</p>",
+      "page": 114,
+      "polygon": [
+        [
+          69.84375,
+          435.80078125
+        ],
+        [
+          521.5,
+          435.80078125
+        ],
+        [
+          521.5,
+          445.9727478027344
+        ],
+        [
+          69.84375,
+          445.9727478027344
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        435.80078125,
+        521.5,
+        445.9727478027344
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-2-0\"></span></p>",
+      "page": 114,
+      "polygon": [
+        [
+          69.26171875,
+          738.39453125
+        ],
+        [
+          73.91796875,
+          738.39453125
+        ],
+        [
+          73.91796875,
+          748.26171875
+        ],
+        [
+          69.26171875,
+          748.26171875
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        738.39453125,
+        73.91796875,
+        748.26171875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          532.267578125,
+          794.7197265625
+        ],
+        [
+          538.6964111328125,
+          794.7197265625
+        ],
+        [
+          538.6964111328125,
+          806.6913146972656
+        ],
+        [
+          532.267578125,
+          806.6913146972656
+        ]
+      ],
+      "bbox": [
+        532.267578125,
+        794.7197265625,
+        538.6964111328125,
+        806.6913146972656
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>12</sup> See, for example, Opinions CON/2022/9 (Spain), CON/2023/33 (Belgium), CON/2023/40 (Belgium), CON/2024/2  (Denmark) and CON/2024/39 (Netherlands).</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.91999816894531,
+          749.4951171875
+        ],
+        [
+          540.8763427734375,
+          749.4951171875
+        ],
+        [
+          540.8763427734375,
+          772.6289367675781
+        ],
+        [
+          70.91999816894531,
+          772.6289367675781
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        749.4951171875,
+        540.8763427734375,
+        772.6289367675781
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-2-1\"></span><sup>13</sup> See Opinion CON/2023/13.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          70.91998291015625,
+          773.9495315551758
+        ],
+        [
+          212.22503662109375,
+          773.9495315551758
+        ],
+        [
+          212.22503662109375,
+          785.468578338623
+        ],
+        [
+          70.91998291015625,
+          785.468578338623
+        ]
+      ],
+      "bbox": [
+        70.91998291015625,
+        773.9495315551758,
+        212.22503662109375,
+        785.468578338623
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

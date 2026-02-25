@@ -1,0 +1,336 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 678,
+      "polygon": [
+        [
+          12.783203125000002,
+          16.0341796875
+        ],
+        [
+          75.18832397460938,
+          16.0341796875
+        ],
+        [
+          75.18832397460938,
+          39.97174072265625
+        ],
+        [
+          12.783203125000002,
+          39.97174072265625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        16.0341796875,
+        75.18832397460938,
+        39.97174072265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Market</b> <b>distortion</b> <b>due</b> <b>to</b> <b>different</b> <b>VAT</b> <b>rules</b></h2>",
+      "page": 678,
+      "polygon": [
+        [
+          11.621093750000002,
+          57.1474609375
+        ],
+        [
+          435.2874755859375,
+          57.1474609375
+        ],
+        [
+          435.2874755859375,
+          77.10894775390625
+        ],
+        [
+          11.621093750000002,
+          77.10894775390625
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        57.1474609375,
+        435.2874755859375,
+        77.10894775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4/0120-8901-0003/ISA//EPW og UL The Council Meeting 31 May 2006</p>",
+      "page": 678,
+      "polygon": [
+        [
+          11.621093750000002,
+          93.73828125
+        ],
+        [
+          314.0510559082031,
+          93.73828125
+        ],
+        [
+          314.0510559082031,
+          103.9398193359375
+        ],
+        [
+          11.621093750000002,
+          103.9398193359375
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        93.73828125,
+        314.0510559082031,
+        103.9398193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Danish Competition Council (DCC) has sent a recommendation to the Minister of Finance and the Minister of Taxation regarding an amendment of the VAT rules (Value Added Tax).</p>",
+      "page": 678,
+      "polygon": [
+        [
+          13.945312500000002,
+          116.3505859375
+        ],
+        [
+          553.4793701171875,
+          116.3505859375
+        ],
+        [
+          553.4793701171875,
+          140.1962890625
+        ],
+        [
+          13.945312500000002,
+          140.1962890625
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        116.3505859375,
+        553.4793701171875,
+        140.1962890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The existing VAT rules exempt passenger transport with busses in regular traffic and trains. Hence, bus and train companies are neither obliged to pay output VAT nor in title to deduct input VAT.</p>",
+      "page": 678,
+      "polygon": [
+        [
+          12.783203125000002,
+          155.408203125
+        ],
+        [
+          581.2362060546875,
+          155.408203125
+        ],
+        [
+          581.2362060546875,
+          179.43365478515625
+        ],
+        [
+          12.783203125000002,
+          179.43365478515625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        155.408203125,
+        581.2362060546875,
+        179.43365478515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Analyses show that this VAT exemption distorts competition on the markets of delivering workshop services for busses and trains. The exemption gives a train company's internal workshop a competitive advantage at the expense of an external workshop. This is due to the fact that the external workshop is obliged to add output VAT to the price of the service, but the train company is not allowed to deduct this VAT. Hence, the VAT becomes a cost for the train company when it buys from an external workshop.</p>",
+      "page": 678,
+      "polygon": [
+        [
+          12.783203125000002,
+          195.69921875
+        ],
+        [
+          581.7085571289062,
+          195.69921875
+        ],
+        [
+          581.7085571289062,
+          258.96148681640625
+        ],
+        [
+          12.783203125000002,
+          258.96148681640625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        195.69921875,
+        581.7085571289062,
+        258.96148681640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The DCC finds that the existing VAT rules constitute a barrier for external workshops, and this barrier may obstruct a further development towards liberalized bus and train markets in Denmark. Accordingly, the DCC recommends that the VAT exemption for busses and trains should be terminated. Analyses show that such a termination will influence neither the level of end user prices nor the economics of the bus and train companies.</p>",
+      "page": 678,
+      "polygon": [
+        [
+          11.621093750000002,
+          275.0478515625
+        ],
+        [
+          580.961181640625,
+          275.0478515625
+        ],
+        [
+          580.961181640625,
+          325.2347412109375
+        ],
+        [
+          11.621093750000002,
+          325.2347412109375
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        275.0478515625,
+        580.961181640625,
+        325.2347412109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Since the VAT exemption is stated in legislation, the DCC can't intervene directly. However, the DCC has sent a recommendation to the Minister of Finance and the Minister of Taxation regarding an amendment of the VAT rules. The ministers must respond within 4 months. The recommendation (in Danish) can be found on the webpage of the Danish Competition Authority – www.ks.dk</p>",
+      "page": 678,
+      "polygon": [
+        [
+          11.621093750000002,
+          341.240234375
+        ],
+        [
+          577.4494018554688,
+          341.240234375
+        ],
+        [
+          577.4494018554688,
+          391.5079650878906
+        ],
+        [
+          11.621093750000002,
+          391.5079650878906
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        341.240234375,
+        577.4494018554688,
+        391.5079650878906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">For further information please contact head of division Niels Rytter (+4572268097), head of section Eva Paulsen Woeste (+4572268174) or head of section Ulrik Laudrup (+457226.</p>",
+      "page": 678,
+      "polygon": [
+        [
+          13.945312500000002,
+          408.2548828125
+        ],
+        [
+          540.418701171875,
+          408.2548828125
+        ],
+        [
+          540.418701171875,
+          431.2718811035156
+        ],
+        [
+          13.945312500000002,
+          431.2718811035156
+        ]
+      ],
+      "bbox": [
+        13.945312500000002,
+        408.2548828125,
+        540.418701171875,
+        431.2718811035156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

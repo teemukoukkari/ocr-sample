@@ -1,0 +1,810 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          520.91796875,
+          38.646484375
+        ],
+        [
+          554.67578125,
+          38.646484375
+        ],
+        [
+          554.67578125,
+          59.9388427734375
+        ],
+        [
+          520.91796875,
+          59.9388427734375
+        ]
+      ],
+      "bbox": [
+        520.91796875,
+        38.646484375,
+        554.67578125,
+        59.9388427734375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          38.705078125,
+          34.9462890625
+        ],
+        [
+          175.482421875,
+          34.9462890625
+        ],
+        [
+          175.482421875,
+          62.0810546875
+        ],
+        [
+          38.705078125,
+          62.0810546875
+        ]
+      ],
+      "bbox": [
+        38.705078125,
+        34.9462890625,
+        175.482421875,
+        62.0810546875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>C/2026/1021 16.2.2026</h2>",
+      "page": 171,
+      "polygon": [
+        [
+          262.375,
+          68.6591796875
+        ],
+        [
+          552.7522583007812,
+          68.6591796875
+        ],
+        [
+          552.7522583007812,
+          82.503173828125
+        ],
+        [
+          262.375,
+          82.503173828125
+        ]
+      ],
+      "bbox": [
+        262.375,
+        68.6591796875,
+        552.7522583007812,
+        82.503173828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 171,
+      "polygon": [
+        [
+          515.6796875,
+          69.0703125
+        ],
+        [
+          550.6015625,
+          69.0703125
+        ],
+        [
+          550.6015625,
+          77.29296875
+        ],
+        [
+          515.6796875,
+          77.29296875
+        ]
+      ],
+      "bbox": [
+        515.6796875,
+        69.0703125,
+        550.6015625,
+        77.29296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Prior notification of a concentration </b></h2>",
+      "page": 171,
+      "polygon": [
+        [
+          221.17187499999997,
+          96.6162109375
+        ],
+        [
+          373.5155334472656,
+          96.6162109375
+        ],
+        [
+          373.5155334472656,
+          106.71087646484375
+        ],
+        [
+          221.17187499999997,
+          106.71087646484375
+        ]
+      ],
+      "bbox": [
+        221.17187499999997,
+        96.6162109375,
+        373.5155334472656,
+        106.71087646484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>(Case M.12158 – LEONARDO / IVECO DEFENCE VEHICLES / ASTRA VEICOLI INDUSTRIALI) </b></h2>",
+      "page": 171,
+      "polygon": [
+        [
+          104.4280014038086,
+          113.47265625
+        ],
+        [
+          492.775390625,
+          113.47265625
+        ],
+        [
+          492.775390625,
+          123.77484130859375
+        ],
+        [
+          104.4280014038086,
+          123.77484130859375
+        ]
+      ],
+      "bbox": [
+        104.4280014038086,
+        113.47265625,
+        492.775390625,
+        123.77484130859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>(Text with EEA relevance) </b></h2>",
+      "page": 171,
+      "polygon": [
+        [
+          250.27343749999997,
+          138.140625
+        ],
+        [
+          346.5063781738281,
+          138.140625
+        ],
+        [
+          346.5063781738281,
+          147.3193359375
+        ],
+        [
+          250.27343749999997,
+          147.3193359375
+        ]
+      ],
+      "bbox": [
+        250.27343749999997,
+        138.140625,
+        346.5063781738281,
+        147.3193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(C/2026/1021)</p>",
+      "page": 171,
+      "polygon": [
+        [
+          268.607421875,
+          159.1083984375
+        ],
+        [
+          326.14862060546875,
+          159.1083984375
+        ],
+        [
+          326.14862060546875,
+          169.639892578125
+        ],
+        [
+          268.607421875,
+          169.639892578125
+        ]
+      ],
+      "bbox": [
+        268.607421875,
+        159.1083984375,
+        326.14862060546875,
+        169.639892578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-0-1\"></span>1. On 9 February 2026, the Commission received notification of a proposed concentration pursuant to Article 4 of  Council Regulation (EC) No 139/2004 ( 1 <a href=\"#page-0-0\">).</a></p>",
+      "page": 171,
+      "polygon": [
+        [
+          65.1875,
+          183.365234375
+        ],
+        [
+          529.1865234375,
+          183.365234375
+        ],
+        [
+          529.1865234375,
+          204.84588623046875
+        ],
+        [
+          65.1875,
+          204.84588623046875
+        ]
+      ],
+      "bbox": [
+        65.1875,
+        183.365234375,
+        529.1865234375,
+        204.84588623046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">This notification concerns the following undertakings:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          210.9111328125
+        ],
+        [
+          270.99822998046875,
+          210.9111328125
+        ],
+        [
+          270.99822998046875,
+          220.8338623046875
+        ],
+        [
+          66.3515625,
+          220.8338623046875
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        210.9111328125,
+        270.99822998046875,
+        220.8338623046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/168",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Leonardo S.p.A. (Italy),</li><li block-type=\"ListItem\"> Iveco Defence Vehicles S.p.A. (Italy) and Astra Veicoli Industriali S.p.A. (Italy), belonging to the Iveco Group N.V  (Netherlands).</li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          230.6455078125
+        ],
+        [
+          529.1638793945312,
+          230.6455078125
+        ],
+        [
+          529.1638793945312,
+          271.9708251953125
+        ],
+        [
+          66.3515625,
+          271.9708251953125
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        230.6455078125,
+        529.1638793945312,
+        271.9708251953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Leonardo S.p.A. will acquire within the meaning of Article 3(1)(b) of the Merger Regulation sole control of the whole of  Iveco Defence Vehicles S.p.A. and Astra Veicoli Industriali S.p.A.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          280.8037109375
+        ],
+        [
+          529.1295776367188,
+          280.8037109375
+        ],
+        [
+          529.1295776367188,
+          302.9248046875
+        ],
+        [
+          66.3515625,
+          302.9248046875
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        280.8037109375,
+        529.1295776367188,
+        302.9248046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The concentration is accomplished by way of purchase of shares.</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          312.8720703125
+        ],
+        [
+          310.8046875,
+          312.8720703125
+        ],
+        [
+          310.8046875,
+          323.163818359375
+        ],
+        [
+          66.3515625,
+          323.163818359375
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        312.8720703125,
+        310.8046875,
+        323.163818359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/169",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. The business activities of the undertakings concerned are the following:</li><li block-type=\"ListItem\"> Leonardo S.p.A. is an industrial and technological company active in the aerospace, defence and security sector,  headquartered in Rome, Italy.</li><li block-type=\"ListItem\"> Iveco Defence Vehicles S.p.A. and Astra Veicoli Industriali S.p.A. design and produce a variety of tracked and wheeled  military vehicles along with trucks (both military and non-military.</li><li block-type=\"ListItem\">3. On preliminary examination, the Commission finds that the notified transaction could fall within the scope of the  Merger Regulation. However, the final decision on this point is reserved.</li><li block-type=\"ListItem\">4. The Commission invites interested third parties to submit their possible observations on the proposed concentration  to the Commission.</li></ul></p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          337.5400390625
+        ],
+        [
+          529.149169921875,
+          337.5400390625
+        ],
+        [
+          529.149169921875,
+          479.91986083984375
+        ],
+        [
+          66.3515625,
+          479.91986083984375
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        337.5400390625,
+        529.149169921875,
+        479.91986083984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Observations must reach the Commission not later than 10 days following the date of this publication. The following  reference should always be specified:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.3515625,
+          489.6591796875
+        ],
+        [
+          529.145751953125,
+          489.6591796875
+        ],
+        [
+          529.145751953125,
+          510.81787109375
+        ],
+        [
+          66.3515625,
+          510.81787109375
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        489.6591796875,
+        529.145751953125,
+        510.81787109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/20",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">M.12158 – LEONARDO / IVECO DEFENCE VEHICLES / ASTRA VEICOLI INDUSTRIALI</p>",
+      "page": 171,
+      "polygon": [
+        [
+          67.515625,
+          521.4612121582031
+        ],
+        [
+          399.27392578125,
+          521.4612121582031
+        ],
+        [
+          399.27392578125,
+          531.0568542480469
+        ],
+        [
+          67.515625,
+          531.0568542480469
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        521.4612121582031,
+        399.27392578125,
+        531.0568542480469
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Observations can be sent to the Commission by email or by post. Please use the contact details below:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          68.03341674804688,
+          541.4619140625
+        ],
+        [
+          448.30035400390625,
+          541.4619140625
+        ],
+        [
+          448.30035400390625,
+          551.3528442382812
+        ],
+        [
+          68.03341674804688,
+          551.3528442382812
+        ]
+      ],
+      "bbox": [
+        68.03341674804688,
+        541.4619140625,
+        448.30035400390625,
+        551.3528442382812
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/22",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Email:<a href=\"mailto:COMP-MERGER-REGISTRY@ec.europa.eu\"> COMP-MERGER-REGISTRY@ec.europa.eu</a></p>",
+      "page": 171,
+      "polygon": [
+        [
+          68.03451538085938,
+          561.1962890625
+        ],
+        [
+          250.87680053710938,
+          561.1962890625
+        ],
+        [
+          250.87680053710938,
+          571.5928649902344
+        ],
+        [
+          68.03451538085938,
+          571.5928649902344
+        ]
+      ],
+      "bbox": [
+        68.03451538085938,
+        561.1962890625,
+        250.87680053710938,
+        571.5928649902344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/23",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Postal address:</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.642578125,
+          580.9306640625
+        ],
+        [
+          122.04203796386719,
+          580.9306640625
+        ],
+        [
+          122.04203796386719,
+          591.8318786621094
+        ],
+        [
+          66.642578125,
+          591.8318786621094
+        ]
+      ],
+      "bbox": [
+        66.642578125,
+        580.9306640625,
+        122.04203796386719,
+        591.8318786621094
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/24",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">European Commission Directorate-General for Competition Merger Registry 1049 Bruxelles/Brussel BELGIQUE/BELGIË</p>",
+      "page": 171,
+      "polygon": [
+        [
+          66.93359375,
+          601.8984375
+        ],
+        [
+          204.3611297607422,
+          601.8984375
+        ],
+        [
+          204.3611297607422,
+          654.7606048583984
+        ],
+        [
+          66.93359375,
+          654.7606048583984
+        ]
+      ],
+      "bbox": [
+        66.93359375,
+        601.8984375,
+        204.3611297607422,
+        654.7606048583984
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/26",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          41.32421875,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          821.8918743133545
+        ],
+        [
+          41.32421875,
+          821.8918743133545
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        811.1650390625,
+        552.7653198242188,
+        821.8918743133545
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/27",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 171,
+      "polygon": [
+        [
+          540.998046875,
+          811.1650390625
+        ],
+        [
+          553.220703125,
+          811.1650390625
+        ],
+        [
+          553.220703125,
+          820.2099609375
+        ],
+        [
+          540.998046875,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        540.998046875,
+        811.1650390625,
+        553.220703125,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/25",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span><sup>(</sup> <a href=\"#page-0-1\">) O</a>J L 24, 29.1.2004, p. 1 (the 'Merger Regulation').</p>",
+      "page": 171,
+      "polygon": [
+        [
+          68.0313949584961,
+          784.8525390625
+        ],
+        [
+          247.79200744628906,
+          784.8525390625
+        ],
+        [
+          247.79200744628906,
+          794.5261535644531
+        ],
+        [
+          68.0313949584961,
+          794.5261535644531
+        ]
+      ],
+      "bbox": [
+        68.0313949584961,
+        784.8525390625,
+        247.79200744628906,
+        794.5261535644531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

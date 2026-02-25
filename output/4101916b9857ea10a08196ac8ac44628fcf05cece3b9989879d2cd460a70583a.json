@@ -1,0 +1,1326 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 131,
+      "polygon": [
+        [
+          31.08046875,
+          20.84443359375
+        ],
+        [
+          166.81015625,
+          20.84443359375
+        ],
+        [
+          166.81015625,
+          77.82744140625
+        ],
+        [
+          31.08046875,
+          77.82744140625
+        ]
+      ],
+      "bbox": [
+        31.08046875,
+        20.84443359375,
+        166.81015625,
+        77.82744140625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC+AcQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiisXxXr1v4b8O3epXD7REhKgdSfagDZJA6mqt9qNtYWMl5M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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> <b>25.07.2012</b></p>",
+      "page": 131,
+      "polygon": [
+        [
+          68.6796875,
+          124.162109375
+        ],
+        [
+          518.0078125,
+          124.162109375
+        ],
+        [
+          518.0078125,
+          136.41546630859375
+        ],
+        [
+          68.6796875,
+          136.41546630859375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        124.162109375,
+        518.0078125,
+        136.41546630859375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Preissenkungsverfügung gegen die Berliner Wasserbetriebe</b></h1>",
+      "page": 131,
+      "polygon": [
+        [
+          69.84375,
+          175.96484375
+        ],
+        [
+          387.12744140625,
+          175.96484375
+        ],
+        [
+          387.12744140625,
+          189.43408203125
+        ],
+        [
+          69.84375,
+          189.43408203125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        175.96484375,
+        387.12744140625,
+        189.43408203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Wasserversorgung</p>",
+      "page": 131,
+      "polygon": [
+        [
+          70.91999816894531,
+          206.7998046875
+        ],
+        [
+          303.8203125,
+          206.7998046875
+        ],
+        [
+          303.8203125,
+          219.9757080078125
+        ],
+        [
+          70.91999816894531,
+          219.9757080078125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        206.7998046875,
+        303.8203125,
+        219.9757080078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B8-40/10</p>",
+      "page": 131,
+      "polygon": [
+        [
+          69.84375,
+          237.739013671875
+        ],
+        [
+          256.09375,
+          237.739013671875
+        ],
+        [
+          256.09375,
+          250.57861328125
+        ],
+        [
+          69.84375,
+          250.57861328125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        237.739013671875,
+        256.09375,
+        250.57861328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 04.06.2012</p>",
+      "page": 131,
+      "polygon": [
+        [
+          68.6796875,
+          267.236328125
+        ],
+        [
+          266.5703125,
+          267.236328125
+        ],
+        [
+          266.5703125,
+          281.30291748046875
+        ],
+        [
+          68.6796875,
+          281.30291748046875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        267.236328125,
+        266.5703125,
+        281.30291748046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat die Berliner Wasserbetriebe (\"BWB\") mit Beschluss vom 04.06.2012  verpflichtet, ihre Wasserpreise erheblich, d. h. um ca. 18% abzusenken. Die Absenkungsverfügung bezieht sich auf die abgabenbereinigten<a href=\"#page-0-0\">1</a> Nettopreise. Die Preissenkung gilt bereits mit  Wirkung für 2012, so dass die Wasserkunden ab den Jahresendabrechnungen 2012, die im  Laufe des Jahres 2013 erfolgen, von den günstigeren Preisen profitieren werden.</p>",
+      "page": 131,
+      "polygon": [
+        [
+          68.6796875,
+          338.3623046875
+        ],
+        [
+          541.6104125976562,
+          338.3623046875
+        ],
+        [
+          541.6104125976562,
+          424.7001953125
+        ],
+        [
+          68.6796875,
+          424.7001953125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        338.3623046875,
+        541.6104125976562,
+        424.7001953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat im Rahmen umfangreicher Ermittlungen die Berliner Wasserpreise  mit den Wasserpreisen der 37 anderen größten Städte Deutschlands (= alle deutschen Großstädte über 200.000 Einwohner) verglichen und festgestellt, dass die BWB überdurchschnittlich  hohe Preise aufweisen. Gleichzeitig wurde haben die Ermittlungen ergeben, dass die Wasserversorgungsbedingungen in Berlin sehr günstig sind. BWB kann in Berlin reichlich Trinkwasser  gewinnen und kostengünstig über ihr gut angelegtes und gepflegtes Rohrleitungsnetz verteilen.</p>",
+      "page": 131,
+      "polygon": [
+        [
+          68.6796875,
+          443.201171875
+        ],
+        [
+          541.5993041992188,
+          443.201171875
+        ],
+        [
+          541.5993041992188,
+          544.5517272949219
+        ],
+        [
+          68.6796875,
+          544.5517272949219
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        443.201171875,
+        541.5993041992188,
+        544.5517272949219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Maßstab für die Höhe der Preisabsenkung war das durchschnittlich um mehr als 25% niedrigere Wasserpreisniveau in den anderen deutschen Metropolenstädten Hamburg, München undKöln. Zugunsten von BWB wurde berücksichtigt, dass BWB in den 1990iger-Jahren des  vorigen Jahrhunderts deutlich höhere Investitionen als die Vergleichsunternehmen aufwies.  Diese überdurchschnittlichen Investitionen waren im Wesentlichen als Folgekosten der Wiedervereinigung (Zusammenlegung der Wassernetze, Sanierung des Ost-Netzes) entstanden und  werden vom Bundeskartellamt als Rechtfertigungsgrund anerkannt. Da diese Investitionskosten  zu großen Teilen noch heute über die Abschreibungen den aktuellen Wasserpreis belasten,  sind sie zugunsten der BWB großzügig berücksichtigt worden. Dementsprechend ist die als</p>",
+      "page": 131,
+      "polygon": [
+        [
+          67.515625,
+          563.5074157714844
+        ],
+        [
+          541.6104125976562,
+          563.5074157714844
+        ],
+        [
+          541.6104125976562,
+          718.66015625
+        ],
+        [
+          67.515625,
+          718.66015625
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        563.5074157714844,
+        541.6104125976562,
+        718.66015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 131,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          300.328125,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span></p>",
+      "page": 131,
+      "polygon": [
+        [
+          69.26171875,
+          748.26171875
+        ],
+        [
+          75.08203125,
+          748.26171875
+        ],
+        [
+          75.08203125,
+          758.12890625
+        ],
+        [
+          69.26171875,
+          758.12890625
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        748.26171875,
+        75.08203125,
+        758.12890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup> 1</sup> Abgabenbereinigt = ohne Wasserentnahmeentgelte, Konzessionsabgaben, Straßennutzungsgebühren.</p>",
+      "page": 131,
+      "polygon": [
+        [
+          70.91999816894531,
+          746.5301284790039
+        ],
+        [
+          534.3046875,
+          746.5301284790039
+        ],
+        [
+          534.3046875,
+          770.0320053100586
+        ],
+        [
+          70.91999816894531,
+          770.0320053100586
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        746.5301284790039,
+        534.3046875,
+        770.0320053100586
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">missbräuchlich bewertete Preisüberhöhung geringer ausgefallen als die tatsächliche Preisdifferenz im Verhältnis zu den Vergleichsunternehmen.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          70.91995239257812,
+          126.62890625
+        ],
+        [
+          538.9609375,
+          126.62890625
+        ],
+        [
+          538.9609375,
+          157.0909423828125
+        ],
+        [
+          70.91995239257812,
+          157.0909423828125
+        ]
+      ],
+      "bbox": [
+        70.91995239257812,
+        126.62890625,
+        538.9609375,
+        157.0909423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3>Zur Methodik:</h3>",
+      "page": 145,
+      "polygon": [
+        [
+          69.84375,
+          170.208984375
+        ],
+        [
+          141.31103515625,
+          170.208984375
+        ],
+        [
+          141.31103515625,
+          182.2952880859375
+        ],
+        [
+          69.84375,
+          182.2952880859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        170.208984375,
+        141.31103515625,
+        182.2952880859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Feststellung des Preismissbrauchs basiert auf den Ergebnissen eines abgabenbereinigten  Erlös- bzw. Durchschnittspreisvergleichs. Durchschnittspreisvergleich bedeutet, dass die gesamten, mit dem Wasserverkauf erzielten Erlöse eines Unternehmens ins Verhältnis zu den  gesamten Wasserabsätzen gesetzt werden. Der sich daraus ergebende allgemeine Durchschnittspreis des Versorgers wird verglichen mit demjenigen anderer Versorger. Bei Mischpreisen insbesondere aus Grund- und Arbeitspreisen bietet sich dieser Erlösvergleich als von der  individuellen Tarifgestaltung gelösten, objektivierten Vergleichsgrundlage an. Der Erlösvergleich  ermöglicht die Bestimmung des tatsächlichen Preisniveaus, weil hier tarifunabhängige Durchschnittspreise gebildet werden, die die Wasserumsätze des Unternehmens lückenlos erfassen. Des Weiteren werden durch die Jahresbetrachtung unterjährige Preisänderungen automatisch  berücksichtigt. Ferner werden alle Tarife mit ihrer jeweiligen Abnahmemenge und realen Bedeutung erfasst. Miteinander verglichen werden i.d.R. aber nur die abgabenbereinigten Erlöse, also die von den Kunden gezahlten Entgelte abzüglich Umsatzsteuer, Wasserentnahmeentgelte  (oder Wasserzins, Wassercent etc.) sowie Konzessionsabgaben (auch ähnliche Abgaben wie  Straßennutzungsgebühren). Denn diese müssen die Wasserversorger in meist unterschiedlicher Höhe an Bund, Länder bzw. Kommunen abführen, so dass grundsätzlich nur die bereits  bereinigten Nettoentgelte als Grundlage für den Erlösvergleich dienen. Denn in einigen Städten  machen allein Wasserentnahmeentgelte und Konzessionsabgaben mehr als ein Fünftel des  Brutto-Wasserpreises aus, während in einzelnen anderen Ländern und Städten die Wasserpreise überhaupt nicht mit diesen Abgaben belastet sind.</p>",
+      "page": 145,
+      "polygon": [
+        [
+          70.90888214111328,
+          192.41015625
+        ],
+        [
+          541.63232421875,
+          192.41015625
+        ],
+        [
+          541.63232421875,
+          548.2049560546875
+        ],
+        [
+          70.90888214111328,
+          548.2049560546875
+        ]
+      ],
+      "bbox": [
+        70.90888214111328,
+        192.41015625,
+        541.63232421875,
+        548.2049560546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4>Zu den Vergleichsmaßstäben:</h4>",
+      "page": 145,
+      "polygon": [
+        [
+          69.84375,
+          561.1659545898438
+        ],
+        [
+          217.6967010498047,
+          561.1659545898438
+        ],
+        [
+          217.6967010498047,
+          572.2059326171875
+        ],
+        [
+          69.84375,
+          572.2059326171875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        561.1659545898438,
+        217.6967010498047,
+        572.2059326171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der abgabenbereinigte Berliner Wasserpreis wurde verglichen mit dem abgabenbereinigten  durchschnittlichen Trinkwasserpreis der Wasserversorger in den drei anderen Millionenmetropolen Deutschlands, d. h. in Hamburg, Köln und München. Die dort ansässigen Wasserversorger sind die am besten mit BWB vergleichbaren Unternehmen. Sie weisen die meisten Ähnlichkeiten bei den Strukturkriterien auf wie z. B. Größe, Merkmale der Wasserversorgung, ähnliche  Versorgungsdichte, Versorgungsgebiet, in Summe ähnliche Belastung mit hoheitlichen Abgaben wie Wasserentnahmeentgelten und Konzessionsabgaben. BWB hat auch im Vergleich zu  den drei Vergleichsstädten angesichts der Größe ihres einheitlichen Versorgungsgebietes die  besten Möglichkeiten zur Ausnutzung von Effizienzgewinnen (Skalenvorteile).</p>",
+      "page": 145,
+      "polygon": [
+        [
+          68.6796875,
+          583.3974609375
+        ],
+        [
+          541.5549926757812,
+          583.3974609375
+        ],
+        [
+          541.5549926757812,
+          740.1685562133789
+        ],
+        [
+          68.6796875,
+          740.1685562133789
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        583.3974609375,
+        541.5549926757812,
+        740.1685562133789
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Ursache für die hohen Wasserpreise der BWB sind nicht erhöhte Betriebskosten. Stattdessen  sind die kalkulatorischen Kosten in Form von Abschreibungen und Kapitalverzinsung über-</p>",
+      "page": 145,
+      "polygon": [
+        [
+          70.89775848388672,
+          751.9619140625
+        ],
+        [
+          541.4002075195312,
+          751.9619140625
+        ],
+        [
+          541.4002075195312,
+          782.1647720336914
+        ],
+        [
+          70.89775848388672,
+          782.1647720336914
+        ]
+      ],
+      "bbox": [
+        70.89775848388672,
+        751.9619140625,
+        541.4002075195312,
+        782.1647720336914
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 145,
+      "polygon": [
+        [
+          301.91998291015625,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          301.91998291015625,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        301.91998291015625,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">durchschnittlich hoch. Ursache für die hohen Abschreibungen sind nicht nur tatsächlich erhöhte  Investitionen, sondern auch die bilanzpolitischen Ansätze und Bewertungen von BWB, die im  Vergleich zu anderen Wasserversorgern ihren Aufwand eher als Investition verbucht.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          68.6796875,
+          127.8623046875
+        ],
+        [
+          541.5440673828125,
+          127.8623046875
+        ],
+        [
+          541.5440673828125,
+          176.2861328125
+        ],
+        [
+          68.6796875,
+          176.2861328125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        127.8623046875,
+        541.5440673828125,
+        176.2861328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zu den Auswirkungen der Preisabsenkungsverfügung auf die Berliner Wasserkunden:</p>",
+      "page": 127,
+      "polygon": [
+        [
+          68.6796875,
+          187.8876953125
+        ],
+        [
+          489.269775390625,
+          187.8876953125
+        ],
+        [
+          489.269775390625,
+          200.28704833984375
+        ],
+        [
+          68.6796875,
+          200.28704833984375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        187.8876953125,
+        489.269775390625,
+        200.28704833984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat BWB verpflichtet, die Preisabsenkung für das laufende Jahr 2012  mit den Jahresendabrechnungen in 2013 umzusetzen. Erst wenn der konkrete Jahresverbrauch  des Kunden bekannt ist, kann die Endabrechnung erfolgen. Die Art und Weise der Preisabsenkung hat diskriminierungsfrei zu erfolgen. Die konkrete Umsetzung der Preisabsenkung ist aber vom Bundeskartellamt nicht im Einzelnen vorgegeben worden. BWB kann daher z.B. den Arbeitspreis bzw. die Grundpreise absenken, aber auch jedem Kunden den gleichen prozentualen  Rabatt auf die jeweilige Wasserrechnung gewähren. Vermieter und Wohnungsverwalter sind  verpflichtet, die Preisabsenkung an die jeweiligen Mieter und Wohnungsbesitzer weiterzugeben.  Die Preisabsenkungen für die Jahre 2013 – 2015 sind ebenso in den jeweiligen Folgejahren  umzusetzen. Die Anordnung einer Rückerstattung eventuell überhöhter Wasserpreise für die  Jahre 2009 bis 2011 hat sich das Bundeskartellamt ausdrücklich vorbehalten. Insoweit ist das  Verwaltungsverfahren noch nicht abgeschlossen.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          69.84375,
+          210.9111328125
+        ],
+        [
+          541.6104125976562,
+          210.9111328125
+        ],
+        [
+          541.6104125976562,
+          422.23516845703125
+        ],
+        [
+          69.84375,
+          422.23516845703125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        210.9111328125,
+        541.6104125976562,
+        422.23516845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zu den besonderen Rechtsfragen in Berlin:</p>",
+      "page": 127,
+      "polygon": [
+        [
+          69.26171875,
+          435.1961364746094
+        ],
+        [
+          280.6578674316406,
+          435.1961364746094
+        ],
+        [
+          280.6578674316406,
+          446.2361145019531
+        ],
+        [
+          69.26171875,
+          446.2361145019531
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        435.1961364746094,
+        280.6578674316406,
+        446.2361145019531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">BWB bestreitet die Anwendbarkeit des Kartellrechts auf die Berliner Trinkwasserpreise, die sie  materiell-rechtlich als öffentlich-rechtliche Gebühren (\"Gebühren im Preismantel\") ansieht. Jedenfalls seien die Preise durch gesetzliche Vorgaben des Landes Berlin festgelegt, an die sie  gebunden sei.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          69.84375,
+          457.1796875
+        ],
+        [
+          541.4667358398438,
+          457.1796875
+        ],
+        [
+          541.4667358398438,
+          524.2226867675781
+        ],
+        [
+          69.84375,
+          524.2226867675781
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        457.1796875,
+        541.4667358398438,
+        524.2226867675781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach Auffassung des Bundeskartellamts fallen auch die Berliner Trinkwasserpreise unter das Kartellrecht. Gebührenrecht ist auf Preise nicht anwendbar. Zudem stünde es den hohen Gewinnausweisen und Gewinnausschüttungen der BWB entgegen. Davon abgesehen kommt  nach der Entscheidung des Bundesgerichtshofs vom 18.10.2011 im Fall \"Niederbarnimer Wasserverband\" auch eine kartellrechtliche Überprüfung von Wassergebühren in Betracht.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          69.84375,
+          536.939453125
+        ],
+        [
+          541.5552978515625,
+          536.939453125
+        ],
+        [
+          541.5552978515625,
+          620.810546875
+        ],
+        [
+          69.84375,
+          620.810546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        536.939453125,
+        541.5552978515625,
+        620.810546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die gesetzlichen Vorgaben des Landes Berlin zur Preiskalkulation kann BWB nicht als Rechtfertigungsgrund für überhöhte Preise anführen. Das Land, das ebenfalls am Verwaltungsverfahren beteiligt wurde, ist alleiniger Träger der BWB und Mehrheitsgesellschafter der BWB-Holding. Insoweit ergibt sich schon eine konzernrechtliche Zurechnung im Verhältnis von BWB  und dem Land Berlin. Auch handelt es sich bei den gesetzlichen Vorgaben zur Preiskalkulation  nicht um allgemeingültige Gesetze, sondern um ausschließlich die BWB betreffende unternehmerische Entscheidungen, die lediglich in Gesetzesform gegossen wurden.</p>",
+      "page": 127,
+      "polygon": [
+        [
+          68.6796875,
+          631.5
+        ],
+        [
+          541.5552368164062,
+          631.5
+        ],
+        [
+          541.5552368164062,
+          752.1767349243164
+        ],
+        [
+          68.6796875,
+          752.1767349243164
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        631.5,
+        541.5552368164062,
+        752.1767349243164
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 127,
+      "polygon": [
+        [
+          301.91998291015625,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          301.91998291015625,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        301.91998291015625,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/1",
+        "4": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>Zu den gerichtlichen Verfahren:</h2>",
+      "page": 93,
+      "polygon": [
+        [
+          70.42578125,
+          127.8623046875
+        ],
+        [
+          224.45327758789062,
+          127.8623046875
+        ],
+        [
+          224.45327758789062,
+          140.29571533203125
+        ],
+        [
+          70.42578125,
+          140.29571533203125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        127.8623046875,
+        224.45327758789062,
+        140.29571533203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">BWB hatte vor dem Verwaltungsgericht Köln im Frühjahr 2011 Klage erhoben mit der Begründung, dass ihr ein anstaltsrechtlicher Abwehranspruch gegen das im Frühjahr 2010 eingeleitete  Preismissbrauchsverfahren zustehe. Das Verwaltungsbericht Köln hatte jedoch bereits den  Rechtsweg für unzulässig erklärt und die Klage an das OberlandesgerichtDüsseldorf verwiesen.  Die dagegen gerichtete Beschwerde der BWB hat das Oberverwaltungsgericht Münster mit Beschluss vom 06.07.2012 zurückgewiesen. Der Einwand von BWB, es gehe hier im Kern um  verfassungs-, gebühren- und verwaltungsrechtliche Fragen, greife nicht durch, da diese Fragen  im Rahmen des speziellen Kartellrechtswegs zu klären seien. Die damit unwiderruflich an das  Oberlandesgericht Düsseldorf verwiesene Klage aus anstaltsrechtlichem Abwehranspruch hat  BWB am 13.07.2012 zurückgenommen und von sich aus erklärt, für die Kosten des Rechtsstreits einzustehen.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          69.84375,
+          152.5302734375
+        ],
+        [
+          541.566162109375,
+          152.5302734375
+        ],
+        [
+          541.566162109375,
+          344.2486267089844
+        ],
+        [
+          69.84375,
+          344.2486267089844
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        152.5302734375,
+        541.566162109375,
+        344.2486267089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Davon unabhängig hat BWB auch Beschwerde gegen die Preissenkungsverfügung vom  04.06.2012 zum Oberlandesgericht Düsseldorf eingelegt und erklärt, die Beschwerde bis Anfang August 2012 zu begründen. Im Rahmen dieses Rechtsstreits können alle von BWB vorgebrachten Argumente, auch soweit sie sich auf die Zulässigkeit des Verfahrens als solches beziehen, einheitlich behandelt werden. BWB hat bereits angekündigt, dass sie die angeordnete  Preisabsenkung für 2012 noch in den bis Ende 2013 zu erfolgenden Jahresendabrechnungen  realisieren werde, wenn das Gericht klarstelle, dass Kartellrecht dem Berliner Landesrecht auch  im Hinblick auf die Berliner Wasserpreise vorgehe.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          70.8978042602539,
+          356.041015625
+        ],
+        [
+          541.5992431640625,
+          356.041015625
+        ],
+        [
+          541.5992431640625,
+          494.2159423828125
+        ],
+        [
+          70.8978042602539,
+          494.2159423828125
+        ]
+      ],
+      "bbox": [
+        70.8978042602539,
+        356.041015625,
+        541.5992431640625,
+        494.2159423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 93,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h3>Chronologischer Abriss zum Verfahrensverlauf:</h3>",
+      "page": 206,
+      "polygon": [
+        [
+          69.84375,
+          128.6845703125
+        ],
+        [
+          301.4131164550781,
+          128.6845703125
+        ],
+        [
+          301.4131164550781,
+          140.29571533203125
+        ],
+        [
+          69.84375,
+          140.29571533203125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        128.6845703125,
+        301.4131164550781,
+        140.29571533203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Table/1",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>02.02.2010</th><th>BGH-Entscheidung \"Wasserpreise Wetzlar\")</th></tr><tr><td>17.03.2010</td><td>Verfahrenseinleitung durch BKartA (nach Abgabe durch LKB Berlin)</td></tr><tr><td>Sommer'10</td><td>Abstimmung gemeinsamer Fragebogen (optional) mit Landeskartellbehörden</td></tr><tr><td>19.08.2010</td><td>Absendung Fragebögen an die 38 größten Wasserversorger u.a.</td></tr><tr><td>23.09.2010</td><td>Beschwerde gegen BKartA-Auskunftsbeschluss durch Wasserverband</td></tr><tr><td>ab 11/2010</td><td>Auswertung Fragebögen</td></tr><tr><td>08.12.2010</td><td>OLG Düsseldorf gibt Beschwerde des Wasserverbands statt (nicht rechtskräftig)</td></tr><tr><td>28.02.2011</td><td>Sachstandsmitteilung BKartA an BWB (Preisüberhöhung BWB)</td></tr><tr><td>09.03.2011</td><td>Klage BWB vor Verwaltungsgericht Köln (wg Unzuständigkeit BKartA)</td></tr><tr><td>19.05.2011</td><td>Schreiben BWB zu Rechtfertigungsgründen</td></tr><tr><td>Sommer'11</td><td>neue Ermittlungen zur Prüfung des BWB-Vortrags zur Rechtfertigung</td></tr><tr><td>05.09.2011</td><td>VG Köln: der von BWB beschrittene Verwaltungsrechtsweg ist unzulässig</td></tr><tr><td>19.09.2011</td><td>BWB erhebt Beschwerde gegen VG Köln vor dem OVG Münster</td></tr><tr><td>18.10.2011</td><td>BGH hebt OLG D'dorf v. 8.12.2010 auf: Auskunftspflicht auch bei Gebühr</td></tr><tr><td>Herbst<br/>'11</td><td>neue Ergebnisse (aktualisierte Daten, Investitionsvergleich etc.)</td></tr><tr><td>05.12.2011</td><td>Abmahnung I (an BWB, Berlin, RWE, Veolia)</td></tr><tr><td>30.01.2012</td><td>Stellungnahme BWB zu Abmahnung I mit neuem Vortrag</td></tr><tr><td>ab 02/2012</td><td>Ermittlungen zu neuem Vortrag BWB, gleichzeitig Datenaktualisierung</td></tr><tr><td>30.03.2012</td><td>Abmahnung II (an BWB, Berlin, RWE, Veolia)</td></tr><tr><td>30.04.2012</td><td>Stellungnahme BWB zu Abmahnung II mit Änderung vorheriger Datenangaben</td></tr><tr><td>04.06.2012</td><td>Beschluss (unter Einbeziehung der neuen, veränderten Zahlen von BWB)</td></tr><tr><td>05.06.2012</td><td>Zustellung des Beschlusses an BWB, Berlin, RWE und Veolia</td></tr><tr><td>08.06.2012</td><td>Beschwerdeeinlegung BWB bei OLG Düsseldorf</td></tr><tr><td>06.07.2012</td><td>OVG Münster weist Beschwerde gg VG Köln zurück (Klagerücknahme BWB)</td></tr><tr><td>08.2012</td><td>Beschwerdebegründung BWB bei OLG Düsseldorf</td></tr></tbody></table>",
+      "page": 206,
+      "polygon": [
+        [
+          66.3002084350586,
+          161.42708999633788
+        ],
+        [
+          536.3934866333008,
+          161.42708999633788
+        ],
+        [
+          536.3934866333008,
+          637.824847869873
+        ],
+        [
+          66.3002084350586,
+          637.824847869873
+        ]
+      ],
+      "bbox": [
+        66.3002084350586,
+        161.42708999633788,
+        536.3934866333008,
+        637.824847869873
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 206,
+      "polygon": [
+        [
+          301.91998291015625,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          301.91998291015625,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        301.91998291015625,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "2": "/page/3/SectionHeader/0",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

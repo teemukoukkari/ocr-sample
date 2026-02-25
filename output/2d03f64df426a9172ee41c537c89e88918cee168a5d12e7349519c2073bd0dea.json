@@ -1,0 +1,890 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 132,
+      "polygon": [
+        [
+          30.7603515625,
+          21.214453125
+        ],
+        [
+          167.1302734375,
+          21.214453125
+        ],
+        [
+          167.1302734375,
+          79.101953125
+        ],
+        [
+          30.7603515625,
+          79.101953125
+        ]
+      ],
+      "bbox": [
+        30.7603515625,
+        21.214453125,
+        167.1302734375,
+        79.101953125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADBAccDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiqGt6rDomjXWoznEdvGXPvigBb3WtN05C95eQwgddzVkWH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D+yPFCL4U8ZWrxalbEx292RhiM9M/lXvPh7RRoOlpYrdzXMafcaUgkD0rD8OaFLfWMUnifSrdtSgwBOB97HfrXYqoVQoGABgCgBaKKKAPmX9or/ka9P/AOuDfzFea+D/APkcNJ/6+k/nXpX7RX/I16f/ANcG/mK818H/API4aT/19J/OgD7gt/8Aj2i/3B/KpKjt/wDj2i/3B/KpKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDz74h6XbOI52STfORGSvTn+tc/wCH7Ear4kh07WTnyYGMaAcDpg/WvXpIo5V2yIGAOcGq/wDZdl9pNyLdBORtMgHOKAPnj4239hp9pbeHNOkMxDedcMDkgjoD+Bql8EtTspJbzw9qMnlJdsJoZDxhlGBj35r2OX4TeHJINSUwl5r4HMr8lCfSoLX4PeHINMsbVo2MtoxZZ1+83OcGgCh4l0q30XULeDSP+Pm6iZGB535I61J4B0q3a/csrl7Y9QMAN15z39MV6ENLs90DtAryQKFjdhyAKsRQRQ7vLRV3HJwOtAElFFFABRRRQB8zftEgnxXp+AT+4b+YrzXwgrf8JhpPyn/j5Tt717l8ZbeGbX7MyRqxETdfqK4nw5Z26+I9PIhUETrzj3rinjVCpyWPp8Lw1UxGFWJVRJNXtY+o7f8A49ov9wfyqSmQ/wCoj/3R/Kn12nzDCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPE/jD/yHrT/rk38xXF+Hv+Ri0/8A67r/ADrtPjD/AMh60/65N/MVxfh7/kYtP/67r/OvCr/7w/U/Vcq/5FEP8L/U+nYf9RH/ALo/lT6ZD/qI/wDdH8qfXun5W9wooooEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB4n8Yf+Q9af9cm/mK4vw9/yMWn/wDXdf512nxh/wCQ9af9cm/mK4vw9/yMWn/9d1/nXhV/94fqfquVf8iiH+F/qfTsP+oj/wB0fyp9Mh/1Ef8Auj+VPr3T8re4UUUUCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8T+MP/IetP8Ark38xXF+Hv8AkYtP/wCu6/zrtPjD/wAh60/65N/MVxfh7/kYtP8A+u6/zrwq/wDvD9T9Vyr/AJFEP8L/AFPp2H/UR/7o/lT6ZD/qI/8AdH8qfXun5W9wooooEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB4n8Yf+Q9af8AXJv5iuL8Pf8AIxaf/wBd1/nXrnjzwvDrepwTSTshRCMD8K5/SvAdtbarazi6cmOQMB/kV8tisfQhi3Tk9bo/RcuzPDU8sjSk9eV9PU9hh/1Ef+6P5U+mxjbGo9ABTq+pR+dvcKKKKBBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAc14h/4+o/8AdNZtp/x9xf7wrS8Q/wDH1H/ums20/wCPuL/eFfm2Zf8AI0l/iX6Hu0P93Xodsv3R9KWkX7o+lLX6QtjwgooopgFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBzXiH/j6j/3TWbaf8fcX+8KKK/Nsy/5Gkv8AEv0Pdof7uvQ7Zfuj6UtFFfpC2PCCiiimAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//Z"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 19. März 2013</p>",
+      "page": 132,
+      "polygon": [
+        [
+          69.84375,
+          123.73565673828125
+        ],
+        [
+          495.89062499999994,
+          123.73565673828125
+        ],
+        [
+          495.89062499999994,
+          135.673828125
+        ],
+        [
+          69.84375,
+          135.673828125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.73565673828125,
+        495.89062499999994,
+        135.673828125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beendigung der Verfahren zur TV-Grundverschlüsselung </b></h2>",
+      "page": 132,
+      "polygon": [
+        [
+          68.6796875,
+          175.5537109375
+        ],
+        [
+          372.3119812011719,
+          175.5537109375
+        ],
+        [
+          372.3119812011719,
+          187.98968505859375
+        ],
+        [
+          68.6796875,
+          187.98968505859375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        175.5537109375,
+        372.3119812011719,
+        187.98968505859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Medienwirtschaft, Rundfunk</p>",
+      "page": 132,
+      "polygon": [
+        [
+          70.91999816894531,
+          204.3330078125
+        ],
+        [
+          361.44140625,
+          204.3330078125
+        ],
+        [
+          361.44140625,
+          218.41571044921875
+        ],
+        [
+          70.91999816894531,
+          218.41571044921875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        204.3330078125,
+        361.44140625,
+        218.41571044921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B 7 – 22/07, B7 – 34/10</p>",
+      "page": 132,
+      "polygon": [
+        [
+          69.84375,
+          236.30047607421875
+        ],
+        [
+          342.234375,
+          236.30047607421875
+        ],
+        [
+          342.234375,
+          249.1400146484375
+        ],
+        [
+          69.84375,
+          249.1400146484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        236.30047607421875,
+        342.234375,
+        249.1400146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidungen: 27. Dezember 2012</p>",
+      "page": 132,
+      "polygon": [
+        [
+          70.93109893798828,
+          265.591796875
+        ],
+        [
+          321.8482360839844,
+          265.591796875
+        ],
+        [
+          321.8482360839844,
+          279.742919921875
+        ],
+        [
+          70.93109893798828,
+          279.742919921875
+        ]
+      ],
+      "bbox": [
+        70.93109893798828,
+        265.591796875,
+        321.8482360839844,
+        279.742919921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat im Dezember 2012 Bußgelder in Höhe von insgesamt rund 55 Mio.  Euro gegen die Fernsehsendergruppen ProSiebenSat.1 (\"P7S1\") und RTL wegen wettbewerbswidriger Absprachen bei der Einführung der Verschlüsselung ihrer digitalen FreeTV-Programme verhängt. Zugleich wurde ein wegen dieser Absprachen gegen die Sendergruppen  laufendes Kartellverwaltungsverfahren durch die Entgegennahme von Verpflichtungszusagen  gemäß § 32 b GWB abgeschlossen.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          68.6796875,
+          309.171875
+        ],
+        [
+          541.5551147460938,
+          309.171875
+        ],
+        [
+          541.5551147460938,
+          411.1328125
+        ],
+        [
+          68.6796875,
+          411.1328125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        309.171875,
+        541.5551147460938,
+        411.1328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat festgestellt, dass sich die beiden Sendergruppen in den Jahren  2005/2006 darüber abgesprochen haben, ihre zuvor unentgeltlichen und unverschlüsselten digitalen Free-TV-Programme in SD-Qualität zukünftig nur noch verschlüsselt auszustrahlen und  dafür von den Fernsehzuschauern unmittelbar bzw. mittelbar über den Übertragungswegebetreiber Entgelte zu erheben. Zumeist wurden diese Entgelte gegenüber Übertragungswegebetreibern für die Gewährung von sog. Markennutzungs- oder Entschlüsselungsrechten geltend  gemacht. Die Rechte wiederum ermöglichten es den Übertragungswegebetreibern, die Programme von P7S1 und RTL als sog. digitale Zusatzpakete an ihre Kunden – die Fernsehzuschauer – gegen Entgelt zu vertreiben. Zugleich beabsichtigten die Sendergruppen, durch  technische Maßnahmen wie Anti-Werbeblocker und Kopierschutzfunktionen die Nutzungsmöglichkeiten der Programmsignale für den Fernsehzuschauer zu beschränken.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          70.89784240722656,
+          430.0674133300781
+        ],
+        [
+          541.5551147460938,
+          430.0674133300781
+        ],
+        [
+          541.5551147460938,
+          621.6328125
+        ],
+        [
+          70.89784240722656,
+          621.6328125
+        ]
+      ],
+      "bbox": [
+        70.89784240722656,
+        430.0674133300781,
+        541.5551147460938,
+        621.6328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Technisch umgesetzt wurde die Verschlüsselung von den Übertragungswegebetreibern, die  hierzu durch seit dem Jahr 2005 mit den Sendern geschlossene Einspeiseverträge vertraglich  verpflichtet wurden. Im Zuge der Umsetzung der Absprachen wurden die bilateralen Verhandlungen der Sender mit Übertragungswegebetreibern jeweils in enger Abstimmung der Sendergruppen untereinander geführt. Die Praktizierung dieser Absprachen erfolgte mindestens bis  zum Zeitpunkt der Durchsuchung des Bundeskartellamtes bei den Unternehmen im Mai 2010,  in etlichen Netzen über diesen Zeitpunkt hinaus. Die Absprachen betrafen die Übertragungswege Kabel, Satellit und IPTV.</p>",
+      "page": 132,
+      "polygon": [
+        [
+          68.6796875,
+          638.4892578125
+        ],
+        [
+          541.5992431640625,
+          638.4892578125
+        ],
+        [
+          541.5992431640625,
+          777.0214614868164
+        ],
+        [
+          68.6796875,
+          777.0214614868164
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        638.4892578125,
+        541.5992431640625,
+        777.0214614868164
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 132,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          300.328125,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die zum damaligen Zeitpunkt getroffenen Absprachen betrafen die Verbreitung in SD-Qualität.  Im Zusammenhang mit dem späteren Abschluss von Vereinbarungen mit Übertragungswegebetreibern zur Verbreitung der Programme in HD-Qualität in den Jahren 2010/2011 ist es nach  Kenntnis des Bundeskartellamtes nicht zu weiteren nachgewiesenen Kontakten zwischen den  Sendergruppen gekommen. Allerdings ist nicht ausgeschlossen, dass auch die HD-Vereinbarungen von der hier verfahrensgegenständlichen Vereinbarung aus den Jahren  2005/2006 insofern beeinflusst waren, als sie ebenso wie die vorangegangenen Vereinbarungen Verschlüsselung, Entgeltlichkeit, Paketierungsvorgaben sowie Signalnutzungsbeschränkungen enthalten. Auf eine genaue rechtliche Einordnung des Verhaltens der Sendergruppen  bei den HD-Vereinbarungen kam es im Rahmen der Entscheidung nach § 32 b GWB jedoch  nicht an.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          67.515625,
+          125.3955078125
+        ],
+        [
+          541.6213989257812,
+          125.3955078125
+        ],
+        [
+          541.6213989257812,
+          319.04779052734375
+        ],
+        [
+          67.515625,
+          319.04779052734375
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        125.3955078125,
+        541.6213989257812,
+        319.04779052734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die von den Sendergruppen getroffenen und umgesetzten Absprachen stellen Wettbewerbsbeschränkungen dar, die verschiedene Märkte betreffen. Betroffen ist zunächst der Markt für die  Erteilung von Senderechten an Free-TV-Fernsehprogrammen. Hier treten TV-Sender als Anbieter auf. Nachfrager sind Kabelnetzbetreiber, IPTV-Anbieter oder Satellitenbetreiber, die diese  Rechte benötigen, um digitale FreeTV-Programme als entgeltliche Zusatzpakete an ihre Kunden zu vermarkten. Durch die Absprachen haben die Sendergruppen ihre Preissetzungsfreiheit  auf dem Markt für die Erteilung von Senderechten an Free-TV-Fernsehprogrammen beschränkt, indem sie sich auf die Erhebung eines zusätzlichen Entgelts geeinigt haben.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          69.84375,
+          335.8955078125
+        ],
+        [
+          541.6103515625,
+          335.8955078125
+        ],
+        [
+          541.6103515625,
+          475.0097351074219
+        ],
+        [
+          69.84375,
+          475.0097351074219
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        335.8955078125,
+        541.6103515625,
+        475.0097351074219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ferner betroffen ist der Fernsehwerbemarkt. Auf diesem Markt treten die beiden Sendergruppen als Anbieter von Werbeplätzen auf und bilden nach den Feststellungen des Amtes sowie  des OLG Düsseldorf und des BGH ein marktbeherrschendes Duopol. Die Vereinbarungen der  Sendergruppen stellen eine bezweckte Qualitätsbeschränkung auf dem Fernsehwerbemarkt  dar. Durch die Absprache binden sich die Sender hinsichtlich ihres Verhaltens bei der Ausübung des Qualitätsparameters \"Verschlüsselung\". Eine Verschlüsselung reduziert bei beiden  Sendergruppen zwar die Zuschauerreichweite, wodurch die \"Zahl der Zuschauerkontakte\" auf  dem Fernsehwerbemarkt sinkt. Somit beeinflussten die Sender die Wertigkeit bzw. Qualität der  Werbespots in ihrem Programm. Durch die Koordinierung dieses Vorgehens konnten hierdurch  zu erwartende Einnahmeminderungen jedoch minimiert werden. Überdies konnten sie durch ein  koordiniertes Vorgehen die wirtschaftlichen Risiken für ihre Stellung auf dem Fernsehwerbemarkt, die mit einem isolierten Verhalten einhergegangen wären, vermeiden.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          68.6796875,
+          493.9654541015625
+        ],
+        [
+          541.5772705078125,
+          493.9654541015625
+        ],
+        [
+          541.5772705078125,
+          703.037109375
+        ],
+        [
+          68.6796875,
+          703.037109375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        493.9654541015625,
+        541.5772705078125,
+        703.037109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bußgeldverfahren wurde im Wege einer einvernehmlichen Verfahrensbeendigung (sog.  Settlement) abgeschlossen. Die Bußgeldbescheide sind rechtskräftig.</p>",
+      "page": 114,
+      "polygon": [
+        [
+          68.6796875,
+          721.9084014892578
+        ],
+        [
+          541.5220336914062,
+          721.9084014892578
+        ],
+        [
+          541.5220336914062,
+          751.1396484375
+        ],
+        [
+          68.6796875,
+          751.1396484375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        721.9084014892578,
+        541.5220336914062,
+        751.1396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 114,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Kartellverwaltungsverfahren wurde durch die Entgegennahme von Verpflichtungszusagen  gemäß § 32 b GWB abgeschlossen. Die Sender haben sich gegenüber der Beschlussabteilung  verpflichtet, Ihre digitalen SD-Programmsignale auf den Übertragungswegen Kabel, Satellit und  IPTV künftig unverschlüsselt zu verbreiten und die unverschlüsselte Verbreitung für 10 Jahre  aufrecht zu erhalten. Mit der Aufgabe der Verschlüsselung entfällt für die Sendergruppen die  Grundlage für die Entgelterhebung gegenüber Kabelnetz- und anderen Übertragungswegebetreibern für die SD-Verbreitung. Zugleich entfällt die Grundlage für die Umsetzung von Signalschutzbeschränkungen. Durch diese Maßnahme werden die Wettbewerbsbeschränkungen weitestgehend abgestellt, soweit sie sich auf den SD-Bereich beziehen.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          70.91999816894531,
+          126.2177734375
+        ],
+        [
+          541.5330810546875,
+          126.2177734375
+        ],
+        [
+          541.5330810546875,
+          283.057373046875
+        ],
+        [
+          70.91999816894531,
+          283.057373046875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        126.2177734375,
+        541.5330810546875,
+        283.057373046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Von der Verpflichtung zur unverschlüsselten Verbreitung befreit sind die Sender nach den Zusagen nur in zwei Ausnahmefällen. Die erste Ausnahme betrifft den Fall, dass ein Übertragungswegbetreiber <i>sämtliche</i> Programmsignale der von ihm übertragenen TV-Sender verschlüsselt. Diese Regelung dient dem Schutz des Übertragungswegbetreibers und soll dessen  berechtigtem Interesse Rechnung tragen, den Zugang zu seinen Angeboten nur solchen Nutzern zu gewähren, die hierfür die vereinbarten Entgelte zahlen, und nicht-zahlende Nutzer (sog.  \"Schwarznutzer\") vom Zugang auszuschließen. Voraussetzung für das Freiwerden der beiden  Sendergruppen von der SD-Nichtverschlüsselungs-Verpflichtung ist jedoch, dass das <i>gesamte</i> FreeTV-Angebot eines Übertragungswegebetreibers verschlüsselt übertragen wird und die  Freischaltung der verschlüsselten Sender immer bereits im Anschluss enthalten ist. Ein zusätzliches Entgelt für ein digitales SD-Basis-Paket, wie es derzeit noch häufig erhoben wird, führt  zum Wegfall dieser Ausnahme.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          299.7158203125
+        ],
+        [
+          541.6213989257812,
+          299.7158203125
+        ],
+        [
+          541.6213989257812,
+          511.0001220703125
+        ],
+        [
+          69.84375,
+          511.0001220703125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        299.7158203125,
+        541.6213989257812,
+        511.0001220703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eine weitere Sonderregelung gilt für IP-basierte TV-Verbreitungsplattformen, die nicht vollständig in einem Netz verbreitet werden, zu dem der Zugang durch den Plattformbetreiber kontrolliert werden kann. Dies trifft auf Unternehmen zu, die über gar kein Netz verfügen (beispielsweise im offenen Internet operierende TV-Plattformen wie \"Zattoo\") oder die (teilweise) außerhalb  ihres eigenen Netzes verbreitet werden (beispielsweise ein Angebot eines TV-Kabelnetzbetreibers oder IPTV-Übertragungswegbetreibers, das auch über mobile Endgeräte in Mobilfunknetzen und/oder heimischen WLAN/LAN-Netzen genutzt werden kann). In diesen Fällen  können RTL und P7S1 zwar die Zustimmung zu einer Verschlüsselung erteilen, es dürfen aber  keine Signalnutzungsbeschränkungen und keine Beschränkung der Aufnahmefunktion als solcher stattfinden. Nicht von den Zusagen erfasst ist im Übrigen eine verschlüsselt erfolgende  Zuführung oder ein verschlüsselt erfolgender Transport der Signale durch den Netzbetreiber  selbst oder durch Dritte, solange sichergestellt ist, dass diese Signale für den Endkunden unverschlüsselt, ohne Signalnutzungsbeschränkungen und ohne Zusatzentgelt nutzbar sind.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          69.84375,
+          527.072265625
+        ],
+        [
+          541.6104125976562,
+          527.072265625
+        ],
+        [
+          541.6104125976562,
+          756.9383316040039
+        ],
+        [
+          69.84375,
+          756.9383316040039
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        527.072265625,
+        541.6104125976562,
+        756.9383316040039
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Zusagen adressieren zugleich etwaige Auswirkungen der Vereinbarung auf den HD-Bereich, indem den Zuschauern ein unbeschränktes, kostenfreies SD-Signal in guter Qualität  als Alternative dauerhaft zur Verfügung steht. Die Entscheidung des Fernsehzuschauers, das  HD-Paket zu abonnieren, bezieht sich damit allein auf dessen bessere Bildqualität, nicht auf  den Zugang zu den Inhalten der Sender. Damit wird eine wesentliche Zielsetzung der Vereinbarungen ausgeschaltet, nämlich die beabsichtigte Zwangswirkung auf die Zuschauer, die durch  die gemeinsame Umstellung auf eine verschlüsselte Verbreitung auf diese ausgeübt werden  sollte.</p>",
+      "page": 61,
+      "polygon": [
+        [
+          70.90894317626953,
+          125.3955078125
+        ],
+        [
+          541.5552368164062,
+          125.3955078125
+        ],
+        [
+          541.5552368164062,
+          265.06219482421875
+        ],
+        [
+          70.90894317626953,
+          265.06219482421875
+        ]
+      ],
+      "bbox": [
+        70.90894317626953,
+        125.3955078125,
+        541.5552368164062,
+        265.06219482421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die § 32 b-Entscheidung beinhaltet keine unmittelbare Verpflichtung der Übertragungswegebetreiber zur unverschlüsselten SD-Verbreitung. Die Zusagen müssen durch die Sender gegenüber den Übertragungswegbetreibern durchgesetzt werden. P7S1 und RTL verpflichten sich, in  Verhandlungen mit Übertragungswegbetreibern eine gleichbleibend hochwertige unverschlüsselte SD-Übertragung durchzusetzen. Zur Erreichung dieses Ziels dürfen die Unternehmen dabei ihre Programmsignale, insbesondere in HD-Qualität, nur zur Verfügung stellen, wenn die  unverschlüsselte Übertragung in SD-Qualität gesichert ist.</p>",
+      "page": 61,
+      "polygon": [
+        [
+          69.84375,
+          282.4482421875
+        ],
+        [
+          541.5772705078125,
+          282.4482421875
+        ],
+        [
+          541.5772705078125,
+          403.0289611816406
+        ],
+        [
+          69.84375,
+          403.0289611816406
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        282.4482421875,
+        541.5772705078125,
+        403.0289611816406
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die § 32 b-Entscheidung ist noch nicht rechtskräftig. Dennoch ist die unverschlüsselte SD-Verbreitung der Free-TV-Programme von RTL und P7S1 bei etlichen Übertragungswegebetreibern bereits umgesetzt bzw. deren kurzfristige Umsetzung angekündigt.</p>",
+      "page": 61,
+      "polygon": [
+        [
+          70.90892028808594,
+          420.177734375
+        ],
+        [
+          538.9609375,
+          420.177734375
+        ],
+        [
+          538.9609375,
+          469.0150451660156
+        ],
+        [
+          70.90892028808594,
+          469.0150451660156
+        ]
+      ],
+      "bbox": [
+        70.90892028808594,
+        420.177734375,
+        538.9609375,
+        469.0150451660156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 61,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

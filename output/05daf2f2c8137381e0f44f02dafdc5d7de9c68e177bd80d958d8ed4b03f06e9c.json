@@ -1,0 +1,1542 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>Nederlandse Mededingingsautoriteit</h2>",
+      "page": 128,
+      "polygon": [
+        [
+          93.70703125,
+          66.1923828125
+        ],
+        [
+          312.4193548387097,
+          66.1923828125
+        ],
+        [
+          312.4193548387097,
+          80.41910192444762
+        ],
+        [
+          93.70703125,
+          80.41910192444762
+        ]
+      ],
+      "bbox": [
+        93.70703125,
+        66.1923828125,
+        312.4193548387097,
+        80.41910192444762
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 128,
+      "polygon": [
+        [
+          449.1826171875,
+          66.932421875
+        ],
+        [
+          510.0048828125,
+          66.932421875
+        ],
+        [
+          510.0048828125,
+          95.876171875
+        ],
+        [
+          449.1826171875,
+          95.876171875
+        ]
+      ],
+      "bbox": [
+        449.1826171875,
+        66.932421875,
+        510.0048828125,
+        95.876171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aan NOVEC T.a.v. mevr. I.V.I. Middelkoop Clarissenhof 1D 4133 AB Vianen</p>",
+      "page": 128,
+      "polygon": [
+        [
+          92.5241935483871,
+          115.1171875
+        ],
+        [
+          219.2943548387097,
+          115.1171875
+        ],
+        [
+          219.2943548387097,
+          185.83203125
+        ],
+        [
+          92.5241935483871,
+          185.83203125
+        ]
+      ],
+      "bbox": [
+        92.5241935483871,
+        115.1171875,
+        219.2943548387097,
+        185.83203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum</p>",
+      "page": 128,
+      "polygon": [
+        [
+          90.72177419354838,
+          252.435546875
+        ],
+        [
+          112.95161290322581,
+          252.435546875
+        ],
+        [
+          112.95161290322581,
+          260.658203125
+        ],
+        [
+          90.72177419354838,
+          260.658203125
+        ]
+      ],
+      "bbox": [
+        90.72177419354838,
+        252.435546875,
+        112.95161290322581,
+        260.658203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Uw kenmerk</p>",
+      "page": 128,
+      "polygon": [
+        [
+          210.11328125,
+          254.46044191019246
+        ],
+        [
+          251.73790322580646,
+          254.46044191019246
+        ],
+        [
+          251.73790322580646,
+          262.26229508196724
+        ],
+        [
+          210.11328125,
+          262.26229508196724
+        ]
+      ],
+      "bbox": [
+        210.11328125,
+        254.46044191019246,
+        251.73790322580646,
+        262.26229508196724
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ons kenmerk</p>",
+      "page": 128,
+      "polygon": [
+        [
+          329.720703125,
+          255.6607270135424
+        ],
+        [
+          375.5040322580645,
+          255.6607270135424
+        ],
+        [
+          375.5040322580645,
+          263.5361328125
+        ],
+        [
+          329.720703125,
+          263.5361328125
+        ]
+      ],
+      "bbox": [
+        329.720703125,
+        255.6607270135424,
+        375.5040322580645,
+        263.5361328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bijlage(n)</p>",
+      "page": 128,
+      "polygon": [
+        [
+          441.470703125,
+          256.86101211689237
+        ],
+        [
+          472.8346774193549,
+          256.86101211689237
+        ],
+        [
+          472.8346774193549,
+          266.0029296875
+        ],
+        [
+          441.470703125,
+          266.0029296875
+        ]
+      ],
+      "bbox": [
+        441.470703125,
+        256.86101211689237,
+        472.8346774193549,
+        266.0029296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">20 FEB 2009</p>",
+      "page": 128,
+      "polygon": [
+        [
+          57.67741935483871,
+          271.26443335709195
+        ],
+        [
+          151.40322580645162,
+          270.064148253742
+        ],
+        [
+          152.0040322580645,
+          287.79296875
+        ],
+        [
+          57.67741935483871,
+          287.79296875
+        ]
+      ],
+      "bbox": [
+        57.67741935483871,
+        270.064148253742,
+        152.0040322580645,
+        287.79296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">6604/70.B778</p>",
+      "page": 128,
+      "polygon": [
+        [
+          332.2459677419355,
+          269.2919921875
+        ],
+        [
+          398.3346774193549,
+          269.2919921875
+        ],
+        [
+          398.3346774193549,
+          280.2665716322167
+        ],
+        [
+          332.2459677419355,
+          280.2665716322167
+        ]
+      ],
+      "bbox": [
+        332.2459677419355,
+        269.2919921875,
+        398.3346774193549,
+        280.2665716322167
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ondenverp</p>",
+      "page": 128,
+      "polygon": [
+        [
+          90.12096774193549,
+          300.6714183891661
+        ],
+        [
+          125.56854838709678,
+          300.6714183891661
+        ],
+        [
+          125.56854838709678,
+          310.4052734375
+        ],
+        [
+          90.12096774193549,
+          310.4052734375
+        ]
+      ],
+      "bbox": [
+        90.12096774193549,
+        300.6714183891661,
+        125.56854838709678,
+        310.4052734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zaaknr.: 6604 Wob-verzoek</p>",
+      "page": 128,
+      "polygon": [
+        [
+          89.6328125,
+          313.6943359375
+        ],
+        [
+          208.47983870967744,
+          313.6943359375
+        ],
+        [
+          208.47983870967744,
+          324.67712045616537
+        ],
+        [
+          89.6328125,
+          324.67712045616537
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        313.6943359375,
+        208.47983870967744,
+        324.67712045616537
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Geachte mevrouw Middelkoop,</p>",
+      "page": 128,
+      "polygon": [
+        [
+          88.31854838709678,
+          357.2744140625
+        ],
+        [
+          222.2983870967742,
+          357.2744140625
+        ],
+        [
+          222.2983870967742,
+          369.687811831789
+        ],
+        [
+          88.31854838709678,
+          369.687811831789
+        ]
+      ],
+      "bbox": [
+        88.31854838709678,
+        357.2744140625,
+        222.2983870967742,
+        369.687811831789
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In uw brief van 5 januari 2009 heeft u op grond van de Wet openbaarheid van bestuur (Wob) verzocht om inzage te verkrijgen in de documenten die betrekking hebben op de beslissing van de NMa d.d. 19 december 2008 in de concentratiezaak met nummer 6397. In uw email van 9 januari jl. heeft u uw Wob-verzoek nader gespecificeerd en aangegeven geïnteresseerd te zijn in de vragen, reacties en inbreng van derden met betrekking tot bovengenoemde zaak. Tevens heeft u aangegeven inzage te willen krijgen in de antwoorden van KPN en/of Reggefiber op de reacties en inbreng uit de markt.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          85.91532258064517,
+          389.49251603706347
+        ],
+        [
+          499.8709677419355,
+          389.75390625
+        ],
+        [
+          499.8709677419355,
+          491.71484375
+        ],
+        [
+          85.91532258064517,
+          491.71484375
+        ]
+      ],
+      "bbox": [
+        85.91532258064517,
+        389.49251603706347,
+        499.8709677419355,
+        491.71484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Uw verzoek wordt grotendeels gehonoreerd.</p>",
+      "page": 128,
+      "polygon": [
+        [
+          85.91532258064517,
+          511.3214540270848
+        ],
+        [
+          273.9677419354839,
+          511.3214540270848
+        ],
+        [
+          273.9677419354839,
+          520.9237348538845
+        ],
+        [
+          85.91532258064517,
+          520.9237348538845
+        ]
+      ],
+      "bbox": [
+        85.91532258064517,
+        511.3214540270848,
+        273.9677419354839,
+        520.9237348538845
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In de bijlage bij dit besluit treft u een overzicht aan van de te verstrekken documenten. Per document wordt aangegeven op welke grond van de Wob bepaalde gedeeltes niet openbaar worden gemaakt. De niet verstrekte informatie wordt geweigerd omdat het vertrouwelijk verstrekte bedrijfs- en fabricagegegevens betreft (artikel 10, eerste lid, aanhef en onder c, van de Wob), danwel omdat het informatie betreft waarvan het belang van de openbaarmaking niet opweegt tegen het belang van het voorkomen van een onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden (artikel 10, tweede lid, aanhef en onder g, van de Wob).</p>",
+      "page": 128,
+      "polygon": [
+        [
+          84.11290322580645,
+          539.528153955809
+        ],
+        [
+          489.65725806451616,
+          539.8173828125
+        ],
+        [
+          489.65725806451616,
+          658.3563791874554
+        ],
+        [
+          84.11290322580645,
+          657.4013671875
+        ]
+      ],
+      "bbox": [
+        84.11290322580645,
+        539.528153955809,
+        489.65725806451616,
+        658.3563791874554
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Omdat uw verzoek betrekking heeft op informatie afkomstig van of betrekking hebbend op derden, is aan die derden gevraagd of zij bezwaar hebben tegen openbaarmaking en zo ja, op welke gronden van artikel 10 van de Wob. Eveneens is gevraagd aan deze derden of deze anoniem wensen te zijn. Omdat niet alle verzoeken tot geheimhouding geheel zijn ingewilligd, verstrek ik u,</p>",
+      "page": 128,
+      "polygon": [
+        [
+          82.31048387096774,
+          675.080078125
+        ],
+        [
+          494.4637096774194,
+          675.080078125
+        ],
+        [
+          494.4637096774194,
+          735.7747683535282
+        ],
+        [
+          82.31048387096774,
+          733.3741981468282
+        ]
+      ],
+      "bbox": [
+        82.31048387096774,
+        675.080078125,
+        494.4637096774194,
+        735.7747683535282
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Postbus 16326</p>",
+      "page": 128,
+      "polygon": [
+        [
+          82.91129032258065,
+          760.9807555238774
+        ],
+        [
+          127.46484375,
+          760.9807555238774
+        ],
+        [
+          127.46484375,
+          770.8740234375
+        ],
+        [
+          82.91129032258065,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        82.91129032258065,
+        760.9807555238774,
+        127.46484375,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wijnhaven 24</p>",
+      "page": 128,
+      "polygon": [
+        [
+          176.35546875,
+          761.5808980755525
+        ],
+        [
+          219.8951612903226,
+          761.5808980755525
+        ],
+        [
+          219.8951612903226,
+          770.8740234375
+        ],
+        [
+          176.35546875,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        176.35546875,
+        761.5808980755525,
+        219.8951612903226,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Muzenstraat 81</p>",
+      "page": 128,
+      "polygon": [
+        [
+          272.390625,
+          761.8291015625
+        ],
+        [
+          320.8306451612903,
+          761.8291015625
+        ],
+        [
+          320.8306451612903,
+          770.8740234375
+        ],
+        [
+          272.390625,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        272.390625,
+        761.8291015625,
+        320.8306451612903,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">T: [070] 330 33 30</p>",
+      "page": 128,
+      "polygon": [
+        [
+          367.69354838709677,
+          763.9814682822523
+        ],
+        [
+          421.681640625,
+          763.9814682822523
+        ],
+        [
+          421.681640625,
+          774.1630859375
+        ],
+        [
+          367.69354838709677,
+          774.1630859375
+        ]
+      ],
+      "bbox": [
+        367.69354838709677,
+        763.9814682822523,
+        421.681640625,
+        774.1630859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/20",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">E-mail: info@nmanet.nl</p>",
+      "page": 128,
+      "polygon": [
+        [
+          462.0201612903226,
+          763.9814682822523
+        ],
+        [
+          537.7217741935484,
+          763.9814682822523
+        ],
+        [
+          537.7217741935484,
+          778.2744140625
+        ],
+        [
+          462.0201612903226,
+          778.2744140625
+        ]
+      ],
+      "bbox": [
+        462.0201612903226,
+        763.9814682822523,
+        537.7217741935484,
+        778.2744140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/21",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2500 BH Den Haag</p>",
+      "page": 128,
+      "polygon": [
+        [
+          81.193359375,
+          774.57421875
+        ],
+        [
+          149.291015625,
+          774.57421875
+        ],
+        [
+          149.291015625,
+          784.44140625
+        ],
+        [
+          81.193359375,
+          784.44140625
+        ]
+      ],
+      "bbox": [
+        81.193359375,
+        774.57421875,
+        149.291015625,
+        784.44140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/22",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2511 GA Den Haag</p>",
+      "page": 128,
+      "polygon": [
+        [
+          177.228515625,
+          774.9853515625
+        ],
+        [
+          239.505859375,
+          774.9853515625
+        ],
+        [
+          239.505859375,
+          784.9864575908767
+        ],
+        [
+          177.228515625,
+          784.9864575908767
+        ]
+      ],
+      "bbox": [
+        177.228515625,
+        774.9853515625,
+        239.505859375,
+        784.9864575908767
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/23",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2511 WB Den Haag</p>",
+      "page": 128,
+      "polygon": [
+        [
+          271.517578125,
+          778.2744140625
+        ],
+        [
+          334.64919354838713,
+          778.2744140625
+        ],
+        [
+          334.64919354838713,
+          787.3193359375
+        ],
+        [
+          271.517578125,
+          787.3193359375
+        ]
+      ],
+      "bbox": [
+        271.517578125,
+        778.2744140625,
+        334.64919354838713,
+        787.3193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/24",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">F: [070] 330 33 70</p>",
+      "page": 128,
+      "polygon": [
+        [
+          366.970703125,
+          778.2744140625
+        ],
+        [
+          421.1653225806452,
+          778.2744140625
+        ],
+        [
+          421.1653225806452,
+          787.3193359375
+        ],
+        [
+          366.970703125,
+          787.3193359375
+        ]
+      ],
+      "bbox": [
+        366.970703125,
+        778.2744140625,
+        421.1653225806452,
+        787.3193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/25",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Website: www.nmanet.nl</p>",
+      "page": 128,
+      "polygon": [
+        [
+          458.640625,
+          777.86328125
+        ],
+        [
+          538.3225806451613,
+          777.86328125
+        ],
+        [
+          538.3225806451613,
+          787.73046875
+        ],
+        [
+          458.640625,
+          787.73046875
+        ]
+      ],
+      "bbox": [
+        458.640625,
+        777.86328125,
+        538.3225806451613,
+        787.73046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/1/Picture/0'></p>",
+      "page": 42,
+      "polygon": [
+        [
+          446.8544921875,
+          68.28916015625
+        ],
+        [
+          507.6767578125,
+          68.28916015625
+        ],
+        [
+          507.6767578125,
+          94.51943359375
+        ],
+        [
+          446.8544921875,
+          94.51943359375
+        ]
+      ],
+      "bbox": [
+        446.8544921875,
+        68.28916015625,
+        507.6767578125,
+        94.51943359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {
+        "/page/1/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">gelet op artikel 6, derde lid, van de Wob de geschoonde informatie twee weken na de bekendmaking van dit besluit. De bovenbedoelde derden ontvangen een afschrift van dit besluit.</p>",
+      "page": 42,
+      "polygon": [
+        [
+          93.125,
+          115.82751247327157
+        ],
+        [
+          497.4677419354839,
+          115.82751247327157
+        ],
+        [
+          497.4677419354839,
+          144.6343549536707
+        ],
+        [
+          93.125,
+          143.4853515625
+        ]
+      ],
+      "bbox": [
+        93.125,
+        115.82751247327157,
+        497.4677419354839,
+        144.6343549536707
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ik vertrouw erop u hiermee voldoende te hebben geïnformeerd.</p>",
+      "page": 42,
+      "polygon": [
+        [
+          91.92338709677419,
+          174.04133998574483
+        ],
+        [
+          358.08064516129036,
+          175.142578125
+        ],
+        [
+          358.08064516129036,
+          189.0449037776194
+        ],
+        [
+          91.92338709677419,
+          187.24447612259445
+        ]
+      ],
+      "bbox": [
+        91.92338709677419,
+        174.04133998574483,
+        358.08064516129036,
+        189.0449037776194
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hoogachtend,</p>",
+      "page": 42,
+      "polygon": [
+        [
+          91.92338709677419,
+          203.5107421875
+        ],
+        [
+          154.40725806451613,
+          203.5107421875
+        ],
+        [
+          154.40725806451613,
+          216.65146115466857
+        ],
+        [
+          91.92338709677419,
+          216.65146115466857
+        ]
+      ],
+      "bbox": [
+        91.92338709677419,
+        203.5107421875,
+        154.40725806451613,
+        216.65146115466857
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">De Raad van Bestuur van de Nederlandse Mededingingsautoriteit,</p>",
+      "page": 42,
+      "polygon": [
+        [
+          91.3225806451613,
+          265.1806640625
+        ],
+        [
+          369.4959677419355,
+          265.1806640625
+        ],
+        [
+          369.4959677419355,
+          284.0927734375
+        ],
+        [
+          91.3225806451613,
+          284.0927734375
+        ]
+      ],
+      "bbox": [
+        91.3225806451613,
+        265.1806640625,
+        369.4959677419355,
+        284.0927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">namens deze:</p>",
+      "page": 42,
+      "polygon": [
+        [
+          90.72177419354838,
+          281.46685673556664
+        ],
+        [
+          153.20564516129033,
+          281.46685673556664
+        ],
+        [
+          153.20564516129033,
+          293.1376953125
+        ],
+        [
+          90.72177419354838,
+          293.1376953125
+        ]
+      ],
+      "bbox": [
+        90.72177419354838,
+        281.46685673556664,
+        153.20564516129033,
+        293.1376953125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">mr. G. Bakker Directeur Directie Mededinging</p>",
+      "page": 42,
+      "polygon": [
+        [
+          89.923828125,
+          310.81640625
+        ],
+        [
+          225.30241935483872,
+          310.81640625
+        ],
+        [
+          225.30241935483872,
+          337.28011404134
+        ],
+        [
+          89.923828125,
+          337.28011404134
+        ]
+      ],
+      "bbox": [
+        89.923828125,
+        310.81640625,
+        225.30241935483872,
+        337.28011404134
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tegen dit besluit kan degene, wiens belang rechtstreeks bij dit besluit is betrokken, binnen zes weken na de dag van bekendmaking van dit besluit een gemotiveerd bezwaarschrift indienen bij de Raad van Bestuur van de Nederlandse Mededingingsautoriteit, Juridische Dienst, Postbus 16326, 2500 BH, Den Haag. In dit bezwaarschrift kan een belanghebbende op basis van artikel 7:1a, eerste lid, van de Algemene wet bestuursrecht de Raad van Bestuur van de Nederlandse Mededingingsautoriteit verzoeken in te stemmen met rechtstreeks beroep bij de administratieve rechter.</p>",
+      "page": 42,
+      "polygon": [
+        [
+          85.91532258064517,
+          436.30363506771204
+        ],
+        [
+          508.883064516129,
+          436.623046875
+        ],
+        [
+          508.883064516129,
+          524.5245901639345
+        ],
+        [
+          85.91532258064517,
+          524.5245901639345
+        ]
+      ],
+      "bbox": [
+        85.91532258064517,
+        436.30363506771204,
+        508.883064516129,
+        524.5245901639345
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 42,
+      "polygon": [
+        [
+          284.78225806451616,
+          807.7918745545261
+        ],
+        [
+          294.9959677419355,
+          807.7918745545261
+        ],
+        [
+          294.9959677419355,
+          816.9208984375
+        ],
+        [
+          284.78225806451616,
+          816.9208984375
+        ]
+      ],
+      "bbox": [
+        284.78225806451616,
+        807.7918745545261,
+        294.9959677419355,
+        816.9208984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>Ma</h2>",
+      "page": 395,
+      "polygon": [
+        [
+          447.0,
+          65.78125
+        ],
+        [
+          502.875,
+          65.78125
+        ],
+        [
+          502.875,
+          90.44921875
+        ],
+        [
+          447.0,
+          90.44921875
+        ]
+      ],
+      "bbox": [
+        447.0,
+        65.78125,
+        502.875,
+        90.44921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Bijlage bij brief met kenmerk 6604/70.B778 in zaak 6604/Wobverzoek inzake 6397</p>",
+      "page": 395,
+      "polygon": [
+        [
+          90.796875,
+          120.02851033499644
+        ],
+        [
+          440.015625,
+          121.82893799002139
+        ],
+        [
+          440.015625,
+          135.63221667854597
+        ],
+        [
+          90.796875,
+          135.2626953125
+        ]
+      ],
+      "bbox": [
+        90.796875,
+        120.02851033499644,
+        440.015625,
+        135.63221667854597
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Table/2",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th><u>j</u></th><th>· · · · · · · · · · · · · · · · · · ·</th><th>···</th><th><del></del></th><th>· · · · · · · · · · · · · · · · · · ·</th><th>k 6604/Wobverzoel</th><th><u> </u></th></tr><tr><td></td><td>Prismanr.</td><td>Datum</td><td>Van</td><td>Aan</td><td>Omschrijving</td><td>Opmerkingen m.b.t. de Wob</td></tr><tr><td>1</td><td>6397/119.B1110</td><td>21-10-2008</td><td>NMa</td><td>KPN en</td><td>Zienswijzen</td><td>Delen van de zienswijzen en</td></tr><tr><td></td><td></td><td>ļ</td><td></td><td>Reggefiber</td><td>derden en</td><td>gespreksverslagen zijn vertrouwelijk</td></tr><tr><td></td><td></td><td></td><td>ļ</td><td>1</td><td>gespreksverslag</td><td></td></tr><tr><td><u> </u></td><td></td><td></td><td></td><td></td><td>-en van derden</td><td>sub g j° art.10 lid 2 sub d Wob.</td></tr><tr><td>2</td><td>6397/11</td><td>18-07-2008</td><td>Anoniem</td><td>NMa</td><td>Opmerkingen</td><td>Anonimiteit o.g.v. art.10 lid 2 sub g Wob.</td></tr><tr><td>İ</td><td></td><td></td><td></td><td></td><td>aangaande</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>ļ</td><td>concentratie</td><td></td></tr><tr><td>3</td><td>6397/285</td><td>08-12-2008</td><td>Reggefiber</td><td>NMa</td><td>Zienswijze van</td><td>Openbaar</td></tr><tr><td>|-</td><td>|</td><td>1</td><td></td><td></td><td>Reggefiber op</td><td>- F</td></tr><tr><td></td><td>İ</td><td></td><td></td><td></td><td>de reacties van</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>marktpartijen</td><td></td></tr><tr><td></td><td></td><td></td><td>|</td><td></td><td>door Brinkhof</td><td></td></tr><tr><td></td><td></td><td>ļ</td><td></td><td></td><td>advocaten</td><td></td></tr><tr><td>4</td><td>6397/236</td><td>08-12-2008</td><td>KPN</td><td>NMa</td><td>Zienswijze van</td><td>Openbaar</td></tr><tr><td>1.</td><td></td><td></td><td></td><td></td><td>KPN op de</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>reacties van</td><td></td></tr><tr><td>İ</td><td></td><td></td><td></td><td></td><td>marktpartijen</td><td></td></tr><tr><td></td><td></td><td></td><td><u> </u></td><td></td><td>door De Brauw</td><td></td></tr><tr><td></td><td>ans propried the second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second second</td><td></td><td></td><td>op - university ender university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the university of the universi</td><td>Blackstone</td><td></td></tr><tr><td></td><td>6397/207</td><td>04-12-2008</td><td>ACT</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td></td><td>•</td><td></td><td></td><td>markttest</td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>6397/255</td><td>04-12-2008</td><td>BBned</td><td>NMa</td><td>Reactie</td><td>Deels vertrouwelijk o.g.v. art.10 lid 1 sub c j°</td></tr><tr><td></td><td></td><td>•</td><td></td><td></td><td>markttest</td><td>art.10 lid 2 sub g Wob.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>В може</td></tr><tr><td>7</td><td>6397/259</td><td>04-12-2008</td><td>BT</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td></td><td></td><td>ļ</td><td></td><td>markttest</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>ļ</td><td></td></tr><tr><td></td><td></td><td>***</td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>6397/196</td><td>02-12-2008</td><td>CAIW</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td>]</td><td></td><td></td><td>ļ</td><td>markttest</td><td></td></tr><tr><td>9</td><td>6397/206</td><td>04-12-2008</td><td>Colt</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td>_</td><td></td><td></td><td></td><td>|</td><td>markttest</td><td></td></tr><tr><td>10</td><td>6397/182</td><td>28-11-2008</td><td>Edutel</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td>| 357,7.2</td><td></td><td></td><td></td><td>markttest</td><td>96110441</td></tr><tr><td>11</td><td>6207/205</td><td>00.10.000</td><td>Anoniom</td><td>NMa</td><td></td><td>A</td></tr><tr><td>11</td><td>6397/195</td><td>02-12-2008</td><td>Anoniem</td><td>| NWa<br/>|</td><td>Reactie</td><td>Anonimiteit o.g.v. art.10 lid 2 sub g Wob.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>markttest</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>•</td><td></td><td></td></tr><tr><td>12</td><td>6397/223</td><td>02-12-2008</td><td>NLKabel</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td>}</td><td></td><td>i</td><td></td><td>markttest</td><td></td></tr><tr><td></td><td>ĺ</td><td>ļ</td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td>6397/260</td><td>04-12-2008</td><td>Online</td><td>NMa</td><td>Reactie</td><td>Deels vertrouwelijk o.g.v. art.10 lid 1 sub c j°</td></tr><tr><td>-</td><td>|</td><td>•</td><td></td><td>-</td><td>markttest</td><td>art.10 lid 2 sub g Wob.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td>6397/261</td><td>04-12-2008</td><td>Online</td><td>NMa</td><td>Reactie</td><td>Deels vertrouwelijk o.g.v. art.10 lid 1 sub c j°</td></tr><tr><td>- 寸</td><td>| -5,7,7,20.</td><td></td><td></td><td>. 414101</td><td></td><td>. –</td></tr><tr><td></td><td><u> </u></td><td></td><td></td><td></td><td>markttest</td><td>art.10 lid 2 sub g Wob.</td></tr><tr><td>15</td><td>6397/205</td><td>04-12-2008</td><td>UPC</td><td>NMa</td><td>Reactie</td><td>Openbaar</td></tr><tr><td></td><td></td><td>İ</td><td></td><td></td><td>markttest</td><td></td></tr><tr><td></td><td></td><td></td><td>ĺ</td><td></td><td></td><td></td></tr><tr><td></td><td>|</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><u> </u></td><td></td><td><u>_</u></td><td></td><td></td><td></td></tr></tbody></table>",
+      "page": 395,
+      "polygon": [
+        [
+          29.520625,
+          127.056484375
+        ],
+        [
+          580.448125,
+          127.056484375
+        ],
+        [
+          580.448125,
+          754.412265625
+        ],
+        [
+          29.520625,
+          754.412265625
+        ]
+      ],
+      "bbox": [
+        29.520625,
+        127.056484375,
+        580.448125,
+        754.412265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 395,
+      "polygon": [
+        [
+          282.97983870967744,
+          802.9907341411262
+        ],
+        [
+          294.9959677419355,
+          802.9907341411262
+        ],
+        [
+          294.9959677419355,
+          819.7947255880257
+        ],
+        [
+          282.97983870967744,
+          819.7947255880257
+        ]
+      ],
+      "bbox": [
+        282.97983870967744,
+        802.9907341411262,
+        294.9959677419355,
+        819.7947255880257
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>Ma</h2>",
+      "page": 82,
+      "polygon": [
+        [
+          448.20161290322585,
+          65.41553813257306
+        ],
+        [
+          509.48387096774195,
+          65.41553813257306
+        ],
+        [
+          509.48387096774195,
+          94.8225231646472
+        ],
+        [
+          448.20161290322585,
+          94.8225231646472
+        ]
+      ],
+      "bbox": [
+        448.20161290322585,
+        65.41553813257306,
+        509.48387096774195,
+        94.8225231646472
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Table/1",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>16</th><th>6397/199</th><th>02-12-2008</th><th>Anoniem</th><th>NMa</th><th>Reactie<br/>markttest</th><th>Anonimiteit o.g.v. art.10 lid 2 sub g Wob.</th></tr><tr><td>17</td><td>6397/258</td><td>04-12-2008</td><td>Tele2</td><td>NMa</td><td>Reactie<br/>markttest</td><td>Openbaar</td></tr><tr><td>18</td><td>6397/181</td><td>20-10-2008</td><td>Anoniem</td><td>Nma</td><td>Reactie<br/>markttest</td><td>Deels vertrouwelijk en anoniem o.g.v. art.10 lid 2 sub g Wob.</td></tr><tr><td>19</td><td>6397/225</td><td>02-12-2008</td><td>Vodafone</td><td>NMa</td><td>Reactie<br/>markttest</td><td>Openbaar</td></tr><tr><td>20</td><td>6397/10</td><td>16-07-2008</td><td>Vodafone</td><td>NMa</td><td>Bedenkingen<br/>inzake<br/>voorgenomen<br/>joint venture</td><td>Openbaar</td></tr><tr><td>21</td><td>6397/208</td><td>04-12-2008</td><td>Ziggo</td><td>NMa</td><td>Reactie<br/>markttest</td><td>Openbaar</td></tr><tr><td>22</td><td>6397/243</td><td>2-12-2008</td><td>Colt</td><td>NMa</td><td>Zienswijze</td><td>Openbaar</td></tr><tr><td rowspan=\"3\">23</td><td>6397/218</td><td></td><td>Tele 2</td><td>NMa</td><td>Reactie<br/>markttest<br/>namens BOT.</td><td>Deels vertrouwelijk o.g.v. art.10 lid 2 sub g<br/>Wob.</td></tr><tr><td></td><td></td><td><del>agina kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan kanasan ka</del></td><td></td><td>(BBned, Online,</td><td>The contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contraction of the contracti</td></tr><tr><td></td><td></td><td><u>,                                      </u></td><td></td><td>Tele 2)</td><td></td></tr><tr><td>24</td><td>6397/143.81110</td><td>26-11-2009</td><td>NMa</td><td>Marktpartijen</td><td>Markttest</td><td>Deels vertrouwelijk o.g.v. art.10 lid 1 sub c j° art.10 lid 2 sub g Wob.</td></tr></tbody></table>",
+      "page": 82,
+      "polygon": [
+        [
+          32.98953125,
+          104.6744140625
+        ],
+        [
+          586.29171875,
+          104.6744140625
+        ],
+        [
+          586.29171875,
+          414.9974609375
+        ],
+        [
+          32.98953125,
+          414.9974609375
+        ]
+      ],
+      "bbox": [
+        32.98953125,
+        104.6744140625,
+        586.29171875,
+        414.9974609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 82,
+      "polygon": [
+        [
+          279.9758064516129,
+          803.5908766928012
+        ],
+        [
+          291.991935483871,
+          803.5908766928012
+        ],
+        [
+          291.991935483871,
+          818.5944404846757
+        ],
+        [
+          279.9758064516129,
+          818.5944404846757
+        ]
+      ],
+      "bbox": [
+        279.9758064516129,
+        803.5908766928012,
+        291.991935483871,
+        818.5944404846757
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,992 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 173,
+      "polygon": [
+        [
+          30.2365234375,
+          21.74892578125
+        ],
+        [
+          165.3259765625,
+          21.74892578125
+        ],
+        [
+          165.3259765625,
+          76.92294921875
+        ],
+        [
+          30.2365234375,
+          76.92294921875
+        ]
+      ],
+      "bbox": [
+        30.2365234375,
+        21.74892578125,
+        165.3259765625,
+        76.92294921875
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC3AcIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiijIPSgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiq1/dpY2E91IwVYkLEn2FAHNeKfiPoPhK4FtqEz/aCN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4SFv1Qchh1b6HOKABlufFOgw6ja711/SMCZf45EHQ+uck17N8Odf0Tx1pcP9rWlu2t2oAlMyDeSO4zzXlMtzdaZrFp490KEyWd02bqBBnYx+8pA7YNe0+E9L8JeJWg8S6VbfZbs8usRCEH0YY560Ad+AFAA6CloooA8d/aH/AORQsf8Aru38hXzRaf8AH7B/10X+dfS/7Q//ACKFj/13b+Qr5otP+P2D/rov86APuTwz/wAizp3/AFwWtWsrwz/yLOnf9cFrVoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAjngjuYWhmUNG4wynvXknj46hYRnw/4L0RYJZxtnuI49o2+gNev1U1K2nu7CWC3n8iR1wJMdKAPljXLBvC2lQeFLBhNrd8R9uaP5iAf4Mj0IzXpK6Fq3gL4YwWWjWqnVbwAXExYDYTjNWk8K6V4D1j+0ZY5b/Upfna5mO7B9gRnNWtX8RSazp0eoFisW7bBEqkszdzge1AHhkPgTUbi713+0nJm0+PzJHDbgxLY696zPD3haTXtH1i7iJ8yxhWQKP4ssBXvWualYReAtbW3sBbstsu6bjLgsBg+9cB8Cr6G2uddSeDz0Nsp8r+981AGv8ACWXxLprwaRd24uNGv4d4VmGUBB/w6Vja9YS/DXx9c2rRE6DqJ2shGVKEnA+o616Hb34k1tEtFFnHjfCNnyq/fB6YxxVjWtU03xjA2n6tpyy+W+w4wGVumVOKAON8OaXq3gnXXextjq3hS/OQF+b5T0OPXpXumi6ZpdnALjTbGO1WcbiqJtz9RWP4M8Gv4OhktINQknsT/q4pCSU+hrraACiiigDx39of/kULH/ru38hXzRaf8fsH/XRf519L/tD/APIoWP8A13b+Qr5otP8Aj9g/66L/ADoA+5PDP/Is6d/1wWtWsrwz/wAizp3/AFwWtWgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA53xhp019pJNtbrNMp4HAbHse1cfo2h3el+INP8APs3eCTLleqxEg8V6lRQB4T8YtbS8hk8LaBYu1wzF7spGQMDn09RXl/w31G+8Na3HrRtJZNNDeVclVJ4/ya+ujpVgbiS4+yRefIpV5NvzEfWqtn4Y0awsZLK30+BbaRt7x7Bgn/IoA5fxCbbUfD2ny6LZFop2+RkTaUBHXHao/C/hi7sNaZbu1SSCNQRLJhizev19676GCK2hWKGNY41GFVRgAVJQAUUUUAFFFFAHkX7QNvLceE7JYkLETt0+gr5vtNLvBeQHyW/1i/zr6p+L/wDyL1r/ANdT/KvFLf8A4+Yv98fzrgxGLlSqcqR9blHD1HHYX285tPX8D6a8NqV8N6epGCIVzWrVDRP+QLZ/9chV+u5O6ufK1I8s3HsFFFFMgKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDzv4v/wDIvWv/AF1P8q8Ut/8Aj5i/3x/Ova/i/wD8i9a/9dT/ACrxS3/4+Yv98fzrxcb/ABj9N4Y/5Fq9WfUGif8AIFs/+uQq/VDRP+QLZ/8AXIVfr2I/Cj83r/xZerCiiiqMgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPO/i//wAi9a/9dT/KvFLf/j5i/wB8fzr2v4v/APIvWv8A11P8q8Ut/wDj5i/3x/OvFxv8Y/TeGP8AkWr1Z9QaJ/yBbP8A65Cr9UNE/wCQLZ/9chV+vYj8KPzev/Fl6sKKKKoyCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA87+L/APyL1r/11P8AKvFLf/j5i/3x/Ova/i//AMi9a/8AXU/yrxS3/wCPmL/fH868XG/xj9N4Y/5Fq9WfUGif8gWz/wCuQq/VDRP+QLZ/9chV+vYj8KPzev8AxZerCiiiqMgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPOvi/8A8i9a/wDXU/yrxW3/AOPmL/fH86+j/FtjbX9hGl1EJFDEgGuOTw3pAkUiyjyCOwr5XNsxp0MV7OSfQ+4yLNaeGwSpSi27s9C0T/kCWf8A1yFX6gskWOzhRBhVUACp6+npu8Ez4uq+acn5hRRRVmYUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAGP4h/480/3q5tfvL9RRRX57xD/yMH6I9vA/wTt7b/j2j/3aloor76j/AA4+iPGl8TCiiitCQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//Z"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht</b> 02. August 2018</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.91999816894531,
+          123.33984375
+        ],
+        [
+          534.3046875,
+          123.33984375
+        ],
+        [
+          534.3046875,
+          136.49609375
+        ],
+        [
+          70.91999816894531,
+          136.49609375
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        123.33984375,
+        534.3046875,
+        136.49609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Freigabe des geplanten Erwerbs der Parfümerie Akzente durch Douglas</b></h2>",
+      "page": 173,
+      "polygon": [
+        [
+          69.84375,
+          175.96484375
+        ],
+        [
+          446.99999999999994,
+          175.96484375
+        ],
+        [
+          446.99999999999994,
+          189.5396728515625
+        ],
+        [
+          69.84375,
+          189.5396728515625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        175.96484375,
+        446.99999999999994,
+        189.5396728515625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Parfümerieprodukte</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.42578125,
+          205.1552734375
+        ],
+        [
+          309.05859375,
+          205.1552734375
+        ],
+        [
+          309.05859375,
+          219.9757080078125
+        ],
+        [
+          70.42578125,
+          219.9757080078125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        205.1552734375,
+        309.05859375,
+        219.9757080078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B2 – 69/18</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.42578125,
+          237.739013671875
+        ],
+        [
+          264.82421875,
+          237.739013671875
+        ],
+        [
+          264.82421875,
+          250.57861328125
+        ],
+        [
+          70.42578125,
+          250.57861328125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        237.739013671875,
+        264.82421875,
+        250.57861328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Freigabe: 25. Juli 2018</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.91999816894531,
+          267.6474609375
+        ],
+        [
+          273.5546875,
+          267.6474609375
+        ],
+        [
+          273.5546875,
+          281.30291748046875
+        ],
+        [
+          70.91999816894531,
+          281.30291748046875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        267.6474609375,
+        273.5546875,
+        281.30291748046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat den geplanten Erwerb der Parfümerie Akzente durch Douglas nach  intensiven Ermittlungen in der 1. Phase freigegeben. Die Ermittlungen hatten ergeben, dass der  Zusammenschluss keine erhebliche Behinderung wirksamen Wettbewerbs erwarten ließ.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          68.6796875,
+          318.6279296875
+        ],
+        [
+          541.6390991210938,
+          318.6279296875
+        ],
+        [
+          541.6390991210938,
+          370.20849609375
+        ],
+        [
+          68.6796875,
+          370.20849609375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        318.6279296875,
+        541.6390991210938,
+        370.20849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Douglas und Parfümerie Akzente sind tätig im Vertrieb von Parfümerieprodukten, die die Bereiche Düfte, dekorative und pflegende Kosmetik sowie sonstige Parfümerieprodukte (etwa  Haarpflegeprodukte) umfassen. Douglas ist Teil der CVC-Gruppe und betreibt Filialen in vielen  Ländern Europas, davon 456 in Deutschland, sowie ihren gleichnamigen Online-Shop.  Parfümerie Akzente betreibt 27 Filialen schwerpunktmäßig in Süddeutschland und den Online-Shop parfumdreams.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          68.6796875,
+          387.287109375
+        ],
+        [
+          541.61376953125,
+          387.287109375
+        ],
+        [
+          541.61376953125,
+          495.94305419921875
+        ],
+        [
+          68.6796875,
+          495.94305419921875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        387.287109375,
+        541.61376953125,
+        495.94305419921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Tätigkeiten der Zusammenschlussbeteiligten überschneiden sich insbesondere in dem  Vertrieb von Parfümerieprodukten des sogenannten Prestige-Segments an Endverbraucher.  Das Prestige-Segment umfasst Produkte, die normalerweise in Parfümerien oder  Parfumabteilungen von Warenhäusern vorzufinden sind und in luxuriöser Aufmachung und  Präsentation, zumeist höherpreisig und mit dem Angebot einer entsprechenden Beratung,  vertrieben werden. Sie werden zudem von den Herstellern häufig in einem Selektivsystem über  autorisierte Händler mit sogenannten Depotverträgen vertrieben. Davon abgegrenzt werden  kann ein Massen-Segment mit Produkten, die typischerweise zu niedrigeren Preisen und nicht  über Selektivsysteme vertrieben werden und z.B. auch in Drogeriemärkten in großem Umfang  vorzufinden sind. Die Ermittlungen haben hierzu teilweise fließende Übergänge ergeben.</p>",
+      "page": 173,
+      "polygon": [
+        [
+          68.6796875,
+          514.3271484375
+        ],
+        [
+          541.6215209960938,
+          514.3271484375
+        ],
+        [
+          541.6215209960938,
+          697.7431793212891
+        ],
+        [
+          68.6796875,
+          697.7431793212891
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        514.3271484375,
+        541.6215209960938,
+        697.7431793212891
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hat seine Untersuchung auf das Prestige-Segment fokussiert. Hier nimmt  Douglas eine führende Position im Inland ein. Parfümerie Akzente verfügt neben ihrer Präsenz  mit stationären Filialen in bestimmten lokalen Markträumen über eine bedeutende Markstellung</p>",
+      "page": 173,
+      "polygon": [
+        [
+          70.89801788330078,
+          716.193359375
+        ],
+        [
+          541.6049194335938,
+          716.193359375
+        ],
+        [
+          541.6049194335938,
+          766.6106643676758
+        ],
+        [
+          70.89801788330078,
+          766.6106643676758
+        ]
+      ],
+      "bbox": [
+        70.89801788330078,
+        716.193359375,
+        541.6049194335938,
+        766.6106643676758
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 173,
+      "polygon": [
+        [
+          300.328125,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          300.328125,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">im Online-Bereich. Zur Beurteilung der wettbewerblichen Auswirkungen des  Zusammenschlussvorhabens hat das Amt Wettbewerber der Zusammenschlussbeteiligten mit  Tätigkeitsschwerpunkten im stationären bzw. im Onlinehandel befragt und die Vertriebs- und  Beschaffungsstrukturen ermittelt.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.90895080566406,
+          121.6953125
+        ],
+        [
+          541.6246948242188,
+          121.6953125
+        ],
+        [
+          541.6246948242188,
+          191.7628173828125
+        ],
+        [
+          70.90895080566406,
+          191.7628173828125
+        ]
+      ],
+      "bbox": [
+        70.90895080566406,
+        121.6953125,
+        541.6246948242188,
+        191.7628173828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Marktabgrenzung und Wettbewerbsverhältnis offline/online</b></h2>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          210.0888671875
+        ],
+        [
+          381.03564453125,
+          210.0888671875
+        ],
+        [
+          381.03564453125,
+          222.87957763671875
+        ],
+        [
+          69.84375,
+          222.87957763671875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        210.0888671875,
+        381.03564453125,
+        222.87957763671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ermittlungen des Amtes konzentrierten sich insbesondere auf Fragen der sachlichen und  räumlichen Marktabgrenzung sowie die Marktposition der Parteien und ihrer wesentlichen  Wettbewerber. Die befragten Händler bejahten, soweit sie schwerpunktmäßig stationär tätig  waren, ganz überwiegend die klare Trennung eines Prestige-Segments von einem Massen-Segment an Parfümerieprodukten. Die überwiegend (und teilweise ausschließlich) online tätigen Händler befürworteten dagegen größtenteils Tendenzen eines Zusammenwachsens  beider Segmente bzw. die Existenz eines Zwischensegments. Im Ergebnis erschien eine  Unterteilung zwischen sachlichen Märkten für Massen- bzw. für Prestigekosmetik aufgrund des  entsprechenden Schwerpunkts der Tätigkeit der Zusammenschlussbeteiligten gleichwohl als  sachgerecht.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          241.3349609375
+        ],
+        [
+          541.5983276367188,
+          241.3349609375
+        ],
+        [
+          541.5983276367188,
+          424.51904296875
+        ],
+        [
+          68.6796875,
+          424.51904296875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        241.3349609375,
+        541.5983276367188,
+        424.51904296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Den Wettbewerbsdruck, der von Onlinehändlern auf den stationären Handel ausgeübt wird,  schätzte die weit überwiegende Mehrheit der Befragten als ausgesprochen stark ein und  verwies in diesem Zusammenhang insbesondere auf die sehr hohe Relevanz der Online-Marktplätze. Umgekehrt wurde der vom stationären Handel auf den Onlinehandel ausgehende  Wettbewerbsdruck ganz überwiegend als deutlich weniger stark bewertet. Die Bedeutung des  Online-Vertriebs wird dabei nach einhelliger Erwartung der Befragten zukünftig weiter  zunehmen. Gegenwärtig beläuft sich der Umsatzanteil des Onlinehandels bei  Kosmetikprodukten auf ca. 11 % des Gesamtumsatzes in Deutschland. Im Ergebnis konnte  offen bleiben, inwieweit stationärer Handel und Onlinehandel mit Parfümerieprodukten des  Prestige-Segments inzwischen einen einheitlichen Markt im wettbewerbsrechtlichen Sinne  darstellen, da das Fusionsvorhaben unter Zugrundelegung jeder Abgrenzung freizugeben war.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          68.6796875,
+          441.9677734375
+        ],
+        [
+          541.5906982421875,
+          441.9677734375
+        ],
+        [
+          541.5906982421875,
+          645.1533966064453
+        ],
+        [
+          68.6796875,
+          645.1533966064453
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        441.9677734375,
+        541.5906982421875,
+        645.1533966064453
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Im Zuge der Ermittlungen wurde weiter deutlich, dass den Beschaffungsmöglichkeiten von  Parfümerieprodukten über den sogenannten \"grauen Markt\" mittlerweile eine besondere  Bedeutung beizumessen ist. Obwohl Parfümerieprodukte des Prestige-Segments häufig in  einem Selektivvertriebssystem der Hersteller gehandelt werden, zeigte sich, dass diese Waren  in Form von Drittbezug, Import oder über sonstige Kanäle auch anderweitig verfügbar sind und  durch stationäre Händler und insbesondere Onlinehändler vertrieben werden. Aufgrund der</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.85400390625,
+          664.8017578125
+        ],
+        [
+          541.6051635742188,
+          664.8017578125
+        ],
+        [
+          541.6051635742188,
+          771.0093765258789
+        ],
+        [
+          70.85400390625,
+          771.0093765258789
+        ]
+      ],
+      "bbox": [
+        70.85400390625,
+        664.8017578125,
+        541.6051635742188,
+        771.0093765258789
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          301.91998291015625,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          788.1416015625
+        ],
+        [
+          307.89453125,
+          798.3520050048828
+        ],
+        [
+          301.91998291015625,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        301.91998291015625,
+        788.1416015625,
+        307.89453125,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Verfügbarkeit von Sortimenten der Prestige-Kategorie über den \"grauen Markt\" geht  Wettbewerbsdruck von einer Vielzahl von Wettbewerbern aus, die nicht Inhaber von  Depotverträgen sind.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          70.90892028808594,
+          122.9287109375
+        ],
+        [
+          541.6148071289062,
+          122.9287109375
+        ],
+        [
+          541.6148071289062,
+          172.80712890625
+        ],
+        [
+          70.90892028808594,
+          172.80712890625
+        ]
+      ],
+      "bbox": [
+        70.90892028808594,
+        122.9287109375,
+        541.6148071289062,
+        172.80712890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Marktposition der Beteiligten</b></h2>",
+      "page": 161,
+      "polygon": [
+        [
+          70.42578125,
+          191.1767578125
+        ],
+        [
+          222.6217498779297,
+          191.1767578125
+        ],
+        [
+          222.6217498779297,
+          203.92388916015625
+        ],
+        [
+          70.42578125,
+          203.92388916015625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        191.1767578125,
+        222.6217498779297,
+        203.92388916015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ermittlung der Marktposition der Zusammenschlussbeteiligten und ihrer Wettbewerber  erfolgte auf der Grundlage einer differenzierten Abfrage von preisgruppenspezifischen  Umsatzdaten in den Bereichen Düfte, dekorative-, pflegende Kosmetik und sonstige  Parfümerieprodukte. Im Online-Bereich wurde ein Großteil der relevanten Marktteilnehmer  direkt befragt. Die teilweise erheblichen Online-Umsätze, die stationäre Händler in eigenen  Onlineshops erzielen, wurden entsprechend zugerechnet und um Schätzungen für die Umsätze  der nicht direkt erfassten Anbieter ergänzt. Im stationären Bereich flossen Umsätze von  stationären Händlern, die nicht direkt erfasst wurden, ebenfalls auf der Basis von Schätzungen  in die Berechnungen ein. Dies betraf vor allem inhabergeführte Parfümerien, die  zusammengenommen eine bedeutende Marktposition innehaben.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          69.84375,
+          222.4228515625
+        ],
+        [
+          541.5904541015625,
+          222.4228515625
+        ],
+        [
+          541.5904541015625,
+          405.7880859375
+        ],
+        [
+          69.84375,
+          405.7880859375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        222.4228515625,
+        541.5904541015625,
+        405.7880859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Onlinehandel mit Parfümerieprodukten des Prestige-Segments liegen die Marktanteile der  Beteiligten bundesweit nach der Fusion zusammen bei unter 35%, während der Wettbewerber  Amazon mit seiner Retail-Sparte auf bis zu 15% kommt. Weitere wichtige Wettbewerber sind  Flaconi und Notino. Über den Amazon Marketplace, auf dem eine Vielzahl an Dritthändlern  handeln, werden weitere bis zu 30 % abgesetzt.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          70.91993713378906,
+          423.466796875
+        ],
+        [
+          541.5971069335938,
+          423.466796875
+        ],
+        [
+          541.5971069335938,
+          512.3422241210938
+        ],
+        [
+          70.91993713378906,
+          512.3422241210938
+        ]
+      ],
+      "bbox": [
+        70.91993713378906,
+        423.466796875,
+        541.5971069335938,
+        512.3422241210938
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im stationären Handel mit Parfümerieprodukten des Prestige-Segments liegen die  Umsatzanteile der Beteiligten bundesweit bei zusammen ca. 25-30%. Daneben vereinen die  folgenden relevanten Wettbewerber (bzw. Gruppen) entsprechende Umsatzanteile auf sich:  Inhabergeführte Parfümerien zusammen ca. 20-25% und die Parfumabteilungen der  Warenhäuser (u.a. Karstadt, Galeria Kaufhof, Breuninger) zusammen ca. 10-15%. Hinsichtlich  des stationären Handels geht das Amt weiterhin von lokalen Markträumen aus. Um die räumlichen Ausweichalternativen aus Sicht der Nachfrager zu ermitteln, wurden vorliegend Ermittlungen zu den Einzugsbereichen der Filialen der relevanten Anbieter durchgeführt. Hierbei zeigte sich, dass von den befragten Anbieter-Gruppen (Parfümerien, Warenhäuser, Drogeriemärkte) sehr heterogene Angaben gemacht wurden. In Bezug auf Parfümerien spricht  vieles dafür, dass Nachfrager eine Fahrtzeit von jedenfalls 15-20 Minuten und möglicherwiese  sogar länger zurücklegen. Die genaue räumliche Marktabgrenzung konnte im Ergebnis mangels  Entscheidungserheblichkeit gleichwohl offen gelassen werden.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          69.84375,
+          532.2584228515625
+        ],
+        [
+          541.6478881835938,
+          532.2584228515625
+        ],
+        [
+          541.6478881835938,
+          771.0093765258789
+        ],
+        [
+          69.84375,
+          771.0093765258789
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        532.2584228515625,
+        541.6478881835938,
+        771.0093765258789
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Auswirkungen des Vorhabens</b></h2>",
+      "page": 76,
+      "polygon": [
+        [
+          70.42578125,
+          122.9287109375
+        ],
+        [
+          228.62973022460938,
+          122.9287109375
+        ],
+        [
+          228.62973022460938,
+          135.0577392578125
+        ],
+        [
+          70.42578125,
+          135.0577392578125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        122.9287109375,
+        228.62973022460938,
+        135.0577392578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Trotz der bereits starken Marktstellung der Erwerberin war im Ergebnis nicht zu erwarten, dass  Douglas durch die Übernahme von Parfümerie Akzente nicht hinreichend kontrollierte  Verhaltensspielräume zuwachsen werden. Eine erhebliche Behinderung wirksamen  Wettbewerbs war nicht zu erwarten. Vielmehr verbleiben auch nach der Fusion sowohl im  Online-Vertrieb von Parfümerieprodukten des Prestige-Segments an Endverbraucher als auch  in den betroffenen lokalen stationären Märkten jeweils genügend wesentliche Wettbewerber. Im  Onlinehandel haben insbesondere Amazon sowie die auf Parfümerieprodukte spezialisierten Anbieter Flaconi und Notino jeweils bedeutende Marktpositionen. Zudem rechnen die befragten  Anbieter neben bereits erfolgten Marktzutritten auch in der Zukunft mit neuen Wettbewerbern im  Online-Bereich. In den stationär betroffenen Markträumen gibt es auch nach der Fusion noch  genügend Wettbewerber-Filialen, u.a. von Kaufhof, Karstadt, Drogeriemarkt Müller und diversen lokalen Parfümerien. Wettbewerbsdruck geht zudem von den Drogeriemarkt-Ketten dm und  Rossmann sowie dritten Online-Anbietern aus. Weiterhin liegen teilweise lokale Märkte mit  einem jährlichen Umsatzvolumen von unter 15 Mio. Euro vor, auf die eine Untersagung von  Gesetzes wegen nicht gestützt werden kann (Bagatellmärkte).</p>",
+      "page": 76,
+      "polygon": [
+        [
+          70.86478424072266,
+          153.763671875
+        ],
+        [
+          541.595947265625,
+          153.763671875
+        ],
+        [
+          541.595947265625,
+          431.689453125
+        ],
+        [
+          70.86478424072266,
+          431.689453125
+        ]
+      ],
+      "bbox": [
+        70.86478424072266,
+        153.763671875,
+        541.595947265625,
+        431.689453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 76,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

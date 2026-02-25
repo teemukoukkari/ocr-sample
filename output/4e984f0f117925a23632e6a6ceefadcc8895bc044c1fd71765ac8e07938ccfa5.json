@@ -1,0 +1,952 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 108,
+      "polygon": [
+        [
+          47.84296874999999,
+          51.658447265625
+        ],
+        [
+          211.74296875,
+          51.658447265625
+        ],
+        [
+          211.74296875,
+          101.464599609375
+        ],
+        [
+          47.84296874999999,
+          101.464599609375
+        ]
+      ],
+      "bbox": [
+        47.84296874999999,
+        51.658447265625,
+        211.74296875,
+        101.464599609375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Brussels,</b> <b>12</b> <b>February</b> <b>2026</b> <b>(OR. en)</b></p>",
+      "page": 108,
+      "polygon": [
+        [
+          340.3899841308594,
+          102.49365234375
+        ],
+        [
+          489.3851318359375,
+          102.49365234375
+        ],
+        [
+          489.3851318359375,
+          126.74969482421875
+        ],
+        [
+          340.3899841308594,
+          126.74969482421875
+        ]
+      ],
+      "bbox": [
+        340.3899841308594,
+        102.49365234375,
+        489.3851318359375,
+        126.74969482421875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>5875/26</b></p>",
+      "page": 108,
+      "polygon": [
+        [
+          340.3899841308594,
+          150.24169921875
+        ],
+        [
+          381.83514404296875,
+          150.24169921875
+        ],
+        [
+          381.83514404296875,
+          162.3896484375
+        ],
+        [
+          340.3899841308594,
+          162.3896484375
+        ]
+      ],
+      "bbox": [
+        340.3899841308594,
+        150.24169921875,
+        381.83514404296875,
+        162.3896484375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Interinstitutional File:</b> <b>2025/0241 (COD)</b></p>",
+      "page": 108,
+      "polygon": [
+        [
+          91.087890625,
+          167.94140625
+        ],
+        [
+          234.84960937499997,
+          167.94140625
+        ],
+        [
+          234.84960937499997,
+          196.58966064453125
+        ],
+        [
+          91.087890625,
+          196.58966064453125
+        ]
+      ],
+      "bbox": [
+        91.087890625,
+        167.94140625,
+        234.84960937499997,
+        196.58966064453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<blockquote><p block-type=\"Text\"><b>AGRI 75</b> <b>AGRIFIN 19</b> <b>FIN 180</b> <b>CADREFIN 38</b> <b>CODEC 135</b> <b>ENV 79</b> <b>FORETS 14</b></p></blockquote>",
+      "page": 108,
+      "polygon": [
+        [
+          338.7421875,
+          211.16162109375
+        ],
+        [
+          415.7423095703125,
+          211.16162109375
+        ],
+        [
+          415.7423095703125,
+          302.33966064453125
+        ],
+        [
+          338.7421875,
+          302.33966064453125
+        ]
+      ],
+      "bbox": [
+        338.7421875,
+        211.16162109375,
+        415.7423095703125,
+        302.33966064453125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>NOTE</b></h2>",
+      "page": 108,
+      "polygon": [
+        [
+          55.87499999999999,
+          316.53662109375
+        ],
+        [
+          88.43519592285156,
+          316.53662109375
+        ],
+        [
+          88.43519592285156,
+          328.73968505859375
+        ],
+        [
+          55.87499999999999,
+          328.73968505859375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        316.53662109375,
+        88.43519592285156,
+        328.73968505859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/6",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>From:</th><th>General Secretariat of the Council</th></tr><tr><td>To:</td><td>Delegations</td></tr><tr><td>Subject:</td><td>Post 2027 Common Agricultural Policy proposals</td></tr><tr><td></td><td>-<br/>Policy debate</td></tr></tbody></table>",
+      "page": 108,
+      "polygon": [
+        [
+          49.8684375,
+          330.671689453125
+        ],
+        [
+          543.8034375,
+          330.671689453125
+        ],
+        [
+          543.8034375,
+          400.367373046875
+        ],
+        [
+          49.8684375,
+          400.367373046875
+        ]
+      ],
+      "bbox": [
+        49.8684375,
+        330.671689453125,
+        543.8034375,
+        400.367373046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The annex to this note contains the Presidency's background note and guiding questions for the  Council meeting ('Agriculture and Fisheries') on 23 February 2026.</p>",
+      "page": 108,
+      "polygon": [
+        [
+          54.7109375,
+          422.3232421875
+        ],
+        [
+          517.2839965820312,
+          422.3232421875
+        ],
+        [
+          517.2839965820312,
+          455.6514587402344
+        ],
+        [
+          54.7109375,
+          455.6514587402344
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        422.3232421875,
+        517.2839965820312,
+        455.6514587402344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">5875/26 1</p>",
+      "page": 108,
+      "polygon": [
+        [
+          56.63999557495117,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          780.3014602661133
+        ],
+        [
+          538.780029296875,
+          798.13330078125
+        ],
+        [
+          56.63999557495117,
+          798.13330078125
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        780.3014602661133,
+        538.780029296875,
+        798.13330078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 108,
+      "polygon": [
+        [
+          280.7300109863281,
+          794.4287109375
+        ],
+        [
+          539.7759399414062,
+          794.4287109375
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          280.7300109863281,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        280.7300109863281,
+        794.4287109375,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 87,
+      "polygon": [
+        [
+          494.72656249999994,
+          69.54150390625
+        ],
+        [
+          538.9609375,
+          69.54150390625
+        ],
+        [
+          538.9609375,
+          81.54150390625
+        ],
+        [
+          494.72656249999994,
+          81.54150390625
+        ]
+      ],
+      "bbox": [
+        494.72656249999994,
+        69.54150390625,
+        538.9609375,
+        81.54150390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Scope and targeting of CAP national recommendations in the future CAP</b></h2>",
+      "page": 87,
+      "polygon": [
+        [
+          107.09375,
+          113.19580078125
+        ],
+        [
+          486.57812499999994,
+          113.19580078125
+        ],
+        [
+          486.57812499999994,
+          126.2015380859375
+        ],
+        [
+          107.09375,
+          126.2015380859375
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        113.19580078125,
+        486.57812499999994,
+        126.2015380859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In the ongoing discussions on the Common Agricultural Policy post-2027 and with a view to  Member States' preparation of CAP interventions in their National and Regional Partnership Plans  (NRPP), the CAP national recommendations emerge as the main EU policy steering mechanism to  ensure a level playing field among Member States, while considering their specific challenges and  needs. As set out in Article 2 of the CAP post-2027 Regulation, these recommendations would be  adopted by the Commission, after a dialogue with the Member States, and based on an analysis of  the situation of the agricultural sector and rural areas in each Member State. They would identify  key challenges in relation to the CAP-relevant objectives, notably farm income and  competitiveness, generational renewal, climate and environmental performance, resilience to risks  and crises, and access to knowledge, innovation and digitalisation.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          54.7109375,
+          152.7215576171875
+        ],
+        [
+          533.553955078125,
+          152.7215576171875
+        ],
+        [
+          533.553955078125,
+          350.9914855957031
+        ],
+        [
+          54.7109375,
+          350.9914855957031
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        152.7215576171875,
+        533.553955078125,
+        350.9914855957031
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Discussions held within the Council under the Cyprus Presidency, highlighted the importance of  clarity regarding the scope and nature of CAP national recommendations. As laid down in Article  288 TFEU, recommendations have no binding force. Thus, the CAP recommendations laid down in  Article 2 of the CAP proposal are conceived as a non-legally binding instrument and intended to  function as a strategic steering instrument rather than a prescriptive or exhaustive blueprint<i>. </i>Their  added value lies in identifying key challenges and priorities related to CAP-specific objectives,  while leaving Member States sufficient discretion as regards the appropriate choice of instruments  and interventions best suited to their specific contexts. In this respect, the scope of  recommendations should strike a careful balance between providing clear policy orientation and  preserving the flexibility inherent in the future CAP delivery model.</p>",
+      "page": 87,
+      "polygon": [
+        [
+          55.87499999999999,
+          371.7514953613281
+        ],
+        [
+          541.2099609375,
+          371.7514953613281
+        ],
+        [
+          541.2099609375,
+          570.0115051269531
+        ],
+        [
+          55.87499999999999,
+          570.0115051269531
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        371.7514953613281,
+        541.2099609375,
+        570.0115051269531
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 87,
+      "polygon": [
+        [
+          56.63999557495117,
+          777.55224609375
+        ],
+        [
+          539.7759399414062,
+          777.55224609375
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          56.63999557495117,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        777.55224609375,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">At the same time, the future CAP will be implemented within the broader framework of the NRPP,  which aim to enhance coherence and synergies across Union policies. In this context, a question  arises as to whether their added value should be confined to CAP-specific programming or whether  they should also inform the broader design of policies affecting agriculture and rural areas under the  NRPP framework. In parallel, ensuring coherence with other Union processes, including the  European Semester, will be essential, while safeguarding the specific governance and objectives of  the CAP.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          55.87499999999999,
+          62.97802734375
+        ],
+        [
+          540.302001953125,
+          62.97802734375
+        ],
+        [
+          540.302001953125,
+          199.521484375
+        ],
+        [
+          55.87499999999999,
+          199.521484375
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        62.97802734375,
+        540.302001953125,
+        199.521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Another important consideration concerns the timing of CAP national recommendations. For these  recommendations to be operationally useful, they need to be issued in a predictable and timely  manner, allowing Member States to take them duly into account at an early stage of their national  planning processes. Providing clear timeliness is therefore crucial to ensuring policy coherence and  avoiding uncertainty or duplication during the preparation of the NRPP.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          54.7109375,
+          219.8056640625
+        ],
+        [
+          536.219970703125,
+          219.8056640625
+        ],
+        [
+          536.219970703125,
+          314.9915771484375
+        ],
+        [
+          54.7109375,
+          314.9915771484375
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        219.8056640625,
+        536.219970703125,
+        314.9915771484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Member States also underlined that CAP national recommendations should be developed through  an extensive and structured dialogue between the Commission and Member States. This will ensure  that recommendations are well-targeted, evidence-based and tailored to national specificities,  thereby maximising the contribution of CAP interventions to the achievement of Union objectives.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          55.87499999999999,
+          335.47119140625
+        ],
+        [
+          538.0560913085938,
+          335.47119140625
+        ],
+        [
+          538.0560913085938,
+          409.7914733886719
+        ],
+        [
+          55.87499999999999,
+          409.7914733886719
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        335.47119140625,
+        538.0560913085938,
+        409.7914733886719
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">The Presidency considers that a Ministerial exchange of views would provide an essential and  timely opportunity to reflect on how CAP national recommendations can best contribute to an  effective, coherent and forward-looking CAP under the MFF 2028 -2034. Such an exchange would  foster a shared understanding of the role of these recommendations as an instrument that enhances  coherence and ambition, while fully respecting the principles of flexibility, proportionality and  subsidiarity in the future CAP framework.</p>",
+      "page": 81,
+      "polygon": [
+        [
+          54.7109375,
+          430.14404296875
+        ],
+        [
+          535.9420166015625,
+          430.14404296875
+        ],
+        [
+          535.9420166015625,
+          546.0115051269531
+        ],
+        [
+          54.7109375,
+          546.0115051269531
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        430.14404296875,
+        535.9420166015625,
+        546.0115051269531
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/4",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 81,
+      "polygon": [
+        [
+          56.63999557495117,
+          777.9638671875
+        ],
+        [
+          539.7759399414062,
+          777.9638671875
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          56.63999557495117,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        777.9638671875,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 42,
+      "polygon": [
+        [
+          287.814453125,
+          62.56640625
+        ],
+        [
+          306.6499938964844,
+          62.56640625
+        ],
+        [
+          306.6499938964844,
+          75.301513671875
+        ],
+        [
+          287.814453125,
+          75.301513671875
+        ]
+      ],
+      "bbox": [
+        287.814453125,
+        62.56640625,
+        306.6499938964844,
+        75.301513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In light of the above, the Presidency proposes the following questions:</p>",
+      "page": 42,
+      "polygon": [
+        [
+          54.7109375,
+          95.90771484375
+        ],
+        [
+          394.7879943847656,
+          95.90771484375
+        ],
+        [
+          394.7879943847656,
+          108.25634765625
+        ],
+        [
+          54.7109375,
+          108.25634765625
+        ]
+      ],
+      "bbox": [
+        54.7109375,
+        95.90771484375,
+        394.7879943847656,
+        108.25634765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Regarding CAP national recommendations, how do you assess:</i></p>",
+      "page": 42,
+      "polygon": [
+        [
+          55.87499999999999,
+          126.36767578125
+        ],
+        [
+          362.48394775390625,
+          126.36767578125
+        ],
+        [
+          362.48394775390625,
+          140.7215576171875
+        ],
+        [
+          55.87499999999999,
+          140.7215576171875
+        ]
+      ],
+      "bbox": [
+        55.87499999999999,
+        126.36767578125,
+        362.48394775390625,
+        140.7215576171875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/42",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><i>1) their scope (and nature) as a strategic guidance mechanism for the design of CAP </i> <i>interventions, </i></li><li block-type=\"ListItem\"><i>2) their role and relation to the overall policy design of other interventions under the </i> <i>National and Regional Partnership Plans affecting agriculture and rural areas, and </i></li><li block-type=\"ListItem\"><i>3) the timeline for such recommendations and involvement of Member States in the process?</i></li></ul></p>",
+      "page": 42,
+      "polygon": [
+        [
+          89.6328125,
+          158.8857421875
+        ],
+        [
+          536.7359619140625,
+          158.8857421875
+        ],
+        [
+          536.7359619140625,
+          280.1915283203125
+        ],
+        [
+          89.6328125,
+          280.1915283203125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        158.8857421875,
+        536.7359619140625,
+        280.1915283203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 42,
+      "polygon": [
+        [
+          56.63999557495117,
+          777.55224609375
+        ],
+        [
+          539.7759399414062,
+          777.55224609375
+        ],
+        [
+          539.7759399414062,
+          813.0321960449219
+        ],
+        [
+          56.63999557495117,
+          813.0321960449219
+        ]
+      ],
+      "bbox": [
+        56.63999557495117,
+        777.55224609375,
+        539.7759399414062,
+        813.0321960449219
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        843.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          843.0
+        ],
+        [
+          0.0,
+          843.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,2609 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          396.36328125,
+          43.9912109375
+        ],
+        [
+          432.44921875,
+          43.9912109375
+        ],
+        [
+          432.44921875,
+          54.6806640625
+        ],
+        [
+          396.36328125,
+          54.6806640625
+        ]
+      ],
+      "bbox": [
+        396.36328125,
+        43.9912109375,
+        432.44921875,
+        54.6806640625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 153,
+      "polygon": [
+        [
+          22.699218749999996,
+          45.98150634765625
+        ],
+        [
+          437.36798095703125,
+          45.98150634765625
+        ],
+        [
+          437.36798095703125,
+          110.80029296875
+        ],
+        [
+          22.699218749999996,
+          110.80029296875
+        ]
+      ],
+      "bbox": [
+        22.699218749999996,
+        45.98150634765625,
+        437.36798095703125,
+        110.80029296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {
+        "/page/0/Picture/1": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADYBWUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDiNd0Dwl4X1m7+IeoQyJeQR/O6uSCSNmQucbiDirvhrwV4b0fVrvxFo8DCfVF8xpDIWXax3fKOwJwa4/wCLNrfeNLz/AIRDSpCPslo+pXZHOWAIij+pOT+VWPgT4oOt+CP7LuHzeaU/kkHqYzyh/DkfhQB6lRTJZY4YmlldY41GWdzgAepNc5F8QvCc8l+sOuWsi6fGJbmRCTGi5x9/GCc9gSaAOmorn9H8ceGtd0e51bT9WgextSRPNIDGI/8AeDgEVnP8UvCEQikm1KaG3mO2K5lsp0hc+0hTafrnFAHQ6zqq6Lpst61nd3YQE+VaReY5wM9OAOnciue+Hnj2Px/p19fRae1nFb3Hkoryb2YbQcngY69OfrXUyyx3GmySxOskUkRZXU5DAjgg9xXkX7OvHhXWf+wgf/QBQB7LXJ+PPGN14N021u7XQrnVmnnERSAkbB6khT9AMUlv8SPDt3q8+k251Ga/t22zQR6bOzRn/awnA9zWhr3jPw74YQHWNWt7V2xtiJ3SH6IMt+lAGzBIZreOUxtGXUMUbquR0PvUlUNR1vS9IsBfalf29pbEZEk8gQH6Z6n2rAuPif4OtNFttXn1qNLK5dkgbynLSFTgkIF3YB74xQBN478W3Pg7Q49QttFuNVd5liMULEbQc/MSAfTHTqa6GyuGu7C3uXheBpY1cxSD5kJGdp9x0rE1Px34X0fTYdQvtbtIreeMSw/PueRSMgqgyx/Kt6CeO5t4p4jujlQOhxjIIyKAJKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo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tzK8DbMreANk457Y49axLbRH03xPbWr3Jt7S6k8lnWdSwQ8EMVOBW4unTLqWnvLbSwzaXcxy3EeS5ghDDC+wVeue45oAdJofiTT4MtcvFBqkRmvZZbcKLfB6Zz1/Kuq+HsC2fjSKZLlIbFrQRSLJ8pliKDEn/fRbjtisPU3GqaXqVjb6jcXc95cI0cf21bjjnJ2qSQORzWPq1msmjX10m+O3sEWzgcS5UOP9YoGejElv+BUAdang3XvB15qFpaaRY+I9EvHD7S3zcHK8g8GtW68T+OzEq22laJ4fhVdommwHUexyf5V4RFqV9Au2K8uI19FkIH86ns7HUtcuCsQkmK8vJI3yoPVmPAH1oA9D1C60aaYy+K/HF/q0h+9Bpy4X6bicfpVIeI/AkU8MUWm6sLGJ1fyluUXzCDn5/k5+nFZl14Z8P6HorXd7rtpqGoEgJY2cm5ffcy/0NYr2dvqGkXV9a2T2xtdvmYZmQgkDGTnB5oA7hJvhtqeo20s1zfW9ojSSTwSRjc5OMAMOwweMV2/wCnuG1fX4rQznQg+bYS9vmOPxxivA9HvILDVra6urZLqCNwZIX6OPSvrL4e+NNG1uNLHSdBuNLt9m6MmDbE/rggYzQB6BRRVPVNRg0nTZ765bEcS5PuewoAbq1np99YPb6msZt2HO9tuPcHsa5rRNb/sjVU0O9vku7aYkWN3vBY458t/fHfvisW8v9Pe+t5vFKy3t9cuiw6XGpeO2VzhA6jjccjlu/StXxd4N0I+H57+1sILG6sl+0wyWyCIhk+YA7cZzjHPrQB3FFVdNne50q0nf78kKO31Kg1aoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKrtf2aXyWLXcC3bqXSAyASMo6kL1I96ALFFV7W/s74yi0u4Lgwv5coikD7G/utjofY1YoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCnqumW+sabNY3IPlSrgkdR7j3rnZ9A8SXto2lXmsW76e42SzLERNIndT2BI4zmuuooA4/xX4djXTv7QsIgLi2i8uRB/y2hxhlPuOCPpU/gDV11XwzGu/c9o5gYnrgcpn32Fa6hlDKVYZBGCDXnngOybQvG3ivRgT5DTJeQg+jqAf1U0AeiVAl5ay7glzC+37wVwcfWuH+LHijUfD3htYdGXfqN43lphSSq92/Kvmi8/tpNS1DytUucwJvuJY3ZVY8ZwAfegD1b4uah4MtrspbXYN8/wDrobWFZAD6kkgA/TNcpb6/purNBc6bI8epoVieK4UBbppHCszYJ42s3FVPA/wuuvGulDVkuXIS6Mc8bLyVAByCepOa7vRPgzdf23Yz3VjFZxC5+0ylJCfKVTlYl9c8ZNAHJxTW8oli0/S0s3mVfPl3ZbblxmP6nrVDxDpd5qlnZ2NqIYkRd0zkn95Mv7sA4Hy/Ki9cfWvdtW+FenXd/HcafObOIoI5rfGUdQc8H7wOT2NGqaHpfgnw/NeWlhLqOoEeXD5ihmZj0DAYBA9SCfegDy34Y/BiPV/tF34oguYBDIFS34Ak992elZ/xqlXR7218O6TYLYaTAu7CAL5z+p7kD+prFvPHPjXSL37dDr8ziRiBhF2MR12rjG0etV7fQPFnxE8UWTX7zTSXiBzcuvyxx5PPGAOlADtChe806PT9EtPLuGgaSS5KZknIzlUPYAcV9A6/8NLG6+Gk/hvR4kt5SiujMOWcEH5j74x+NHw9+G0XhCNvtUgupoZWNrIRyiEAH8zk/jXoNAHxg3h+DQrt9K8R6JqK6iSfKNu2Q/0Heq2gajNoGvKjobeaKUNE9yzRmLuMgAn9K9c+K/jbVLPxPI+lLbRR6Yqx/aXgDu0rZO0E+wH514v4ll1S/wBZa+1V/NvrpFlfauOCBt6e2KAPsXwh4kt/E+gw3sU8EkoAWYQsWVW/EA/pXOfELVn/ALV0vR7dfNmZjN5X95+iA+33z+Fa/wAOtMsrDwXpk1rZi3kubaN5uMFmx1I9axtLsP7X+MWsapN80WmW8VtED03ncxP1AI/OgDcj8GW48ONYNMwvZHE8l4BljODuD/geg9BUcmg6/qoS11nUrf7CjBnS2jIafByAxPQZA9a6yigBERY0VFACqMADsKWiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArifF2neGPD+pf8LB1WGU3lhEIlKSH5s/KBt6E/Ma7avNPHmkt8QNbk8KxyMtrp9m11cMpwPtDgrCp+nLH8KAOn8I+FNA8OxXV5oUbiPVHFy7tIXDZ5GM9ByfzrpK8w+B/iGXUfCMmiXpI1DRZTbSI3XZk7fywV/Cui8e+OB4F0Y6i+kXd9HkLujZUjUnoGYnI/BTQB1tc9out6xqHiHV7C+0CWxsrRwLW8aTcLkeoGPx71i2XxDvr/XrG0g8Jam+m3cBlTUk5QkLkgDGMZ4BJGeDjBq14S8er4q8Ra3pI0m4sW0plVzcSKXZiSCCq5Axj+8aAOxormF8UXuparqVloOm294umyCG5lubwwAyYyVQBHzgdztGaLLxnC3hK+8QatZS6bHYySpPAzCR18ttvbgknp9aAOnrC8XeIpfC3h651ZNLn1BbdC7pFIiBQO5LHOPoCfauXvfiTqen+FrfxVceGF/sOba26O/DXCRscKzR+Xt5yOA561reO7uG/+FWtXlu26GfTWljJHVWXI/nQBq+EtcbxL4U07WXgEDXkXmGJW3BeTxnvW1XnvgvXbLw18EtK1jUGYW1tZBn2DLH5iAAPUkgU3UviRqei+H7LxHqXhpE0W6KHzIb/AMyeJX+6zR+WBz6BjQB6JWF4t8RSeFvD9zqqaXcagsCF3SF0XaB3Ysc4+gJ9qsav4i0zRPD8mt30+yySMOGAyXz90KO5ORgVw3jnxFr8vw51W6ufC/kafdWjrkXoe4hDDCtJFsAA5GcOSKAOz8I663ifwpp2tPbi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UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFYOr+Gor24/tCwlNjqiD5bmMfe9nH8Q9jRRQBlLqHinVXOkfYv7Omj4ub/IKFfWLuSfwxXQaPoNjokLLax5lkO6WZ+Xkb1Y96KKANOiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ärisaladused välja jäetud</p>",
+      "page": 153,
+      "polygon": [
+        [
+          386.759765625,
+          69.892578125
+        ],
+        [
+          489.5643005371094,
+          69.892578125
+        ],
+        [
+          489.5643005371094,
+          80.02337646484375
+        ],
+        [
+          386.759765625,
+          80.02337646484375
+        ]
+      ],
+      "bbox": [
+        386.759765625,
+        69.892578125,
+        489.5643005371094,
+        80.02337646484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekogaisma Eesti OÜ</p>",
+      "page": 153,
+      "polygon": [
+        [
+          90.7439956665039,
+          152.08148193359375
+        ],
+        [
+          192.943359375,
+          152.08148193359375
+        ],
+        [
+          192.943359375,
+          165.275390625
+        ],
+        [
+          90.7439956665039,
+          165.275390625
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        152.08148193359375,
+        192.943359375,
+        165.275390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">MTÜ Eesti Elektoonikaromu</p>",
+      "page": 153,
+      "polygon": [
+        [
+          90.505859375,
+          178.431640625
+        ],
+        [
+          230.77539062499997,
+          178.431640625
+        ],
+        [
+          230.77539062499997,
+          191.6815185546875
+        ],
+        [
+          90.505859375,
+          191.6815185546875
+        ]
+      ],
+      "bbox": [
+        90.505859375,
+        178.431640625,
+        230.77539062499997,
+        191.6815185546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">13.11.2020 nr 5-5/2020-039</p>",
+      "page": 153,
+      "polygon": [
+        [
+          391.5400085449219,
+          165.8814697265625
+        ],
+        [
+          526.9199829101562,
+          165.8814697265625
+        ],
+        [
+          526.9199829101562,
+          177.8814697265625
+        ],
+        [
+          391.5400085449219,
+          177.8814697265625
+        ]
+      ],
+      "bbox": [
+        391.5400085449219,
+        165.8814697265625,
+        526.9199829101562,
+        177.8814697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Teade järelevalvemenetluse lõpetamisest</b> <b>ja soovituse tegemine</b> <b>Ekogaisma</b> <b>Eesti </b> <b>OÜ-le</b></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          89.6328125,
+          243.2587890625
+        ],
+        [
+          547.6622314453125,
+          243.2587890625
+        ],
+        [
+          547.6622314453125,
+          271.21881103515625
+        ],
+        [
+          89.6328125,
+          271.21881103515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        243.2587890625,
+        547.6622314453125,
+        271.21881103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile laekus 02.07.2020 MTÜ Eesti Elektroonikaromu (edaspidi ka E-Romu)  taotlus järelevalvemenetluse alustamiseks Ekogaisma Eesti OÜ (edaspidi: Ekogaisma) suhtes,  mille kohaselt Ekogaisma kuritarvitab oma turgu valitsevat seisundit. E-Romu palus  Konkurentsiametil alustada menetlust, tuvastamaks võimalik konkurentsireeglite rikkumine,  kuna Ekogaisma tegevus on toonud kaasa E-Romu poolt teatud tegevuste lõpetamise ja E-Romu klientide kaotamise.</p>",
+      "page": 153,
+      "polygon": [
+        [
+          89.6328125,
+          299.3046875
+        ],
+        [
+          547.4400024414062,
+          299.3046875
+        ],
+        [
+          547.4400024414062,
+          381.31146240234375
+        ],
+        [
+          89.6328125,
+          381.31146240234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        299.3046875,
+        547.4400024414062,
+        381.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>1.</b> <b>MTÜ Eesti Elektroonikaromu</b> <b>esitatud taotluses toodud asjaolud</b></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          107.09375,
+          395.0986328125
+        ],
+        [
+          458.64062499999994,
+          395.0986328125
+        ],
+        [
+          458.64062499999994,
+          409.17144775390625
+        ],
+        [
+          107.09375,
+          409.17144775390625
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        395.0986328125,
+        458.64062499999994,
+        409.17144775390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">E-Romu poolt esitatud taotluse kohaselt seisnes väidetav Ekogaisma turgu valitseva seisundi  kuritarvitamine järgnevas. E-Romu on tootjavastutusorganisatsioon (TVO), kelle peamiseks  äritegevuseks on TVO teenuste pakkumine ning kasutatud elektroonikaseadmete kogumise ja  taaskasutamise korraldamine (st ettevõtja opereerib ise ka vajalikku võrgustikku jäätmete  kogumiseks). Lisaks kokkulepetele muude elektroonikajäätmete osas TVO teenuse  pakkumiseks on E-Romu sõlminud tooteid turule lasta soovivate ettevõtjatega kokkuleppeid  lambijäätmete osas samade teenuste pakkumiseks. Gaaslahenduslampide jäätmete (sh  lumifoor- ja säästulambid) osas oli E-Romu sunnitud alates 01.07.2019 TVO teenuse  pakkumise lõpetama, kuna konkreetsete lambijäätmete käitlemisega tegutsev koostööpartner  (Läti ettevõtja BAO AS) väljus sellest tegevusalast ning Eestis gaaslahenduslampe ümber ei  töödelda. E-Romu selgitas, et teised alternatiivsed teenusepakkujad oleksid olnud liiga kallid,  seda muuhulgas tulenevalt E-Romu väikesest turuosast ja töötlemise mahtude väiksusest.</p>",
+      "page": 153,
+      "polygon": [
+        [
+          89.6328125,
+          424.5314636230469
+        ],
+        [
+          547.384033203125,
+          424.5314636230469
+        ],
+        [
+          547.384033203125,
+          588.3310546875
+        ],
+        [
+          89.6328125,
+          588.3310546875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        424.5314636230469,
+        547.384033203125,
+        588.3310546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekogaisma tegutseb samuti TVO-na ning tegeleb omakorda ka lambijäätmete kogumise  korraldamisega ja töötlemisega, spetsialiseerudes lambijäätmetele, sh gaaslahenduslampidele.  E-Romu hinnangul lasevad Ekogaisma lepingupartneriteks olevad ettevõtjad Eestis turule ca  90% lambijäätmetest ning osakaal gaaslahenduslampide osas on veelgi suurem. Lambijäätmete  kogumise kohustuse täitmiseks on Ekogaisma sõlminud lepinguid erinevate ettevõtjatega ning  selliselt loonud ja kontrollib lambijäätmete kogumiseks spetsialiseerunud kogumispunktide  võrgustikku.</p>",
+      "page": 153,
+      "polygon": [
+        [
+          89.6328125,
+          603.8414611816406
+        ],
+        [
+          547.35400390625,
+          603.8414611816406
+        ],
+        [
+          547.35400390625,
+          698.6414642333984
+        ],
+        [
+          89.6328125,
+          698.6414642333984
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        603.8414611816406,
+        547.35400390625,
+        698.6414642333984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">E-Romu selgitab enda taotluses, et gaaslahenduslampide jäätmete kogumiseks vajaliku  võrgustiku opereerimise fikseeritud kulud on sedavõrd suured, et alla 10% turuosa juures (nagu  see on E-Romul) ei ole see majanduslikult mõistlik ning samuti ei ole võimalik dubleerida  elektroonikajäätmete ning gaaslahenduslampide jäätmete kogumise võrgustikku. Samas oleks  E-Romu soovinud gaaslahenduslampide osas TVO teenust edasi pakkuda, kuid tal ei olnud</p>",
+      "page": 153,
+      "polygon": [
+        [
+          89.6328125,
+          714.2614593505859
+        ],
+        [
+          547.4280395507812,
+          714.2614593505859
+        ],
+        [
+          547.4280395507812,
+          783.619140625
+        ],
+        [
+          89.6328125,
+          783.619140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        714.2614593505859,
+        547.4280395507812,
+        783.619140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          90.7439956665039,
+          794.7197265625
+        ],
+        [
+          447.8403015136719,
+          794.7197265625
+        ],
+        [
+          447.8403015136719,
+          805.1834106445312
+        ],
+        [
+          90.7439956665039,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        794.7197265625,
+        447.8403015136719,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">võimalik tagada vertikaalselt seotud turgudelt vajaliku sisendi (gaaslahenduslambi jäätmete  kogumine) ostmist. Jätkamaks tegutsemist TVO-na vajaks E-Romu gaaslahenduslampide  jäätmete kogumiseks teenuse sisse ostmist Ekogaismalt. kes keeldus E-Romule sellist teenust  pakkumast. Samas E-Romule teadaolevalt ostab Ekogaismalt teenust lambijäätmete kokku kogumise korraldamiseks MTÜ Eesti Elektroonikaseadmete Ringlus (edaspidi: EES-R).</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          46.046875
+        ],
+        [
+          547.3720092773438,
+          46.046875
+        ],
+        [
+          547.3720092773438,
+          113.801513671875
+        ],
+        [
+          89.6328125,
+          113.801513671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.046875,
+        547.3720092773438,
+        113.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Alternatiivselt on E-Romu valmis olnud suunama oma klientidest tootjad gaaslahenduslampide  osas ka otse Ekogaismaga liituma, kuid Ekogaisma on keeldunud klientidele teenuse  osutamisest ainult ühe kategooria (gaaslahenduslambid) lambijäätmete osas. Näiteks on E-Romu soovitanud [……] arenduskeskusel sõlmida gaaslahenduslampide kategooria osas leping  Ekogaismaga ning muude lambijäätmete osas jätkata koostööd E-Romuga, kuid Ekogaisma ei  pidanud sellist kategooriate eraldamist võimalikuks. Faktiliselt toob see kaasa kliendile  vajaduse kõikide lambijäätmete osas TVO teenuse ostmise Ekogaismalt.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          129.4014892578125
+        ],
+        [
+          547.3599853515625,
+          129.4014892578125
+        ],
+        [
+          547.3599853515625,
+          224.478515625
+        ],
+        [
+          89.6328125,
+          224.478515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        129.4014892578125,
+        547.3599853515625,
+        224.478515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Sisuliselt viitab E-Romu oma taotluses, et Ekogaisma turgu valitseva seisundi kuritarvitamine  seisneb kahes asjaolus. Esiteks kuna Ekogaisma kontrolli all olev lambijäätmete kogumise  võrgustik vastab E-Romu hinnangul olulise vahendi tingimustele, siis on E-Romul õigus saada  ligipääsu Ekogaisma kogumisvõrgustikule samadel tingimustel nagu on seda saanud EES-R.  Ekogaisma on aga sellistel tingimustel teenuse pakkumisest keeldunud. Teine võimalik turgu  valitseva seisundi kuritarvitamise asjaolu seisneb E-Romu hinnangul selles, et Ekogaisma  sunnib oma klienti sõlmima eksklusiivsuslepinguid, rikkudes sellega KonkS § 16 punkti 2.  Täpsemalt seisneb see selles, et Ekogaisma on keeldunud [……] TVO lepingu sõlmimisest  gaaslahenduslampide osas, kui [……] ei kasuta Ekogaismat ka kõikide teiste lambijäätmete  kogumiseks. E-Romu hinnangul on tegemist faktiliselt kohustusega sõlmida Ekogaismaga  eksklusiivsusleping, millega Ekogaisma piirab kaubaturgu ning ei võimalda E-Romul jätkata  [……] samaaegselt LED pirnide osas TVO teenuse osutamist. Taoliste tingimuste jätkuval  kehtestamisel on E-Romu sunnitud lõpetama lambijäätmete osas TVO teenuse pakkumise  tervikuna ning Ekogaisma jääks ainsaks lambijäätmete osas TVO teenust pakkuvaks  ettevõtjaks.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          88.46875,
+          239.83148193359375
+        ],
+        [
+          547.4280395507812,
+          239.83148193359375
+        ],
+        [
+          547.4280395507812,
+          445.05145263671875
+        ],
+        [
+          88.46875,
+          445.05145263671875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        239.83148193359375,
+        547.4280395507812,
+        445.05145263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>2.</b> <b>Ekogaisma Eesti OÜ esitatud selgitused</b></h3>",
+      "page": 201,
+      "polygon": [
+        [
+          108.2578125,
+          460.8914794921875
+        ],
+        [
+          329.4296875,
+          460.8914794921875
+        ],
+        [
+          329.4296875,
+          472.8914794921875
+        ],
+        [
+          108.2578125,
+          472.8914794921875
+        ]
+      ],
+      "bbox": [
+        108.2578125,
+        460.8914794921875,
+        329.4296875,
+        472.8914794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet alustas 28.07.2020 E-Romu esitatud taotluse alusel järelevalvemenetluse ning  edastas Ekogaismale teabetaotluse, milles paluti kirjeldada gaaslahenduslampide jäätmete kogumissüsteemi, täpsemalt kas gaaslahenduslampide jäätmete kogumine peab toimuma  teistest lambijäätmetest eraldi ning kas see on kuidagi reguleeritud seaduse või määrusega.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          488.25146484375
+        ],
+        [
+          547.384033203125,
+          488.25146484375
+        ],
+        [
+          547.384033203125,
+          542.2841796875
+        ],
+        [
+          89.6328125,
+          542.2841796875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        488.25146484375,
+        547.384033203125,
+        542.2841796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gaaslahenduslampide jäätmete kogumine on reguleeritud üldise Vabariigi Valitsuse määrusega  \"Elektri- ja elektroonikaseadmetest tekkinud jäätmete kogumise, tootjale tagastamise ning  taaskasutamise või kõrvaldamise nõuded ja kord ning sihtarvud ja sihtarvude  tähtajad.\" Ekogaisma selgitas<sup>1</sup> , et lambijäätmete kogumisel ei ole võimalik eristada teenuse  pakkumist gaaslahenduslampide ja LED lampide jäätmete osas, kuivõrd tarbija, kes peamiselt  vastavaid lambipirnide kogumiskaste kasutab, ei ole üldjuhul võimeline gaaslahenduslampide  ja LED lambipirnide tüüpe visuaalsel vaatlusel eristama. Sellest tulenevalt toimub nii  gaaslahenduslampide kui ka LED lampide jäätmete kogumine koos. Lihtsustatult, tarbijatele  pannakse lambijäätmete kogumiseks välja vaid üks kogumiskast mõlema lambitüübi jaoks.  Kuigi on võimalik pakkuda eraldi teenust gaaslahenduslampide ja LED lampide jäätmetele ning  Ekogaisma vajadusel ka sellist teenust osutab, siis ei ole see ei populaarne ega otstarbekas, sest  kuna tarbija ei ole võimeline eristama, kaasneb teenuse ostjatele ehk lambipirnide tootjatele  sageli lisakulu – TVO teenuse pakkujad kohaldavad lisatasu valesti paigutatud lambipirnide  käitlemise eest.</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          557.2814636230469
+        ],
+        [
+          547.4400024414062,
+          557.2814636230469
+        ],
+        [
+          547.4400024414062,
+          749.4951171875
+        ],
+        [
+          89.6328125,
+          749.4951171875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        557.2814636230469,
+        547.4400024414062,
+        749.4951171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekogaisma selgitas oma vastuses, et lambijäätmete kogumise võrgustiku loomine ei ole</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          750.381462097168
+        ],
+        [
+          547.1660766601562,
+          750.381462097168
+        ],
+        [
+          547.1660766601562,
+          762.381462097168
+        ],
+        [
+          89.6328125,
+          762.381462097168
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        750.381462097168,
+        547.1660766601562,
+        762.381462097168
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          90.7439956665039,
+          770.7814636230469
+        ],
+        [
+          94.2890625,
+          770.7814636230469
+        ],
+        [
+          94.2890625,
+          782.7814636230469
+        ],
+        [
+          90.7439956665039,
+          782.7814636230469
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        770.7814636230469,
+        94.2890625,
+        782.7814636230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 201,
+      "polygon": [
+        [
+          524.119140625,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          524.119140625,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        524.119140625,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> Ekogaisma 04.09.2020 vastus Konkurentsiameti taotlusele teabe saamiseks</p>",
+      "page": 201,
+      "polygon": [
+        [
+          89.6328125,
+          783.0243873596191
+        ],
+        [
+          397.0868835449219,
+          783.0243873596191
+        ],
+        [
+          397.0868835449219,
+          793.8974609375
+        ],
+        [
+          89.6328125,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        783.0243873596191,
+        397.0868835449219,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ebamõistlikult kallis, kuivõrd lambijäätmete kogumiskastide ostmine on ühekordne kulu ning  lambijäätmete kogumisel saab kasutada tavalisi pappkaste, mis ei ole kallid. Sellest tulenevalt  on Ekogaisma hinnangul võimalik E-Romul endal vastav kogumisvõrgustik luua ning selle  kaudu turul edasi tegutseda. Ekogaisma ja E-Romu vahel on toimunud aastate jooksul ka  mitmeid erinevaid läbirääkimisi seoses võimaliku koostööga lambijäätmete kogumisel, kuid  hinna osas ei jõutud kokkuleppeni. Ekogaisma põhjendas seda asjaoluga, et E-Romul on  tekkinud varasemast ajast varu lambijäätmeid, mille ümbertöötlemise eest nad ei ole soovinud  tasuda ning Ekogaismale on jäänud mulje, et E-Romul on rohkem lambijäätmeid kui see, mis  andmed nad Ekogaismale on esitanud. Kuna E-Romu erinevate rollide vahel valitses segadus  ning puudus selgus lambijäätmete jagunemise vahel ning E-Romu keeldus andmast selgitusi  lambijäätmete varu suuruse osas, siis keeldus Ekogaisma lepingu sõlmimisest. Ekogaisma  selgitas, et tal on õigus teha enda jaoks majanduslikult ja äriliselt kõige otstarbekamaid otsuseid,  arvestades ettevõtte ärikultuuri ja eetikanõudeid. Ehk siis olukorras, kus E-Romu keeldub  Ekogaismale ärisuhte loomiseks vajalikku teavet esitamast ja aruandluse auditeerimisest ning  kus ärisuhte loomine võib potentsiaalselt tekitada Ekogaismale äriliselt olulisi negatiivseid  tagajärgi nagu suur mainekahju, ei saa Ekogaisma poolt ärisuhte keeldumist kuidagi pidada  turgu valitseva seisundi kuritarvitamiseks.</p>",
+      "page": 204,
+      "polygon": [
+        [
+          88.46875,
+          46.58148193359375
+        ],
+        [
+          547.416015625,
+          46.58148193359375
+        ],
+        [
+          547.416015625,
+          280.392578125
+        ],
+        [
+          88.46875,
+          280.392578125
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        46.58148193359375,
+        547.416015625,
+        280.392578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Samuti palus Konkurentsiamet Ekogaismal põhjendada, miks ei olnud võimalik sõlmida [……]  lepingut vaid gaaslahenduslampe puudutavas osas. Ekogaisma selgitas oma vastuses, et on  pidanud mitmete klientidega läbirääkimisi vaid gaaslahenduslampidega seotud teenuse  pakkumisest ning läbirääkimiste tulemusena on vastav leping sõlmitud seni ühe kliendiga, kes  toob maale ainult gaaslahenduslampe. Ekogaisma ja [……] vahel ei ole veel lepingut sõlmitud,  läbirääkimised alles käivad, mistõttu ei ole võimalik teha ka järeldusi vastava lepingu  tingimuste üle. 25.09.2020 Konkurentsiametis toimunud seletuste andmisel selgitas Ekogaisma  esindaja, et kuna kolmanda kategooria lampide nii-öelda lahku löömine ei olnud (ega ole  tänaseni) õiguslikult selge (ehk kuidas see reaalselt välja nägema hakkab), siis [……] peetava  kirjavahetuse käigus ei arutatud pikemalt vaid gaaslahenduslampide teenuse pakkumist, vaid  jõuti küllaltki sujuvalt kogu kolmanda kategooriani. [……] nimelt avaldas ühel hetkel ise  selgelt, et soovivad tuua kogu kolmanda kategooria Ekogaismale. Ekogaisma ei tajunud [……] e-kirjadest, et tema kindel soov on ilmtingimata üksnes gaaslahenduslampide kohta kokkuleppe  sõlmimine.</p>",
+      "page": 204,
+      "polygon": [
+        [
+          89.6328125,
+          294.37109375
+        ],
+        [
+          547.4639892578125,
+          294.37109375
+        ],
+        [
+          547.4639892578125,
+          486.45147705078125
+        ],
+        [
+          89.6328125,
+          486.45147705078125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        294.37109375,
+        547.4639892578125,
+        486.45147705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/1/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>3.</b> <b>Õiguslik hinnang</b></h3>",
+      "page": 204,
+      "polygon": [
+        [
+          107.67578125,
+          516.0914611816406
+        ],
+        [
+          215.21600341796875,
+          516.0914611816406
+        ],
+        [
+          215.21600341796875,
+          528.0914611816406
+        ],
+        [
+          107.67578125,
+          528.0914611816406
+        ]
+      ],
+      "bbox": [
+        107.67578125,
+        516.0914611816406,
+        215.21600341796875,
+        528.0914611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "3": "/page/2/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.1.</b> <b>Kaubaturg ja Ekogaisma Eesti OÜ positsioon kaubaturul</b></h2>",
+      "page": 204,
+      "polygon": [
+        [
+          107.09375,
+          543.517578125
+        ],
+        [
+          423.85400390625,
+          543.517578125
+        ],
+        [
+          423.85400390625,
+          555.6914672851562
+        ],
+        [
+          107.09375,
+          555.6914672851562
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        543.517578125,
+        423.85400390625,
+        555.6914672851562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 3 lg 1 kohaselt on kaubaturg hinna, kvaliteedi, tehniliste omaduste, realiseerimis- ja  kasutustingimuste ning tarbimis- ja muude omaduste poolest ostja seisukohalt omavahel  vahetatavate või asendatavate kaupade käibimise ala, mis hõlmab muu hulgas kogu Eesti  territooriumi või selle osa.</p>",
+      "page": 204,
+      "polygon": [
+        [
+          89.6328125,
+          570.2412109375
+        ],
+        [
+          547.4639892578125,
+          570.2412109375
+        ],
+        [
+          547.4639892578125,
+          624.4814605712891
+        ],
+        [
+          89.6328125,
+          624.4814605712891
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        570.2412109375,
+        547.4639892578125,
+        624.4814605712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ekogaisma Eesti OÜ on tootjavastutusorganisatsioon (TVO), mis tegeleb ohtlike jäätmete  tagasivõtusüsteemi haldamisega vastavalt Euroopa Liidu direktiivile 2002/96/EC elektri- ja  elektroonikaseadmete jäätmete kohta. Äriregistri andmetel on ettevõtte põhitegevuseks on  keskkonnaohtlike lambijäätmete kogumise ja ümbertöötlemise korraldamine (EMTAK 38121).</p>",
+      "page": 204,
+      "polygon": [
+        [
+          89.6328125,
+          637.6669921875
+        ],
+        [
+          547.4639892578125,
+          637.6669921875
+        ],
+        [
+          547.4639892578125,
+          693.3614654541016
+        ],
+        [
+          89.6328125,
+          693.3614654541016
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        637.6669921875,
+        547.4639892578125,
+        693.3614654541016
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Lähtudes eeltoodust loeb Konkurentsiamet kaubaturul käibivaks kaubaks lambijäätmete  kogumise ja ümbertöötamise korraldamise teenuse ning kaubaturu geograafiliseks mõõtmeks  Eesti Vabariigi. Lambijäätmete kogumise ja ümbertöötamise korraldamise teenust kasutavad  tavaliselt tootjad, kes võivad anda turule lastud probleemtootest tekkivate jäätmete kogumise  ja nende taaskasutamise või nende kõrvaldamise kohustuse üle tootjate ühendusele (TVO) ning  seejärel TVO korraldab lambijäätmete kogumise ja ümbertöötlemise nt ostab vajalikud</p>",
+      "page": 204,
+      "polygon": [
+        [
+          89.6328125,
+          708.9814605712891
+        ],
+        [
+          547.4280395507812,
+          708.9814605712891
+        ],
+        [
+          547.4280395507812,
+          789.9814643859863
+        ],
+        [
+          89.6328125,
+          789.9814643859863
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        708.9814605712891,
+        547.4280395507812,
+        789.9814643859863
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 204,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          523.24609375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">teenused (kogumine ja ümbertöötlemine) sisse erinevatelt teenusepakkujatelt. Antud juhtumis  on üheks probleemiks tootja<sup>2</sup> poolne kohustuse üleandmine TVO-le, mistõttu on selles osas TVO teenuse ostjaks tootja ja tootja võib anda üle kas LED lampide või gaaslahenduslampide  jäätmete või kogu lambijäätmete kategooria TVO-le. Teiseks probleemiks on konkurendile juurdepääsu võimaldamine TVO kogumisvõrgustikule ning seal ei ole kaubaturu piiritlemine  vajalik, kuna konkurendile teenuse osutamise kohustus on üksnes KonkS §-s 15 nimetatud  olulise vahendi olemasolul.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          46.58148193359375
+        ],
+        [
+          547.3720092773438,
+          46.58148193359375
+        ],
+        [
+          547.3720092773438,
+          141.4014892578125
+        ],
+        [
+          89.6328125,
+          141.4014892578125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.58148193359375,
+        547.3720092773438,
+        141.4014892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">KonkS § 13 lg 1 kohaselt omab turgu valitsevat seisundit ettevõtja või mitu samal kaubaturul  tegutsevat ettevõtjat, kelle positsioon võimaldab tal/neil sellel kaubaturul tegutseda arvestataval  määral sõltumatult konkurentidest, varustajatest ja ostjatest. Turgu valitseva seisundi omamist  eeldatakse, kui ettevõtjale või mitmele samal kaubaturul tegutsevale ettevõtjale kuulub  kaubaturul vähemalt 40 protsenti käibest. Sama paragrahvi lõige 2 kohaselt on turgu valitsev  seisund ka käesoleva seaduse §-s 15 sätestatud olulist vahendit omaval ettevõtjal.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          155.8193359375
+        ],
+        [
+          547.384033203125,
+          155.8193359375
+        ],
+        [
+          547.384033203125,
+          238.00152587890625
+        ],
+        [
+          89.6328125,
+          238.00152587890625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        155.8193359375,
+        547.384033203125,
+        238.00152587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiametile teadaolevalt tegeleb lambijäätmete kogumisega ja ümbertöötlemise  korraldamisega Eestis kaks tootjavastutusorgansiatsiooni. Ekogaisma, kes tegeleb kõikide  lambijäätmete kogumise ja ümbertöötlemise korraldamisega ja E-Romu, kes tegeleb vaid LED  lampide kogumise ja ümbertöötlemiseks korraldamisega. EES-R vastas Konkurentsiametile, et  tema ei tegutse lambijäätmete kogumise ja ümbertöötlemise kaubaturul. Vastavalt PROTO  registri andmetele kogus Ekogaisma Eesti OÜ 2019. aastal [……] tonni lambijäätmeid ja Eesti  Elektroonikaromu MTÜ kogus 2019. aastal [ … ] tonni lambijäätmeid.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          253.6314697265625
+        ],
+        [
+          547.39599609375,
+          253.6314697265625
+        ],
+        [
+          547.39599609375,
+          348.43145751953125
+        ],
+        [
+          89.6328125,
+          348.43145751953125
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        253.6314697265625,
+        547.39599609375,
+        348.43145751953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Arvestades Ekogaisma poolt kogutud lambijäätmete koguseid, siis omab ta turgu valitsevat  seisundit KonkS § 13 lg 1 tähenduses. KonkS § 16 kohaselt on turgu valitseval ettevõtjal  keelatud oma seisundi otsene või kaudne kuritarvitamine kaubaturul.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          364.0314636230469
+        ],
+        [
+          547.3599853515625,
+          364.0314636230469
+        ],
+        [
+          547.3599853515625,
+          403.6514587402344
+        ],
+        [
+          89.6328125,
+          403.6514587402344
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        364.0314636230469,
+        547.3599853515625,
+        403.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>3.2.</b> <b>Menetluse lõpetamine juurdepääsu</b> <b>võimaldamise</b> <b>osas</b></h2>",
+      "page": 218,
+      "polygon": [
+        [
+          107.09375,
+          419.35546875
+        ],
+        [
+          407.83599853515625,
+          419.35546875
+        ],
+        [
+          407.83599853515625,
+          431.4914855957031
+        ],
+        [
+          107.09375,
+          431.4914855957031
+        ]
+      ],
+      "bbox": [
+        107.09375,
+        419.35546875,
+        407.83599853515625,
+        431.4914855957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">E-Romu selgitas enda taotluses, et gaaslahenduslampide jäätmete kogumiseks vajaliku  võrgustiku opereerimise fikseeritud kulud on sedavõrd suured, et alla 10% turuosa juures (nagu  see on E-Romul) ei ole see majanduslikult mõistlik ning samuti ei ole võimalik dubleerida  elektroonikajäätmete ning gaaslahenduslampide jäätmete kogumise võrgustikku. Samas oleks  E-Romu soovinud gaaslahenduslampide osas TVO teenust edasi pakkuda, kuid tal ei olnud  võimalik tagada vertikaalselt seotud turgudelt vajaliku sisendi (gaaslahenduslambi jäätmete  kogumine) ostmist. Jätkamaks tegutsemist TVO-na vajaks E-Romu gaaslahenduslampide  jäätmete kogumiseks teenuse sisse ostmist Ekogaismalt. E-Romu väidab enda kaebuses, et  Ekogaisma näol on tegemist olulist vahendit omava ettevõtjaga, kuna Ekogaismal on üle 340  kogumispunkti, kus võetakse vastu lambijäätmeid üle Eesti, ning kuhu ainsana saab viia  gaaslahenduslampide jäätmeid.<sup>3</sup> Ilma eelnevalt kirjeldatud spetsiifilise lambijäätmete kogumise  võrgustikuta ei ole selgelt võimalik lambijäätmete kogumise korraldamise teenuseid pakkuda.  Täiendavalt, TVO teenuste pakkumiseks peab ettevõtja omama vähemalt lepingulist suhet  ettevõtjaga, kes sellisele võrgustikule ligipääsu omab.</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          447.0914611816406
+        ],
+        [
+          547.3480224609375,
+          447.0914611816406
+        ],
+        [
+          547.3480224609375,
+          638.4014739990234
+        ],
+        [
+          89.6328125,
+          638.4014739990234
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        447.0914611816406,
+        547.3480224609375,
+        638.4014739990234
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Üldiselt on ettevõtjatel (k.a turgu valitsevat seisundit omavatel ettevõtjatel) õigus valida endale  koostööpartnereid ja konkurentsiõiguse alusel sekkumine, mis võib kaasa tuua koostöö  kohustuse kehtestamise, peab olema hoolikalt kaalutud. Seda eelkõige juhtudel, kus üks  ettevõtja soovib juurdepääsu konkurendi vahendile, kuna turgu valitsevas seisundis ettevõtjale  kehtestada võidav kohustus, et ta annaks endale kuuluva infrastruktuuri konkureerivate  ettevõtjate käsutusse, riivab raskelt ja konkreetselt selle ettevõtja lepinguvabadust ja õigust  omandile. Just eelmainitud põhiõiguste sellise raske ja konkreetse riive tõttu kehtestas Euroopa</p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.6328125,
+          652.2014617919922
+        ],
+        [
+          547.427978515625,
+          652.2014617919922
+        ],
+        [
+          547.427978515625,
+          748.6728515625
+        ],
+        [
+          89.6328125,
+          748.6728515625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        652.2014617919922,
+        547.427978515625,
+        748.6728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          89.05078125,
+          759.2614593505859
+        ],
+        [
+          93.7439956665039,
+          759.2614593505859
+        ],
+        [
+          93.7439956665039,
+          771.28515625
+        ],
+        [
+          89.05078125,
+          771.28515625
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        759.2614593505859,
+        93.7439956665039,
+        771.28515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 218,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          523.537109375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> Jäätmeseaduse § 23 tähenduses</p>",
+      "page": 218,
+      "polygon": [
+        [
+          88.759765625,
+          771.50439453125
+        ],
+        [
+          224.1033172607422,
+          771.50439453125
+        ],
+        [
+          224.1033172607422,
+          782.1434173583984
+        ],
+        [
+          88.759765625,
+          782.1434173583984
+        ]
+      ],
+      "bbox": [
+        88.759765625,
+        771.50439453125,
+        224.1033172607422,
+        782.1434173583984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> Vt täpsemalt:<a href=\"http://www.ekogaisma.ee/kogumiskohad\"> http://www.ekogaisma.ee/kogumiskohad. </a></p>",
+      "page": 218,
+      "polygon": [
+        [
+          89.05078125,
+          781.5634765625
+        ],
+        [
+          321.39996337890625,
+          781.5634765625
+        ],
+        [
+          321.39996337890625,
+          793.6634140014648
+        ],
+        [
+          89.05078125,
+          793.6634140014648
+        ]
+      ],
+      "bbox": [
+        89.05078125,
+        781.5634765625,
+        321.39996337890625,
+        793.6634140014648
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kohus põhjendatult täiendavad tingimused, mis peavad sellisel juhul turgu valitseva seisundi  kuritarvitamise kohaldamiseks täidetud olema.<sup>4</sup> Selleks, et käsutusse andmisest keeldumist  saaks lugeda \"kuritarvituseks\", peavad olema täidetud kolm tingimust: käsutusse andmisest  keeldumine peab olema selline, mis võib konkureeriva ettevõtja asjaomasel turul konkurentsist täiesti kõrvaldada; keeldumine ei ole objektiivselt põhjendatud; asjaomane infrastruktuur peab  olema konkureeriva ettevõtja tegevuseks hädavajalik selles mõttes, et ei oleks mingit tegelikku  ega potentsiaalset alternatiivi<sup>5</sup> . Neid tingimusi jälgib Konkurentsiamet ka käesolevale juhtumile  hinnangu andmisel, kuna vastavalt Riigikohtu suunistele tuleb konkurentsiseaduse norme  tõlgendada kooskõlas Euroopa Kohtu praktikaga sõltumata sellest, kas eksisteerib mõju  liikmesriikide vahelisele kaubandusele<sup>6</sup> .</p>",
+      "page": 242,
+      "polygon": [
+        [
+          89.6328125,
+          46.046875
+        ],
+        [
+          547.4400024414062,
+          46.046875
+        ],
+        [
+          547.4400024414062,
+          182.801513671875
+        ],
+        [
+          89.6328125,
+          182.801513671875
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.046875,
+        547.4400024414062,
+        182.801513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kolmas tingimus on samane Eesti konkurentsiseaduses sätestatud olulisele vahendile. KonkS  § 15 kohaselt loetakse olulist vahendit, sealhulgas loomulikku monopoli omavaks ettevõtja,  kelle omandis, valduses või opereerimisel on võrgustik, infrastruktuur või muu oluline vahend,  mida teisel isikul ei ole võimalik või ei ole majanduslikult otstarbekas dubleerida, kuid millele  juurdepääsuta või mille olemasoluta ei ole võimalik kaubaturul tegutseda. Seega, järelduseks,  et ettevõtja omab olulist vahendit, peavad olema üheaegselt täidetud kaks tingimust: esiteks,  vahendi dubleerimine on võimatu või majanduslikult ebaotstarbekas, ning teiseks, olulise  vahendita ei ole sellele juurdepääsu soovival ettevõtjal võimalik kaubaturul tegutseda, kuna  puuduvad asenduskabad. Konkurentsiameti hinnangul ei ole Ekogaisma poolt rajatud  lambijäätmete kogumissüsteemi näol tegemist olulise vahendiga, nagu väidab seda E-Romu.  Asjaolu, et vahendi loomine võib olla ebamugav või kallis konkurentide jaoks turule  pääsemiseks, ei ole KonkS § 15 õigustamiseks ja rakendamiseks piisav. Arvestades Ekogaisma  poolt esitatud põhjendusi, siis ei ole Konkurentsiameti hinnangul majanduslikult keeruline ega  ülemäära kulukas seada üles gaaslahenduslampide jäätmete kogumissüsteemi, kuivõrd  lambijäätmete kogumine võib toimuda tavalisse pappkasti. E-Romu on küll enda vastuses lisaks  välja toonud, et praktikas on lambijäätmete kogumispunkte võimalik seada üles ainult  spetsiifilistesse asukohtadesse (näiteks ehitus- ja toidukauplused) ja E-Romu kogemusel ei ole  tarbijad valmis lambijäätmeid üldiselt kauplustest või teistest tavapärastest kohtadest  eraldiseisvatesse kogumispunktidesse viima ning enamik ettevõtjaid ei ole valmis dubleerivat  kogumispunkti lubama. Isegi kui mõni kaubanduskett keeldub dubleerivat süsteemi oma poodi  lubamast, ei näe Konkurentsiamet põhjust, miks ei võiks E-Romu teha koostööd nende  kauplustega, kes ei ole sõlminud Ekogaismaga lepingut lambijäätmete kogumiseks. Lisaks  kogub E-Romu käesoleval hetkel LED lambijäätmeid ja kuna gaaslahenduslampide jäätmeid ei  pea koguma eraldi LED lambijäätmetest, nagu väitis esialgu E-Romu siis saaks E-Romu  kasutada juba olemasolevat LED lambijäätmete kogumissüsteemi ka gaaslahenduslampide  jäätmete kogumiseks.</p>",
+      "page": 242,
+      "polygon": [
+        [
+          88.46875,
+          197.34375
+        ],
+        [
+          547.4400024414062,
+          197.34375
+        ],
+        [
+          547.4400024414062,
+          555.8515625
+        ],
+        [
+          88.46875,
+          555.8515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        197.34375,
+        547.4400024414062,
+        555.8515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Seoses gaaslahenduslampide jäätmete käitlemisega märgib Konkurentsiamet, et kuigi Eestis ei  ole ühtegi gaaslahenduslampide jäätmete käitlustehast, on mitmeid selliseid tehaseid  naaberriikides (nt Soomes, Rootsis, Lätis, Poolas) ning samuti peab endale käitlustehase leidma  Ekogaisma. Asjaolu, et E-Romul on vähe lambijäätmeid, mistõttu käitlushind on kõrge, ei  tähenda seda, et alternatiive ei ole ning kõrgem hind ei ole automaatselt põhjus juurdepääsu  saamiseks. Eriti võttes arvesse asjaolu, et TVO teenuse pakkujatel on lubatud lambijäätmeid  hoiustada enne ärasaatmist kuni kolm aastat ning isegi kui E-Romu poolt kogutavad  lambijäätmete kogused ei ole suured, oleks kolme aasta peale kogunev jäätmete hulk arvestatav  ning pakuks kindlasti tehastele huvi<sup>7</sup> .</p>",
+      "page": 242,
+      "polygon": [
+        [
+          89.6328125,
+          571.3214721679688
+        ],
+        [
+          547.4199829101562,
+          571.3214721679688
+        ],
+        [
+          547.4199829101562,
+          695.2255859375
+        ],
+        [
+          89.6328125,
+          695.2255859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        571.3214721679688,
+        547.4199829101562,
+        695.2255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuigi amet leidis eespool, et lambijäätmete kogumise taristu puhul ei ole tegemist olulise  vahendiga, siis on Konkurentsiameti hinnangul käesoleval hetkel põhjendatud Ekogaisma</p>",
+      "page": 242,
+      "polygon": [
+        [
+          89.6328125,
+          707.4214630126953
+        ],
+        [
+          547.25,
+          707.4214630126953
+        ],
+        [
+          547.25,
+          733.2214660644531
+        ],
+        [
+          89.6328125,
+          733.2214660644531
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        707.4214630126953,
+        547.25,
+        733.2214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 242,
+      "polygon": [
+        [
+          90.7439956665039,
+          736.2214660644531
+        ],
+        [
+          93.7439956665039,
+          736.2214660644531
+        ],
+        [
+          93.7439956665039,
+          748.2214660644531
+        ],
+        [
+          90.7439956665039,
+          748.2214660644531
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        736.2214660644531,
+        93.7439956665039,
+        748.2214660644531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 242,
+      "polygon": [
+        [
+          91.9609375,
+          774.57421875
+        ],
+        [
+          285.1953125,
+          774.57421875
+        ],
+        [
+          285.1953125,
+          784.44140625
+        ],
+        [
+          91.9609375,
+          784.44140625
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        774.57421875,
+        285.1953125,
+        784.44140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 242,
+      "polygon": [
+        [
+          523.828125,
+          794.30859375
+        ],
+        [
+          544.5166625976562,
+          794.30859375
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          523.828125,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.828125,
+        794.30859375,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/4",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Kohtujuristi ettepanek 9.september 2020 asjades C-152/19 ja C-165/19, p-id 73 ja 74</p>",
+      "page": 242,
+      "polygon": [
+        [
+          89.6328125,
+          748.4643936157227
+        ],
+        [
+          439.2994079589844,
+          748.4643936157227
+        ],
+        [
+          439.2994079589844,
+          759.1034088134766
+        ],
+        [
+          89.6328125,
+          759.1034088134766
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        748.4643936157227,
+        439.2994079589844,
+        759.1034088134766
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/5",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> 26. novembri 1998. aasta kohtuotsus C-7/97 Oskar Bronner vr Media Print</p>",
+      "page": 242,
+      "polygon": [
+        [
+          89.6328125,
+          758.5400390625
+        ],
+        [
+          395.7269592285156,
+          758.5400390625
+        ],
+        [
+          395.7269592285156,
+          770.6234130859375
+        ],
+        [
+          89.6328125,
+          770.6234130859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        758.5400390625,
+        395.7269592285156,
+        770.6234130859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> Riigikohtu 25.04.2019 otsus nr 3-16-1267, p 20</p>",
+      "page": 242,
+      "polygon": [
+        [
+          87.88671875,
+          771.50439453125
+        ],
+        [
+          287.30902099609375,
+          771.50439453125
+        ],
+        [
+          287.30902099609375,
+          782.1434173583984
+        ],
+        [
+          87.88671875,
+          782.1434173583984
+        ]
+      ],
+      "bbox": [
+        87.88671875,
+        771.50439453125,
+        287.30902099609375,
+        782.1434173583984
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>7</sup> Ekogaisma 04.09.2020 vastus Konkurentsiameti taotlusele teabe saamiseks</p>",
+      "page": 242,
+      "polygon": [
+        [
+          87.3046875,
+          781.5634765625
+        ],
+        [
+          399.2734375,
+          781.5634765625
+        ],
+        [
+          399.2734375,
+          793.6634140014648
+        ],
+        [
+          87.3046875,
+          793.6634140014648
+        ]
+      ],
+      "bbox": [
+        87.3046875,
+        781.5634765625,
+        399.2734375,
+        793.6634140014648
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">keeldumine E-Romuga koostöölepingu sõlmimisest, olenemata asjaolust, et EES-R-iga vastav  leping sõlmitud on. Arvestades konkurentsiõiguse põhimõtteid, siis ei saa turgu valitsevas  seisundis olevat ettevõtjat kohustada teenust osutama pelgalt seetõttu, et ta on turuvalitseja.  Vastasel juhul oleks tegemist ebamõistliku tingimuse seadmisega turgu valitsevale ettevõtjale. Lähtudes nii E-Romu kui ka Ekogaisma esitatud selgitustest on käesoleval juhul tegemist  olukorraga, kus pooled ei jõudnud mõlemaid pooli rahuldava kokkuleppeni, mistõttu koostööst  loobuti. Nagu eelpool välja toodud, siis Ekogaisma ja E-Romu vahel on olnud korduvalt läbi  aastate läbirääkimisi võimaliku koostöö osas lambijäätmete kogumisel, kuid kuna E-Romul on  tekkinud varasemast ajast varu lambijäätmeid, mille ümbertöötlemise eest nad ei ole soovinud  tasuda ning Ekogaismale on jäänud mulje, et E-Romul on rohkem lambijäätmeid kui see, mis  andmed nad Ekogaismale on esitanud, siis keeldus Ekogaisma lepingu sõlmimisest.  Konkurentsiseadus ei saa kohustada turgu valitsevat seisundit omaval ettevõtjal sõlmida  lepinguid, mis on talle finantsiliselt ebamõistlikud ja võivad rikkuda ettevõtja mainet.</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          46.046875
+        ],
+        [
+          547.4159545898438,
+          46.046875
+        ],
+        [
+          547.4159545898438,
+          224.2015380859375
+        ],
+        [
+          89.6328125,
+          224.2015380859375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.046875,
+        547.4159545898438,
+        224.2015380859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Tulenevalt asjaolust, Konkurentsiameti hinnangul ei ole Ekogaisma loodud lambijäätmete (s.h  gaaslahenduslampide jäätmete) kogumissüsteemi näol tegemist olulise vahendiga KonkS § 15  mõistes ning lepingu sõlmimisest keeldumisel ei ole Ekogaisma kuritarvitanud turgu valitsevat  seisundit KonkS § 16 punkti 6 tähenduses, lõpetab Konkurentsiamet MTÜ Eesti  Elektroonikaromu avalduse alusel alustatud järelevalvemenetluse KonkS § 63<sup>4</sup> lg 1 punkti 1 alusel.</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          238.031494140625
+        ],
+        [
+          547.427978515625,
+          238.031494140625
+        ],
+        [
+          547.427978515625,
+          319.031494140625
+        ],
+        [
+          89.6328125,
+          319.031494140625
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        238.031494140625,
+        547.427978515625,
+        319.031494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/8",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>3.3.</b> <b>Soovituse tegemine</b> <b>Ekogaisma Eesti OÜ-le</b> <b>konkurentsiolukorra parandamiseks</b></h1>",
+      "page": 273,
+      "polygon": [
+        [
+          105.9296875,
+          332.6064453125
+        ],
+        [
+          541.2890625,
+          332.6064453125
+        ],
+        [
+          541.2890625,
+          346.8714599609375
+        ],
+        [
+          105.9296875,
+          346.8714599609375
+        ]
+      ],
+      "bbox": [
+        105.9296875,
+        332.6064453125,
+        541.2890625,
+        346.8714599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">E-Romu poolt esitatud taotluse kohaselt sunnib Ekogaisma klienti sõlmima  eksklusiivsuslepinguid, rikkudes sellega KonkS § 16 punkti 2. Täpsemalt seisneb see selles, et  Ekogaisma on keeldunud [……] TVO lepingu sõlmimisest gaaslahenduslampide jäätmete osas,  kui [……] ei kasuta Ekogaismat ka kõikide teiste lambijäätmete kogumiseks.</p>",
+      "page": 273,
+      "polygon": [
+        [
+          88.46875,
+          361.796875
+        ],
+        [
+          547.427978515625,
+          361.796875
+        ],
+        [
+          547.427978515625,
+          415.6514587402344
+        ],
+        [
+          88.46875,
+          415.6514587402344
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        361.796875,
+        547.427978515625,
+        415.6514587402344
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet ei nõustu, et tegemist on KonkS § 16 punkti 2 rikkumisega, küll aga võib  selline käitumine potentsiaalselt olla KonkS § 16 punkti 4 rikkumine. KonkS § 16 punkt 4  keelab turgu valitseval ettevõtjal teisele poolele kokkuleppe objektiga mitteseotud  lisakohustuse seadmist. Nii E-Romu ja [……] kui ka Ekogaisma ja [……] vahelisest  kirjavahetusest on selgunud, et [……] oleks soovinud sõlmida Ekogaismaga lepingu vaid  gaaslahenduslampide jäätmete kogumise ja ümbertöötlemiseks suunamise osas, kuid  Ekogaisma ei pakkunud seda varianti välja, kuna ei pidanud seda vajalikuks. E-Romu ja [……]  kirjavahetusest on näha, et [……] on jäetud Ekogaisma poolt mulje, et gaaslahenduslampide  jäätmete osas ei ole võimalik sõlmida eraldi lepingut, vaid peab sõlmima lepingu kogu  lambijäätmete osas.<sup>8</sup> Konkurentsiamet saab aru, et nii [……] kui Konkurentsiametile esitatud  selgitus<sup>9</sup> on seotud füüsilist müügipunkti omava turustajaga, kuna Vabariigi Valitsuse  20.04.2009 määruse nr 65 § 5 kohaselt tuleb turustajal oma müügikoha kaudu tagasi võtta  tekkinud elektroonikaromu<sup>10</sup> . Samuti selgitas Ekogaisma 25.09.2020 toimunud seletuste  võtmisel, et [……] oleks Ekogaisma saanud sõlmida lepingu vaid gaaslahenduslampide  jäätmete osas, kuna [……] ei ole füüsilisi müügipunkte. Seaduse kohaselt on samuti lubatud  sõlmida eraldi lepinguid 301 ja 302 kategooria osas, mistõttu Ekogaisma ei oleks pidanud  keelduma [……] vaid gaaslahenduslampide jäätmete kogumise lepingut sõlmimast. Kuna aga  käesoleval hetkel ei ole veel [……] ja Ekogaisma vahel lepingud sõlmitud, siis puudub ka  võimalik turgu valitseva seisundi kuritarvitamine.</p>",
+      "page": 273,
+      "polygon": [
+        [
+          88.46875,
+          431.4914855957031
+        ],
+        [
+          547.4280395507812,
+          431.4914855957031
+        ],
+        [
+          547.4280395507812,
+          693.169921875
+        ],
+        [
+          88.46875,
+          693.169921875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        431.4914855957031,
+        547.4280395507812,
+        693.169921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti hinnangul tuleks aga edaspidi turgu valitseval ettevõtjal sellisest käitumisest  hoiduda ning klientidele, kes soovivad sõlmida gaaslahenduslampide jäätmete kogumise ja</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          707.5595703125
+        ],
+        [
+          547.4199829101562,
+          707.5595703125
+        ],
+        [
+          547.4199829101562,
+          733.4614562988281
+        ],
+        [
+          89.6328125,
+          733.4614562988281
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        707.5595703125,
+        547.4199829101562,
+        733.4614562988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 273,
+      "polygon": [
+        [
+          90.21484375,
+          736.2214660644531
+        ],
+        [
+          94.87109375,
+          736.2214660644531
+        ],
+        [
+          94.87109375,
+          751.55078125
+        ],
+        [
+          90.21484375,
+          751.55078125
+        ]
+      ],
+      "bbox": [
+        90.21484375,
+        736.2214660644531,
+        94.87109375,
+        751.55078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 273,
+      "polygon": [
+        [
+          523.24609375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          523.24609375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.24609375,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><sup>8</sup> 06.05.2020 ja 19.05.2020 [……] kiri E-Romule</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          748.4643936157227
+        ],
+        [
+          287.7933349609375,
+          748.4643936157227
+        ],
+        [
+          287.7933349609375,
+          759.1034088134766
+        ],
+        [
+          89.6328125,
+          759.1034088134766
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        748.4643936157227,
+        287.7933349609375,
+        759.1034088134766
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>9</sup> Ekogaisma 04.09.2020 vastus Konkurentsiameti taotlusele teabe saamiseks</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          759.9843902587891
+        ],
+        [
+          397.41796875,
+          759.9843902587891
+        ],
+        [
+          397.41796875,
+          770.8740234375
+        ],
+        [
+          89.6328125,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        759.9843902587891,
+        397.41796875,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>10</sup> Elektri- ja elektroonikaseadmetest tekkinud jäätmete kogumise, tootjale tagastamise ning taaskasutamise või  kõrvaldamise nõuded ja kord ning sihtarvud ja sihtarvude saavutamise tähtajad § 5 lg 1</p>",
+      "page": 273,
+      "polygon": [
+        [
+          89.6328125,
+          771.50439453125
+        ],
+        [
+          536.3699951171875,
+          771.50439453125
+        ],
+        [
+          536.3699951171875,
+          793.6634140014648
+        ],
+        [
+          89.6328125,
+          793.6634140014648
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        771.50439453125,
+        536.3699951171875,
+        793.6634140014648
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ümbertöötlemiseks suunamise osas eraldi lepingu, anda selged juhised kuidas on see võimalik.</p>",
+      "page": 60,
+      "polygon": [
+        [
+          89.6328125,
+          46.58148193359375
+        ],
+        [
+          547.4039916992188,
+          46.58148193359375
+        ],
+        [
+          547.4039916992188,
+          58.58148193359375
+        ],
+        [
+          89.6328125,
+          58.58148193359375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        46.58148193359375,
+        547.4039916992188,
+        58.58148193359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Lähtudes eeltoodust teeb Konkurentsiamet Ekogaisma Eesti OÜ-le konkurentsiseaduse § </b> <b>61 lõike 1 alusel konkurentsiolukorra parandamiseks</b> <b>lambijäätmete kogumise ja </b> <b>käitluseks korraldamise kaubaturul järgneva soovituse. Olukorras, kus mõni tootja</b> <b>soovib sõlmida Ekogaisma</b> <b>Eesti OÜ-ga</b> <b>vaid gaaslahenduslampide jäätmete kogumise </b> <b>lepingut, siis anda ettevõtjale</b> <b>selged ja arusaadavad juhised, kuidas ja millistel </b> <b>tingimustel on see võimalik.</b></p>",
+      "page": 60,
+      "polygon": [
+        [
+          88.46875,
+          72.7705078125
+        ],
+        [
+          547.416015625,
+          72.7705078125
+        ],
+        [
+          547.416015625,
+          155.44146728515625
+        ],
+        [
+          88.46875,
+          155.44146728515625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        72.7705078125,
+        547.416015625,
+        155.44146728515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>/allkirjastatud digitaalselt/</i></p>",
+      "page": 60,
+      "polygon": [
+        [
+          89.6328125,
+          198.5771484375
+        ],
+        [
+          208.4319305419922,
+          198.5771484375
+        ],
+        [
+          208.4319305419922,
+          210.09417724609375
+        ],
+        [
+          89.6328125,
+          210.09417724609375
+        ]
+      ],
+      "bbox": [
+        89.6328125,
+        198.5771484375,
+        208.4319305419922,
+        210.09417724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Märt Ots Peadirektor</p>",
+      "page": 60,
+      "polygon": [
+        [
+          90.7439956665039,
+          229.511474609375
+        ],
+        [
+          148.95599365234375,
+          229.511474609375
+        ],
+        [
+          148.95599365234375,
+          255.31146240234375
+        ],
+        [
+          90.7439956665039,
+          255.31146240234375
+        ]
+      ],
+      "bbox": [
+        90.7439956665039,
+        229.511474609375,
+        148.95599365234375,
+        255.31146240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti 13.11.2020 otsuse nr 5-5/2020-039 ärakiri on samane originaaliga. Ärakirjast  on välja jäetud Eesti Elektroonikaromu MTÜ ja Ekogaisma Eesti OÜ ärisaladused, vastavad  kohad on tekstis tähistatud nurksulgudega.</p>",
+      "page": 60,
+      "polygon": [
+        [
+          88.46875,
+          326.439453125
+        ],
+        [
+          547.3720092773438,
+          326.439453125
+        ],
+        [
+          547.3720092773438,
+          372.67144775390625
+        ],
+        [
+          88.46875,
+          372.67144775390625
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        326.439453125,
+        547.3720092773438,
+        372.67144775390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 60,
+      "polygon": [
+        [
+          523.537109375,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          794.7197265625
+        ],
+        [
+          544.5166625976562,
+          805.1834106445312
+        ],
+        [
+          523.537109375,
+          805.1834106445312
+        ]
+      ],
+      "bbox": [
+        523.537109375,
+        794.7197265625,
+        544.5166625976562,
+        805.1834106445312
+      ],
+      "section_hierarchy": {
+        "1": "/page/5/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

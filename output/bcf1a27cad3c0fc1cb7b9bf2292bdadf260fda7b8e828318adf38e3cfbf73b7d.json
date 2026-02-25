@@ -1,0 +1,436 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          524.9921875,
+          39.8798828125
+        ],
+        [
+          555.2578125,
+          39.8798828125
+        ],
+        [
+          555.2578125,
+          57.1474609375
+        ],
+        [
+          524.9921875,
+          57.1474609375
+        ]
+      ],
+      "bbox": [
+        524.9921875,
+        39.8798828125,
+        555.2578125,
+        57.1474609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          520.91796875,
+          43.1689453125
+        ],
+        [
+          554.67578125,
+          43.1689453125
+        ],
+        [
+          554.67578125,
+          60.4365234375
+        ],
+        [
+          520.91796875,
+          60.4365234375
+        ]
+      ],
+      "bbox": [
+        520.91796875,
+        43.1689453125,
+        554.67578125,
+        60.4365234375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/2",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/2'></p>",
+      "page": 163,
+      "polygon": [
+        [
+          33.350390625,
+          33.67177734375
+        ],
+        [
+          183.165234375,
+          33.67177734375
+        ],
+        [
+          183.165234375,
+          61.71103515625
+        ],
+        [
+          33.350390625,
+          61.71103515625
+        ]
+      ],
+      "bbox": [
+        33.350390625,
+        33.67177734375,
+        183.165234375,
+        61.71103515625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/2": "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"
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>2026/90121 16.2.2026</h2>",
+      "page": 163,
+      "polygon": [
+        [
+          264.58599853515625,
+          68.6591796875
+        ],
+        [
+          552.7522583007812,
+          68.6591796875
+        ],
+        [
+          552.7522583007812,
+          82.503173828125
+        ],
+        [
+          264.58599853515625,
+          82.503173828125
+        ]
+      ],
+      "bbox": [
+        264.58599853515625,
+        68.6591796875,
+        552.7522583007812,
+        82.503173828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Corrigendum to Commission Implementing Regulation (EU) 2024/1044 of 27 March 2024 amending </b> <b>Implementing Regulation (EU) 2021/403 as regards model animal health certificates and model </b> <b>animal health/official certificates for movements between Member States of consignments of certain </b> <b>categories of terrestrial animals and germinal products thereof </b></p>",
+      "page": 163,
+      "polygon": [
+        [
+          91.9609375,
+          97.1153564453125
+        ],
+        [
+          504.03906249999994,
+          97.1153564453125
+        ],
+        [
+          504.03906249999994,
+          138.74188232421875
+        ],
+        [
+          91.9609375,
+          138.74188232421875
+        ]
+      ],
+      "bbox": [
+        91.9609375,
+        97.1153564453125,
+        504.03906249999994,
+        138.74188232421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i><a href=\"http://data.europa.eu/eli/reg_impl/2024/1044/oj\">(Official Journal of the European Union L, 2024/1044, 26 April 2024)</a></i></p>",
+      "page": 163,
+      "polygon": [
+        [
+          169.953125,
+          145.9521484375
+        ],
+        [
+          423.71875,
+          145.9521484375
+        ],
+        [
+          423.71875,
+          155.74993896484375
+        ],
+        [
+          169.953125,
+          155.74993896484375
+        ]
+      ],
+      "bbox": [
+        169.953125,
+        145.9521484375,
+        423.71875,
+        155.74993896484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">On page 396, in the Annex, in the amendment to Chapter 63, Part II, point II.1.6, first and second alternatives, of Annex I  to Implementing Regulation (EU) 2021/403:</p>",
+      "page": 163,
+      "polygon": [
+        [
+          66.3515625,
+          171.853515625
+        ],
+        [
+          529.1842651367188,
+          171.853515625
+        ],
+        [
+          529.1842651367188,
+          193.11083984375
+        ],
+        [
+          66.3515625,
+          193.11083984375
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        171.853515625,
+        529.1842651367188,
+        193.11083984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/7",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>for:</th><th>'<br/>(3) either</th><th>[the confined establishment indicated in box I.20;]</th></tr><tr><td></td><td>(3) or</td><td>[the establishment indicated in box I.20 where these animals are kept as fur animals as defined in<br/>point 1 of Annex I to Commission Regulation (EU) No 142/2011.]]',</td></tr><tr><td>read:</td><td>'<br/>(3) either</td><td>[the confined establishment indicated in box I.12;]</td></tr><tr><td></td><td>(3) or</td><td>[the establishment indicated in box I.12 where these animals are kept as fur animals as defined in<br/>point (1) of Annex I to Commission Regulation (EU) No 142/2011.]]'.</td></tr></tbody></table>",
+      "page": 163,
+      "polygon": [
+        [
+          61.72354919433594,
+          205.40119995117186
+        ],
+        [
+          533.7809063720703,
+          205.40119995117186
+        ],
+        [
+          533.7809063720703,
+          306.12333618164064
+        ],
+        [
+          61.72354919433594,
+          306.12333618164064
+        ]
+      ],
+      "bbox": [
+        61.72354919433594,
+        205.40119995117186,
+        533.7809063720703,
+        306.12333618164064
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">On page 397, in the Annex, in the amendment to Chapter 63, Part II, point II.1.7, third alternative, first and second  alternatives, of Annex I to Implementing Regulation (EU) 2021/403:</p>",
+      "page": 163,
+      "polygon": [
+        [
+          67.515625,
+          337.12890625
+        ],
+        [
+          529.1455078125,
+          337.12890625
+        ],
+        [
+          529.1455078125,
+          359.787841796875
+        ],
+        [
+          67.515625,
+          359.787841796875
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        337.12890625,
+        529.1455078125,
+        359.787841796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Table/9",
+      "block_type": "Table",
+      "html": "<table><tbody><tr><th>for:</th><th>'<br/>(3) either</th><th>[the confined establishment indicated in box I.20.]]]</th></tr><tr><td></td><td>(3) or</td><td>[the establishment indicated in box I.20] where these animals are kept as fur animals as defined in<br/>point (1) of Annex I to Regulation (EU) No 142/2011.]]]',</td></tr><tr><td>read:</td><td>'<br/>(3) either</td><td>[the confined establishment indicated in box I.12.]]]</td></tr><tr><td></td><td>(3) or</td><td>[the establishment indicated in box I.12 where these animals are kept as fur animals as defined in<br/>point (1) of Annex I to Regulation (EU) No 142/2011.]]]'.</td></tr></tbody></table>",
+      "page": 163,
+      "polygon": [
+        [
+          62.899252319335936,
+          372.288984375
+        ],
+        [
+          533.7692657470703,
+          372.288984375
+        ],
+        [
+          533.7692657470703,
+          476.289140625
+        ],
+        [
+          62.899252319335936,
+          476.289140625
+        ]
+      ],
+      "bbox": [
+        62.899252319335936,
+        372.288984375,
+        533.7692657470703,
+        476.289140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          40.7421875,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          821.8918743133545
+        ],
+        [
+          40.7421875,
+          821.8918743133545
+        ]
+      ],
+      "bbox": [
+        40.7421875,
+        811.1650390625,
+        552.7653198242188,
+        821.8918743133545
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 163,
+      "polygon": [
+        [
+          541.2890625,
+          811.1650390625
+        ],
+        [
+          552.9296875,
+          811.1650390625
+        ],
+        [
+          552.9296875,
+          820.2099609375
+        ],
+        [
+          541.2890625,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        541.2890625,
+        811.1650390625,
+        552.9296875,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

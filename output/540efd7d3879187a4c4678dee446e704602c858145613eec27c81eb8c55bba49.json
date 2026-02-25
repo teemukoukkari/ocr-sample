@@ -1,0 +1,3942 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 96,
+      "polygon": [
+        [
+          30.185791015625,
+          67.30244140625
+        ],
+        [
+          165.048583984375,
+          67.30244140625
+        ],
+        [
+          165.048583984375,
+          133.33037109375
+        ],
+        [
+          30.185791015625,
+          133.33037109375
+        ]
+      ],
+      "bbox": [
+        30.185791015625,
+        67.30244140625,
+        165.048583984375,
+        133.33037109375
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHkPxr/4+dG/3Jv5pXmul/8AIWsv+u6f+hCvSvjX/wAfOjf7k380rzXS/wDkLWX/AF3T/wBCFeHiv94fyP1PIf8AkUw9Jfmz6oooor3D8sCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPIfjX/AMfOjf7k380rzXS/+QtZf9d0/wDQhXpXxr/4+dG/3Jv5pXmul/8AIWsv+u6f+hCvDxX+8P5H6nkP/Iph6S/Nn1RRRRXuH5YFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAeQ/Gv/j50b/cm/mlea6X/AMhay/67p/6EK9K+Nf8Ax86N/uTfzSvNdL/5C1l/13T/ANCFeHiv94fyP1PIf+RTD0l+bPqiiiivcPywKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4X4heG4Nem09pp5IvJVwNgHOdvr9K5Gz+H9nDfW8ovZyUkVgCB2NekeJPv230b+lY0H/AB8R/wC8P518Dm2Mr08xnCMrK6/JH1GAx+Jp4SNOErLX82dzRRRX3x8uFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAc/4k+/bfRv6VjQf8fEf+8P51s+JPv230b+lY0H/HxH/vD+dfnGdf8jOfqvyR7uF/3dfM7miiiv0c8IKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA5/xJ9+2+jf0rGg/wCPiP8A3h/OtnxJ9+2+jf0rGg/4+I/94fzr84zr/kZz9V+SPdwv+7r5nc0UUV+jnhBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHP+JPv230b+lY0H/HxH/vD+dbPiT79t9G/pWNB/wAfEf8AvD+dfnGdf8jOfqvyR7uF/wB3XzO5ooor9HPCCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>2. Vergabekammer des Bundes  VK 2 - 27/14</h1>",
+      "page": 96,
+      "polygon": [
+        [
+          55.78125000000001,
+          163.2197265625
+        ],
+        [
+          214.5089874267578,
+          163.2197265625
+        ],
+        [
+          214.5089874267578,
+          192.445068359375
+        ],
+        [
+          55.78125000000001,
+          192.445068359375
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        163.2197265625,
+        214.5089874267578,
+        192.445068359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Beschluss</b></h2>",
+      "page": 96,
+      "polygon": [
+        [
+          276.87255859375,
+          209.6181640625
+        ],
+        [
+          332.29815673828125,
+          209.6181640625
+        ],
+        [
+          332.29815673828125,
+          220.65155029296875
+        ],
+        [
+          276.87255859375,
+          220.65155029296875
+        ]
+      ],
+      "bbox": [
+        276.87255859375,
+        209.6181640625,
+        332.29815673828125,
+        220.65155029296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Form/3",
+      "block_type": "Form",
+      "html": "<table><tbody><tr><th></th><th></th></tr><tr><td>In dem Nachprüfungsverfahren</td><td></td></tr><tr><td>[]</td><td>- Antragstellerin -</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>[]</td><td></td></tr><tr><td>gegen</td><td></td></tr><tr><td>[]</td><td>- Antragsgegner -</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>[]</td><td></td></tr><tr><td>[]</td><td>- Beigeladene -</td></tr><tr><td>Verfahrensbevollmächtigte:</td><td></td></tr><tr><td>[]</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>",
+      "page": 96,
+      "polygon": [
+        [
+          49.97070312500001,
+          226.123046875
+        ],
+        [
+          549.677734375,
+          226.123046875
+        ],
+        [
+          549.677734375,
+          642.189453125
+        ],
+        [
+          49.97070312500001,
+          642.189453125
+        ]
+      ],
+      "bbox": [
+        49.97070312500001,
+        226.123046875,
+        549.677734375,
+        642.189453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">wegen der Vergabe [...] hat die 2. Vergabekammer des Bundes durch die Vorsitzende Direktorin beim  Bundeskartellamt Dr. Herlemann, den hauptamtlichen Beisitzer Leitender Regierungsdirektor Thiele  und den ehrenamtlichen Beisitzer Dr. Schuldt auf die mündliche Verhandlung vom 14. April 2014 am  17. April 2014 beschlossen:</p>",
+      "page": 96,
+      "polygon": [
+        [
+          55.78125000000001,
+          642.2114715576172
+        ],
+        [
+          555.9091186523438,
+          642.2114715576172
+        ],
+        [
+          555.9091186523438,
+          709.2041015625
+        ],
+        [
+          55.78125000000001,
+          709.2041015625
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        642.2114715576172,
+        555.9091186523438,
+        709.2041015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Der Nachprüfungsantrag wird zurückgewiesen.</p>",
+      "page": 96,
+      "polygon": [
+        [
+          99.23973846435547,
+          756.2114334106445
+        ],
+        [
+          345.0669860839844,
+          756.2114334106445
+        ],
+        [
+          345.0669860839844,
+          767.5849609375
+        ],
+        [
+          99.23973846435547,
+          767.5849609375
+        ]
+      ],
+      "bbox": [
+        99.23973846435547,
+        756.2114334106445,
+        345.0669860839844,
+        767.5849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 89,
+      "polygon": [
+        [
+          294.5947265625,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.5947265625,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.5947265625,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/89",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Die Antragstellerin trägt die Kosten (Gebühren und Auslagen) des Nachprüfungsverfahrens sowie die zur zweckentsprechenden Rechtsverteidigung notwendigen  Aufwendungen der Antragsgegnerin.</li><li block-type=\"ListItem\">3. Die Hinzuziehung der Verfahrensbevollmächtigten der Antragsgegnerin wird für  notwendig erklärt.</li><li block-type=\"ListItem\">4. Die Beigeladene trägt die zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen selbst.</li></ul></p>",
+      "page": 89,
+      "polygon": [
+        [
+          96.45507812500001,
+          126.62890625
+        ],
+        [
+          513.3085327148438,
+          126.62890625
+        ],
+        [
+          513.3085327148438,
+          270.44500732421875
+        ],
+        [
+          96.45507812500001,
+          270.44500732421875
+        ]
+      ],
+      "bbox": [
+        96.45507812500001,
+        126.62890625,
+        513.3085327148438,
+        270.44500732421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Gründe:</b></h1>",
+      "page": 89,
+      "polygon": [
+        [
+          283.31927490234375,
+          328.17803955078125
+        ],
+        [
+          326.1155700683594,
+          328.17803955078125
+        ],
+        [
+          326.1155700683594,
+          340.8291015625
+        ],
+        [
+          283.31927490234375,
+          340.8291015625
+        ]
+      ],
+      "bbox": [
+        283.31927490234375,
+        328.17803955078125,
+        326.1155700683594,
+        340.8291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>I. </b></p>",
+      "page": 89,
+      "polygon": [
+        [
+          298.37158203125,
+          366.0980224609375
+        ],
+        [
+          310.8689880371094,
+          366.0980224609375
+        ],
+        [
+          310.8689880371094,
+          377.1314392089844
+        ],
+        [
+          298.37158203125,
+          377.1314392089844
+        ]
+      ],
+      "bbox": [
+        298.37158203125,
+        366.0980224609375,
+        310.8689880371094,
+        377.1314392089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Antragstellerin (ASt), ein Bauunternehmen, wendet sich mit ihrem Nachprüfungsantrag gegen die  Wertung des eigenen Angebots.</p>",
+      "page": 89,
+      "polygon": [
+        [
+          56.6403923034668,
+          405.376953125
+        ],
+        [
+          555.9095458984375,
+          405.376953125
+        ],
+        [
+          555.9095458984375,
+          436.623046875
+        ],
+        [
+          56.6403923034668,
+          436.623046875
+        ]
+      ],
+      "bbox": [
+        56.6403923034668,
+        405.376953125,
+        555.9095458984375,
+        436.623046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1. Die Antragsgegnerin (Ag) ist [...] machte sie im Supplement zum Amtsblatt der EU die  beabsichtigte Vergabe des Bauauftrags [...] gemeinschaftsweit bekannt [...]. Gegenstand der  Ausschreibung sind im Wesentlichen der Neubau einer Eisenbahnüberführung mit drei  Grundwasserwannen, ein Weganschluss zur [...], die Anbindung des Geh- und Radweges [...]  sowie der Rückbau eines Bahnübergangs.</p>",
+      "page": 89,
+      "polygon": [
+        [
+          56.6403923034668,
+          462.9315185546875
+        ],
+        [
+          555.9091186523438,
+          462.9315185546875
+        ],
+        [
+          555.9091186523438,
+          550.095703125
+        ],
+        [
+          56.6403923034668,
+          550.095703125
+        ]
+      ],
+      "bbox": [
+        56.6403923034668,
+        462.9315185546875,
+        555.9091186523438,
+        550.095703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Nähere Angaben zur Bauausführung sind insbesondere der Anlage 3.0.0.1 der Vergabeunterlagen  zu entnehmen. Soweit vorliegend von Interesse, ist vorgesehen, dass zunächst die Eisenbahnüberführung unmittelbar neben dem bestehenden Bahndamm vorgefertigt werden soll (sog.  \"Herstelllage\"). Hierfür muss eine Baugrube mit einer Tiefe von etwa 4 m ausgehoben werden.  Während einer Sperrpause, die für den Zeitraum [...] 2014 (genau: 121 Stunden) vorgesehen ist,  wird im Bereich der Endlage der bisherige Bahndamm beseitigt, eine Baugrube für die sog.  \"Endlage\" ausgehoben und die Brücke sodann mittels einer Verschubbahn in ihre endgültige  Position verschoben. In diesem Zeitraum ruht der Schienenverkehr auf diesem Streckenabschnitt.  Diese Vorgehensweise macht es möglich, die Beeinträchtigungen des Schienenverkehrs auf ein  Minimum zu reduzieren. Die Baugrubensohlen für die beiden Bauzustände (Herstell- und Endlage)  überschneiden sich in einem Bereich von ca. 4 Meter. Weitere 15 Meter der für die Endlage</p>",
+      "page": 89,
+      "polygon": [
+        [
+          69.7265625,
+          576.8114624023438
+        ],
+        [
+          555.9092407226562,
+          576.8114624023438
+        ],
+        [
+          555.9092407226562,
+          778.2744140625
+        ],
+        [
+          69.7265625,
+          778.2744140625
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        576.8114624023438,
+        555.9092407226562,
+        778.2744140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 63,
+      "polygon": [
+        [
+          294.013671875,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.013671875,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.013671875,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">herzustellenden Baugrubensohle befinden sich noch unterhalb des Bahndamms. Die Ag hat allen  Bietern ein Bodengutachten zur Verfügung gestellt. Aus diesem ergibt sich, dass die Bodenverhältnisse im Bereich der Herstelllage relativ ungünstiger sind als im Bereich der Endlage. Eine  abschließende Aussage über die Bodenverhältnisse und damit die Tragfähigkeit im Bereich der  Endlage trifft das Gutachten nicht, da eine Analyse erst nach dem Abtrag des bisherigen  Bahndamms und dem Bodenaushub möglich ist</p>",
+      "page": 63,
+      "polygon": [
+        [
+          70.80010223388672,
+          122.1064453125
+        ],
+        [
+          555.909423828125,
+          122.1064453125
+        ],
+        [
+          555.909423828125,
+          229.0450439453125
+        ],
+        [
+          70.80010223388672,
+          229.0450439453125
+        ]
+      ],
+      "bbox": [
+        70.80010223388672,
+        122.1064453125,
+        555.909423828125,
+        229.0450439453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ausweislich der Anlage 3.00.1 (Ziff. 2.1.1.2 – Ausführungszeitraum und Bauzeitenplan) ist der  Neubau vom 2. Mai 2014 bis spätestens zum 29. Mai 2015 gemäß Bauzeitenplan des Auftragnehmers zwingend vorzusehen, weil die Verkehrsfreigabe der Anlagen Voraussetzung für die  Schließung und den Rückbau des Bahnübergangs ist. Der Rückbau des Bahnübergangs soll ab  dem 29. Mai 2015 erfolgen. Der Bauzeitenplan muss bei Terminabweichungen vom Auftragnehmer selbständig überarbeitet und der Ag vorgelegt werden.</p>",
+      "page": 63,
+      "polygon": [
+        [
+          69.7265625,
+          254.90234375
+        ],
+        [
+          555.9090576171875,
+          254.90234375
+        ],
+        [
+          555.9090576171875,
+          361.88494873046875
+        ],
+        [
+          69.7265625,
+          361.88494873046875
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        254.90234375,
+        555.9090576171875,
+        361.88494873046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Bekanntmachung und dem Aufforderungsschreiben zur Abgabe eines Angebots vom 16.  Januar 2014 zufolge sind Zuschlagskriterien zum einen der aus der Angebotsendsumme ermittelte  Preis (Gewichtung: 85 %), zum anderen die Terminplanung (Gewichtung: 15 %). Nach der dem  Aufforderungsschreiben als Anlage beigefügten \"Wertungsmatrix Angebotsqualität\" erfolgt die  Bewertung der Qualitätskriterien über ein Punktesystem von 0 bis 5 Punkte, wobei jeweils nur volle  Punkte vergeben werden. Die nächsthöhere Punktzahl ist nur zu erreichen, wenn sämtliche  Anforderungen der geringeren Punktwerte und – zusätzlich – die für den jeweiligen Punktwert vorgegebenen weiteren Anforderungen erfüllt sind. Soweit vorliegend von Interesse, sieht die Wertungsmatrix zum Kriterium Terminplanung Folgendes vor:</p>",
+      "page": 63,
+      "polygon": [
+        [
+          70.80062103271484,
+          388.771484375
+        ],
+        [
+          555.909912109375,
+          388.771484375
+        ],
+        [
+          555.909912109375,
+          551.6047668457031
+        ],
+        [
+          70.80062103271484,
+          551.6047668457031
+        ]
+      ],
+      "bbox": [
+        70.80062103271484,
+        388.771484375,
+        555.909912109375,
+        551.6047668457031
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          294.95989990234375,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.95989990234375,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.95989990234375,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/110",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">\"Punktwert 3 (Anforderungen Punktwert 1 bis 2 + zusätzlich)</li><li block-type=\"ListItem\"> betriebliche Auswirkung von Nebenangeboten dargestellt und technisch nachvollziehbar (sofern angeboten)</li><li block-type=\"ListItem\"> Abnahmezeiten (siehe Baubeschreibung Ziff. 2.1.18) berücksichtigt, technisch nachvollziehbar und  ausgewiesen.\"</li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.64453125000001,
+          122.9287109375
+        ],
+        [
+          555.608642578125,
+          122.9287109375
+        ],
+        [
+          555.608642578125,
+          202.30291748046875
+        ],
+        [
+          90.64453125000001,
+          202.30291748046875
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        122.9287109375,
+        555.608642578125,
+        202.30291748046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus der so in Bezug genommenen Ziff. 2.1.1.8 der Anlage 3.00.1 (Baubeschreibung) geht hervor:</p>",
+      "page": 112,
+      "polygon": [
+        [
+          69.7265625,
+          227.767578125
+        ],
+        [
+          548.4688720703125,
+          227.767578125
+        ],
+        [
+          548.4688720703125,
+          239.485107421875
+        ],
+        [
+          69.7265625,
+          239.485107421875
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        227.767578125,
+        548.4688720703125,
+        239.485107421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1>\"2.1.1.8 Bauablauf, Pufferzeiten für den AG</h1>",
+      "page": 112,
+      "polygon": [
+        [
+          91.22558593750001,
+          265.1806640625
+        ],
+        [
+          286.5689697265625,
+          265.1806640625
+        ],
+        [
+          286.5689697265625,
+          276.462890625
+        ],
+        [
+          91.22558593750001,
+          276.462890625
+        ]
+      ],
+      "bbox": [
+        91.22558593750001,
+        265.1806640625,
+        286.5689697265625,
+        276.462890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Als Anlage zum Bauvertrag ist eine Wertungsmatrix zur Bewertung der Angebotsqualität in Bezug auf  das Kriterium Terminplanung enthalten (...).Die Darstellung der zur Bewertung durch den AG abzugebenden Terminpläne ist wie folgt vorzunehmen:</p>",
+      "page": 112,
+      "polygon": [
+        [
+          91.80664062500001,
+          281.6259765625
+        ],
+        [
+          555.6085815429688,
+          281.6259765625
+        ],
+        [
+          555.6085815429688,
+          328.18292236328125
+        ],
+        [
+          91.80664062500001,
+          328.18292236328125
+        ]
+      ],
+      "bbox": [
+        91.80664062500001,
+        281.6259765625,
+        555.6085815429688,
+        328.18292236328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/111",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Bauablaufplan (Gesamtbauzeit): tagesgenau (Hinweis: Bauablaufplanung für die Erstellung  der Grundwasserwannen ist getrennt für die GW-Wanne Nord und GW-Wanne Süd sowie für  den Lückenschluss im Plan auszuweisen.)</li><li block-type=\"ListItem\"> Detailterminplan für die in Anlage 3.11 aufgeführte Sperrpause vom [...] 1/2 –stundengenau  mit Darstellung Gewerke (mind. Oberbau, Stahl-/Stahlbetonbau, Erd- und Tief-/Spezialtiefbau)</li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          125.50781250000001,
+          334.662109375
+        ],
+        [
+          555.6093139648438,
+          334.662109375
+        ],
+        [
+          555.6093139648438,
+          416.14288330078125
+        ],
+        [
+          125.50781250000001,
+          416.14288330078125
+        ]
+      ],
+      "bbox": [
+        125.50781250000001,
+        334.662109375,
+        555.6093139648438,
+        416.14288330078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Erreichung des Punktwertes \"3\" sind mindestens für die nachfolgenden Abnahmen entsprechenden  Abnahmezeiten zu beachten:</p>",
+      "page": 112,
+      "polygon": [
+        [
+          90.64453125000001,
+          440.7489929199219
+        ],
+        [
+          555.6091918945312,
+          440.7489929199219
+        ],
+        [
+          555.6091918945312,
+          467.86285400390625
+        ],
+        [
+          90.64453125000001,
+          467.86285400390625
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        440.7489929199219,
+        555.6091918945312,
+        467.86285400390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/112",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> Abnahme Traggerüst für die Herstellung der Eisenbahnüberführung</li><li block-type=\"ListItem\"> Abnahme Baugrubensohle (Herstell- und Endlage der Eisenbahnüberführung)</li><li block-type=\"ListItem\"> VOB-Abnahme</li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          126.66992187500001,
+          475.18896484375
+        ],
+        [
+          481.5693359375,
+          475.18896484375
+        ],
+        [
+          481.5693359375,
+          519.7028503417969
+        ],
+        [
+          126.66992187500001,
+          519.7028503417969
+        ]
+      ],
+      "bbox": [
+        126.66992187500001,
+        475.18896484375,
+        481.5693359375,
+        519.7028503417969
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Zur Erreichung des Punktwertes \"4\"....\"</p>",
+      "page": 112,
+      "polygon": [
+        [
+          92.04043579101562,
+          544.1889343261719
+        ],
+        [
+          267.1293029785156,
+          544.1889343261719
+        ],
+        [
+          267.1293029785156,
+          554.142822265625
+        ],
+        [
+          92.04043579101562,
+          554.142822265625
+        ]
+      ],
+      "bbox": [
+        92.04043579101562,
+        544.1889343261719,
+        267.1293029785156,
+        554.142822265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Angebotsabgabefrist endete – nach Verlängerung – am 20. Februar 2014. Die ASt gab,  ebenso wie die Beigeladene (Bg), ein Angebot ab.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.79998016357422,
+          580.2914733886719
+        ],
+        [
+          555.9089965820312,
+          580.2914733886719
+        ],
+        [
+          555.9089965820312,
+          610.2848663330078
+        ],
+        [
+          70.79998016357422,
+          610.2848663330078
+        ]
+      ],
+      "bbox": [
+        70.79998016357422,
+        580.2914733886719,
+        555.9089965820312,
+        610.2848663330078
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Unter Ziff. 38 des von ihr dem Angebot als Anlage beigefügten Gesamtablaufplans gab die ASt an:</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.79998016357422,
+          636.8447265625
+        ],
+        [
+          553.8689575195312,
+          636.8447265625
+        ],
+        [
+          553.8689575195312,
+          648.2048645019531
+        ],
+        [
+          70.79998016357422,
+          648.2048645019531
+        ]
+      ],
+      "bbox": [
+        70.79998016357422,
+        636.8447265625,
+        553.8689575195312,
+        648.2048645019531
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Abnahme Baugrubensohle in der Herstelllage.\"</p>",
+      "page": 112,
+      "polygon": [
+        [
+          92.03997039794922,
+          674.8830871582031
+        ],
+        [
+          303.1966857910156,
+          674.8830871582031
+        ],
+        [
+          303.1966857910156,
+          685.3583984375
+        ],
+        [
+          92.03997039794922,
+          685.3583984375
+        ]
+      ],
+      "bbox": [
+        92.03997039794922,
+        674.8830871582031,
+        303.1966857910156,
+        685.3583984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach dem Ergebnis der Submission ist das Angebot der ASt das preisgünstigste, gefolgt von  demjenigen der Bg.</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.80010223388672,
+          711.3314514160156
+        ],
+        [
+          555.9085083007812,
+          711.3314514160156
+        ],
+        [
+          555.9085083007812,
+          742.0947265625
+        ],
+        [
+          70.80010223388672,
+          742.0947265625
+        ]
+      ],
+      "bbox": [
+        70.80010223388672,
+        711.3314514160156,
+        555.9085083007812,
+        742.0947265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/18",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Mit Schreiben vom 17. März 2014 informierte die Ag die ASt darüber, dass auf deren Angebot der  Zuschlag nicht erteilt werden könne. Zur Begründung führte die Ag in dem Formularschreiben aus,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          70.80010223388672,
+          763.2914276123047
+        ],
+        [
+          555.9089965820312,
+          763.2914276123047
+        ],
+        [
+          555.9089965820312,
+          794.30859375
+        ],
+        [
+          70.80010223388672,
+          794.30859375
+        ]
+      ],
+      "bbox": [
+        70.80010223388672,
+        763.2914276123047,
+        555.9089965820312,
+        794.30859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          294.013671875,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.013671875,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.013671875,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">das Angebot der ASt sei schlechter bewertet worden als das Angebot der Bg, weil es die Anforderungen für den Punktwert 3 des Zuschlagskriteriums Terminplanung nicht erfülle. In dem  Angebot der ASt seien \"die geforderten Abnahmezeiten nicht berücksichtigt\" worden.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.80010223388672,
+          123.211669921875
+        ],
+        [
+          555.90869140625,
+          123.211669921875
+        ],
+        [
+          555.90869140625,
+          172.4283447265625
+        ],
+        [
+          70.80010223388672,
+          172.4283447265625
+        ]
+      ],
+      "bbox": [
+        70.80010223388672,
+        123.211669921875,
+        555.90869140625,
+        172.4283447265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt teilte der Ag in einem Schreiben vom 18. März 2014 mit, mit der Angebotswertung \"nicht  einverstanden\" zu sein und dieser zu \"widersprechen\". Der angebotene Gesamtablaufplan genüge  sehr wohl den Anforderungen des Punktwerts 3. Im Anschluss an ein bilaterales Gespräch, das  am 21. März 2014 stattfand, teilte die Ag der ASt in einem Antwortschreiben vom 25. März 2014  mit, an dem Prüfergebnis festhalten zu wollen. Wie eine Rückfrage bei einem geotechnischen  Sachverständigen ergeben habe, sei ein eigener Termin für die Abnahme der Baugrubensohle der  Endlage der Eisenbahnüberführung zwingend erforderlich. Eine entsprechende Darstellung fehle  in dem Angebot der ASt. Hiergegen wandte sich die ASt mit einem im Betreff als \"Rüge\"  bezeichneten Schreiben vom 25. März 2014.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          69.7265625,
+          194.13165283203125
+        ],
+        [
+          555.9091796875,
+          194.13165283203125
+        ],
+        [
+          555.9091796875,
+          356.9649658203125
+        ],
+        [
+          69.7265625,
+          356.9649658203125
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        194.13165283203125,
+        555.9091796875,
+        356.9649658203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/100",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">2. Mit einem per Fax am 27. März 2014 bei der Vergabekammer des Bundes eingegangenen Schriftsatz ihrer Verfahrensbevollmächtigten beantragte die ASt die Einleitung eines Nachprüfungsverfahrens. Diesen Antrag übermittelte die Vergabekammer der Ag noch am selben Tag.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt ist der Ansicht, die Wertung des Zuschlagskriteriums Terminplanung sei fehlerhaft. Ausgehend vom Wortlaut der Ziff. 2.1.1.8 der Anlage 3.00.1 (\"Abnahme der Baugrubensohle...\")  habe die ASt davon ausgehen können, dass die Herstell- und Endlage der Baugrubensohle im  Rahmen einer einzigen Abnahme abgenommen werden solle. Sollte die Ag insoweit zwei Abnahmen für erforderlich gehalten haben, d.h. eine Abnahme der Baugrubensohle in Herstelllage  und eine Abnahme der Baugrubensohle in Endlage, hätte sie dies in den Vergabeunterlagen  klarstellen können und müssen. Dies sei jedoch unterblieben.</li></ul></li></ul></p>",
+      "page": 100,
+      "polygon": [
+        [
+          56.63987350463867,
+          383.5869140625
+        ],
+        [
+          555.9088134765625,
+          383.5869140625
+        ],
+        [
+          555.9088134765625,
+          585.453125
+        ],
+        [
+          56.63987350463867,
+          585.453125
+        ]
+      ],
+      "bbox": [
+        56.63987350463867,
+        383.5869140625,
+        555.9088134765625,
+        585.453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die ASt habe sich im Verlauf der Angebotserstellung durchaus mit der Frage  auseinandergesetzt, ob eine gleichzeitige Abnahme der Baugrubensohle in der Herstell- und  der Endlage Sinn mache. Sie sei für sich zu dem Ergebnis gekommen, dass diese Frage zu bejahen sei. Die streitgegenständliche Baustelle weise die Besonderheit auf, dass sich die Baugrubensohle in der Herstell- und in der Endlage in einem Bereich von ca. 4 m überschneiden.  Ein derart großer Überschneidungsbereich komme in der Praxis sehr selten vor. Da das von der  Ag zur Verfügung gestellte Bodengutachten festgestellt habe, dass im Bereich der Baugrube in  der Herstelllage die Baugrundverhältnisse ungünstiger seien als im Bereich der Endlage, sei es  ausnahmsweise möglich, mit der Abnahme der Baugrube in der Herstelllage auf die</p>",
+      "page": 100,
+      "polygon": [
+        [
+          83.671875,
+          608.8876953125
+        ],
+        [
+          555.9092407226562,
+          608.8876953125
+        ],
+        [
+          555.9092407226562,
+          774.3248138427734
+        ],
+        [
+          83.671875,
+          774.3248138427734
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        608.8876953125,
+        555.9092407226562,
+        774.3248138427734
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 94,
+      "polygon": [
+        [
+          294.5947265625,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.5947265625,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.5947265625,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Verhältnisse der Baugrubensohle in der Endlage zu schließen. Ein von der ASt zu den Akten  gereichtes Gutachten der [...] vom 10. April 2014 bestätige diese Annahme.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          83.671875,
+          121.2841796875
+        ],
+        [
+          555.9080810546875,
+          121.2841796875
+        ],
+        [
+          555.9080810546875,
+          153.205078125
+        ],
+        [
+          83.671875,
+          153.205078125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        121.2841796875,
+        555.9080810546875,
+        153.205078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entgegen dem Vorbringen der Ag sei sie mit ihrem Vorbringen auch nicht nach § 107 Abs. 3  Satz 1 Nr. 1 GWB präkludiert. Dem Schreiben vom 18. März 2014 habe ohne Weiteres entnommen werden können, dass die ASt die Wertungsentscheidung der Ag, wie sie in deren  Schreiben vom 17. März 2014 ihren Niederschlag gefunden habe, als vergaberechtswidrig habe  angreifen wollen. Die Überlegungen der Ag seien ihr zur Gänze erst nach dem bilateralen  Gespräch am 21. März bzw. dem Schreiben der Ag vom 25. März 2014 bekannt gewesen.  Hiergegen habe sie rechtzeitig, mit Schreiben vom gleichen Tag, Rüge erhoben.</p>",
+      "page": 94,
+      "polygon": [
+        [
+          83.671875,
+          179.25390625
+        ],
+        [
+          555.90869140625,
+          179.25390625
+        ],
+        [
+          555.90869140625,
+          305.0050048828125
+        ],
+        [
+          83.671875,
+          305.0050048828125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        179.25390625,
+        555.90869140625,
+        305.0050048828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>Die ASt beantragt,</h2>",
+      "page": 94,
+      "polygon": [
+        [
+          70.3076171875,
+          331.7841796875
+        ],
+        [
+          163.7486572265625,
+          331.7841796875
+        ],
+        [
+          163.7486572265625,
+          342.9249572753906
+        ],
+        [
+          70.3076171875,
+          342.9249572753906
+        ]
+      ],
+      "bbox": [
+        70.3076171875,
+        331.7841796875,
+        163.7486572265625,
+        342.9249572753906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/93",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. festzustellen, dass die Wertung ihres Angebots sie in ihren Rechten verletzt,</li><li block-type=\"ListItem\">2. die Ag zu verpflichten, das Vergabeverfahren unter Berücksichtigung des Angebots der  ASt sowie unter Berücksichtigung der Rechtsauffassung der Vergabekammer fortzuführen,</li><li block-type=\"ListItem\">3. die Hinzuziehung der Verfahrensbevollmächtigten der ASt gemäß § 128 Abs. 4 GWB für  notwendig zu erklären,</li><li block-type=\"ListItem\">4. der Ag die Kosten des Verfahrens einschließlich der Kosten der zweckentsprechenden  Rechtsverfolgung der ASt aufzuerlegen.</li></ul></p>",
+      "page": 94,
+      "polygon": [
+        [
+          97.61718750000001,
+          369.6083984375
+        ],
+        [
+          555.9088134765625,
+          369.6083984375
+        ],
+        [
+          555.9088134765625,
+          549.6847839355469
+        ],
+        [
+          97.61718750000001,
+          549.6847839355469
+        ]
+      ],
+      "bbox": [
+        97.61718750000001,
+        369.6083984375,
+        555.9088134765625,
+        549.6847839355469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2>b) Die Ag beantragt,</h2>",
+      "page": 94,
+      "polygon": [
+        [
+          69.7265625,
+          569.6113586425781
+        ],
+        [
+          173.58941650390625,
+          569.6113586425781
+        ],
+        [
+          173.58941650390625,
+          580.644775390625
+        ],
+        [
+          69.7265625,
+          580.644775390625
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        569.6113586425781,
+        173.58941650390625,
+        580.644775390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/94",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. den Nachprüfungsantrag zurückzuweisen,</li><li block-type=\"ListItem\">2. der ASt die Kosten des Verfahrens sowie die zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der Ag aufzuerlegen,</li><li block-type=\"ListItem\">3. die Hinzuziehung des Verfahrensbevollmächtigten der Ag für notwendig zu erklären.</li></ul></p>",
+      "page": 94,
+      "polygon": [
+        [
+          97.61718750000001,
+          602.4913330078125
+        ],
+        [
+          552.7940063476562,
+          602.4913330078125
+        ],
+        [
+          552.7940063476562,
+          698.4847106933594
+        ],
+        [
+          97.61718750000001,
+          698.4847106933594
+        ]
+      ],
+      "bbox": [
+        97.61718750000001,
+        602.4913330078125,
+        552.7940063476562,
+        698.4847106933594
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Die Ag meint, der Nachprüfungsantrag sei gem. § 107 Abs. 3 Satz 1 Nr. 1 GWB unzulässig. Wie  sich aus dem Schreiben der ASt vom 18. März 2014 ergebe, sei dieser der von ihr behauptete  Rechtsverstoß, d.h. die Erforderlichkeit einer Abnahme der Baugrundsohle auch in der Endlage  zur Erlangung des Punktwerts 3, bereits zu diesem Zeitpunkt bekannt gewesen. Die ASt habe</p>",
+      "page": 94,
+      "polygon": [
+        [
+          84.833984375,
+          718.66015625
+        ],
+        [
+          555.9097290039062,
+          718.66015625
+        ],
+        [
+          555.9097290039062,
+          788.484748840332
+        ],
+        [
+          84.833984375,
+          788.484748840332
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        718.66015625,
+        555.9097290039062,
+        788.484748840332
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 93,
+      "polygon": [
+        [
+          294.30419921875,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          64.958984375
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.30419921875,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.30419921875,
+        64.958984375,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">jedoch zunächst bewusst auf eine Rügeerhebung verzichtet und stattdessen die Ag um ein Aufklärungsgespräch gebeten. Die erst mit Schreiben vom 25. März 2014 erhobene Rüge sei nicht  unverzüglich im Sinne des § 107 Abs. 3 Satz 1 Nr. 1 GWB.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          84.833984375,
+          122.9287109375
+        ],
+        [
+          555.90869140625,
+          122.9287109375
+        ],
+        [
+          555.90869140625,
+          172.0450439453125
+        ],
+        [
+          84.833984375,
+          172.0450439453125
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        122.9287109375,
+        555.90869140625,
+        172.0450439453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Nachprüfungsantrag sei jedenfalls unbegründet. Die Wertung des Kriteriums Terminplanung sei beurteilungsfehlerfrei erfolgt. Da Herstell- und Endlage räumlich, zeitlich und funktional  voneinander zu trennen seien, seien zwei getrennte Abnahmen erforderlich. Einen Überschneidungsbereich zwischen den nebeneinanderliegenden Flächen gebe es nur im Bereich von 4 m.  Während die Abnahme der Baugrubensohle in Herstelllage zwingend vor der Errichtung der  Brücke in Herstelllage erfolgen müsse, könne die Abnahme der Baugrubensohle in der Endlage  erst nach Fertigstellung der Brücke (in der Herstelllage) und der Beseitigung des Bahndamms  im Rahmen der vorgegebenen Sperrpausen erfolgen. Die Baugrube in der Endlage, auf welcher  die Brücke dauerhaft lagern werde und die daher wichtiger sei als die Herstelllage, werde erst  während der Sperrpause [...] ausgehoben. Zwischen beiden Abnahmen lägen mehrere Monate,  so dass eine zeitgleiche Abnahme nicht in Betracht komme.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          83.671875,
+          194.0546875
+        ],
+        [
+          555.9089965820312,
+          194.0546875
+        ],
+        [
+          555.9089965820312,
+          394.7649230957031
+        ],
+        [
+          83.671875,
+          394.7649230957031
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        194.0546875,
+        555.9089965820312,
+        394.7649230957031
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Abnahme der Baugrubensohle in Endlage durch Besichtigung der Baugrubensohle in der  Herstelllage sei nicht möglich. Eine Abnahme zeichne sich dadurch aus, dass das Gewerk besichtigt, begangen und ggf. geprüft werden könne. Zum Zeitpunkt der Prüfung der Herstelllage  sei dies nur für den Überschneidungsbereich von 4 m möglich, nicht jedoch auch für den  darüber hinausgehenden Bereich von ca. 15 m.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          83.671875,
+          416.85150146484375
+        ],
+        [
+          555.9088134765625,
+          416.85150146484375
+        ],
+        [
+          555.9088134765625,
+          503.6376953125
+        ],
+        [
+          83.671875,
+          503.6376953125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        416.85150146484375,
+        555.9088134765625,
+        503.6376953125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das den Bietern zur Verfügung gestellte Bodengutachten lasse zwar Rückschlüsse auf die  Standsicherheit in der Endlage zu, könne aber die erforderliche Prüfung der Standsicherheit in  der Endlage nicht ersetzen. Erfahrungen aus der Praxis der Ag zeigten, dass eine Abweichung  der tatsächlichen Bodenverhältnisse von den in einem Bodengutachten angenommenen nicht  per se ausgeschlossen werden könnten, mit unabsehbaren Folgen für den Schienenverkehr.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          84.833984375,
+          525.0166015625
+        ],
+        [
+          555.9088134765625,
+          525.0166015625
+        ],
+        [
+          555.9088134765625,
+          612.9990234375
+        ],
+        [
+          84.833984375,
+          612.9990234375
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        525.0166015625,
+        555.9088134765625,
+        612.9990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/93",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">c) Die mit Beschluss vom 31. März 2014 zum Verfahren hinzugezogene Bg beantragt,  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">1. den Nachprüfungsantrag zurückzuweisen,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2. die Hinzuziehung der Verfahrensbevollmächtigten der Bg für notwendig zu erklären,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3. der ASt die Kosten des Verfahrens einschließlich der Kosten der zur zweckent sprechenden Rechtsverfolgung notwendigen Auslage der Bg aufzuerlegen.</li></ul></li></ul></p>",
+      "page": 93,
+      "polygon": [
+        [
+          69.7265625,
+          633.5556640625
+        ],
+        [
+          552.913818359375,
+          633.5556640625
+        ],
+        [
+          552.913818359375,
+          765.1181640625
+        ],
+        [
+          69.7265625,
+          765.1181640625
+        ]
+      ],
+      "bbox": [
+        69.7265625,
+        633.5556640625,
+        552.913818359375,
+        765.1181640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 90,
+      "polygon": [
+        [
+          294.013671875,
+          66.0916748046875
+        ],
+        [
+          317.5890197753906,
+          66.0916748046875
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.013671875,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.013671875,
+        66.0916748046875,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nach Auffassung der Bg ist die Angebotswertung nicht zu beanstanden. Aus Ziff. 2.1.1.8 der  Anlage 3.00.1 ergäben sich die Voraussetzung für die Vergabe von 3 Punkten zweifelsfrei. Danach seien zwingend gesonderte Abnahmetermine für die Baugrubensohle in Herstell- bzw. in  Endlage vorzusehen. Da die ASt nach ihrem eigenen Vortrag nur eine Abnahme in Herstelllage  vorgesehen habe, erfülle sie nicht die Voraussetzung für die Vergabe von 3 Punkten im Rahmen  der Wertung. Eine gleichzeitige Abnahme der Baugrube in der Herstell- und der Endlage komme  nicht in Betracht. Denn zum Zeitpunkt der Abnahme der Baugrubensohle in der Herstelllage sei  die Baugrubensohle in der Endlage, bedingt durch die Sperrpause, noch nicht fertiggestellt. Eine  Abnahme der Baugrubensohle in der Herstelllage zum Zeitpunkt der Abnahme der Baugrubensohle in der Endlage sei sinnlos, weil zu diesem Zeitpunkt die Herstelllage nicht mehr benötigt  werde.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          73.212890625,
+          122.9287109375
+        ],
+        [
+          555.9091186523438,
+          122.9287109375
+        ],
+        [
+          555.9091186523438,
+          323.844970703125
+        ],
+        [
+          73.212890625,
+          323.844970703125
+        ]
+      ],
+      "bbox": [
+        73.212890625,
+        122.9287109375,
+        555.9091186523438,
+        323.844970703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In der mündlichen Verhandlung vom 14. April 2014 hatten die Beteiligten Gelegenheit, ihre Standpunkte zu erläutern und zu vertiefen. Auf die Schriftsätze der Beteiligten, die Verfahrensakte der  Vergabekammer sowie die von der Ag übermittelten Vergabeakten wird ergänzend Bezug genommen.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          73.212890625,
+          345.3515625
+        ],
+        [
+          555.9085693359375,
+          345.3515625
+        ],
+        [
+          555.9085693359375,
+          413.72491455078125
+        ],
+        [
+          73.212890625,
+          413.72491455078125
+        ]
+      ],
+      "bbox": [
+        73.212890625,
+        345.3515625,
+        555.9085693359375,
+        413.72491455078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>II. </b></p>",
+      "page": 90,
+      "polygon": [
+        [
+          299.82421875,
+          452.8579406738281
+        ],
+        [
+          312.30908203125,
+          452.8579406738281
+        ],
+        [
+          312.30908203125,
+          464.9912109375
+        ],
+        [
+          299.82421875,
+          464.9912109375
+        ]
+      ],
+      "bbox": [
+        299.82421875,
+        452.8579406738281,
+        312.30908203125,
+        464.9912109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der zulässige Nachprüfungsantrag ist unbegründet.</p>",
+      "page": 90,
+      "polygon": [
+        [
+          55.78125000000001,
+          492.6914367675781
+        ],
+        [
+          311.1087951660156,
+          492.6914367675781
+        ],
+        [
+          311.1087951660156,
+          504.4599609375
+        ],
+        [
+          55.78125000000001,
+          504.4599609375
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        492.6914367675781,
+        311.1087951660156,
+        504.4599609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/90",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Der Nachprüfungsantrag ist zulässig.  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) Die ASt ist antragsbefugt (§ 107 Abs. 2 GWB). Die ASt hat ihr Interesse am Auftrag durch die  Abgabe eines Angebots sowie durch die Stellung des Nachprüfungsantrags hinreichend  dokumentiert. Den Vortrag der ASt als richtig unterstellt, droht ihr durch die behauptete fehlerhafte Wertung des Zuschlagskriteriums Terminplanung die Entstehung eines Schadens. Wäre  das Angebot der ASt insoweit mit drei (oder mehr) Punkten zu werten, käme ihr Angebot, da  nach der Gesamtwertung auf dem zweiten Platz liegend, für die Zuschlagserteilung in Betracht.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) Die ASt hat ihren Rügeobliegenheiten (§ 107 Abs. 3 Satz 1 GWB) genügt.</li></ul></li></ul></p>",
+      "page": 90,
+      "polygon": [
+        [
+          56.639766693115234,
+          530.6114196777344
+        ],
+        [
+          555.908447265625,
+          530.6114196777344
+        ],
+        [
+          555.908447265625,
+          712.4048767089844
+        ],
+        [
+          56.639766693115234,
+          712.4048767089844
+        ]
+      ],
+      "bbox": [
+        56.639766693115234,
+        530.6114196777344,
+        555.908447265625,
+        712.4048767089844
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Da sich der geltend gemachte Vergabefehler, die vergaberechtswidrige Wertung, weder aus der  Bekanntmachung noch aus den Vergabeunterlagen ergibt, kommt als Rechtsgrundlage für eine  Präklusion nur § 107 Abs. 3 Satz 1 Nr. 1 GWB in Betracht. Der Vorschrift des § 107 Abs. 3 S. 1</p>",
+      "page": 90,
+      "polygon": [
+        [
+          83.671875,
+          738.8056640625
+        ],
+        [
+          555.9076538085938,
+          738.8056640625
+        ],
+        [
+          555.9076538085938,
+          788.3649368286133
+        ],
+        [
+          83.671875,
+          788.3649368286133
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        738.8056640625,
+        555.9076538085938,
+        788.3649368286133
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 110,
+      "polygon": [
+        [
+          294.30419921875,
+          66.0916748046875
+        ],
+        [
+          317.5890197753906,
+          66.0916748046875
+        ],
+        [
+          317.5890197753906,
+          77.12506103515625
+        ],
+        [
+          294.30419921875,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        294.30419921875,
+        66.0916748046875,
+        317.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nr. 1 GWB zufolge ist ein Nachprüfungsantrag unzulässig, soweit der Antragsteller den  gerügten Verstoß gegen Vergabevorschriften im Vergabeverfahren erkannt und gegenüber dem  Auftraggeber nicht unverzüglich gerügt hat. Dabei setzt das Entstehen der Rügeobliegenheit  nicht nur eine - im Streitfall vom öffentlichen Auftraggeber nachzuweisende - positive Kenntnis  der den Vergabeverstoß begründenden tatsächlichen Umstände voraus, sondern gleichzeitig  die zumindest laienhafte Vorstellung, es liege ein Vergaberechtsverstoß vor. Vor der Erhebung  einer Rüge ist dem Antragsteller eine Überlegungsfrist zuzubilligen (vgl. zum Vorstehenden  Dicks, in: Ziekow/Völlink, Vergaberecht, 2. Aufl. (2013), § 107 Rn. 40 m.w.N.). In inhaltlicher  Hinsicht dürfen an eine Rüge keine überspannten Anforderungen gestellt werden; dies gilt  insbesondere dann, wenn die Rüge – wie vorliegend – nicht von einem anwaltlich vertretenen  Unternehmen gestellt wird. Vielmehr genügt es, wenn sich aus der Rüge eine konkrete  Beanstandung ergibt, die den Auftraggeber zur Überprüfung seiner Entscheidung veranlassen  soll (Dicks, a.a.O., § 107 Rn. 53). Diesen Anforderungen genügte die ASt bereits mit ihrem  Schreiben vom 18. März 2014.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          83.671875,
+          121.6953125
+        ],
+        [
+          555.9091186523438,
+          121.6953125
+        ],
+        [
+          555.9091186523438,
+          380.84490966796875
+        ],
+        [
+          83.671875,
+          380.84490966796875
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        121.6953125,
+        555.9091186523438,
+        380.84490966796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dem Informationsschreiben vom 17. März 2014 konnte die ASt lediglich entnehmen, dass ihr  Angebot bei dem Kriterium Terminplanung schlechter bewertet worden ist als dasjenige der Bg,  weil dieses \"die Anforderungen des Punktwertes 3 des Zuschlagskriteriums \"Terminplanung\" nicht erfüllt\" hat, da die \"geforderten Abnahmezeiten nicht berücksichtigt\" worden seien.  Weitergehende Angaben zu der Wertungsentscheidung sind dem Formularschreiben der Ag  nicht zu entnehmen.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          83.671875,
+          407.8514709472656
+        ],
+        [
+          555.908935546875,
+          407.8514709472656
+        ],
+        [
+          555.908935546875,
+          513.684814453125
+        ],
+        [
+          83.671875,
+          513.684814453125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        407.8514709472656,
+        555.908935546875,
+        513.684814453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Indem die ASt mit Schreiben vom 18. März 2014 zum Ausdruck brachte, mit dieser Wertung  des Angebots \"nicht einverstanden\" zu sein und diesem zu \"widersprechen\", machte sie hinreichend deutlich, dass sie die Wertung der Ag beanstandete und von dieser eine Überprüfung  ihrer Entscheidung erwartete. Dass die ASt in ihrem Schreiben vom 18. März 2014 um ein kurzfristig anzuberaumendes Aufklärungsgespräch bat, anderenfalls sie sich gezwungen sehe, ihre  \"Wertung unseres Angebotes zu rügen\", ändert an dieser Einschätzung nichts. Wie sich aus  den Ausführungen der ASt ergibt (vgl. Seite 2, vorletzter Absatz des Schreibens vom 18. März  2014), war für diese aufgrund des Informationsschreibens nicht erkennbar, ob die Wertung  möglicherweise darauf zurückzuführen sein könnte, dass die Ag die Darstellung weiterer  Abnahmezeiten erwartete. Das von der ASt erbetene Gespräch diente demnach in erster Linie  dem Zweck, nähere Informationen zu der Entscheidung der Ag zu erhalten.</p>",
+      "page": 110,
+      "polygon": [
+        [
+          83.671875,
+          540.5713500976562
+        ],
+        [
+          555.9083251953125,
+          540.5713500976562
+        ],
+        [
+          555.9083251953125,
+          742.0947265625
+        ],
+        [
+          83.671875,
+          742.0947265625
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        540.5713500976562,
+        555.9083251953125,
+        742.0947265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          291.83990478515625,
+          66.0916748046875
+        ],
+        [
+          320.5890197753906,
+          66.0916748046875
+        ],
+        [
+          320.5890197753906,
+          77.12506103515625
+        ],
+        [
+          291.83990478515625,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        291.83990478515625,
+        66.0916748046875,
+        320.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Selbst wenn das Schreiben der ASt 18. März 2014 inhaltlich nicht als Rüge zu qualifizieren  sein sollte, hätte die ASt jedenfalls mit Schreiben vom 25. März 2014 die Wertung der Ag  gerügt. Es kann dahingestellt bleiben, ob das Erfordernis der \"unverzüglichen\" Rügeerhebung  wegen der Unbestimmtheit des Begriffs überhaupt mit höherrangigem Gemeinschaftsrecht  vereinbar ist und deshalb unangewendet bleiben muss (in diesem Sinne etwa OLG Koblenz,  Beschluss vom 16. September 2013, 1 Verg 5/13). Jedenfalls rügte die ASt die beabsichtigte  Zuschlagserteilung auf das Angebot der Bg bereits 8 Tage nach Eingang des Informationsschreibens und damit \"unverzüglich\" im Sinne des Gesetzes (vgl. etwa OLG Düsseldorf,  VergabeR 2008, 956, 957).</p>",
+      "page": 100,
+      "polygon": [
+        [
+          90.64453125000001,
+          122.1064453125
+        ],
+        [
+          555.9088134765625,
+          122.1064453125
+        ],
+        [
+          555.9088134765625,
+          286.04498291015625
+        ],
+        [
+          90.64453125000001,
+          286.04498291015625
+        ]
+      ],
+      "bbox": [
+        90.64453125000001,
+        122.1064453125,
+        555.9088134765625,
+        286.04498291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2. Der Nachprüfungsantrag der ASt ist unbegründet. Die Angebotswertung (§ 29 Abs. 1 SektVO) ist  nicht zu beanstanden.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          56.63950729370117,
+          312.4609375
+        ],
+        [
+          545.3483276367188,
+          312.4609375
+        ],
+        [
+          545.3483276367188,
+          342.9249572753906
+        ],
+        [
+          56.63950729370117,
+          342.9249572753906
+        ]
+      ],
+      "bbox": [
+        56.63950729370117,
+        312.4609375,
+        545.3483276367188,
+        342.9249572753906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dem Auftraggeber steht bei der Wertung der Angebote nach den bekanntgegebenen Zuschlagskriterien ein Beurteilungsspielraum zu. Die Wertung von Angeboten kann daher von den Nachprüfungsinstanzen nur auf Beurteilungsfehler hin überprüft werden. Beanstandungen an der Bewertung eines Angebots können nur auf das Zugrundelegen eines falschen Sachverhalts, auf  Nichteinhaltung allgemeingültiger Bewertungsmaßstäbe, auf Ungleichbehandlung, Willkür oder  sachfremde Erwägungen gestützt werden (vgl. OLG Düsseldorf, Beschluss vom 27. Juli 2005, VII-Verg 108/04; Beschluss vom 22. Januar 2007, VII-Verg 46/06). Solche Beurteilungsfehler liegen  nicht vor.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.79903411865234,
+          369.8114929199219
+        ],
+        [
+          555.907958984375,
+          369.8114929199219
+        ],
+        [
+          555.907958984375,
+          513.684814453125
+        ],
+        [
+          70.79903411865234,
+          513.684814453125
+        ]
+      ],
+      "bbox": [
+        70.79903411865234,
+        369.8114929199219,
+        555.907958984375,
+        513.684814453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">a) Die ASt machte in ihrem Angebot nicht alle von der Ag geforderten Angaben, die zur Erlangung  des Punktwerts 3 erforderlich gewesen wären.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          70.79903411865234,
+          540.5713500976562
+        ],
+        [
+          555.9080810546875,
+          540.5713500976562
+        ],
+        [
+          555.9080810546875,
+          571.0634765625
+        ],
+        [
+          70.79903411865234,
+          571.0634765625
+        ]
+      ],
+      "bbox": [
+        70.79903411865234,
+        540.5713500976562,
+        555.9080810546875,
+        571.0634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aus der Wertungsmatrix Angebotsqualität ergibt sich, dass ein Bieter für die von ihm  vorgesehene Terminplanung 3 Punkte erhalten kann, wenn die Anforderungen von Punktwert 1  und 2 erfüllt sind und zusätzlich Abnahmezeiten gem. Anlage 3.00.1, Ziffer 2.1.1.8,  berücksichtigt, technisch nachvollziehbar und ausgewiesen sind. Nach Ziff. 2.1.1.8 werden 3  Punkte vergeben unter folgenden Voraussetzungen:</p>",
+      "page": 100,
+      "polygon": [
+        [
+          84.833984375,
+          597.5713653564453
+        ],
+        [
+          555.9088134765625,
+          597.5713653564453
+        ],
+        [
+          555.9088134765625,
+          684.5361328125
+        ],
+        [
+          84.833984375,
+          684.5361328125
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        597.5713653564453,
+        555.9088134765625,
+        684.5361328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Zur Erreichung des Punktwertes \"3\" sind mindestens für die nachfolgenden Abnahmen  entsprechenden Abnahmezeiten zu beachten:</p>",
+      "page": 100,
+      "polygon": [
+        [
+          98.77929687500001,
+          709.615234375
+        ],
+        [
+          488.4089050292969,
+          709.615234375
+        ],
+        [
+          488.4089050292969,
+          738.4769515991211
+        ],
+        [
+          98.77929687500001,
+          738.4769515991211
+        ]
+      ],
+      "bbox": [
+        98.77929687500001,
+        709.615234375,
+        488.4089050292969,
+        738.4769515991211
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/7",
+      "block_type": "Footnote",
+      "html": "<p><sup>- ..... </sup></p>",
+      "page": 100,
+      "polygon": [
+        [
+          99.23992919921875,
+          745.3837890625
+        ],
+        [
+          122.04882049560547,
+          745.3837890625
+        ],
+        [
+          122.04882049560547,
+          755.7569427490234
+        ],
+        [
+          99.23992919921875,
+          755.7569427490234
+        ]
+      ],
+      "bbox": [
+        99.23992919921875,
+        745.3837890625,
+        122.04882049560547,
+        755.7569427490234
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>- </sup>Abnahme Baugrubensohle (Herstell- und Endlage der Eisenbahnüberführung)</p>",
+      "page": 100,
+      "polygon": [
+        [
+          96.45507812500001,
+          763.0830535888672
+        ],
+        [
+          453.3687744140625,
+          763.0830535888672
+        ],
+        [
+          453.3687744140625,
+          774.1630859375
+        ],
+        [
+          96.45507812500001,
+          774.1630859375
+        ]
+      ],
+      "bbox": [
+        96.45507812500001,
+        763.0830535888672,
+        453.3687744140625,
+        774.1630859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>- .....&amp;</sup>quot;</p>",
+      "page": 100,
+      "polygon": [
+        [
+          99.23992919921875,
+          780.2430419921875
+        ],
+        [
+          125.28711700439453,
+          780.2430419921875
+        ],
+        [
+          125.28711700439453,
+          790.6083984375
+        ],
+        [
+          99.23992919921875,
+          790.6083984375
+        ]
+      ],
+      "bbox": [
+        99.23992919921875,
+        780.2430419921875,
+        125.28711700439453,
+        790.6083984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 97,
+      "polygon": [
+        [
+          291.39892578125,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          77.12506103515625
+        ],
+        [
+          291.39892578125,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        291.39892578125,
+        64.958984375,
+        320.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt hat in ihrem Gesamtablaufplan unter Ziff. 38 aufgeführt: \"Abnahme Baugrubensohle in  Herstelllage\". Es ist zwischen den Verfahrensbeteiligten unstreitig, dass im Gesamtablaufplan  der ASt eine Abnahme der Baugrubensohle in der Endlage fehlt.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          83.671875,
+          122.9287109375
+        ],
+        [
+          555.9083862304688,
+          122.9287109375
+        ],
+        [
+          555.9083862304688,
+          172.1650390625
+        ],
+        [
+          83.671875,
+          172.1650390625
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        122.9287109375,
+        555.9083862304688,
+        172.1650390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die ASt vertritt die Auffassung, der Wortlaut der Formulierung in Ziff. 2.1.1.8 der Anlage 3.00.1,  insbesondere die Verwendung des Singulars (\"Abnahme\"), legten eine Auslegung nahe, dass  die Ag lediglich eine einzige Abnahme erwartet habe. Dem ist nicht zu folgen.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          83.671875,
+          198.166015625
+        ],
+        [
+          555.908447265625,
+          198.166015625
+        ],
+        [
+          555.908447265625,
+          248.125
+        ],
+        [
+          83.671875,
+          248.125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        198.166015625,
+        555.908447265625,
+        248.125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Vergabeunterlagen sind aus der Sicht eines objektiven Erklärungsempfängers auszulegen (§§  133, 157 BGB analog), vorliegend also aus der Sicht eines fachkundigen Bauunternehmers.  Aus der Sicht eines fachkundigen Bauunternehmers war aufgrund des Klammerzusatzes  (\"Herstell- und Endlage der Eisenbahnüberführung\") erkennbar, dass nach Ziff. 2.1.1.8 der  Anlage 3.00.1 zwei Abnahmen erforderlich sind, um 3 Punkte zu erhalten, nämlich eine  Abnahme der Baugrubensohle in der Herstelllage und eine Abnahme der Baugrubensohle in  der Endlage.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          83.671875,
+          272.5810546875
+        ],
+        [
+          555.90869140625,
+          272.5810546875
+        ],
+        [
+          555.90869140625,
+          399.8049011230469
+        ],
+        [
+          83.671875,
+          399.8049011230469
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        272.5810546875,
+        555.90869140625,
+        399.8049011230469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Herstell- und Endlage sind, worauf die Ag zutreffend hingewiesen hat, räumlich und zeitlich  voneinander zu trennen. Während die Herstelllage den Ort bezeichnet, an dem die Brücke  neben dem Bahndamm hergestellt wird, bezeichnet die Endlage den endgültigen Standort der  Brücke innerhalb des Bahndamms.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          83.671875,
+          426.81146240234375
+        ],
+        [
+          555.9081420898438,
+          426.81146240234375
+        ],
+        [
+          555.9081420898438,
+          494.7248229980469
+        ],
+        [
+          83.671875,
+          494.7248229980469
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        426.81146240234375,
+        555.9081420898438,
+        494.7248229980469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ag und Bg haben in der mündlichen Verhandlung vor der Vergabekammer ausgeführt, Sinn und  Zweck der Abnahme sei es vorliegend, der Ag die Prüfung der Tragfähigkeit der Baugrubensohle zu ermöglichen. Sollte die durchzuführende Prüfung bspw. ergeben, dass die  Tragfähigkeit des Bodens nicht gewährleistet ist, seien vor einem weiteren Fortgang der Bauarbeiten die erforderlichen Maßnahmen (z.B. eine Vertiefung der Grube) zu veranlassen. Entgegen der Auffassung der ASt ist zum Zeitpunkt der Abnahme der Herstelllage eine gleichzeitige Abnahme der Endlage nicht möglich. Richtig ist zwar, dass es zwischen diesen beiden  Lagen einen Überschneidungsbereich von 4 m gibt. Da weitere 15 m – und damit der weitaus  größere Teil der Fläche – zum Zeitpunkt der Abnahme der Herstelllage unter dem derzeitigen  Bahndamm liegen, lassen sich hieraus keine endgültigen Rückschlüsse auf die Tragfähigkeit  der Baugrubensohle in der Endlage ziehen. Die Baugrube in der Endlage wird erst während der  Sperrpause [...] ausgehoben werden. Diese Unsicherheit konzediert auch das von der ASt  eingereichte Privatgutachten der [...] vom 10. April 2014, indem es feststellt:</p>",
+      "page": 97,
+      "polygon": [
+        [
+          83.671875,
+          519.671875
+        ],
+        [
+          555.9088745117188,
+          519.671875
+        ],
+        [
+          555.9088745117188,
+          760.4048690795898
+        ],
+        [
+          83.671875,
+          760.4048690795898
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        519.671875,
+        555.9088745117188,
+        760.4048690795898
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 101,
+      "polygon": [
+        [
+          291.83990478515625,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          77.12506103515625
+        ],
+        [
+          291.83990478515625,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        291.83990478515625,
+        64.958984375,
+        320.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">\"Unabhängig von dem lediglich formalen Vorgang einer Abnahme besteht jedoch für den Auftragnehmer grundsätzlich die Verpflichtung, bei während der Bauausführung im Bereich der Baugrube  in sog. \"Endlage\" festgestellten, gegenüber Bild 2 abweichenden Baugrundverhältnissen, eine erneute  Beurteilung der Baugrundverhältnisse zu veranlassen.\"</p>",
+      "page": 101,
+      "polygon": [
+        [
+          97.61718750000001,
+          122.1064453125
+        ],
+        [
+          555.6090698242188,
+          122.1064453125
+        ],
+        [
+          555.6090698242188,
+          185.02294921875
+        ],
+        [
+          97.61718750000001,
+          185.02294921875
+        ]
+      ],
+      "bbox": [
+        97.61718750000001,
+        122.1064453125,
+        555.6090698242188,
+        185.02294921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das von der ASt eingereichte Gutachten macht deutlich, dass nicht mit absoluter Sicherheit  beurteilt werden kann, wie die in der Endlage anzutreffenden Bodenverhältnisse sein werden.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          84.833984375,
+          210.0888671875
+        ],
+        [
+          555.9086303710938,
+          210.0888671875
+        ],
+        [
+          555.9086303710938,
+          241.1650390625
+        ],
+        [
+          84.833984375,
+          241.1650390625
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        210.0888671875,
+        555.9086303710938,
+        241.1650390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gemessen an ihrer Relevanz für das herzustellende Bauwerk, ist die Baugrubensohle in der  Endlage die weitaus wichtigere. Denn deren dauerhafte Tragfähigkeit entscheidet mit darüber,  ob das Bauwerk die von der Ag erwartete Standzeit von rd. 100 Jahren erfüllen kann.  Demgegenüber verliert die Baugrubensohle der Herstelllage nach dem Verschieben der Brücke  in die Endlage ihre Funktion vollständig, sie wird nicht mehr benötigt.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          84.833984375,
+          267.236328125
+        ],
+        [
+          555.908935546875,
+          267.236328125
+        ],
+        [
+          555.908935546875,
+          355.04498291015625
+        ],
+        [
+          84.833984375,
+          355.04498291015625
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        267.236328125,
+        555.908935546875,
+        355.04498291015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ausgehend hiervon steht zur Überzeugung der Vergabekammer fest, dass es aus Sicht eines  fachkundigen Bauunternehmens erkennbar war, dass eine gesonderte Abnahme der  Baugrubensohle in der Endlage erforderlich ist. Bg und der weitere Bieter haben  dementsprechend in ihrer jeweiligen Gesamtplanung getrennte Abnahmen vorgesehen. Da die  ASt nur eine Abnahme der Baugrubensohle in der Herstelllage angegeben hat, ist es  beurteilungsfehlerfrei, dass die Ag deren Terminplanung nur mit 2 Punkten bewertet hat.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          84.833984375,
+          380.708984375
+        ],
+        [
+          555.908935546875,
+          380.708984375
+        ],
+        [
+          555.908935546875,
+          487.7648620605469
+        ],
+        [
+          84.833984375,
+          487.7648620605469
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        380.708984375,
+        555.908935546875,
+        487.7648620605469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) An diesem Ergebnis würde sich selbst dann nichts ändern, wenn zugunsten der ASt unterstellt  würde, die Ziff. 2.1.1.8. der Anlage 3.00.1 sei in dem Sinne auszulegen, dass ein einziger, die  Herstell- und Endlage umfassender Abnahmetermin genügt, um im Rahmen der Wertung der  Terminplanung 3 Punkte zu erhalten.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          70.79903411865234,
+          514.7714233398438
+        ],
+        [
+          555.9080810546875,
+          514.7714233398438
+        ],
+        [
+          555.9080810546875,
+          582.986328125
+        ],
+        [
+          70.79903411865234,
+          582.986328125
+        ]
+      ],
+      "bbox": [
+        70.79903411865234,
+        514.7714233398438,
+        555.9080810546875,
+        582.986328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ausweislich der von der ASt dem Angebot beigefügten Gesamtablaufplanung hat diese unter  Ziff. 38 lediglich die Abnahme der Herstelllage aufgeführt. Die Abnahme der Baugrubensohle in  der Endlage findet in der Gesamtplanung der ASt keine Erwähnung. Die Annahme der ASt als  richtig unterstellt, dass beide Abnahmen zum gleichen Zeitpunkt erfolgen sollen, hätte sie dies  in ihrer Gesamtplanung deutlich machen müssen, wie z.B. durch die Formulierung: \"Abnahme  der Baugrubensohle (Herstell- und Endlage)\". Dies hat die ASt jedoch unterlassen. Für die Ag  war somit nicht erkennbar, ob überhaupt und ggf. wann die Abnahme der Baugrubensohle in  der Endlage durchgeführt werden soll.</p>",
+      "page": 101,
+      "polygon": [
+        [
+          84.833984375,
+          609.5713500976562
+        ],
+        [
+          555.90771484375,
+          609.5713500976562
+        ],
+        [
+          555.90771484375,
+          753.4447250366211
+        ],
+        [
+          84.833984375,
+          753.4447250366211
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        609.5713500976562,
+        555.90771484375,
+        753.4447250366211
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">In der mündlichen Verhandlung vor der Vergabekammer hat die ASt ergänzend ausgeführt,  dass die Abnahme der Baugrundsohle in der Endlage ohne Weiteres auch in der Sperrpause</p>",
+      "page": 101,
+      "polygon": [
+        [
+          84.833984375,
+          761.0068359375
+        ],
+        [
+          555.907470703125,
+          761.0068359375
+        ],
+        [
+          555.907470703125,
+          791.4306640625
+        ],
+        [
+          84.833984375,
+          791.4306640625
+        ]
+      ],
+      "bbox": [
+        84.833984375,
+        761.0068359375,
+        555.907470703125,
+        791.4306640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 80,
+      "polygon": [
+        [
+          291.689453125,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          77.12506103515625
+        ],
+        [
+          291.689453125,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        291.689453125,
+        64.958984375,
+        320.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] durchgeführt werden könne. Nach Meinung der ASt sei für die Abnahme ein Zeitaufwand  von einer halben Stunde einzukalkulieren, was im Ergebnis eine quantité négligeable sei.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          83.671875,
+          122.1064453125
+        ],
+        [
+          555.9083251953125,
+          122.1064453125
+        ],
+        [
+          555.9083251953125,
+          153.205078125
+        ],
+        [
+          83.671875,
+          153.205078125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        122.1064453125,
+        555.9083251953125,
+        153.205078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Hiergegen ist zunächst einzuwenden, dass derzeit nicht absehbar ist, ob die Abnahme in der  Endlage – wie von der ASt angenommen – tatsächlich nur eine halbe Stunde in Anspruch  nehmen wird. Sollte es zu Komplikationen kommen, kann der erforderliche Zeitaufwand größer  sein.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          83.671875,
+          179.25390625
+        ],
+        [
+          555.9087524414062,
+          179.25390625
+        ],
+        [
+          555.9087524414062,
+          248.125
+        ],
+        [
+          83.671875,
+          248.125
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        179.25390625,
+        555.9087524414062,
+        248.125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Wie sich ferner aus den Ausführungen unter Anlage 3.00.1, Ziff. 2.1.1.8, zum Bauablaufplan/Gesamtbauzeit ergibt, war von den Bietern für die Sperrpause ein Detailterminplan \"1/2 stundengenau mit Darstellung Gewerke\" vorzulegen. Der von der ASt vorgelegte Detailterminplan deckt die Sperrpause vollständig ab. Da der Detailterminplan der ASt eine Abnahme  der Baugrubensohle in der Endlage ebenfalls nicht vorsieht, ist nicht erkennbar, wann die  Abnahme in der Sperrpause erfolgen soll.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          83.671875,
+          273.814453125
+        ],
+        [
+          555.908203125,
+          273.814453125
+        ],
+        [
+          555.908203125,
+          380.84490966796875
+        ],
+        [
+          83.671875,
+          380.84490966796875
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        273.814453125,
+        555.908203125,
+        380.84490966796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Schließlich ist darauf hinzuweisen, dass eine nachträgliche Ergänzung des Detailterminplans  durch die ASt eine unzulässige Angebotsänderung wäre.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          83.671875,
+          405.7880859375
+        ],
+        [
+          555.9085693359375,
+          405.7880859375
+        ],
+        [
+          555.9085693359375,
+          437.8448791503906
+        ],
+        [
+          83.671875,
+          437.8448791503906
+        ]
+      ],
+      "bbox": [
+        83.671875,
+        405.7880859375,
+        555.9085693359375,
+        437.8448791503906
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Ergebnis ist der Nachprüfungsantrag somit unbegründet.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          56.63924789428711,
+          482.2587890625
+        ],
+        [
+          351.4280090332031,
+          482.2587890625
+        ],
+        [
+          351.4280090332031,
+          494.7248229980469
+        ],
+        [
+          56.63924789428711,
+          494.7248229980469
+        ]
+      ],
+      "bbox": [
+        56.63924789428711,
+        482.2587890625,
+        351.4280090332031,
+        494.7248229980469
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>III. </b></p>",
+      "page": 80,
+      "polygon": [
+        [
+          298.0810546875,
+          533.6178588867188
+        ],
+        [
+          313.8675231933594,
+          533.6178588867188
+        ],
+        [
+          313.8675231933594,
+          544.6512756347656
+        ],
+        [
+          298.0810546875,
+          544.6512756347656
+        ]
+      ],
+      "bbox": [
+        298.0810546875,
+        533.6178588867188,
+        313.8675231933594,
+        544.6512756347656
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kostenentscheidung beruht auf § 128 Abs. 3 S. 1, Abs. 4 S. 1, 4 GWB, § 80 Abs. 1, 2 und 3 S. 2  VwVfG.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          56.63889694213867,
+          601.076171875
+        ],
+        [
+          555.9075927734375,
+          601.076171875
+        ],
+        [
+          555.9075927734375,
+          631.5247802734375
+        ],
+        [
+          56.63889694213867,
+          631.5247802734375
+        ]
+      ],
+      "bbox": [
+        56.63889694213867,
+        601.076171875,
+        555.9075927734375,
+        631.5247802734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Danach hat die ASt als unterliegende Verfahrensbeteiligte die Kosten des Verfahrens (Gebühren und  Auslagen) und die zur zweckentsprechenden Rechtsverteidigung notwendigen Aufwendungen der Ag  zu tragen. Die Hinzuziehung eines Verfahrensbevollmächtigten durch die Ag war nicht zur Herstellung  der Waffengleichheit mit der anwaltlich vertretenen ASt notwendig. Außerdem hat das Nachprüfungsverfahren Sach- und Rechtsfragen aufgeworfen, welche die Beauftragung eines Verfahrensbevollmächtigten als sachgerecht erscheinen lassen.</p>",
+      "page": 80,
+      "polygon": [
+        [
+          56.63889694213867,
+          653.4913787841797
+        ],
+        [
+          555.908203125,
+          653.4913787841797
+        ],
+        [
+          555.908203125,
+          760.595703125
+        ],
+        [
+          56.63889694213867,
+          760.595703125
+        ]
+      ],
+      "bbox": [
+        56.63889694213867,
+        653.4913787841797,
+        555.908203125,
+        760.595703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 70,
+      "polygon": [
+        [
+          291.83990478515625,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          64.958984375
+        ],
+        [
+          320.5890197753906,
+          77.12506103515625
+        ],
+        [
+          291.83990478515625,
+          77.12506103515625
+        ]
+      ],
+      "bbox": [
+        291.83990478515625,
+        64.958984375,
+        320.5890197753906,
+        77.12506103515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dagegen entspricht es nicht der Billigkeit, der ASt auch die der Bg zur zweckentsprechenden Rechtsverteidigung entstandenen notwendigen Aufwendungen aufzuerlegen. Denn die ASt hat durch den  allein gegen die Wertung ihres eigenen Angebots gerichteten Nachprüfungsantrag keinen  spezifischen Interessengegensatz zur Bg begründet. Die Bg hat demzufolge ihre Aufwendungen  selbst zu tragen.</p>",
+      "page": 70,
+      "polygon": [
+        [
+          55.78125000000001,
+          122.1064453125
+        ],
+        [
+          555.9083251953125,
+          122.1064453125
+        ],
+        [
+          555.9083251953125,
+          210.0888671875
+        ],
+        [
+          55.78125000000001,
+          210.0888671875
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        122.1064453125,
+        555.9083251953125,
+        210.0888671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>IV. </b></p>",
+      "page": 70,
+      "polygon": [
+        [
+          297.79052734375,
+          263.01806640625
+        ],
+        [
+          314.46832275390625,
+          263.01806640625
+        ],
+        [
+          314.46832275390625,
+          274.2255859375
+        ],
+        [
+          297.79052734375,
+          274.2255859375
+        ]
+      ],
+      "bbox": [
+        297.79052734375,
+        263.01806640625,
+        314.46832275390625,
+        274.2255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Gegen die Entscheidung der Vergabekammer ist die sofortige Beschwerde zulässig. Sie ist schriftlich  innerhalb einer Frist von zwei Wochen, die mit der Zustellung der Entscheidung beginnt, beim  Oberlandesgericht Düsseldorf - Vergabesenat -, Cecilienallee 3, 40474 Düsseldorf, einzulegen.</p>",
+      "page": 70,
+      "polygon": [
+        [
+          55.78125000000001,
+          330.93157958984375
+        ],
+        [
+          555.9089965820312,
+          330.93157958984375
+        ],
+        [
+          555.9089965820312,
+          379.88494873046875
+        ],
+        [
+          55.78125000000001,
+          379.88494873046875
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        330.93157958984375,
+        555.9089965820312,
+        379.88494873046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde ist zugleich mit ihrer Einlegung zu begründen. Die Beschwerdebegründung  muss die Erklärung enthalten, inwieweit die Entscheidung der Vergabekammer angefochten und eine  abweichende Entscheidung beantragt wird, und die Tatsachen und Beweismittel angeben, auf die  sich die Beschwerde stützt.</p>",
+      "page": 70,
+      "polygon": [
+        [
+          55.78125000000001,
+          401.6767578125
+        ],
+        [
+          555.9089965820312,
+          401.6767578125
+        ],
+        [
+          555.9089965820312,
+          469.764892578125
+        ],
+        [
+          55.78125000000001,
+          469.764892578125
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        401.6767578125,
+        555.9089965820312,
+        469.764892578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeschrift muss durch einen Rechtsanwalt unterschrieben sein. Dies gilt nicht für  Beschwerden von juristischen Personen des öffentlichen Rechts.</p>",
+      "page": 70,
+      "polygon": [
+        [
+          55.78125000000001,
+          491.3037109375
+        ],
+        [
+          555.9088745117188,
+          491.3037109375
+        ],
+        [
+          555.9088745117188,
+          521.7275390625
+        ],
+        [
+          55.78125000000001,
+          521.7275390625
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        491.3037109375,
+        555.9088745117188,
+        521.7275390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die sofortige Beschwerde hat aufschiebende Wirkung gegenüber der Entscheidung der Vergabekammer. Die aufschiebende Wirkung entfällt zwei Wochen nach Ablauf der Beschwerdefrist. Hat die  Vergabekammer den Antrag auf Nachprüfung abgelehnt, so kann das Beschwerdegericht auf Antrag  des Beschwerdeführers die aufschiebende Wirkung bis zur Entscheidung über die Beschwerde verlängern.</p>",
+      "page": 70,
+      "polygon": [
+        [
+          55.78125000000001,
+          541.4619140625
+        ],
+        [
+          555.9087524414062,
+          541.4619140625
+        ],
+        [
+          555.9087524414062,
+          630.6848754882812
+        ],
+        [
+          55.78125000000001,
+          630.6848754882812
+        ]
+      ],
+      "bbox": [
+        55.78125000000001,
+        541.4619140625,
+        555.9087524414062,
+        630.6848754882812
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dr. Herlemann Thiele</p>",
+      "page": 70,
+      "polygon": [
+        [
+          135.3857421875,
+          695.4915466308594
+        ],
+        [
+          427.2663269042969,
+          695.4915466308594
+        ],
+        [
+          427.2663269042969,
+          706.5249328613281
+        ],
+        [
+          135.3857421875,
+          706.5249328613281
+        ]
+      ],
+      "bbox": [
+        135.3857421875,
+        695.4915466308594,
+        427.2663269042969,
+        706.5249328613281
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 70,
+      "polygon": [
+        [
+          394.53613281250006,
+          696.0478515625
+        ],
+        [
+          423.58886718750006,
+          696.0478515625
+        ],
+        [
+          423.58886718750006,
+          705.0927734375
+        ],
+        [
+          394.53613281250006,
+          705.0927734375
+        ]
+      ],
+      "bbox": [
+        394.53613281250006,
+        696.0478515625,
+        423.58886718750006,
+        705.0927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5",
+        "2": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

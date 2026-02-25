@@ -1,0 +1,166 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 660,
+      "polygon": [
+        [
+          13.073730468750002,
+          16.4453125
+        ],
+        [
+          103.54353332519531,
+          16.4453125
+        ],
+        [
+          103.54353332519531,
+          41.11328125
+        ],
+        [
+          13.073730468750002,
+          41.11328125
+        ]
+      ],
+      "bbox": [
+        13.073730468750002,
+        16.4453125,
+        103.54353332519531,
+        41.11328125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Fixed</b> <b>book</b> <b>prices</b> <b>by</b> <b>reimport</b> <b>of</b> <b>Danish</b> <b>books</b> <b>to</b> <b>Denmark</b></h2>",
+      "page": 660,
+      "polygon": [
+        [
+          12.783203125000002,
+          57.1474609375
+        ],
+        [
+          575.4063110351562,
+          57.1474609375
+        ],
+        [
+          575.4063110351562,
+          77.10894775390625
+        ],
+        [
+          12.783203125000002,
+          77.10894775390625
+        ]
+      ],
+      "bbox": [
+        12.783203125000002,
+        57.1474609375,
+        575.4063110351562,
+        77.10894775390625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Journal nr. 3/1120-0204-0132/ar/fi The Council meeting 24. September 2003</p>",
+      "page": 660,
+      "polygon": [
+        [
+          11.621093750000002,
+          93.73828125
+        ],
+        [
+          344.9095153808594,
+          93.73828125
+        ],
+        [
+          344.9095153808594,
+          103.9398193359375
+        ],
+        [
+          11.621093750000002,
+          103.9398193359375
+        ]
+      ],
+      "bbox": [
+        11.621093750000002,
+        93.73828125,
+        344.9095153808594,
+        103.9398193359375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/660",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Denmark and other countries within the EU have fixed prices on books (based on agreement or based on law), whereas other countries have free prices. This situation implies certain problems for trade between countries with fixed book prices and countries with free prices.</li><li block-type=\"ListItem\">2. Thus, the question is whether e.g. the Danish book industry legally can prevent booksellers in other countries from selling Danish books to consumers in Denmark without complying with the fixed prices in Denmark. This case involves the legitimacy of such a strategy.</li><li block-type=\"ListItem\">3. The Danish Competition Authority has learned that the book distributors DBK-bogdistribution (DBK) and Nordisk Bog Center (NBC) require that foreign booksellers sign a preacceptance to comply with fixed prices by reimport to Denmark as a condition for delivery of books to foreign booksellers.</li><li block-type=\"ListItem\">4. DBK and NBC have stated that the preacceptance is required pursuant to the Danish Book Association's trading agreement and that DBK and NBC thus demand the pre-acceptance on behalf of those Danish book publishers covered by the trading agreement and which DBK and NBC handle books for.</li><li block-type=\"ListItem\">5. The book industry's administrator of the trading agreement  The Danish Book Association  has stated that the requirement of compliance with fixed book prices by reimport is accessory to the system of fixed prices and that there is no appreciable effect on the market (and thus not covered by EC Article 81).</li><li block-type=\"ListItem\">6. According to EU-practice fixed prices in intra-EU book trade can only be accepted in cases where the contracting party, who claims compliance of the fixed prices, can prove that the subsequent re-import is solely motivated by circumvention of the fixed price system. A general enforcement of fixed prices by reimport is therefore in conflict with EC Article 81.</li></ul></p>",
+      "page": 660,
+      "polygon": [
+        [
+          22.080078125000004,
+          115.5283203125
+        ],
+        [
+          583.43896484375,
+          115.5283203125
+        ],
+        [
+          583.43896484375,
+          351.7440185546875
+        ],
+        [
+          22.080078125000004,
+          351.7440185546875
+        ]
+      ],
+      "bbox": [
+        22.080078125000004,
+        115.5283203125,
+        583.43896484375,
+        351.7440185546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,5479 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 112,
+      "polygon": [
+        [
+          39.9564453125,
+          30.38271484375
+        ],
+        [
+          114.86386718749999,
+          30.38271484375
+        ],
+        [
+          114.86386718749999,
+          112.69150390625
+        ],
+        [
+          39.9564453125,
+          112.69150390625
+        ]
+      ],
+      "bbox": [
+        39.9564453125,
+        30.38271484375,
+        114.86386718749999,
+        112.69150390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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/pQA26+JujvM9nosN3rd+vHkWMLMAf8AacgAD3ryX4iP4z1PVLe88S6G1vpULfu4UkLQpnqXdMnJ7njjpiu98RfCFW1BtY8J6hJo+oZLbFciNieTgjlfpyPascfEjxT4TJsPG+gNcQfcN1CoAcf+gNx24oAqQfDrU9X0qCfRbfwbFDujmWWCSaZ9ynO0u27g9CO9T/2/rng/4gy+I/GGhGC2ubZbFZ7ABokG4MCe5Py9yDgcA4xVjS9O+G/jG/LaHfX2kahOCWgtZGgbPXgYK/gvFdRbfCLw+sscmo3Gp6rszhb67LL+QxQB0ltB4c8U2kWpx2un6jFKMpK8KSex6jIPGPwq3aaFpNhN51npllbSf3obdEP5gVZtLK1sLdLezt4reBBhY4lCqo9gOKnoAMUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSbR6ClooAMYooooAKZJDFNG0csaOjDDKygg/UU+igCjp2i6ZpPmDTtPtbQSHc/kQqm4++BV6iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>Recueil de la jurisprudence</h1>",
+      "page": 112,
+      "polygon": [
+        [
+          199.50201416015625,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          101.12255859375
+        ],
+        [
+          199.50201416015625,
+          101.12255859375
+        ]
+      ],
+      "bbox": [
+        199.50201416015625,
+        83.4599609375,
+        395.7702941894531,
+        101.12255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>ARRÊT DE LA COUR (troisième chambre)</h2>",
+      "page": 112,
+      "polygon": [
+        [
+          186.25,
+          153.3525390625
+        ],
+        [
+          408.0445251464844,
+          153.3525390625
+        ],
+        [
+          408.0445251464844,
+          167.48516845703125
+        ],
+        [
+          186.25,
+          167.48516845703125
+        ]
+      ],
+      "bbox": [
+        186.25,
+        153.3525390625,
+        408.0445251464844,
+        167.48516845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>12 février 2026<a href=\"#page-0-0\">*</a></h2>",
+      "page": 112,
+      "polygon": [
+        [
+          256.384765625,
+          183.7763671875
+        ],
+        [
+          338.57672119140625,
+          183.7763671875
+        ],
+        [
+          338.57672119140625,
+          197.81494140625
+        ],
+        [
+          256.384765625,
+          197.81494140625
+        ]
+      ],
+      "bbox": [
+        256.384765625,
+        183.7763671875,
+        338.57672119140625,
+        197.81494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-0-1\"></span>« Renvoi préjudiciel – Transports aériens – Règlement (CE) no 549/2004 – Ciel unique  européen – Règlement (CE) no 550/2004 – Fourniture de services de navigation aérienne dans le  ciel unique européen – Article 8 – Prestataires de services de la circulation aérienne –  Articles 14 et 15 – Redevances à la charge des usagers de l'espace aérien – Défaillance d'un  serveur de télécommunications aéronautiques – Annulation de vols – Manquement fautif  allégué de la part du prestataire concerné – Usagers de l'espace aérien – Protection de ces  usagers contre les préjudices économiques causés par un tel manquement »</p>",
+      "page": 112,
+      "polygon": [
+        [
+          48.890625,
+          222.01171875
+        ],
+        [
+          548.5266723632812,
+          222.01171875
+        ],
+        [
+          548.5266723632812,
+          314.54559326171875
+        ],
+        [
+          48.890625,
+          314.54559326171875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        222.01171875,
+        548.5266723632812,
+        314.54559326171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dans l'affaire C-408/24,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          49.181640625,
+          328.4951171875
+        ],
+        [
+          170.42140197753906,
+          328.4951171875
+        ],
+        [
+          170.42140197753906,
+          341.19097900390625
+        ],
+        [
+          49.181640625,
+          341.19097900390625
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        328.4951171875,
+        170.42140197753906,
+        341.19097900390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant pour objet une demande de décision préjudicielle au titre de l'article 267 TFUE, introduite  par l'Oberster Gerichtshof (Cour suprême, Autriche), par décision du 27 mai 2024, parvenue à la  Cour le 12 juin 2024, dans la procédure</p>",
+      "page": 112,
+      "polygon": [
+        [
+          47.7265625,
+          353.9853515625
+        ],
+        [
+          548.5388793945312,
+          353.9853515625
+        ],
+        [
+          548.5388793945312,
+          394.53814697265625
+        ],
+        [
+          47.7265625,
+          394.53814697265625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        353.9853515625,
+        548.5388793945312,
+        394.53814697265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Republik Österreich</b></h2>",
+      "page": 112,
+      "polygon": [
+        [
+          48.017578125,
+          406.6103515625
+        ],
+        [
+          159.47854614257812,
+          406.6103515625
+        ],
+        [
+          159.47854614257812,
+          421.18353271484375
+        ],
+        [
+          48.017578125,
+          421.18353271484375
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        406.6103515625,
+        159.47854614257812,
+        421.18353271484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">contre</p>",
+      "page": 112,
+      "polygon": [
+        [
+          48.599609375,
+          435.5680236816406
+        ],
+        [
+          82.7608642578125,
+          435.5680236816406
+        ],
+        [
+          82.7608642578125,
+          447.82891845703125
+        ],
+        [
+          48.599609375,
+          447.82891845703125
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        435.5680236816406,
+        82.7608642578125,
+        447.82891845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Austrian Airlines AG,</b></h3>",
+      "page": 112,
+      "polygon": [
+        [
+          47.7265625,
+          462.2146301269531
+        ],
+        [
+          167.65533447265625,
+          462.2146301269531
+        ],
+        [
+          167.65533447265625,
+          474.47552490234375
+        ],
+        [
+          47.7265625,
+          474.47552490234375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        462.2146301269531,
+        167.65533447265625,
+        474.47552490234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h3>LA COUR (troisième chambre),</h3>",
+      "page": 112,
+      "polygon": [
+        [
+          215.3515625,
+          487.66949462890625
+        ],
+        [
+          379.0356750488281,
+          487.66949462890625
+        ],
+        [
+          379.0356750488281,
+          499.9303894042969
+        ],
+        [
+          215.3515625,
+          499.9303894042969
+        ]
+      ],
+      "bbox": [
+        215.3515625,
+        487.66949462890625,
+        379.0356750488281,
+        499.9303894042969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">composée de M. C. Lycourgos, président de chambre, Mme O. Spineanu-Matei, MM. S. Rodin,  N. Piçarra (rapporteur) et N. Fenger, juges,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          47.7265625,
+          513.09375
+        ],
+        [
+          548.5441284179688,
+          513.09375
+        ],
+        [
+          548.5441284179688,
+          539.9008483886719
+        ],
+        [
+          47.7265625,
+          539.9008483886719
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        513.09375,
+        548.5441284179688,
+        539.9008483886719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">avocat général : Mme J. Kokott,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          49.47265625,
+          554.2853393554688
+        ],
+        [
+          201.96484375,
+          554.2853393554688
+        ],
+        [
+          201.96484375,
+          566.5471496582031
+        ],
+        [
+          49.47265625,
+          566.5471496582031
+        ]
+      ],
+      "bbox": [
+        49.47265625,
+        554.2853393554688,
+        201.96484375,
+        566.5471496582031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">greffier : M. G. Chiapponi, administrateur,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          47.7265625,
+          580.9306640625
+        ],
+        [
+          266.5703125,
+          580.9306640625
+        ],
+        [
+          266.5703125,
+          593.1925354003906
+        ],
+        [
+          47.7265625,
+          593.1925354003906
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        580.9306640625,
+        266.5703125,
+        593.1925354003906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vu la procédure écrite et à la suite de l'audience du 21 mai 2025,</p>",
+      "page": 112,
+      "polygon": [
+        [
+          47.7265625,
+          607.2431640625
+        ],
+        [
+          374.14776611328125,
+          607.2431640625
+        ],
+        [
+          374.14776611328125,
+          619.8379211425781
+        ],
+        [
+          47.7265625,
+          619.8379211425781
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        607.2431640625,
+        374.14776611328125,
+        619.8379211425781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">considérant les observations présentées :</p>",
+      "page": 112,
+      "polygon": [
+        [
+          48.890625,
+          633.5556640625
+        ],
+        [
+          256.42596435546875,
+          633.5556640625
+        ],
+        [
+          256.42596435546875,
+          646.4833068847656
+        ],
+        [
+          48.890625,
+          646.4833068847656
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        633.5556640625,
+        256.42596435546875,
+        646.4833068847656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/110",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> pour la Republik Österreich, par MM. C. Nemeth et S. Ullreich, en qualité d'agents,</li><li block-type=\"ListItem\"> pour Austrian Airlines AG, par Me J. Eichmeyer, Rechtsanwältin,</li></ul></p>",
+      "page": 112,
+      "polygon": [
+        [
+          48.890625,
+          660.9241790771484
+        ],
+        [
+          488.90624999999994,
+          660.9241790771484
+        ],
+        [
+          488.90624999999994,
+          699.8321533203125
+        ],
+        [
+          48.890625,
+          699.8321533203125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        660.9241790771484,
+        488.90624999999994,
+        699.8321533203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PictureGroup/109",
+      "block_type": "PictureGroup",
+      "html": "<span id=\"page-0-0\"></span><p><a href=\"#page-0-1\"><sup>* </sup>L</a>angue de procédure : l'allemand.</p><p><img src='/page/0/Picture/19'></p>",
+      "page": 112,
+      "polygon": [
+        [
+          13.823242187499998,
+          748.26171875
+        ],
+        [
+          176.57313537597656,
+          748.26171875
+        ],
+        [
+          176.57313537597656,
+          795.788671875
+        ],
+        [
+          13.823242187499998,
+          795.788671875
+        ]
+      ],
+      "bbox": [
+        13.823242187499998,
+        748.26171875,
+        176.57313537597656,
+        795.788671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {
+        "/page/0/Picture/19": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/20",
+      "block_type": "Text",
+      "html": "",
+      "page": 112,
+      "polygon": [
+        [
+          73.3359375,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          800.7750244140625
+        ],
+        [
+          73.3359375,
+          800.7750244140625
+        ]
+      ],
+      "bbox": [
+        73.3359375,
+        790.1134223937988,
+        545.6888427734375,
+        800.7750244140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 121,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/119",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> pour le gouvernement autrichien, par M. A. Posch, Mme J. Schmoll et M. G. Kunnert, en qualité  d'agents,</li><li block-type=\"ListItem\"> pour le gouvernement belge, par MM. S. Baeyens et P. Cottin, en qualité d'agents,</li><li block-type=\"ListItem\"> pour le gouvernement français, par M. B. Herbaut et Mme B. Travard, en qualité d'agents,</li><li block-type=\"ListItem\"> pour la Commission européenne, par Mme R. Álvarez Vinagre et M. G. Meessen, en qualité  d'agents,</li></ul></p>",
+      "page": 121,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.56494140625,
+          83.4599609375
+        ],
+        [
+          548.56494140625,
+          203.25830078125
+        ],
+        [
+          47.7265625,
+          203.25830078125
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.56494140625,
+        203.25830078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant entendu l'avocate générale en ses conclusions à l'audience du 4 septembre 2025,</p>",
+      "page": 121,
+      "polygon": [
+        [
+          48.890625,
+          216.255859375
+        ],
+        [
+          486.9664306640625,
+          216.255859375
+        ],
+        [
+          486.9664306640625,
+          229.9036865234375
+        ],
+        [
+          48.890625,
+          229.9036865234375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        216.255859375,
+        486.9664306640625,
+        229.9036865234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">rend le présent</p>",
+      "page": 121,
+      "polygon": [
+        [
+          49.60914611816406,
+          243.8017578125
+        ],
+        [
+          126.01536560058594,
+          243.8017578125
+        ],
+        [
+          126.01536560058594,
+          256.549072265625
+        ],
+        [
+          49.60914611816406,
+          256.549072265625
+        ]
+      ],
+      "bbox": [
+        49.60914611816406,
+        243.8017578125,
+        126.01536560058594,
+        256.549072265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/0/SectionHeader/10",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Arrêt</b></h3>",
+      "page": 121,
+      "polygon": [
+        [
+          281.994140625,
+          281.5919189453125
+        ],
+        [
+          312.3859558105469,
+          281.5919189453125
+        ],
+        [
+          312.3859558105469,
+          293.85284423828125
+        ],
+        [
+          281.994140625,
+          293.85284423828125
+        ]
+      ],
+      "bbox": [
+        281.994140625,
+        281.5919189453125,
+        312.3859558105469,
+        293.85284423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/120",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"><sup>1</sup> La demande de décision préjudicielle porte sur l'interprétation de l'article 8 du règlement (CE) n o 550/2004 du Parlement européen et du Conseil, du 10 mars 2004, relatif à la fourniture de  services de navigation aérienne dans le ciel unique européen (« règlement sur la fourniture de  services ») (JO 2004, L 96, p. 10), tel que modifié par le règlement (CE) no 1070/2009 du  Parlement européen et du Conseil, du 21 octobre 2009 (JO 2009, L 300, p. 34) (ci-après le  « règlement no 550/2004 »), et de l'article 2, point 4, du règlement (CE) no 549/2004 du Parlement  européen et du Conseil, du 10 mars 2004, fixant le cadre pour la réalisation du ciel unique  européen (« règlement-cadre ») (JO 2004, L 96, p. 1), tel que modifié par le règlement n o 1070/2009 (ci-après le « règlement no 549/2004 »).</li><li block-type=\"ListItem\">2 Cette demande a été présentée dans le cadre d'un litige opposant la Republik Österreich  (République d'Autriche), représentée par la Finanzprokuratur, à Austrian Airlines AG au sujet de  la réparation du préjudice économique subi par cette compagnie aérienne en raison de  l'annulation de vols provoquée par la défaillance d'un serveur de télécommunications  aéronautiques géré par Austro Control.</li></ul></p>",
+      "page": 121,
+      "polygon": [
+        [
+          25.609375,
+          305.8828125
+        ],
+        [
+          548.550048828125,
+          305.8828125
+        ],
+        [
+          548.550048828125,
+          507.0759582519531
+        ],
+        [
+          25.609375,
+          507.0759582519531
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        305.8828125,
+        548.550048828125,
+        507.0759582519531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Le cadre juridique</b></h3>",
+      "page": 121,
+      "polygon": [
+        [
+          49.47265625,
+          531.5947265625
+        ],
+        [
+          148.5602264404297,
+          531.5947265625
+        ],
+        [
+          148.5602264404297,
+          544.3797607421875
+        ],
+        [
+          49.47265625,
+          544.3797607421875
+        ]
+      ],
+      "bbox": [
+        49.47265625,
+        531.5947265625,
+        148.5602264404297,
+        544.3797607421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/11",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Le droit de l'Union</i></h3>",
+      "page": 121,
+      "polygon": [
+        [
+          48.30859375,
+          567.7744140625
+        ],
+        [
+          151.08966064453125,
+          567.7744140625
+        ],
+        [
+          151.08966064453125,
+          580.6622009277344
+        ],
+        [
+          48.30859375,
+          580.6622009277344
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        567.7744140625,
+        151.08966064453125,
+        580.6622009277344
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Le règlement no 549/2004</i></p>",
+      "page": 121,
+      "polygon": [
+        [
+          48.017578125,
+          603.5508422851562
+        ],
+        [
+          177.810546875,
+          603.5508422851562
+        ],
+        [
+          177.810546875,
+          615.8131561279297
+        ],
+        [
+          48.017578125,
+          615.8131561279297
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        603.5508422851562,
+        177.810546875,
+        615.8131561279297
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/121",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3 Le considérant 7 du règlement no 549/2004 énonce : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'espace aérien constitue une ressource limitée, dont l'utilisation optimale et efficace n'est  possible que si les besoins de tous les usagers sont pris en compte et, chaque fois que de besoin,  représentés tout au long du processus de mise en place du ciel unique européen ainsi que de la  prise de décision et de la mise en œuvre, en ce compris le comité du ciel unique. »</li></ul></li></ul></p>",
+      "page": 121,
+      "polygon": [
+        [
+          26.7734375,
+          629.85546875
+        ],
+        [
+          548.5562133789062,
+          629.85546875
+        ],
+        [
+          548.5562133789062,
+          709.1286163330078
+        ],
+        [
+          26.7734375,
+          709.1286163330078
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        629.85546875,
+        548.5562133789062,
+        709.1286163330078
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/15",
+      "block_type": "Text",
+      "html": "",
+      "page": 121,
+      "polygon": [
+        [
+          49.606197357177734,
+          791.01953125
+        ],
+        [
+          545.9453125,
+          791.01953125
+        ],
+        [
+          545.9453125,
+          803.2128295898438
+        ],
+        [
+          49.606197357177734,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        791.01953125,
+        545.9453125,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/155",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">4 L'article 1er de ce règlement, intitulé « Objectif et champ d'application », dispose, à son  paragraphe 1 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'initiative \"ciel unique européen\" a pour objectif de renforcer les normes de sécurité actuelles de la  circulation aérienne, de contribuer au développement durable du système de transport aérien et  d'améliorer les performances globales du système de gestion du trafic aérien et des services de  navigation aérienne pour la circulation aérienne générale en Europe afin de répondre aux besoins de  tous les usagers de l'espace aérien. Le ciel unique européen comporte un réseau paneuropéen  cohérent de routes ainsi que des systèmes de gestion du réseau et du trafic aérien, fondés uniquement  sur des critères de sécurité, d'efficacité et techniques, au profit de tous les usagers de l'espace aérien. À  cet effet, le présent règlement établit un cadre réglementaire harmonisé pour la création du ciel unique  européen. »</li></ul></li><li block-type=\"ListItem\">5 L'article 2 dudit règlement contient notamment les définitions suivantes : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1) \"service du contrôle de la circulation aérienne\" : un service assuré dans le but : <ul><li block-type=\"ListItem\" class=\"list-indent-2\">a) d'empêcher : <ul><li block-type=\"ListItem\" class=\"list-indent-3\"> les abordages entre aéronefs,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-3\"> les collisions, sur l'aire de manœuvre, entre les aéronefs et des obstacles ; et</li></ul></li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-2\">b) d'accélérer et de régulariser la circulation aérienne ;</li></ul></li></ul></li></ul></p>",
+      "page": 156,
+      "polygon": [
+        [
+          25.609375,
+          83.4599609375
+        ],
+        [
+          548.54296875,
+          83.4599609375
+        ],
+        [
+          548.54296875,
+          373.2791748046875
+        ],
+        [
+          25.609375,
+          373.2791748046875
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        83.4599609375,
+        548.54296875,
+        373.2791748046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 156,
+      "polygon": [
+        [
+          48.890625,
+          385.642578125
+        ],
+        [
+          65.98676300048828,
+          385.642578125
+        ],
+        [
+          65.98676300048828,
+          399.924560546875
+        ],
+        [
+          48.890625,
+          399.924560546875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        385.642578125,
+        65.98676300048828,
+        399.924560546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">4) \"services de navigation aérienne\" : les services de la circulation aérienne, les services de  communication, de navigation et de surveillance, les services météorologiques destinés à la  navigation aérienne et les services d'information aéronautique ;</p>",
+      "page": 156,
+      "polygon": [
+        [
+          48.890625,
+          414.0107421875
+        ],
+        [
+          548.5377197265625,
+          414.0107421875
+        ],
+        [
+          548.5377197265625,
+          454.3017578125
+        ],
+        [
+          48.890625,
+          454.3017578125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        414.0107421875,
+        548.5377197265625,
+        454.3017578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 156,
+      "polygon": [
+        [
+          49.181640625,
+          468.1674499511719
+        ],
+        [
+          65.98676300048828,
+          468.1674499511719
+        ],
+        [
+          65.98676300048828,
+          480.4283447265625
+        ],
+        [
+          49.181640625,
+          480.4283447265625
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        468.1674499511719,
+        65.98676300048828,
+        480.4283447265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">8) \"usagers de l'espace aérien\" : les exploitants d'aéronefs exploités selon les règles de la  circulation aérienne générale ;</p>",
+      "page": 156,
+      "polygon": [
+        [
+          49.606197357177734,
+          493.7705078125
+        ],
+        [
+          548.5377197265625,
+          493.7705078125
+        ],
+        [
+          548.5377197265625,
+          520.9641418457031
+        ],
+        [
+          49.606197357177734,
+          520.9641418457031
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        493.7705078125,
+        548.5377197265625,
+        520.9641418457031
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 156,
+      "polygon": [
+        [
+          48.599609375,
+          534.47265625
+        ],
+        [
+          65.98676300048828,
+          534.47265625
+        ],
+        [
+          65.98676300048828,
+          547.6094970703125
+        ],
+        [
+          48.599609375,
+          547.6094970703125
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        534.47265625,
+        65.98676300048828,
+        547.6094970703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/156",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">10) \"gestion du trafic aérien\" (GTA) : le regroupement des fonctions embarquées et au sol  (services de circulation aérienne, gestion de l'espace aérien et gestion des courants de trafic  aérien) requises pour assurer le mouvement sûr et efficace des aéronefs durant toutes les  phases d'exploitation ;</li><li block-type=\"ListItem\">11) \"services de la circulation aérienne\" : selon le cas, les services d'information de vol, les services  d'alerte, les services consultatifs de la circulation aérienne et les services du contrôle de la  circulation aérienne (services de contrôle régional, services de contrôle d'approche et  services de contrôle d'aérodrome) ;</li></ul></p>",
+      "page": 156,
+      "polygon": [
+        [
+          49.606197357177734,
+          562.5040893554688
+        ],
+        [
+          548.576904296875,
+          562.5040893554688
+        ],
+        [
+          548.576904296875,
+          681.9142150878906
+        ],
+        [
+          49.606197357177734,
+          681.9142150878906
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        562.5040893554688,
+        548.576904296875,
+        681.9142150878906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 156,
+      "polygon": [
+        [
+          48.599609375,
+          696.0478515625
+        ],
+        [
+          65.98676300048828,
+          696.0478515625
+        ],
+        [
+          65.98676300048828,
+          708.6159973144531
+        ],
+        [
+          48.599609375,
+          708.6159973144531
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        696.0478515625,
+        65.98676300048828,
+        708.6159973144531
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">23 bis) \"service d'information de vol\" : un service assuré dans le but de fournir les avis et les  renseignements utiles à l'exécution sûre et efficace des vols ;</p>",
+      "page": 156,
+      "polygon": [
+        [
+          49.606197357177734,
+          721.126953125
+        ],
+        [
+          548.5205688476562,
+          721.126953125
+        ],
+        [
+          548.5205688476562,
+          749.094108581543
+        ],
+        [
+          49.606197357177734,
+          749.094108581543
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        721.126953125,
+        548.5205688476562,
+        749.094108581543
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/18",
+      "block_type": "Text",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          222.62695312499997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.62695312499997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.62695312499997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">23 ter) \"service d'alerte\" : un service assuré dans le but d'alerter les organismes compétents  lorsque des aéronefs ont besoin d'une aide en matière de recherche et de sauvetage et de  prêter à ces organismes le concours nécessaire ;</p>",
+      "page": 143,
+      "polygon": [
+        [
+          47.7265625,
+          83.87109375
+        ],
+        [
+          548.5401611328125,
+          83.87109375
+        ],
+        [
+          548.5401611328125,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.87109375,
+        548.5401611328125,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 143,
+      "polygon": [
+        [
+          49.606197357177734,
+          136.9072265625
+        ],
+        [
+          75.09292602539062,
+          136.9072265625
+        ],
+        [
+          75.09292602539062,
+          149.909912109375
+        ],
+        [
+          49.606197357177734,
+          149.909912109375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        136.9072265625,
+        75.09292602539062,
+        149.909912109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">6 L'article 3 du même règlement, intitulé « Domaines d'intervention de la Communauté », prévoit, à  son paragraphe 1 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Le présent règlement établit un cadre réglementaire harmonisé en vue de la réalisation du ciel  unique européen en liaison avec :</li></ul></li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          24.4453125,
+          163.630859375
+        ],
+        [
+          548.5696411132812,
+          163.630859375
+        ],
+        [
+          548.5696411132812,
+          229.9033203125
+        ],
+        [
+          24.4453125,
+          229.9033203125
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        163.630859375,
+        548.5696411132812,
+        229.9033203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 143,
+      "polygon": [
+        [
+          48.017578125,
+          242.9794921875
+        ],
+        [
+          65.98676300048828,
+          242.9794921875
+        ],
+        [
+          65.98676300048828,
+          256.5487060546875
+        ],
+        [
+          48.017578125,
+          256.5487060546875
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        242.9794921875,
+        65.98676300048828,
+        256.5487060546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">b) le [règlement no 550/2004] ; [...]</p>",
+      "page": 143,
+      "polygon": [
+        [
+          48.890625,
+          270.525390625
+        ],
+        [
+          223.0821075439453,
+          270.525390625
+        ],
+        [
+          223.0821075439453,
+          283.1961669921875
+        ],
+        [
+          48.890625,
+          283.1961669921875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        270.525390625,
+        223.0821075439453,
+        283.1961669921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 143,
+      "polygon": [
+        [
+          49.181640625,
+          297.2490234375
+        ],
+        [
+          65.98809051513672,
+          297.2490234375
+        ],
+        [
+          65.98809051513672,
+          309.841552734375
+        ],
+        [
+          49.181640625,
+          309.841552734375
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        297.2490234375,
+        65.98809051513672,
+        309.841552734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">et les mesures d'exécution adoptées par la Commission [européenne] sur la base du présent  règlement et des règlements susvisés. »</p>",
+      "page": 143,
+      "polygon": [
+        [
+          47.7265625,
+          322.7392578125
+        ],
+        [
+          548.5328979492188,
+          322.7392578125
+        ],
+        [
+          548.5328979492188,
+          349.80963134765625
+        ],
+        [
+          47.7265625,
+          349.80963134765625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        322.7392578125,
+        548.5328979492188,
+        349.80963134765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Le règlement no 550/2004</i></p>",
+      "page": 143,
+      "polygon": [
+        [
+          47.435546875,
+          372.486328125
+        ],
+        [
+          177.72833251953125,
+          372.486328125
+        ],
+        [
+          177.72833251953125,
+          385.0161437988281
+        ],
+        [
+          47.435546875,
+          385.0161437988281
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        372.486328125,
+        177.72833251953125,
+        385.0161437988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/142",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">7 Les considérants 4 et 10 du règlement no 550/2004 énoncent : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« (4) La création du ciel unique européen exige des mesures visant à assurer une fourniture sûre  et efficace de services de navigation aérienne compatibles avec l'organisation et l'utilisation  de l'espace aérien prévues par le règlement (CE) no 551/2004 du Parlement européen et du  Conseil du 10 mars 2004 relatif à l'organisation et à l'utilisation de l'espace aérien dans le  ciel unique européen (\"règlement sur l'espace aérien\") [(JO 2004, L 96, p. 20)]. Il importe  d'établir un cadre harmonisé pour la fourniture de tels services afin de répondre de  manière adéquate à la demande des usagers de l'espace aérien et d'assurer un  fonctionnement sûr et performant de la circulation aérienne.</li></ul></li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          23.28125,
+          398.3876953125
+        ],
+        [
+          548.5686645507812,
+          398.3876953125
+        ],
+        [
+          548.5686645507812,
+          533.2392578125
+        ],
+        [
+          23.28125,
+          533.2392578125
+        ]
+      ],
+      "bbox": [
+        23.28125,
+        398.3876953125,
+        548.5686645507812,
+        533.2392578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 143,
+      "polygon": [
+        [
+          48.599609375,
+          544.7509765625
+        ],
+        [
+          65.98950958251953,
+          544.7509765625
+        ],
+        [
+          65.98950958251953,
+          558.2684020996094
+        ],
+        [
+          48.599609375,
+          558.2684020996094
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        544.7509765625,
+        65.98950958251953,
+        558.2684020996094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/143",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(10) Tout en garantissant la continuité de la fourniture de services, il y a lieu d'instituer un  régime commun de certification des prestataires de services de navigation aérienne,  permettant de préciser les droits et obligations desdits prestataires et de contrôler  régulièrement le respect de ces exigences. »</li><li block-type=\"ListItem\">8 L'article 1er du règlement no 550/2004, intitulé « Champ d'application et objectif », dispose, à son  paragraphe 1 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Dans le champ d'application [du règlement no 549/2004], le présent règlement porte sur la fourniture  de services de navigation aérienne dans le ciel unique européen. Le présent règlement vise à établir des  exigences communes pour garantir une fourniture sûre et efficace des services de navigation aérienne  dans la Communauté. »</li></ul></li></ul></p>",
+      "page": 143,
+      "polygon": [
+        [
+          26.7734375,
+          572.6528930664062
+        ],
+        [
+          548.5478515625,
+          572.6528930664062
+        ],
+        [
+          548.5478515625,
+          727.2997665405273
+        ],
+        [
+          26.7734375,
+          727.2997665405273
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        572.6528930664062,
+        548.5478515625,
+        727.2997665405273
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/16",
+      "block_type": "Text",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          547.109375,
+          791.4306640625
+        ],
+        [
+          547.109375,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        547.109375,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.291015625
+        ],
+        [
+          373.4064025878906,
+          40.291015625
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.291015625,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/124",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">9 L'article 6 du règlement no 550/2004, intitulé « Exigences communes », qui ouvre le chapitre II de  ce règlement établissant les règles relatives à la fourniture de ces services, est libellé comme suit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Des exigences communes pour la fourniture de services de navigation aérienne sont définies  conformément à la procédure visée à l'article 5, paragraphe 3, du [règlement no 549/2004]. Les  exigences communes portent au moins sur les éléments suivants :</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> compétence et aptitude technique et opérationnelle,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> systèmes et procédés de gestion de la sécurité et de la qualité,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> système de comptes rendus,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> qualité des services,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> solidité financière,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> responsabilité et couverture des risques,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> propriété et structure organisationnelle, notamment la prévention de conflits d'intérêt,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> ressources humaines, notamment des plans de recrutement adéquats,</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> sûreté. »</li></ul></li><li block-type=\"ListItem\">10 L'article 7 du règlement no 550/2004, intitulé « Certification des prestataires de services de  navigation aérienne », prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. La fourniture de tous les services de navigation aérienne dans la Communauté est soumise à  une certification par les États membres.</li></ul></li></ul></p>",
+      "page": 124,
+      "polygon": [
+        [
+          24.4453125,
+          83.87109375
+        ],
+        [
+          548.5706787109375,
+          83.87109375
+        ],
+        [
+          548.5706787109375,
+          483.0939025878906
+        ],
+        [
+          24.4453125,
+          483.0939025878906
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        83.87109375,
+        548.5706787109375,
+        483.0939025878906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 124,
+      "polygon": [
+        [
+          48.890625,
+          495.4150390625
+        ],
+        [
+          65.98778533935547,
+          495.4150390625
+        ],
+        [
+          65.98778533935547,
+          509.7392883300781
+        ],
+        [
+          48.890625,
+          509.7392883300781
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        495.4150390625,
+        65.98778533935547,
+        509.7392883300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Les autorités de surveillance nationales délivrent des certificats aux prestataires de services de  navigation aérienne lorsqu'ils respectent les exigences communes visées à l'article 6. [...]</p>",
+      "page": 124,
+      "polygon": [
+        [
+          49.607177734375,
+          523.3720703125
+        ],
+        [
+          548.5338134765625,
+          523.3720703125
+        ],
+        [
+          548.5338134765625,
+          549.7073669433594
+        ],
+        [
+          49.607177734375,
+          549.7073669433594
+        ]
+      ],
+      "bbox": [
+        49.607177734375,
+        523.3720703125,
+        548.5338134765625,
+        549.7073669433594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 124,
+      "polygon": [
+        [
+          48.890625,
+          564.1482849121094
+        ],
+        [
+          65.98778533935547,
+          564.1482849121094
+        ],
+        [
+          65.98778533935547,
+          576.4091796875
+        ],
+        [
+          48.890625,
+          576.4091796875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        564.1482849121094,
+        65.98778533935547,
+        576.4091796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/17",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">7. Les autorités de surveillance nationales contrôlent le respect des exigences communes et des  conditions liées à l'octroi des certificats. Les contrôles pratiqués sont exposés en détail dans les  rapports annuels présentés par les États membres en vertu de l'article 12, paragraphe 1, du  [règlement no 549/2004]. Si une autorité de surveillance nationale constate que le détenteur d'un  certificat ne satisfait plus à ces exigences ou conditions, elle prend des mesures appropriées tout  en assurant la continuité des services, pour autant que la sécurité ne soit pas compromise. Ces  mesures peuvent comprendre le retrait du certificat. »</p>",
+      "page": 124,
+      "polygon": [
+        [
+          48.890625,
+          588.7421875
+        ],
+        [
+          548.548828125,
+          588.7421875
+        ],
+        [
+          548.548828125,
+          682.9932098388672
+        ],
+        [
+          48.890625,
+          682.9932098388672
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        588.7421875,
+        548.548828125,
+        682.9932098388672
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/18",
+      "block_type": "Text",
+      "html": "",
+      "page": 124,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 140,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/138",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">11 L'article 8 du règlement no 550/2004, intitulé « Désignation des prestataires de services de la  circulation aérienne », dispose : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Les États membres garantissent la fourniture des services de la circulation aérienne en  exclusivité dans des blocs d'espace aérien spécifiques appartenant à l'espace aérien relevant de leur  responsabilité. À cet effet, les États membres désignent un prestataire de services de la circulation  aérienne détenteur d'un certificat valable dans la Communauté.</li></ul></li></ul></p>",
+      "page": 140,
+      "polygon": [
+        [
+          26.7734375,
+          83.4599609375
+        ],
+        [
+          548.5426635742188,
+          83.4599609375
+        ],
+        [
+          548.5426635742188,
+          176.5552978515625
+        ],
+        [
+          26.7734375,
+          176.5552978515625
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        83.4599609375,
+        548.5426635742188,
+        176.5552978515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.599609375,
+          190.3544921875
+        ],
+        [
+          65.9880142211914,
+          190.3544921875
+        ],
+        [
+          65.9880142211914,
+          203.257080078125
+        ],
+        [
+          48.599609375,
+          203.257080078125
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        190.3544921875,
+        65.9880142211914,
+        203.257080078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/139",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. Les États membres définissent les droits et obligations des prestataires de services de  circulation aérienne désignés. [...]</li><li block-type=\"ListItem\">4. Les États membres ont un pouvoir discrétionnaire en ce qui concerne le choix d'un prestataire  de services de circulation aérienne, à condition que ce dernier satisfasse aux exigences et aux  conditions prévues aux articles 6 et 7.</li></ul></p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          215.8447265625
+        ],
+        [
+          548.5364990234375,
+          215.8447265625
+        ],
+        [
+          548.5364990234375,
+          296.51593017578125
+        ],
+        [
+          48.890625,
+          296.51593017578125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        215.8447265625,
+        548.5364990234375,
+        296.51593017578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          309.994140625
+        ],
+        [
+          75.09541320800781,
+          309.994140625
+        ],
+        [
+          75.09541320800781,
+          323.16253662109375
+        ],
+        [
+          48.890625,
+          323.16253662109375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        309.994140625,
+        75.09541320800781,
+        323.16253662109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/140",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">12 Aux termes de l'article 14 de ce règlement, intitulé « Généralités », figurant dans le chapitre III de  celui-ci, lui-même intitulé « Tarification » : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Conformément aux exigences des articles 15 et 16, le système de tarification des services de  navigation aérienne contribue à une plus grande transparence dans la fixation, l'imposition et la  perception des redevances dues par les usagers de l'espace aérien, à l'efficacité économique de la  fourniture des services de navigation aérienne et à l'efficacité des vols, tout en maintenant un niveau  de sécurité optimal. [...] »</li></ul></li><li block-type=\"ListItem\">13 L'article 15 dudit règlement, intitulé « Principes », prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Le système de tarification repose sur la prise en considération des coûts des services de  navigation aérienne supportés par les prestataires de services au profit des usagers de l'espace  aérien. Le système répartit ces coûts entre les catégories d'usagers.</li></ul></li></ul></p>",
+      "page": 140,
+      "polygon": [
+        [
+          26.7734375,
+          337.12890625
+        ],
+        [
+          548.5474853515625,
+          337.12890625
+        ],
+        [
+          548.5474853515625,
+          519.3209228515625
+        ],
+        [
+          26.7734375,
+          519.3209228515625
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        337.12890625,
+        548.5474853515625,
+        519.3209228515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 140,
+      "polygon": [
+        [
+          49.181640625,
+          533.7618103027344
+        ],
+        [
+          65.98676300048828,
+          533.7618103027344
+        ],
+        [
+          65.98676300048828,
+          546.022705078125
+        ],
+        [
+          49.181640625,
+          546.022705078125
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        533.7618103027344,
+        65.98676300048828,
+        546.022705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">3. Les États membres appliquent les principes ci-après pour la fixation des redevances  conformément au paragraphe 2 :</p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          559.140625
+        ],
+        [
+          548.505859375,
+          559.140625
+        ],
+        [
+          548.505859375,
+          585.9907836914062
+        ],
+        [
+          48.890625,
+          585.9907836914062
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        559.140625,
+        548.505859375,
+        585.9907836914062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          600.3752746582031
+        ],
+        [
+          65.98676300048828,
+          600.3752746582031
+        ],
+        [
+          65.98676300048828,
+          612.6361846923828
+        ],
+        [
+          48.890625,
+          612.6361846923828
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        600.3752746582031,
+        65.98676300048828,
+        612.6361846923828
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">f) les redevances favorisent la fourniture sûre, efficace, effective et durable des services de  navigation aérienne en vue d'atteindre un niveau élevé de sécurité et d'efficacité économique,  ainsi que les objectifs de performance, et elles encouragent la fourniture de services intégrés  tout en réduisant l'impact de l'aviation sur l'environnement. [...] »</p>",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          627.5883178710938
+        ],
+        [
+          548.5328369140625,
+          627.5883178710938
+        ],
+        [
+          548.5328369140625,
+          680.8359375
+        ],
+        [
+          48.890625,
+          680.8359375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        627.5883178710938,
+        548.5328369140625,
+        680.8359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/15",
+      "block_type": "Text",
+      "html": "",
+      "page": 140,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/5/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 122,
+      "polygon": [
+        [
+          222.62695312499997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.62695312499997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.62695312499997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/1/SectionHeader/11",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Le règlement d'exécution no 1035/2011</i></h3>",
+      "page": 122,
+      "polygon": [
+        [
+          47.14453125,
+          84.2822265625
+        ],
+        [
+          244.265625,
+          84.2822265625
+        ],
+        [
+          244.265625,
+          96.619140625
+        ],
+        [
+          47.14453125,
+          96.619140625
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        84.2822265625,
+        244.265625,
+        96.619140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">14 Le règlement d'exécution (UE) no 1035/2011 de la Commission, du 17 octobre 2011, établissant  des exigences communes pour la fourniture de services de navigation aérienne et modifiant les  règlements (CE) no 482/2008 et (UE) noo691/2010 (JO 2011, L 271, p. 23), tel que modifié par le  règlement d'exécution (UE) no 448/2014 de la Commission, du 2 mai 2014 (JO 2014, L 132, p. 53)  (ci-après le « règlement d'exécution no 1035/2011 »), comporte une annexe I, intitulée « Exigences  générales applicables à la fourniture de services de navigation aérienne », qui est rédigée comme  suit :</p>",
+      "page": 122,
+      "polygon": [
+        [
+          26.929100036621094,
+          111.004150390625
+        ],
+        [
+          548.5497436523438,
+          111.004150390625
+        ],
+        [
+          548.5497436523438,
+          203.2579345703125
+        ],
+        [
+          26.929100036621094,
+          203.2579345703125
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        111.004150390625,
+        548.5497436523438,
+        203.2579345703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/0/SectionHeader/7",
+        "3": "/page/6/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2>« 1. COMPÉTENCE ET APTITUDE TECHNIQUES ET OPÉRATIONNELLES</h2>",
+      "page": 122,
+      "polygon": [
+        [
+          48.890625,
+          216.255859375
+        ],
+        [
+          455.6252136230469,
+          216.255859375
+        ],
+        [
+          455.6252136230469,
+          230.41339111328125
+        ],
+        [
+          48.890625,
+          230.41339111328125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        216.255859375,
+        455.6252136230469,
+        230.41339111328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le prestataire de services de navigation aérienne doit être capable de fournir ses services, qui  seront compatibles avec tout niveau raisonnable de demande dans un espace aérien  déterminé, d'une manière sûre, efficace, continue et durable. À cette fin, il doit maintenir  une capacité et un savoir-faire adéquats sur les plans technique et opérationnel.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          72.171875,
+          240.5126953125
+        ],
+        [
+          548.5737915039062,
+          240.5126953125
+        ],
+        [
+          548.5737915039062,
+          293.34246826171875
+        ],
+        [
+          72.171875,
+          293.34246826171875
+        ]
+      ],
+      "bbox": [
+        72.171875,
+        240.5126953125,
+        548.5737915039062,
+        293.34246826171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 122,
+      "polygon": [
+        [
+          48.599609375,
+          306.705078125
+        ],
+        [
+          65.9885025024414,
+          306.705078125
+        ],
+        [
+          65.9885025024414,
+          319.98785400390625
+        ],
+        [
+          48.599609375,
+          319.98785400390625
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        306.705078125,
+        65.9885025024414,
+        319.98785400390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2>3. GESTION DE LA SÉCURITÉ ET DE LA QUALITÉ</h2>",
+      "page": 122,
+      "polygon": [
+        [
+          48.30859375,
+          332.6064453125
+        ],
+        [
+          336.6871032714844,
+          332.6064453125
+        ],
+        [
+          336.6871032714844,
+          347.1432800292969
+        ],
+        [
+          48.30859375,
+          347.1432800292969
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        332.6064453125,
+        336.6871032714844,
+        347.1432800292969
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 122,
+      "polygon": [
+        [
+          73.19178771972656,
+          356.4521484375
+        ],
+        [
+          89.57234954833984,
+          356.4521484375
+        ],
+        [
+          89.57234954833984,
+          370.104248046875
+        ],
+        [
+          73.19178771972656,
+          370.104248046875
+        ]
+      ],
+      "bbox": [
+        73.19178771972656,
+        356.4521484375,
+        89.57234954833984,
+        370.104248046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2>3.2. Système de gestion de la qualité</h2>",
+      "page": 122,
+      "polygon": [
+        [
+          48.890625,
+          383.998046875
+        ],
+        [
+          235.14062499999997,
+          383.998046875
+        ],
+        [
+          235.14062499999997,
+          397.25970458984375
+        ],
+        [
+          48.890625,
+          397.25970458984375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        383.998046875,
+        235.14062499999997,
+        397.25970458984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le prestataire de services de navigation aérienne doit avoir établi un système de gestion de la  qualité pour tous les services de navigation aérienne qu'il fournit, selon les principes indiqués  ci-après.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          71.0078125,
+          407.95977783203125
+        ],
+        [
+          548.5787353515625,
+          407.95977783203125
+        ],
+        [
+          548.5787353515625,
+          446.9013671875
+        ],
+        [
+          71.0078125,
+          446.9013671875
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        407.95977783203125,
+        548.5787353515625,
+        446.9013671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le système de gestion de la qualité doit :</p>",
+      "page": 122,
+      "polygon": [
+        [
+          73.19178771972656,
+          457.508544921875
+        ],
+        [
+          277.8568420410156,
+          457.508544921875
+        ],
+        [
+          277.8568420410156,
+          469.7694396972656
+        ],
+        [
+          73.19178771972656,
+          469.7694396972656
+        ]
+      ],
+      "bbox": [
+        73.19178771972656,
+        457.508544921875,
+        277.8568420410156,
+        469.7694396972656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">a) définir la politique de qualité en vue de répondre au mieux aux besoins des différents  utilisateurs ;</p>",
+      "page": 122,
+      "polygon": [
+        [
+          73.19178771972656,
+          468.2802734375
+        ],
+        [
+          548.5296630859375,
+          468.2802734375
+        ],
+        [
+          548.5296630859375,
+          496.414794921875
+        ],
+        [
+          73.19178771972656,
+          496.414794921875
+        ]
+      ],
+      "bbox": [
+        73.19178771972656,
+        468.2802734375,
+        548.5296630859375,
+        496.414794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 122,
+      "polygon": [
+        [
+          48.599609375,
+          510.79931640625
+        ],
+        [
+          65.9885025024414,
+          510.79931640625
+        ],
+        [
+          65.9885025024414,
+          523.0602111816406
+        ],
+        [
+          48.599609375,
+          523.0602111816406
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        510.79931640625,
+        65.9885025024414,
+        523.0602111816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/13",
+      "block_type": "SectionHeader",
+      "html": "<h2>7. RESPONSABILITÉ ET COUVERTURE DES RISQUES</h2>",
+      "page": 122,
+      "polygon": [
+        [
+          49.607940673828125,
+          536.1171875
+        ],
+        [
+          344.4727783203125,
+          536.1171875
+        ],
+        [
+          344.4727783203125,
+          550.2732849121094
+        ],
+        [
+          49.607940673828125,
+          550.2732849121094
+        ]
+      ],
+      "bbox": [
+        49.607940673828125,
+        536.1171875,
+        344.4727783203125,
+        550.2732849121094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le prestataire de services de navigation aérienne doit avoir pris des dispositions pour couvrir  les risques qu'il encourt en matière de responsabilité civile dans le cadre des lois en vigueur.</p>",
+      "page": 122,
+      "polygon": [
+        [
+          64.0234375,
+          559.962890625
+        ],
+        [
+          548.5553588867188,
+          559.962890625
+        ],
+        [
+          548.5553588867188,
+          586.4993591308594
+        ],
+        [
+          64.0234375,
+          586.4993591308594
+        ]
+      ],
+      "bbox": [
+        64.0234375,
+        559.962890625,
+        548.5553588867188,
+        586.4993591308594
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 122,
+      "polygon": [
+        [
+          64.23519897460938,
+          596.96484375
+        ],
+        [
+          89.721923828125,
+          596.96484375
+        ],
+        [
+          89.721923828125,
+          609.4603271484375
+        ],
+        [
+          64.23519897460938,
+          609.4603271484375
+        ]
+      ],
+      "bbox": [
+        64.23519897460938,
+        596.96484375,
+        89.721923828125,
+        609.4603271484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/16",
+      "block_type": "Text",
+      "html": "",
+      "page": 122,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          545.6883544921875,
+          791.4306640625
+        ],
+        [
+          545.6883544921875,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        545.6883544921875,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 137,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "4": "/page/7/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Le droit autrichien</i></h3>",
+      "page": 137,
+      "polygon": [
+        [
+          48.599609375,
+          83.4599609375
+        ],
+        [
+          151.2907257080078,
+          83.4599609375
+        ],
+        [
+          151.2907257080078,
+          96.619140625
+        ],
+        [
+          48.599609375,
+          96.619140625
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        83.4599609375,
+        151.2907257080078,
+        96.619140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>La loi sur l'aviation</i></h3>",
+      "page": 137,
+      "polygon": [
+        [
+          48.017578125,
+          118.8173828125
+        ],
+        [
+          148.70123291015625,
+          118.8173828125
+        ],
+        [
+          148.70123291015625,
+          131.8250732421875
+        ],
+        [
+          48.017578125,
+          131.8250732421875
+        ]
+      ],
+      "bbox": [
+        48.017578125,
+        118.8173828125,
+        148.70123291015625,
+        131.8250732421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/136",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">15 L'article 120 du Bundesgesetz über die Luftfahrt (loi fédérale sur l'aviation), du 2 décembre 1957 (BGBl. 253/1957), dans sa version applicable aux faits au principal (ci-après la « loi sur  l'aviation »), prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« (1) Sauf si des conventions internationales, des normes fondées sur des conventions  internationales, la réglementation de l'Union ou la présente loi en disposent autrement,  l'exécution des fonctions de navigation aérienne, en tant que mission de puissance publique de  l'État fédéral, incombe à Austro Control. Cette société est désignée pour assurer les services de la  circulation aérienne visés à l'article 119, paragraphe 2, point 1, sous a), [de la présente loi] et les  services météorologiques destinés à la navigation aérienne visés à l'article 119, paragraphe 2,  point 1, sous c), [de cette loi] sur une base exclusive, au sens des articles 8 et 9 du règlement  [no 550/2004].</li></ul></li></ul></p>",
+      "page": 137,
+      "polygon": [
+        [
+          26.929100036621094,
+          145.9521484375
+        ],
+        [
+          548.557373046875,
+          145.9521484375
+        ],
+        [
+          548.557373046875,
+          305.02215576171875
+        ],
+        [
+          26.929100036621094,
+          305.02215576171875
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        145.9521484375,
+        548.557373046875,
+        305.02215576171875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 137,
+      "polygon": [
+        [
+          48.30859375,
+          318.6279296875
+        ],
+        [
+          65.98694610595703,
+          318.6279296875
+        ],
+        [
+          65.98694610595703,
+          331.72393798828125
+        ],
+        [
+          48.30859375,
+          331.72393798828125
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        318.6279296875,
+        65.98694610595703,
+        331.72393798828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(5) Les prestataires de services de navigation aérienne tiennent à disposition, maintiennent en  état de fonctionnement sûr et exploitent en toute légalité les installations de navigation aérienne  qui, d'une part, sont nécessaires à la bonne exécution, en parfaite sécurité, des missions de  navigation aérienne qui leur ont été confiées et qui, d'autre part, correspondent aux standards  internationaux.</p>",
+      "page": 137,
+      "polygon": [
+        [
+          47.7265625,
+          344.9404296875
+        ],
+        [
+          548.5390625,
+          344.9404296875
+        ],
+        [
+          548.5390625,
+          411.6601257324219
+        ],
+        [
+          47.7265625,
+          411.6601257324219
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        344.9404296875,
+        548.5390625,
+        411.6601257324219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 137,
+      "polygon": [
+        [
+          49.606380462646484,
+          425.5224609375
+        ],
+        [
+          75.09310913085938,
+          425.5224609375
+        ],
+        [
+          75.09310913085938,
+          438.30548095703125
+        ],
+        [
+          49.606380462646484,
+          438.30548095703125
+        ]
+      ],
+      "bbox": [
+        49.606380462646484,
+        425.5224609375,
+        75.09310913085938,
+        438.30548095703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/6/SectionHeader/13",
+        "3": "/page/7/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>La loi sur Austro Control</i></h2>",
+      "page": 137,
+      "polygon": [
+        [
+          47.435546875,
+          459.2353515625
+        ],
+        [
+          177.228515625,
+          459.2353515625
+        ],
+        [
+          177.228515625,
+          473.51141357421875
+        ],
+        [
+          47.435546875,
+          473.51141357421875
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        459.2353515625,
+        177.228515625,
+        473.51141357421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/137",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">16 L'article 2 du Bundesgesetz über die Austro Control Gesellschaft mit beschränkter Haftung (loi  fédérale sur la société à responsabilité limitée Austro Control) (BGBl. 898/1993), dans sa version  applicable aux faits au principal (ci-après la « loi sur Austro Control »), est libellé comme suit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« (1) Austro Control accomplit l'ensemble des missions qui ont été confiées à ce jour au  Bundesamt für Zivilluftfahrt [(Office fédéral de l'aviation civile, Autriche)] au titre de la loi sur  l'aviation, des décrets adoptés sur le fondement de cette loi ainsi que du  Flugsicherungsstreckengebührengesetz [(loi relative aux redevances de route dues pour la  prestation de services de navigation aérienne) (BGBl. 137/1986)], à l'exception des missions qui  ont été attribuées par décret conformément à l'article 140b de la [loi sur l'aviation]. Austro  Control assume en outre les missions qui lui sont confiées par les lois fédérales ou les décrets  adoptés sur le fondement de ces lois fédérales. Ces missions sont soumises à une obligation  d'exploiter. Austro Control prend toutes les mesures préventives de nature organisationnelle qui  lui permettent de remplir lesdites missions sous le contrôle des autorités publiques.</li></ul></li></ul></p>",
+      "page": 137,
+      "polygon": [
+        [
+          26.929100036621094,
+          487.8982849121094
+        ],
+        [
+          548.5719604492188,
+          487.8982849121094
+        ],
+        [
+          548.5719604492188,
+          673.4106140136719
+        ],
+        [
+          26.929100036621094,
+          673.4106140136719
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        487.8982849121094,
+        548.5719604492188,
+        673.4106140136719
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...] »</p>",
+      "page": 137,
+      "polygon": [
+        [
+          49.606197357177734,
+          686.1806640625
+        ],
+        [
+          75.09292602539062,
+          686.1806640625
+        ],
+        [
+          75.09292602539062,
+          700.0559844970703
+        ],
+        [
+          49.606197357177734,
+          700.0559844970703
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        686.1806640625,
+        75.09292602539062,
+        700.0559844970703
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/12",
+      "block_type": "Text",
+      "html": "",
+      "page": 137,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          545.687255859375,
+          791.4306640625
+        ],
+        [
+          545.687255859375,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        545.687255859375,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8",
+        "4": "/page/8/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">17 L'article 10 de la loi sur Austro Control, intitulé « Responsabilité », dispose, à son paragraphe 1 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'État fédéral répond, conformément aux dispositions de l'Amtshaftungsgesetz [(loi sur la  responsabilité de l'administration) (BGBl. 20/1949)], des préjudices causés à quiconque par les  employés d'Austro Control, dans le cadre de l'exécution des lois, lors de l'accomplissement des  missions qui leur ont été confiées en vertu de l'article 2, paragraphes 1 et 3, de la présente loi fédérale.  L'employé n'est pas responsable à l'égard de la victime. [...] »</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          25.609375,
+          83.87109375
+        ],
+        [
+          548.4320678710938,
+          83.87109375
+        ],
+        [
+          548.4320678710938,
+          172.332763671875
+        ],
+        [
+          25.609375,
+          172.332763671875
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        83.87109375,
+        548.4320678710938,
+        172.332763671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8",
+        "4": "/page/8/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>La loi sur la responsabilité de l'administration</i></h3>",
+      "page": 153,
+      "polygon": [
+        [
+          47.14453125,
+          195.2880859375
+        ],
+        [
+          283.994140625,
+          195.2880859375
+        ],
+        [
+          283.994140625,
+          208.0211181640625
+        ],
+        [
+          47.14453125,
+          208.0211181640625
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        195.2880859375,
+        283.994140625,
+        208.0211181640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8",
+        "3": "/page/8/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/152",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">18 La loi sur la responsabilité de l'administration, dans sa version applicable aux faits au principal  (ci-après la « loi sur la responsabilité de l'administration »), dispose, à son article 1er, paragraphe 1 : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'État fédéral, les Länder, les communes, les autres personnes morales de droit public et les  organismes de sécurité sociale [...] répondent, selon les dispositions du droit civil, du préjudice  patrimonial ou corporel causé à quiconque du fait du comportement illégal et fautif des personnes  agissant, en tant qu'organes de l'État fédéral, en exécution des lois ; l'organe n'est pas responsable à  l'égard de la victime. La réparation du préjudice est nécessairement pécuniaire. »</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.7734375,
+          222.40521240234375
+        ],
+        [
+          548.5316162109375,
+          222.40521240234375
+        ],
+        [
+          548.5316162109375,
+          323.75909423828125
+        ],
+        [
+          26.7734375,
+          323.75909423828125
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        222.40521240234375,
+        548.5316162109375,
+        323.75909423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/7/SectionHeader/8",
+        "3": "/page/8/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Le litige au principal et la question préjudicielle</b></h2>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          348.2294921875
+        ],
+        [
+          308.4765625,
+          348.2294921875
+        ],
+        [
+          308.4765625,
+          361.5451354980469
+        ],
+        [
+          47.7265625,
+          361.5451354980469
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        348.2294921875,
+        308.4765625,
+        361.5451354980469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">19 Austro Control est une société à responsabilité limitée dont l'unique actionnaire est la République  d'Autriche. Dans l'exercice de ses missions légales, Austro Control gère le serveur du Réseau du  service fixe des télécommunications aéronautiques (ci-après le « serveur RSFTA »), qui assure la  transmission d'informations techniques, relatives notamment au trafic aérien, entre les  compagnies aériennes, Austro Control elle-même et Eurocontrol, l'organisme européen de  coordination établi à Bruxelles (Belgique).</li><li block-type=\"ListItem\">20 Austrian Airlines, compagnie aérienne basée à l'aéroport de Vienne-Schwechat (Autriche), utilise  les services de la circulation aérienne fournis par Austro Control pour ses vols au départ et à  destination de cet aéroport, moyennant le paiement des redevances prévues pour ces services.</li><li block-type=\"ListItem\">21 Le 28 août 2016, une défaillance technique du serveur RSFTA a entraîné une diminution notable  des taux d'atterrissage et de décollage audit aéroport. Austrian Airlines affirme que cette  défaillance l'a contrainte à annuler 60 vols, lui causant un préjudice d'un montant de 373 140,46 euros incluant les remboursements de billets, les réacheminements sur des vols de compagnies  tierces, les pertes liées aux vols en partage de code, les frais de restauration, d'hébergement et de  transport des passagers, la réexpédition des bagages et la rémunération des heures supplémentaires du personnel.</li><li block-type=\"ListItem\">22 Considérant qu'Austro Control était responsable de la défaillance du serveur RSFTA, pour avoir  omis de prendre, à titre préventif, les mesures techniques et humaines nécessaires au bon  fonctionnement de ce serveur, Austrian Airlines a introduit un recours indemnitaire contre la  République d'Autriche sur le fondement de l'article 10, paragraphe 1, de la loi sur Austro Control  et de l'article 1er, paragraphe 1, de la loi sur la responsabilité de l'administration.</li><li block-type=\"ListItem\">23 La République d'Autriche, représentée par la Finanzprokuratur, a contesté tout comportement  fautif ou illicite d'Austro Control dans la gestion du serveur RSFTA. Elle a soutenu, en outre, que  les dispositions pertinentes de droit national et du droit de l'Union relatives à la navigation</li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          24.4453125,
+          375.3642578125
+        ],
+        [
+          548.5696411132812,
+          375.3642578125
+        ],
+        [
+          548.5696411132812,
+          748.0205230712891
+        ],
+        [
+          24.4453125,
+          748.0205230712891
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        375.3642578125,
+        548.5696411132812,
+        748.0205230712891
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/12",
+      "block_type": "Text",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/9/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">aérienne servent exclusivement l'intérêt général de la sécurité du transport aérien et non pas les  intérêts patrimoniaux des usagers de l'espace aérien, ce que confirmerait l'absence de  dispositions prévoyant un régime de responsabilité dans ce domaine.</p>",
+      "page": 157,
+      "polygon": [
+        [
+          47.7265625,
+          83.87109375
+        ],
+        [
+          548.5328979492188,
+          83.87109375
+        ],
+        [
+          548.5328979492188,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.87109375,
+        548.5328979492188,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/9/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/157",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">24 La juridiction de première instance a rejeté le recours indemnitaire formé par Austrian Airlines au  motif que les dispositions nationales et de l'Union relatives à la navigation aérienne ont pour seul  objectif de réglementer le trafic aérien et non de protéger le patrimoine des transporteurs aériens.  Dans ces conditions, cette juridiction a considéré qu'il n'était pas nécessaire d'examiner si le  personnel d'Austro Control avait agi de manière illicite et fautive.</li><li block-type=\"ListItem\">25 En revanche, la juridiction d'appel, saisie par Austrian Airlines, a conclu que, si les dispositions du  droit de l'Union relatives à la navigation aérienne visent principalement à garantir la sécurité  aérienne, elles protègent également les intérêts économiques des transporteurs aériens en tant  qu'usagers de l'espace aérien, d'autant plus que ces derniers s'acquittent de redevances pour les  services de navigation aérienne qui leur sont fournis par des prestataires tels qu'Austro Control.</li><li block-type=\"ListItem\">26 L'Oberster Gerichtshof (Cour suprême, Autriche), qui est la juridiction de renvoi, saisi d'un  recours de la République d'Autriche, représentée par la Finanzprokuratur, contre la décision  d'appel, expose que, selon sa jurisprudence relative à l'article 1er, paragraphe 1, de la loi sur la  responsabilité de l'administration, même en cas de violation fautive d'une disposition du droit  national, seuls les préjudices dont la prévention constitue au moins l'un des objectifs de la  disposition méconnue peuvent faire l'objet d'une réparation. Cette juridiction précise que le  critère déterminant pour l'engagement de la responsabilité de l'administration est l'objectif de  protection de la disposition méconnue, déterminé par voie d'interprétation.</li><li block-type=\"ListItem\">27 Ladite juridiction admet en principe qu'une disposition du droit national poursuit un objectif de  protection des intérêts individuels lorsqu'existe une relation juridique particulière entre l'entité  ayant méconnu une telle disposition et le particulier lésé. En revanche, elle tend à écarter  l'existence d'un tel objectif lorsque l'accomplissement de missions de service public par cette  entité concerne un nombre si important et indéterminé de personnes qu'elles doivent être  assimilées à la collectivité, ce qui exclut la possibilité d'engager la responsabilité de  l'administration même en cas de comportement illicite et fautif.</li><li block-type=\"ListItem\">28 La juridiction de renvoi relève que le désaccord entre les parties au principal porte sur la question  de savoir si les dispositions du droit de l'Union relatives à la navigation aérienne, dont l'objectif  principal est de garantir la sécurité aérienne, protègent également les usagers de l'espace aérien  contre les préjudices patrimoniaux causés par un manquement illicite et fautif du prestataire de  services de la circulation aérienne, désigné conformément à l'article 8 du règlement no 550/2004, à  savoir, en l'occurrence, Austro Control. Selon elle, la finalité poursuivie par ce règlement est  décisive et doit être déterminée de manière autonome au regard du droit de l'Union et de ses  méthodes d'interprétation.</li><li block-type=\"ListItem\">29 Toujours selon cette juridiction, il ressort de l'arrêt du 2 juin 2022, Skeyes (C-353/20,  EU:C:2022:423), que les dispositions de l'article 8 du règlement no 550/2004, lues en combinaison  avec l'article 2, point 4, du règlement no 549/2004, lequel définit les services de navigation  aérienne, confèrent aux usagers de l'espace aérien des droits susceptibles d'être affectés par la  fermeture de cet espace et que l'objectif des dispositions du droit de l'Union relatives à la  navigation aérienne ne se limite pas à la sécurité aérienne au sens strict.</li></ul></p>",
+      "page": 157,
+      "polygon": [
+        [
+          25.609375,
+          136.0849609375
+        ],
+        [
+          548.5723876953125,
+          136.0849609375
+        ],
+        [
+          548.5723876953125,
+          722.9622116088867
+        ],
+        [
+          25.609375,
+          722.9622116088867
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        136.0849609375,
+        548.5723876953125,
+        722.9622116088867
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/9/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 157,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/9/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/149",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">30 Ladite juridiction se demande si les intérêts patrimoniaux de ces usagers relèvent de l'objectif de  protection poursuivi par ces dispositions, ce qui permettrait d'engager la responsabilité de la  République d'Autriche pour les préjudices patrimoniaux causés par un comportement illicite et  fautif d'Austro Control, conformément à la loi sur la responsabilité de l'administration.</li><li block-type=\"ListItem\">31 La même juridiction relève que l'obligation pour Austrian Airlines de s'acquitter de redevances  pour bénéficier des services de la circulation aérienne fournis par Austro Control plaide en  faveur de l'existence d'une relation juridique particulière entre ces deux entités. Pour ce motif,  notamment, elle tend à considérer que l'article 8 du règlement no 550/2004, lu en combinaison  avec l'article 2, point 4, du règlement no 549/2004 et l'article 47 de la charte des droits  fondamentaux de l'Union européenne, protège également les intérêts patrimoniaux des usagers  individuels de l'espace aérien.</li><li block-type=\"ListItem\">32 Dans ces conditions, l'Oberster Gerichtshof (Cour suprême) a décidé de surseoir à statuer et de  poser à la Cour la question préjudicielle suivante : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'article 8 du [règlement no 550/2004], lu en combinaison avec l'article 2, point 4, du [règlement  no 549/2004], doit-il être interprété en ce sens que la fourniture de services de la circulation  aérienne vise également à protéger l'usager individuel de l'espace aérien contre la survenance  d'un préjudice purement patrimonial résultant de manquements illicites et fautifs du prestataire  chargé de fournir les services de navigation aérienne ? »</li></ul></li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          25.609375,
+          84.2822265625
+        ],
+        [
+          548.5698852539062,
+          84.2822265625
+        ],
+        [
+          548.5698852539062,
+          366.98687744140625
+        ],
+        [
+          25.609375,
+          366.98687744140625
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        84.2822265625,
+        548.5698852539062,
+        366.98687744140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/8/SectionHeader/6",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Sur la question préjudicielle</b></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          47.7265625,
+          390.9873046875
+        ],
+        [
+          201.96287536621094,
+          390.9873046875
+        ],
+        [
+          201.96287536621094,
+          404.2906799316406
+        ],
+        [
+          47.7265625,
+          404.2906799316406
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        390.9873046875,
+        201.96287536621094,
+        404.2906799316406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Observations liminaires</i></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          48.30859375,
+          426.3447265625
+        ],
+        [
+          178.68359375,
+          426.3447265625
+        ],
+        [
+          178.68359375,
+          440.5179443359375
+        ],
+        [
+          48.30859375,
+          440.5179443359375
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        426.3447265625,
+        178.68359375,
+        440.5179443359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">33 Il ressort de la demande de décision préjudicielle que la question posée, qui a trait à l'étendue de  l'objectif de protection poursuivi notamment à l'article 8 du règlement no 550/2004, découle du  fait que, en vertu de la loi sur la responsabilité de l'administration, telle qu'interprétée par la  juridiction de renvoi, le critère déterminant pour engager cette responsabilité est l'objectif de  protection de la disposition méconnue. En l'occurrence, cette disposition serait l'article 120 de la  loi sur l'aviation, qui désigne Austro Control pour, notamment, assurer les services de la  circulation aérienne sur une base exclusive, conformément à cet article 8.</li><li block-type=\"ListItem\">34 S'agissant du litige au principal, cette juridiction précise ainsi que la République d'Autriche ne  pourra être tenue pour responsable du préjudice économique subi par Austrian Airlines, du fait  d'un éventuel manquement fautif d'Austro Control, que si les dispositions pertinentes du droit  de l'Union visent notamment à protéger les usagers de l'espace aérien, au sens de l'article 2,  point 8, du règlement no 549/2004, contre un tel préjudice.</li><li block-type=\"ListItem\">35 C'est à la lumière de ces observations liminaires qu'il convient d'examiner la question posée.</li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          24.4453125,
+          453.890625
+        ],
+        [
+          548.54931640625,
+          453.890625
+        ],
+        [
+          548.54931640625,
+          656.5181427001953
+        ],
+        [
+          24.4453125,
+          656.5181427001953
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        453.890625,
+        548.54931640625,
+        656.5181427001953
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h2><i>Sur la question posée</i></h2>",
+      "page": 150,
+      "polygon": [
+        [
+          47.435546875,
+          679.19140625
+        ],
+        [
+          163.259765625,
+          679.19140625
+        ],
+        [
+          163.259765625,
+          692.7442016601562
+        ],
+        [
+          47.435546875,
+          692.7442016601562
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        679.19140625,
+        163.259765625,
+        692.7442016601562
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">36 Par son unique question, la juridiction de renvoi demande, en substance, si l'article 2, point 4, du  règlement no 549/2004 et l'article 8 du règlement no 550/2004, lus en combinaison avec les  dispositions de ce dernier règlement relatives à la fourniture de services de navigation aérienne et  à la tarification de ces services, doivent être interprétés en ce sens que l'ensemble de ces</p>",
+      "page": 150,
+      "polygon": [
+        [
+          26.7734375,
+          707.1302337646484
+        ],
+        [
+          548.5530395507812,
+          707.1302337646484
+        ],
+        [
+          548.5530395507812,
+          760.2089767456055
+        ],
+        [
+          26.7734375,
+          760.2089767456055
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        707.1302337646484,
+        548.5530395507812,
+        760.2089767456055
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/12",
+      "block_type": "Text",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6552734375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          223.49999999999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          223.49999999999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        223.49999999999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">dispositions visent également à protéger les usagers de l'espace aérien contre les préjudices  économiques causés par un manquement fautif du prestataire de services de la circulation  aérienne aux obligations qui lui incombent en vertu de ces dispositions.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          47.7265625,
+          83.048828125
+        ],
+        [
+          548.5535888671875,
+          83.048828125
+        ],
+        [
+          548.5535888671875,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.048828125,
+        548.5535888671875,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/ListGroup/158",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">37 Il importe de relever à titre préliminaire, d'une part, que, aux termes de l'article 1er, paragraphe 1,  du règlement no 549/2004, celui-ci établit un cadre réglementaire harmonisé pour la création du  « ciel unique européen », lequel a pour objectif de renforcer les normes de sécurité actuelles de la  circulation aérienne, de contribuer au développement durable du système de transport aérien et  d'améliorer les performances globales du système de gestion du trafic aérien et des services de  navigation aérienne pour la circulation aérienne générale en Europe afin de répondre aux besoins  de tous les usagers de l'espace aérien.</li><li block-type=\"ListItem\">38 Cette disposition précise encore que le ciel unique européen comporte un réseau paneuropéen  cohérent de routes ainsi que des systèmes de gestion du réseau et du trafic aérien, fondés  uniquement sur des critères de sécurité, d'efficacité et techniques, au profit de tous les « usagers  de l'espace aérien », notion qui englobe, conformément à l'article 2, point 8, de ce règlement, les  exploitants d'aéronefs exploités selon les règles de la circulation aérienne générale.</li><li block-type=\"ListItem\">39 D'autre part, conformément à l'article 1er, paragraphe 1, du règlement no 550/2004, celui-ci,  « [d]ans le champ d'application du [règlement no 549/2004] », porte sur la fourniture de services  de navigation aérienne dans le ciel unique européen, de manière sûre et efficace, en établissant  des exigences communes à cette fin. Le règlement no 550/2004 prévoit aussi, dans un chapitre III,  comme élément essentiel, un système de tarification de ces services comprenant des redevances  dues par les usagers de l'espace aérien.</li><li block-type=\"ListItem\">40 Par ailleurs, il ressort de l'article 3, paragraphe 1, du règlement no 549/2004 que le cadre  réglementaire harmonisé visant à réaliser le « ciel unique européen » comprend également les  mesures d'exécution adoptées par la Commission sur la base notamment de ce règlement ainsi  que du règlement no 550/2004. Parmi ces mesures d'exécution figure le règlement d'exécution  no 1035/2011.</li><li block-type=\"ListItem\">41 Ce cadre réglementaire étant précisé, il y a lieu de constater, en premier lieu, que, aux termes de  l'article 2, point 4, du règlement no 549/2004, la notion de « services de navigation aérienne »  englobe les services de la circulation aérienne, visés expressément dans la question posée, ainsi  que les services de communication, de navigation et de surveillance, les services météorologiques  destinés à la navigation aérienne et les services d'information aéronautique.</li><li block-type=\"ListItem\">42 Les services de la circulation aérienne font partie intégrante de la « gestion du trafic aérien », qui  regroupe, en vertu de l'article 2, point 10, du règlement no 549/2004, l'ensemble des fonctions,  embarquées et au sol, requises pour assurer le mouvement sûr et efficace des aéronefs durant  toutes les phases d'exploitation. En vertu du point 11 de cet article, ces services comprennent les  services du contrôle de la circulation aérienne, les services d'information de vol et les services  d'alerte, ces trois notions étant elles-mêmes définies, respectivement, au point 1, au point 23 bis  et au point 23 ter dudit article.</li><li block-type=\"ListItem\">43 Les « services du contrôle de la circulation aérienne » visent, d'une part, à empêcher les abordages  entre aéronefs et les collisions, sur l'aire de manœuvre, entre les aéronefs et des obstacles, ainsi  que, d'autre part, à accélérer et à régulariser la circulation aérienne. Les « services d'information  de vol » assurent la fourniture d'avis et de renseignements utiles à l'exécution sûre et efficace des</li></ul></p>",
+      "page": 158,
+      "polygon": [
+        [
+          24.4453125,
+          137.65020751953125
+        ],
+        [
+          548.57080078125,
+          137.65020751953125
+        ],
+        [
+          548.57080078125,
+          736.3416290283203
+        ],
+        [
+          24.4453125,
+          736.3416290283203
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        137.65020751953125,
+        548.57080078125,
+        736.3416290283203
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/11/Text/9",
+      "block_type": "Text",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/11/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/12/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vols. Les « services d'alerte » consistent à alerter les organismes compétents lorsque des aéronefs  nécessitent une aide en matière de recherche et de sauvetage ainsi qu'à prêter assistance à ces  organismes.</p>",
+      "page": 161,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.569580078125,
+          83.4599609375
+        ],
+        [
+          548.569580078125,
+          123.88739013671875
+        ],
+        [
+          47.7265625,
+          123.88739013671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.569580078125,
+        123.88739013671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/12/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/ListGroup/161",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">44 Il résulte de ce qui précède que les « services de la circulation aérienne », au sens de l'article 2,  point 11, du règlement no 549/2004, revêtent une importance fondamentale pour la gestion du  trafic aérien non seulement pour la sécurité et l'exploitation optimale de l'espace aérien, mais  aussi pour les usagers de cet espace dont les activités dépendent de la bonne exécution de ces  services (voir, en ce sens, arrêt du 2 juin 2022, Skeyes, C-353/20, EU:C:2022:423, point 43).</li><li block-type=\"ListItem\">45 En effet, comme l'a relevé Mme l'avocate générale au point 39 de ses conclusions, la fourniture des  services de navigation aérienne, y compris les services de la circulation aérienne, sert non  seulement l'intérêt général consistant à garantir l'existence d'un ciel unique européen sûr et  efficace, mais également les intérêts et l'activité économique des usagers de l'espace aérien,  notamment les transporteurs aériens.</li><li block-type=\"ListItem\">46 À cet égard, le considérant 7 du règlement no 549/2004 précise que l'espace aérien constitue une  ressource limitée, dont l'utilisation optimale et efficace n'est possible que si les besoins de tous les  usagers sont pris en compte.</li><li block-type=\"ListItem\">47 En deuxième lieu, l'article 8, paragraphes 1, 3 et 4, du règlement no 550/2004 impose à chaque État  membre de désigner un prestataire de services de la circulation aérienne et de définir les droits et  obligations de ce prestataire, lequel doit, comme le prévoit le paragraphe 4 de cet article, satisfaire  aux exigences communes pour la fourniture de services de navigation aérienne énumérées à  l'article 6 de ce règlement et être certifié conformément à l'article 7 dudit règlement.</li><li block-type=\"ListItem\">48 En vertu de cet article 6, ces exigences communes doivent notamment porter sur la compétence et  l'aptitude technique et opérationnelle, la qualité des services ainsi que la responsabilité et la  couverture des risques. En vertu de l'article 7, paragraphes 1 et 3, du même règlement, la  fourniture des services de navigation aérienne dans l'Union est soumise à une certification par les  États membres, laquelle est subordonnée au respect par le prestataire desdites exigences  communes. Aux termes du paragraphe 7 de cet article 7, si une autorité de surveillance nationale  constate que le détenteur d'un certificat ne satisfait plus aux mêmes exigences communes, elle  prend des mesures appropriées tout en assurant la continuité des services.</li><li block-type=\"ListItem\">49 Ainsi que l'énonce le considérant 4 du règlement no 550/2004, les prestataires désignés par les  États membres ont l'obligation de fournir les services de la circulation aérienne de manière à  répondre adéquatement aux besoins des usagers de l'espace aérien et à assurer un  fonctionnement sûr et performant de cette circulation, dans un cadre harmonisé pour la  fourniture des services de navigation aérienne.</li><li block-type=\"ListItem\">50 La Cour a jugé qu'il résulte du considérant 10, de l'article 1er, paragraphe 1, et de l'article 7,  paragraphes 1 et 7, du règlement no 550/2004 que celui-ci a également pour objectif d'assurer la  continuité de la fourniture de tous les services de navigation aérienne dans le ciel unique européen  (arrêt du 2 juin 2022, Skeyes, C-353/20, EU:C:2022:423, point 44), sans laquelle les usagers de  l'espace aérien ne pourraient exercer leurs activités dans des conditions adéquates.</li><li block-type=\"ListItem\">51 Par ailleurs, l'annexe I du règlement d'exécution no 1035/2011, établissant des exigences  communes pour la fourniture de services de navigation aérienne et complétant le cadre  réglementaire harmonisé visant à réaliser le « ciel unique européen », ainsi que cela est rappelé au</li></ul></p>",
+      "page": 161,
+      "polygon": [
+        [
+          24.4453125,
+          136.9072265625
+        ],
+        [
+          548.5740356445312,
+          136.9072265625
+        ],
+        [
+          548.5740356445312,
+          760.2087783813477
+        ],
+        [
+          24.4453125,
+          760.2087783813477
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        136.9072265625,
+        548.5740356445312,
+        760.2087783813477
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/12/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/12/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 161,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6552734375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/12/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          223.49999999999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          223.49999999999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        223.49999999999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">point 40 du présent arrêt, précise que les prestataires de services de navigation aérienne doivent  être capables de fournir ces services d'une manière sûre, efficace, continue et durable, en  répondant à tout niveau raisonnable de demande dans un espace aérien déterminé (point 1 de  cette annexe), doivent définir une politique de qualité pour répondre au mieux aux besoins des  différents utilisateurs [point 3.2, sous a), de ladite annexe] et doivent prendre des dispositions  pour couvrir les risques qu'ils encourent en matière de responsabilité civile dans le cadre des lois  en vigueur (point 7 de la même annexe).</p>",
+      "page": 156,
+      "polygon": [
+        [
+          47.7265625,
+          84.2822265625
+        ],
+        [
+          548.5512084960938,
+          84.2822265625
+        ],
+        [
+          548.5512084960938,
+          176.5552978515625
+        ],
+        [
+          47.7265625,
+          176.5552978515625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        84.2822265625,
+        548.5512084960938,
+        176.5552978515625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/ListGroup/156",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">52 En troisième lieu, les articles 14 à 16 du règlement no 550/2004 régissent la fixation, l'imposition et  la perception des redevances dues par les usagers de l'espace aérien pour les services de navigation  aérienne qui leur sont fournis. En vertu de cet article 14, ce système de tarification doit contribuer,  notamment, à l'efficacité économique de la fourniture des services de navigation aérienne et à  l'efficacité des vols, tout en maintenant un niveau de sécurité optimal.</li><li block-type=\"ListItem\">53 L'article 15, paragraphe 1, de ce règlement prévoit que le système de tarification repose sur la prise  en considération des coûts des services de navigation aérienne supportés par les prestataires au  profit des usagers de l'espace aérien. Le paragraphe 3, sous f), de cet article précise que les  redevances doivent favoriser la fourniture sûre, efficace, effective et durable des services de  navigation aérienne en vue d'atteindre un niveau élevé de sécurité et d'efficacité économique.</li><li block-type=\"ListItem\">54 Il résulte de ce qui précède que les règlements nos 549/2004 et 550/2004 ainsi que le règlement  d'exécution no 1035/2011 exigent que les prestataires de services de la circulation aérienne  répondent adéquatement aux besoins des usagers de l'espace aérien, en garantissant la sûreté, la  continuité, la durabilité, l'effectivité et l'efficacité économique de leurs services, étant entendu  que ces services sont indispensables aux activités de ces usagers, qui en supportent le coût  économique.</li><li block-type=\"ListItem\">55 C'est en ce sens que la Cour a jugé, en substance, dans l'arrêt du 2 juin 2022, Skeyes (C-353/20,  EU:C:2022:423, points 39 et 49), que les dispositions des règlements nos 549/2004 et 550/2004  sont susceptibles de conférer aux usagers de l'espace aérien certains droits que la fermeture de  l'espace aérien pourrait affecter.</li><li block-type=\"ListItem\">56 En l'occurrence, il ressort de la demande de décision préjudicielle que la défaillance du  serveur RSFTA, géré par Austro Control, en tant que prestataire de services de circulation  aérienne désigné par la République d'Autriche, a entraîné une diminution notable des taux  d'atterrissage et de décollage à l'aéroport de Vienne-Schwechat, ainsi que, par suite, l'annulation  de vols opérés par Austrian Airlines, ce qui illustre le rapport de dépendance, souligné au  point 44 du présent arrêt, entre, d'une part, la fourniture de ces services et, d'autre part, la  possibilité pour les usagers de l'espace aérien d'exercer leurs activités.</li><li block-type=\"ListItem\">57 Il appartient au juge national, seul compétent pour constater et apprécier les faits du litige au  principal ainsi que pour interpréter et appliquer le droit national (arrêts du 4 juin 2013, ZZ,  C-300/11, EU:C:2013:363, point 36, et du 29 juillet 2024, protectus, C-185/23, EU:C:2024:657,  point 36), de déterminer si, compte tenu de la réponse de la Cour à la question posée, la  responsabilité de la République d'Autriche est susceptible d'être engagée pour le préjudice  économique subi par Austrian Airlines qui aurait été causé par un éventuel manquement fautif  d'Austro Control.</li></ul></p>",
+      "page": 156,
+      "polygon": [
+        [
+          25.609375,
+          189.5322265625
+        ],
+        [
+          548.5695190429688,
+          189.5322265625
+        ],
+        [
+          548.5695190429688,
+          709.6393280029297
+        ],
+        [
+          25.609375,
+          709.6393280029297
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        189.5322265625,
+        548.5695190429688,
+        709.6393280029297
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/13/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 156,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 102,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">58 Eu égard à l'ensemble des motifs qui précèdent, il y a lieu de répondre à la question posée que  l'article 2, point 4, du règlement no 549/2004 et l'article 8 du règlement no 550/2004, lus en  combinaison avec les dispositions de ce dernier règlement relatives à la fourniture de services de  navigation aérienne et à la tarification de ces services, doivent être interprétés en ce sens que  l'ensemble de ces dispositions visent également à protéger les usagers de l'espace aérien contre  les préjudices économiques causés par un manquement fautif du prestataire de services de la  circulation aérienne aux obligations qui lui incombent en vertu de ces dispositions.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          26.929100036621094,
+          83.87109375
+        ],
+        [
+          548.5396118164062,
+          83.87109375
+        ],
+        [
+          548.5396118164062,
+          176.55560302734375
+        ],
+        [
+          26.929100036621094,
+          176.55560302734375
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        83.87109375,
+        548.5396118164062,
+        176.55560302734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/10/SectionHeader/10",
+        "4": "/page/13/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Sur les dépens</b></h2>",
+      "page": 102,
+      "polygon": [
+        [
+          48.599609375,
+          200.6328125
+        ],
+        [
+          127.17382812499999,
+          200.6328125
+        ],
+        [
+          127.17382812499999,
+          213.915771484375
+        ],
+        [
+          48.599609375,
+          213.915771484375
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        200.6328125,
+        127.17382812499999,
+        213.915771484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">59 La procédure revêtant, à l'égard des parties au principal, le caractère d'un incident soulevé devant  la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour  soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l'objet  d'un remboursement.</p>",
+      "page": 102,
+      "polygon": [
+        [
+          26.929100036621094,
+          228.30120849609375
+        ],
+        [
+          548.5463256835938,
+          228.30120849609375
+        ],
+        [
+          548.5463256835938,
+          280.53021240234375
+        ],
+        [
+          26.929100036621094,
+          280.53021240234375
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        228.30120849609375,
+        548.5463256835938,
+        280.53021240234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Par ces motifs, la Cour (troisième chambre) dit pour droit :</p>",
+      "page": 102,
+      "polygon": [
+        [
+          47.7265625,
+          294.9146728515625
+        ],
+        [
+          349.5715637207031,
+          294.9146728515625
+        ],
+        [
+          349.5715637207031,
+          307.17559814453125
+        ],
+        [
+          47.7265625,
+          307.17559814453125
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        294.9146728515625,
+        349.5715637207031,
+        307.17559814453125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>L'article 2, point 4, du règlement (CE) no 549/2004 du Parlement européen et du Conseil, du </b> <b>10 mars 2004, fixant le cadre pour la réalisation du ciel unique européen </b> <b>(« règlement-cadre »), et l'article 8 du règlement (CE) no 550/2004 du Parlement européen </b> <b>et du Conseil, du 10 mars 2004, relatif à la fourniture de services de navigation aérienne </b> <b>dans le ciel unique européen (« règlement sur la fourniture de services »), tels que modifiés </b> <b>par le règlement (CE) no 1070/2009 du Parlement européen et du Conseil, du </b> <b>21 octobre 2009, lus en combinaison avec les dispositions du règlement no 550/2004, </b> <b>relatives à la fourniture de services de navigation aérienne et à la tarification de ces services,</b></p>",
+      "page": 102,
+      "polygon": [
+        [
+          47.7265625,
+          320.2724609375
+        ],
+        [
+          548.46875,
+          320.2724609375
+        ],
+        [
+          548.46875,
+          427.13885498046875
+        ],
+        [
+          47.7265625,
+          427.13885498046875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        320.2724609375,
+        548.46875,
+        427.13885498046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>doivent être interprétés en ce sens que :</b></h3>",
+      "page": 102,
+      "polygon": [
+        [
+          47.7265625,
+          441.5233459472656
+        ],
+        [
+          263.29156494140625,
+          441.5233459472656
+        ],
+        [
+          263.29156494140625,
+          453.78424072265625
+        ],
+        [
+          47.7265625,
+          453.78424072265625
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        441.5233459472656,
+        263.29156494140625,
+        453.78424072265625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2",
+        "3": "/page/14/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>l'ensemble de ces dispositions visent également à protéger les usagers de l'espace aérien </b> <b>contre les préjudices économiques causés par un manquement fautif du prestataire de </b> <b>services de la circulation aérienne aux obligations qui lui incombent en vertu de ces </b> <b>dispositions.</b></p>",
+      "page": 102,
+      "polygon": [
+        [
+          47.7265625,
+          467.869140625
+        ],
+        [
+          548.4531860351562,
+          467.869140625
+        ],
+        [
+          548.4531860351562,
+          520.397705078125
+        ],
+        [
+          47.7265625,
+          520.397705078125
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        467.869140625,
+        548.4531860351562,
+        520.397705078125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2",
+        "3": "/page/14/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Signatures</p>",
+      "page": 102,
+      "polygon": [
+        [
+          49.181640625,
+          544.7509765625
+        ],
+        [
+          104.474609375,
+          544.7509765625
+        ],
+        [
+          104.474609375,
+          559.2316589355469
+        ],
+        [
+          49.181640625,
+          559.2316589355469
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        544.7509765625,
+        104.474609375,
+        559.2316589355469
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2",
+        "3": "/page/14/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/14/Text/9",
+      "block_type": "Text",
+      "html": "",
+      "page": 102,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          792.5512275695801
+        ],
+        [
+          545.6552734375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.6552734375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1",
+        "2": "/page/14/SectionHeader/2",
+        "3": "/page/14/SectionHeader/6"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "11": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "12": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "13": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "14": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

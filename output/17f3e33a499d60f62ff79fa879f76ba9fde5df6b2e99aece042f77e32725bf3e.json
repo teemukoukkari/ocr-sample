@@ -1,0 +1,966 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 188,
+      "polygon": [
+        [
+          31.4005859375,
+          20.84443359375
+        ],
+        [
+          166.4900390625,
+          20.84443359375
+        ],
+        [
+          166.4900390625,
+          77.82744140625
+        ],
+        [
+          31.4005859375,
+          77.82744140625
+        ]
+      ],
+      "bbox": [
+        31.4005859375,
+        20.84443359375,
+        166.4900390625,
+        77.82744140625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC+AcIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiuL+JXjGPwj4beZHYXkvyQKvJye9AHZsyqMsQBWfqmtWul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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht </b>27. August 2013</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          123.33984375
+        ],
+        [
+          535.6929931640625,
+          123.33984375
+        ],
+        [
+          535.6929931640625,
+          136.49609375
+        ],
+        [
+          69.84375,
+          136.49609375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.33984375,
+        535.6929931640625,
+        136.49609375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>ÖSPV-</b> <b>Keine Anhaltspunkte für Kartellrechtsverstöße im Verkehrsverbund Rhein-Sieg</b></h2>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          175.5537109375
+        ],
+        [
+          521.561767578125,
+          175.5537109375
+        ],
+        [
+          521.561767578125,
+          189.556884765625
+        ],
+        [
+          69.84375,
+          189.556884765625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        175.5537109375,
+        521.561767578125,
+        189.556884765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Öffentlicher Straßenpersonenverkehr</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.91999816894531,
+          204.744140625
+        ],
+        [
+          392.2890625,
+          204.744140625
+        ],
+        [
+          392.2890625,
+          219.9757080078125
+        ],
+        [
+          70.91999816894531,
+          219.9757080078125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        204.744140625,
+        392.2890625,
+        219.9757080078125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B9-192/11</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.26171875,
+          237.739013671875
+        ],
+        [
+          261.84576416015625,
+          237.739013671875
+        ],
+        [
+          261.84576416015625,
+          250.57861328125
+        ],
+        [
+          69.26171875,
+          250.57861328125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        237.739013671875,
+        261.84576416015625,
+        250.57861328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der Entscheidung: 18. Juli 2013</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.90896606445312,
+          267.236328125
+        ],
+        [
+          273.5546875,
+          267.236328125
+        ],
+        [
+          273.5546875,
+          281.30291748046875
+        ],
+        [
+          70.90896606445312,
+          281.30291748046875
+        ]
+      ],
+      "bbox": [
+        70.90896606445312,
+        267.236328125,
+        273.5546875,
+        281.30291748046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Mit Schreiben vom 18. Juli 2013 hat das Bundeskartellamt fünf privaten Verkehrsunternehmen  aus dem Verkehrsverbund Rhein-Sieg<a href=\"#page-0-0\">1</a> (VRS) mitgeteilt, dass es ihrer 2011 eingereichten Beschwerde in keinem der vorgetragenen Punkte nachgehen wird. Das Bundeskartellamt sieht in  den von den Beschwerdeführern beanstandeten Verhaltensweisen keine Anhaltspunkte für  Verstöße gegen das Gesetz gegen Wettbewerbsbeschränkungen (GWB).</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          319.4501953125
+        ],
+        [
+          541.5772705078125,
+          319.4501953125
+        ],
+        [
+          541.5772705078125,
+          406.5416259765625
+        ],
+        [
+          68.6796875,
+          406.5416259765625
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        319.4501953125,
+        541.5772705078125,
+        406.5416259765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerdeführer sind private Verkehrsunternehmen, die im Gebiet des VRS Verkehrsdienstleistungen im Auftrag der Aufgabenträger erbringen und verschiedene Buslinien auf der  Grundlage von Konzessionen nach dem Personenbeförderungsgesetz (PBefG) bedienen. Als  Mitglieder des VRS wenden die Beschwerdeführer genau wie die im VRS vertretenen öffentlichen Verkehrsunternehmen den VRS-Verbundtarif an.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          67.515625,
+          416.4775390625
+        ],
+        [
+          541.6103515625,
+          416.4775390625
+        ],
+        [
+          541.6103515625,
+          502.5565185546875
+        ],
+        [
+          67.515625,
+          502.5565185546875
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        416.4775390625,
+        541.6103515625,
+        502.5565185546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Beschwerde betrifft den sogenannten Aufgabenträgermarkt des öffentlichen Straßenpersonenverkehrs (ÖSPV), auf dem die Aufgabenträger – in der Regel Kommunen oder zum Beispiel von diesen eingesetzten Zweckverbände – Fahrdienstleistungen im Bereich des Bus-, Straßenbahn- und O-Busverkehrs nachfragen. Anbieter auf diesem Markt sind öffentliche und private  Verkehrsunternehmen, die um die Bedienung der ausgeschriebenen Linien konkurrieren  (\"Wettbewerb <i>um</i> den Markt\"). Das Bundeskartellamt grenzt diesen Aufgabenträgermarkt im  ÖSPV regional ab<a href=\"#page-0-1\">2</a> . Die vorliegende Beschwerde betrifft das Gebiet des VRS im südlichen  Nordrhein-Westfalen und im nördlichen Rheinland-Pfalz. Auf den so abgegrenzten Märkten ist  von einer marktbeherrschenden Stellung der jeweiligen Aufgabenträger<a href=\"#page-0-2\">3</a> auf der Nachfrageseite</p>",
+      "page": 188,
+      "polygon": [
+        [
+          67.515625,
+          513.916015625
+        ],
+        [
+          541.5921020507812,
+          513.916015625
+        ],
+        [
+          541.5921020507812,
+          670.5757141113281
+        ],
+        [
+          67.515625,
+          670.5757141113281
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        513.916015625,
+        541.5921020507812,
+        670.5757141113281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/12",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 188,
+      "polygon": [
+        [
+          300.037109375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          300.037109375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        300.037109375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span><sup> 1</sup> Verkehrsverbund Rhein-Sieg GmbH, Köln.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.42578125,
+          677.7701263427734
+        ],
+        [
+          265.5627746582031,
+          677.7701263427734
+        ],
+        [
+          265.5627746582031,
+          701.392578125
+        ],
+        [
+          70.42578125,
+          701.392578125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        677.7701263427734,
+        265.5627746582031,
+        701.392578125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-1\"></span><sup>2</sup> Vgl. hierzu auch Bundesgerichtshof, Beschluss vom 7. Februar 2006, \"DB regio/üstra\", Az. KVR 5/05,  Rn. 30, zitiert nach juris).</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          712.904296875
+        ],
+        [
+          541.265380859375,
+          712.904296875
+        ],
+        [
+          541.265380859375,
+          743.0322494506836
+        ],
+        [
+          68.6796875,
+          743.0322494506836
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        712.904296875,
+        541.265380859375,
+        743.0322494506836
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-2\"></span><sup>3</sup> i.S.d. § 18 Abs. 1 Nr. 1, 2 i.V.m. Abs. 4 GWB</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          757.6622695922852
+        ],
+        [
+          275.8828125,
+          757.6622695922852
+        ],
+        [
+          275.8828125,
+          770.0320053100586
+        ],
+        [
+          68.6796875,
+          770.0320053100586
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        757.6622695922852,
+        275.8828125,
+        770.0320053100586
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">auszugehen. Ferner ist davon auszugehen, dass die öffentlichen Verkehrsunternehmen über  eine marktbeherrschende Stellung<a href=\"#page-1-0\">4</a> auf der Angebotsseite verfügen. Aufgrund dieser marktbeherrschenden Stellungen sind sowohl die Aufgabenträger als auch die öffentlichen Verkehrsunternehmen Adressaten der kartellrechtlichen Missbrauchsvorschriften nach §§ 19, 20 GWB. Soweit sich die beanstandeten Verhaltensweisen der öffentlichen Verkehrsunternehmen und  der Aufgabenträger sowohl in Nordrhein-Westfalen als auch in Rheinland-Pfalz auswirken, ist  eine Zuständigkeit des Bundeskartellamts nach § 48 Abs. 2 GWB gegeben.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          70.91999816894531,
+          124.5732421875
+        ],
+        [
+          541.6104125976562,
+          124.5732421875
+        ],
+        [
+          541.6104125976562,
+          247.06170654296875
+        ],
+        [
+          70.91999816894531,
+          247.06170654296875
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        124.5732421875,
+        541.6104125976562,
+        247.06170654296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">In ihrer Beschwerde haben die privaten Verkehrsunternehmen mehrere Aspekte vorgetragen,  die zur Verschlechterung ihrer wirtschaftlichen Situation geführt haben und in denen sie kartellrechtswidrige Verhaltensweisen der öffentlichen Verkehrsunternehmen im VRS bzw. der für die  Beschwerdeführer zuständigen Aufgabenträger sehen.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          70.91999816894531,
+          258.19140625
+        ],
+        [
+          541.4447021484375,
+          258.19140625
+        ],
+        [
+          541.4447021484375,
+          325.08135986328125
+        ],
+        [
+          70.91999816894531,
+          325.08135986328125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        258.19140625,
+        541.4447021484375,
+        325.08135986328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Ermittlungen des Bundeskartellamts haben zunächst den Vortrag der Beschwerdeführer  bestätigt, wonach eine Vielzahl von Ursachen zur Verschlechterung der wirtschaftlichen Situation der privaten Verkehrsunternehmen beigetragen hat. Zu nennen sind hier unter anderem geringere Zuschüsse für den Ausbildungsverkehr, Anpassungen bei der Einnahmeaufteilung im  VRS infolge einer aktualisierten Fahrgastzählung sowie eine aus Sicht der Beschwerdeführer zu  geringe Erhöhung des VRS-Verbundtarifs. Hinzu kommt, dass einige der Beschwerdeführer  derzeit keine finanziellen Ausgleichsleistungen über die Zuschüsse für den Ausbildungsverkehr  hinaus von den Aufgabenträgern erhalten.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          70.89784240722656,
+          337.951171875
+        ],
+        [
+          541.5772094726562,
+          337.951171875
+        ],
+        [
+          541.5772094726562,
+          475.026611328125
+        ],
+        [
+          70.89784240722656,
+          475.026611328125
+        ]
+      ],
+      "bbox": [
+        70.89784240722656,
+        337.951171875,
+        541.5772094726562,
+        475.026611328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt vermag vorliegend allerdings in keinem der vorgetragenen Vorwürfe ein  Verstoß gegen das GWB zu erkennen:</p>",
+      "page": 154,
+      "polygon": [
+        [
+          68.6796875,
+          487.9875793457031
+        ],
+        [
+          541.5551147460938,
+          487.9875793457031
+        ],
+        [
+          541.5551147460938,
+          517.6162109375
+        ],
+        [
+          68.6796875,
+          517.6162109375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        487.9875793457031,
+        541.5551147460938,
+        517.6162109375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Rückgänge bei der Ausbildungspauschale auf Seiten der Beschwerdeführer sind Änderungen der Gesetzesgrundlage geschuldet. Seit 2011 ist die Ausbildungsverkehrs-Pauschale landesgesetzlich geregelt. In Nordrhein-Westfalen werden die Zuschüsse für den Ausbildungsverkehr sowohl für öffentliche als auch für private Verkehrsunternehmen seitdem an der tatsächlich  von einem Unternehmen beförderten Schülerzahl bemessen. Diesen Maßstab hält das Bundeskartellamt für sachgerecht; eine Ungleichbehandlung von privaten Verkehrsunternehmen ist  nicht zu erkennen.</p>",
+      "page": 154,
+      "polygon": [
+        [
+          68.6796875,
+          522.9609375
+        ],
+        [
+          541.5440063476562,
+          522.9609375
+        ],
+        [
+          541.5440063476562,
+          650.6729888916016
+        ],
+        [
+          68.6796875,
+          650.6729888916016
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        522.9609375,
+        541.5440063476562,
+        650.6729888916016
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Fragen der Einnahmeaufteilung ist das Bundeskartellamt nicht im Einzelnen nachgegangen.  Zum einen ist dieses Thema Gegenstand eines zwischen den Beschwerdeführern und dem  VRS anhängigen Schlichtungsverfahrens vor dem Oberlandesgericht Köln. Zum anderen bedürfen Entscheidungen betreffend die Einnahmeaufteilung der Einstimmigkeit im Entschei-</p>",
+      "page": 154,
+      "polygon": [
+        [
+          70.88674926757812,
+          663.1572265625
+        ],
+        [
+          541.4666137695312,
+          663.1572265625
+        ],
+        [
+          541.4666137695312,
+          732.5014419555664
+        ],
+        [
+          70.88674926757812,
+          732.5014419555664
+        ]
+      ],
+      "bbox": [
+        70.88674926757812,
+        663.1572265625,
+        541.4666137695312,
+        732.5014419555664
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 154,
+      "polygon": [
+        [
+          69.552734375,
+          744.97265625
+        ],
+        [
+          72.462890625,
+          744.97265625
+        ],
+        [
+          72.462890625,
+          754.83984375
+        ],
+        [
+          69.552734375,
+          754.83984375
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        744.97265625,
+        72.462890625,
+        754.83984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 154,
+      "polygon": [
+        [
+          301.783203125,
+          788.1416015625
+        ],
+        [
+          308.185546875,
+          788.1416015625
+        ],
+        [
+          308.185546875,
+          798.3520050048828
+        ],
+        [
+          301.783203125,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        301.783203125,
+        788.1416015625,
+        308.185546875,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/6",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-0\"></span><sup> 4</sup> i.S.d. § <sup>18</sup> Abs. <sup>1</sup> Nr. <sup>3</sup> i.V.m. Abs. 4 GWB</p>",
+      "page": 154,
+      "polygon": [
+        [
+          69.26171875,
+          746.6501312255859
+        ],
+        [
+          264.1285095214844,
+          746.6501312255859
+        ],
+        [
+          264.1285095214844,
+          770.0320053100586
+        ],
+        [
+          69.26171875,
+          770.0320053100586
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        746.6501312255859,
+        264.1285095214844,
+        770.0320053100586
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">dungsgremium des VRS. Somit können solche Entscheidungen nur mit der Zustimmung von  öffentlichen und privaten Verkehrsunternehmen getroffen werden, weshalb keine Anhaltspunkte  für eine kartellrechtswidrige Diskriminierung der Beschwerdeführer durch die öffentlichen Verkehrsunternehmen erkennbar ist.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          70.91999816894531,
+          122.517578125
+        ],
+        [
+          541.48876953125,
+          122.517578125
+        ],
+        [
+          541.48876953125,
+          191.7628173828125
+        ],
+        [
+          70.91999816894531,
+          191.7628173828125
+        ]
+      ],
+      "bbox": [
+        70.91999816894531,
+        122.517578125,
+        541.48876953125,
+        191.7628173828125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die von den Beschwerdeführern als nicht auskömmlich angesehenen Erhöhungen des VRS-Verbundtarifs begründen aus Sicht des Bundeskartellamts ebenfalls keinen Kartellrechtsverstoß. Unter Berücksichtigung der finanziellen Belastungen von zusätzlichen Tariferhöhungen für  die jährlich über 500 Millionen Fahrgäste im VRS-Gebiet ist es als sachlich gerechtfertigt anzusehen, wenn die Tarife nur in einem geringeren Maße ansteigen als dies von den Beschwerdeführern gefordert wird.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          67.515625,
+          205.56640625
+        ],
+        [
+          541.599365234375,
+          205.56640625
+        ],
+        [
+          541.599365234375,
+          311.62408447265625
+        ],
+        [
+          67.515625,
+          311.62408447265625
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        205.56640625,
+        541.599365234375,
+        311.62408447265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Ermittlungen in Bezug auf die vermeintliche Weigerung der Aufgabenträger, den Beschwerdeführern finanzielle Ausgleichsleistungen für die Erbringung von Verkehrsleistungen zu gewähren, haben ergeben, dass die Mehrzahl der Beschwerdeführer die formellen Voraussetzungen  für finanzielle Ausgleichsleistungen über die Ausbildungsverkehr-Pauschale hinaus zurzeit nicht  erfüllen. Die Beschwerdeführer erbringen überwiegend eigenwirtschaftliche Verkehre auf Basis  von § 8 Abs. 4 PBefG, das heißt ihre Liniengenehmigung basiert darauf, dass die Einnahmen  aus ihrer Verkehrsleistung die Kosten decken können. Ausgleichszahlungen können von den  Aufgabenträgern nur dann gewährt werden, wenn die jeweiligen Verkehrsleistungen nicht mehr  eigenwirtschaftlich erbracht werden können (§ 8a Abs. 1 S. 1 PBefG). Nur wenn Verkehrsunternehmen einen Nachweis dafür erbringen, dass ein eigenwirtschaftlicher, kostendeckender Betrieb der Verkehre nicht (mehr) möglich ist, können die Aufgabenträger Ausgleichsleistungen für  gemeinwirtschaftliche Verkehre gewähren. Gemeinwirtschaftliche Verkehre können gleichermaßen von öffentlichen und privaten Verkehrsunternehmen erbracht werden. Details zur Vergabe von gemeinwirtschaftlichen Verkehren sind in der Verordnung (EG) Nr. 1370/2007 bzw. im  PBefG geregelt.</p>",
+      "page": 93,
+      "polygon": [
+        [
+          69.84375,
+          329.728515625
+        ],
+        [
+          541.6105346679688,
+          329.728515625
+        ],
+        [
+          541.6105346679688,
+          592.7134857177734
+        ],
+        [
+          69.84375,
+          592.7134857177734
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        329.728515625,
+        541.6105346679688,
+        592.7134857177734
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/3",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 93,
+      "polygon": [
+        [
+          299.74609375,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          788.1416015625
+        ],
+        [
+          307.4577331542969,
+          798.3520050048828
+        ],
+        [
+          299.74609375,
+          798.3520050048828
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        788.1416015625,
+        307.4577331542969,
+        798.3520050048828
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

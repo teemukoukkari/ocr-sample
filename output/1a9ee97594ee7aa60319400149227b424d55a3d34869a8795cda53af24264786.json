@@ -1,0 +1,672 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h2>EUROPEAN COMMISSION</h2>",
+      "page": 195,
+      "polygon": [
+        [
+          195.5625,
+          55.091796875
+        ],
+        [
+          346.890625,
+          55.091796875
+        ],
+        [
+          346.890625,
+          69.1414794921875
+        ],
+        [
+          195.5625,
+          69.1414794921875
+        ]
+      ],
+      "bbox": [
+        195.5625,
+        55.091796875,
+        346.890625,
+        69.1414794921875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Picture/1",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/1'></p>",
+      "page": 195,
+      "polygon": [
+        [
+          71.0078125,
+          43.908984375
+        ],
+        [
+          195.5625,
+          43.908984375
+        ],
+        [
+          195.5625,
+          109.032421875
+        ],
+        [
+          71.0078125,
+          109.032421875
+        ]
+      ],
+      "bbox": [
+        71.0078125,
+        43.908984375,
+        195.5625,
+        109.032421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {
+        "/page/0/Picture/1": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Brussels, 5.2.2026 C(2026) 845 final</p>",
+      "page": 195,
+      "polygon": [
+        [
+          332.048828125,
+          122.92144775390625
+        ],
+        [
+          423.2200012207031,
+          122.92144775390625
+        ],
+        [
+          423.2200012207031,
+          148.72149658203125
+        ],
+        [
+          332.048828125,
+          148.72149658203125
+        ]
+      ],
+      "bbox": [
+        332.048828125,
+        122.92144775390625,
+        423.2200012207031,
+        148.72149658203125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>PUBLIC VERSION</b></h2>",
+      "page": 195,
+      "polygon": [
+        [
+          388.796875,
+          162.78778076171875
+        ],
+        [
+          510.318115234375,
+          162.78778076171875
+        ],
+        [
+          510.318115234375,
+          176.76776123046875
+        ],
+        [
+          388.796875,
+          176.76776123046875
+        ]
+      ],
+      "bbox": [
+        388.796875,
+        162.78778076171875,
+        510.318115234375,
+        176.76776123046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Terminal Investment Switzerland  Sàrl  12-14 Chemin Rieu 1208 Geneva Switzerland</p>",
+      "page": 195,
+      "polygon": [
+        [
+          334.0859375,
+          190.60150146484375
+        ],
+        [
+          498.1719970703125,
+          190.60150146484375
+        ],
+        [
+          498.1719970703125,
+          257.801513671875
+        ],
+        [
+          334.0859375,
+          257.801513671875
+        ]
+      ],
+      "bbox": [
+        334.0859375,
+        190.60150146484375,
+        498.1719970703125,
+        257.801513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">SOCAR Turkey Enerji A. Ş. Ayazağa Mahallesi Azerbaycan  Cad. Vadistanbul SOCAR Plaza 1D Blok  Apt. No: 3 E/1 Sarıyer/İstanbul Türkiye</p>",
+      "page": 195,
+      "polygon": [
+        [
+          334.5400085449219,
+          273.4014892578125
+        ],
+        [
+          490.13201904296875,
+          273.4014892578125
+        ],
+        [
+          490.13201904296875,
+          369.197265625
+        ],
+        [
+          334.5400085449219,
+          369.197265625
+        ]
+      ],
+      "bbox": [
+        334.5400085449219,
+        273.4014892578125,
+        490.13201904296875,
+        369.197265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Subject:</b> <b>Case M.12206 </b><b>–</b> <b>TIL / STEAS</b> <b>/ SOCAR TERMINAL</b></p>",
+      "page": 195,
+      "polygon": [
+        [
+          76.828125,
+          411.1328125
+        ],
+        [
+          412.078125,
+          411.1328125
+        ],
+        [
+          412.078125,
+          424.2890625
+        ],
+        [
+          76.828125,
+          424.2890625
+        ]
+      ],
+      "bbox": [
+        76.828125,
+        411.1328125,
+        412.078125,
+        424.2890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Commission decision pursuant to Article 6(1)(b) of Council Regulation </b> <b>(EC) No</b> <b>139/2004</b> <b>(</b> <b><a href=\"#page-0-0\">1</a></b> <b>) and Article 57 of the Agreement on the European </b> <b>Economic Area</b> <b>(</b> <b><a href=\"#page-0-1\">2</a></b> <b>)</b></p>",
+      "page": 195,
+      "polygon": [
+        [
+          137.359375,
+          425.5224609375
+        ],
+        [
+          503.2599792480469,
+          425.5224609375
+        ],
+        [
+          503.2599792480469,
+          465.4214782714844
+        ],
+        [
+          137.359375,
+          465.4214782714844
+        ]
+      ],
+      "bbox": [
+        137.359375,
+        425.5224609375,
+        503.2599792480469,
+        465.4214782714844
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dear Sir or Madam,</p>",
+      "page": 195,
+      "polygon": [
+        [
+          77.701171875,
+          503.2214660644531
+        ],
+        [
+          175.39999389648438,
+          503.2214660644531
+        ],
+        [
+          175.39999389648438,
+          515.2214660644531
+        ],
+        [
+          77.701171875,
+          515.2214660644531
+        ]
+      ],
+      "bbox": [
+        77.701171875,
+        503.2214660644531,
+        175.39999389648438,
+        515.2214660644531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(1) On 14 January 2026, the European Commission received notification of a  proposed concentration pursuant to Article 4 of the Merger Regulation, by which Terminal Investment Switzerland Sàrl ('TISS', Switzerland), a wholly owned  subsidiary of Terminal Investment Limited Holding S.A. ('TILH', Luxembourg),  and SOCAR Turkey Enerji A.Ş. ('STEAS', Türkiye), controlled by the State Oil  Company of Azerbaijan Republic ('SOCAR'), acquire, within the meaning of  Article 3(1), point (b) and Article 3(4) of the Merger Regulation, joint control of  SOCAR Aliağa Liman İşletmeciliği A.Ş. ('SOCAR Terminal', Türkiye),  currently controlled by STEAS. The concentration is accomplished by way of purchase of shares. ( <a href=\"#page-0-2\">3</a> )</p>",
+      "page": 195,
+      "polygon": [
+        [
+          77.9921875,
+          541.021484375
+        ],
+        [
+          513.3599853515625,
+          541.021484375
+        ],
+        [
+          513.3599853515625,
+          677.2214508056641
+        ],
+        [
+          77.9921875,
+          677.2214508056641
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        541.021484375,
+        513.3599853515625,
+        677.2214508056641
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span><sup>(</sup> 1 ) OJ L 24, 29.1.2004, p. 1 (the 'Merger Regulation'). With effect from 1 December 2009, the Treaty  on the Functioning of the European Union ('TFEU') has introduced certain changes, such as the  replacement of 'Community' by 'Union' and 'common market' by 'internal market'. The  terminology of the TFEU will be used throughout this decision.</p>",
+      "page": 195,
+      "polygon": [
+        [
+          79.15625,
+          710.6643981933594
+        ],
+        [
+          512.806396484375,
+          710.6643981933594
+        ],
+        [
+          512.806396484375,
+          756.0732421875
+        ],
+        [
+          79.15625,
+          756.0732421875
+        ]
+      ],
+      "bbox": [
+        79.15625,
+        710.6643981933594,
+        512.806396484375,
+        756.0732421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-1\"></span><sup>(</sup> 2 ) OJ L 1, 3.1.1994, p. 3 (the 'EEA Agreement').</p>",
+      "page": 195,
+      "polygon": [
+        [
+          77.9921875,
+          756.624397277832
+        ],
+        [
+          302.0726013183594,
+          756.624397277832
+        ],
+        [
+          302.0726013183594,
+          767.5849609375
+        ],
+        [
+          77.9921875,
+          767.5849609375
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        756.624397277832,
+        302.0726013183594,
+        767.5849609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/12",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-2\"></span><sup>(</sup> 3 ) OJ C, C/2026/509, 22.1.2026.</p>",
+      "page": 195,
+      "polygon": [
+        [
+          78.57421875,
+          768.1443939208984
+        ],
+        [
+          235.72265624999997,
+          768.1443939208984
+        ],
+        [
+          235.72265624999997,
+          778.7951278686523
+        ],
+        [
+          78.57421875,
+          778.7951278686523
+        ]
+      ],
+      "bbox": [
+        78.57421875,
+        768.1443939208984,
+        235.72265624999997,
+        778.7951278686523
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/128",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(2) The business activities of the undertakings concerned are the following: <ul><li block-type=\"ListItem\" class=\"list-indent-1\"> TILH is the holding company of TIL Group, which invests in, develops and  manages a portfolio of container terminal businesses around the world. TIL  Group provides container terminal services around the world, often in joint  ventures with other terminal operators.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\"> SOCAR is involved in exploring oil and gas fields, producing, processing,  and transporting oil, gas, and gas condensate, marketing petroleum and  petrochemical products in domestic and international markets, and  supplying natural gas to industry and the public in Azerbaijan.</li></ul></li><li block-type=\"ListItem\">(3) SOCAR Terminal provides container terminal services in the Aliağa region of  İzmir/Türkiye.</li><li block-type=\"ListItem\">(4) After examination of the notification, the European Commission has concluded  that the notified operation falls within the scope of the Merger Regulation and of  paragraph 5(a) of the Commission Notice on a simplified treatment for certain  concentrations under Council Regulation (EC) No 139/2004. ( <a href=\"#page-1-0\">4</a> )</li><li block-type=\"ListItem\">(5) For the reasons set out in the Notice on a simplified treatment, the European  Commission has decided not to oppose the notified operation and to declare it  compatible with the internal market and with the EEA Agreement. This decision  is adopted in application of Article 6(1)(b) of the Merger Regulation and  Article 57 of the EEA Agreement.</li></ul></p>",
+      "page": 129,
+      "polygon": [
+        [
+          77.9921875,
+          52.625
+        ],
+        [
+          513.3515625,
+          52.625
+        ],
+        [
+          513.3515625,
+          356.8614807128906
+        ],
+        [
+          77.9921875,
+          356.8614807128906
+        ]
+      ],
+      "bbox": [
+        77.9921875,
+        52.625,
+        513.3515625,
+        356.8614807128906
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>For the Commission</i></p>",
+      "page": 129,
+      "polygon": [
+        [
+          332.048828125,
+          394.6614685058594
+        ],
+        [
+          432.5559997558594,
+          394.6614685058594
+        ],
+        [
+          432.5559997558594,
+          406.6614685058594
+        ],
+        [
+          332.048828125,
+          406.6614685058594
+        ]
+      ],
+      "bbox": [
+        332.048828125,
+        394.6614685058594,
+        432.5559997558594,
+        406.6614685058594
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>(Signed)</i> Linsey MCCALLUM <i>Director-General (acting)</i> <i>Directorate-General for </i> <i>Competition</i></p>",
+      "page": 129,
+      "polygon": [
+        [
+          334.5400085449219,
+          436.0814514160156
+        ],
+        [
+          461.25976562499994,
+          436.0814514160156
+        ],
+        [
+          461.25976562499994,
+          503.2265625
+        ],
+        [
+          334.5400085449219,
+          503.2265625
+        ]
+      ],
+      "bbox": [
+        334.5400085449219,
+        436.0814514160156,
+        461.25976562499994,
+        503.2265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2</p>",
+      "page": 129,
+      "polygon": [
+        [
+          292.1796875,
+          778.2744140625
+        ],
+        [
+          296.8359375,
+          778.2744140625
+        ],
+        [
+          296.8359375,
+          787.9970703125
+        ],
+        [
+          292.1796875,
+          787.9970703125
+        ]
+      ],
+      "bbox": [
+        292.1796875,
+        778.2744140625,
+        296.8359375,
+        787.9970703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-1-0\"></span><sup>(</sup> 4 ) OJ C 160, 5.5.2023, p. 1 (the 'Notice on a simplified treatment').</p>",
+      "page": 129,
+      "polygon": [
+        [
+          78.57421875,
+          761.8291015625
+        ],
+        [
+          375.60931396484375,
+          761.8291015625
+        ],
+        [
+          375.60931396484375,
+          772.7951278686523
+        ],
+        [
+          78.57421875,
+          772.7951278686523
+        ]
+      ],
+      "bbox": [
+        78.57421875,
+        761.8291015625,
+        375.60931396484375,
+        772.7951278686523
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

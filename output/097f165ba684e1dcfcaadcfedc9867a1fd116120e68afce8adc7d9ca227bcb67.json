@@ -1,0 +1,1600 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 129,
+      "polygon": [
+        [
+          48.250390624999994,
+          61.62880859375
+        ],
+        [
+          228.79648437499998,
+          61.62880859375
+        ],
+        [
+          228.79648437499998,
+          125.84775390625
+        ],
+        [
+          48.250390624999994,
+          125.84775390625
+        ]
+      ],
+      "bbox": [
+        48.250390624999994,
+        61.62880859375,
+        228.79648437499998,
+        125.84775390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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y2otp/s0YljP3gQoGCe5rQEMMU0lwI0WWQAO4ABYDpk+2TXP33jG2F09hokLaxqI4MVsf3cR/wCmknRR+Z9qANTXdbttB083Nxl3YhIYE5eaQ/dRR3JNUPDWj3NsbjVtVKvrF+QZsciFB92JfZc/iSTTdI8OzrqA1nXLhb3VcER7VxFaqf4Y1P6seT+ldIOlABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAAelZWr+HNJ1xV/tGxhmdPuS4w6f7rDkfnWrRQByg8KapYc6N4mvYVHSG9QXUf05w3/j1L9r8a2PE+l6XqaD+O1uGgf/AL5cEf8Aj1dVSYoA5YeOLW1ONZ03UtKx1eeAvGP+BpkD8a6Cx1Kx1O2W4sLuG6hbpJC4cfmKs4z1rntR8GaTd3DXlsj6dfn/AJe7I+U+f9rHDfiDQB0OaWuQGuap4ZdYfEgW408nCavAm0L6ecn8P+8OPpW5qevado+mi+u7hRC2BHs+Yyk9FQDliewFAGlmsjV/FGiaGypqGpQQyt92Hdukb6IOT+VY6WviDxSPMvZpdD0tvu2sJ/0mUerv/APZefetrSPDWj6GCdPsIYpG+/NjdI59Wc8n86AMoeLb+9/5BHhnUblT0lusWyH/AL7+b9KXy/G9+Pmn0fSIz/zzR7qQfidi/oa6nFLQByg8DwXh3a3qmoaqe8c0uyI/9s0wCPrmuisbC1022W2sraK3gT7scSBVH4CrNFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAySJJY2jkUOjAhlYZBB7Gud0rwTpGkamb2BZX8vP2WGV90dqD94RD+HP/wBbpXS0UAJgUtFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//9k="
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Eesti Raudtee AS Toompuiestee 35 15073, Tallinn</p>",
+      "page": 129,
+      "polygon": [
+        [
+          70.134765625,
+          164.6610107421875
+        ],
+        [
+          156.8358154296875,
+          164.6610107421875
+        ],
+        [
+          156.8358154296875,
+          204.3330078125
+        ],
+        [
+          70.134765625,
+          204.3330078125
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        164.6610107421875,
+        156.8358154296875,
+        204.3330078125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">30.11.2021 nr 5-5/2021-069</p>",
+      "page": 129,
+      "polygon": [
+        [
+          311.8799743652344,
+          206.06097412109375
+        ],
+        [
+          487.81280517578125,
+          206.06097412109375
+        ],
+        [
+          487.81280517578125,
+          218.0614013671875
+        ],
+        [
+          311.8799743652344,
+          218.0614013671875
+        ]
+      ],
+      "bbox": [
+        311.8799743652344,
+        206.06097412109375,
+        487.81280517578125,
+        218.0614013671875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Saadetud digitaalselt aadressile raudtee@evr.ee</p>",
+      "page": 129,
+      "polygon": [
+        [
+          70.42578125,
+          242.8336181640625
+        ],
+        [
+          285.038330078125,
+          242.8336181640625
+        ],
+        [
+          285.038330078125,
+          253.87408447265625
+        ],
+        [
+          70.42578125,
+          253.87408447265625
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        242.8336181640625,
+        285.038330078125,
+        253.87408447265625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2>Teade järelevalvemenetluse lõpetamisest</h2>",
+      "page": 129,
+      "polygon": [
+        [
+          69.26171875,
+          292.3154296875
+        ],
+        [
+          282.6547546386719,
+          292.3154296875
+        ],
+        [
+          282.6547546386719,
+          304.701416015625
+        ],
+        [
+          69.26171875,
+          304.701416015625
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        292.3154296875,
+        282.6547546386719,
+        304.701416015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h2>1. AS E.R.S kaebus</h2>",
+      "page": 129,
+      "polygon": [
+        [
+          88.46875,
+          334.1009826660156
+        ],
+        [
+          193.42703247070312,
+          334.1009826660156
+        ],
+        [
+          193.42703247070312,
+          346.1014404296875
+        ],
+        [
+          88.46875,
+          346.1014404296875
+        ]
+      ],
+      "bbox": [
+        88.46875,
+        334.1009826660156,
+        193.42703247070312,
+        346.1014404296875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS E.R.S (edaspidi ERS) pöördus kirjaga<sup>1</sup>  Konkurentsiameti poole, paludes seisukohta AS  Eesti Raudtee (edaspidi Eesti Raudtee) poolt piiriteenuste (s.o. kaubarongide tehnilise ja  kommertsalase üleandmise ja vastuvõtmise toimingute teostamine Eesti  raudteeadministratsiooni nimel) ja veduriteenuste (s.o. Petseri-Koidule lõigul kaubarongide  toomine ja viimine Venemaa territooriumilt Eesti territooriumile ja tagasi) osutaja leidmise viisi  suhtes. Konkurentsiamet alustas järelevalvemenetlust nr 5-1/19-0008 eesmärgiga selgitada, kas  AS Eesti Raudtee (edaspidi Eesti Raudtee) tegevus vastab konkurentsiseaduse nõuetele.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          69.84375,
+          360.3283996582031
+        ],
+        [
+          528.5053100585938,
+          360.3283996582031
+        ],
+        [
+          528.5053100585938,
+          456.50146484375
+        ],
+        [
+          69.84375,
+          456.50146484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        360.3283996582031,
+        528.5053100585938,
+        456.50146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kaebuse kohaselt on Eesti Raudtee olulist vahendit kontrolliv ettevõtja, millest tulenevalt on  neil kohustus tagada ligipääs mõistlikel ja mittediskrimineerivatel tingimustel olulise vahendi  kasutamisele. Hanke korraldamine sulgeb ligipääsu teistele ettevõtjatele piiriteenuse turul  osalemiseks. Puudub mõistlik põhjus, miks ei võiks erinevad (nõuetele vastavad) ettevõtjad  pakkuda piiriteenust riigihankest sõltumata. Parim lahendus piiriteenuse osutamiseks on  kaubaturu maksimaalne võimalik avamine konkurentsile. Igal kaubaveoga tegeleval ettevõtjal  võiks olla võimalus antud teenust osutada iseenda rongidele.</p>",
+      "page": 129,
+      "polygon": [
+        [
+          69.84375,
+          472.1009826660156
+        ],
+        [
+          528.4708251953125,
+          472.1009826660156
+        ],
+        [
+          528.4708251953125,
+          566.9521484375
+        ],
+        [
+          69.84375,
+          566.9521484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        472.1009826660156,
+        528.4708251953125,
+        566.9521484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2>2. Asjaolud ja menetluse käik</h2>",
+      "page": 129,
+      "polygon": [
+        [
+          87.595703125,
+          582.5010070800781
+        ],
+        [
+          241.085693359375,
+          582.5010070800781
+        ],
+        [
+          241.085693359375,
+          594.50146484375
+        ],
+        [
+          87.595703125,
+          594.50146484375
+        ]
+      ],
+      "bbox": [
+        87.595703125,
+        582.5010070800781,
+        241.085693359375,
+        594.50146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiameti eesmärk oli järelevalvemenetluse jooksul kontrollida, kas Eesti Raudtee  tegevus piiriteenuste kontsessiooni andmisel vastab konkurentsiseaduse nõuetele. Menetluse  jooksul toimus piiriteenuste reguleerimine järgnevalt:</p>",
+      "page": 129,
+      "polygon": [
+        [
+          69.84375,
+          608.8876953125
+        ],
+        [
+          528.4793701171875,
+          608.8876953125
+        ],
+        [
+          528.4793701171875,
+          649.701416015625
+        ],
+        [
+          69.84375,
+          649.701416015625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        608.8876953125,
+        528.4793701171875,
+        649.701416015625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1) Eesti Raudtee kuulutas 27.02.2019 välja riigihanke piiriteenuste kontsessiooni  leidmiseks. Vastavalt hanke kirjeldusele oli hanke eesmärgiks Eesti Raudtee poolt  piiriteenuste kontsessiooni andmine, mille sisuks on kontsessionääri õigus ja kohustus  osutada Narva, Koidula, Petseri ning Valga piirijaamades piiriteenust ning kohustus  osutada järjepidevalt katkematut, õigeaegset ja tõrgeteta piiriteenust piirijaamades  kõikidele seda soovivatele kolmandatele isikutele neid diskrimineerimata koos õigusega</p>",
+      "page": 129,
+      "polygon": [
+        [
+          88.80000305175781,
+          650.0009765625
+        ],
+        [
+          528.4443969726562,
+          650.0009765625
+        ],
+        [
+          528.4443969726562,
+          732.50146484375
+        ],
+        [
+          88.80000305175781,
+          732.50146484375
+        ]
+      ],
+      "bbox": [
+        88.80000305175781,
+        650.0009765625,
+        528.4443969726562,
+        732.50146484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 129,
+      "polygon": [
+        [
+          69.552734375,
+          744.97265625
+        ],
+        [
+          74.80015563964844,
+          744.97265625
+        ],
+        [
+          74.80015563964844,
+          758.9014282226562
+        ],
+        [
+          69.552734375,
+          758.9014282226562
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        744.97265625,
+        74.80015563964844,
+        758.9014282226562
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/13",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 129,
+      "polygon": [
+        [
+          69.84375,
+          794.7197265625
+        ],
+        [
+          429.913818359375,
+          794.7197265625
+        ],
+        [
+          429.913818359375,
+          805.4232864379883
+        ],
+        [
+          69.84375,
+          805.4232864379883
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        794.7197265625,
+        429.913818359375,
+        805.4232864379883
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/11",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> 23.10.2018 esitatud kaebus</p>",
+      "page": 129,
+      "polygon": [
+        [
+          68.970703125,
+          758.5400390625
+        ],
+        [
+          190.50111389160156,
+          758.5400390625
+        ],
+        [
+          190.50111389160156,
+          770.6278991699219
+        ],
+        [
+          68.970703125,
+          770.6278991699219
+        ]
+      ],
+      "bbox": [
+        68.970703125,
+        758.5400390625,
+        190.50111389160156,
+        770.6278991699219
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/188",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">saada sellistelt isikutelt piiriteenuse osutamise eest tasu.<sup>2</sup>  27.02.2019 välja kuulutatud  hankel piiriteenuse osutajat ei leitud, kuna hankele ei esitatud ühtki tingimustele  vastavat pakkumist.</li><li block-type=\"ListItem\">2) Eesti Raudtee avaldas 09.04.2019 välja kuulutamiseta läbirääkimistega hankemenetluse  teate Piiriteenuste kontsessiooni andmine II. Eesti Raudtee saatis välja neli kutset  piiriteenuse osutaja leidmiseks. (09.04.2019 saadetud pakkumuse esitamise ettepanek  AS Operailile; 09.04.2019 saadetud pakkumuse esitamise ettepanek AS E.R.S'ile;  11.04.2019 saadetud pakkumuse esitamise ettepanek AS GoRailile; 12.04.2019  saadetud pakkumuse esitamise ettepanek OÜ RVTestile). 30.04.2019 sõlmis Eesti  Raudtee väljakuulutamiseta läbirääkimistega hankemenetluse Piiriteenuste  kontsessiooni andmine II tulemusena kaks piiriteenuste osutamise lepingut:  <ul><li block-type=\"ListItem\" class=\"list-indent-1\">o 1. AS-ga Operail osas I summas 2 072 239,65 EUR ja osas II 714 716.- EUR.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">o 2. Ühispakkujatega AS RVTest ja AS GoRail osas I summas 1 458 414.- EUR  ja osas II 471 797,87 EUR.</li></ul></li><li block-type=\"ListItem\">3) Hankelepingute tähtaeg oli 12.12.2020. Hankelepingute tingimused võimaldasid  hankijal pikendada lepingute tähtaega ühe aasta võrra. Antud võimalust Eesti Raudtee  kasutas ning hankelepingute lõpptähtaeg tulenevalt sellest on 12.12.2021.</li></ul></p>",
+      "page": 188,
+      "polygon": [
+        [
+          86.140625,
+          71.0084228515625
+        ],
+        [
+          528.46533203125,
+          71.0084228515625
+        ],
+        [
+          528.46533203125,
+          305.4716796875
+        ],
+        [
+          86.140625,
+          305.4716796875
+        ]
+      ],
+      "bbox": [
+        86.140625,
+        71.0084228515625,
+        528.46533203125,
+        305.4716796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet on menetluse raames küsinud kõigilt võimalikelt piiriteenust osutavatelt  ettevõtjatelt, millise parima võimaliku viisina näevad nemad piiriteenuste osutamise korraldust.  Kõik ettevõtjad olid seisukohal, et soovivad ise oma rongidele piiriteenuseid osutada<sup>3</sup> .  Piiriteenuse sisuks on rongide tehniline ja kommertsalane vastuvõtmine ja üleandmine, sh  tehniline ja kommertsülevaatus, puuduste kõrvaldamine, dokumentide vormistamine,  andmetöötlus. Kõik ettevõtjad olid seisukohal, et saavad antud teenuste osutamisega ise  hakkama.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          320.68359375
+        ],
+        [
+          528.4088745117188,
+          320.68359375
+        ],
+        [
+          528.4088745117188,
+          415.5814514160156
+        ],
+        [
+          69.84375,
+          415.5814514160156
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        320.68359375,
+        528.4088745117188,
+        415.5814514160156
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet saatis 01.02.2019 selgitustaotluse Rahandusministeeriumile teada saamaks,  kas Eesti Raudtee on kohustatud piiriteenuse osutaja leidmiseks läbi viima riigihanke.  Rahandusministeeriumi seisukoha järgi on Eesti Raudteel kaks alternatiivi - ehitada tehing üles  kontsessioonilepingu või hankelepinguna või alternatiivselt sõlmida kõigi nõuetele vastavate  ettevõtjatega käsunduslepingud.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          430.044921875
+        ],
+        [
+          528.453369140625,
+          430.044921875
+        ],
+        [
+          528.453369140625,
+          498.3814697265625
+        ],
+        [
+          69.84375,
+          498.3814697265625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        430.044921875,
+        528.453369140625,
+        498.3814697265625
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet saatis Eesti Raudteele 19.06.2020 esialgse seisukoha ja ettekirjutuse hoiatuse,  mille kohaselt Konkurentsiameti esialgsel hinnangul AS Eesti Raudtee poolt 27.02.2019 välja  kuulutatud riigihange piiriteenuste kontsessiooni leidmiseks on KonkS §18 lg 1 vastuolus ja  võimalik on ettekirjutuse tegemine, mille kohaselt on Eesti Raudteel keelatud pärast 12.12.2020  piiriteenuse osutamise reguleerimine hankemenetluse raames. KonkS § 18 lg 1 eesmärgiks  kaitsta olulisele vahendile ligipääsul vaba konkurentsi ehk asetada turuosalised vaba  konkurentsiga võimalikult sarnasesse olukorda. See tähendab, et AS Eesti Raudtee peab  raudteeinfrastruktuurile ligipääsu korraldades langetama konkurentsiolukorda võimalikult vähe  piiravaid valikuid ning konkurentsi piirama üksnes juhul, kui selleks on selged ja ülekaalukad  põhjused.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          68.6796875,
+          513.9809875488281
+        ],
+        [
+          528.4575805664062,
+          513.9809875488281
+        ],
+        [
+          528.4575805664062,
+          650.181396484375
+        ],
+        [
+          68.6796875,
+          650.181396484375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        513.9809875488281,
+        528.4575805664062,
+        650.181396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet leidis, et piiriteenuste teenuse osutaja leidmine läbi hankemenetluse, millega  sulgetakse kaubaturg lepingus fikseeritud perioodiks<sup>4</sup> teistele ettevõtjatele on turgu piirav</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          665.7809753417969
+        ],
+        [
+          528.4533081054688,
+          665.7809753417969
+        ],
+        [
+          528.4533081054688,
+          693.5810546875
+        ],
+        [
+          69.84375,
+          693.5810546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        665.7809753417969,
+        528.4533081054688,
+        693.5810546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.80000305175781,
+          698.7809753417969
+        ],
+        [
+          74.80015563964844,
+          698.7809753417969
+        ],
+        [
+          74.80015563964844,
+          710.7814331054688
+        ],
+        [
+          70.80000305175781,
+          710.7814331054688
+        ]
+      ],
+      "bbox": [
+        70.80000305175781,
+        698.7809753417969,
+        74.80015563964844,
+        710.7814331054688
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Operail esindajate Raul Toomsalu ja Paul Priit Lukka selgitused 13.11.2019</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.80000305175781,
+          735.10546875
+        ],
+        [
+          387.144287109375,
+          735.10546875
+        ],
+        [
+          387.144287109375,
+          746.2679138183594
+        ],
+        [
+          70.80000305175781,
+          746.2679138183594
+        ]
+      ],
+      "bbox": [
+        70.80000305175781,
+        735.10546875,
+        387.144287109375,
+        746.2679138183594
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS GoRail esindaja Alar Pinsel selgitused 27.09.2019</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.42578125,
+          748.5475234985352
+        ],
+        [
+          284.642333984375,
+          748.5475234985352
+        ],
+        [
+          284.642333984375,
+          758.5079040527344
+        ],
+        [
+          70.42578125,
+          758.5079040527344
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        748.5475234985352,
+        284.642333984375,
+        758.5079040527344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/14",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 188,
+      "polygon": [
+        [
+          505.1999816894531,
+          794.7197265625
+        ],
+        [
+          527.7736206054688,
+          794.7197265625
+        ],
+        [
+          527.7736206054688,
+          805.4232864379883
+        ],
+        [
+          505.1999816894531,
+          805.4232864379883
+        ]
+      ],
+      "bbox": [
+        505.1999816894531,
+        794.7197265625,
+        527.7736206054688,
+        805.4232864379883
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>2</sup> https://riigihanked.riik.ee/rhr-web/#/procurement/1555100/general-info</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.26171875,
+          711.5041046142578
+        ],
+        [
+          364.07537841796875,
+          711.5041046142578
+        ],
+        [
+          364.07537841796875,
+          722.1433181762695
+        ],
+        [
+          69.26171875,
+          722.1433181762695
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        711.5041046142578,
+        364.07537841796875,
+        722.1433181762695
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/10",
+      "block_type": "Footnote",
+      "html": "<p><sup>3</sup> AS E.R.S. esindaja Erik Seim selgitused 07.06.2019.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          69.84375,
+          722.3603515625
+        ],
+        [
+          283.3153076171875,
+          722.3603515625
+        ],
+        [
+          283.3153076171875,
+          734.0278625488281
+        ],
+        [
+          69.84375,
+          734.0278625488281
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        722.3603515625,
+        283.3153076171875,
+        734.0278625488281
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Footnote/13",
+      "block_type": "Footnote",
+      "html": "<p><sup>4</sup> Piiriteenuse osutamise lepingute punkti 6.1 kohaselt kehtib piiriteenuse osutamise leping kuni 12.12.2020.</p>",
+      "page": 188,
+      "polygon": [
+        [
+          70.80000305175781,
+          759.9031829833984
+        ],
+        [
+          510.704345703125,
+          759.9031829833984
+        ],
+        [
+          510.704345703125,
+          770.8740234375
+        ],
+        [
+          70.80000305175781,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        70.80000305175781,
+        759.9031829833984,
+        510.704345703125,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">võrreldes vaba konkurentsi olukorraga, kus kõigil ettevõtjatel on AS Eesti Raudtee poolt  ettenähtud tingimuste täitmisel, õigus teenust ise osutada. Tulenevalt KonkS § 18 lg 1'st peavad  sellistel piirangutel olema selged ja ülekaalukad põhjused. Konkurentsiseaduse eesmärgid on  suurema ulatusega täidetud, kui ettevõtjal on võimalik turule siseneda ja turult väljuda  võimalikult paindlikult. Riigihanke tulemusel on teenuse osutajate arv piiratud. Lisaks toob  piiriteenuse osutajate ringi piiramine kaasa olukorra, kus vedajal võib olla vajadus osta  piiriteenuseid oma konkurendilt. Uue turgu valitseva ettevõtja tekitamine olukorras, kus  kaubaturul võiks põhimõtteliselt toimida ka vaba konkurents, ei ole Konkurentsiameti  hinnangul lubatav, välja arvatud erandlikud ja selgelt põhjendatud olukorrad. Eesti Raudtee  esialgse seisukoha järgi piiriteenuse osutamine loamenetluse kaudu takistaks sujuvat  raudteeühendust ja piiraks juurdepääsu Eesti Raudtee infrastruktuurile. Konkurentsiamet ei  pidanud antud põhjendusi veenvateks ning esitas omapoolsed põhjendused Eesti Raudteele  ettekirjutuse hoiatuses.<sup>5</sup></p>",
+      "page": 166,
+      "polygon": [
+        [
+          69.84375,
+          71.537109375
+        ],
+        [
+          528.49951171875,
+          71.537109375
+        ],
+        [
+          528.49951171875,
+          249.9814453125
+        ],
+        [
+          69.84375,
+          249.9814453125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.537109375,
+        528.49951171875,
+        249.9814453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Peale ettekirjutuse hoiatuse esitamist toimusid Konkurentsiameti ja AS-i Eesti Raudtee vahel  läbirääkimised, millisel viisil täpsemalt tuleks piiriteenuste osutamist tulevikus korraldada. AS  Eesti Raudtee uut hanget enam ei korraldanud, kuid pikendas siiski 12.12.2020 lõppema  pidanud piiriteenuse osutamise kontsessiooni tähtaega aasta võrra, sest läbirääkimised ei olnud  veel konkreetse lahenduseni jõudnud kuid samaaegselt pidi olema tagatud piiriteenuste  osutamine.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          264.76953125
+        ],
+        [
+          528.4710083007812,
+          264.76953125
+        ],
+        [
+          528.4710083007812,
+          346.5814208984375
+        ],
+        [
+          68.6796875,
+          346.5814208984375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        264.76953125,
+        528.4710083007812,
+        346.5814208984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">AS Eesti Raudtee pakkus Konkurentsiametile välja lahenduse, mille kohaselt reguleeritakse  piiriteenuseid edaspidi läbi iga-aastase liiklusgraafikuperioodi võrgustikuteadaande ning iga  vedaja kohustab piiriteenuse osutamise tingimuste reguleerimiseks sõlmima vastava lepingu.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          362.1809997558594
+        ],
+        [
+          528.4650268554688,
+          362.1809997558594
+        ],
+        [
+          528.4650268554688,
+          401.78143310546875
+        ],
+        [
+          68.6796875,
+          401.78143310546875
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        362.1809997558594,
+        528.4650268554688,
+        401.78143310546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">2021/2022 liiklusgraafikuperioodi võrgustikuteadaande<sup>6</sup>  järgi on piiriteenuste osutamine  edaspidi reguleeritud järgnevalt:</p>",
+      "page": 166,
+      "polygon": [
+        [
+          69.84375,
+          416.0084533691406
+        ],
+        [
+          528.4468994140625,
+          416.0084533691406
+        ],
+        [
+          528.4468994140625,
+          443.6123046875
+        ],
+        [
+          69.84375,
+          443.6123046875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        416.0084533691406,
+        528.4468994140625,
+        443.6123046875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/166",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1.4.1.9 Kui raudteeveo-ettevõtja soovib kasutada raudteeinfrastruktuuri veoteenuste  osutamiseks rahvusvahelises ühenduses, siis ta kohustub:</li><li block-type=\"ListItem\">1.4.1.9.1 tegema rongide tehnilise ja kommertsalase vastuvõtmise ning üleandmise  piirijaamades, juhindudes kõikidest asjassepuutuvatest Eesti Vabariigis, Venemaa  Föderatsioonis ja Läti Vabariigis kehtivatest piiritoimingute nõuetest, sh Eesti Raudtee ja OAO  RŽD vahel 22. mail 2009 sõlmitud lepingust nr 380 ja 09.02.2010 sõlmitud lepingust nr 77 ning  Eesti Raudtee ja AS Latvijas Dzelzcelš vahel 02. detsembril 2008 sõlmitud kokkuleppest  \"Raudteevedude korraldamisest\", et tagada Eesti Vabariigi ja Venemaa Föderatsiooni  territooriumil raudtee piirijaamades (Narva, Koidula, Valga, Petseri) kehtivatele piiril  piiritoimingute tegemise nõuetele ja tingimustele vastavus, sõlmides selleks Eesti Raudteega  teadaande lisa 9 kohase lepingu.</li><li block-type=\"ListItem\">1.4.1.9.2 omama koolitatud (väljaõppe saanud) ja vajadusel ettenähtud korras Eesti  Raudtee, kui Eesti raudteeadministratsiooni poolt atesteeritud töötajaid, et täita  Raudteetranspordi Nõukogu kokkulepetest ja nõuetest tulenevalt õigeaegselt piiri- ja  sihtjaamades ööpäevaringselt kõiki vajalikke rongi- ning kaubaveotöö korraldamisega seotud  toiminguid;</li><li block-type=\"ListItem\">1.4.1.9.3 tagama oma infosüsteemi ja andmevahetuse koostalitluse Eesti Raudtee  vastavate süsteemidega ning kooskõlas raudteesüsteemide koostalitluse kohaldamise korra ja  erikokkulepetega ning sõlmima Eesti Raudteega liikluskorralduse infosüsteemi (VJS)  kasutamise lepingu;</li></ul></p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          458.001953125
+        ],
+        [
+          528.5095825195312,
+          458.001953125
+        ],
+        [
+          528.5095825195312,
+          733.8720703125
+        ],
+        [
+          68.6796875,
+          733.8720703125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        458.001953125,
+        528.5095825195312,
+        733.8720703125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 166,
+      "polygon": [
+        [
+          69.26171875,
+          734.6609878540039
+        ],
+        [
+          74.80015563964844,
+          734.6609878540039
+        ],
+        [
+          74.80015563964844,
+          746.6614379882812
+        ],
+        [
+          69.26171875,
+          746.6614379882812
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        734.6609878540039,
+        74.80015563964844,
+        746.6614379882812
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 166,
+      "polygon": [
+        [
+          505.1999816894531,
+          794.7197265625
+        ],
+        [
+          527.7736206054688,
+          794.7197265625
+        ],
+        [
+          527.7736206054688,
+          805.4232864379883
+        ],
+        [
+          505.1999816894531,
+          805.4232864379883
+        ]
+      ],
+      "bbox": [
+        505.1999816894531,
+        794.7197265625,
+        527.7736206054688,
+        805.4232864379883
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>5</sup> Konkurentsiameti esialgne seisukoht ja ettekirjutuse hoiatus AS-ile Eesti Raudtee 19.06.2020, lk 15,16.</p>",
+      "page": 166,
+      "polygon": [
+        [
+          70.80000305175781,
+          747.7831268310547
+        ],
+        [
+          494.433349609375,
+          747.7831268310547
+        ],
+        [
+          494.433349609375,
+          758.5079040527344
+        ],
+        [
+          70.80000305175781,
+          758.5079040527344
+        ]
+      ],
+      "bbox": [
+        70.80000305175781,
+        747.7831268310547,
+        494.433349609375,
+        758.5079040527344
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Footnote/9",
+      "block_type": "Footnote",
+      "html": "<p><sup>6</sup> https://www.evr.ee/files/Protokoll-2021-609-RVT-.pdf</p>",
+      "page": 166,
+      "polygon": [
+        [
+          68.6796875,
+          759.9031829833984
+        ],
+        [
+          300.548095703125,
+          759.9031829833984
+        ],
+        [
+          300.548095703125,
+          770.8740234375
+        ],
+        [
+          68.6796875,
+          770.8740234375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        759.9031829833984,
+        300.548095703125,
+        770.8740234375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">1.4.1.9.4 Raudteetranspordi Nõukogu otsustest tulenevate rongi ja kaubavagunite  statistiliste ja muude andmete kogumiseks tagama õigeaegse ja tõrgeteta rongi ning vagunite  töö korraldamise, toimingute ja andmete sisestamise teiste riikide raudteeadministratsioonide  infosüsteemidega ühenduses olevasse Eesti Raudtee infosüsteemi VJS Kliendiportaali kaudu.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          69.84375,
+          71.9482421875
+        ],
+        [
+          528.465087890625,
+          71.9482421875
+        ],
+        [
+          528.465087890625,
+          125.78143310546875
+        ],
+        [
+          69.84375,
+          125.78143310546875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        71.9482421875,
+        528.465087890625,
+        125.78143310546875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Konkurentsiamet soovis AS Eesti Raudtee käest selgitust selle kohta, kas antud regulatsiooni  kohaselt on võimalik vedajal lisaks teenuse ise osutamisele ka piiriteenuseid teise ettevõtja  käest osta. Vastavalt AS Eesti Raudtee 29.10.2021 vastusele lähtub Eesti Raudtee põhimõttest,  et iga vedaja tegeleb oma rongiga ise ja omab selleks vajalikke töövahendeid ning  kvalifitseeritud tööjõudu. Ilma Eesti Raudtee eelneva nõusolekuta ei ole lubatud toimingute  tegemist üle anda (lepingu p 8.9). Seega eeldame, et kõik vajalikud toimingud teeb vedaja ise.  Eelnevalt kooskõlastades on vedajal võimalik tellida seda teenust mõne muu isiku käest, kuid  Eesti Raudtee ees jääb toimingute nõuetekohase teostamise eest vastutavaks vedaja.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          69.84375,
+          141.38104248046875
+        ],
+        [
+          528.470947265625,
+          141.38104248046875
+        ],
+        [
+          528.470947265625,
+          249.9814453125
+        ],
+        [
+          69.84375,
+          249.9814453125
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        141.38104248046875,
+        528.470947265625,
+        249.9814453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h2>3. Menetluse lõpetamine</h2>",
+      "page": 97,
+      "polygon": [
+        [
+          88.177734375,
+          265.58099365234375
+        ],
+        [
+          217.08477783203125,
+          265.58099365234375
+        ],
+        [
+          217.08477783203125,
+          278.3369140625
+        ],
+        [
+          88.177734375,
+          278.3369140625
+        ]
+      ],
+      "bbox": [
+        88.177734375,
+        265.58099365234375,
+        217.08477783203125,
+        278.3369140625
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kuna AS Eesti Raudtee on menetluse tulemusel piiriteenuste osutamise korraldust muutnud  võimaldades kõigil soovijatel piiriteenuse osutamise leping sõlmida ning sellega  konkurentsiolukorda parandanud, tuleb menetlus selles osas konkurentsiolukorra olulise  parandamise tõttu lõpetada KonkS § 63<sup>4</sup>  lg 1 p 3 alusel. Konkurentsiamet analüüsis käesolevas  menetluses piiriteenuse osutaja leidmise protsessi vastavust konkurentsiõigusele ja käesoleva  otsusega ei kujundanud seisukohta teatises sätestatud piiriteenuse korralduslike üksikasjade  kohta.</p>",
+      "page": 97,
+      "polygon": [
+        [
+          68.6796875,
+          293.1376953125
+        ],
+        [
+          528.4970092773438,
+          293.1376953125
+        ],
+        [
+          528.4970092773438,
+          387.9814453125
+        ],
+        [
+          68.6796875,
+          387.9814453125
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        293.1376953125,
+        528.4970092773438,
+        387.9814453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Lugupidamisega</p>",
+      "page": 97,
+      "polygon": [
+        [
+          70.134765625,
+          417.3810119628906
+        ],
+        [
+          154.8012237548828,
+          417.3810119628906
+        ],
+        [
+          154.8012237548828,
+          429.6337890625
+        ],
+        [
+          70.134765625,
+          429.6337890625
+        ]
+      ],
+      "bbox": [
+        70.134765625,
+        417.3810119628906,
+        154.8012237548828,
+        429.6337890625
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">/allkirjastatud digitaalselt/</p>",
+      "page": 97,
+      "polygon": [
+        [
+          70.42578125,
+          444.79364013671875
+        ],
+        [
+          192.0609588623047,
+          444.79364013671875
+        ],
+        [
+          192.0609588623047,
+          455.8341064453125
+        ],
+        [
+          70.42578125,
+          455.8341064453125
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        444.79364013671875,
+        192.0609588623047,
+        455.8341064453125
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Kristel Rõõmusaar  konkurentsiteenistuse juhataja – peadirektori asetäitja</p>",
+      "page": 97,
+      "polygon": [
+        [
+          68.6796875,
+          470.7470703125
+        ],
+        [
+          332.1436462402344,
+          470.7470703125
+        ],
+        [
+          332.1436462402344,
+          497.3014221191406
+        ],
+        [
+          68.6796875,
+          497.3014221191406
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        470.7470703125,
+        332.1436462402344,
+        497.3014221191406
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Elen Jalak  667 2442  elen.jalak@konkurentsiamet.ee</p>",
+      "page": 97,
+      "polygon": [
+        [
+          69.552734375,
+          564.07421875
+        ],
+        [
+          212.0401153564453,
+          564.07421875
+        ],
+        [
+          212.0401153564453,
+          603.0740966796875
+        ],
+        [
+          69.552734375,
+          603.0740966796875
+        ]
+      ],
+      "bbox": [
+        69.552734375,
+        564.07421875,
+        212.0401153564453,
+        603.0740966796875
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 97,
+      "polygon": [
+        [
+          504.62109374999994,
+          794.30859375
+        ],
+        [
+          527.7736206054688,
+          794.30859375
+        ],
+        [
+          527.7736206054688,
+          805.4232864379883
+        ],
+        [
+          504.62109374999994,
+          805.4232864379883
+        ]
+      ],
+      "bbox": [
+        504.62109374999994,
+        794.30859375,
+        527.7736206054688,
+        805.4232864379883
+      ],
+      "section_hierarchy": {
+        "2": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

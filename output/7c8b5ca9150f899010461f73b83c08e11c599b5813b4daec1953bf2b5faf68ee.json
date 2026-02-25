@@ -1,0 +1,364 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 370,
+      "polygon": [
+        [
+          522.373046875,
+          39.0576171875
+        ],
+        [
+          554.6741333007812,
+          39.0576171875
+        ],
+        [
+          554.6741333007812,
+          59.9388427734375
+        ],
+        [
+          522.373046875,
+          59.9388427734375
+        ]
+      ],
+      "bbox": [
+        522.373046875,
+        39.0576171875,
+        554.6741333007812,
+        59.9388427734375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageHeader/1",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 370,
+      "polygon": [
+        [
+          41.32421875,
+          34.1240234375
+        ],
+        [
+          176.35546875,
+          34.1240234375
+        ],
+        [
+          176.35546875,
+          61.2587890625
+        ],
+        [
+          41.32421875,
+          61.2587890625
+        ]
+      ],
+      "bbox": [
+        41.32421875,
+        34.1240234375,
+        176.35546875,
+        61.2587890625
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">C/2026/519 13.2.2026</p>",
+      "page": 370,
+      "polygon": [
+        [
+          265.8329772949219,
+          69.0703125
+        ],
+        [
+          552.7522583007812,
+          69.0703125
+        ],
+        [
+          552.7522583007812,
+          82.503173828125
+        ],
+        [
+          265.8329772949219,
+          82.503173828125
+        ]
+      ],
+      "bbox": [
+        265.8329772949219,
+        69.0703125,
+        552.7522583007812,
+        82.503173828125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 370,
+      "polygon": [
+        [
+          514.515625,
+          68.248046875
+        ],
+        [
+          551.765625,
+          68.248046875
+        ],
+        [
+          551.765625,
+          76.470703125
+        ],
+        [
+          514.515625,
+          76.470703125
+        ]
+      ],
+      "bbox": [
+        514.515625,
+        68.248046875,
+        551.765625,
+        76.470703125
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Euro exchange rates</b> <a href=\"#page-0-0\">(</a> 1 ) <b>12 February 2026 </b></h2>",
+      "page": 370,
+      "polygon": [
+        [
+          252.0,
+          96.6162109375
+        ],
+        [
+          343.2854309082031,
+          96.6162109375
+        ],
+        [
+          343.2854309082031,
+          123.77484130859375
+        ],
+        [
+          252.0,
+          123.77484130859375
+        ]
+      ],
+      "bbox": [
+        252.0,
+        96.6162109375,
+        343.2854309082031,
+        123.77484130859375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">(C/2026/519)</p>",
+      "page": 370,
+      "polygon": [
+        [
+          271.517578125,
+          135.673828125
+        ],
+        [
+          323.58526611328125,
+          135.673828125
+        ],
+        [
+          323.58526611328125,
+          146.1688232421875
+        ],
+        [
+          271.517578125,
+          146.1688232421875
+        ]
+      ],
+      "bbox": [
+        271.517578125,
+        135.673828125,
+        323.58526611328125,
+        146.1688232421875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/TableGroup/272",
+      "block_type": "TableGroup",
+      "html": "<p><span id=\"page-0-1\"></span><b>1 euro =</b></p><table><tbody><tr><th></th><th>Currency</th><th>Exchange rate</th><th></th><th>Currency</th><th>Exchange rate</th></tr><tr><td>USD</td><td>US dollar</td><td>1,1874</td><td>CAD</td><td>Canadian dollar</td><td>1,6128</td></tr><tr><td>JPY</td><td>Japanese yen</td><td>182,52</td><td>HKD</td><td>Hong Kong dollar</td><td>9,2815</td></tr><tr><td>DKK</td><td>Danish krone</td><td>7,4712</td><td>NZD</td><td>New Zealand dollar</td><td>1,9588</td></tr><tr><td>GBP</td><td>Pound sterling</td><td>0,87110</td><td>SGD</td><td>Singapore dollar</td><td>1,4984</td></tr><tr><td>SEK</td><td>Swedish krona</td><td>10,5670</td><td>KRW</td><td>South Korean won</td><td>1 707,82</td></tr><tr><td>CHF</td><td>Swiss franc</td><td>0,9142</td><td>ZAR</td><td>South African rand</td><td>18,8740</td></tr><tr><td>ISK</td><td>Iceland króna</td><td>145,20</td><td>CNY</td><td>Chinese yuan renminbi</td><td>8,1944</td></tr><tr><td>NOK</td><td>Norwegian krone</td><td>11,2535</td><td>IDR</td><td>Indonesian rupiah</td><td>19 983,94</td></tr><tr><td>BGN</td><td>Bulgarian lev</td><td></td><td>MYR</td><td>Malaysian ringgit</td><td>4,6338</td></tr><tr><td>CZK</td><td>Czech koruna</td><td>24,245</td><td>PHP</td><td>Philippine peso</td><td>68,894</td></tr><tr><td>HUF</td><td>Hungarian forint</td><td>379,88</td><td>RUB</td><td>Russian rouble</td><td></td></tr><tr><td>PLN</td><td>Polish zloty</td><td>4,2158</td><td>THB</td><td>Thai baht</td><td>36,809</td></tr><tr><td>RON</td><td>Romanian leu</td><td>5,0928</td><td>BRL</td><td>Brazilian real</td><td>6,1461</td></tr><tr><td>TRY</td><td>Turkish lira</td><td>51,8294</td><td>MXN</td><td>Mexican peso</td><td>20,3934</td></tr><tr><td>AUD</td><td>Australian dollar</td><td>1,6678</td><td>INR</td><td>Indian rupee</td><td>107,5650</td></tr></tbody></table>",
+      "page": 370,
+      "polygon": [
+        [
+          66.3515625,
+          155.8193359375
+        ],
+        [
+          527.3203125,
+          155.8193359375
+        ],
+        [
+          527.3203125,
+          469.513671875
+        ],
+        [
+          66.3515625,
+          469.513671875
+        ]
+      ],
+      "bbox": [
+        66.3515625,
+        155.8193359375,
+        527.3203125,
+        469.513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 370,
+      "polygon": [
+        [
+          42.48828125,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          811.1650390625
+        ],
+        [
+          552.7653198242188,
+          821.8918743133545
+        ],
+        [
+          42.48828125,
+          821.8918743133545
+        ]
+      ],
+      "bbox": [
+        42.48828125,
+        811.1650390625,
+        552.7653198242188,
+        821.8918743133545
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 370,
+      "polygon": [
+        [
+          541.2890625,
+          811.1650390625
+        ],
+        [
+          552.9296875,
+          811.1650390625
+        ],
+        [
+          552.9296875,
+          820.2099609375
+        ],
+        [
+          541.2890625,
+          820.2099609375
+        ]
+      ],
+      "bbox": [
+        541.2890625,
+        811.1650390625,
+        552.9296875,
+        820.2099609375
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><span id=\"page-0-0\"></span><sup>(</sup> <a href=\"#page-0-1\">) </a><i>Source</i>: reference exchange rate published by the ECB.</p>",
+      "page": 370,
+      "polygon": [
+        [
+          67.515625,
+          784.8525390625
+        ],
+        [
+          256.5111389160156,
+          784.8525390625
+        ],
+        [
+          256.5111389160156,
+          794.5261535644531
+        ],
+        [
+          67.515625,
+          794.5261535644531
+        ]
+      ],
+      "bbox": [
+        67.515625,
+        784.8525390625,
+        256.5111389160156,
+        794.5261535644531
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/4"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

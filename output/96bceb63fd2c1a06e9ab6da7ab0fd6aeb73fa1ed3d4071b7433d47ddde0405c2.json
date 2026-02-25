@@ -1,0 +1,3244 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          40.0146484375,
+          30.38271484375
+        ],
+        [
+          113.64160156249999,
+          30.38271484375
+        ],
+        [
+          113.64160156249999,
+          112.69150390625
+        ],
+        [
+          40.0146484375,
+          112.69150390625
+        ]
+      ],
+      "bbox": [
+        40.0146484375,
+        30.38271484375,
+        113.64160156249999,
+        112.69150390625
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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/pQA26+JujvM9nosN3rd+vHkWMLMAf8AacgAD3ryX4iP4z1PVLe88S6G1vpULfu4UkLQpnqXdMnJ7njjpiu98RfCFW1BtY8J6hJo+oZLbFciNieTgjlfpyPascfEjxT4TJsPG+gNcQfcN1CoAcf+gNx24oAqQfDrU9X0qCfRbfwbFDujmWWCSaZ9ynO0u27g9CO9T/2/rng/4gy+I/GGhGC2ubZbFZ7ABokG4MCe5Py9yDgcA4xVjS9O+G/jG/LaHfX2kahOCWgtZGgbPXgYK/gvFdRbfCLw+sscmo3Gp6rszhb67LL+QxQB0ltB4c8U2kWpx2un6jFKMpK8KSex6jIPGPwq3aaFpNhN51npllbSf3obdEP5gVZtLK1sLdLezt4reBBhY4lCqo9gOKnoAMUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSbR6ClooAMYooooAKZJDFNG0csaOjDDKygg/UU+igCjp2i6ZpPmDTtPtbQSHc/kQqm4++BV6iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q=="
+      }
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1>Recueil de la jurisprudence</h1>",
+      "page": 119,
+      "polygon": [
+        [
+          199.0546875,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          83.4599609375
+        ],
+        [
+          395.7702941894531,
+          101.12255859375
+        ],
+        [
+          199.0546875,
+          101.12255859375
+        ]
+      ],
+      "bbox": [
+        199.0546875,
+        83.4599609375,
+        395.7702941894531,
+        101.12255859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1>ARRÊT DE LA COUR (quatrième chambre)</h1>",
+      "page": 119,
+      "polygon": [
+        [
+          183.921875,
+          153.763671875
+        ],
+        [
+          410.1986389160156,
+          153.763671875
+        ],
+        [
+          410.1986389160156,
+          167.48516845703125
+        ],
+        [
+          183.921875,
+          167.48516845703125
+        ]
+      ],
+      "bbox": [
+        183.921875,
+        153.763671875,
+        410.1986389160156,
+        167.48516845703125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">12 février 2026<a href=\"#page-0-0\">*</a></p>",
+      "page": 119,
+      "polygon": [
+        [
+          255.80273437499997,
+          183.7763671875
+        ],
+        [
+          338.57659912109375,
+          183.7763671875
+        ],
+        [
+          338.57659912109375,
+          197.81494140625
+        ],
+        [
+          255.80273437499997,
+          197.81494140625
+        ]
+      ],
+      "bbox": [
+        255.80273437499997,
+        183.7763671875,
+        338.57659912109375,
+        197.81494140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><span id=\"page-0-1\"></span>« Renvoi préjudiciel – Assurance obligatoire de la responsabilité civile résultant de la circulation  de véhicules automoteurs – Directive 2009/103/CE – Article 12, paragraphe 1 – Obligation de  couverture par une assurance de la responsabilité civile des dommages corporels de tous les  passagers autres que le conducteur résultant de la circulation d'un véhicule – Portée –  Accident de la circulation impliquant un véhicule unique – Dommages subis par le conducteur  du véhicule en raison de l'intervention d'un passager dans la conduite de ce véhicule »</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          220.7783203125
+        ],
+        [
+          548.5333862304688,
+          220.7783203125
+        ],
+        [
+          548.5333862304688,
+          301.22216796875
+        ],
+        [
+          48.890625,
+          301.22216796875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        220.7783203125,
+        548.5333862304688,
+        301.22216796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dans l'affaire C-490/24,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          313.6943359375
+        ],
+        [
+          170.4208221435547,
+          313.6943359375
+        ],
+        [
+          170.4208221435547,
+          327.8675537109375
+        ],
+        [
+          48.890625,
+          327.8675537109375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        313.6943359375,
+        170.4208221435547,
+        327.8675537109375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant pour objet une demande de décision préjudicielle au titre de l'article 267 TFUE, introduite  par le Hoge Raad der Nederlanden (Cour suprême des Pays-Bas), par décision du 5 juillet 2024,  parvenue à la Cour le 12 juillet 2024, dans la procédure</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          342.2520446777344
+        ],
+        [
+          548.5236206054688,
+          342.2520446777344
+        ],
+        [
+          548.5236206054688,
+          381.2159423828125
+        ],
+        [
+          48.890625,
+          381.2159423828125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        342.2520446777344,
+        548.5236206054688,
+        381.2159423828125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Stichting Koskea, </b>agissant en qualité d'administrateur de ED,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          395.6004333496094
+        ],
+        [
+          365.86322021484375,
+          395.6004333496094
+        ],
+        [
+          365.86322021484375,
+          407.861328125
+        ],
+        [
+          48.890625,
+          407.861328125
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        395.6004333496094,
+        365.86322021484375,
+        407.861328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">contre</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.30859375,
+          422.2458190917969
+        ],
+        [
+          82.76028442382812,
+          422.2458190917969
+        ],
+        [
+          82.76028442382812,
+          434.5067138671875
+        ],
+        [
+          48.30859375,
+          434.5067138671875
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        422.2458190917969,
+        82.76028442382812,
+        434.5067138671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Nationale Nederlanden Schadeverzekering Maatschappij NV, </b>exerçant sous la dénomination  commerciale de Reaal Schadeverzekering NV<b>,</b></p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.7265625,
+          447.3125
+        ],
+        [
+          548.5481567382812,
+          447.3125
+        ],
+        [
+          548.5481567382812,
+          474.4747619628906
+        ],
+        [
+          47.7265625,
+          474.4747619628906
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        447.3125,
+        548.5481567382812,
+        474.4747619628906
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/10",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">LA COUR (quatrième chambre),</p>",
+      "page": 119,
+      "polygon": [
+        [
+          213.0234375,
+          487.66876220703125
+        ],
+        [
+          381.1329040527344,
+          487.66876220703125
+        ],
+        [
+          381.1329040527344,
+          499.9296569824219
+        ],
+        [
+          213.0234375,
+          499.9296569824219
+        ]
+      ],
+      "bbox": [
+        213.0234375,
+        487.66876220703125,
+        381.1329040527344,
+        499.9296569824219
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">composée de M. I. Jarukaitis (rapporteur), président de chambre, M. C. Lycourgos, président de  chambre, faisant fonction de juge de la quatrième chambre, MM. M. Condinanzi, N. Jääskinen et  Mme R. Frendo, juges,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.7265625,
+          513.5048828125
+        ],
+        [
+          548.546875,
+          513.5048828125
+        ],
+        [
+          548.546875,
+          553.2241821289062
+        ],
+        [
+          47.7265625,
+          553.2241821289062
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        513.5048828125,
+        548.546875,
+        553.2241821289062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">avocat général : M. A. Biondi,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          567.6086730957031
+        ],
+        [
+          199.74037170410156,
+          567.6086730957031
+        ],
+        [
+          199.74037170410156,
+          579.8695678710938
+        ],
+        [
+          48.890625,
+          579.8695678710938
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        567.6086730957031,
+        199.74037170410156,
+        579.8695678710938
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/13",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">greffier : Mme A. Lamote, administratrice,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          47.14453125,
+          594.0869140625
+        ],
+        [
+          258.0097351074219,
+          594.0869140625
+        ],
+        [
+          258.0097351074219,
+          606.5151519775391
+        ],
+        [
+          47.14453125,
+          606.5151519775391
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        594.0869140625,
+        258.0097351074219,
+        606.5151519775391
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/14",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">vu la procédure écrite et à la suite de l'audience du 12 juin 2025,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          620.3994140625
+        ],
+        [
+          374.8843078613281,
+          620.3994140625
+        ],
+        [
+          374.8843078613281,
+          633.1605377197266
+        ],
+        [
+          48.890625,
+          633.1605377197266
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        620.3994140625,
+        374.8843078613281,
+        633.1605377197266
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/15",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">considérant les observations présentées :</p>",
+      "page": 119,
+      "polygon": [
+        [
+          49.47265625,
+          647.5450134277344
+        ],
+        [
+          256.4256286621094,
+          647.5450134277344
+        ],
+        [
+          256.4256286621094,
+          659.8059234619141
+        ],
+        [
+          49.47265625,
+          659.8059234619141
+        ]
+      ],
+      "bbox": [
+        49.47265625,
+        647.5450134277344,
+        256.4256286621094,
+        659.8059234619141
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/16",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">– pour Nationale Nederlanden Schadeverzekering Maatschappij NV, exerçant sous la  dénomination commerciale de Reaal Schadeverzekering NV, par Mes D. M. de Knijff et  M. S. van der Keur, advocaten,</p>",
+      "page": 119,
+      "polygon": [
+        [
+          48.890625,
+          674.2468109130859
+        ],
+        [
+          548.548583984375,
+          674.2468109130859
+        ],
+        [
+          548.548583984375,
+          713.1548461914062
+        ],
+        [
+          48.890625,
+          713.1548461914062
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        674.2468109130859,
+        548.548583984375,
+        713.1548461914062
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PictureGroup/117",
+      "block_type": "PictureGroup",
+      "html": "<span id=\"page-0-0\"></span><p><a href=\"#page-0-1\"><sup>* </sup>L</a>angue de procédure : le néerlandais.</p><p><img src='/page/0/Picture/18'></p>",
+      "page": 119,
+      "polygon": [
+        [
+          13.183007812499998,
+          748.6728515625
+        ],
+        [
+          188.84864807128906,
+          748.6728515625
+        ],
+        [
+          188.84864807128906,
+          799.077734375
+        ],
+        [
+          13.183007812499998,
+          799.077734375
+        ]
+      ],
+      "bbox": [
+        13.183007812499998,
+        748.6728515625,
+        188.84864807128906,
+        799.077734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {
+        "/page/0/Picture/18": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/19",
+      "block_type": "Text",
+      "html": "",
+      "page": 119,
+      "polygon": [
+        [
+          72.171875,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          790.1134223937988
+        ],
+        [
+          545.6888427734375,
+          800.7750244140625
+        ],
+        [
+          72.171875,
+          800.7750244140625
+        ]
+      ],
+      "bbox": [
+        72.171875,
+        790.1134223937988,
+        545.6888427734375,
+        800.7750244140625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          222.62695312499997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.62695312499997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.62695312499997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/138",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\"> pour le gouvernement néerlandais, par Mmes M. K. Bulterman et A. Hanje, en qualité d'agents,</li><li block-type=\"ListItem\"> pour la Commission européenne, par Mmes G. Goddin, A. Manzaneque Valverde et  M. P. Vanden Heede, en qualité d'agents,</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          48.890625,
+          83.4599609375
+        ],
+        [
+          548.5480346679688,
+          83.4599609375
+        ],
+        [
+          548.5480346679688,
+          136.5877685546875
+        ],
+        [
+          48.890625,
+          136.5877685546875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        83.4599609375,
+        548.5480346679688,
+        136.5877685546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">ayant entendu l'avocat général en ses conclusions à l'audience du 25 septembre 2025,</p>",
+      "page": 141,
+      "polygon": [
+        [
+          48.890625,
+          150.8857421875
+        ],
+        [
+          481.97747802734375,
+          150.8857421875
+        ],
+        [
+          481.97747802734375,
+          163.233154296875
+        ],
+        [
+          48.890625,
+          163.233154296875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        150.8857421875,
+        481.97747802734375,
+        163.233154296875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">rend le présent</p>",
+      "page": 141,
+      "polygon": [
+        [
+          49.181640625,
+          177.609375
+        ],
+        [
+          126.59179687499999,
+          177.609375
+        ],
+        [
+          126.59179687499999,
+          189.8785400390625
+        ],
+        [
+          49.181640625,
+          189.8785400390625
+        ]
+      ],
+      "bbox": [
+        49.181640625,
+        177.609375,
+        126.59179687499999,
+        189.8785400390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "4": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Arrêt</b></h1>",
+      "page": 141,
+      "polygon": [
+        [
+          281.412109375,
+          214.2001953125
+        ],
+        [
+          312.38592529296875,
+          214.2001953125
+        ],
+        [
+          312.38592529296875,
+          227.23870849609375
+        ],
+        [
+          281.412109375,
+          227.23870849609375
+        ]
+      ],
+      "bbox": [
+        281.412109375,
+        214.2001953125,
+        312.38592529296875,
+        227.23870849609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/139",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1 La demande de décision préjudicielle porte sur l'interprétation de l'article 12, paragraphe 1, de la  directive 2009/103/CE du Parlement européen et du Conseil, du 16 septembre 2009, concernant  l'assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le  contrôle de l'obligation d'assurer cette responsabilité (JO 2009, L 263, p. 11).</li><li block-type=\"ListItem\">2 Cette demande a été présentée dans le cadre d'un litige opposant Stichting Koskea, une fondation  agissant en tant qu'administrateur de ED, à Nationale Nederlanden Schadeverzekering  Maatschappij NV (ci-après « Nationale Nederlanden »), exerçant sous la dénomination  commerciale de Reaal Schadeverzekering NV, au sujet de l'étendue de la couverture devant être  fournie par l'assurance obligatoire de la responsabilité civile résultant de la circulation de  véhicules automoteurs.</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          25.609375,
+          240.923828125
+        ],
+        [
+          548.5524291992188,
+          240.923828125
+        ],
+        [
+          548.5524291992188,
+          387.16900634765625
+        ],
+        [
+          25.609375,
+          387.16900634765625
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        240.923828125,
+        548.5524291992188,
+        387.16900634765625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Le cadre juridique</b></h2>",
+      "page": 141,
+      "polygon": [
+        [
+          48.30859375,
+          411.955078125
+        ],
+        [
+          148.5602264404297,
+          411.955078125
+        ],
+        [
+          148.5602264404297,
+          424.4727783203125
+        ],
+        [
+          48.30859375,
+          424.4727783203125
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        411.955078125,
+        148.5602264404297,
+        424.4727783203125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/9",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Le droit de l'Union</i></h3>",
+      "page": 141,
+      "polygon": [
+        [
+          47.14453125,
+          448.4379577636719
+        ],
+        [
+          151.91015625,
+          448.4379577636719
+        ],
+        [
+          151.91015625,
+          460.6988525390625
+        ],
+        [
+          47.14453125,
+          460.6988525390625
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        448.4379577636719,
+        151.91015625,
+        460.6988525390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/140",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3 Les considérants 21 et 23 de la directive 2009/103 énoncent : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« (21) Il convient d'accorder aux membres de la famille du preneur, du conducteur ou de toute  autre personne responsable une protection comparable à celle des autres tiers victimes,  en tout cas en ce qui concerne leurs dommages corporels.</li></ul></li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          26.7734375,
+          475.08624267578125
+        ],
+        [
+          548.5339965820312,
+          475.08624267578125
+        ],
+        [
+          548.5339965820312,
+          540.6943054199219
+        ],
+        [
+          26.7734375,
+          540.6943054199219
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        475.08624267578125,
+        548.5339965820312,
+        540.6943054199219
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/12",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 141,
+      "polygon": [
+        [
+          48.599609375,
+          555.0787963867188
+        ],
+        [
+          65.98676300048828,
+          555.0787963867188
+        ],
+        [
+          65.98676300048828,
+          567.3396911621094
+        ],
+        [
+          48.599609375,
+          567.3396911621094
+        ]
+      ],
+      "bbox": [
+        48.599609375,
+        555.0787963867188,
+        65.98676300048828,
+        567.3396911621094
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/141",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">(23) L'extension de la couverture d'assurance à tous les passagers d'un véhicule est un résultat  remarquable de la législation existante. Cet objectif serait compromis si la législation  nationale ou une clause contractuelle contenue dans une police d'assurance venait à  exclure de cette couverture le passager qui savait ou aurait dû savoir que le conducteur du  véhicule était sous l'influence de l'alcool ou d'une drogue au moment de l'accident. [...] Le  fait que ces passagers soient couverts par l'assurance automobile obligatoire ne préjuge en  rien la responsabilité qui pourrait leur être imputée en vertu de la législation nationale  applicable ni le niveau d'indemnisation des dommages subis lors d'un accident déterminé. »</li><li block-type=\"ListItem\">4 L'article 1er, point 1, de cette directive définit la notion de « véhicule » comme « tout véhicule  automoteur destiné à circuler sur le sol et qui peut être actionné par une force mécanique, sans  être lié à une voie ferrée, ainsi que les remorques, même non attelées ».</li></ul></p>",
+      "page": 141,
+      "polygon": [
+        [
+          26.7734375,
+          581.7241821289062
+        ],
+        [
+          548.5477905273438,
+          581.7241821289062
+        ],
+        [
+          548.5477905273438,
+          740.5935287475586
+        ],
+        [
+          26.7734375,
+          740.5935287475586
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        581.7241821289062,
+        548.5477905273438,
+        740.5935287475586
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/15",
+      "block_type": "Text",
+      "html": "",
+      "page": 141,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          545.687255859375,
+          791.4306640625
+        ],
+        [
+          545.687255859375,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        545.687255859375,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">5 L'article 3 de ladite directive, intitulé « Obligation d'assurance des véhicules », dispose : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« Chaque État membre prend toutes les mesures appropriées, sous réserve de l'application de  l'article 5, pour que la responsabilité civile relative à la circulation des véhicules ayant leur  stationnement habituel sur son territoire soit couverte par une assurance.</li></ul></li></ul></p>",
+      "page": 152,
+      "polygon": [
+        [
+          24.4453125,
+          83.87109375
+        ],
+        [
+          548.3922119140625,
+          83.87109375
+        ],
+        [
+          548.3922119140625,
+          145.686767578125
+        ],
+        [
+          24.4453125,
+          145.686767578125
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        83.87109375,
+        548.3922119140625,
+        145.686767578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Les dommages couverts ainsi que les modalités de cette assurance sont déterminés dans le cadre des  mesures visées au premier alinéa.</p>",
+      "page": 152,
+      "polygon": [
+        [
+          47.7265625,
+          156.23046875
+        ],
+        [
+          548.4038696289062,
+          156.23046875
+        ],
+        [
+          548.4038696289062,
+          181.91339111328125
+        ],
+        [
+          47.7265625,
+          181.91339111328125
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        156.23046875,
+        548.4038696289062,
+        181.91339111328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 152,
+      "polygon": [
+        [
+          48.30859375,
+          193.146484375
+        ],
+        [
+          65.2748031616211,
+          193.146484375
+        ],
+        [
+          65.2748031616211,
+          204.87445068359375
+        ],
+        [
+          48.30859375,
+          204.87445068359375
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        193.146484375,
+        65.2748031616211,
+        204.87445068359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">L'assurance visée au premier alinéa couvre obligatoirement les dommages matériels et les dommages  corporels. »</p>",
+      "page": 152,
+      "polygon": [
+        [
+          48.890625,
+          214.611328125
+        ],
+        [
+          548.3804931640625,
+          214.611328125
+        ],
+        [
+          548.3804931640625,
+          241.10107421875
+        ],
+        [
+          48.890625,
+          241.10107421875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        214.611328125,
+        548.3804931640625,
+        241.10107421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/151",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">6 L'article 5 de la même directive offre aux États membres, sous certaines conditions, la faculté de  déroger aux dispositions de l'article 3 de celle-ci en ce qui concerne certaines personnes  physiques ou morales, publiques ou privées.</li><li block-type=\"ListItem\">7 L'article 12 de la directive 2009/103, intitulé « Catégories spécifiques de victimes », prévoit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Sans préjudice de l'article 13, paragraphe 1, deuxième alinéa, l'assurance visée à l'article 3  couvre la responsabilité des dommages corporels de tous les passagers autres que le conducteur  résultant de la circulation d'un véhicule.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2. Les membres de la famille du preneur, du conducteur ou de toute autre personne dont la  responsabilité civile est engagée dans un sinistre et couverte par l'assurance visée à l'article 3 ne  peuvent être exclus en raison de ce lien de parenté du bénéfice de l'assurance pour leurs  dommages corporels.</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">3. L'assurance visée à l'article 3 couvre les dommages corporels et matériels subis par les piétons,  les cyclistes et les autres usagers de la route non motorisés qui, à la suite d'un accident impliquant  un véhicule automoteur, ont droit à une indemnisation conformément au droit civil national.</li></ul></li></ul></p>",
+      "page": 152,
+      "polygon": [
+        [
+          25.609375,
+          255.724609375
+        ],
+        [
+          548.5782470703125,
+          255.724609375
+        ],
+        [
+          548.5782470703125,
+          494.82861328125
+        ],
+        [
+          25.609375,
+          494.82861328125
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        255.724609375,
+        548.5782470703125,
+        494.82861328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Le présent article ne préjuge ni la responsabilité civile ni le montant de l'indemnisation. »</p>",
+      "page": 152,
+      "polygon": [
+        [
+          48.890625,
+          509.2131042480469
+        ],
+        [
+          503.8589782714844,
+          509.2131042480469
+        ],
+        [
+          503.8589782714844,
+          521.4739990234375
+        ],
+        [
+          48.890625,
+          521.4739990234375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        509.2131042480469,
+        503.8589782714844,
+        521.4739990234375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/ListGroup/152",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">8 Aux termes de l'article 13 de cette directive, intitulé « Clauses d'exclusion » : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1. Chaque État membre prend toutes les mesures appropriées pour que, aux fins de  l'application de l'article 3, soit réputée sans effet, en ce qui concerne le recours des tiers victimes  d'un sinistre, toute disposition légale ou clause contractuelle contenue dans une police  d'assurance délivrée conformément à l'article 3 qui exclut de l'assurance l'utilisation ou la  conduite de véhicules par :</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">a) des personnes n'y étant ni expressément ni implicitement autorisées ;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">b) des personnes non titulaires d'un permis leur permettant de conduire le véhicule concerné ;</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">c) des personnes qui ne se sont pas conformées aux obligations légales d'ordre technique  concernant l'état et la sécurité du véhicule concerné.</li></ul></li></ul></p>",
+      "page": 152,
+      "polygon": [
+        [
+          25.609375,
+          534.8837890625
+        ],
+        [
+          548.5475463867188,
+          534.8837890625
+        ],
+        [
+          548.5475463867188,
+          722.9613571166992
+        ],
+        [
+          25.609375,
+          722.9613571166992
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        534.8837890625,
+        548.5475463867188,
+        722.9613571166992
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/17",
+      "block_type": "Text",
+      "html": "",
+      "page": 152,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          804.17578125
+        ],
+        [
+          49.606197357177734,
+          804.17578125
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6883544921875,
+        804.17578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Toutefois, la disposition ou la clause visée au premier alinéa, point a), peut être opposée aux  personnes ayant de leur plein gré pris place dans le véhicule qui a causé le dommage, lorsque  l'assureur peut prouver qu'elles savaient que le véhicule était volé.</p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.5364990234375,
+          83.4599609375
+        ],
+        [
+          548.5364990234375,
+          123.71820068359375
+        ],
+        [
+          47.7265625,
+          123.71820068359375
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.5364990234375,
+        123.71820068359375
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">[...]</p>",
+      "page": 153,
+      "polygon": [
+        [
+          47.435546875,
+          136.49609375
+        ],
+        [
+          65.98676300048828,
+          136.49609375
+        ],
+        [
+          65.98676300048828,
+          150.36358642578125
+        ],
+        [
+          47.435546875,
+          150.36358642578125
+        ]
+      ],
+      "bbox": [
+        47.435546875,
+        136.49609375,
+        65.98676300048828,
+        150.36358642578125
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/152",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. Les États membres prennent les mesures nécessaires pour que toute disposition légale ou toute  clause contractuelle contenue dans une police d'assurance, qui exclut un passager de cette  couverture d'assurance au motif qu'il savait ou aurait dû savoir que le conducteur du véhicule  était sous l'influence de l'alcool ou d'une drogue au moment de l'accident, soit réputée sans effet  en ce qui concerne le recours de ce passager. »</li><li block-type=\"ListItem\">9 Ainsi qu'il résulte de son article 29, la directive 2009/103 a abrogé et remplacé la  directive 72/166/CEE du Conseil, du 24 avril 1972, concernant le rapprochement des législations  des États membres relatives à l'assurance de la responsabilité civile résultant de la circulation de  véhicules automoteurs, et au contrôle de l'obligation d'assurer cette responsabilité (JO 1972,  L 103, p. 1), la deuxième directive 84/5/CEE du Conseil, du 30 décembre 1983, concernant le  rapprochement des législations des États membres relatives à l'assurance de la responsabilité  civile résultant de la circulation des véhicules automoteurs (JO 1984, L 8, p. 17), la troisième  directive 90/232/CEE du Conseil, du 14 mai 1990, concernant le rapprochement des législations  des États membres relatives à l'assurance de la responsabilité civile résultant de la circulation des  véhicules automoteurs (JO 1990, L 129, p. 33), la directive 2000/26/CE du Parlement européen et  du Conseil, du 16 mai 2000, concernant le rapprochement des législations des États membres  relatives à l'assurance de la responsabilité civile résultant de la circulation des véhicules  automoteurs et modifiant les directives 73/239/CEE et 88/357/CEE du Conseil (quatrième  directive sur l'assurance automobile) (JO 2000, L 181, p. 65), ainsi que la directive 2005/14/CE du  Parlement européen et du Conseil, du 11 mai 2005, modifiant les  directives 72/166/CEE, 84/5/CEE, 88/357/CEE et 90/232/CEE du Conseil et la  directive 2000/26/CE du Parlement européen et du Conseil sur l'assurance de la responsabilité  civile résultant de la circulation des véhicules automoteurs (JO 2005, L 149, p. 14), telles que  modifiées par les directives visées à l'annexe I, partie A, de cette directive 2009/103.</li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.929100036621094,
+          163.2197265625
+        ],
+        [
+          548.5585327148438,
+          163.2197265625
+        ],
+        [
+          548.5585327148438,
+          501.9716796875
+        ],
+        [
+          26.929100036621094,
+          501.9716796875
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        163.2197265625,
+        548.5585327148438,
+        501.9716796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/1/SectionHeader/5",
+        "2": "/page/1/SectionHeader/8",
+        "3": "/page/1/SectionHeader/9",
+        "4": "/page/3/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Le droit néerlandais</i></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          47.14453125,
+          525.0166015625
+        ],
+        [
+          158.80665588378906,
+          525.0166015625
+        ],
+        [
+          158.80665588378906,
+          538.1989440917969
+        ],
+        [
+          47.14453125,
+          538.1989440917969
+        ]
+      ],
+      "bbox": [
+        47.14453125,
+        525.0166015625,
+        158.80665588378906,
+        538.1989440917969
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/ListGroup/153",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">10 L'article 4, paragraphe 1, de la Wet betreffende verplichte verzekering tegen wettelijke  aansprakelijkheid inzake motorrijtuigen (loi relative à l'assurance obligatoire de la responsabilité  civile en matière de véhicules automoteurs), du 30 mai 1963 (Stb. 1963, no 228), dans sa version  applicable au litige au principal (ci-après la « WAM »), est libellé comme suit : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« L'assurance ne doit pas couvrir la responsabilité des dommages subis par le conducteur du véhicule  automoteur qui a provoqué l'accident. »</li></ul></li></ul></p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.929100036621094,
+          552.5625
+        ],
+        [
+          548.5303344726562,
+          552.5625
+        ],
+        [
+          548.5303344726562,
+          641.5232849121094
+        ],
+        [
+          26.929100036621094,
+          641.5232849121094
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        552.5625,
+        548.5303344726562,
+        641.5232849121094
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Le litige au principal et les questions préjudicielles</b></h1>",
+      "page": 153,
+      "polygon": [
+        [
+          48.890625,
+          666.03515625
+        ],
+        [
+          323.609375,
+          666.03515625
+        ],
+        [
+          323.609375,
+          679.3091583251953
+        ],
+        [
+          48.890625,
+          679.3091583251953
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        666.03515625,
+        323.609375,
+        679.3091583251953
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">11 À la fin de l'année 2016, ED a été victime d'un accident de la circulation alors qu'il était au volant  d'un minibus appartenant à un club de football dans lequel avaient pris place un ancien entraîneur  de ce club et deux membres de ce dernier. Alors que le minibus circulait à une vitesse d'environ  70 km/h, l'ancien entraîneur, qui était assis à l'arrière sur la droite, a soudainement tiré le frein à  main du véhicule. Le minibus a dérapé et a heurté plusieurs piliers. ED ainsi que le membre du</p>",
+      "page": 153,
+      "polygon": [
+        [
+          26.7734375,
+          693.6942443847656
+        ],
+        [
+          548.5696411132812,
+          693.6942443847656
+        ],
+        [
+          548.5696411132812,
+          760.2096328735352
+        ],
+        [
+          26.7734375,
+          760.2096328735352
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        693.6942443847656,
+        548.5696411132812,
+        760.2096328735352
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 153,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          223.49999999999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          223.49999999999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        223.49999999999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">club qui avait pris place sur le siège passager avant ont été éjectés. Ce dernier est décédé des suites  de ses blessures. ED a été grièvement blessé et garde, à titre permanent, de très graves séquelles de  cet accident. L'ancien entraîneur et l'autre membre du club ont été légèrement blessés.</p>",
+      "page": 158,
+      "polygon": [
+        [
+          47.7265625,
+          83.4599609375
+        ],
+        [
+          548.5585327148438,
+          83.4599609375
+        ],
+        [
+          548.5585327148438,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.4599609375,
+        548.5585327148438,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/ListGroup/158",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">12 Le club de football propriétaire du minibus avait souscrit une assurance de la responsabilité civile  résultant de la circulation de véhicules automoteurs auprès de Reaal Schadeverzekering, laquelle a  ensuite fusionné avec Nationale Nederlanden. Ce club avait également souscrit une assurance  pour les dommages des passagers et du conducteur auprès de Nationale Nederlanden (ci-après  l'« assurance dommages »).</li><li block-type=\"ListItem\">13 Pour ses propres dommages résultant de l'accident, ED, représenté par Stichting Koskea qui  administre ses biens et défend ses intérêts, a demandé à Nationale Nederlanden de le couvrir au  titre de cette assurance dommages. Au mois de janvier 2020, l'avocat de cette compagnie a  informé ED qu'il n'était pas couvert au titre de ladite assurance dommages, le rapport de police  relatif aux circonstances de l'accident établissant qu'il avait pris place au volant du minibus après  avoir consommé de l'alcool et en étant sous l'influence de celui-ci. L'avocat a également indiqué  qu'il n'était pas non plus couvert au titre de l'assurance obligatoire de la responsabilité civile  prévue par la WAM, celle-ci ne couvrant pas les dommages subis par le conducteur.</li><li block-type=\"ListItem\">14 Stichting Koskea, agissant au nom et pour le compte de ED, a introduit un recours devant le  rechtbank Noord-Nederland (tribunal des Pays-Bas du Nord, Pays-Bas), visant à ce qu'il soit dit  pour droit que Nationale Nederlanden est, en vertu de la WAM, tenue d'indemniser le dommage  présent et à venir de l'intéressé. Au soutien de ce recours, cette fondation a notamment fait valoir  que l'exclusion de la couverture, par l'assurance obligatoire de la responsabilité civile résultant de  la circulation de véhicules automoteurs, des dommages subis par le conducteur du véhicule,  prévue à l'article 4, paragraphe 1, de la WAM, ne s'appliquait pas en l'occurrence étant donné  que, bien que ED ait été au volant du véhicule au moment de l'accident, il ne pouvait plus être  considéré comme en étant le conducteur, au sens de cette disposition, car, en tirant le frein à  main, l'ancien entraîneur s'était comporté comme le conducteur.</li><li block-type=\"ListItem\">15 Par jugement du 22 octobre 2020, cette juridiction a accueilli ce recours. Elle a considéré, en  substance, que, à partir du moment où l'ancien entraîneur a tiré le frein à main, ED n'était plus  en mesure de conduire effectivement le minibus et, en conséquence, il ne pouvait plus être  considéré comme étant son conducteur, au sens de l'article 4, paragraphe 1, de la WAM.</li><li block-type=\"ListItem\">16 Nationale Nederlanden a interjeté appel de ce jugement devant le Gerechtshof  Arnhem-Leeuwarden (cour d'appel d'Arnhem-Leeuwarden, Pays-Bas). Par arrêt du  13 décembre 2022, cette juridiction a annulé ledit jugement au motif, en substance, que ED  n'avait pas perdu sa qualité de conducteur du fait de l'actionnement du frein à main par l'ancien  entraîneur. À cet égard, elle a relevé qu'il était resté la personne qui avait pris place derrière le  volant sur le siège du conducteur, qu'il avait mis en marche le véhicule, qu'il en avait déterminé la  vitesse et qu'il avait choisi la direction du trajet. Ainsi, selon cette juridiction, il actionnait les  commandes du véhicule et le fait que l'ancien entraîneur ait tiré soudainement le frein à main et  ainsi effectué une action de conduite n'y changeait rien.</li><li block-type=\"ListItem\">17 Stichting Koskea s'est pourvue en cassation devant le Hoge Raad der Nederlanden (Cour suprême  des Pays-Bas), qui est la juridiction de renvoi. Devant celui-ci, elle soutient que ED ne pouvait plus  être considéré comme étant le conducteur du minibus après que l'ancien entraîneur eut tiré le  frein à main, cette action l'ayant privé de la possibilité de conduire effectivement ce véhicule.</li></ul></p>",
+      "page": 158,
+      "polygon": [
+        [
+          25.609375,
+          137.318359375
+        ],
+        [
+          548.5696411132812,
+          137.318359375
+        ],
+        [
+          548.5696411132812,
+          736.3416290283203
+        ],
+        [
+          25.609375,
+          736.3416290283203
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        137.318359375,
+        548.5696411132812,
+        736.3416290283203
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 158,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          792.5512275695801
+        ],
+        [
+          545.9453125,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.9453125,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/ListGroup/150",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">18 La juridiction de renvoi expose que, par l'article 4, paragraphe 1, de la WAM, le législateur  néerlandais a transposé l'article 1er, premier alinéa, de la directive 90/232, devenu l'article 12,  paragraphe 1, de la directive 2009/103, selon lequel l'assurance obligatoire de la responsabilité  civile relative à la circulation des véhicules doit couvrir la responsabilité des dommages corporels  de tous les passagers, à l'exception du conducteur. Elle relève que, cependant, cette notion de  « conducteur » n'est définie ni dans cette dernière directive ni dans les directives que celle-ci a  remplacées.</li><li block-type=\"ListItem\">19 Dans sa jurisprudence en la matière, la Cour aurait toujours souligné l'importance de la protection  des passagers victimes d'un accident de la circulation ainsi que l'objectif de garantir que  l'assurance obligatoire de la responsabilité civile résultant de la circulation des véhicules  automoteurs permette à tous les passagers victimes d'un accident de la circulation causé par un  véhicule d'être indemnisés des dommages qu'ils ont subis. Néanmoins, il ressortirait également  de cette jurisprudence que l'article 12, paragraphe 1, de la directive 2009/103 distingue le  conducteur des autres passagers.</li><li block-type=\"ListItem\">20 Au regard de ces éléments, la juridiction de renvoi se demande si l'article 12, paragraphe 1, de la  directive 2009/103 doit être interprété en ce sens que l'assurance obligatoire de la responsabilité  civile visée à cette disposition doit couvrir la responsabilité des dommages subis par le  conducteur initial du véhicule concerné lorsqu'un passager est intervenu dans la conduite de ce  véhicule et que cette intervention a provoqué un accident. Si tel est le cas, elle estime que se pose  la question de savoir si le droit de l'Union impose certaines exigences dont elle devrait tenir  compte afin de déterminer si, dans les circonstances en cause au principal, la personne qui était  au volant du véhicule au moment de l'accident a perdu sa qualité de conducteur et peut, par  suite, prétendre à la protection découlant de la directive 2009/103.</li><li block-type=\"ListItem\">21 Dans ces conditions, le Hoge Raad der Nederlanden (Cour suprême des Pays-Bas) a décidé de  surseoir à statuer et de poser à la Cour les questions préjudicielles suivantes : <ul><li block-type=\"ListItem\" class=\"list-indent-1\">« 1) L'article 12, paragraphe 1, de la [directive 2009/103] doit-il être interprété en ce sens que  l'assurance obligatoire doit couvrir la responsabilité des dommages subis par le conducteur  (initial) dans un cas où un passager intervient dans la conduite du véhicule automoteur et où  cette intervention provoque un accident ?</li></ul><ul><li block-type=\"ListItem\" class=\"list-indent-1\">2) En cas de réponse affirmative à la première question, le droit de l'Union impose-t-il alors  certaines exigences dont la juridiction nationale doit tenir compte pour déterminer si un  conducteur, au sens de l'article 12, paragraphe 1, de la directive 2009/103, a perdu cette  qualité dans les circonstances de l'espèce et peut prétendre à la protection des passagers en  vertu de la règle générale ? »</li></ul></li></ul></p>",
+      "page": 150,
+      "polygon": [
+        [
+          26.7734375,
+          84.2822265625
+        ],
+        [
+          548.572021484375,
+          84.2822265625
+        ],
+        [
+          548.572021484375,
+          604.1326141357422
+        ],
+        [
+          26.7734375,
+          604.1326141357422
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        84.2822265625,
+        548.572021484375,
+        604.1326141357422
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "4": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/7",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Sur les questions préjudicielles</b></h3>",
+      "page": 150,
+      "polygon": [
+        [
+          48.890625,
+          629.1754913330078
+        ],
+        [
+          217.04962158203125,
+          629.1754913330078
+        ],
+        [
+          217.04962158203125,
+          641.4364013671875
+        ],
+        [
+          48.890625,
+          641.4364013671875
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        629.1754913330078,
+        217.04962158203125,
+        641.4364013671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/7"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/SectionHeader/8",
+      "block_type": "SectionHeader",
+      "html": "<h3><i>Sur la première question</i></h3>",
+      "page": 150,
+      "polygon": [
+        [
+          48.30859375,
+          665.4015350341797
+        ],
+        [
+          182.0557861328125,
+          665.4015350341797
+        ],
+        [
+          182.0557861328125,
+          677.6624450683594
+        ],
+        [
+          48.30859375,
+          677.6624450683594
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        665.4015350341797,
+        182.0557861328125,
+        677.6624450683594
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">22 Par sa première question, la juridiction de renvoi demande, en substance, si l'article 12,  paragraphe 1, de la directive 2009/103 doit être interprété en ce sens que les dommages subis par  le conducteur du seul véhicule impliqué dans un accident de la circulation ne doivent pas être</p>",
+      "page": 150,
+      "polygon": [
+        [
+          26.929100036621094,
+          691.525390625
+        ],
+        [
+          548.572021484375,
+          691.525390625
+        ],
+        [
+          548.572021484375,
+          730.9555435180664
+        ],
+        [
+          26.929100036621094,
+          730.9555435180664
+        ]
+      ],
+      "bbox": [
+        26.929100036621094,
+        691.525390625,
+        548.572021484375,
+        730.9555435180664
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/5/Text/10",
+      "block_type": "Text",
+      "html": "",
+      "page": 150,
+      "polygon": [
+        [
+          48.890625,
+          791.4306640625
+        ],
+        [
+          547.109375,
+          791.4306640625
+        ],
+        [
+          547.109375,
+          803.2128295898438
+        ],
+        [
+          48.890625,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        791.4306640625,
+        547.109375,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          222.91796874999997,
+          41.5244140625
+        ],
+        [
+          373.4064025878906,
+          41.5244140625
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        41.5244140625,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">couverts par l'assurance obligatoire de la responsabilité civile résultant de la circulation de  véhicules automoteurs prévue par cette directive, même lorsqu'un passager est intervenu dans la  conduite de ce véhicule et que cette intervention a provoqué cet accident.</p>",
+      "page": 162,
+      "polygon": [
+        [
+          47.7265625,
+          83.87109375
+        ],
+        [
+          548.5376586914062,
+          83.87109375
+        ],
+        [
+          548.5376586914062,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.87109375,
+        548.5376586914062,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/ListGroup/162",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">23 Conformément à la jurisprudence constante, il y a lieu, pour l'interprétation d'une disposition du  droit de l'Union, de tenir compte non seulement des termes de celle-ci, mais également de son  contexte et des objectifs poursuivis par la réglementation dont elle fait partie (voir arrêts du  17 novembre 1983, Merck, 292/82, EU:C:1983:335, point 12, ainsi que du 30 octobre 2025,  Killybegs Fishing Enterprises e.a., C-546/24, EU:C:2025:844, point 16).</li><li block-type=\"ListItem\">24 Il est également de jurisprudence constante que la détermination de la signification et de la portée  des termes pour lesquels le droit de l'Union ne fournit aucune définition et ne renvoie pas au droit  des États membres doit être établie conformément au sens habituel de ceux-ci dans le langage  courant, tout en tenant compte du contexte dans lequel ils sont utilisés et des objectifs poursuivis  par la réglementation dont ils font partie (voir, en ce sens, arrêts du 18 octobre 2011, Brüstle,  C-34/10, EU:C:2011:669, points 25 et 31 ainsi que jurisprudence citée, et du 5 septembre 2024,  BIOR, C-344/23, EU:C:2024:696, point 40).</li><li block-type=\"ListItem\">25 En premier lieu, s'agissant des termes de l'article 12, paragraphe 1, de la directive 2009/103, il  convient de rappeler que, selon cette disposition, sans préjudice de l'article 13, paragraphe 1,  deuxième alinéa, de cette directive, qui énonce une exception dépourvue de pertinence dans le  cadre de l'affaire au principal, l'assurance visée à l'article 3 de ladite directive couvre la  responsabilité des dommages corporels de « tous les passagers autres que le conducteur »  résultant de la circulation d'un véhicule.</li><li block-type=\"ListItem\">26 Aux termes de l'article 3, premier alinéa, de la même directive, sous réserve de l'application de  l'article 5 de cette dernière, qui prévoit des dérogations à l'obligation d'assurance des véhicules  qui ne sont pas davantage pertinentes pour l'affaire au principal, chaque État membre prend  toutes les mesures appropriées pour que la responsabilité civile relative à la circulation des  véhicules ayant leur stationnement habituel sur son territoire soit couverte par une assurance.</li><li block-type=\"ListItem\">27 À l'instar des directives qu'elle a remplacées, la directive 2009/103 ne définit ni le terme  « conducteur » ni le terme « passager » et ne renvoie pas non plus au droit des États membres  pour en définir la portée. En ce qui concerne le sens habituel de ces termes dans le langage  courant, il y a lieu de relever que le terme « conducteur » vise une personne qui conduit ou dirige  quelque chose ou quelqu'un. En relation avec un véhicule, ce terme vise la personne qui est placée  au volant ou aux commandes de celui-ci et qui le dirige. Le terme « passager » vise, quant à lui, une  personne qui est transportée à bord d'un véhicule et qui ne le dirige pas.</li><li block-type=\"ListItem\">28 Au vu de ces éléments, il est possible de déduire des termes de l'article 12, paragraphe 1, de la  directive 2009/103 que, tout d'abord, il peut y avoir, dans un véhicule, plusieurs « passagers  autres que le conducteur », mais, en principe, il ne peut y avoir qu'un seul conducteur à la fois.  Ensuite, sous réserve de cas spécifiques, notamment la pratique de la conduite assistée visant à  obtenir un permis de conduire, qui peuvent être soumis à des règles particulières, le terme  « conducteur » vise habituellement la personne qui est placée aux commandes ou au volant du  véhicule et en assure la direction, tandis que le terme « passager » vise une personne qui est  placée ailleurs dans le véhicule concerné et qui ne le dirige pas. Enfin, cette disposition ne prévoit  pas que la responsabilité des dommages subis par le « conducteur » du véhicule doit être couverte  par l'assurance visée à l'article 3 de ladite directive.</li></ul></p>",
+      "page": 162,
+      "polygon": [
+        [
+          26.7734375,
+          135.673828125
+        ],
+        [
+          548.5753173828125,
+          135.673828125
+        ],
+        [
+          548.5753173828125,
+          736.3407897949219
+        ],
+        [
+          26.7734375,
+          736.3407897949219
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        135.673828125,
+        548.5753173828125,
+        736.3407897949219
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/6/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 162,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 165,
+      "polygon": [
+        [
+          222.62695312499997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.62695312499997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.62695312499997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/ListGroup/165",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">29 En deuxième lieu, s'agissant du contexte dans lequel l'article 12, paragraphe 1, de la  directive 2009/103 s'insère, il y a lieu de relever, premièrement, que la notion de « véhicule » est  définie à l'article 1er, point 1, de cette directive comme visant tout véhicule automoteur destiné à  circuler sur le sol et qui peut être actionné par une force mécanique, sans être lié à une voie  ferrée, ainsi que les remorques, même non attelées.</li><li block-type=\"ListItem\">30 Un véhicule, au sens de cette directive, étant ainsi nécessairement actionné par une force  mécanique (voir, en ce sens, arrêt du 12 octobre 2023, KBC Verzekeringen, C-286/22,  EU:C:2023:767, points 37, 38 et 40), tout véhicule en circulation a, en principe, à l'exception des  véhicules auto-conduisants, un conducteur ainsi qu'un poste de pilotage et ce conducteur est la  personne qui, à l'intérieur du véhicule, actionne ou est en position d'actionner la force  mécanique de celui-ci aux fins de sa circulation, en étant placé à son volant.</li><li block-type=\"ListItem\">31 Deuxièmement, si l'article 3, quatrième alinéa, de la directive 2009/103 dispose que l'assurance  visée au premier alinéa couvre obligatoirement les dommages matériels et les dommages  corporels, il résulte d'une lecture combinée de cette disposition avec l'article 12, paragraphe 1, de  cette directive qu'il s'agit, en particulier, des dommages corporels de « tous les passagers autres  que le conducteur ».</li><li block-type=\"ListItem\">32 Troisièmement, aux termes de l'article 12, paragraphe 2, de ladite directive, les membres de la  famille du preneur, du conducteur ou de toute autre personne dont la responsabilité civile est  engagée dans un sinistre et couverte par l'assurance visée à l'article 3 de la même directive ne  peuvent, en raison de ce lien de parenté, être exclus du bénéfice de l'assurance pour leurs  dommages corporels. En outre, selon l'article 12, paragraphe 3, premier alinéa, de la  directive 2009/103, l'assurance visée à l'article 3 de celle-ci couvre les dommages corporels et  matériels subis par les piétons, les cyclistes et les autres usagers de la route non motorisés qui, à  la suite d'un accident impliquant un véhicule automoteur, ont droit à une indemnisation  conformément au droit civil national. Par ailleurs, l'article 13, paragraphe 3, de cette directive  précise que les États membres prennent les mesures nécessaires pour que toute disposition légale  ou toute clause contractuelle contenue dans une police d'assurance qui exclut un passager de cette  couverture d'assurance au motif qu'il savait ou aurait dû savoir que le conducteur du véhicule était  sous l'influence de l'alcool ou d'une drogue au moment de l'accident soit réputée sans effet en ce  qui concerne le recours de ce passager.</li><li block-type=\"ListItem\">33 Ces dispositions, à l'instar de l'article 12, paragraphe 1, de la directive 2009/103, distinguent le  conducteur du véhicule des autres personnes pouvant avoir pris place dans ce véhicule ainsi que  des autres usagers de la route ne se trouvant pas dans le véhicule, mais pouvant être affectés par  un accident de la circulation impliquant un véhicule. Ainsi, les catégories de victimes d'un  accident sont, en substance, déterminées par opposition au conducteur du véhicule impliqué dans  celui-ci.</li><li block-type=\"ListItem\">34 Quatrièmement, il importe de relever que, conformément à l'article 12, paragraphe 3, second  alinéa, de cette directive, l'article 12 de celle-ci ne préjuge ni la responsabilité civile ni le montant  de l'indemnisation. Partant, le rôle que l'un ou l'autre occupant du véhicule, tel que, en  l'occurrence, le passager ayant tiré le frein à main, peut avoir tenu dans le déroulement de  l'accident et, partant, dans la survenance de dommages, est susceptible, suivant le régime de  responsabilité civile en vigueur dans l'État membre sur le territoire duquel l'accident est survenu,  de déterminer quelle personne est civilement responsable pour l'accident et d'avoir une influence  sur l'étendue de l'indemnisation. Cependant, ces derniers aspects sont distincts de l'étendue  personnelle de la couverture par l'assurance obligatoire prévue par la directive 2009/103.</li></ul></p>",
+      "page": 165,
+      "polygon": [
+        [
+          25.609375,
+          84.2822265625
+        ],
+        [
+          548.5658569335938,
+          84.2822265625
+        ],
+        [
+          548.5658569335938,
+          760.2083358764648
+        ],
+        [
+          25.609375,
+          760.2083358764648
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        84.2822265625,
+        548.5658569335938,
+        760.2083358764648
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/7/Text/7",
+      "block_type": "Text",
+      "html": "",
+      "page": 165,
+      "polygon": [
+        [
+          49.606197357177734,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          803.2128295898438
+        ],
+        [
+          49.606197357177734,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        791.4306640625,
+        545.9453125,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 168,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/ListGroup/168",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">35 À cet égard, la Cour a itérativement jugé que l'obligation de couverture par l'assurance de la  responsabilité civile des dommages causés aux tiers du fait des véhicules automoteurs est  distincte de l'étendue de l'indemnisation de ces dommages au titre de la responsabilité civile. En  effet, alors que la première est définie et garantie par la réglementation de l'Union, la seconde est  régie, essentiellement, par le droit national (arrêts du 17 mars 2011, Carvalho Ferreira Santos,  C-484/09, EU:C:2011:158, point 31, et du 12 octobre 2023, KBC Verzekeringen, C-286/22,  EU:C:2023:767, point 23 ainsi que jurisprudence citée).</li><li block-type=\"ListItem\">36 L'ensemble de ces éléments textuels et contextuels indique ainsi que l'article 12, paragraphe 1, de  la directive 2009/103 doit être interprété en ce sens que l'intervention d'un passager dans la  conduite d'un véhicule, qui provoque un accident, ne peut avoir pour conséquence de priver le  conducteur de ce véhicule de sa qualité de conducteur, sauf à porter atteinte à la fois à la  distinction fondamentale entre conducteur et tiers victime, qui caractérise le système d'assurance  obligatoire de la responsabilité civile résultant de la circulation de véhicules automoteurs mis en  place par cette directive, et à la distinction entre l'obligation de couverture par cette assurance et  l'étendue de l'indemnisation des dommages au titre de la responsabilité civile pour l'accident, qui  est régie par le droit national.</li><li block-type=\"ListItem\">37 En troisième lieu, force est de constater que cette interprétation est corroborée par les objectifs  poursuivis par la directive 2009/103.</li><li block-type=\"ListItem\">38 D'une part, certes, il ressort de l'évolution de la réglementation de l'Union en matière d'assurance  obligatoire de la responsabilité civile résultant de la circulation des véhicules automoteurs que  l'objectif de protection des victimes d'accidents causés par ces véhicules a constamment été  poursuivi et renforcé par le législateur de l'Union (arrêts du 20 décembre 2017, Núñez Torreiro,  C-334/16, EU:C:2017:1007, point 27 et jurisprudence citée, ainsi que du 30 avril 2025, Nastolo,  C-370/24, EU:C:2025:300, point 39).</li><li block-type=\"ListItem\">39 Toutefois, ainsi que l'a relevé, en substance, M. l'avocat général au point 40 de ses conclusions, il  serait porté atteinte à cet objectif si, en fonction de circonstances factuelles aléatoires, la personne  assise au volant d'un véhicule pouvait perdre sa qualité de conducteur en raison de l'intervention  d'un passager dans la conduite de ce véhicule. En effet, dès lors que, ainsi que cela a été constaté  aux points 28 et 30 du présent arrêt, tout véhicule a, en principe, à l'exception des véhicules  auto-conduisants, un conducteur, le fait de priver de sa qualité de conducteur la personne placée  au volant du véhicule aurait pour conséquence que c'est ce passager qui revêtirait alors la qualité  de conducteur et serait, par suite, exclu de la protection que cette directive vise à accorder aux  tiers victimes, dont les passagers.</li><li block-type=\"ListItem\">40 En outre, l'insécurité juridique qui résulterait d'une telle possibilité est, en elle-même,  incompatible avec ledit objectif.</li><li block-type=\"ListItem\">41 D'autre part, ainsi que l'a relevé M. l'avocat général au point 38 de ses conclusions, l'évolution  législative visée au point 38 du présent arrêt a également été marquée par l'exclusion, constante  et explicite depuis l'adoption de la directive 90/232, de la couverture, par l'assurance obligatoire  de la responsabilité civile prévue par le droit de l'Union, des dommages subis par le conducteur,  l'unique distinction admise par cette réglementation ayant toujours été celle entre conducteur,  d'un côté, et passager ou autre tiers victime, d'un autre côté (voir, en ce sens, arrêt du  1er décembre 2011, Churchill Insurance Company Limited et Evans, C-442/10, EU:C:2011:799,  points 27 à 31 ainsi que jurisprudence citée).</li></ul></p>",
+      "page": 168,
+      "polygon": [
+        [
+          24.4453125,
+          83.4599609375
+        ],
+        [
+          548.572021484375,
+          83.4599609375
+        ],
+        [
+          548.572021484375,
+          736.3412322998047
+        ],
+        [
+          24.4453125,
+          736.3412322998047
+        ]
+      ],
+      "bbox": [
+        24.4453125,
+        83.4599609375,
+        548.572021484375,
+        736.3412322998047
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/8/Text/8",
+      "block_type": "Text",
+      "html": "",
+      "page": 168,
+      "polygon": [
+        [
+          49.606197357177734,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          792.5512275695801
+        ],
+        [
+          545.6883544921875,
+          803.7646484375
+        ],
+        [
+          49.606197357177734,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        792.5512275695801,
+        545.6883544921875,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 148,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/ListGroup/148",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">42 En outre, rien dans cette évolution législative ne fait apparaître qu'il était dans l'intention du  législateur de l'Union d'harmoniser l'obligation d'assurer la responsabilité civile résultant de la  circulation de véhicules automoteurs au-delà de la couverture des dommages causés aux tiers et  une telle intention ne ressort pas davantage de la directive 2009/103. Le considérant 21 de  celle-ci indique d'ailleurs qu'il convient d'accorder aux membres de la famille du preneur, du  conducteur ou de toute autre personne responsable une protection comparable à celle « des  autres tiers victimes », en tout cas en ce qui concerne leurs dommages corporels. De manière  similaire, le considérant 23 de cette directive se réfère à l'extension de la couverture d'assurance  « à tous les passagers d'un véhicule » tout en précisant, en substance, que le caractère en principe  inefficient d'une législation nationale ou d'une clause contractuelle excluant la couverture par  l'assurance obligatoire de la responsabilité civile en ce qui concerne les « recours de tiers  victimes » dans certaines circonstances ne préjuge en rien, notamment, la responsabilité qui  pourrait être imputée aux passagers concernés en vertu de la législation nationale applicable.</li><li block-type=\"ListItem\">43 La question de l'obligation éventuelle de couvrir, par une assurance, les dommages subis par le  conducteur d'un véhicule seul impliqué dans un accident de la circulation demeure, par  conséquent, en l'état actuel du droit de l'Union, régie par les droits nationaux des États membres.</li><li block-type=\"ListItem\">44 Eu égard à l'ensemble des considérations qui précèdent, il convient de répondre à la première  question que l'article 12, paragraphe 1, de la directive 2009/103 doit être interprété en ce sens  que les dommages subis par le conducteur du seul véhicule impliqué dans un accident de la  circulation ne doivent pas être couverts par l'assurance obligatoire de la responsabilité civile  résultant de la circulation de véhicules automoteurs prévue par cette directive, même lorsqu'un  passager est intervenu dans la conduite de ce véhicule et que cette intervention a provoqué cet  accident.</li></ul></p>",
+      "page": 148,
+      "polygon": [
+        [
+          25.609375,
+          84.35821533203125
+        ],
+        [
+          548.5524291992188,
+          84.35821533203125
+        ],
+        [
+          548.5524291992188,
+          419.0870361328125
+        ],
+        [
+          25.609375,
+          419.0870361328125
+        ]
+      ],
+      "bbox": [
+        25.609375,
+        84.35821533203125,
+        548.5524291992188,
+        419.0870361328125
+      ],
+      "section_hierarchy": {
+        "1": "/page/3/SectionHeader/8",
+        "3": "/page/5/SectionHeader/8",
+        "4": "/page/6/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h1><i>Sur la seconde question</i></h1>",
+      "page": 148,
+      "polygon": [
+        [
+          48.30859375,
+          442.37890625
+        ],
+        [
+          175.47903442382812,
+          442.37890625
+        ],
+        [
+          175.47903442382812,
+          455.3143005371094
+        ],
+        [
+          48.30859375,
+          455.3143005371094
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        442.37890625,
+        175.47903442382812,
+        455.3143005371094
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">45 Compte tenu de la réponse apportée à la première question préjudicielle, il n'y a pas lieu de  répondre à la seconde question posée.</p>",
+      "page": 148,
+      "polygon": [
+        [
+          26.7734375,
+          467.4580078125
+        ],
+        [
+          548.5328369140625,
+          467.4580078125
+        ],
+        [
+          548.5328369140625,
+          495.39666748046875
+        ],
+        [
+          26.7734375,
+          495.39666748046875
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        467.4580078125,
+        548.5328369140625,
+        495.39666748046875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/6",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Sur les dépens</b></h3>",
+      "page": 148,
+      "polygon": [
+        [
+          48.30859375,
+          520.4959716796875
+        ],
+        [
+          127.11837005615234,
+          520.4959716796875
+        ],
+        [
+          127.11837005615234,
+          532.7568664550781
+        ],
+        [
+          48.30859375,
+          532.7568664550781
+        ]
+      ],
+      "bbox": [
+        48.30859375,
+        520.4959716796875,
+        127.11837005615234,
+        532.7568664550781
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">46 La procédure revêtant, à l'égard des parties au principal, le caractère d'un incident soulevé devant  la juridiction de renvoi, il appartient à celle-ci de statuer sur les dépens. Les frais exposés pour  soumettre des observations à la Cour, autres que ceux desdites parties, ne peuvent faire l'objet  d'un remboursement.</p>",
+      "page": 148,
+      "polygon": [
+        [
+          26.7734375,
+          547.1422424316406
+        ],
+        [
+          548.5463256835938,
+          547.1422424316406
+        ],
+        [
+          548.5463256835938,
+          599.7672424316406
+        ],
+        [
+          26.7734375,
+          599.7672424316406
+        ]
+      ],
+      "bbox": [
+        26.7734375,
+        547.1422424316406,
+        548.5463256835938,
+        599.7672424316406
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Par ces motifs, la Cour (quatrième chambre) dit pour droit :</p>",
+      "page": 148,
+      "polygon": [
+        [
+          48.890625,
+          613.8212890625
+        ],
+        [
+          353.8236083984375,
+          613.8212890625
+        ],
+        [
+          353.8236083984375,
+          626.4126281738281
+        ],
+        [
+          48.890625,
+          626.4126281738281
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        613.8212890625,
+        353.8236083984375,
+        626.4126281738281
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>L'article 12, paragraphe 1, de la directive 2009/103/CE du Parlement européen et du </b> <b>Conseil, du 16 septembre 2009, concernant l'assurance de la responsabilité civile résultant </b> <b>de la circulation de véhicules automoteurs et le contrôle de l'obligation d'assurer cette </b> <b>responsabilité,</b></p>",
+      "page": 148,
+      "polygon": [
+        [
+          47.7265625,
+          640.7971038818359
+        ],
+        [
+          548.447021484375,
+          640.7971038818359
+        ],
+        [
+          548.447021484375,
+          693.5810546875
+        ],
+        [
+          47.7265625,
+          693.5810546875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        640.7971038818359,
+        548.447021484375,
+        693.5810546875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/6"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/SectionHeader/10",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>doit être interprété en ce sens que :</b></h3>",
+      "page": 148,
+      "polygon": [
+        [
+          48.890625,
+          707.8078460693359
+        ],
+        [
+          239.1940155029297,
+          707.8078460693359
+        ],
+        [
+          239.1940155029297,
+          720.0687484741211
+        ],
+        [
+          48.890625,
+          720.0687484741211
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        707.8078460693359,
+        239.1940155029297,
+        720.0687484741211
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/11",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>les dommages subis par le conducteur du seul véhicule impliqué dans un accident de la </b> <b>circulation ne doivent pas être couverts par l'assurance obligatoire de la responsabilité </b></p>",
+      "page": 148,
+      "polygon": [
+        [
+          48.890625,
+          734.283203125
+        ],
+        [
+          548.444580078125,
+          734.283203125
+        ],
+        [
+          548.444580078125,
+          760.2072372436523
+        ],
+        [
+          48.890625,
+          760.2072372436523
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        734.283203125,
+        548.444580078125,
+        760.2072372436523
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/9/Text/12",
+      "block_type": "Text",
+      "html": "",
+      "page": 148,
+      "polygon": [
+        [
+          48.890625,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          792.5512275695801
+        ],
+        [
+          545.687255859375,
+          803.7646484375
+        ],
+        [
+          48.890625,
+          803.7646484375
+        ]
+      ],
+      "bbox": [
+        48.890625,
+        792.5512275695801,
+        545.687255859375,
+        803.7646484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "",
+      "page": 23,
+      "polygon": [
+        [
+          222.91796874999997,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          40.7021484375
+        ],
+        [
+          373.4064025878906,
+          60.19732666015625
+        ],
+        [
+          222.91796874999997,
+          60.19732666015625
+        ]
+      ],
+      "bbox": [
+        222.91796874999997,
+        40.7021484375,
+        373.4064025878906,
+        60.19732666015625
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>civile résultant de la circulation de véhicules automoteurs prévue par cette directive, même </b> <b>lorsqu'un passager est intervenu dans la conduite de ce véhicule et que cette intervention a </b> <b>provoqué cet accident.</b></p>",
+      "page": 23,
+      "polygon": [
+        [
+          47.7265625,
+          83.048828125
+        ],
+        [
+          548.4469604492188,
+          83.048828125
+        ],
+        [
+          548.4469604492188,
+          123.2645263671875
+        ],
+        [
+          47.7265625,
+          123.2645263671875
+        ]
+      ],
+      "bbox": [
+        47.7265625,
+        83.048828125,
+        548.4469604492188,
+        123.2645263671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Signatures</p>",
+      "page": 23,
+      "polygon": [
+        [
+          49.606197357177734,
+          149.83758544921875
+        ],
+        [
+          103.892578125,
+          149.83758544921875
+        ],
+        [
+          103.892578125,
+          162.0985107421875
+        ],
+        [
+          49.606197357177734,
+          162.0985107421875
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        149.83758544921875,
+        103.892578125,
+        162.0985107421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/10/Text/3",
+      "block_type": "Text",
+      "html": "",
+      "page": 23,
+      "polygon": [
+        [
+          49.606197357177734,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          791.4306640625
+        ],
+        [
+          545.9453125,
+          803.2128295898438
+        ],
+        [
+          49.606197357177734,
+          803.2128295898438
+        ]
+      ],
+      "bbox": [
+        49.606197357177734,
+        791.4306640625,
+        545.9453125,
+        803.2128295898438
+      ],
+      "section_hierarchy": {
+        "1": "/page/9/SectionHeader/4",
+        "3": "/page/9/SectionHeader/10",
+        "4": "/page/10/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "5": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "6": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "7": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "8": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "9": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "10": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

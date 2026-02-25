@@ -1,0 +1,1373 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/Picture/0",
+      "block_type": "Picture",
+      "html": "<p><img src='/page/0/Picture/0'></p>",
+      "page": 120,
+      "polygon": [
+        [
+          29.508984375,
+          17.39091796875
+        ],
+        [
+          135.787890625,
+          17.39091796875
+        ],
+        [
+          135.787890625,
+          59.90205078125
+        ],
+        [
+          29.508984375,
+          59.90205078125
+        ]
+      ],
+      "bbox": [
+        29.508984375,
+        17.39091796875,
+        135.787890625,
+        59.90205078125
+      ],
+      "section_hierarchy": {},
+      "images": {
+        "/page/0/Picture/0": "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"
+      }
+    },
+    {
+      "id": "/page/0/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><b>Fallbericht -</b> <b>AKTUALISIERUNG -</b><b> </b>17. Januar 2017</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          123.320068359375
+        ],
+        [
+          535.46875,
+          123.320068359375
+        ],
+        [
+          535.46875,
+          135.320068359375
+        ],
+        [
+          69.84375,
+          135.320068359375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        123.320068359375,
+        535.46875,
+        135.320068359375
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Bußgeldverfahren gegen Hersteller von Süßwaren</b></h3>",
+      "page": 120,
+      "polygon": [
+        [
+          69.26171875,
+          177.6192626953125
+        ],
+        [
+          332.6141052246094,
+          177.6192626953125
+        ],
+        [
+          332.6141052246094,
+          188.7099609375
+        ],
+        [
+          69.26171875,
+          188.7099609375
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        177.6192626953125,
+        332.6141052246094,
+        188.7099609375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Branche: Herstellung von Süßwaren</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.42578125,
+          205.1552734375
+        ],
+        [
+          341.65234375,
+          205.1552734375
+        ],
+        [
+          341.65234375,
+          219.3792724609375
+        ],
+        [
+          70.42578125,
+          219.3792724609375
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        205.1552734375,
+        341.65234375,
+        219.3792724609375
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Aktenzeichen: B11-11/08</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.26171875,
+          236.4013671875
+        ],
+        [
+          261.923095703125,
+          236.4013671875
+        ],
+        [
+          261.923095703125,
+          249.97930908203125
+        ],
+        [
+          69.26171875,
+          249.97930908203125
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        236.4013671875,
+        261.923095703125,
+        249.97930908203125
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum der  Januar 2013 und Juni 2014</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.94400024414062,
+          267.6474609375
+        ],
+        [
+          344.3720703125,
+          267.6474609375
+        ],
+        [
+          344.3720703125,
+          280.72930908203125
+        ],
+        [
+          70.94400024414062,
+          280.72930908203125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        267.6474609375,
+        344.3720703125,
+        280.72930908203125
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Entscheidungen:</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.94400024414062,
+          282.037109375
+        ],
+        [
+          154.23828125,
+          282.037109375
+        ],
+        [
+          154.23828125,
+          293.548828125
+        ],
+        [
+          70.94400024414062,
+          293.548828125
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        282.037109375,
+        154.23828125,
+        293.548828125
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die Kartellverfahren gegen Hersteller von Süßwaren haben hinsichtlich des Tatkomplexes  \"Vierer-Runde\" im Dezember 2016 ihren gerichtlichen Abschluss gefunden, nachdem die <i>Nestlé </i> <i>Kaffee und Schokoladen GmbH</i> ihren Einspruch gegen den Bußgeldbescheid des  Bundeskartellamtes zurückgenommen hat. Hinsichtlich des Tatkomplexes  \"Konditionenvereinigung\" wird das Oberlandesgericht Düsseldorf über die Einsprüche von vier  Unternehmen und einem Verband voraussichtlich noch im Januar 2017 entscheiden.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          69.84375,
+          336.7177734375
+        ],
+        [
+          541.7341918945312,
+          336.7177734375
+        ],
+        [
+          541.7341918945312,
+          443.32928466796875
+        ],
+        [
+          69.84375,
+          443.32928466796875
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        336.7177734375,
+        541.7341918945312,
+        443.32928466796875
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/8",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Bundeskartellamt hatte am 31. Januar 2013 die Bußgeldverfahren gegen Markenhersteller  von Süßwaren abgeschlossen und Geldbußen in Höhe von insgesamt rund 63 Mio. Euro gegen  12 Unternehmen sowie deren verantwortliche Vertriebsmitarbeiter verhängt. Eingeleitet worden  waren die Verfahren nach einem Bonusantrag der <i>Mars GmbH.</i> Nachdem das Bundeskartellamt  im Februar 2008 branchenweit Durchsuchungen durchgeführt hatte, folgten Bonusanträge  weiterer Unternehmen.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.94400024414062,
+          463.3892822265625
+        ],
+        [
+          541.6978759765625,
+          463.3892822265625
+        ],
+        [
+          541.6978759765625,
+          569.2293090820312
+        ],
+        [
+          70.94400024414062,
+          569.2293090820312
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        463.3892822265625,
+        541.6978759765625,
+        569.2293090820312
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Fokus der Ermittlungen standen Absprachen über Preiserhöhungen bei Schokoladenwaren  zum Jahresbeginn 2008. Im Jahre 2007 waren die Preise für die Rohstoffe Milch und Kakao  deutlich angestiegen. Die Hersteller von Schokoladenwaren hatten zu entscheiden, ob und  wieweit sie die gestiegenen Rohstoffkosten über Preiserhöhungen an den Lebensmittelhandel  und letztendlich an den Endverbraucher weitergeben konnten. In dieser Situation stimmten sich  einzelne Hersteller in direkten und vertraulichen Kontakten mit ihren Wettbewerbern über den  Zeitpunkt und den Umfang von Preiserhöhungen ab. Darüber hinaus haben Süßwarenhersteller  in verschiedenen Gesprächskreisen wettbewerblich sensible Informationen, insbesondere über  den Stand der Jahresgespräche mit Einzelhändlern, ausgetauscht.</p>",
+      "page": 120,
+      "polygon": [
+        [
+          70.94400024414062,
+          582.986328125
+        ],
+        [
+          541.7487182617188,
+          582.986328125
+        ],
+        [
+          541.7487182617188,
+          746.0152893066406
+        ],
+        [
+          70.94400024414062,
+          746.0152893066406
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        582.986328125,
+        541.7487182617188,
+        746.0152893066406
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 120,
+      "polygon": [
+        [
+          300.328125,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          797.8918685913086
+        ],
+        [
+          300.328125,
+          797.8918685913086
+        ]
+      ],
+      "bbox": [
+        300.328125,
+        787.9318695068359,
+        307.5277404785156,
+        797.8918685913086
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Einzelnen wurden drei verschiedene Tatkomplexe verfolgt und bebußt: Erstens  Preisabsprachen zwischen zwei Tafelschokoladenherstellern. Zweitens Preisabsprachen sowie  zusätzlich ein wettbewerbswidriger Informationsaustausch zwischen Herstellern von Süßwaren  im Rahmen einer sogenannten \"Vierer Runde\". Drittens ein wettbewerbswidriger  Informationsaustausch zwischen verschiedenen Süßwarenherstellern im Rahmen eines  Arbeitskreises der Konditionenvereinigung der Deutschen Süßwarenindustrie e.V.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          70.94400024414062,
+          121.6953125
+        ],
+        [
+          541.6944580078125,
+          121.6953125
+        ],
+        [
+          541.6944580078125,
+          229.0992431640625
+        ],
+        [
+          70.94400024414062,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        121.6953125,
+        541.6944580078125,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "3": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Wettbewerbsverhältnisse bei Süßwaren </b></h2>",
+      "page": 125,
+      "polygon": [
+        [
+          69.26171875,
+          242.568359375
+        ],
+        [
+          281.3111877441406,
+          242.568359375
+        ],
+        [
+          281.3111877441406,
+          254.05926513671875
+        ],
+        [
+          69.26171875,
+          254.05926513671875
+        ]
+      ],
+      "bbox": [
+        69.26171875,
+        242.568359375,
+        281.3111877441406,
+        254.05926513671875
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Süßwaren können unterteilt werden in Schokoladenwaren, Zuckerwaren und Süßgebäck.  Schokoladenwaren werden als Tafelschokolade, Schokoladenriegel, sog. Schoko-Bites und  Pralinen angeboten.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          70.94400024414062,
+          268.1292724609375
+        ],
+        [
+          541.7279663085938,
+          268.1292724609375
+        ],
+        [
+          541.7279663085938,
+          317.0892333984375
+        ],
+        [
+          70.94400024414062,
+          317.0892333984375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        268.1292724609375,
+        541.7279663085938,
+        317.0892333984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Die genannten Preisabsprachen sowie der Informationsaustausch erfolgten meist zwischen  unmittelbaren Wettbewerbern, so beispielsweise zwischen Herstellern von Tafelschokolade,  Schokoladenriegeln oder Süßgebäck. Daneben bestanden zwischen den beteiligten  Süßwarenherstellern über die einzelnen Produktkategorien hinweg auch mittelbare  Wettbewerbsbeziehungen, da diese jedenfalls um den Regalplatz im Lebensmitteleinzelhandel,  insbesondere bei sogenannten Sonderplatzierungen, konkurrieren. Bei Süßwaren handelt es  sich im Wesentlichen um Impulsartikel. Dies sind aus Sicht der Endverbraucher Artikel ohne  feststehenden Bedarf, deren Kauf in der Regel ungeplant und spontan erfolgt. Aufgrund dieser  Eigenschaft werden Süßwaren in den Filialen des Lebensmitteleinzelhandels neben der  normalen Regalplatzierung auf Sonder- und Aktionsflächen sowie im Kassenbereich prominent  positioniert, wobei der Anteil der Süßwarenverkäufe über Sonderplatzierungen je nach  Süßwarenkategorie bis zu 50 % der Verkäufe dieser Produkte betragen kann. Während die  Regalplatzierungen der einzelnen Süßwaren zumindest kurzfristig statisch sind, können  Sonder- und Aktionsflächen vom Lebensmitteleinzelhandel mit unterschiedlichen  Süßwarenkategorien bestückt werden.</p>",
+      "page": 125,
+      "polygon": [
+        [
+          69.84375,
+          331.00927734375
+        ],
+        [
+          541.7490844726562,
+          331.00927734375
+        ],
+        [
+          541.7490844726562,
+          608.4765625
+        ],
+        [
+          69.84375,
+          608.4765625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        331.00927734375,
+        541.7490844726562,
+        608.4765625
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Preisabsprachen bei Tafelschokolade (Geldbußen von rund 21,7 Mio. Euro)</b></h3>",
+      "page": 125,
+      "polygon": [
+        [
+          69.84375,
+          621.5792846679688
+        ],
+        [
+          463.29687499999994,
+          621.5792846679688
+        ],
+        [
+          463.29687499999994,
+          632.7333984375
+        ],
+        [
+          69.84375,
+          632.7333984375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        621.5792846679688,
+        463.29687499999994,
+        632.7333984375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\" class=\"has-continuation\">Im ersten Tatkomplex hatten sich je ein Verantwortlicher der <i>Kraft Foods Deutschland GmbH</i> sowie der <i>Alfred Ritter GmbH &amp; Co. KG</i> in mehreren Telefonaten zwischen März und  September 2007 gegenseitig über die für Anfang 2008 jeweils beabsichtigte Preiserhöhung für  Tafelschokoladen informiert. Kraft mit der Marke \"Milka\" sowie Ritter mit der Marke \"Ritter Sport\"  sind die beiden Marktführer bei Tafelschokoladen in Deutschland. Tatsächlich wurden die  Herstellerabgabe-Preise für die 100g-Tafeln der Unternehmen gegenüber dem  Lebensmitteleinzelhandel Anfang 2008 um 15-25 % angehoben, die von den Herstellern</p>",
+      "page": 125,
+      "polygon": [
+        [
+          69.84375,
+          650.1231842041016
+        ],
+        [
+          541.7471923828125,
+          650.1231842041016
+        ],
+        [
+          541.7471923828125,
+          775.396484375
+        ],
+        [
+          69.84375,
+          775.396484375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        650.1231842041016,
+        541.7471923828125,
+        775.396484375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 125,
+      "polygon": [
+        [
+          301.989990234375,
+          787.9318695068359
+        ],
+        [
+          307.89453125,
+          787.9318695068359
+        ],
+        [
+          307.89453125,
+          797.8918685913086
+        ],
+        [
+          301.989990234375,
+          797.8918685913086
+        ]
+      ],
+      "bbox": [
+        301.989990234375,
+        787.9318695068359,
+        307.89453125,
+        797.8918685913086
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">empfohlenen Endverbraucherpreise um 10-15 Cent. Nachweisbar war dieser Sachverhalt nur  durch einen Bonusantrag von <i>Ritter.</i></p>",
+      "page": 143,
+      "polygon": [
+        [
+          70.94400024414062,
+          121.2841796875
+        ],
+        [
+          541.7376098632812,
+          121.2841796875
+        ],
+        [
+          541.7376098632812,
+          153.25927734375
+        ],
+        [
+          70.94400024414062,
+          153.25927734375
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        121.2841796875,
+        541.7376098632812,
+        153.25927734375
+      ],
+      "section_hierarchy": {
+        "2": "/page/1/SectionHeader/1",
+        "3": "/page/1/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Gesprächskreis \"Vierer-Runde\": Preisabsprachen und Informationsaustausch </b> <b>(Geldbußen in Höhe von rund 21,9 Mio. Euro) </b></h1>",
+      "page": 143,
+      "polygon": [
+        [
+          70.94400024414062,
+          166.919921875
+        ],
+        [
+          541.59130859375,
+          166.919921875
+        ],
+        [
+          541.59130859375,
+          197.05926513671875
+        ],
+        [
+          70.94400024414062,
+          197.05926513671875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        166.919921875,
+        541.59130859375,
+        197.05926513671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der zweite Tatkomplex betraf einen informellen Gesprächskreis von hochrangigen  Vertriebsmitarbeitern der Süßwarenhersteller <i>Mars GmbH, Nestlé Kaffee und Schokoladen </i> <i>GmbH, der Alfred Ritter GmbH &amp; Co. KG</i> und der <i>Haribo GmbH &amp; Co. KG</i>. Diese sogenannte  \"Vierer-Runde\" traf sich zwischen Frühjahr 2006 und Februar 2008 regelmäßig in Abständen  von etwa drei Monaten.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          69.84375,
+          210.9111328125
+        ],
+        [
+          541.6998291015625,
+          210.9111328125
+        ],
+        [
+          541.6998291015625,
+          298.1292724609375
+        ],
+        [
+          69.84375,
+          298.1292724609375
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        210.9111328125,
+        541.6998291015625,
+        298.1292724609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Im Rahmen dieser Vierer-Runde stimmten sich die Vertreter der Schokoladenwarenhersteller  <i>Mars, Nestlé </i>und <i>Ritter </i>zwischen Januar und August des Jahres 2007 über von ihnen  beabsichtigte Preiserhöhungen für Schokoladenprodukte ab. Die Abstimmung betraf den  Zeitpunkt der beabsichtigten Preiserhöhungen (Januar 2008) sowie den Umfang beabsichtigter  Erhöhungen der sogenannten Fabrik- oder Herstellerabgabepreise. <i>Mars</i> und <i>Nestlé</i> zählen zu  den führenden Anbietern von Schokoladenriegeln und sog. Schoko-Bites mit bekannten Marken  wie u.a. Mars, Bounty, Milky Way, Snickers, Twix, Balisto, M&amp;M's (<i>Mars</i>) sowie KitKat, Lion,  Nuts, Choco Crossies oder Smarties (<i>Nestlé</i>). Die Preiserhöhungen bei diesen Mars-/Nestlé-Produkten betrugen Anfang 2008 durchschnittlich etwa 10 % und wurden teilweise auch über  eine Verringerung des Verpackungsinhalts (sog. \"Downsizing\") umgesetzt.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          68.6796875,
+          311.2275390625
+        ],
+        [
+          541.7577514648438,
+          311.2275390625
+        ],
+        [
+          541.7577514648438,
+          494.5927734375
+        ],
+        [
+          68.6796875,
+          494.5927734375
+        ]
+      ],
+      "bbox": [
+        68.6796875,
+        311.2275390625,
+        541.7577514648438,
+        494.5927734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Darüber hinaus wurden bei den Treffen der Vierer-Runde wettbewerblich sensible  Informationen über den Stand und den Verlauf der jeweiligen Verhandlungen mit verschiedenen  großen Einzelhändlern ausgetauscht. An diesem Informationsaustausch beteiligte sich neben  den drei Schokoladenwarenherstellern auch ein Vertriebsmitarbeiter von <i>Haribo</i>. Die  Unternehmen informierten sich über die Rabattforderungen des Einzelhandels gegenüber den  anderen Süßwarenherstellern sowie deren Reaktionen auf diese Forderungen. Auf diese Weise  konnte die eigene Strategie in den Verhandlungen beeinflusst werden.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          70.94400024414062,
+          506.515625
+        ],
+        [
+          541.710205078125,
+          506.515625
+        ],
+        [
+          541.710205078125,
+          632.7392883300781
+        ],
+        [
+          70.94400024414062,
+          632.7392883300781
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        506.515625,
+        541.710205078125,
+        632.7392883300781
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/5",
+      "block_type": "SectionHeader",
+      "html": "<h1><b>Informationsaustausch in einem Arbeitskreis der Konditionenvereinigung e.V.</b> <b>(Geldbußen in Höhe von rund 19,6 Mio. Euro)</b></h1>",
+      "page": 143,
+      "polygon": [
+        [
+          70.94400024414062,
+          646.30078125
+        ],
+        [
+          538.9609375,
+          646.30078125
+        ],
+        [
+          538.9609375,
+          676.5392913818359
+        ],
+        [
+          70.94400024414062,
+          676.5392913818359
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        646.30078125,
+        538.9609375,
+        676.5392913818359
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Auch im Rahmen von Sitzungen eines Arbeitskreises der Konditionenvereinigung der  Deutschen Süßwarenindustrie e.V. wurden zumindest seit Ende 2003 bis Anfang 2008  Informationen über Verhandlungen mit den Lebensmitteleinzelhandel bei Jahresgesprächen zu  Konditionen und Sonderforderungen sowie über beabsichtigte Erhöhungen der Listenpreise  ausgetauscht.</p>",
+      "page": 143,
+      "polygon": [
+        [
+          70.94400024414062,
+          689.880859375
+        ],
+        [
+          541.542724609375,
+          689.880859375
+        ],
+        [
+          541.542724609375,
+          777.5752868652344
+        ],
+        [
+          70.94400024414062,
+          777.5752868652344
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        689.880859375,
+        541.542724609375,
+        777.5752868652344
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/7",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 143,
+      "polygon": [
+        [
+          299.74609375,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          797.8918685913086
+        ],
+        [
+          299.74609375,
+          797.8918685913086
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        787.9318695068359,
+        307.5277404785156,
+        797.8918685913086
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/0",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Der Arbeitskreis der Konditionenvereinigung traf sich regelmäßig bis zu fünf Mal im Jahr. Die  Mitglieder der Konditionenvereinigung waren Hersteller aus allen Produktkategorien des  Süßwarenbereiches, das heißt sowohl von Schokoladenprodukten als auch von Zuckerwaren  und Süßgebäck. Die teilnehmenden Vertreter der Unternehmen hatten mindestens die Position  eines Verkaufsleiters in ihrem Unternehmen inne, in kleineren Unternehmen waren es oftmals  die Geschäftsführer.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          122.517578125
+        ],
+        [
+          541.6834716796875,
+          122.517578125
+        ],
+        [
+          541.6834716796875,
+          229.0992431640625
+        ],
+        [
+          70.94400024414062,
+          229.0992431640625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        122.517578125,
+        541.6834716796875,
+        229.0992431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Beteiligt an dem wettbewerbswidrigen Informationsaustausch waren neben <i>Mars</i> und <i>Ritter</i> die  führenden Hersteller von Süßgebäck, die <i>Bahlsen GmbH &amp; Co. KG und </i>die <i>Griesson de </i> <i>Beukelaer GmbH &amp; Co. KG, </i>sowie die Unternehmen <i>Storck GmbH &amp; Co. KG, Katjes Fassin </i> <i>GmbH + Co. KG, CFP Brands Süßwarenhandels GmbH &amp; Co. KG, Feodora Chocolade GmbH </i> <i>&amp; Co. KG, Piasten GmbH &amp; Co. KG </i>und <i>Zentis GmbH &amp; Co. KG</i>. In Ergänzung zu den gegen  diese Unternehmen erlassenen Bußgeldbescheiden wurde im Juni 2014 auch gegen den  Bundesverband der Deutschen Süßwarenindustrie e.V. (BDSI) ein Bußgeld verhängt, weil Verantwortliche des BDSI diesen wettbewerbswidrigen Informationsaustausch förderten, auch  wenn der Informationstausch auf Sitzungen der rechtlich selbständigen Konditionenvereinigung  der Deutschen Süßwarenindustrie e.V. stattfand.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          69.84375,
+          242.568359375
+        ],
+        [
+          541.7471923828125,
+          242.568359375
+        ],
+        [
+          541.7471923828125,
+          424.9692687988281
+        ],
+        [
+          69.84375,
+          424.9692687988281
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        242.568359375,
+        541.7471923828125,
+        424.9692687988281
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>Bonusanträge und Settlements</b></h4>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          438.7892761230469
+        ],
+        [
+          233.50802612304688,
+          438.7892761230469
+        ],
+        [
+          233.50802612304688,
+          449.82928466796875
+        ],
+        [
+          70.94400024414062,
+          449.82928466796875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        438.7892761230469,
+        233.50802612304688,
+        449.82928466796875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "4": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Dem Unternehmen <i>Mars</i> wurde das Bußgeld in Anwendung der Bonusregelung des  Bundeskartellamtes vollständig, dem Unternehmen Ritter nur in Bezug auf die bilaterale  Preisabsprache mit <i>Kraft</i> erlassen. Bei der Bußgeldfestsetzung wurde weiterhin berücksichtigt,  dass die Unternehmen <i>Ritter</i>, <i>Nestlé</i>, <i>Kraft</i> und <i>Katjes</i> bei der Aufklärung der jeweiligen  Sachverhalte mit dem Bundeskartellamt kooperiert haben Die Verfahren gegen die  Unternehmen <i>Kraft,</i> <i>Haribo</i>, <i>Storck,</i> <i>Katjes</i>, <i>Piasten</i> und <i>Zentis</i> konnten im Wege der  einvernehmlichen Verfahrensbeendigung (sog. Settlement) abgeschlossen werden. Diese Bußgeldbescheide sind inzwischen rechtskräftig. Gegen die übrigen Bescheide wurden zunächst Einsprüche eingelegt, über die das Oberlandesgericht Düsseldorf zu entscheiden hat.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          463.8531799316406
+        ],
+        [
+          541.709228515625,
+          463.8531799316406
+        ],
+        [
+          541.709228515625,
+          627.388671875
+        ],
+        [
+          70.94400024414062,
+          627.388671875
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        463.8531799316406,
+        541.709228515625,
+        627.388671875
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "4": "/page/3/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/SectionHeader/4",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Einspruchsrücknahmen</b></h2>",
+      "page": 175,
+      "polygon": [
+        [
+          70.42578125,
+          640.1337890625
+        ],
+        [
+          196.2480010986328,
+          640.1337890625
+        ],
+        [
+          196.2480010986328,
+          651.5792846679688
+        ],
+        [
+          70.42578125,
+          651.5792846679688
+        ]
+      ],
+      "bbox": [
+        70.42578125,
+        640.1337890625,
+        196.2480010986328,
+        651.5792846679688
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Das Unternehmen <i>Ritter</i> hat seine Einsprüche gegen die Bußgeldbescheide in Sachen \"Vierer-Runde\" und \"Konditionenvereinigung\" bereits im Juli 2013 zurückgenommen. Im Dezember  2016 nahm auch <i>Nestlé </i>seinen Einspruch gegen den Bußgeldbescheid in Sachen \"Vierer-Runde\" zurück. Somit sind auch die Bußgeldbescheide gegen <i>Ritter</i> und <i>Nestlé</i> rechtskräftig.</p>",
+      "page": 175,
+      "polygon": [
+        [
+          70.94400024414062,
+          663.568359375
+        ],
+        [
+          541.7428588867188,
+          663.568359375
+        ],
+        [
+          541.7428588867188,
+          733.6592864990234
+        ],
+        [
+          70.94400024414062,
+          733.6592864990234
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        663.568359375,
+        541.7428588867188,
+        733.6592864990234
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/3/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 175,
+      "polygon": [
+        [
+          299.74609375,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          797.8918685913086
+        ],
+        [
+          299.74609375,
+          797.8918685913086
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        787.9318695068359,
+        307.5277404785156,
+        797.8918685913086
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h3><b>Gerichtliches Verfahren beim Tatkomplex \"Konditionenvereinigung\"</b></h3>",
+      "page": 27,
+      "polygon": [
+        [
+          70.94400024414062,
+          122.9287109375
+        ],
+        [
+          428.6199951171875,
+          122.9287109375
+        ],
+        [
+          428.6199951171875,
+          134.17926025390625
+        ],
+        [
+          70.94400024414062,
+          134.17926025390625
+        ]
+      ],
+      "bbox": [
+        70.94400024414062,
+        122.9287109375,
+        428.6199951171875,
+        134.17926025390625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/Text/1",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Über die Einsprüche der Unternehmen <i>Bahlsen</i>, <i>Griesson</i>, <i>CFP</i> und <i>Feodora</i> sowie des <i>BDSI</i> wird das Oberlandesgericht Düsseldorf voraussichtlich noch im Januar 2017 entscheiden.</p>",
+      "page": 27,
+      "polygon": [
+        [
+          69.84375,
+          147.185546875
+        ],
+        [
+          540.125,
+          147.185546875
+        ],
+        [
+          540.125,
+          178.431640625
+        ],
+        [
+          69.84375,
+          178.431640625
+        ]
+      ],
+      "bbox": [
+        69.84375,
+        147.185546875,
+        540.125,
+        178.431640625
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/4/PageFooter/2",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 27,
+      "polygon": [
+        [
+          299.74609375,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          787.9318695068359
+        ],
+        [
+          307.5277404785156,
+          797.8918685913086
+        ],
+        [
+          299.74609375,
+          797.8918685913086
+        ]
+      ],
+      "bbox": [
+        299.74609375,
+        787.9318695068359,
+        307.5277404785156,
+        797.8918685913086
+      ],
+      "section_hierarchy": {
+        "1": "/page/2/SectionHeader/5",
+        "2": "/page/3/SectionHeader/4",
+        "3": "/page/4/SectionHeader/0"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "3": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "4": {
+      "bbox": [
+        0.0,
+        0.0,
+        596.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          596.0,
+          0.0
+        ],
+        [
+          596.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}

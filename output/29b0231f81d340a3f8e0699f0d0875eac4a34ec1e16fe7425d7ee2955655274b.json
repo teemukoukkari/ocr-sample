@@ -1,0 +1,955 @@
+{
+  "blocks": [
+    {
+      "id": "/page/0/PageHeader/0",
+      "block_type": "PageHeader",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          89.19189453125001,
+          35.7685546875
+        ],
+        [
+          175.546142578125,
+          35.7685546875
+        ],
+        [
+          175.546142578125,
+          48.7479248046875
+        ],
+        [
+          89.19189453125001,
+          48.7479248046875
+        ]
+      ],
+      "bbox": [
+        89.19189453125001,
+        35.7685546875,
+        175.546142578125,
+        48.7479248046875
+      ],
+      "section_hierarchy": {},
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h2><b>Nederlandse Mededingingsautoriteit </b></h2>",
+      "page": 100,
+      "polygon": [
+        [
+          88.90136718750001,
+          80.58203125
+        ],
+        [
+          308.73126220703125,
+          80.58203125
+        ],
+        [
+          308.73126220703125,
+          93.97979736328125
+        ],
+        [
+          88.90136718750001,
+          93.97979736328125
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        80.58203125,
+        308.73126220703125,
+        93.97979736328125
+      ],
+      "section_hierarchy": {
+        "2": "/page/0/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/SectionHeader/2",
+      "block_type": "SectionHeader",
+      "html": "<h1><b> </b>BESLUIT</h1>",
+      "page": 100,
+      "polygon": [
+        [
+          90.71990203857422,
+          124.5732421875
+        ],
+        [
+          329.9505615234375,
+          124.5732421875
+        ],
+        [
+          329.9505615234375,
+          138.65789794921875
+        ],
+        [
+          90.71990203857422,
+          138.65789794921875
+        ]
+      ],
+      "bbox": [
+        90.71990203857422,
+        124.5732421875,
+        329.9505615234375,
+        138.65789794921875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/3",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Nummer 3064 / 526</p>",
+      "page": 100,
+      "polygon": [
+        [
+          90.72054290771484,
+          203.099609375
+        ],
+        [
+          169.0450439453125,
+          203.099609375
+        ],
+        [
+          169.0450439453125,
+          214.0777587890625
+        ],
+        [
+          90.72054290771484,
+          214.0777587890625
+        ]
+      ],
+      "bbox": [
+        90.72054290771484,
+        203.099609375,
+        169.0450439453125,
+        214.0777587890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Betreft zaak: 3064 - Asfaltzware wegenprojecten Noord-Nederland</p>",
+      "page": 100,
+      "polygon": [
+        [
+          89.48242187500001,
+          218.72265625
+        ],
+        [
+          355.1264343261719,
+          218.72265625
+        ],
+        [
+          355.1264343261719,
+          229.73797607421875
+        ],
+        [
+          89.48242187500001,
+          229.73797607421875
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        218.72265625,
+        355.1264343261719,
+        229.73797607421875
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit (als bedoeld  in artikel 62 van de Mededingingswet) tot wijziging van het besluit van de toenmalige  directeur-generaal van de Nederlandse Mededingingsautoriteit van 18 december 2003, met  kenmerk 3064/ 291.</p>",
+      "page": 100,
+      "polygon": [
+        [
+          89.48242187500001,
+          277.5146484375
+        ],
+        [
+          470.1515197753906,
+          277.5146484375
+        ],
+        [
+          470.1515197753906,
+          334.3777770996094
+        ],
+        [
+          89.48242187500001,
+          334.3777770996094
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        277.5146484375,
+        470.1515197753906,
+        334.3777770996094
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/ListGroup/100",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">1. Bij besluit van 18 december 2003 met kenmerk 3064/291 heeft de toenmalige  directeur-generaal van de Nederlandse Mededingingsautoriteit aan BAM NBM Wegenbouw  Noordoost B.V., statutair gevestigd te Bunnik, (hierna: de Onderneming) een boete opgelegd  van EUR 585.000 voor overtreding van artikel 6 Mededingingswet, wegens deelname aan  afspraken en gedragingen rond de aanbestedingen van het onderhoud van wegen in de  provincies Groningen, Friesland en Drenthe.</li><li block-type=\"ListItem\">2. De Nederlandse Mededingingsautoriteit heeft aangegeven, dat indien een bouwonderneming  een zelfstandige financiële bijdrage levert aan een collectieve regeling van financiële claims  van overheidsopdrachtgevers, 10% van die bijdrage in mindering wordt gebracht op de aan  een bouwonderneming opgelegde boete(s) in sanctiebesluiten d.d. 18 december 2003<sup>1</sup> . In het  geval dat aan een bouwonderneming in bedoelde zaken meerdere boetes zijn opgelegd,  wordt de boetemindering van 10% van bedoelde bijdrage naar evenredigheid omgeslagen  over de respectievelijke boetebedragen.</li></ul></p>",
+      "page": 100,
+      "polygon": [
+        [
+          89.48242187500001,
+          368.7861328125
+        ],
+        [
+          498.8273620605469,
+          368.7861328125
+        ],
+        [
+          498.8273620605469,
+          575.5859375
+        ],
+        [
+          89.48242187500001,
+          575.5859375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        368.7861328125,
+        498.8273620605469,
+        575.5859375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Text/9",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"></p>",
+      "page": 100,
+      "polygon": [
+        [
+          89.48242187500001,
+          691.9365234375
+        ],
+        [
+          93.507080078125,
+          691.9365234375
+        ],
+        [
+          93.507080078125,
+          705.7789611816406
+        ],
+        [
+          89.48242187500001,
+          705.7789611816406
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        691.9365234375,
+        93.507080078125,
+        705.7789611816406
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/10",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          289.50054931640625,
+          784.44140625
+        ],
+        [
+          496.7345275878906,
+          784.44140625
+        ],
+        [
+          496.7345275878906,
+          797.3678550720215
+        ],
+        [
+          289.50054931640625,
+          797.3678550720215
+        ]
+      ],
+      "bbox": [
+        289.50054931640625,
+        784.44140625,
+        496.7345275878906,
+        797.3678550720215
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/PageFooter/11",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 100,
+      "polygon": [
+        [
+          288.49365234375,
+          784.8525390625
+        ],
+        [
+          292.56103515625,
+          784.8525390625
+        ],
+        [
+          292.56103515625,
+          793.8974609375
+        ],
+        [
+          288.49365234375,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        288.49365234375,
+        784.8525390625,
+        292.56103515625,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/0/Footnote/8",
+      "block_type": "Footnote",
+      "html": "<p><sup>1</sup> Zaken 2873, 3054 en 3064</p>",
+      "page": 100,
+      "polygon": [
+        [
+          89.48242187500001,
+          708.79296875
+        ],
+        [
+          191.92788696289062,
+          708.79296875
+        ],
+        [
+          191.92788696289062,
+          720.5458984375
+        ],
+        [
+          89.48242187500001,
+          720.5458984375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        708.79296875,
+        191.92788696289062,
+        720.5458984375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h3>Openbare versie</h3>",
+      "page": 69,
+      "polygon": [
+        [
+          88.90136718750001,
+          36.5908203125
+        ],
+        [
+          175.54550170898438,
+          36.5908203125
+        ],
+        [
+          175.54550170898438,
+          48.747802734375
+        ],
+        [
+          88.90136718750001,
+          48.747802734375
+        ]
+      ],
+      "bbox": [
+        88.90136718750001,
+        36.5908203125,
+        175.54550170898438,
+        48.747802734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/ListGroup/69",
+      "block_type": "ListGroup",
+      "html": "<p block-type=\"ListGroup\"><ul><li block-type=\"ListItem\">3. De Raad van Bestuur van de Nederlandse Mededingingsautoriteit (hierna: de Raad) heeft  kennis genomen van het op 24 juni 2005 gesloten Akkoord Collectieve Regeling  Bouwnijverheid tussen vertegenwoordigers van Bouwend Nederland en de betrokken  overheden.</li><li block-type=\"ListItem\">4. De Raad heeft vastgesteld dat namens de Onderneming daadwerkelijk en onherroepelijk EUR  6.100.000 aan de Collectieve Regeling Bouwnijverheid is bijgedragen. Dientengevolge  vermindert de Raad de aan de Onderneming opgelegde boete met EUR 12.999,53, waardoor  een boetebedrag resteert van EUR 572.000,47.</li><li block-type=\"ListItem\">5. Voorts heeft de Raad vastgesteld dat aan de onderneming boetes zijn opgelegd in de  procedure naar aanleiding van het rapport in zaak 3183 (WO6/C6), 4155 (GWW), zaak 3150  (Installatie), zaak 3938_1 (B&amp;U) en zaak 4146 (Kabel- en Leidingwerken). In bedoelde zaken  heeft de onderneming deelgenomen aan de zogenoemde versnelde procedure.</li><li block-type=\"ListItem\">6. Nu tevens vaststaat dat de Onderneming voldoet aan de voorwaarde als genoemd in  randnummer 2, ziet de Raad aanleiding het boetebedrag als resterend in randnummer 4 van  dit besluit, te verminderen met 45%. Dit resulteert in een op te leggen boete van per saldo  EUR 314.600,26.</li></ul></p>",
+      "page": 69,
+      "polygon": [
+        [
+          88.32031250000001,
+          123.7509765625
+        ],
+        [
+          498.3936767578125,
+          123.7509765625
+        ],
+        [
+          498.3936767578125,
+          404.7577209472656
+        ],
+        [
+          88.32031250000001,
+          404.7577209472656
+        ]
+      ],
+      "bbox": [
+        88.32031250000001,
+        123.7509765625,
+        498.3936767578125,
+        404.7577209472656
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/5",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 69,
+      "polygon": [
+        [
+          290.1598815917969,
+          784.8525390625
+        ],
+        [
+          496.0858459472656,
+          784.8525390625
+        ],
+        [
+          496.0858459472656,
+          797.3677940368652
+        ],
+        [
+          290.1598815917969,
+          797.3677940368652
+        ]
+      ],
+      "bbox": [
+        290.1598815917969,
+        784.8525390625,
+        496.0858459472656,
+        797.3677940368652
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/1/PageFooter/6",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 69,
+      "polygon": [
+        [
+          289.07470703125,
+          784.8525390625
+        ],
+        [
+          294.30419921875,
+          784.8525390625
+        ],
+        [
+          294.30419921875,
+          793.8974609375
+        ],
+        [
+          289.07470703125,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        289.07470703125,
+        784.8525390625,
+        294.30419921875,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/1/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/0",
+      "block_type": "SectionHeader",
+      "html": "<h3>Openbare versie</h3>",
+      "page": 63,
+      "polygon": [
+        [
+          89.48242187500001,
+          35.7685546875
+        ],
+        [
+          175.54550170898438,
+          35.7685546875
+        ],
+        [
+          175.54550170898438,
+          48.747802734375
+        ],
+        [
+          89.48242187500001,
+          48.747802734375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        35.7685546875,
+        175.54550170898438,
+        48.747802734375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/1",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>BESLUIT </b></h4>",
+      "page": 63,
+      "polygon": [
+        [
+          90.71959686279297,
+          123.33984375
+        ],
+        [
+          130.5801544189453,
+          123.33984375
+        ],
+        [
+          130.5801544189453,
+          134.75775146484375
+        ],
+        [
+          90.71959686279297,
+          134.75775146484375
+        ]
+      ],
+      "bbox": [
+        90.71959686279297,
+        123.33984375,
+        130.5801544189453,
+        134.75775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/2",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">De Raad van Bestuur van de Nederlandse Mededingingsautoriteit wijzigt het besluit van 18  december 2003 met kenmerk 3064/291 in die zin dat hij aan BAM NBM Wegenbouw Noordoost  B.V., statutair gevestigd te Bunnik, een boete oplegt van</p>",
+      "page": 63,
+      "polygon": [
+        [
+          89.48242187500001,
+          168.1533203125
+        ],
+        [
+          493.0279235839844,
+          168.1533203125
+        ],
+        [
+          493.0279235839844,
+          209.75775146484375
+        ],
+        [
+          89.48242187500001,
+          209.75775146484375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        168.1533203125,
+        493.0279235839844,
+        209.75775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/1"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/SectionHeader/3",
+      "block_type": "SectionHeader",
+      "html": "<h4><b>EUR 314.600,26</b></h4>",
+      "page": 63,
+      "polygon": [
+        [
+          90.35400390625001,
+          228.58984375
+        ],
+        [
+          157.52694702148438,
+          228.58984375
+        ],
+        [
+          157.52694702148438,
+          239.75775146484375
+        ],
+        [
+          90.35400390625001,
+          239.75775146484375
+        ]
+      ],
+      "bbox": [
+        90.35400390625001,
+        228.58984375,
+        157.52694702148438,
+        239.75775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/4",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">Datum: 15 september 2006</p>",
+      "page": 63,
+      "polygon": [
+        [
+          90.35400390625001,
+          258.19140625
+        ],
+        [
+          206.5648193359375,
+          258.19140625
+        ],
+        [
+          206.5648193359375,
+          269.75775146484375
+        ],
+        [
+          90.35400390625001,
+          269.75775146484375
+        ]
+      ],
+      "bbox": [
+        90.35400390625001,
+        258.19140625,
+        206.5648193359375,
+        269.75775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/5",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">De Raad van Bestuur van de Nederlandse Mededingingsautoriteit,  namens deze,</p>",
+      "page": 63,
+      "polygon": [
+        [
+          89.48242187500001,
+          298.482421875
+        ],
+        [
+          368.3564758300781,
+          298.482421875
+        ],
+        [
+          368.3564758300781,
+          323.75775146484375
+        ],
+        [
+          89.48242187500001,
+          323.75775146484375
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        298.482421875,
+        368.3564758300781,
+        323.75775146484375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/6",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\">w.g. P. Kalbfleisch  Voorzitter Raad van Bestuur</p>",
+      "page": 63,
+      "polygon": [
+        [
+          89.48242187500001,
+          395.509765625
+        ],
+        [
+          210.1619873046875,
+          395.509765625
+        ],
+        [
+          210.1619873046875,
+          421.31793212890625
+        ],
+        [
+          89.48242187500001,
+          421.31793212890625
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        395.509765625,
+        210.1619873046875,
+        421.31793212890625
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/Text/7",
+      "block_type": "Text",
+      "html": "<p block-type=\"Text\"><i>Tegen dit besluit kan degene, wiens belang rechtsreeks bij dit besluit is betrokken, binnen zes weken na de </i> <i>dag van bekendmaking van dit besluit een gemotiveerd bezwaarschrift indienen bij de Raad van Bestuur </i> <i>van de Nederlandse Mededingingsautoriteit, Juridische Dienst, Postbus 16326, 2500 BH, Den Haag. In dit </i> <i>bezwaarschrift kan een belanghebbende op basis van artikel 7:1a, eerste lid, van de Algemene wet </i> <i>bestuursrecht, de Raad van Bestuur van de Nederlandse Mededingingsautoriteit verzoeken in te stemmen </i> <i>met rechtsreeks beroep bij de administratieve rechter. </i></p>",
+      "page": 63,
+      "polygon": [
+        [
+          89.48242187500001,
+          572.7080078125
+        ],
+        [
+          509.3235168457031,
+          572.7080078125
+        ],
+        [
+          509.3235168457031,
+          658.3394927978516
+        ],
+        [
+          89.48242187500001,
+          658.3394927978516
+        ]
+      ],
+      "bbox": [
+        89.48242187500001,
+        572.7080078125,
+        509.3235168457031,
+        658.3394927978516
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/8",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 63,
+      "polygon": [
+        [
+          290.5198974609375,
+          784.8525390625
+        ],
+        [
+          495.7858581542969,
+          784.8525390625
+        ],
+        [
+          495.7858581542969,
+          797.3677940368652
+        ],
+        [
+          290.5198974609375,
+          797.3677940368652
+        ]
+      ],
+      "bbox": [
+        290.5198974609375,
+        784.8525390625,
+        495.7858581542969,
+        797.3677940368652
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    },
+    {
+      "id": "/page/2/PageFooter/9",
+      "block_type": "PageFooter",
+      "html": "",
+      "page": 63,
+      "polygon": [
+        [
+          289.365234375,
+          784.8525390625
+        ],
+        [
+          294.013671875,
+          784.8525390625
+        ],
+        [
+          294.013671875,
+          793.8974609375
+        ],
+        [
+          289.365234375,
+          793.8974609375
+        ]
+      ],
+      "bbox": [
+        289.365234375,
+        784.8525390625,
+        294.013671875,
+        793.8974609375
+      ],
+      "section_hierarchy": {
+        "1": "/page/0/SectionHeader/2",
+        "3": "/page/2/SectionHeader/0",
+        "4": "/page/2/SectionHeader/3"
+      },
+      "images": {}
+    }
+  ],
+  "page_info": {
+    "0": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "1": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    },
+    "2": {
+      "bbox": [
+        0.0,
+        0.0,
+        595.0,
+        842.0
+      ],
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          595.0,
+          0.0
+        ],
+        [
+          595.0,
+          842.0
+        ],
+        [
+          0.0,
+          842.0
+        ]
+      ]
+    }
+  }
+}
